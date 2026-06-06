@@ -6,8 +6,6 @@ SOURCES = {
     "Portfolio": "https://www.portfolio.hu/rss",
     "444": "https://444.hu/feed",
     "HVG": "https://hvg.hu/rss",
-    "index": "https://index.hu/rss",
-
 
     "BBC": "https://feeds.bbci.co.uk/news/rss.xml",
     "TechCrunch": "https://techcrunch.com/feed/",

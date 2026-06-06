@@ -25,7 +25,7 @@ for name, url in SOURCES.items():
 
             data[name].append({
                 "title": entry.title,
-                "link": entry.link
+                "link": entry.link,
                 "published": getattr(entry, "published", "")
             })
 
@@ -33,10 +33,9 @@ for name, url in SOURCES.items():
 
         data[name] = [{
             "title": f"Error: {e}",
-            "link": "#"
+            "link": "#",
             "published": "-"
         }]
-
 
 
 

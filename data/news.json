@@ -210,5 +210,46 @@
       "importance": 0
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+      "link": "https://www.nature.com/articles/d41586-026-01831-y",
+      "published": "",
+      "summary": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01831-y\">doi:10.1038/d41586-026-01831-y</a></p>Nature staff discuss some of the week’s top science news.",
+      "ai_summary": "AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",
+      "importance": 0
+    },
+    {
+      "title": "First precise genome editing of human embryos triggers praise and alarm",
+      "link": "https://www.nature.com/articles/d41586-026-01827-8",
+      "published": "",
+      "summary": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01827-8\">doi:10.1038/d41586-026-01827-8</a></p>The ‘base editing’ technique that researchers used is far from ready for the clinic, but critics worry it will spur a rush to commercialization.",
+      "ai_summary": "AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",
+      "importance": 0
+    },
+    {
+      "title": "Europe is ditching US tech — what does this mean for researchers?",
+      "link": "https://www.nature.com/articles/d41586-026-01610-9",
+      "published": "",
+      "summary": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01610-9\">doi:10.1038/d41586-026-01610-9</a></p>European governments are choosing European digital tools — and some universities and researchers are doing the same.",
+      "ai_summary": "AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",
+      "importance": 0
+    },
+    {
+      "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
+      "link": "https://www.nature.com/articles/d41586-026-01609-2",
+      "published": "",
+      "summary": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01609-2\">doi:10.1038/d41586-026-01609-2</a></p>The month’s sharpest science shots, selected by Nature’s photo team.",
+      "ai_summary": "AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",
+      "importance": 0
+    },
+    {
+      "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
+      "link": "https://www.nature.com/articles/d41586-026-01781-5",
+      "published": "",
+      "summary": "<p>Nature, Published online: 05 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01781-5\">doi:10.1038/d41586-026-01781-5</a></p>Having fewer fossil-fuel powered cars on the road is reducing some pollutants, but not others.",
+      "ai_summary": "AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}",
+      "importance": 0
+    }
+  ]
 }

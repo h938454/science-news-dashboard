@@ -4,30 +4,61 @@
 <head>
 <meta charset="utf-8">
 
-<title>News Dashboard</title>
+<title>Science Dashboard</title>
 
 <style>
 
 body {
-    background:#111;
+    background:#0f172a;
     color:white;
     font-family:Arial;
+    margin:30px;
+}
+
+h1 {
+    text-align:center;
 }
 
 .grid {
     display:grid;
-    grid-template-columns:repeat(2,1fr);
+    grid-template-columns:
+        repeat(auto-fit,minmax(450px,1fr));
     gap:20px;
 }
 
 .card {
-    background:#222;
+    background:#1e293b;
+    border-radius:20px;
     padding:20px;
-    border-radius:12px;
+}
+
+.card h2 {
+    color:#38bdf8;
+}
+
+.headline {
+    margin-bottom:10px;
+}
+
+.badge {
+    font-size:20px;
+    margin-right:8px;
+}
+
+.summary {
+    color:#cbd5e1;
+    margin-top:10px;
+    margin-bottom:10px;
+    line-height:1.5;
 }
 
 a {
-    color:#55aaff;
+    color:#60a5fa;
+}
+
+hr {
+    border:0;
+    border-top:1px solid #334155;
 }
 
 </style>
@@ -36,262 +67,570 @@ a {
 
 <body>
 
-<h1>News Dashboard</h1>
+<h1>Science News Dashboard</h1>
 
 <div class="grid">
 
     <div class="card">
-
         <h2>Telex</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Bővült az egyik legaranyosabb állatkerti család, manulkölyök született a Fővárosi Állatkertben</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://telex.hu/zacc/2026/06/06/manul-bohus-lucy-fovarosi-allatkert-pusztai-macska" target="_blank">
-                Bővült az egyik legaranyosabb állatkerti család, manulkölyök született a Fővárosi Állatkertben
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Hegedűs Zsolt nem engedné dolgozni a gyerekorvost, aki pénzért kamuzta be a kötelező védőoltások beadását</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://telex.hu/belfold/2026/06/06/hegedus-zsolt-nem-engedne-dolgozni-a-gyerekorvost-aki-penzert-kamuzta-be-a-kotelezo-vedooltasok-beadasat" target="_blank">
-                Hegedűs Zsolt nem engedné dolgozni a gyerekorvost, aki pénzért kamuzta be a kötelező védőoltások beadását
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Tarr Zoltán: Papp Dániel felmondását üdvözöljük, de hamarabb kellett volna megtennie</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://telex.hu/belfold/2026/06/06/tarr-zoltan-papp-daniel-mtva-vezerigazgato-felmondas-nemeth-zsolt-hirigazgato" target="_blank">
-                Tarr Zoltán: Papp Dániel felmondását üdvözöljük, de hamarabb kellett volna megtennie
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Fekete özvegy vagy gyerekeit védő anya? – ez a fő kérdés Delphine Pinto fordulatos tárgyalásán</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://telex.hu/kulfold/2026/06/06/franciaorszag-feketeozvegy-targyalas-jean-christophe-piel-delphine-pinto-bunugy-targyalas" target="_blank">
-                Fekete özvegy vagy gyerekeit védő anya? – ez a fő kérdés Delphine Pinto fordulatos tárgyalásán
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Három héten belül három halálos cápatámadás történt Ausztráliában</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://telex.hu/kulfold/2026/06/06/capatamadas-ausztralia-halalos-aldozat" target="_blank">
-                Három héten belül három halálos cápatámadás történt Ausztráliában
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>Portfolio</h2>
-
         <ul>
             
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>444</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Ezentúl nem Radnai Márk felel a Tisza szigetekért</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://444.hu/2026/06/06/ezentul-nem-radnai-mark-felel-a-tisza-szigetekert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Ezentúl nem Radnai Márk felel a Tisza szigetekért
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Utolsó perces góllal nyertek a győri kézisek, sorozatban harmadszor játszanak BL-döntőt</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://444.hu/2026/06/06/utolso-perces-gollal-nyertek-a-gyori-kezisek-sorozatban-harmadszor-jatszanak-bl-dontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Utolsó perces góllal nyertek a győri kézisek, sorozatban harmadszor játszanak BL-döntőt
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Szex, szerelem, szocializmus – mivel töltöttük a szabadidőnket 1983-ban?</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://444.hu/2026/06/06/szex-szerelem-szocializmus-mivel-toltottuk-a-szabadidonket-1983-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Szex, szerelem, szocializmus – mivel töltöttük a szabadidőnket 1983-ban?
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Az egészségügyi miniszter nem engedné, hogy dolgozhasson a hamis oltási igazolásokkal lebukó gyerekorvos, pedig ez történik</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://444.hu/2026/06/06/az-egeszsegugyi-miniszter-nem-engedne-hogy-dolgozhasson-a-hamis-oltasi-igazolasokkal-lebuko-gyerekorvos-pedig-ez-tortenik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Az egészségügyi miniszter nem engedné, hogy dolgozhasson a hamis oltási igazolásokkal lebukó gyerekorvos, pedig ez történik
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Az Egyesült Államok parti radarokat lőtt Iránban</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://444.hu/2026/06/06/az-egyesult-allamok-parti-radarokat-lott-iranban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Az Egyesült Államok parti radarokat lőtt Iránban
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>HVG</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Különleges ukrán repülő szállt le Ferihegyen</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://hvg.hu/tudomany/20260606_budapesten-szallt-le-egy-an-124-es-a-vilag-legnagyobb-szallitogepe" target="_blank">
-                Különleges ukrán repülő szállt le Ferihegyen
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Radnai Márk átadja a Tisza Szigetek szervezését és működtetését</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://hvg.hu/itthon/20260606_radnai-mark-atadja-a-tisza-szigetek-szervezeset-es-mukodteteset" target="_blank">
-                Radnai Márk átadja a Tisza Szigetek szervezését és működtetését
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Hegedűs Zsolt nem engedné dolgozni, mégis újra praktizál az oltási igazolásokat hamisító gyerekorvos</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://hvg.hu/itthon/20260606_hegedus-zsolt-nem-engedne-dolgozni-megis-ujra-praktizal-az-oltasik-igazolasokat-hamisito-gyerekorvos" target="_blank">
-                Hegedűs Zsolt nem engedné dolgozni, mégis újra praktizál az oltási igazolásokat hamisító gyerekorvos
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Az utolsó percben harcolta ki a BL-döntőt a Győr női kézicsapata</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://hvg.hu/sport/20260606_az-utolso-percben-harcolta-ki-a-bl-dontot-a-gyor-noi-kezicsapata" target="_blank">
-                Az utolsó percben harcolta ki a BL-döntőt a Győr női kézicsapata
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Toroczkai meghamisított szívecskézéssel vádolja Magyar Pétert, aki nem maradt adós a válasszal</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://hvg.hu/itthon/20260606_orban-viktor-utan-toroczkai-laszlo-is-tamadta-magyar-peter-a-miniszterelnok-neki-is-valaszolt" target="_blank">
-                Toroczkai meghamisított szívecskézéssel vádolja Magyar Pétert, aki nem maradt adós a válasszal
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>BBC</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>West Ham joint chairman David Sullivan steps down after 'serious' historical allegations</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss" target="_blank">
-                West Ham joint chairman David Sullivan steps down after 'serious' historical allegations
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>The Nowak murder has lit a match under British politics. This is how we got here</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss" target="_blank">
-                The Nowak murder has lit a match under British politics. This is how we got here
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>King's nephew Peter Phillips weds NHS nurse with William and Kate among guests</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss" target="_blank">
-                King's nephew Peter Phillips weds NHS nurse with William and Kate among guests
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>TechCrunch</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" target="_blank">
-                OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank">
-                What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Sriram Krishnan is leaving his role as White House AI advisor</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" target="_blank">
-                Sriram Krishnan is leaving his role as White House AI advisor
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>The Trump administration might take an equity stake in OpenAI</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" target="_blank">
-                The Trump administration might take an equity stake in OpenAI
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Beyond Instagram: Introducing the next generation of social apps</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/" target="_blank">
-                Beyond Instagram: Introducing the next generation of social apps
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
     <div class="card">
-
         <h2>Nature</h2>
-
         <ul>
             
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Briefing chat: Spinosaurs with salt glands could have lived in marine environments</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.nature.com/articles/d41586-026-01831-y" target="_blank">
-                Briefing chat: Spinosaurs with salt glands could have lived in marine environments
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>First precise genome editing of human embryos triggers praise and alarm</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.nature.com/articles/d41586-026-01827-8" target="_blank">
-                First precise genome editing of human embryos triggers praise and alarm
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Europe is ditching US tech — what does this mean for researchers?</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.nature.com/articles/d41586-026-01610-9" target="_blank">
-                Europe is ditching US tech — what does this mean for researchers?
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.nature.com/articles/d41586-026-01609-2" target="_blank">
-                See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+                Open article
             </a>
+
+            <hr>
         </li>
         
         <li>
+            <div class="headline">
+                <span class="badge">ℹ️</span>
+                <b>Electric vehicles cut pollution in China – and prevent 260,000 premature deaths</b>
+            </div>
+
+            <div class="summary">
+                AI Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-..... You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'code': 'invalid_api_key', 'param': None}, 'status': 401}
+            </div>
+
             <a href="https://www.nature.com/articles/d41586-026-01781-5" target="_blank">
-                Electric vehicles cut pollution in China – and prevent 260,000 premature deaths
+                Open article
             </a>
+
+            <hr>
         </li>
         
         </ul>
-
     </div>
     
 </div>
 
 </body>
-
 </html>

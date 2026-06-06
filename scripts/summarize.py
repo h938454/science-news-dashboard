@@ -1,10 +1,10 @@
 import json
 import os
 
-from openai import OpenAI
+from google import genai
 
-client = OpenAI(
-    api_key=os.environ["OPENAI_API_KEY"]
+client = genai.Client(
+    api_key=os.environ["GEMINI_API_KEY"]
 )
 
 with open("data/news.json", encoding="utf-8") as f:
@@ -16,70 +16,64 @@ for source, items in data.items():
 
     for item in items:
 
-        text = f"""
-Title:
-{item['title']}
-
-Summary:
-{item.get('summary', '')}
-"""
-
-        try:
-
-            response = client.chat.completions.create(
-                model="gpt-4.1-mini",
-
-                messages=[
-                    {
-                        "role": "system",
-                        "content": """
-You are a news editor.
+        prompt = f"""
+You are a professional news editor.
 
 Return ONLY valid JSON.
 
 Format:
 
-{
+{{
   "summary": "two sentence summary",
   "importance": 1
-}
+}}
 
-importance:
+Rules:
+- summary must be exactly 2 sentences
+- importance must be an integer from 1 to 5
+
+Importance scale:
 1 = minor
 2 = low
 3 = medium
 4 = important
 5 = critical
 
-Summary must be exactly 2 sentences.
+News title:
+{item['title']}
+
+News summary:
+{item.get('summary', '')}
 """
-                    },
-                    {
-                        "role": "user",
-                        "content": text
-                    }
-                ],
 
-                response_format={"type": "json_object"},
-                temperature=0.2,
-                max_tokens=150
+        try:
+
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt
             )
 
-            result = json.loads(
-                response.choices[0].message.content
-            )
+            text = response.text.strip()
+
+            # Gemini néha markdown blokkba teszi a JSON-t
+            text = text.replace("```json", "")
+            text = text.replace("```", "")
+            text = text.strip()
+
+            result = json.loads(text)
 
             item["ai_summary"] = result.get(
                 "summary",
                 ""
             )
 
-            item["importance"] = result.get(
-                "importance",
-                3
+            item["importance"] = int(
+                result.get("importance", 3)
             )
 
         except Exception as e:
+
+            print(f"Error processing article: {e}")
 
             item["ai_summary"] = f"AI Error: {e}"
             item["importance"] = 0

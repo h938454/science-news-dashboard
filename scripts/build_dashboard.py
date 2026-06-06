@@ -1,18 +1,24 @@
 import json
 
-with open("data/news.json", encoding="utf-8") as f:
-    news = json.load(f)
+with open(
+    "data/dashboard.json",
+    encoding="utf-8"
+) as f:
+
+    dashboard = json.load(f)
 
 cards = ""
 
-for source, items in news.items():
+for category, items in dashboard.items():
 
-    card_html = ""
+    category_html = ""
 
     for item in items:
 
-        summary = item.get("ai_summary", "")
-        importance = item.get("importance", 3)
+        importance = item.get(
+            "importance",
+            3
+        )
 
         if importance >= 5:
             badge = "🔥"
@@ -21,31 +27,30 @@ for source, items in news.items():
         else:
             badge = "ℹ️"
 
-        card_html += f"""
-        <li>
+        category_html += f"""
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">{badge}</span>
-                <b>{item['title']}</b>
+                {badge}
+                {item['title']}
             </div>
 
             <div class="summary">
-                {summary}
+                {item['summary']}
             </div>
 
-            <a href="{item['link']}" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         """
 
     cards += f"""
     <div class="card">
-        <h2>{source}</h2>
-        <ul>
-            {card_html}
-        </ul>
+
+        <h2>
+        {category.upper()}
+        </h2>
+
+        {category_html}
+
     </div>
     """
 
@@ -54,9 +59,10 @@ html = f"""
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="utf-8">
 
-<title>Science Dashboard</title>
+<title>News Dashboard</title>
 
 <style>
 
@@ -64,53 +70,46 @@ body {{
     background:#0f172a;
     color:white;
     font-family:Arial;
-    margin:30px;
+    margin:20px;
+}}
+
+.grid {{
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(auto-fit,minmax(450px,1fr));
+
+    gap:20px;
+}}
+
+.card {{
+
+    background:#1e293b;
+
+    border-radius:20px;
+
+    padding:20px;
 }}
 
 h1 {{
     text-align:center;
 }}
 
-.grid {{
-    display:grid;
-    grid-template-columns:
-        repeat(auto-fit,minmax(450px,1fr));
-    gap:20px;
-}}
-
-.card {{
-    background:#1e293b;
-    border-radius:20px;
-    padding:20px;
-}}
-
-.card h2 {{
+h2 {{
     color:#38bdf8;
 }}
 
-.headline {{
-    margin-bottom:10px;
+.news-item {{
+    margin-bottom:20px;
 }}
 
-.badge {{
-    font-size:20px;
-    margin-right:8px;
+.headline {{
+    font-weight:bold;
 }}
 
 .summary {{
     color:#cbd5e1;
-    margin-top:10px;
-    margin-bottom:10px;
-    line-height:1.5;
-}}
-
-a {{
-    color:#60a5fa;
-}}
-
-hr {{
-    border:0;
-    border-top:1px solid #334155;
 }}
 
 </style>
@@ -119,7 +118,7 @@ hr {{
 
 <body>
 
-<h1>Science News Dashboard</h1>
+<h1>AI NEWS DASHBOARD</h1>
 
 <div class="grid">
 {cards}
@@ -129,7 +128,12 @@ hr {{
 </html>
 """
 
-with open("index.html", "w", encoding="utf-8") as f:
+with open(
+    "index.html",
+    "w",
+    encoding="utf-8"
+) as f:
+
     f.write(html)
 
 print("Dashboard generated")

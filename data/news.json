@@ -1,42 +1,68 @@
-[
-  {
-    "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
-    "link": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "The Nowak murder has lit a match under British politics. This is how we got here",
-    "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
-    "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-    "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-    "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Thinking about the next heatwave? Prepare for more rain first",
-    "link": "https://www.bbc.com/weather/articles/clypk7j0qqdo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Giant banquets rile radical left in France",
-    "link": "https://www.bbc.com/news/articles/c78q215vyd7o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Your middle-aged friend starts dating your daughter: Drama explores what happens next",
-    "link": "https://www.bbc.com/news/articles/cy02r2863k4o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "Late night and 'full throttle' - the World Cup watch parties going all out",
-    "link": "https://www.bbc.com/news/articles/c2d2drny216o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-    "title": "How a virtual space battle lost gamers £400,000",
-    "link": "https://www.bbc.com/news/articles/cnvp7364q5no?at_medium=RSS&at_campaign=rss"
-  }
-]
+{
+  "BBC": [
+    {
+      "title": "West Ham joint chairman David Sullivan steps down after 'serious' historical allegations",
+      "link": "https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "The Nowak murder has lit a match under British politics. This is how we got here",
+      "link": "https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "King's nephew Peter Phillips weds NHS nurse with William and Kate among guests",
+      "link": "https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "link": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "TechCrunch": [
+    {
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+    },
+    {
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/"
+    },
+    {
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/"
+    },
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/"
+    },
+    {
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
+      "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/"
+    }
+  ],
+  "Nature": [
+    {
+      "title": "Briefing chat: Spinosaurs with salt glands could have lived in marine environments",
+      "link": "https://www.nature.com/articles/d41586-026-01831-y"
+    },
+    {
+      "title": "First precise genome editing of human embryos triggers praise and alarm",
+      "link": "https://www.nature.com/articles/d41586-026-01827-8"
+    },
+    {
+      "title": "Europe is ditching US tech — what does this mean for researchers?",
+      "link": "https://www.nature.com/articles/d41586-026-01610-9"
+    },
+    {
+      "title": "See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images",
+      "link": "https://www.nature.com/articles/d41586-026-01609-2"
+    },
+    {
+      "title": "Electric vehicles cut pollution in China – and prevent 260,000 premature deaths",
+      "link": "https://www.nature.com/articles/d41586-026-01781-5"
+    }
+  ]
+}

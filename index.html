@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="utf-8">
 
-<title>Science Dashboard</title>
+<title>News Dashboard</title>
 
 <style>
 
@@ -12,53 +13,46 @@ body {
     background:#0f172a;
     color:white;
     font-family:Arial;
-    margin:30px;
+    margin:20px;
+}
+
+.grid {
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(auto-fit,minmax(450px,1fr));
+
+    gap:20px;
+}
+
+.card {
+
+    background:#1e293b;
+
+    border-radius:20px;
+
+    padding:20px;
 }
 
 h1 {
     text-align:center;
 }
 
-.grid {
-    display:grid;
-    grid-template-columns:
-        repeat(auto-fit,minmax(450px,1fr));
-    gap:20px;
-}
-
-.card {
-    background:#1e293b;
-    border-radius:20px;
-    padding:20px;
-}
-
-.card h2 {
+h2 {
     color:#38bdf8;
 }
 
-.headline {
-    margin-bottom:10px;
+.news-item {
+    margin-bottom:20px;
 }
 
-.badge {
-    font-size:20px;
-    margin-right:8px;
+.headline {
+    font-weight:bold;
 }
 
 .summary {
     color:#cbd5e1;
-    margin-top:10px;
-    margin-bottom:10px;
-    line-height:1.5;
-}
-
-a {
-    color:#60a5fa;
-}
-
-hr {
-    border:0;
-    border-top:1px solid #334155;
 }
 
 </style>
@@ -67,567 +61,318 @@ hr {
 
 <body>
 
-<h1>Science News Dashboard</h1>
+<h1>AI NEWS DASHBOARD</h1>
 
 <div class="grid">
 
     <div class="card">
-        <h2>Telex</h2>
-        <ul>
-            
-        <li>
+
+        <h2>
+        HUNGARY
+        </h2>
+
+        
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Bővült az egyik legaranyosabb állatkerti család, manulkölyök született a Fővárosi Állatkertben</b>
+                🔥
+                Government Pressured to Save Solar Project Winners
             </div>
 
             <div class="summary">
-                A Pallas's cat cub has been born at the Budapest Zoo, expanding one of its most beloved animal families. These popular felines are known for their dense fur and characteristic grumpy facial expressions.
+                The government faces a tight deadline to rescue winners of a solar panel tender who are struggling with project implementation. The situation affects numerous households and businesses relying on the promised subsidies.
             </div>
 
-            <a href="https://telex.hu/zacc/2026/06/06/manul-bohus-lucy-fovarosi-allatkert-pusztai-macska" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">⚠️</span>
-                <b>Hegedűs Zsolt nem engedné dolgozni a gyerekorvost, aki pénzért kamuzta be a kötelező védőoltások beadását</b>
+                🔥
+                Hungarian 'Godfather' László Radnai Extradited from Dubai
             </div>
 
             <div class="summary">
-                A pediatrician who previously faked the administration of mandatory vaccinations for money is controversially back in practice. This decision has sparked opposition but is attributed to a significant shortage of doctors within Pest county.
+                László Radnai, a notorious figure known as the Hungarian 'godfather,' has been successfully extradited from Dubai back to Hungary. His return is a significant development in the country's fight against organized crime.
             </div>
 
-            <a href="https://telex.hu/belfold/2026/06/06/hegedus-zsolt-nem-engedne-dolgozni-a-gyerekorvost-aki-penzert-kamuzta-be-a-kotelezo-vedooltasok-beadasat" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Tarr Zoltán: Papp Dániel felmondását üdvözöljük, de hamarabb kellett volna megtennie</b>
+                🔥
+                Health Minister Seeks to Stop Doctor Faking Vaccinations, But She Still Practices
             </div>
 
             <div class="summary">
-                AI Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+                Health Minister Zsolt Hegedűs has voiced strong opposition to a pediatrician who faked vaccination certificates continuing to practice medicine. Despite the minister's stance, the doctor remains active, raising public health and ethical concerns.
             </div>
 
-            <a href="https://telex.hu/belfold/2026/06/06/tarr-zoltan-papp-daniel-mtva-vezerigazgato-felmondas-nemeth-zsolt-hirigazgato" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Fekete özvegy vagy gyerekeit védő anya? – ez a fő kérdés Delphine Pinto fordulatos tárgyalásán</b>
+                ⚠️
+                Political Spat: Toroczkai Accuses Magyar Péter of Faking Gesture, Magyar Responds
             </div>
 
             <div class="summary">
-                AI Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+                A political row has erupted between Mi Hazánk leader Toroczkai and politician Magyar Péter, with Toroczkai alleging Magyar faked a heart gesture to protesters. Magyar Péter quickly issued a response, further fueling the public debate.
             </div>
 
-            <a href="https://telex.hu/kulfold/2026/06/06/franciaorszag-feketeozvegy-targyalas-jean-christophe-piel-delphine-pinto-bunugy-targyalas" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Három héten belül három halálos cápatámadás történt Ausztráliában</b>
-            </div>
 
-            <div class="summary">
-                AI Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
-            </div>
-
-            <a href="https://telex.hu/kulfold/2026/06/06/capatamadas-ausztralia-halalos-aldozat" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
     </div>
     
     <div class="card">
-        <h2>Portfolio</h2>
-        <ul>
-            
-        </ul>
+
+        <h2>
+        WORLD
+        </h2>
+
+        
+        <div class="news-item">
+
+            <div class="headline">
+                🔥
+                Ukrainian Drones Target St Petersburg in 'Unprecedented' Attack
+            </div>
+
+            <div class="summary">
+                Ukrainian drones have launched an attack on St Petersburg, which Russia described as unprecedented for its scale and proximity to the city. The incident marks a significant escalation in the ongoing conflict.
+            </div>
+
+        </div>
+        
+        <div class="news-item">
+
+            <div class="headline">
+                🔥
+                Iran Threatens War Escalation as Ceasefire Talks Falter
+            </div>
+
+            <div class="summary">
+                Iran has warned that the current ceasefire is in jeopardy and threatened to expand the conflict if its demands are not met. The statement raises concerns about wider regional instability in the Middle East.
+            </div>
+
+        </div>
+        
+        <div class="news-item">
+
+            <div class="headline">
+                ⚠️
+                US Political Figure Criticizes Europe's Migration Policy in D-Day Speech
+            </div>
+
+            <div class="summary">
+                A prominent US political figure delivered a D-Day speech in which he sharply criticized Europe's approach to migration, describing the influx of migrants on its beaches as an 'invasion.' The rhetoric has sparked international debate on immigration and sovereignty.
+            </div>
+
+        </div>
+        
+        <div class="news-item">
+
+            <div class="headline">
+                ⚠️
+                Pro-Russian Opposition Candidates Arrested Ahead of Armenian Elections
+            </div>
+
+            <div class="summary">
+                Several pro-Russian opposition candidates were detained in Armenia just one day before parliamentary elections. This development raises questions about political fairness and regional geopolitical alignments.
+            </div>
+
+        </div>
+        
+
     </div>
     
     <div class="card">
-        <h2>444</h2>
-        <ul>
-            
-        <li>
+
+        <h2>
+        TECHNOLOGY
+        </h2>
+
+        
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Ezentúl nem Radnai Márk felel a Tisza szigetekért</b>
+                🔥
+                OpenAI Unveils 'Lockdown Mode' to Bolster Data Security Against Prompt Injection
             </div>
 
             <div class="summary">
-                AI Error: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+                OpenAI has introduced a new 'Lockdown Mode' designed to protect sensitive user data from sophisticated prompt injection attacks. This feature aims to enhance security for enterprise users interacting with AI models.
             </div>
 
-            <a href="https://444.hu/2026/06/06/ezentul-nem-radnai-mark-felel-a-tisza-szigetekert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Utolsó perces góllal nyertek a győri kézisek, sorozatban harmadszor játszanak BL-döntőt</b>
+                🔥
+                Google to Pay SpaceX $920 Million Monthly for Cloud Compute Services
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 31.065245925s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}
+                Google has reportedly entered a massive deal to pay SpaceX $920 million per month for cloud computing resources. This significant partnership highlights the growing demand for scalable compute infrastructure in the tech and space industries.
             </div>
 
-            <a href="https://444.hu/2026/06/06/utolso-perces-gollal-nyertek-a-gyori-kezisek-sorozatban-harmadszor-jatszanak-bl-dontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Szex, szerelem, szocializmus – mivel töltöttük a szabadidőnket 1983-ban?</b>
+                🔥
+                Major Password Manager Hacked, Resulting in User Data Theft
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.931156776s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                A prominent password manager service has been compromised in a cyberattack, leading to the theft of sensitive user data. Users are urged to take precautionary measures to secure their accounts.
             </div>
 
-            <a href="https://444.hu/2026/06/06/szex-szerelem-szocializmus-mivel-toltottuk-a-szabadidonket-1983-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Az egészségügyi miniszter nem engedné, hogy dolgozhasson a hamis oltási igazolásokkal lebukó gyerekorvos, pedig ez történik</b>
+                🔥
+                Google and FBI Warn of Ransomware Group Using Fake IT Workers for In-Person Hacks
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.799816991s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                Google and the FBI have issued a joint warning about a sophisticated ransomware group that deploys fake IT support workers to physically infiltrate victims' premises for hacking. This novel attack vector represents a heightened threat to businesses.
             </div>
 
-            <a href="https://444.hu/2026/06/06/az-egeszsegugyi-miniszter-nem-engedne-hogy-dolgozhasson-a-hamis-oltasi-igazolasokkal-lebuko-gyerekorvos-pedig-ez-tortenik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Az Egyesült Államok parti radarokat lőtt Iránban</b>
-            </div>
 
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.654976227s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
-            </div>
-
-            <a href="https://444.hu/2026/06/06/az-egyesult-allamok-parti-radarokat-lott-iranban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
     </div>
     
     <div class="card">
-        <h2>HVG</h2>
-        <ul>
-            
-        <li>
+
+        <h2>
+        SCIENCE
+        </h2>
+
+        
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Különleges ukrán repülő szállt le Ferihegyen</b>
+                🔥
+                First Precise Genome Editing of Human Embryos Sparks Ethical Debate
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.528682801s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                Scientists have achieved the first precise genome editing of human embryos, a breakthrough that has been met with both widespread praise for its potential and serious ethical alarms. The development opens new avenues for understanding and treating genetic diseases, alongside profound moral questions.
             </div>
 
-            <a href="https://hvg.hu/tudomany/20260606_budapesten-szallt-le-egy-an-124-es-a-vilag-legnagyobb-szallitogepe" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Radnai Márk átadja a Tisza Szigetek szervezését és működtetését</b>
+                🔥
+                Electric Vehicles in China Prevent 260,000 Premature Deaths Annually
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.396963462s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                A new study reveals that the widespread adoption of electric vehicles in China has significantly reduced air pollution, preventing an estimated 260,000 premature deaths each year. This highlights the substantial public health benefits of transitioning to sustainable transportation.
             </div>
 
-            <a href="https://hvg.hu/itthon/20260606_radnai-mark-atadja-a-tisza-szigetek-szervezeset-es-mukodteteset" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Hegedűs Zsolt nem engedné dolgozni, mégis újra praktizál az oltási igazolásokat hamisító gyerekorvos</b>
+                🔥
+                New Device Can Detect Secret Fusion Reactors Making Nuclear Bomb Material
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.265992848s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                Researchers have developed a novel device capable of detecting hidden fusion reactors that could secretly produce materials for nuclear weapons. This innovation offers a crucial tool for nuclear non-proliferation efforts and international security.
             </div>
 
-            <a href="https://hvg.hu/itthon/20260606_hegedus-zsolt-nem-engedne-dolgozni-megis-ujra-praktizal-az-oltasik-igazolasokat-hamisito-gyerekorvos" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Az utolsó percben harcolta ki a BL-döntőt a Győr női kézicsapata</b>
+                ⚠️
+                Scientists Bake Sourdough Bread from 5,000-Year-Old Ötzi the Iceman Yeast
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.145620906s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
+                An extraordinary scientific endeavor saw researchers successfully bake sourdough bread using yeast extracted from the 5,000-year-old remains of Ötzi the Iceman. This unique experiment offers insights into ancient microbiology and culinary history.
             </div>
 
-            <a href="https://hvg.hu/sport/20260606_az-utolso-percben-harcolta-ki-a-bl-dontot-a-gyor-noi-kezicsapata" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Toroczkai meghamisított szívecskézéssel vádolja Magyar Pétert, aki nem maradt adós a válasszal</b>
-            </div>
 
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 30.019507108s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}
-            </div>
-
-            <a href="https://hvg.hu/itthon/20260606_orban-viktor-utan-toroczkai-laszlo-is-tamadta-magyar-peter-a-miniszterelnok-neki-is-valaszolt" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
     </div>
     
     <div class="card">
-        <h2>BBC</h2>
-        <ul>
-            
-        <li>
+
+        <h2>
+        SPORTS
+        </h2>
+
+        
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>West Ham joint chairman David Sullivan steps down after 'serious' historical allegations</b>
+                🔥
+                Győr Women's Handball Team Reaches Champions League Final in Last-Minute Thriller
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.896330145s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+                The Győr women's handball team dramatically secured their spot in the Champions League final with a last-minute goal. This impressive victory marks a significant achievement for the Hungarian club on the international stage.
             </div>
 
-            <a href="https://www.bbc.com/sport/football/articles/clypyk2e7vyo?at_medium=RSS&at_campaign=rss" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>The Nowak murder has lit a match under British politics. This is how we got here</b>
+                ⚠️
+                West Ham Joint Chairman Resigns Amid Serious Historical Allegations
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.762466197s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+                David Sullivan, joint chairman of West Ham United, has stepped down from his role following serious historical allegations against him. The departure marks a significant leadership change for the Premier League club.
             </div>
 
-            <a href="https://www.bbc.com/news/articles/c39297vxmw2o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>King's nephew Peter Phillips weds NHS nurse with William and Kate among guests</b>
+                ⚠️
+                17-Year-Old Mirra Andreeva Makes Historic Run to Roland Garros Semi-Finals
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.642527646s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+                Teenage sensation Mirra Andreeva achieved a historic milestone by reaching the semi-finals of Roland Garros at just 17 years old. Her impressive performance marks her as a rising star in the world of professional tennis.
             </div>
 
-            <a href="https://www.bbc.com/news/articles/cj9gl0x7lj9o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
+        <div class="news-item">
+
             <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'</b>
+                ℹ️
+                Discussion Around Reagan's Idea for a Berlin Olympics, Possibly for 2036 Centennial
             </div>
 
             <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.516631064s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
+                The prospect of Berlin hosting the Olympics again, a concept once supported by Ronald Reagan, is being discussed with a particular focus on 2036 as a potential centenary. This explores historical Olympic ideas and future possibilities for the major sporting event.
             </div>
 
-            <a href="https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
+        </div>
         
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech</b>
-            </div>
 
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.386641798s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
-            </div>
-
-            <a href="https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
-    </div>
-    
-    <div class="card">
-        <h2>TechCrunch</h2>
-        <ul>
-            
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.256920122s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
-            </div>
-
-            <a href="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 29.13142946s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}
-            </div>
-
-            <a href="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Sriram Krishnan is leaving his role as White House AI advisor</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.984824677s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>The Trump administration might take an equity stake in OpenAI</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.860903049s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Beyond Instagram: Introducing the next generation of social apps</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.732496005s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
-    </div>
-    
-    <div class="card">
-        <h2>Nature</h2>
-        <ul>
-            
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Briefing chat: Spinosaurs with salt glands could have lived in marine environments</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.61114872s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://www.nature.com/articles/d41586-026-01831-y" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>First precise genome editing of human embryos triggers praise and alarm</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.493670333s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://www.nature.com/articles/d41586-026-01827-8" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Europe is ditching US tech — what does this mean for researchers?</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.368421805s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://www.nature.com/articles/d41586-026-01610-9" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.248301326s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://www.nature.com/articles/d41586-026-01609-2" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        <li>
-            <div class="headline">
-                <span class="badge">ℹ️</span>
-                <b>Electric vehicles cut pollution in China – and prevent 260,000 premature deaths</b>
-            </div>
-
-            <div class="summary">
-                AI Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\nPlease retry in 28.124102052s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '5'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}
-            </div>
-
-            <a href="https://www.nature.com/articles/d41586-026-01781-5" target="_blank">
-                Open article
-            </a>
-
-            <hr>
-        </li>
-        
-        </ul>
     </div>
     
 </div>

@@ -1,21 +1,50 @@
-import json
-
-with open("data/news.json", encoding="utf-8") as f:
-    news = json.load(f)
-
-cards = ""
-
 for source, items in news.items():
 
     card_html = ""
 
     for item in items:
 
+        summary = item.get(
+            "ai_summary",
+            ""
+        )
+
+        importance = item.get(
+            "importance",
+            3
+        )
+
+        if importance >= 5:
+            badge = "🔥"
+        elif importance >= 4:
+            badge = "⚠️"
+        else:
+            badge = "ℹ️"
+
         card_html += f"""
         <li>
-            <a href="{item['link']}" target="_blank">
-                {item['title']}
+
+            <div class="headline">
+
+                <span class="badge">
+                    {badge}
+                </span>
+
+                <b>{item['title']}</b>
+
+            </div>
+
+            <div class="summary">
+                {summary}
+            </div>
+
+            <a href="{item['link']}"
+               target="_blank">
+               Open article
             </a>
+
+            <hr>
+
         </li>
         """
 
@@ -30,57 +59,3 @@ for source, items in news.items():
 
     </div>
     """
-
-html = f"""
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-
-<title>News Dashboard</title>
-
-<style>
-
-body {{
-    background:#111;
-    color:white;
-    font-family:Arial;
-}}
-
-.grid {{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:20px;
-}}
-
-.card {{
-    background:#222;
-    padding:20px;
-    border-radius:12px;
-}}
-
-a {{
-    color:#55aaff;
-}}
-
-</style>
-
-</head>
-
-<body>
-
-<h1>News Dashboard</h1>
-
-<div class="grid">
-{cards}
-</div>
-
-</body>
-
-</html>
-"""
-
-with open("index.html", "w", encoding="utf-8") as f:
-    f.write(html)
-
-print("Dashboard generated")

@@ -26,7 +26,8 @@ for name, url in SOURCES.items():
             data[name].append({
                 "title": entry.title,
                 "link": entry.link,
-                "published": getattr(entry, "published", "")
+                "published": getattr(entry, "published", ""),
+                "summary": getattr(entry, "summary", ""	
             })
 
     except Exception as e:
@@ -34,7 +35,8 @@ for name, url in SOURCES.items():
         data[name] = [{
             "title": f"Error: {e}",
             "link": "#",
-            "published": "-"
+            "published": "-",
+            "summary": "-"
         }]
 
 

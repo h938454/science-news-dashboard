@@ -26,6 +26,10 @@ jobs:
 
     - run: python scripts/fetch_news.py
 
+    - run: python scripts/summarize.py
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
     - run: python scripts/build_dashboard.py
 
     - name: Commit changes

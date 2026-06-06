@@ -52,3 +52,33 @@ a {
     color:white;
     text-decoration:none;
 }
+
+.headline {
+    margin-bottom: 10px;
+}
+
+.badge {
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+.summary {
+
+    color: #cbd5e1;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    line-height: 1.5;
+}
+
+hr {
+
+    border: 0;
+
+    border-top:
+        1px solid #334155;
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

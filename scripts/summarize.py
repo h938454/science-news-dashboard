@@ -39,6 +39,8 @@ Tasks:
 
 Remove duplicates.
 
+Write all the text titles and summeries in Hungarian!
+
 For each news item provide:
 
 - title

@@ -27,7 +27,7 @@ for name, url in SOURCES.items():
                 "title": entry.title,
                 "link": entry.link,
                 "published": getattr(entry, "published", ""),
-                "summary": getattr(entry, "summary", ""	
+                "summary": getattr(entry, "summary", "")
             })
 
     except Exception as e:

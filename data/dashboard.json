@@ -1,0 +1,112 @@
+{
+  "hungary": [
+    {
+      "title": "Government Pressured to Save Solar Project Winners",
+      "summary": "The government faces a tight deadline to rescue winners of a solar panel tender who are struggling with project implementation. The situation affects numerous households and businesses relying on the promised subsidies.",
+      "importance": 5
+    },
+    {
+      "title": "Hungarian 'Godfather' László Radnai Extradited from Dubai",
+      "summary": "László Radnai, a notorious figure known as the Hungarian 'godfather,' has been successfully extradited from Dubai back to Hungary. His return is a significant development in the country's fight against organized crime.",
+      "importance": 5
+    },
+    {
+      "title": "Health Minister Seeks to Stop Doctor Faking Vaccinations, But She Still Practices",
+      "summary": "Health Minister Zsolt Hegedűs has voiced strong opposition to a pediatrician who faked vaccination certificates continuing to practice medicine. Despite the minister's stance, the doctor remains active, raising public health and ethical concerns.",
+      "importance": 5
+    },
+    {
+      "title": "Political Spat: Toroczkai Accuses Magyar Péter of Faking Gesture, Magyar Responds",
+      "summary": "A political row has erupted between Mi Hazánk leader Toroczkai and politician Magyar Péter, with Toroczkai alleging Magyar faked a heart gesture to protesters. Magyar Péter quickly issued a response, further fueling the public debate.",
+      "importance": 4
+    }
+  ],
+  "world": [
+    {
+      "title": "Ukrainian Drones Target St Petersburg in 'Unprecedented' Attack",
+      "summary": "Ukrainian drones have launched an attack on St Petersburg, which Russia described as unprecedented for its scale and proximity to the city. The incident marks a significant escalation in the ongoing conflict.",
+      "importance": 5
+    },
+    {
+      "title": "Iran Threatens War Escalation as Ceasefire Talks Falter",
+      "summary": "Iran has warned that the current ceasefire is in jeopardy and threatened to expand the conflict if its demands are not met. The statement raises concerns about wider regional instability in the Middle East.",
+      "importance": 5
+    },
+    {
+      "title": "US Political Figure Criticizes Europe's Migration Policy in D-Day Speech",
+      "summary": "A prominent US political figure delivered a D-Day speech in which he sharply criticized Europe's approach to migration, describing the influx of migrants on its beaches as an 'invasion.' The rhetoric has sparked international debate on immigration and sovereignty.",
+      "importance": 4
+    },
+    {
+      "title": "Pro-Russian Opposition Candidates Arrested Ahead of Armenian Elections",
+      "summary": "Several pro-Russian opposition candidates were detained in Armenia just one day before parliamentary elections. This development raises questions about political fairness and regional geopolitical alignments.",
+      "importance": 4
+    }
+  ],
+  "technology": [
+    {
+      "title": "OpenAI Unveils 'Lockdown Mode' to Bolster Data Security Against Prompt Injection",
+      "summary": "OpenAI has introduced a new 'Lockdown Mode' designed to protect sensitive user data from sophisticated prompt injection attacks. This feature aims to enhance security for enterprise users interacting with AI models.",
+      "importance": 5
+    },
+    {
+      "title": "Google to Pay SpaceX $920 Million Monthly for Cloud Compute Services",
+      "summary": "Google has reportedly entered a massive deal to pay SpaceX $920 million per month for cloud computing resources. This significant partnership highlights the growing demand for scalable compute infrastructure in the tech and space industries.",
+      "importance": 5
+    },
+    {
+      "title": "Major Password Manager Hacked, Resulting in User Data Theft",
+      "summary": "A prominent password manager service has been compromised in a cyberattack, leading to the theft of sensitive user data. Users are urged to take precautionary measures to secure their accounts.",
+      "importance": 5
+    },
+    {
+      "title": "Google and FBI Warn of Ransomware Group Using Fake IT Workers for In-Person Hacks",
+      "summary": "Google and the FBI have issued a joint warning about a sophisticated ransomware group that deploys fake IT support workers to physically infiltrate victims' premises for hacking. This novel attack vector represents a heightened threat to businesses.",
+      "importance": 5
+    }
+  ],
+  "science": [
+    {
+      "title": "First Precise Genome Editing of Human Embryos Sparks Ethical Debate",
+      "summary": "Scientists have achieved the first precise genome editing of human embryos, a breakthrough that has been met with both widespread praise for its potential and serious ethical alarms. The development opens new avenues for understanding and treating genetic diseases, alongside profound moral questions.",
+      "importance": 5
+    },
+    {
+      "title": "Electric Vehicles in China Prevent 260,000 Premature Deaths Annually",
+      "summary": "A new study reveals that the widespread adoption of electric vehicles in China has significantly reduced air pollution, preventing an estimated 260,000 premature deaths each year. This highlights the substantial public health benefits of transitioning to sustainable transportation.",
+      "importance": 5
+    },
+    {
+      "title": "New Device Can Detect Secret Fusion Reactors Making Nuclear Bomb Material",
+      "summary": "Researchers have developed a novel device capable of detecting hidden fusion reactors that could secretly produce materials for nuclear weapons. This innovation offers a crucial tool for nuclear non-proliferation efforts and international security.",
+      "importance": 5
+    },
+    {
+      "title": "Scientists Bake Sourdough Bread from 5,000-Year-Old Ötzi the Iceman Yeast",
+      "summary": "An extraordinary scientific endeavor saw researchers successfully bake sourdough bread using yeast extracted from the 5,000-year-old remains of Ötzi the Iceman. This unique experiment offers insights into ancient microbiology and culinary history.",
+      "importance": 4
+    }
+  ],
+  "sports": [
+    {
+      "title": "Győr Women's Handball Team Reaches Champions League Final in Last-Minute Thriller",
+      "summary": "The Győr women's handball team dramatically secured their spot in the Champions League final with a last-minute goal. This impressive victory marks a significant achievement for the Hungarian club on the international stage.",
+      "importance": 5
+    },
+    {
+      "title": "West Ham Joint Chairman Resigns Amid Serious Historical Allegations",
+      "summary": "David Sullivan, joint chairman of West Ham United, has stepped down from his role following serious historical allegations against him. The departure marks a significant leadership change for the Premier League club.",
+      "importance": 4
+    },
+    {
+      "title": "17-Year-Old Mirra Andreeva Makes Historic Run to Roland Garros Semi-Finals",
+      "summary": "Teenage sensation Mirra Andreeva achieved a historic milestone by reaching the semi-finals of Roland Garros at just 17 years old. Her impressive performance marks her as a rising star in the world of professional tennis.",
+      "importance": 4
+    },
+    {
+      "title": "Discussion Around Reagan's Idea for a Berlin Olympics, Possibly for 2036 Centennial",
+      "summary": "The prospect of Berlin hosting the Olympics again, a concept once supported by Ronald Reagan, is being discussed with a particular focus on 2036 as a potential centenary. This explores historical Olympic ideas and future possibilities for the major sporting event.",
+      "importance": 3
+    }
+  ]
+}

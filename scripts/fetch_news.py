@@ -1,19 +1,34 @@
 import feedparser
 import json
 
-RSS_URL = "https://feeds.bbci.co.uk/news/rss.xml"
+SOURCES = {
+    "BBC": "https://feeds.bbci.co.uk/news/rss.xml",
+    "TechCrunch": "https://techcrunch.com/feed/",
+    "Nature": "https://www.nature.com/nature.rss",
+}
 
-feed = feedparser.parse(RSS_URL)
+data = {}
 
-news = []
+for name, url in SOURCES.items():
 
-for entry in feed.entries[:10]:
-    news.append({
-        "title": entry.title,
-        "link": entry.link
-    })
+    try:
+        feed = feedparser.parse(url)
+
+        data[name] = []
+
+        for entry in feed.entries[:5]:
+
+            data[name].append({
+                "title": entry.title,
+                "link": entry.link
+            })
+
+    except Exception as e:
+
+        data[name] = [{
+            "title": f"Error: {e}",
+            "link": "#"
+        }]
 
 with open("data/news.json", "w", encoding="utf-8") as f:
-    json.dump(news, f, ensure_ascii=False, indent=2)
-
-print(f"Saved {len(news)} news items")
+    json.dump(data, f, ensure_ascii=False, indent=2)

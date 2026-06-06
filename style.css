@@ -1,1 +1,54 @@
-ÿþ
+body {
+    background:#0f172a;
+    color:white;
+    font-family:Arial;
+    margin:30px;
+}
+
+h1 {
+    text-align:center;
+}
+
+.grid {
+    display:grid;
+
+    grid-template-columns:
+        repeat(auto-fit,minmax(450px,1fr));
+
+    gap:20px;
+}
+
+.card {
+
+    background:#1e293b;
+
+    border-radius:20px;
+
+    padding:20px;
+
+    box-shadow:
+        0 0 20px rgba(0,0,0,0.3);
+}
+
+.card h2 {
+
+    color:#38bdf8;
+
+    margin-top:0;
+}
+
+ul {
+
+    padding-left:20px;
+}
+
+li {
+
+    margin-bottom:10px;
+}
+
+a {
+
+    color:white;
+    text-decoration:none;
+}

@@ -5,13 +5,29 @@ with open("data/news.json", encoding="utf-8") as f:
 
 cards = ""
 
-for item in news:
+for source, items in news.items():
+
+    card_html = ""
+
+    for item in items:
+
+        card_html += f"""
+        <li>
+            <a href="{item['link']}" target="_blank">
+                {item['title']}
+            </a>
+        </li>
+        """
+
     cards += f"""
     <div class="card">
-        <h3>{item['title']}</h3>
-        <a href="{item['link']}" target="_blank">
-            Open article
-        </a>
+
+        <h2>{source}</h2>
+
+        <ul>
+            {card_html}
+        </ul>
+
     </div>
     """
 

@@ -2,9 +2,16 @@ import feedparser
 import json
 
 SOURCES = {
+    "Telex": "https://telex.hu/rss",
+    "Portfolio": "https://www.portfolio.hu/rss",
+    "444": "https://444.hu/feed",
+    "HVG": "https://hvg.hu/rss",
+    "index": "https://index.hu/rss",
+
+
     "BBC": "https://feeds.bbci.co.uk/news/rss.xml",
     "TechCrunch": "https://techcrunch.com/feed/",
-    "Nature": "https://www.nature.com/nature.rss",
+    "Nature": "https://www.nature.com/nature.rss"
 }
 
 data = {}
@@ -21,6 +28,7 @@ for name, url in SOURCES.items():
             data[name].append({
                 "title": entry.title,
                 "link": entry.link
+                "published": getattr(entry, "published", "")
             })
 
     except Exception as e:
@@ -28,7 +36,11 @@ for name, url in SOURCES.items():
         data[name] = [{
             "title": f"Error: {e}",
             "link": "#"
+            "published": "-"
         }]
+
+
+
 
 with open("data/news.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)

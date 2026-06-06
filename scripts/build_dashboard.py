@@ -1,3 +1,10 @@
+import json
+
+with open("data/news.json", encoding="utf-8") as f:
+    news = json.load(f)
+
+cards = ""
+
 for source, items in news.items():
 
     card_html = ""

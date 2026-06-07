@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Belügyminisztérium: Vizsgálják az Orbán-kormány alatt kapott menekültjogokat",
-      "summary": "A Belügyminisztérium bejelentette, hogy felülvizsgálja azokat az ügyeket, amelyekben az Orbán-kormány politikai alapon menekültstátuszt adott. Ez a lépés már májusban megindult, és komoly politikai visszhangot váltott ki.",
+      "title": "Az NKA-botrány mélyére mentünk: segélyszervezetnek tűnt, aztán rájöttünk, hogy ez a Fidesz",
+      "summary": "Egy civil szervezetnek álcázott, de a Fideszhez köthető hálózat működésére derült fény az NKA-botrány kapcsán. A vizsgálat mélyére ásva, kiderült, hogy a szervezet valójában politikai célokat szolgált.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter: Nem lesznek illegális migránsok Magyarországon a Tisza-kormány alatt",
-      "summary": "Magyar Péter kijelentette, hogy egy jövőbeli Tisza-kormány idején Magyarországon nem lesznek illegális migránsok. Hangsúlyozta, hogy az országot szigorúan ellenőrzött határokkal fogják védeni, ezzel is erősítve a nemzeti szuverenitást.",
+      "title": "A Belügyminisztérium felülvizsgálja a politikai alapon megadott menekülti jogállásokat",
+      "summary": "A Belügyminisztérium vizsgálatot indított azoknak az ügyében, akik az Orbán-kormánytól kaptak politikai menedékjogot. A lépés célja a korábbi döntések jogosságának felülvizsgálata.",
+      "importance": 5
+    },
+    {
+      "title": "Magyar Péter a Sulyok melletti tüntetés után: Elnök úr, ön is tudja, hogy vége van. Még mindig nem késő távozni",
+      "summary": "Sulyok Tamás melletti tüntetést követően Magyar Péter üzent az államfőnek, lemondásra szólítva fel. Az üzenet az ország politikai megosztottságát és a változások iránti igényt tükrözi.",
       "importance": 4
     },
     {
-      "title": "Hamarosan megnevezik az újdörögdi kézigránát-baleset felelőseit",
-      "summary": "Ruszin-Szendi Romulusz új vizsgálatot rendelt el az újdörögdi kézigránát-baleset ügyében, és ígéretet tett arra, hogy hamarosan nyilvánosságra hozzák a felelősök neveit. Az esemény kapcsán komoly visszhang alakult ki a hadseregen belül, és sürgősen tisztázni kell a körülményeket.",
+      "title": "2,3 milliárd forintba került az Orbán-kormány által vásárolt lélegeztetőgépek raktározása",
+      "summary": "A Külügyminisztérium tájékoztatása szerint milliárdos összegeket emésztett fel az Orbán-kormány által beszerzett, majd raktározott lélegeztetőgépek tárolása. Ez a korábbi közbeszerzési botrányok fényében tovább terheli az államkasszát.",
       "importance": 4
-    },
-    {
-      "title": "Már idén életbe léphet a magyar-ukrán egyezség néhány pontja",
-      "summary": "Lehetőség van arra, hogy a magyar-ukrán egyezség néhány pontja már idén életbe lépjen, amennyiben az ukrán fél kellő gyorsasággal cselekszik. Ez a fejlesztés fontos a két ország közötti kapcsolatok stabilizálása és a regionális együttműködés szempontjából.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Orosz dróntámadás érte a csernobili kiégett fűtőelemek raktárát, Zelenszkij elítélte",
-      "summary": "Orosz drónok csapódtak egy kiégett nukleáris fűtőelemeket tároló létesítménybe Csernobil közelében, ami komoly aggodalmat váltott ki. Volodimir Zelenszkij ukrán elnök \"aljasnak\" nevezte a támadást, a londoni tárgyalások előtt.",
+      "title": "Orosz drón csapódott egy raktárba a csernobili atomerőműtől nem messze",
+      "summary": "Egy orosz drón támadott meg egy raktárt a csernobili atomerőmű közelében, amely kiégett fűtőelemeket tárol. Az incidens újabb aggodalmakat kelt a nukleáris biztonság és a háború eszkalációja kapcsán.",
       "importance": 5
     },
     {
-      "title": "Tizenkét embert lőttek meg egy ohiói fesztiválon",
-      "summary": "Egy vadnyugati fesztiválon lövöldözés tört ki egy amerikai kisvárosban, Ohióban, ahol legalább tizenketten megsérültek. A hatóságok nagy erőkkel keresik az elkövetőket, az eset ismét rávilágít az amerikai fegyveres erőszak problémájára.",
+      "title": "Zelenszkij európai vezetőkkel tárgyalt a háborúról a Downing Streeten",
+      "summary": "Volodimir Zelenszkij ukrán elnök európai vezetőkkel találkozott a Downing Streeten az ukrajnai háborúról szóló tárgyalásokra. A megbeszélések a konfliktus megoldását és az Ukrajnának nyújtott támogatást célozzák.",
+      "importance": 5
+    },
+    {
+      "title": "Izrael légicsapást mért Bejrút külvárosára az amerikai tűzszünet után",
+      "summary": "Izrael légicsapásokat hajtott végre Bejrút külvárosában, mindössze napokkal az Egyesült Államok által közvetített tűzszünet után. Az akció a regionális feszültségek újbóli fellángolását jelzi.",
       "importance": 4
     },
     {
-      "title": "New York Times: Izrael lehallgathatta az amerikai-iráni tárgyalásokat",
-      "summary": "A New York Times szerint az izraeli hírszerzés képes volt lehallgatni az Egyesült Államok és Irán között zajló, rendkívül érzékeny tárgyalásokat. Ez komoly diplomáciai feszültségeket okozhat a szövetségesek között és befolyásolhatja a közel-keleti politikát.",
+      "title": "Roman Abramovics közvetíthet Kijev és Moszkva között",
+      "summary": "Roman Abramovics orosz milliárdos felajánlotta, hogy közvetít Kijev és Moszkva között a béketárgyalások előmozdítása érdekében. Szerepe kulcsfontosságú lehet a konfliktus enyhítésében.",
       "importance": 4
-    },
-    {
-      "title": "Ferenc pápa üzenete: Ismerjük fel Istent a bevándorlóban és a hajléktalanban",
-      "summary": "Ferenc pápa üzenetét közvetítették Madridban tartott miséjén, sürgetve a híveket, hogy ismerjék fel Istent a bevándorlókban és a hajléktalanokban. A mise, amelyet több mint egymillió ember hallgatott, a szolidaritás és a befogadás fontosságát hangsúlyozta.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI bemutatja a \"Lockdown Mode\"-ot a prompt injection támadások ellen",
-      "summary": "Az OpenAI új \"Lockdown Mode\"-ot vezet be, amelynek célja az érzékeny adatok védelme a prompt injection támadásokkal szemben. Ez a funkció alapvető fontosságú az AI rendszerek biztonságának növelésében, különösen a kritikus infrastruktúrák és vállalati adatok esetében.",
+      "title": "Mi várható a WWDC 2026-tól: Siri megújulása és Apple Intelligence frissítések",
+      "summary": "Az Apple éves fejlesztői konferenciáján (WWDC) várhatóan bemutatják a Siri jelentős megújulását és az Apple Intelligence legújabb frissítéseit. Ez a mesterséges intelligencia integrálásának következő lépése lesz az Apple ökoszisztémájában.",
       "importance": 5
     },
     {
-      "title": "Mire számíthatunk a WWDC 2026-tól: Siri megújulás és Apple Intelligence frissítések",
-      "summary": "Az Apple közelgő WWDC 2026 fejlesztői konferenciáján a Siri várva várt megújult verziójára és az Apple Intelligence frissítéseire lehet számítani. Ezek a fejlesztések jelentősen bővíthetik az Apple ökoszisztémájának AI képességeit, és új felhasználói élményeket hozhatnak.",
+      "title": "Az OpenAI még mindig dolgozik a 'szuper alkalmazásán'",
+      "summary": "Az OpenAI továbbra is azon dolgozik, hogy egy „szuper alkalmazást” hozzon létre, amely több AI-funkciót integrálna egyetlen platformon. Ez a projekt forradalmasíthatja az ember és a mesterséges intelligencia interakcióját.",
+      "importance": 5
+    },
+    {
+      "title": "Feltörték, kiszivárogtatták, váltságdíjért zsarolják: a 2026-os év eddigi legrosszabb adatlopásai",
+      "summary": "Az év eddigi legjelentősebb kibertámadásai és adatvédelmi incidensei rávilágítanak a folyamatosan növekvő digitális fenyegetésekre. Ezek a támadások számos vállalatot és felhasználót érintettek.",
       "importance": 4
     },
     {
-      "title": "A Google havi 920 millió dollárt fizet a SpaceX-nek számítási kapacitásért",
-      "summary": "A Google havi 920 millió dolláros szerződést kötött a SpaceX-szel, hogy számítási kapacitást vásároljon. Ez az együttműködés a felhőalapú szolgáltatások és az űrtechnológia közötti szinergiát jelzi, és komoly előnyöket hozhat mindkét vállalat számára.",
+      "title": "Európa lemond az amerikai tech-ről – mit jelent ez a kutatóknak?",
+      "summary": "Európa egyre inkább függetlenedni próbál az amerikai technológiai megoldásoktól, ami jelentős hatással lehet a kutatókra és az innovációra. Ez a stratégiai váltás hosszú távon átalakíthatja a globális tech-piacot.",
       "importance": 4
-    },
-    {
-      "title": "A ChatGPT tud műfordítani, de „hülyeséget” is válaszol",
-      "summary": "A ChatGPT képes műfordítói feladatokat is elvégezni, de mint minden mesterséges intelligencia, téves vagy abszurd válaszokat is adhat. Ez rávilágít az AI nyelvi modellek potenciáljára és korlátaira egyaránt, és hangsúlyozza az emberi felügyelet fontosságát.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Az emberi embriók precíz genom szerkesztése dicséretet és riadalmat is kivált",
-      "summary": "Az emberi embriók precíz génszerkesztésének első sikeres alkalmazása jelentős tudományos áttörést jelent. Ugyanakkor etikai vitákat és riadalmat is kiváltott a technológia lehetséges következményei miatt.",
+      "title": "Az emberi embriók precíz génszerkesztése dicséretet és riadalmat is kivált",
+      "summary": "Az emberi embriók első precíz génszerkesztése áttörést jelent a tudományban, de komoly etikai vitákat is szül. A technológia ígéretes gyógymódokat kínálhat, ugyanakkor aggodalmakat vet fel a beavatkozás hosszú távú következményei miatt.",
       "importance": 5
     },
     {
-      "title": "A poszméhek apró agyukkal is képesek csimpánzokat idéző problémákat megoldani",
-      "summary": "A poszméhek szezámmagnyi agyuk ellenére is képesek olyan komplex problémákat megoldani, mint a csimpánzok. Ez a lenyűgöző felfedezés megkérdőjelezi az agyméret és az intelligencia közötti közvetlen összefüggéseket, és új utakat nyithat a viselkedéstudományban.",
+      "title": "Az elektromos járművek Kínában csökkentik a szennyezést és 260 000 korai halálesetet előznek meg",
+      "summary": "Kutatások szerint az elektromos járművek elterjedése Kínában jelentősen csökkenti a légszennyezést és évente 260 ezer korai halálesetet akadályoz meg. Ez alátámasztja az EV-k környezeti és egészségügyi előnyeit.",
       "importance": 4
     },
     {
-      "title": "Az elektromos járművek 260 000 korai halált előztek meg Kínában a légszennyezés csökkentésével",
-      "summary": "Az elektromos járművek szélesebb körű elterjedése Kínában jelentősen csökkentette a légszennyezést, becslések szerint 260 000 korai halálesetet megelőzve. Ez kiemeli a zöld technológiák egészségügyi előnyeit és a fenntartható közlekedés fontosságát.",
+      "title": "Ígéretes gyógyszer a rejtélyes tüdőbetegségre egereken végzett tesztek alapján",
+      "summary": "Egy eddig ismeretlen tüdőbetegség, amely milliókat érint, ígéretes gyógyszeres kezelést kaphat egereken végzett kísérletek szerint. A felfedezés reményt adhat a betegeknek.",
       "importance": 4
     },
     {
-      "title": "Ígéretes gyógyszer egy rejtélyes tüdőbetegségre egerekben tesztelve",
-      "summary": "Egy rejtélyes tüdőbetegség, amely emberek millióit érinti, ígéretes gyógyszerreakciót mutatott egerekben végzett teszteken. Ez reményt adhat a betegségben szenvedőknek a jövőbeni, hatékonyabb kezelésekre.",
-      "importance": 3
+      "title": "Készülék segíthet kiszagolni a titkos fúziós reaktorokat, amelyek nukleáris fegyveranyagot gyártanak",
+      "summary": "Egy új fejlesztésű eszköz képes lehet felderíteni a titokban működő fúziós reaktorokat, amelyek nukleáris fegyveranyagot állíthatnak elő. Ez a technológia kulcsszerepet játszhat a nukleáris non-proliferációban.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Márquez nyerte a gyorsaságimotoros-vb Magyar Nagydíját tömeges rajtbaleset után",
-      "summary": "Tömeges rajtbaleset után ismét Marc Márquez diadalmaskodott a gyorsaságimotoros-világbajnokság Magyar Nagydíján. A futam izgalmas fordulatokat tartogatott, és Márquez magabiztosan szerezte meg a győzelmet.",
+      "title": "Összeesett a pályán Christian Eriksen, lefújták a Dánia–Ukrajna focimeccset",
+      "summary": "Christian Eriksen, a dán válogatott játékos összeesett a pályán a Dánia–Ukrajna mérkőzésen, ami miatt a meccset felfüggesztették. Az eset sokkolta a sportvilágot, de a játékos állapota stabilizálódott.",
+      "importance": 5
+    },
+    {
+      "title": "Zverev görccsel is megküzdve szerezte meg élete első Grand Slam-tornagyőzelmét",
+      "summary": "Alexander Zverev egy óriási mérkőzésen, még görcsökkel is megküzdve nyerte meg élete első Grand Slam-tornáját. Ezzel a sportoló kiemelkedő teljesítményt nyújtott.",
       "importance": 4
     },
     {
-      "title": "A győri kézisek sorozatban harmadszor játszanak BL-döntőt, utolsó perces góllal",
-      "summary": "Az utolsó perces góllal nyertek a győri kézisek, ezzel sorozatban harmadszor jutottak be a Bajnokok Ligája döntőjébe. Ez a teljesítmény a magyar kézilabda kiemelkedő sikerét jelzi, és reményt ad a végső győzelemre.",
+      "title": "Elbukott a Győr a női kézilabda BL-döntőben, a francia Metzé a trófea",
+      "summary": "A Győri Audi ETO KC kikapott a francia Metztől a női kézilabda Bajnokok Ligája döntőjében. A magyar csapatnak nem sikerült megszereznie a trófeát az izgalmas fináléban.",
       "importance": 4
     },
     {
-      "title": "Simone Biles felfedte egészségügyi problémáit, \"majdnem meghalt\"",
-      "summary": "A többszörös olimpiai bajnok tornász, Simone Biles nyíltan beszélt arról, hogy súlyos egészségügyi problémái voltak, amelyek során \"majdnem meghalt\". Ez rávilágít a profi sportolókra nehezedő fizikai és mentális terhekre, és a sportolói jólét fontosságára.",
-      "importance": 3
-    },
-    {
-      "title": "Az orosz futballcsapatok a következő szezonban sem indulhatnak az európai kupasorozatokban",
-      "summary": "Az UEFA úgy döntött, hogy az orosz futballcsapatok a következő szezonban sem vehetnek részt az európai kupasorozatokban. A döntés a folyamatban lévő geopolitikai helyzetre válasz, és komoly következményekkel jár az orosz labdarúgásra nézve.",
-      "importance": 3
+      "title": "Felszakadt aszfalt, félbeszakított futam és kieső sztárok után Antonellié a Monacói Nagydíj",
+      "summary": "Drámai Monacói Nagydíjon Kimi Antonelli szerezte meg a győzelmet, egy futam, amelyben felszakadt aszfalt, félbeszakítás és számos sztárkiesés is jellemezte. Az események sorozata izgalmas versenyt eredményezett.",
+      "importance": 4
     }
   ]
 }

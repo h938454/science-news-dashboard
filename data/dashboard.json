@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Az Integritás Hatóság elnöke nyomásgyakorlásról és fenyegetésekről beszélt",
-      "summary": "Az Integritás Hatóság elnöke elmondta, milyen nyomásgyakorlási kísérletekkel szembesült az Orbán-kormány felől, ami súlyos aggályokat vet fel a hatóság függetlenségével kapcsolatban. Biró Ferenc egy interjúban idézte fel a rá gyakorolt befolyásolási kísérleteket.",
+      "title": "Képviselői fizetéscsökkentés megszavazása",
+      "summary": "A parlament egyhangúlag megszavazta a képviselők fizetésének csökkentését, a Tisza Párt javaslatára. Ez a döntés jelentős politikai lépés.",
       "importance": 5
     },
     {
-      "title": "Nagy Márton miniszter luxusszállodás utazásainak költségei nyilvánosságra kerültek",
-      "summary": "Kiderült, hogy Nagy Márton miniszter gyakran szállt meg rendkívül drága, napi egymillió forintba kerülő ötcsillagos hotelekben, egy négynapos útja pedig több mint 35 millió forintba került. A hírek komoly felháborodást váltottak ki a közpénzek felhasználása kapcsán.",
+      "title": "Átmenetileg leálltak a banki utalások",
+      "summary": "Átmenetileg szünetelnek az időzített és nagyobb összegű banki utalások egy technikai hiba miatt. Ez komoly fennakadásokat okozhat az ügyfeleknek és a vállalkozásoknak.",
+      "importance": 5
+    },
+    {
+      "title": "Tisza Párt törvényjavaslatokat nyújt be az uniós forrásokért",
+      "summary": "A Tisza Párt kedden nyújtja be azt a törvényjavaslat-csomagot, amely az uniós források megszerzéséhez szükséges feltételeket tartalmazza. A lépés kulcsfontosságú lehet Magyarország uniós kapcsolataiban.",
       "importance": 4
     },
     {
-      "title": "Milliárdokba került az Orbán-kormány által vásárolt lélegeztetőgépek raktározása",
-      "summary": "A külügyminisztérium adatai szerint eddig 2,3 milliárd forintot emésztett fel az Orbán-kormány által korábban vásárolt lélegeztetőgépek raktározása. Az óriási összeg komoly kérdéseket vet fel az eszközök beszerzésének és kezelésének célszerűségét illetően.",
+      "title": "Maruzsa Zoltán visszatérése az ELTE-re tiltakozást vált ki",
+      "summary": "Maruzsa Zoltán, volt oktatási államtitkár visszatért az ELTE-re, ami miatt több professzor nyílt levélben fejezte ki tiltakozását. Az ügy feszültséget okoz a felsőoktatásban.",
       "importance": 4
-    },
-    {
-      "title": "A kormány visszaállítja az építési engedélyek nyilvánosságát",
-      "summary": "A korábban Lázár János által megszüntetett építési engedélyek nyilvánosságát a kormány most visszaállítja. Ez a döntés hozzájárulhat az átláthatóság növeléséhez és a korrupció visszaszorításához az építőiparban.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Izrael válaszul támadta Iránt az iráni légicsapások után",
-      "summary": "Izrael rakétatámadásokkal válaszolt az Irán által indított légicsapásokra, több iráni várost is célba véve, ezzel tovább fokozva a regionális feszültségeket. Korábban Irán indított több hullámban rakétatámadást Izrael ellen.",
+      "title": "Trump tűzszünetre szólította fel Izraelt és Iránt",
+      "summary": "Donald Trump arra szólította fel Izraelt és Iránt, hogy azonnal hagyják abba a támadásokat és a lövöldözést. A volt elnök nyilatkozata a Közel-Kelet stabilitására gyakorolhat hatást.",
       "importance": 5
     },
     {
-      "title": "Roman Abramovics közvetít Putyin és Zelenszkij között a béketárgyalásokon",
-      "summary": "Roman Abramovics orosz üzletember közvetítőként lépett fel Putyin és Zelenszkij között a béketárgyalások ügyében, ami reményt adhat a konfliktus rendezésére. Ukrajna elnökének európai szövetségesei öt feltételt szabtak a béketárgyalások megkezdéséhez.",
+      "title": "Földrengés a Fülöp-szigeteken, több tucat halott",
+      "summary": "Súlyos földrengés rázta meg a Fülöp-szigetek déli részét, legalább 32 ember meghalt. A katasztrófa jelentős pusztítást okozott a térségben.",
       "importance": 5
     },
     {
-      "title": "Orosz dróntámadás történt a csernobili kiégett fűtőelemek raktáránál",
-      "summary": "Orosz dróntámadás érte a csernobili atomerőmű területén található kiégett fűtőelemek raktárát. Az incidens súlyos aggodalmakat vet fel a nukleáris biztonság és a környezeti kockázatok miatt a háborús övezetben.",
+      "title": "Massachusetts betiltaná a pontos helyadatok értékesítését",
+      "summary": "Massachusetts állam új adatvédelmi törvényjavaslatot fogadott el, amely megtiltja a pontos helyadatok értékesítését. Ez a lépés precedenst teremthet a technológiai cégek adatgyűjtési gyakorlatára vonatkozóan.",
       "importance": 4
     },
     {
-      "title": "Hszi Csin-ping észak-koreai látogatásának diplomáciai jelentősége",
-      "summary": "Hszi Csin-ping kínai elnök Észak-Koreába látogat, ami jelentős diplomáciai eseménynek számít a két ország és a szélesebb régió geopolitikai viszonyai szempontjából. A látogatás célja a barátság megerősítése vagy diplomáciai befolyás növelése lehet.",
+      "title": "Starmer felszólítja az Apple-t és Google-t a gyermekek telefonjain található meztelen képek tiltására",
+      "summary": "Keir Starmer, brit politikus felszólította az Apple-t és a Google-t, hogy tiltsák le a gyermekek telefonjain található meztelen képeket. A felhívás a gyermekvédelem és a technológiai felelősségvállalás fontos kérdését veti fel.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI bemutatta a „Lockdown Mode”-ot a prompt injection támadások ellen",
-      "summary": "Az OpenAI bevezette a „Lockdown Mode” funkciót, amely a prompt injection támadások ellen védi az érzékeny adatokat a mesterséges intelligencia rendszereiben. Ez a fejlesztés kulcsfontosságú az AI-biztonság javításában és az adatvédelem erősítésében.",
-      "importance": 5
-    },
-    {
       "title": "A Trump-adminisztráció részesedést szerezhet az OpenAI-ban",
-      "summary": "Felmerült annak lehetősége, hogy a Trump-adminisztráció részesedést szerezzen az OpenAI-ban, ami jelentős politikai és gazdasági befolyást jelentene a mesterséges intelligencia fejlesztésének jövőjére. Ez a lépés alapjaiban változtathatja meg az AI-iparág működését és szabályozását.",
+      "summary": "Értesülések szerint a Trump-adminisztráció részesedést szerezhet az OpenAI-ban. Ez a lépés jelentős politikai és tulajdonosi változásokat hozhat a vezető mesterséges intelligencia vállalatnál.",
       "importance": 5
     },
     {
-      "title": "A Google havi 920 millió dollárt fizet a SpaceX-nek számítási kapacitásért",
-      "summary": "A Google havi 920 millió dolláros szerződést kötött a SpaceX-szel számítási kapacitás bérlésére, ami hatalmas üzlet a felhőalapú szolgáltatások és az űrkutatás metszéspontján. Ez a megállapodás jelzi a két techóriás közötti mélyülő együttműködést és az infrastruktúra-igények növekedését.",
+      "title": "OpenAI: „Lockdown Mode” a támadások ellen",
+      "summary": "Az OpenAI bemutatta a „Lockdown Mode”-ot, amely a prompt injekciós támadások ellen védi az érzékeny adatokat. Ez egy fontos lépés az AI-rendszerek biztonságának növelésében.",
       "importance": 4
     },
     {
-      "title": "A 2026-os év eddigi legsúlyosabb adatlopásai és zsarolóvírus-támadásai",
-      "summary": "Jelentések szerint a 2026-os év eddig is számos súlyos adatlopást, kiszivárogtatást és zsarolóvírus-támadást hozott, kiemelve a kiberbiztonság folyamatos kihívásait. Ez rávilágít az online védelem fontosságára és a vállalatok sérülékenységére.",
+      "title": "Starlink internet érkezik a Wizz Air gépeire",
+      "summary": "Hamarosan elérhetővé válik a Starlink műholdas internete a Wizz Air járatain. Ez a fejlesztés új szintre emelheti a légi utazás közbeni online hozzáférést.",
+      "importance": 4
+    },
+    {
+      "title": "Robotaxi „párbaj” körvonalazódik Londonban",
+      "summary": "Az Uber, a Wayve és a Waymo robotaxi cégek „párbaja” körvonalazódik Londonban, jelezve a versenyt az autonóm járművek piacán. A fejlesztés alapvetően megváltoztathatja a városi közlekedést.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Emberi embriók precíz génszerkesztése váltott ki dicséretet és riadalmat",
-      "summary": "Az emberi embriók precíz génszerkesztésének első sikeres esete egyszerre váltott ki tudományos elismerést és etikai aggodalmakat világszerte. Ez a technológiai áttörés új lehetőségeket nyithat meg a genetikai betegségek gyógyításában, de komoly vitákat is szül a beavatkozás morális határairól.",
+      "title": "Emberi embriók precíz génszerkesztése váltott ki vitákat",
+      "summary": "Az emberi embriók precíz génszerkesztésének első esete egyszerre váltott ki dicséretet és riadalmat. A felfedezés etikai és tudományos kérdéseket vet fel a genetikában.",
       "importance": 5
     },
     {
-      "title": "Eszköz fejlesztése titokban működő fúziós reaktorok felderítésére",
-      "summary": "Új eszköz fejlesztése van folyamatban, amely képes lenne felderíteni azokat a titokban működő fúziós reaktorokat, amelyek nukleáris bomba előállításához szükséges anyagokat gyártanak. Ez a technológia kulcsfontosságú lehet a nukleáris fegyverek elterjedésének megakadályozásában és a nemzetközi biztonság erősítésében.",
+      "title": "Fúziós cég ígér hálózati áramot, de kérdések maradnak",
+      "summary": "Egy nukleáris fúziós cég azt állítja, hogy létesítménye hálózati áramot fog szolgáltatni, de még sok nyitott kérdés maradt. Ez az áttörés forradalmasíthatja az energiatermelést.",
       "importance": 5
     },
     {
-      "title": "Az elektromos járművek csökkentik a légszennyezést Kínában, megelőzve 260 000 halálesetet",
-      "summary": "Kutatások kimutatták, hogy az elektromos járművek bevezetése jelentősen csökkentette a légszennyezést Kínában, és ezzel becslések szerint 260 000 korai halálesetet akadályozott meg. Ez az adat alátámasztja az EV-k környezeti és közegészségügyi előnyeit.",
+      "title": "A mesterséges intelligencia átalakítja a matematika és fizika felfedezéseit",
+      "summary": "A mesterséges intelligencia egyre inkább átformálja a felfedezések folyamatát a matematika és fizika terén. Ez a tendencia új távlatokat nyit a tudományos kutatásban.",
       "importance": 4
     },
     {
-      "title": "Okostelefonok képesek mérni a pulzust apró bőrszínváltozások alapján",
-      "summary": "Kutatók felfedezték, hogy az okostelefonok kamerája képes észlelni a bőrszín apró változásait, és ebből pontosan megállapítani a szívritmust. Ez a technológia forradalmasíthatja az otthoni egészségügyi monitorozást és a telemedicinát, egyszerű és hozzáférhető módon.",
-      "importance": 3
+      "title": "Az elektromos járművek csökkentik a légszennyezést Kínában",
+      "summary": "Az elektromos járművek jelentősen csökkentik a légszennyezést Kínában, és hozzájárulnak 260 000 korai haláleset megelőzéséhez. A tanulmány rávilágít a környezetbarát technológiák egészségügyi előnyeire.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Christian Eriksen összeesett a pályán, de már eszméleténél van",
-      "summary": "Christian Eriksen, a dán labdarúgó összeesett a Dánia-Ukrajna mérkőzésen, ami azonnali orvosi beavatkozást és a mérkőzés lefújását eredményezte. Később megerősítették, hogy a játékos eszméleténél van, és stabil az állapota.",
+      "title": "Christian Eriksen „jó hangulatban” van összeesése után",
+      "summary": "Christian Eriksen, a dán labdarúgó „jó hangulatban” van, miután vasárnap összeesett a pályán egy mérkőzésen. Az orvosok szerint állapota stabil.",
       "importance": 5
     },
     {
-      "title": "Alexander Zverev megnyerte élete első Grand Slam-tornáját a Roland Garroson",
-      "summary": "Alexander Zverev óriási küzdelemben, még görcsökkel is megküzdve szerezte meg élete első Grand Slam-tornagyőzelmét a Roland Garros férfi döntőjében. Ezzel beírta magát a teniszsport nagykönyvébe.",
+      "title": "Viharos időjárás várható a világbajnokság nyitómérkőzésén Mexikóvárosban",
+      "summary": "Viharos időjárás fogadhatja a labdarúgó-világbajnokság mexikóvárosi nyitómérkőzését. Ez befolyásolhatja a játékosok teljesítményét és a nézői élményt.",
       "importance": 4
     },
     {
-      "title": "A Győri Audi ETO kikapott a női kézilabda Bajnokok Ligája döntőjében",
-      "summary": "A Győri Audi ETO női kézilabdacsapata elvesztette a Bajnokok Ligája döntőjét a francia Metz ellen, így nem sikerült megszerezniük a hőn áhított trófeát. A vereséget követően az ETO vezetőedzője és a játékosok is nyilatkoztak.",
+      "title": "Rajongói felháborodás az amerikai utazási korlátozások miatt a világbajnokságon",
+      "summary": "A rajongók haraggal fogadták az amerikai utazási és vízumkorlátozásokat a közelgő világbajnokság kapcsán. Sokan úgy érzik, hogy a torna „nem nekik szól”.",
       "importance": 4
     },
     {
-      "title": "Szurkolói felháborodás az amerikai utazási és vízumkorlátozások miatt a világbajnokságon",
-      "summary": "A szurkolók világszerte felháborodásukat fejezték ki az amerikai utazási és vízumkorlátozások miatt, amelyek megnehezítik részvételüket a közelgő világbajnokságon. Sokan úgy érzik, hogy a korlátozások elidegenítik őket a sporteseménytől.",
-      "importance": 3
+      "title": "Rengeteg pénz ömlött a fociba a Fidesz-éra alatt",
+      "summary": "Egy látványos grafikon elemzi, hogyan áramlott hatalmas mennyiségű pénz a magyar fociba a Fidesz-éra alatt. Ez a téma gyakran felmerül a sportfinanszírozás kapcsán.",
+      "importance": 4
     }
   ]
 }

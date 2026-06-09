@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Az amerikai hadsereg csapásokat mért Iránra",
+      "link": "https://telex.hu/kulfold/2026/06/10/egyesult-allamok-tamadas-iran",
+      "summary": "Az Egyesült Államok a helikoptere kilövését torolja meg."
+    },
+    {
+      "title": "Nyomoznia kell a BRFK-nak a Mol-vezetők bennfentes kereskedelemre emlékeztető ügyletei miatt",
+      "link": "https://telex.hu/gazdasag/2026/06/09/mol-bennfentes-kereskedelem-nyomozas-elrendelese",
+      "summary": "A rendőrség korábban elutasította a nyomozás megindítását, most az ügyészség felülírta a döntésüket."
+    },
+    {
       "title": "Zavargások kezdődtek Belfastban, miután egy szudáni férfi az utcán próbált meg lefejezni egy embert",
       "link": "https://telex.hu/kulfold/2026/06/09/belfast-zavargasok-szudan-gyilkossagi-kiserlet",
       "summary": "A szudáni férfi menekültként, legálisan tartózkodott Észak-Írországban."
@@ -64,16 +74,6 @@
       "title": "Sulyok Tamás aláírta: szerdán hatályba lép a devizahiteles törvény",
       "link": "https://telex.hu/belfold/2026/06/09/devizahiteles-torveny-magyar-kozlony-sulyok-tamas",
       "summary": "Kiadták a közlönyben a devizahiteles eljárások felfüggesztéséről szóló törvényt."
-    },
-    {
-      "title": "Elindították a tömeggyártást a debreceni katódgyárban, ami a Samsung gödi üzemének szállít",
-      "link": "https://telex.hu/gazdasag/2026/06/09/debrecen-ecopro-bm-katodgyar-sorozatgyartas",
-      "summary": "Az EcoPro debreceni gyárában évente 600 ezer elektromos járműnek elegendő katódanyagot gyártanak majd."
-    },
-    {
-      "title": "Feljelentést tett a durván túlárazott nyuszimotorok ügyében Kátai-Németh Vilmos",
-      "link": "https://telex.hu/belfold/2026/06/09/balasy-gyula-cegei-muanyag-kismotor-nyuszimotor-vasarlas-feljelentes-katai-nemeth-vilmos",
-      "summary": "A miniszter bekérette a beszerzésben részt vett szereplőket és a szerződéseket."
     }
   ],
   "Portfolio": [],
@@ -238,9 +238,9 @@
       "summary": "The decision followed a safeguarding investigation opened by the the Football Association."
     },
     {
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
-      "link": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone."
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding."
     },
     {
       "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
@@ -273,11 +273,6 @@
       "summary": "The crew of a sanctioned oil tanker were rescued off Oman after it was struck by a missile fired from a US fighter jet."
     },
     {
-      "title": "Iranian group could be labelled national threat under proposed new law",
-      "link": "https://www.bbc.com/news/articles/cgqj8xzkqqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government is introducing the National Security (State Threats) Bill which could become law within weeks."
-    },
-    {
       "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
       "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
       "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them."
@@ -306,11 +301,21 @@
       "title": "Scrapping of Franco-German fighter jet leaves allies at odds on defence future",
       "link": "https://www.bbc.com/news/articles/ckg02541ykpo?at_medium=RSS&at_campaign=rss",
       "summary": "The flagship partnership project became a glaring example of discord between the two nations."
+    },
+    {
+      "title": "Man who killed partner 'resented how revered she was'",
+      "link": "https://www.bbc.com/news/articles/c1d2v0wz6wpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Annabel Rook was murdered by her partner at their Stoke Newington home after she tried to end their relationship."
     }
   ],
   "TechCrunch": [
     {
-      "title": "Hey Siri, here’s what I actually want from AI",
+      "title": "GM joins race to build batteries for AI data centers and the grid",
+      "link": "https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/",
+      "summary": "GM is developing an entirely new sodium-ion battery chemistry for use in everything from data centers to its own factories."
+    },
+    {
+      "title": "Hey, Siri, here’s what I actually want from AI",
       "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
       "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
     },
@@ -336,7 +341,7 @@
     },
     {
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
     },
     {
@@ -378,12 +383,83 @@
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
       "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round."
-    },
-    {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: De novo design of quasisymmetric two-component protein cages",
+      "link": "https://www.nature.com/articles/s41586-026-10763-6",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10763-6\">doi:10.1038/s41586-026-10763-6</a></p>Author Correction: De novo design of quasisymmetric two-component protein cages"
+    },
+    {
+      "title": "Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components",
+      "link": "https://www.nature.com/articles/s41586-026-10769-0",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10769-0\">doi:10.1038/s41586-026-10769-0</a></p>Author Correction: PTC-bearing mRNA elicits a genetic compensation response via Upf3a and COMPASS components"
+    },
+    {
+      "title": "Author Correction: A broadly protective antibody targeting gammaherpesvirus gB",
+      "link": "https://www.nature.com/articles/s41586-026-10745-8",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10745-8\">doi:10.1038/s41586-026-10745-8</a></p>Author Correction: A broadly protective antibody targeting gammaherpesvirus gB"
+    },
+    {
+      "title": "A unicellular relative links aggregative multicellularity to animal origins",
+      "link": "https://www.nature.com/articles/s41586-026-10748-5",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10748-5\">doi:10.1038/s41586-026-10748-5</a></p>A unicellular relative links aggregative multicellularity to animal origins"
+    },
+    {
+      "title": "AI technology must serve human cognitive development, not the other way around",
+      "link": "https://www.nature.com/articles/d41586-026-01848-3",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01848-3\">doi:10.1038/d41586-026-01848-3</a></p>AI technology must serve human cognitive development, not the other way around"
+    },
+    {
+      "title": "A treasure trove of Neolithic necklace beads",
+      "link": "https://www.nature.com/articles/d41586-026-01810-3",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01810-3\">doi:10.1038/d41586-026-01810-3</a></p>Archaeological findings from Italy, and machines with a life of their own, in our weekly dip into Nature’s archive."
+    },
+    {
+      "title": "Arson attacks at Ebola hospitals are a cry for regional development",
+      "link": "https://www.nature.com/articles/d41586-026-01846-5",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01846-5\">doi:10.1038/d41586-026-01846-5</a></p>Arson attacks at Ebola hospitals are a cry for regional development"
+    },
+    {
+      "title": "Science must be seen as a viable profession for the many, not the few",
+      "link": "https://www.nature.com/articles/d41586-026-01849-2",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01849-2\">doi:10.1038/d41586-026-01849-2</a></p>Science must be seen as a viable profession for the many, not the few"
+    },
+    {
+      "title": "Preventing cancer requires more than a list of carcinogens",
+      "link": "https://www.nature.com/articles/d41586-026-01847-4",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01847-4\">doi:10.1038/d41586-026-01847-4</a></p>Preventing cancer requires more than a list of carcinogens"
+    },
+    {
+      "title": "Ocean ‘cold blob’ is evidence for a troubling climate trend",
+      "link": "https://www.nature.com/articles/d41586-026-01826-9",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01826-9\">doi:10.1038/d41586-026-01826-9</a></p>Weakening of a major ocean-current system is causing temperatures to drop in a patch of the Atlantic Ocean."
+    },
+    {
+      "title": "World-first: therapy to make cells young again trialled in a person",
+      "link": "https://www.nature.com/articles/d41586-026-01836-7",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01836-7\">doi:10.1038/d41586-026-01836-7</a></p>A participant in a landmark clinical trial has been given a cellular-reprogramming treatment that aims to rejuvenate damaged cells in the eye."
+    },
+    {
+      "title": "People are turning to AI chatbots to plug gaps in health information",
+      "link": "https://www.nature.com/articles/d41586-026-01737-9",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01737-9\">doi:10.1038/d41586-026-01737-9</a></p>A systematic assessment of health-related queries to a chatbot powered by artificial intelligence highlights shortfalls in health-care provision and the responsibilities of AI companies."
+    },
+    {
+      "title": "Let’s talk about biomedical research kits",
+      "link": "https://www.nature.com/articles/d41586-026-00799-z",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-00799-z\">doi:10.1038/d41586-026-00799-z</a></p>Although undoubtably helpful in many ways, experimental assay kits risk undermining the fundamentals of science. How can we course correct?"
+    },
+    {
+      "title": "Don’t compete, collaborate: why collective funding applications are the future",
+      "link": "https://www.nature.com/articles/d41586-026-01815-y",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01815-y\">doi:10.1038/d41586-026-01815-y</a></p>Scientists with disparate expertise writing grants together can identify knowledge gaps and drive progress — but systems must change to incentivize them."
+    },
+    {
+      "title": "The best way to start your day? The science backs naked cartwheels in the sun",
+      "link": "https://www.nature.com/articles/d41586-026-01822-z",
+      "summary": "<p>Nature, Published online: 09 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01822-z\">doi:10.1038/d41586-026-01822-z</a></p>A dazzling book explains our bodies’ dependence on sunlight for everything from sleep to skin and bone health."
+    }
+  ]
 }

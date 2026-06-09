@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Kormányzati törvénycsomag az uniós forrásokért",
-      "summary": "A kormány benyújtotta törvénycsomagját az Európai Unió felé, mely többek között börtönt helyez kilátásba a vagyon eltitkolásáért és megerősíti az Integritás Hatóságot. A cél az uniós ezermilliárdok felszabadítása Magyarország számára.",
+      "title": "Kormányzati törvényjavaslat az uniós források felszabadításáért",
+      "summary": "A kormány benyújtotta azt a törvénycsomagot, amelynek célja az uniós források felszabadítása. Ez magában foglalja a vagyoneltitkolás büntetését és az Integritás Hatóság megerősítését.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter ismét találkozna Sulyok Tamással",
-      "summary": "Magyar Péter elmondta, hogy még egyszer négyszemközti megbeszélést kezdeményezne Sulyok Tamással, mert szerinte újdonságokat is tudna mondani neki. A politikus hangsúlyozta a párbeszéd fontosságát.",
+      "title": "Nyomozást rendelt el az ügyészség a Molnál történt bennfentes kereskedelem gyanúja miatt",
+      "summary": "Az ügyészség felülírta a rendőrség korábbi döntését, és nyomozást indított a Mol vezetőinek gyanús ügyletei ügyében. A vádak bennfentes kereskedelemre utalnak.",
       "importance": 4
     },
     {
-      "title": "Nyomozás indult a Molnál bennfenteskereskedelem gyanúja miatt",
-      "summary": "Az ügyészség felülírta a rendőrség korábbi döntését, és elrendelte a nyomozást a Molnál felmerült bennfenteskereskedelem gyanújával kapcsolatban. A gyanús ügy részleteit vizsgálják.",
+      "title": "Magyar Péter négyszemközti találkozót sürget Sulyok Tamással",
+      "summary": "Magyar Péter kijelentette, hogy szeretne még egyszer négyszemközt leülni Sulyok Tamás köztársasági elnökkel. Szerinte újdonságokat is tudna mondani neki.",
       "importance": 4
     },
     {
-      "title": "Hatályba lép a devizahiteles törvény",
-      "summary": "Sulyok Tamás aláírta a devizahiteles törvényt, amely szerdán lép hatályba. A jogszabály várhatóan számos érintett helyzetére kihatással lesz, enyhítve a devizahitelesek terheit.",
-      "importance": 4
+      "title": "A Tisza Párt módosítaná a parlamenti házszabályt",
+      "summary": "A Tisza Párt kezdeményezné a parlamenti házszabály módosítását, hogy felgyorsítsa a törvényhozási munkát. A párt szerint 8000 milliárd ok van a változtatásra.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Trump szerint Irán lőtte le az amerikai helikoptert",
-      "summary": "Donald Trump volt amerikai elnök azt állítja, irániak lőtték le az amerikai helikoptert, és szerinte válaszlépés szükséges. A kijelentés komoly geopolitikai feszültségeket kelthet a térségben.",
+      "title": "Eskalálódik a konfliktus az Egyesült Államok és Irán között",
+      "summary": "Az amerikai hadsereg csapásokat mért Iránra, miközben hírek érkeztek arról, hogy irániak lőhettek le egy amerikai helikoptert. Trump elnök válaszcsapást sürget.",
       "importance": 5
     },
     {
       "title": "Zavargások törtek ki Belfastban",
-      "summary": "Zavargások kezdődtek Belfastban, ahol felgyújtott buszok, petárdafüst és szélsőjobbos összecsapások jellemezték a helyzetet. Az események egy szudáni férfi utcai támadását követően eszkalálódtak.",
+      "summary": "Felgyújtott buszok és szélsőjobbos zavargások jellemezték a belfasti helyzetet egy szudáni férfi támadása után. A helyzet súlyos feszültségeket mutat.",
       "importance": 4
     },
     {
-      "title": "Felfüggesztette főügyészét a Nemzetközi Büntetőbíróság",
-      "summary": "Szexuális zaklatás gyanúja miatt felfüggesztette főügyészét a Nemzetközi Büntetőbíróság (ICC). Az ügy súlyosan érinti a szervezet hitelességét és működését.",
+      "title": "Nők ritka tüntetése Afganisztánban, halálos áldozatokkal",
+      "summary": "Két ember meghalt, miközben nők vettek részt egy ritka tüntetésen Afganisztánban. A megmozdulás a nők jogaiért zajló harc fontos jele.",
       "importance": 4
     },
     {
-      "title": "Halálos áldozatok Afganisztánban egy ritka női tüntetésen",
-      "summary": "Két ember vesztette életét egy ritka női tüntetésen Afganisztánban, ahol nők a jogaikért vonultak utcára. Az eset rávilágít az országban uralkodó emberi jogi helyzet súlyosságára.",
+      "title": "Gyermekgyilkosság Franciaországban, a kormányra nehezedő nyomás",
+      "summary": "Egy 11 éves lány meggyilkolása Franciaországban hatalmas felháborodást váltott ki. Az eset növeli a nyomást a kormányra a közbiztonság ügyében.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple bemutatta az iOS 27-et és az Apple Intelligence-t a WWDC-n",
-      "summary": "Az Apple a WWDC konferencián mutatta be az iOS 27-et és az Apple Intelligence-t, melynek fókuszában a Siri AI képességeinek bővítése áll. Ez a fejlesztés új korszakot nyithat az Apple ökoszisztémájában és az AI felhasználásában.",
+      "title": "Apple bejelentések a WWDC-n: AI, iOS és Siri fejlesztések",
+      "summary": "Az Apple bemutatta legújabb fejlesztéseit az AI, az iOS és a Siri terén, különös tekintettel az Apple Intelligence-re. Ezek a változások milliók számára jelentenek újdonságot.",
       "importance": 5
     },
     {
-      "title": "Sürgős VPN-hiba javításra szólította fel a CISA az amerikai ügynökségeket",
-      "summary": "Az amerikai CISA kiberbiztonsági ügynökség három napot adott a szövetségi hivataloknak egy kritikus VPN-hiba kijavítására, amelyet ransomware-bandák támadnak. A gyors intézkedés célja a további támadások megelőzése és a hálózatok védelme.",
+      "title": "A GM akkumulátorokat fejleszt AI adatközpontokhoz és az elektromos hálózathoz",
+      "summary": "A General Motors beszáll az AI adatközpontok és az elektromos hálózat számára tervezett akkumulátorok gyártásának versenyébe. Ez egy stratégiai lépés az energiahatékonyság felé.",
       "importance": 4
     },
     {
-      "title": "Streaming-stílusú előfizetési csomagok az Apple App Store-ban",
-      "summary": "Az Apple streaming-szolgáltatásokhoz hasonló előfizetési csomagokat vezet be az App Store-ba, lehetővé téve a felhasználóknak több alkalmazás együttes előfizetését kedvezményesen. Ez jelentős változást hozhat az alkalmazás-ökoszisztémában és a fejlesztők üzleti modelljében.",
-      "importance": 3
+      "title": "Az Anthropic Fable 5 AI-val képes videójátékokat generálni",
+      "summary": "Az Anthropic bemutatta a Fable 5-öt, egy olyan AI eszközt, amely egy gombnyomással képes videójátékokat létrehozni. Ez új távlatokat nyit a játékfejlesztésben.",
+      "importance": 4
     },
     {
-      "title": "Megkezdődött a Rivian R2 SUV-ok kiszállítása",
-      "summary": "Megkezdődtek a Rivian rendkívül fontos R2 SUV modelljének kiszállításai, ami jelentős mérföldkő az elektromos járművek piacán. A cég ezzel igyekszik szélesebb vásárlói réteget elérni és megerősíteni pozícióját a versenyben.",
-      "importance": 3
+      "title": "CISA figyelmeztetés kritikus VPN sebezhetőségre",
+      "summary": "Az amerikai CISA ügynökség három napot adott a szövetségi ügynökségeknek egy kritikus VPN sebezhetőség javítására. A hibát ransomware támadások is kihasználják.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Ígéretes AI-jal fejlesztett Covid elleni szupervakcina",
-      "summary": "Mesterséges intelligencia segítségével fejlesztettek ki egy új szupervakcinát a Covid ellen, melynek első vizsgálatai rendkívül ígéretes eredményeket mutattak. Ez áttörést jelenthet a járványok elleni védekezésben és a gyógyszerfejlesztésben.",
+      "title": "Világpremier: sejtfiatalító terápia embereken",
+      "summary": "Egy világon egyedülálló sejtfiatalító terápiát próbálnak ki embereken, ami reményt adhat az öregedéssel járó betegségek kezelésére. Az első vizsgálatok ígéretesek.",
       "importance": 5
     },
     {
-      "title": "A NASA megnevezte az Artemis Holdprogram legénységét",
-      "summary": "A NASA nyilvánosságra hozta az Artemis III Holdprogramban részt vevő űrhajósok nevét, akik a tervek szerint a Holdra fognak utazni. Ez a küldetés új fejezetet nyit az emberes űrrepülés történetében és a Hold felfedezésében.",
-      "importance": 5
-    },
-    {
-      "title": "Atomrobbanás szimulációja egy csőben",
-      "summary": "Tudósok atomrobbanást szimuláltak egy csőben, hogy jobban megértsék a detonáció utáni hatásokat. A kutatás hozzájárulhat az atomenergia biztonságosabb felhasználásához és a nukleáris fegyverek megértéséhez.",
+      "title": "AI segítségével fejlesztettek szupervakcinát a Covid ellen",
+      "summary": "Mesterséges intelligencia felhasználásával fejlesztettek ki egy ígéretes szupervakcinát a Covid ellen. Az első vizsgálatok biztató eredményeket mutattak.",
       "importance": 4
     },
     {
-      "title": "Az Anthropic Fable 5 AI-val hoz létre videójátékokat",
-      "summary": "Az Anthropic bemutatta Fable 5 nevű mesterséges intelligenciáját, amely egy gombnyomással képes szórakoztató videójátékokat generálni. Ez a fejlesztés az AI kreatív alkalmazásának új lehetőségeit mutatja be és a generatív modellek fejlődését jelzi.",
+      "title": "Az óceáni „hideg folt” aggasztó klímajelenségre utal",
+      "summary": "Az óceánokban megfigyelt „hideg folt” komoly bizonyítékot szolgáltat egy aggasztó klímaváltozási trendre. Ez a jelenség hosszú távú hatással lehet a tengeri élővilágra.",
+      "importance": 4
+    },
+    {
+      "title": "Új felfedezés az aggregatív többsejtűség és az állati eredet kapcsolatáról",
+      "summary": "Egy egysejtű rokon segít megérteni az aggregatív többsejtűség és az állati eredet közötti kapcsolatot. Ez a felfedezés alapvető betekintést nyújt az evolúcióba.",
       "importance": 3
     }
   ],
   "sports": [
     {
       "title": "A magyar válogatott legyőzte Kazahsztánt",
-      "summary": "A magyar labdarúgó-válogatott nehézkes kezdés után 3-1-re győzte le Kazahsztánt, ezzel megőrizve idei veretlenségét. Schäfer András látványos gólt szerzett a mérkőzésen, hozzájárulva a sikerhez.",
-      "importance": 5
-    },
-    {
-      "title": "Serena Williams visszatért a Queen's-en",
-      "summary": "Serena Williams visszatért a teniszpályára a Queen's-en, ahol régi formáját idézve lépett fel. A sportvilág nagy figyelemmel kíséri a legendás játékos visszatérését a profi küzdelmekbe.",
+      "summary": "A magyar labdarúgó-válogatott 3-1-re verte Kazahsztánt egy barátságos mérkőzésen. Schäfer András látványos gólt szerzett.",
       "importance": 4
     },
     {
-      "title": "Kamera zuhant a pályára a magyar-kazah meccsen",
-      "summary": "Egy füstölgő kamera zuhant a debreceni stadion pályájára a Magyarország–Kazahsztán barátságos mérkőzés közben. Az incidens nem okozott sérülést, de rövid időre meg kellett szakítani a játékot.",
+      "title": "Serena Williams visszatér a teniszpályára",
+      "summary": "Serena Williams a Queen's tornán tért vissza, ahol régi formáját idéző játékot mutatott be. A sportvilág figyelemmel kíséri a legendás játékos visszatérését.",
+      "importance": 4
+    },
+    {
+      "title": "David Sullivant eltiltották a West Ham női és utánpótlás csapatoktól",
+      "summary": "David Sullivant, a West Ham tulajdonosát eltiltották a klub női és utánpótlás csapataival való kapcsolattartástól 2023 óta. Az okokról nem adtak részletes tájékoztatást.",
       "importance": 3
     },
     {
-      "title": "Aggodalmak a foci-vb-re utazó szurkolók körében",
-      "summary": "Az Egyesült Államokban az idegenrendészeti szabályok és az árak, Mexikóban pedig a kartellek miatt aggódnak a közelgő foci-világbajnokságra érkező szurkolók. A házigazda országok biztonsági és logisztikai kihívásokkal néznek szembe.",
+      "title": "Kamera zuhant a pályára a magyar-kazah meccsen",
+      "summary": "Egy füstölgő kamera zuhant a debreceni stadion pályájára a Magyarország-Kazahsztán barátságos mérkőzés közben. Az eset szerencsére személyi sérülés nélkül zárult.",
       "importance": 3
     }
   ]

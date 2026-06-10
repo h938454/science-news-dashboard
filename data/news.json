@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Véresek vagyunk, de jót akarunk",
+      "link": "https://telex.hu/karakter/kultura/2026/06/10/budaorsi-latinovits-szinhaz-julius-caesar-alfoldi-robert-biro-bence-stohl-andras",
+      "summary": "Alföldi Róbert Julius Caesart rendezett, hogy mindenkit emlékeztessen: a hatalom természete nem változik, a demokrácia törékeny, a hamisan csengő jelszavak évezredek alatt sem koptak el. Nem árt résen lenni! Kritika."
+    },
+    {
       "title": "Kapitány István új részleteket jelentett be az 500 milliárdos EU-s energetikai fejlesztésekről",
       "link": "https://telex.hu/gazdasag/2026/06/10/kapitany-istvan-energiaellatas-infrastruktura-eu-penzek-europai-bizottsag",
       "summary": "Okosmérők telepítése és nagyszabású hálózatfejlesztés is szerepel a tervek között."
@@ -69,15 +74,86 @@
       "title": "Bill Gates szerint Epstein megpróbált nyomást gyakorolni rá magánéleti információkkal",
       "link": "https://telex.hu/kulfold/2026/06/10/egyesult-allamok-bill-gates-kongresszus-vizsgalat-jeffrey-epsteinhez-kapcsolat",
       "summary": "A milliárdos zárt ajtók mögött nyilatkozik a vizsgálóbizottságnak az Epsteinnel folytatott kapcsolatáról."
-    },
-    {
-      "title": "Kegyetlennek és szokatlannak találta egy amerikai bíró, hogy Alabamában nitrogéngázba fojtják a halálra ítélteket",
-      "link": "https://telex.hu/kulfold/2026/06/10/szokatlan-es-kegyetlen",
-      "summary": "Márpedig az amerikai alkotmány tiltja a kegyetlen és szokatlan büntetéseket, vagyis többé nem használhatják az államban ezt a kivégzési módot."
     }
   ],
   "Portfolio": [],
-  "444": [],
+  "444": [
+    {
+      "title": "Nagyobb részesedést alkudtak ki maguknak a szerbek a MOL-tól a NIS-ről szóló tárgyalásokon",
+      "link": "https://444.hu/2026/06/10/nagyobb-reszesedest-alkultak-ki-maguknak-a-szerbek-a-mol-tol-a-nis-rol-szolo-targyalasokon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Így nagyobb befolyása lesz a szerb államnak a stratégiai jelentőségű döntéseknél."
+    },
+    {
+      "title": "Leszedeti a Tisza-kormány a közintézmények faláról a Nemzeti Hitvallást, tárgyalták a vagyonadó bevezetését",
+      "link": "https://444.hu/2026/06/10/leszedeti-a-tisza-kormany-a-kozintezmenyek-falarol-a-nemzeti-hitvallast-targyaltak-a-vagyonado-bevezeteset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Magyar Péter azt ígéri, hogy megszüntetik „a kriptovaluták kriminalizását” is."
+    },
+    {
+      "title": "Trump szerint nagyszerű, hogy három éve nem látott szintre ugrott az infláció, mert ő imádja az inflációt",
+      "link": "https://444.hu/2026/06/10/trump-szerint-nagyszeru-hogy-harom-eve-nem-latott-szintre-ugrott-az-inflacio-mert-o-imadja-az-inflaciot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az elnökválasztási kampányban még azt ígérte, hogy az árak letörése lesz az egyik legfontosabb célja."
+    },
+    {
+      "title": "Trump újabb csapásokkal fenyegette meg Iránt",
+      "link": "https://444.hu/2026/06/10/trump-ujabb-csapasokkal-fenyegette-meg-irant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az amerikai hadsereg szerdán már kilőtt egy olajszállító tankert az Ománi-öbölben."
+    },
+    {
+      "title": "„A FIFA pénzügyei szempontjából biztosan jó, nézőként viszont borzalmas döntés a 48 csapatos vébé”",
+      "link": "https://444.hu/2026/06/10/a-fifa-penzugyei-szempontjabol-biztosan-jo-nezokent-viszont-borzalmas-dontes-a-48-csapatos-vebe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Tényező lehet Donald Trump és a politika a futball-világbajnokságon? Dobhat-e még nagyot Messi vagy Ronaldo? Miért Franciaország és Spanyolország tűnik a legnagyobb esélyesnek? Curacao okozhat meglepetést? Vb-felvezető Szabó Christophe újságíróval, az Omlett du fromage szerzőjével."
+    },
+    {
+      "title": "Letartóztatták a tiltott potencianövelőkkel kereskedő bűnbanda öt tagját, az egyik gyanúsított ismert magyar testépítő",
+      "link": "https://444.hu/2026/06/10/letartoztattak-a-tiltott-potencianovelokkel-kereskedo-bunbanda-ot-tagjat-az-egyik-gyanusitott-ismert-magyar-testepito?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A hálózat éves forgalma meghaladta az egymilliárd forintot."
+    },
+    {
+      "title": "Budapesttől és a megyei jogú városoktól nem von el iparűzésiadó-többletet a Pénzügyminisztérium",
+      "link": "https://444.hu/2026/06/10/budapesttol-es-a-megyei-jogu-varosoktol-nem-von-el-iparuzesiado-tobbletet-a-penzugyminiszterium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Összesen 5,8 milliárdot szednek be."
+    },
+    {
+      "title": "Az ukránok bíznak abban, hogy a közeljövőben találkozhat Magyar Péter és Volodimir Zelenszkij",
+      "link": "https://444.hu/2026/06/10/az-ukranok-biznak-abban-hogy-a-kozeljovoben-talalkozhat-magyar-peter-es-volodimir-zelenszkij?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Úgy látják, a legérzékenyebb kérdéseket már megoldották."
+    },
+    {
+      "title": "Narancssárga riasztást adtak ki három megyére, éjjel heves zivatarok csaphatnak le az országra",
+      "link": "https://444.hu/2026/06/10/narancssarga-riasztast-adtak-ki-harom-megyere-ejjel-heves-zivatarok-csaphatnak-le-az-orszagra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Felkészül: Baranya, Somogy és Tolna."
+    },
+    {
+      "title": "Erdoğan szerint Izrael támadásai már Törökországot is fenyegetik",
+      "link": "https://444.hu/2026/06/10/erdogan-szerint-izrael-tamadasai-mar-torokorszagot-is-fenyegetik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A török elnök szerint Izrael a regionális béke legnagyobb akadálya."
+    },
+    {
+      "title": "Több mint 500 milliárd forintnyi pályázatot írt ki a kormány a még el sem fogadott új helyreállítási tervre",
+      "link": "https://444.hu/2026/06/10/tobb-mint-500-milliard-forintnyi-palyazatot-irt-ki-a-kormany-a-meg-el-sem-fogadott-uj-helyreallitasi-tervre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Energetikai beruházásokra lehet támogatást igényelni, roppant feszes határidővel."
+    },
+    {
+      "title": "Hallgatói megfigyelőket ültetnek a záróvizsgákra az ELTE jogi karán",
+      "link": "https://444.hu/2026/06/10/hallgatoi-megfigyeloket-ultetnek-a-zarovizsgakra-az-elte-jogi-karan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Sok panasz érkezett bizonyos tanárok viselkedésére."
+    },
+    {
+      "title": "Ez az a törvény, ami miatt magzatpózban sírhatnak a fideszesek",
+      "link": "https://444.hu/2026/06/10/ez-az-a-torveny-ami-miatt-magzatpozban-sirhatnak-a-fideszesek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Megszűnik több közérdekű vagyonkezelő alapítvány, amibe a Fidesz nagyon sokat tett. Nem csak anyagi értelemben – de persze úgy is. A lépéssel kastélyok, drága ingatlanok és több száz milliárd forintnyi részvénycsomag is visszakerül az államhoz. Néhánynak van esélye a túlélésre, szerényebb keretek között."
+    },
+    {
+      "title": "Visszavitetik a kulturális minisztériumban talált antik bútorokat az Iparművészeti Múzeumba",
+      "link": "https://444.hu/2026/06/10/visszavitetik-a-kulturalis-miniszteriumban-talalt-antik-butorokat-az-iparmuveszeti-muzeumba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nagy Ervin szerint inkább ott a helyük."
+    },
+    {
+      "title": "Bíróság elé állították a belfasti késelés gyanúsítottját, Starmer az internetes uszítókat is felelőssé tette a zavargásokért",
+      "link": "https://444.hu/2026/06/10/birosag-ele-allitottak-a-belfasti-keseles-gyanusitottjat-starmer-az-internetes-uszitokat-is-felelosse-tette-a-zavargasokert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Elon Musk is megosztotta azokat a bejegyzéseket, amelyek után kedd éjszaka maszkos csoportok etnikai kisebbségek otthonaira támadtak, valamint több házat és autót is felgyújtottak."
+    }
+  ],
   "HVG": [
     {
       "title": "A Mol megegyezett a szerbekkel a NIS felvásárlásáról",
@@ -157,9 +233,9 @@
   ],
   "BBC": [
     {
-      "title": "'I'll never get over watching my home burn': Belfast residents reel after night of unrest",
-      "link": "https://www.bbc.com/news/articles/cevl9j9y8dmo?at_medium=RSS&at_campaign=rss",
-      "summary": "A night of disorder in Belfast saw people forced to flee their homes, in protests that followed a knife attack in the north of the city."
+      "title": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
+      "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Central Comand said its latest airstrikes were responding to \"unwarranted and continued aggression\" from Iran."
     },
     {
       "title": "Essex Police given new information on West Ham co-owner David Sullivan",
@@ -167,9 +243,14 @@
       "summary": "Police have been contacted with new information about the West Ham co-owner following a BBC Panorama and Times investigation."
     },
     {
-      "title": "Trump says US will hit Iran 'hard' again today",
-      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks."
+      "title": "Fireworks illuminate Barcelona's Sagrada Família during Pope visit",
+      "link": "https://www.bbc.com/news/videos/ce95gmdlp98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV says Barcelona's iconic Sagrada Família is a masterpiece of \"stones, colours and light\" during his visit to Spain."
+    },
+    {
+      "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
+      "link": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it."
     },
     {
       "title": "Changing visa rules for care workers is wrong, says Rayner",
@@ -202,11 +283,6 @@
       "summary": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him."
     },
     {
-      "title": "Ukraine says missiles hit military plant deep inside Russia",
-      "link": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea."
-    },
-    {
       "title": "Destruction shows torched homes and vehicles",
       "link": "https://www.bbc.com/news/videos/cj9gnrr2k0ro?at_medium=RSS&at_campaign=rss",
       "summary": "Houses, vehicles and a bus were set on fire during violent protests on Tuesday night after a knife attack in Belfast."
@@ -233,6 +309,21 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "summary": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+    },
+    {
+      "title": "Why Andrew Yang is building instead of waiting for Washington",
+      "link": "https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/",
+      "summary": "Andrew Yang’s 2020 presidential campaign&#160;was based on a&#160;warning that automation and AI would hollow out the labor market and concentrate wealth in the hands of a few. At the time, ideas like Universal Basic Income felt fringe. Now Dario Amodei, Sam Altman, and Bernie Sanders are all&#160;saying versions&#160;of the same thing.&#160; An entrepreneur at heart, [&#8230;]"
+    },
+    {
+      "title": "Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations",
+      "link": "https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/",
+      "summary": "The ShinyHunters hacking gang claims to have compromised the Oracle PeopleSoft servers of more than 100 organizations, including many universities."
+    },
     {
       "title": "Everyone wants a piece of Tesla’s battery business",
       "link": "https://techcrunch.com/2026/06/10/everyone-wants-a-piece-of-teslas-battery-business/",
@@ -292,21 +383,6 @@
       "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
       "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
       "summary": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
-    },
-    {
-      "title": "The three hard-tech moonshots fueling SpaceX’s unbelievable IPO",
-      "link": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "summary": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
-    },
-    {
-      "title": "Pinterest bets on creators with Amazon Storefront integration",
-      "link": "https://techcrunch.com/2026/06/10/pinterest-bets-on-creators-with-amazon-storefront-integration/",
-      "summary": "Pinterest is adding support for Amazon Storefronts, allowing creators to earn affiliate commissions more easily while showcasing their product recommendations in one place."
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "link": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "summary": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
     }
   ],
   "Nature": [

@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "19 százalékos ugrással zárta az első tőzsdei napját a SpaceX",
+      "link": "https://telex.hu/gazdasag/2026/06/13/spacex-nasdaq-tozsde-elon-musk",
+      "summary": "Egy nap alatt több mint 500 millió részvény cserélt gazdát."
+    },
+    {
       "title": "Először szerzett pontot a világbajnokságok történetében Kanada",
       "link": "https://telex.hu/sport/2026/06/12/kanada-bosznia-hercegovina-csoportkor",
       "summary": "Hiába szereztek a bosnyákok a román bajnokság gólkirályának fejesével vezetést, a társrendezőnek a második ivószünet után sikerült kiegyenlíteni."
@@ -69,11 +74,6 @@
       "title": "Jön a filléres szemaglutid, és a világ soha többé nem lesz olyan, mint volt",
       "link": "https://telex.hu/techtud/2026/06/12/szemaglutid-fogyasztoszerek-novo-nordisk-lejar-a-szabadalom-jonnek-a-generikus-gyogyszerek",
       "summary": "Idén lejárt az egyik legnépszerűbb fogyasztó csodaszer hatóanyagának szabadalmi védettsége, ami az árak brutális zuhanásához fog vezetni. Több százmillió embernek válik fogyókúra helyett csupán elhatározás és pár ezer forint kérdésévé megszabadulnia a túlsúlytól – de a szép új világ új problémákkal is jár."
-    },
-    {
-      "title": "Megszűnő MTVA és Független Közmédia Testület – a Tisza benyújtotta a médiatörvény átalakításáról szóló javaslatot",
-      "link": "https://telex.hu/belfold/2026/06/12/tisza-part-mtva-atalakitasa-torvenyjavaslat-kozmedia",
-      "summary": "Tarr Zoltán miniszter szerint a rendszerváltásnak el kell jutnia a közmédiáig, a médiahatóságig és a közpénzből működő nyilvánosság egészéig."
     }
   ],
   "Portfolio": [],
@@ -253,14 +253,29 @@
       "summary": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money."
     },
     {
-      "title": "Defence row exposes tensions over how to keep UK safe",
-      "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\"."
+      "title": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
+      "link": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan."
+    },
+    {
+      "title": "'We'll go crazy for a goal' - Excitement builds ahead of USA World Cup match",
+      "link": "https://www.bbc.com/news/videos/c0myvem11ymo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC spoke to US fans at the Fifa Fan Festival in Los Angeles ahead of the team's match against Paraguay."
     },
     {
       "title": "King leads tributes to 'giant of the art world' David Hockney",
       "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
       "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says."
+    },
+    {
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
+    },
+    {
+      "title": "Defence row exposes tensions over how to keep UK safe",
+      "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\"."
     },
     {
       "title": "Watch: David Beckham receives star on the Hollywood Walk of Fame",
@@ -273,24 +288,14 @@
       "summary": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism."
     },
     {
-      "title": "Former Arsenal midfielder Thomas Partey denied entry to Canada for Ghana's World Cup opener",
-      "link": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada."
-    },
-    {
-      "title": "Watch: Four UFO videos newly declassified by US government",
-      "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
-      "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US."
-    },
-    {
       "title": "Delta Goodrem becomes third celebrity to join Strictly Come Dancing",
       "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
       "summary": "Goodrem rose to fame in Australian soap opera Neighbours"
     },
     {
-      "title": "World Cup kicks off in Canada with Alanis Morissette and Michael Bublé performing in opening ceremony",
-      "link": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The opening games in Toronto and Los Angeles on Friday include star-studded performances."
+      "title": "'It's all they're talking about': Scotland gripped by World Cup fever",
+      "link": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss",
+      "summary": "Excitement is building ahead of Scotland's first game in the men's World Cup for 28 years."
     },
     {
       "title": "Scotland's McTominay 'ready to go' after illness",
@@ -301,14 +306,19 @@
       "title": "South Africa trolled by African fans in wake of World Cup loss",
       "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
       "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa."
-    },
-    {
-      "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
-      "link": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss",
-      "summary": "Kim Kardashian, Timothée Chalamet and Susan Boyle feature in ambitious ads ahead of the World Cup."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
+    },
+    {
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
+    },
     {
       "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
       "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
@@ -318,11 +328,6 @@
       "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
       "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price."
-    },
-    {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
     },
     {
       "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
@@ -378,11 +383,6 @@
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
       "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
       "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun."
-    },
-    {
-      "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
-      "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers."
     }
   ],
   "Nature": [

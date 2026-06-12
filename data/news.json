@@ -1,9 +1,39 @@
 {
   "Telex": [
     {
+      "title": "Először szerzett pontot a világbajnokságok történetében Kanada",
+      "link": "https://telex.hu/sport/2026/06/12/kanada-bosznia-hercegovina-csoportkor",
+      "summary": "Hiába szereztek a bosnyákok a román bajnokság gólkirályának fejesével vezetést, a társrendezőnek a második ivószünet után sikerült kiegyenlíteni."
+    },
+    {
+      "title": "Magyar Péter kormánybiztossá nevezte ki Bódist, Rostot és Radnait",
+      "link": "https://telex.hu/belfold/2026/06/12/bodis-kriszta-radnai-mark-rost-andrea-kormanybiztosok-kinevezesei",
+      "summary": "Megjelent a közlönyben a kinevezésükről szóló határozat."
+    },
+    {
+      "title": "Trump ketrecharcos önünneplése a Fehér Ház kertjében még saját választóiban is visszatetszést kelt",
+      "link": "https://telex.hu/kulfold/2026/06/12/trump-szuletesnap-feher-haz-ufc-ketrecharc-mma-dana-white-gala-elozetes",
+      "summary": "Kánikulától és szúnyoginváziótól egyaránt féltik a bombaerős felhozatallal készülő UFC Freedom 250 gálát, amivel Trump 80. születésnapját ünneplik vasárnap. A rendezvényt sokan kritizálták a köz- és magánérdek összemosását, a személyi kultuszt vagy az egészet belengő nacionalista tesztoszteronvurstlit felhánytorgatva."
+    },
+    {
+      "title": "Többet kereshetnek mostantól a helyettes államtitkárok",
+      "link": "https://telex.hu/belfold/2026/06/12/helyettes-allamtitkarok-fizetesenek-felso-hatarat-emelik-kozlony",
+      "summary": "Egy friss rendeletben megemelték a fizetési sávjuk felső határát."
+    },
+    {
+      "title": "Magyar Péter kirúgta négy magyar titkosszolgálat vezetőit",
+      "link": "https://telex.hu/belfold/2026/06/12/kozlony-magyar-peter-felmentette-a-negy-titkosszolgalat-vezetojet",
+      "summary": "A miniszterelnök határozattal mentette fel az AH, az IH, a szakszolgálat és a katonai nemzetbiztonsági szolgálat főigazgatóit."
+    },
+    {
+      "title": "Az iráni vezetés is biztató nyilatkozatot adott ki az amerikai béketárgyalások állásáról",
+      "link": "https://telex.hu/kulfold/2026/06/12/iran-amerikai-egyesult-allamok-haboru-megallapodas-kozel-van-aragcsi-szerint-is",
+      "summary": "A külügyminiszter szerint még soha nem volt ilyen közel a megegyezés."
+    },
+    {
       "title": "Június 15-én hivatalosan is elkezdődnek az EU-csatlakozási tárgyalások Ukrajnával és Moldovával",
       "link": "https://telex.hu/kulfold/2026/06/12/ukrajna-moldova-eu-tagsag-targyalasok-europai-parlament",
-      "summary": "Az EU már 2024 júniusában megkezdte a csatlakozási tárgyalásokat a két országgal, azonban az érdemi egyeztetések elindítását Magyarország vétója akadályozta."
+      "summary": "Az EU már 2024 júniusában megkezdte a csatlakozási tárgyalásokat a két országgal, de az érdemi egyeztetések elindítását Magyarország vétója akadályozta."
     },
     {
       "title": "Őslakosok táncával, piros-fehér melegítőkkel és egy hatalmas aranyszínű focilabdával indult a vb Kanadában",
@@ -11,7 +41,7 @@
       "summary": "A Toronto Stadionban elhangzott a világbajnokság hivatalos dala, de hallhattunk sámándobokat, és láthattunk egy termetes rénszarvasbábot is."
     },
     {
-      "title": "Kanada–Bosznia-Hercegovina 0-0",
+      "title": "Kanada–Bosznia-Hercegovina 1-1",
       "link": "https://telex.hu/sport/2026/06/12/kanada-bosznia-hercegovina-vb-kozvetites",
       "summary": ""
     },
@@ -44,40 +74,30 @@
       "title": "Megszűnő MTVA és Független Közmédia Testület – a Tisza benyújtotta a médiatörvény átalakításáról szóló javaslatot",
       "link": "https://telex.hu/belfold/2026/06/12/tisza-part-mtva-atalakitasa-torvenyjavaslat-kozmedia",
       "summary": "Tarr Zoltán miniszter szerint a rendszerváltásnak el kell jutnia a közmédiáig, a médiahatóságig és a közpénzből működő nyilvánosság egészéig."
-    },
-    {
-      "title": "Emelik a katonák zsoldját Ukrajnában",
-      "link": "https://telex.hu/kulfold/2026/06/12/zelenszkij-bejelentette-a-katonak-zsoldjanak-megemeleset",
-      "summary": "Forintra átszámítva bruttó 2,8 millió jár majd a front első vonalában harcolóknak, jelentette be Zelenszkij."
-    },
-    {
-      "title": "HVG: Közel kétszáz embert küldhetnek el a Mediaworkstől",
-      "link": "https://telex.hu/belfold/2026/06/12/mediaworks-200-fo-leepites-magyar-nemzet-hetilap-hvg",
-      "summary": "A lap információi szerint több átalakítás is jöhet, a Magyar Nemzetből például hetilap lehet."
-    },
-    {
-      "title": "Cristiano Ronaldo úgy érzi, fizikálisan készen áll a hatodik vb-jére",
-      "link": "https://telex.hu/sport/2026/06/12/cristiano-ronaldo-portugalia-vb-felkeszules-eselyek",
-      "summary": "A portugálok csapatkapitánya a válogatott végső győzelemmel kapcsolatos esélyeiről is beszélt."
-    },
-    {
-      "title": "A faj fennmaradását is veszélyeztetheti a tömeges teknősgázolás Szeged mellett",
-      "link": "https://telex.hu/techtud/2026/06/12/a-faj-fennmaradasat-is-veszelyeztetheti-a-tomeges-teknosgazolas-szeged-mellett",
-      "summary": "Soha nem látott mértékű pusztulás következett be, ami nem magyarázható csupán a tojásrakó helyek keresésével: a mocsári teknős élőhelye megváltozott."
-    },
-    {
-      "title": "Vészjósló klímaforgatókönyv előjele lehet a titokzatos atlanti-óceáni hideg folt egy új kutatás szerint",
-      "link": "https://telex.hu/techtud/2026/06/12/uj-kutatas-titokzatos-hideg-folt-az-oceanon-klimavaltozas-atlanti-oceani-meridionalis-aramlas-amoc",
-      "summary": "Az eredmények az Európa jelenlegi éghajlatát is garantáló atlanti tengeráramlással kapcsolatos rossz forgatókönyvet erősítik."
-    },
-    {
-      "title": "Óriási felhajtás mellett ment tőzsdére a SpaceX, Elon Musk vagyona meghaladja az ezermilliárd dollárt",
-      "link": "https://telex.hu/gazdasag/2026/06/12/elon-musk-spacex-ipo-legnagyobb-tozsdei-bevezetes",
-      "summary": "Még a vártnál is magasabb árfolyamon ment tőzsdére a SpaceX pénteken. Az űrtechnológiát és a mesterséges intelligenciát ötvöző vállalat bevezetése körül hónapok óta óriási volt a felhajtás, de a jelenlegi teljesítménye nem indokolja az árazását."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Megvan a kanadai futball első vb-pontja, Bosznia-Hercegovina sem lehet boldogtalan",
+      "link": "https://444.hu/2026/06/12/megvan-a-kanadai-futball-elso-vb-pontja-bosznia-hercegovina-sem-lehet-boldogtalan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ha Katart mindketten megverik, 4 ponttal kéz a kézben mennek tovább."
+    },
+    {
+      "title": "Több mint negyven helyettes államtitkárt menesztett Magyar Péter",
+      "link": "https://444.hu/2026/06/12/tobb-mint-negyven-helyettes-allamtitkart-menesztett-magyar-peter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A távozó helyettes államtitkárok között van Szalay-Bobrovniczky Vince és Csampa Zsolt is a Magyar Közlönyben megjelent kormányfői határozatok értelmében."
+    },
+    {
+      "title": "Magyar Péter felmentette az összes nemzetbiztonsági vezetőt",
+      "link": "https://444.hu/2026/06/12/magyar-peter-felmentette-az-osszes-nemzetbiztonsagi-vezetot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az Információs Hivatal, a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat és az Alkotmányvédelmi Hivatal főigazgatóit szombati hatállyal mentette fel a kormányfő."
+    },
+    {
+      "title": "Orbán Balázs embereit rúgták ki a Miniszterelnökségről",
+      "link": "https://444.hu/2026/06/12/orban-balazs-embereit-rugtak-ki-a-miniszterelnoksegrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "41 embernek kellett távoznia a stratégiai, elemzési és kommunikációs osztályokról."
+    },
     {
       "title": "Hivatalos a megállapodás Ukrajnával a magyar kisebbségi jogokról",
       "link": "https://444.hu/2026/06/12/hivatalos-a-megallapodas-ukrajnaval-a-magyar-kisebbsegi-jogokrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -132,33 +152,38 @@
       "title": "„I am from Bosnia” – mutassatok ennél jobb szurkolói dalt!",
       "link": "https://444.hu/2026/06/12/i-am-from-bosnia-mutassatok-ennel-jobb-szurkoloi-dalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A szurkolók 15 év után fedezték fel az amerikai álmot kergető számot."
-    },
-    {
-      "title": "Polt Péter alkotmánybírósági elnök már ki is szignálta Sulyok beadványát, amivel az állásáért küzd",
-      "link": "https://444.hu/2026/06/12/polt-peter-alkotmanybirosagi-elnok-mar-ki-is-szignalta-sulyok-beadvanyat-amivel-az-allasaert-kuzd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Sulyok Tamás nagyon szeretné, ha az Alkotmánybíróság neki adna igazat, és kimondaná, hogy amit a kormány tervez, valójában nem alkotmánymódosítás, és így meg tudná állítani."
-    },
-    {
-      "title": "Orosz gumigyárat és olajfinomítókat támadtak ukrán drónok az éjszaka",
-      "link": "https://444.hu/2026/06/12/orosz-gumigyarat-es-olajfinomitokat-tamadtak-ukran-dronok-az-ejszaka?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Két tatárföldi és egy szamarai célpontot is találat ért."
-    },
-    {
-      "title": "Csányi Sándornak jól indul a hétvége: 1,7 milliárdnyi OTP-részvénnyel lett gazdagabb",
-      "link": "https://444.hu/2026/06/12/csanyi-sandornak-jol-indul-a-hetvege-17-milliardnyi-otp-reszvennyel-lett-gazdagabb?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az elmúlt két napban mintegy 40 ezer részvény hívott le egy vezetői opció keretében."
-    },
-    {
-      "title": "540 millió eurót mozgósítanak a műtrágyaválság miatt",
-      "link": "https://444.hu/2026/06/12/540-millio-eurot-mozgosit-a-mutragyavalsag-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A műtrágya beszerzési árának drasztikus emelkedése a Hormuzi-szoros blokádja miatt következett be."
     }
   ],
   "HVG": [
     {
-      "title": "Kanada - Bosznia-Hercegovina: 0-0 - élőben a világbajnokságról",
+      "title": "Magyar Péter menesztette a titkosszolgálatok vezetőit",
+      "link": "https://hvg.hu/itthon/20260612_magyar-peter-titkosszolgalatok-vezetok-menesztes",
+      "summary": "A négy nemzetbiztonsági szolgálat főigazgatójának kell távoznia."
+    },
+    {
+      "title": "Zelenszkij levette az Ukrajnában védett kisebbségi nyelvek listájáról az oroszt",
+      "link": "https://hvg.hu/vilag/20260612_zelenszkij-orosz-nyelv-torveny-modositas",
+      "summary": "Kijev még 1996-ban csatlakozott a regionális vagy kisebbségi nyelvek európai kartájához, tavalyelőtt azonban az ukrán törvényhozás módosításokat hajtott végre a védett nyelvek listáján és az elnök az aláírásával most szentesítette azokat."
+    },
+    {
+      "title": "Németh Zsolt: A Fidesz-kormány túltolta az Európa-ellenes politikát",
+      "link": "https://hvg.hu/itthon/20260612_nemeth-zsolt-fidesz-europa-ellenes-politika",
+      "summary": "A fideszes képviselő szerint a Fidesznek félfordulatot kell végrehajtania és nem gondolja azt, hogy Orbán Viktor pártelnöknek távoznia kellene."
+    },
+    {
+      "title": "Texasban egy embert megölt és többeket súlyosan megsebesített egy fegyveres",
+      "link": "https://hvg.hu/vilag/20260612_texasban-egy-embert-megolt-es-tobbeket-sulyosan-megsebesitett-egy-fegyveres",
+      "summary": "Kilenc sérültet kellett kórházba szállítani."
+    },
+    {
+      "title": "3,5 millió közpénzt költött egy háromnapos afrikai úton szállásra Nagy István",
+      "link": "https://hvg.hu/itthon/20260612_csad-nagy-istvan-utazas-kozpenz",
+      "summary": "A volt agrárminiszter még 2024-ben vitt vetőmagot Csádba."
+    },
+    {
+      "title": "Kanada hatalmas hajtás után egyenlített Bosznia-Hercegovina ellen a világbajnokságon - 1:1",
       "link": "https://hvg.hu/sport/20260612_kanada-bosznia-hercegovina-eloben-a-vilagbajnoksagrol",
-      "summary": "Igen, ma tényleg ez a nap meccse. A világbajnokságon kezd a B-csoport is, akiknek később Svájccal és Katarral is meg kell vívniuk a továbbjutásért."
+      "summary": "A világbajnokságon kezd a B-csoport is, az egyik házigazda első meccsén kevés híján botlott egy európai ellenfél ellen. Nem volt jó meccs, de Kanada komoly hajrát nyomott le az egyenlítésért."
     },
     {
       "title": "Nem kapott kanadai vízumot egy ghánai játékos, lemarad a Panama elleni meccséről",
@@ -204,34 +229,24 @@
       "title": "„Ez valójában Magyar Péter kormányzásának alapja” – Dull Szabolcs a Fülkében",
       "link": "https://hvg.hu/itthon/20260612_ez-valojaban-magyar-peter-kormanyzasanak-alapja-dull-szabolcs-a-fulkeben",
       "summary": "„Abszolút filmszínház.” Kampányból kormány lett a Tiszánál, a leállásnak pedig egyelőre nincsenek nyomai. Ez pedig már a kormányzás. Mit jelent az „egyenidejűség”? És mi az, amit a Fidesznek még mindig nem sikerült megértenie? Dull Szabolcs újságíróval, politikai elemzővel, az Ötpontban podcast műsorvezetőjével Kacskovics Mihály Béla beszélgetett."
-    },
-    {
-      "title": "Gyanús halálesetek miatt exhumálnak négy holttestet Dunapatajon",
-      "link": "https://hvg.hu/itthon/20260612_gyanus-halalesetek-exhumalas-negy-holttest-dunapataj",
-      "summary": "Azt vizsgálja a rendőrség, hogy az elhunytak halálát nem idegenkezűség okozta-e."
-    },
-    {
-      "title": "„Az iPad-del összenőtt nemzedéknek kimaradt a mozi. Most elégtételt vesz” – így keres egy 21 éves 150 millió dollárt egy hétvégén",
-      "link": "https://hvg.hu/360/20260612_hvg-szerelmem-marokko-backrooms-dido-aeneas-lookbook-kiallitas-ajanlo",
-      "summary": "Az Almodóvar-filmek múzsájára 79 évesen talál rá a szerelem, kiállítás a divatról nem csak a divat szerelmeseinek, a titokzatos és legnépszerűbb angol nyelvű opera. Ez a HVG kulturális ajánlója."
-    },
-    {
-      "title": "Mi nem megmenteni akarjuk a gyereket, hanem a bizalmát visszaépíteni",
-      "link": "https://hvg.hu/elet/20260612_mi-nem-megmenteni-akarjuk-a-gyereket",
-      "summary": "Az állami gondozásba kerülő gyerekek többsége már eleve súlyos traumákkal érkezik oda, a Világszép Alapítvány azonban azon dolgozik, hogy visszaépítsék az elveszett bizalmat – mondta el Marton Kriszta, az alapítvány vezetője a HVG Másik út podcastjában Orsós Lajos műsorvezetőnek."
-    },
-    {
-      "title": "Veszprém megyében kapott tisztséget a nőverési ügye miatt lemondott volt fideszes EP-képviselő",
-      "link": "https://hvg.hu/itthon/20260612_gyorffy-balazs-fidesz-ep-kepviselo-bantalmazas-veszprem-gazdakorok",
-      "summary": "A Veszprém Megyei Gazdakörök Szövetsége új vezetője lett Győrffy Balázs."
-    },
-    {
-      "title": "Kína bekapcsolta az első víz alatti adatközpontját, és ez szörnyű hír lehet a környezet számára",
-      "link": "https://hvg.hu/tudomany/20260612_kina-viz-alatti-adatkozpont-bekapcsolas-hutes-energiaigeny-kornyezetvedelem",
-      "summary": "Kísérleti jelleggel elindította Kína az első víz alatti adatközpontot, amellyel a hűtést spórolnák meg – egy másik problémát pedig épp ezzel generálhatnak."
     }
   ],
   "BBC": [
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
+    },
+    {
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
+    },
+    {
+      "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
+      "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
+      "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby lead star is knighted."
+    },
     {
       "title": "I have a duty to stay on, says Starmer, as he justifies defence spending decisions",
       "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
@@ -243,19 +258,14 @@
       "summary": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\"."
     },
     {
-      "title": "Iran says deal to end fighting with US has 'never been closer'",
-      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday."
-    },
-    {
       "title": "King leads tributes to 'giant of the art world' David Hockney",
       "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
       "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says."
     },
     {
-      "title": "Former Arsenal midfielder Thomas Partey denied entry to Canada for Ghana's World Cup opener",
-      "link": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada."
+      "title": "Watch: David Beckham receives star on the Hollywood Walk of Fame",
+      "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise."
     },
     {
       "title": "Palestine Action activists jailed over factory raid",
@@ -263,29 +273,24 @@
       "summary": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism."
     },
     {
+      "title": "Former Arsenal midfielder Thomas Partey denied entry to Canada for Ghana's World Cup opener",
+      "link": "https://www.bbc.com/sport/football/articles/cn8qgny4186o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana midfielder Thomas Partey will miss his nation's first World Cup game in Toronto against Panama, after being denied entry to Canada."
+    },
+    {
       "title": "Watch: Four UFO videos newly declassified by US government",
       "link": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
       "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US."
     },
     {
-      "title": "London council takes possession of property linked to Sierra Leone's First Lady",
-      "link": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Southwark Council in south London takes possession of a property linked to Sierra Leone's Fatima Bio."
+      "title": "Delta Goodrem becomes third celebrity to join Strictly Come Dancing",
+      "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Goodrem rose to fame in Australian soap opera Neighbours"
     },
     {
-      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
-      "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
-      "summary": "The singer thanks her family as she becomes the youngest woman to be inducted into the Hall of Fame."
-    },
-    {
-      "title": "Grooming survivors left with criminal records still being failed, BBC told",
-      "link": "https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Victims who were abused and prosecuted as children are still being failed, says grooming report author."
-    },
-    {
-      "title": "'Best Canada team ever' ready to show world what they're made of",
-      "link": "https://www.bbc.com/sport/football/articles/c4g8w635v49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Amid political turbulence in the US and talk of moving matches out of Mexico, it can be forgotten that there is a third co-host of the 2026 World Cup. Canada hope it will be their time to shine."
+      "title": "World Cup kicks off in Canada with Alanis Morissette and Michael Bublé performing in opening ceremony",
+      "link": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The opening games in Toronto and Los Angeles on Friday include star-studded performances."
     },
     {
       "title": "Scotland's McTominay 'ready to go' after illness",
@@ -301,33 +306,33 @@
       "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
       "link": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss",
       "summary": "Kim Kardashian, Timothée Chalamet and Susan Boyle feature in ambitious ads ahead of the World Cup."
-    },
-    {
-      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
-      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The proud Yorkshireman, who also painted iconic pictures of America, was routinely described as Britain's greatest artist."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+      "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+    },
+    {
+      "title": "SpaceX IPO closes up 19% and delivers the world’s first trillionaire",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/",
+      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price."
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
     },
     {
-      "title": "SpaceX shares soar 30% midday, vaulting it to top six most valuable U.S. companies",
-      "link": "https://techcrunch.com/2026/06/12/spacex-shares-soar-30-percent-midday-vaulting-it-to-top-six-most-valuable-us-companies/",
-      "summary": "The company made its heavily anticipated debut on Friday, trading higher than its initial $135 IPO price."
+      "title": "SpaceX president Gwynne Shotwell just gave another hint at a Tesla merger",
+      "link": "https://techcrunch.com/2026/06/12/spacex-president-gwynne-shotwell-just-gave-another-hint-at-a-tesla-merger/",
+      "summary": "A SpaceX-Tesla merger seems inevitable."
     },
     {
       "title": "Mistral is rumored to be raising €3B at €20B valuation",
       "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
       "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion."
-    },
-    {
-      "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
-      "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
-      "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
     },
     {
       "title": "Robinhood sees ‘record-breaking’ traffic after SpaceX stock debuts",
@@ -378,11 +383,6 @@
       "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
       "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
       "summary": "The tech giant warned of a security flaw that a cybercrime gang said it's exploiting as part of a mass-hacking campaign. Google said it notified more than 100 organizations that had potentially vulnerable servers."
-    },
-    {
-      "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "summary": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud."
     }
   ],
   "Nature": [
@@ -400,6 +400,11 @@
       "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
       "link": "https://www.nature.com/articles/d41586-026-01876-z",
       "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01876-z\">doi:10.1038/d41586-026-01876-z</a></p>The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed."
+    },
+    {
+      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
+      "link": "https://www.nature.com/articles/d41586-026-01902-0",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01902-0\">doi:10.1038/d41586-026-01902-0</a></p>Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations."
     },
     {
       "title": "Humans outperform AI at this highly rigorous mathematics test",
@@ -455,11 +460,6 @@
       "title": "Newly discovered whale graveyard dates back millions of years",
       "link": "https://www.nature.com/articles/d41586-026-01864-3",
       "summary": "<p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01864-3\">doi:10.1038/d41586-026-01864-3</a></p>Submarine dives reveal complex deep-sea ecosystems living on whale remains — plus, a way to turn plant material into nylon."
-    },
-    {
-      "title": "Structural basis for chaperone-guided assembly of RNA-induced silencing complex",
-      "link": "https://www.nature.com/articles/s41586-026-10640-2",
-      "summary": "<p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10640-2\">doi:10.1038/s41586-026-10640-2</a></p>Structures of the AGO maturation complex reveal how chaperones and an RNA duplex drive assembly of the RNA-induced silencing complex."
     }
   ]
 }

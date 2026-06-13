@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "7 milliárd forint közpénz vajdasági magyar médiumoknak",
-      "summary": "Az Orbán-kormányok az elmúlt nyolc évben 7 milliárd forint közpénzzel támogatták a vajdasági magyar nyelvű médiumokat. A támogatások átláthatósága és elosztása kérdéseket vet fel.",
+      "title": "Bírósági siker az alapítványi pénzek átláthatóságáért",
+      "summary": "Egy aktivista bíróságon nyert pert a Fidesz-kormány alapítványaival szemben, nyilvánosságra hozva, ki és miért kapott közpénzt. Ez a döntés jelentős lépés az állami alapítványok működésének és pénzosztásának átláthatóbbá tételében.",
+      "importance": 5
+    },
+    {
+      "title": "Hétmilliárd forint közpénz a vajdasági magyar médiumoknak",
+      "summary": "Az Orbán-kormányok nyolc év alatt összesen 7 milliárd forint közpénzzel támogatták a vajdasági magyar nyelvű médiumokat. Ez a jelentős finanszírozás felveti a külhoni magyar média befolyásolásának kérdését.",
       "importance": 4
     },
     {
-      "title": "Fidesz kongresszus: Egy téma, amit kínosan elkerültek",
-      "summary": "A Fidesz kongresszusán számos fontos kérdésről esett szó, de egy kritikus téma, melyről a közvélemény érdeklődött, feltűnően kimaradt a beszédekből. Ez rávilágít a párt belső prioritásaira.",
-      "importance": 4
+      "title": "Orbán Viktor a Fidesz élén marad, és az ellenzék támadásait említi a vereség okaként",
+      "summary": "A Fidesz kongresszusán Orbán Viktor bejelentette, hogy további egy évig marad a párt elnöke, miközben a választási vereséget \"négy ellenséges hadtest\" összehangolt támadásával magyarázta. Felhívást intézett a fiatalok felé is.",
+      "importance": 5
     },
     {
-      "title": "Új nemzetbiztonsági vezetőket nevezett ki a belügyminiszter",
-      "summary": "A belügyminiszter új vezetőket jelölt ki a nemzetbiztonsági apparátus élére. A lépés a belső biztonsági struktúra átalakítását jelzi.",
-      "importance": 3
-    },
-    {
-      "title": "Megszűnik a kancellári rendszer a szakképzésben",
-      "summary": "Lannert Judit oktatáskutató szerint megszűnik a kancellári rendszer a magyar szakképzésben. Ez jelentős változást hozhat az intézmények működésében és autonómiájában.",
+      "title": "Új nemzetbiztonsági vezetők kinevezése a Belügyminisztériumban",
+      "summary": "A belügyminiszter új vezetőket nevezett ki a nemzetbiztonsági szervek élére, ami fontos változásokat jelezhet az ország belső biztonsági struktúrájában és irányításában.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Hszi és Kim találkozója: Két félmondat, amire felkapta a fejét a világ",
-      "summary": "Hszi Csin-ping és Kim Dzsongun találkozója után két félmondat keltett különös figyelmet világszerte. Ezek a megjegyzések mélyebb geopolitikai üzeneteket hordozhatnak Észak-Korea és Kína jövőbeli kapcsolatairól.",
+      "title": "Trump szerint megállapodás születhet Iránnal a hétvégén, de Teherán kételkedik",
+      "summary": "Donald Trump amerikai elnök bejelentette, hogy vasárnap írhatnak alá megállapodást Iránnal, ám Teherán részéről kétségek merültek fel az időzítéssel kapcsolatban. A nukleáris kihívás továbbra is központi eleme a tárgyalásoknak.",
       "importance": 5
     },
     {
-      "title": "Trump szerint vasárnap születhet megállapodás Iránnal",
-      "summary": "Donald Trump bejelentése szerint vasárnap sor kerülhet egy Iránnal kötendő megállapodás aláírására. Ez jelentős fejlemény lehet a közel-keleti politikában és a nukleáris feszültségek kezelésében.",
+      "title": "Hszi Csin-ping és Kim Dzsongun találkozója felkavarta a világot",
+      "summary": "Kína és Észak-Korea vezetőinek találkozója után tett két rövid kijelentés nemzetközi figyelmet keltett. Ez a találkozó és az abból fakadó üzenetek befolyásolhatják a térség geopolitikai helyzetét.",
       "importance": 5
     },
     {
-      "title": "Pártot alapított az emigráns orosz ellenzék",
-      "summary": "Az emigrációban élő orosz ellenzék pártot alapított, azzal a céllal, hogy a Nyugat velük tárgyaljon Oroszország jövőjéről. A kezdeményezés új fejezetet nyithat az orosz ellenzéki mozgalom számára.",
+      "title": "Svájc népszavazással dönthet a bevándorlás korlátozásáról és a népesség maximumáról",
+      "summary": "A svájciak ezen a hétvégén népszavazáson dönthetnek arról, hogy alkotmányosan rögzítsék-e az ország népességének maximumát 10 millió főben, amivel a bevándorlást is korlátoznák. Ez jelentős hatással lehet az ország demográfiai és gazdasági jövőjére.",
       "importance": 4
     },
     {
-      "title": "Svájcban népszavazással állítanák meg a bevándorlást",
-      "summary": "Svájcban népszavazást kezdeményeztek a bevándorlás megállításáról, ami komoly vitákat vált ki az országban és Európában is. A kezdeményezés rávilágít a bevándorlás kezelésével kapcsolatos szélesebb körű európai aggodalmakra.",
-      "importance": 4
+      "title": "Eltávolították Donald Trump nevét a washingtoni Kennedy Központról",
+      "summary": "Donald Trump nevét levették a washingtoni Kennedy Központ egyik épületéről, szimbolikus jelentőséggel bírva a volt elnök megítélésében. Ezt az eseményt számos néző élőben követte.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic biztonsági figyelmeztetései visszafelé sültek el, a kormány lekapcsolta a legfejlettebb MI-jüket",
-      "summary": "Az Anthropic mesterséges intelligencia cég biztonsági figyelmeztetései végül visszafelé sültek el, aminek következtében a kormány leállította legfejlettebb AI modelljüket. Ez rávilágít az AI fejlesztés és szabályozás közötti feszültségre.",
+      "title": "Az AI-fejlesztések állami szabályozása és a biztonsági aggodalmak középpontjában",
+      "summary": "Az Anthropic legfejlettebb mesterséges intelligenciáját leállította a kormány a biztonsági figyelmeztetések után, míg az OpenAI ellen államügyészi vizsgálat indult. Az AI \"hallucinációk\" miatti aggodalmak és az iparági szereplők, mint az Amazon, vezetőinek aggodalmai rávilágítanak a mesterséges intelligencia sürgős szabályozásának szükségességére.",
       "importance": 5
     },
     {
-      "title": "Nyomozás indult az OpenAI ellen az Egyesült Államokban",
-      "summary": "Az OpenAI, a ChatGPT fejlesztője, állami ügyvédek vizsgálata alá került. A vizsgálat az AI modellek biztonságával és az adatvédelemmel kapcsolatos aggodalmakra fókuszál.",
+      "title": "Elon Musk az első trilliárdos, a SpaceX tőzsdei bevezetése rekordot döntött",
+      "summary": "Elon Musk lett a világ első trilliárdosa, miután a SpaceX tőzsdei bevezetése 19%-os emelkedéssel zárult, rekordot döntve. Ez a mérföldkő jelentős sikert jelez a magán űrtechnológia és a tech-milliárdosok világában.",
       "importance": 5
     },
     {
-      "title": "Elon Musk a világ első billiósa lett a SpaceX tőzsdei bevezetése után",
-      "summary": "Elon Musk lett a világ első billió dolláros vagyonnal rendelkező embere, miután a SpaceX történelmi tőzsdei bevezetése rekordokat döntött. Ez a mérföldkő az űrkutatás és a technológia gazdasági erejét is mutatja.",
+      "title": "Kínai AI-vezérelt kibercsaló hálózat ellen indított pert a Google",
+      "summary": "A Google pert indított egy kínai kibercsaló csoport ellen, amely mesterséges intelligenciát használt több százezer áldozat átverésére. Ez az eset rávilágít az AI rosszindulatú felhasználására és a kiberbiztonsági kihívásokra.",
       "importance": 4
     },
     {
-      "title": "Az FBI egy komplett várost épített kibertámadások szimulálására",
-      "summary": "Az FBI egy valósághű minivárost hozott létre, hogy ott szimulálja a kibertámadásokat és tesztelje a védelmi rendszereket. Ez az egyedi megközelítés segíti a kiberbiztonsági szakemberek felkészülését a valós fenyegetésekre.",
+      "title": "Az FBI valósághű kiberattak-szimulációs várost épített",
+      "summary": "Az FBI egy élethű kisvárost épített, hogy valós környezetben szimulálhasson kibertámadásokat, tesztelve ezzel a védelmi stratégiákat. Ez az innovatív megközelítés segíthet a kritikus infrastruktúrák védelmében a növekvő digitális fenyegetésekkel szemben.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Bálnatemetőt fedeztek fel 7 kilométerrel a tenger alatt",
-      "summary": "A kutatók egy több millió éves bálnatemetőt találtak 7 kilométer mélyen az óceán alatt. Ez a felfedezés új információkat nyújthat az ősi tengeri élővilágról és az evolúcióról.",
+      "title": "Az emberiség jövője a méhek sorsától függ",
+      "summary": "A méhek létfontosságú szerepet játszanak az élelmiszertermelésben, és globális populációjuk hanyatlása súlyos következményekkel járhat az emberiség számára. Védelmük elengedhetetlen a biológiai sokféleség és a fenntartható fejlődés szempontjából.",
       "importance": 5
     },
     {
-      "title": "Emberi teljesítmény felülmúlja az MI-t egy szigorú matematikai teszten",
-      "summary": "Egy rendkívül szigorú matematikai teszten az emberek felülmúlták a mesterséges intelligenciát. Ez a kutatás segít jobban megérteni az AI korlátait és az emberi gondolkodás egyedi képességeit.",
+      "title": "Több millió éves bálnatemetőt fedeztek fel 7 kilométeres mélységben",
+      "summary": "Tudósok egy több millió éves bálnatemetőt találtak 7 kilométerrel a tengerfenék alatt. Ez a felfedezés új betekintést nyújthat a bálnák evolúciójába és a mélytengeri ökoszisztémákba.",
       "importance": 4
     },
     {
-      "title": "Új technológia javítja a fehérjeszerkezetek képalkotását",
-      "summary": "Egy innovatív technológia jelentősen javítja a fehérjeszerkezetek képalkotásának minőségét. Ez az áttörés felgyorsíthatja a gyógyszerfejlesztést és a biológiai folyamatok megértését.",
+      "title": "Az AI etikai vonatkozásai: A Vatikán és az ENSZ is a pápa üzenetére figyel",
+      "summary": "Az AI etikai és morális kérdései egyre hangsúlyosabbak, olyannyira, hogy a Vatikán és az ENSZ tanácsadói is figyelmeztetnek, ne teológiai megközelítésként utasítsák el a pápa ezirányú üzenetét. Fontos a technológiai fejlődés és az etikai megfontolások összehangolása.",
       "importance": 4
     },
     {
-      "title": "A Vatikán és az ENSZ AI-tanácsadója: Ne utasítsuk el a pápa üzenetét teológiaként",
-      "summary": "Egy szakértő, aki a Vatikánt és az ENSZ-t is tanácsolja az AI ügyében, arra hívja fel a figyelmet, hogy ne teológiai kérdésként kezeljük a pápa mesterséges intelligenciával kapcsolatos üzenetét. Az etikai és morális kérdések kulcsfontosságúak az AI jövőjében.",
+      "title": "Az emberi intelligencia felülmúlta az AI-t egy komplex matematikai teszten",
+      "summary": "Egy rendkívül szigorú matematikai teszten az emberek jobban teljesítettek, mint a mesterséges intelligencia, jelezve, hogy bizonyos típusú absztrakt gondolkodásban az ember még mindig felülmúlja az AI-t. Ez rávilágít az AI korlátaira és az emberi kognitív képességek egyedi erejére.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kőhalmi Emese aranyérmes a kajak-kenu Eb-n",
-      "summary": "Kőhalmi Emese aranyérmet szerzett a kajak-kenu Európa-bajnokságon, ezzel nagy sikert aratva Magyarországnak. Az eredmény kiemelkedő teljesítmény a magyar sportban.",
+      "title": "Kőhalmi Emese aranyérmet szerzett a kajak-kenu Európa-bajnokságon",
+      "summary": "Kőhalmi Emese kiemelkedő teljesítménnyel aranyérmet nyert a kajak-kenu Európa-bajnokságon, ezzel nagy sikert hozva Magyarországnak. Ez a győzelem megerősíti pozícióját a sportág élmezőnyében.",
+      "importance": 5
+    },
+    {
+      "title": "Fegyvert találtak James Harden kosarasnál, őrizetbe vették",
+      "summary": "James Harden, a neves kosárlabdázó őrizetbe került, miután fegyvert találtak nála. Az eset jelentős figyelmet kapott a sportvilágban.",
       "importance": 4
     },
     {
-      "title": "Russellé a pole, Leclerc falnak csapta a Ferrarit",
-      "summary": "George Russell megszerezte a pole pozíciót a Forma-1-es futamon, míg Charles Leclerc falnak csapta a Ferrarit az időmérőn. A verseny izgalmas futamot ígér a rajongóknak.",
+      "title": "Ghána tiltakozik, Kanada megtagadta a vízumot nemi erőszakkal vádolt játékosától",
+      "summary": "Ghána hivatalosan tiltakozik Kanada ellen, amiért nem adott vízumot egy nemi erőszakkal vádolt labdarúgójuknak egy közelgő sporteseményre. Ez az eset sportdiplomáciai feszültséget okoz.",
       "importance": 4
     },
     {
-      "title": "Új passzrekord született a foci-világbajnokságok történetében",
-      "summary": "Új passzrekordot állítottak fel a foci-világbajnokságok történetében, ami a modern labdarúgás fejlődését mutatja. Ez a statisztika rávilágít a játékstílusok változására és az egyre precízebb passzjátékra.",
+      "title": "Russellé a pole pozíció, Leclerc balesetezett a Ferrarival",
+      "summary": "George Russell szerezte meg a pole pozíciót a Forma-1-es versenyen, míg Charles Leclerc balesetet szenvedett a Ferrarival, falnak csapva autóját. Az események izgalmas futamot ígérnek.",
       "importance": 3
-    },
-    {
-      "title": "Ghána tiltakozik Kanada ellen, vízumügy egy erőszakkal vádolt játékos miatt",
-      "summary": "Ghána tiltakozik Kanada ellen, mert az nem ad vízumot egy nemi erőszakkal vádolt játékosának. Az eset komoly etikai és jogi kérdéseket vet fel a sportvilágban.",
-      "importance": 4
     }
   ]
 }

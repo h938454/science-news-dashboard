@@ -1,6 +1,66 @@
 {
   "Telex": [
     {
+      "title": "A FIFA szerint nem volt üres a mexikói vb-stadion, csak sok szurkoló a folyosókon ácsorgott, ezért nem látszanak",
+      "link": "https://telex.hu/sport/2026/06/13/foci-vb-guadalajarai-stadion-szurkolok-nezoszam-ures-lelatok-fifa-reakcio",
+      "summary": "A hivatalos adatok szerint majdnem telt ház volt a Csehország–Dél-Korea-meccsen."
+    },
+    {
+      "title": "Rendkívüli sajtótájékoztatón mutatja be Magyar Péter az Orbán-kormány titkos terveit a vitnyédi migránstáborról",
+      "link": "https://telex.hu/belfold/2026/06/13/magyar-peter-tisza-kormany-rendkivuli-sajtotajekoztato",
+      "summary": "A miniszterelnök pénteken arról írt, olyan az általuk megismert információk alapján a szombati „Fidesz tisztújító kongresszus okafogyottá válik.”"
+    },
+    {
+      "title": "Orbán Viktor röpiratban fejtette meg, szerinte miért is szenvedtek vereséget",
+      "link": "https://telex.hu/belfold/2026/06/13/orban-viktor-ropirat-fidesz",
+      "summary": "Voltak hibák is, persze, de a döntő tényező szerint „négy ellenséges hadtest ereje és összehangolt támadása volt.”"
+    },
+    {
+      "title": "Záporok, zivatarok, erős széllökések – ezt kapjuk a nyakunkba a hétvégén",
+      "link": "https://telex.hu/belfold/2026/06/13/idojaras-elorejelzes-zapor",
+      "summary": "A maximumok 24 és 26 fok között alakulnak szombaton."
+    },
+    {
+      "title": "Az amerikai válogatott csapatkapitánya lett az első nyertese a videóbírós szabályváltozásnak",
+      "link": "https://telex.hu/sport/2026/06/13/foci-vb-2026-szabalymodositas-videobiro-var-teves-azonositas-usa-paraguay-tim-ream-sarga-lap-visszavonas",
+      "summary": "A holland bíró visszavonta Tim Ream sárga lapját, és a paraguayi Almirón kapta azt meg műesésért."
+    },
+    {
+      "title": "Újra betettek Trumpék az Anthropicnak, már a külföldi felhasználók sem férhetnek hozzá a cég leghatékonyabb MI-modelljeihez",
+      "link": "https://telex.hu/techtud/2026/06/13/anthropic-mesterseges-intelligencia-egyesult-allamok",
+      "summary": "A Trump-adminisztráció nemzetbiztonsági aggályokra hivatkozva elrendelte, hogy az MI-cég függessze fel a modellekhez való hozzáférést a külföldi állampolgárok számára."
+    },
+    {
+      "title": "Trump bejelentette, hogy egy amerikai csapásban megölték a legnagyobb venezuelai bűnszervezet fejét",
+      "link": "https://telex.hu/kulfold/2026/06/13/donald-trump-bejelentes-megoltek-tren-de-aragua-drogkartell-vezetojet",
+      "summary": "Posztjában „a Föld egyik legvérszomjasabb terroristaszervezetének” nevezte a Tren de Araguát."
+    },
+    {
+      "title": "Egy évet kap Orbán arra, hogy gatyába rázza a padlóra került Fideszt",
+      "link": "https://telex.hu/belfold/2026/06/13/fidesz-tisztujito-kongresszus-orban-viktor",
+      "summary": "Átszervezik a pártstruktúrát és új, kibővített elnökséget választanak a Fidesz szombati tisztújításán, ahol ismét egyedül Orbán Viktor indul el a pártelnöki tisztségért. Az áprilisi vereség óta nem látszik, hogy milyen irányba vinné a pártot, de az is kérdéses, hogy egyáltalán képesek-e az ő irányításával megújulni."
+    },
+    {
+      "title": "Rainer-Micsinyei Nóra: Én ebben a „belülről bomlasztottuk a TV2-t” történetben nem hiszek",
+      "link": "https://telex.hu/after/2026/06/13/rainer-micsinyei-nora-szineszno-veiszer-alinda",
+      "summary": "Rainer-Micsinyei Nóra, a Loupe Színházi Társulás tagja a színházi bántalmazásokról, a metoo-mozgalomról és a Heti Hetesről is beszélt Veiszer Alinda műsorában."
+    },
+    {
+      "title": "A náci Németország kedvenc üdítője volt a Fanta, amit kínjában talált ki a Coca-Cola",
+      "link": "https://telex.hu/eszkombajn/2026/06/13/a-naci-nemetorszag-kedvenc-uditoje-volt-a-fanta-amit-kinjaban-talalt-ki-a-coca-cola",
+      "summary": "A Coca-Cola Amerikát szimbolizálja, de a németek népi itala is volt a második világháború előestéjén. Miután nem jött több kólaszirup az Egyesült Államokból, a helyi leányvállalat melléktermékekből alkotott új üdítőt."
+    },
+    {
+      "title": "Reagált a Hungast arra, hogy két vezetőjüket korrupcióval gyanúsítja az ügyészség",
+      "link": "https://telex.hu/belfold/2026/06/13/hungast-reakcio-obudai-korrupcios-ugy-1",
+      "summary": "A közétkeztetési óriás tulajdonosát és egyik igazgatóját az óbudai korrupciós ügy részeként állították elő."
+    },
+    {
+      "title": "Ellopták az angol válogatott edzőfelszereléseit Kansas Cityben, a rendőrség két embert őrizetbe vett",
+      "link": "https://telex.hu/sport/2026/06/13/foci-vb-angol-valogatott-lopas-sportfelszereles-cipo-labda-kansas-city-bazis",
+      "summary": "Labdák és futballcipők is a lopott tárgyak között lehetnek."
+    },
+    {
       "title": "Öngól indította be az amerikai hengert, lemosták a pályáról Paraguayt",
       "link": "https://telex.hu/sport/2026/06/13/foci-vb-2026-usa-paraguay-d-csoport-nyitomeccs-4-1-folarin-balogun-christian-pulisic-ongol",
       "summary": "4-1-es győzelemmel kezdte a hazai világbajnokságot az amerikai csapat."
@@ -14,70 +74,50 @@
       "title": "Katy Perry és egy tízéves norvég kisfiú előadásával indult a foci-vb Amerikában",
       "link": "https://telex.hu/after/2026/06/13/foci-vb-2026-megnyito-los-angeles-usa-paraguay-katy-perry",
       "summary": "Megtartották a világbajnokság harmadik nyitóünnepségét is."
-    },
-    {
-      "title": "Egyesült Államok–Paraguay 4-1",
-      "link": "https://telex.hu/sport/2026/06/13/egyesult-allamok-paraguay-vb-kozvetites",
-      "summary": ""
-    },
-    {
-      "title": "19 százalékos ugrással zárta az első tőzsdei napját a SpaceX",
-      "link": "https://telex.hu/gazdasag/2026/06/13/spacex-nasdaq-tozsde-elon-musk",
-      "summary": "Egy nap alatt több mint 500 millió részvény cserélt gazdát."
-    },
-    {
-      "title": "Először szerzett pontot a világbajnokságok történetében Kanada",
-      "link": "https://telex.hu/sport/2026/06/12/kanada-bosznia-hercegovina-csoportkor",
-      "summary": "Hiába szereztek a bosnyákok a román bajnokság gólkirályának fejesével vezetést, a társrendezőnek a második ivószünet után sikerült kiegyenlíteni."
-    },
-    {
-      "title": "Magyar Péter kormánybiztossá nevezte ki Bódist, Rostot és Radnait",
-      "link": "https://telex.hu/belfold/2026/06/12/bodis-kriszta-radnai-mark-rost-andrea-kormanybiztosok-kinevezesei",
-      "summary": "Megjelent a közlönyben a kinevezésükről szóló határozat."
-    },
-    {
-      "title": "Trump ketrecharcos önünneplése a Fehér Ház kertjében még saját választóiban is visszatetszést kelt",
-      "link": "https://telex.hu/kulfold/2026/06/12/trump-szuletesnap-feher-haz-ufc-ketrecharc-mma-dana-white-gala-elozetes",
-      "summary": "Kánikulától és szúnyoginváziótól egyaránt féltik a bombaerős felhozatallal készülő UFC Freedom 250 gálát, amivel Trump 80. születésnapját ünneplik vasárnap. A rendezvényt sokan kritizálták a köz- és magánérdek összemosását, a személyi kultuszt vagy az egészet belengő nacionalista tesztoszteronvurstlit felhánytorgatva."
-    },
-    {
-      "title": "Többet kereshetnek mostantól a helyettes államtitkárok",
-      "link": "https://telex.hu/belfold/2026/06/12/helyettes-allamtitkarok-fizetesenek-felso-hatarat-emelik-kozlony",
-      "summary": "Egy friss rendeletben megemelték a fizetési sávjuk felső határát."
-    },
-    {
-      "title": "Magyar Péter kirúgta négy magyar titkosszolgálat vezetőit",
-      "link": "https://telex.hu/belfold/2026/06/12/kozlony-magyar-peter-felmentette-a-negy-titkosszolgalat-vezetojet",
-      "summary": "A miniszterelnök határozattal mentette fel az AH, az IH, a szakszolgálat és a katonai nemzetbiztonsági szolgálat főigazgatóit."
-    },
-    {
-      "title": "Az iráni vezetés is biztató nyilatkozatot adott ki az amerikai béketárgyalások állásáról",
-      "link": "https://telex.hu/kulfold/2026/06/12/iran-amerikai-egyesult-allamok-haboru-megallapodas-kozel-van-aragcsi-szerint-is",
-      "summary": "A külügyminiszter szerint még soha nem volt ilyen közel a megegyezés."
-    },
-    {
-      "title": "Június 15-én hivatalosan is elkezdődnek az EU-csatlakozási tárgyalások Ukrajnával és Moldovával",
-      "link": "https://telex.hu/kulfold/2026/06/12/ukrajna-moldova-eu-tagsag-targyalasok-europai-parlament",
-      "summary": "Az EU már 2024 júniusában megkezdte a csatlakozási tárgyalásokat a két országgal, de az érdemi egyeztetések elindítását Magyarország vétója akadályozta."
-    },
-    {
-      "title": "Őslakosok táncával, piros-fehér melegítőkkel és egy hatalmas aranyszínű focilabdával indult a vb Kanadában",
-      "link": "https://telex.hu/sport/2026/06/12/foci-vb-toronto-megnyito-nora-fatehi-vegedream-sanjoy",
-      "summary": "A Toronto Stadionban elhangzott a világbajnokság hivatalos dala, de hallhattunk sámándobokat, és láthattunk egy termetes rénszarvasbábot is."
-    },
-    {
-      "title": "Kanada–Bosznia-Hercegovina 1-1",
-      "link": "https://telex.hu/sport/2026/06/12/kanada-bosznia-hercegovina-vb-kozvetites",
-      "summary": ""
-    },
-    {
-      "title": "Felemelkedni vagy elbukni? Egyre megy",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/06/12/david-szalay-booker-dij-test-kritika",
-      "summary": "Bár a Booker-díjas Test főszereplőjének élete sokáig inkább sikertörténetnek tűnik, valójában végig egy olyan ember történetét olvassuk, aki fokozatosan kiüresedik és eltűnik. Kritika."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Magyar Péter részletesen bemutatja, hogyan akart menekülttábort létrehozni az Orbán-kormány Vitnyéden",
+      "link": "https://444.hu/2026/06/13/magyar-peter-az-orban-kormany-sokszor-hazudott-a-migracioval-kapcsolatban-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Fidesz kongresszus elé időzített rendkívüli sajtótájékoztatót a miniszterelnök."
+    },
+    {
+      "title": "Több azonosítatlan objektum repkedett Budapest és Moszkva között – újabb ufóaktákat hozott nyilvánosságra a Pentagon",
+      "link": "https://444.hu/2026/06/13/tobb-azonositatlan-objektum-repkedett-budapest-es-moszkva-kozott-ujabb-ufoaktakat-hozott-nyilvanossagra-a-pentagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Egy 1955-ös CIA-jelentésben van szó a furcsa tárgyakról, amelyek akkoriban hetekig lázban tartották az embereket."
+    },
+    {
+      "title": "Ellopták az angol válogatott labdáit és cipőit Kansas Cityben",
+      "link": "https://444.hu/2026/06/13/elloptak-az-angol-valogatott-labdait-es-cipoit-kansas-cityben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az edzőfelszerelés szállítása közben történt az incidens."
+    },
+    {
+      "title": "Hétvégi olvasnivalók terhelő információkról, vébés esélyekről, nem irigyelt csodákról és az orbánizmus vastörvényéről",
+      "link": "https://444.hu/2026/06/13/hetvegi-olvasnivalok-terhelo-informaciokrol-vebes-eselyekrol-nem-irigyelt-csodakrol-es-az-orbanizmus-vastorvenyerol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Azaz itt a 444 napindító hírlevelének hétvégi kiadása."
+    },
+    {
+      "title": "Magyar Péter kormánybiztosnak nevezte ki Rost Andreát, Bódis Krisztát és Radnai Márkot",
+      "link": "https://444.hu/2026/06/13/magyar-peter-kormanybiztosnak-nevezte-ki-rost-andreat-bodis-krisztat-es-radnai-markot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Rost Andrea egyebek mellett a magyar zenéért, Bódis Kriszta a nemzeti társadalompolitikai stratégiáért, Radnai Márk pedig a közélet működésének megújításáért lesz felelős."
+    },
+    {
+      "title": "A harmadik házigazda meccsén megszületett az első kiütéses győzelem",
+      "link": "https://444.hu/2026/06/13/a-harmadik-hazigazda-meccsen-megszuletett-az-elso-kiuteses-gyozelem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az amerikaiak már most több gólt szereztek, mint a katari vébén összesen."
+    },
+    {
+      "title": "Donald Trump: Az amerikai erők megölték „a Föld egyik legvérszomjasabb terroristaszervezetének” vezetőjét",
+      "link": "https://444.hu/2026/06/13/donald-trump-az-amerikai-erok-megoltek-a-fold-egyik-legverszomjasabb-terroristaszervezetenek-vezetojet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "„Gyors és halálos kinetikus csapás” végzett a venezuelai drogkartell vezetőjével."
+    },
+    {
+      "title": "Most kellene összekapnia magát a Fidesznek, ha azt akarja, hogy legyen még visszaút",
+      "link": "https://444.hu/2026/06/13/most-kellene-osszekapnia-magat-a-fidesznek-ha-azt-akarja-hogy-legyen-meg-visszaut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Borzalmas két hónap után tart tisztújító kongresszust a Fidesz. A mélyrepüléshez maguk is tevékenyen hozzájárultak, nincsenek vezérek, üzenet, szervezettség, önmagát bontja le a propaganda, abban is zavarodottak, amiben korábban jók voltak. Sorsdöntőbb összejövetelük talán még soha nem volt."
+    },
     {
       "title": "Megvan a kanadai futball első vb-pontja, Bosznia-Hercegovina sem lehet boldogtalan",
       "link": "https://444.hu/2026/06/12/megvan-a-kanadai-futball-elso-vb-pontja-bosznia-hercegovina-sem-lehet-boldogtalan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -89,7 +129,7 @@
       "summary": "A távozó helyettes államtitkárok között van Szalay-Bobrovniczky Vince és Csampa Zsolt is a Magyar Közlönyben megjelent kormányfői határozatok értelmében."
     },
     {
-      "title": "Magyar Péter felmentette az összes nemzetbiztonsági vezetőt",
+      "title": "Magyar Péter négy nemzetbiztonsági vezetőt mentett fel",
       "link": "https://444.hu/2026/06/12/magyar-peter-felmentette-az-osszes-nemzetbiztonsagi-vezetot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Az Információs Hivatal, a Katonai Nemzetbiztonsági Szolgálat, a Nemzetbiztonsági Szakszolgálat és az Alkotmányvédelmi Hivatal főigazgatóit szombati hatállyal mentette fel a kormányfő."
     },
@@ -112,49 +152,64 @@
       "title": "Nem Sulyok Tamás az egyetlen, aki nem tűri némán, ha meg akarnak szabadulni tőle",
       "link": "https://444.hu/2026/06/12/nem-sulyok-tamas-az-egyetlen-aki-nem-turi-neman-ha-meg-akarnak-szabadulni-tole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Keir Starmer brit miniszterelnök bejelentette: ha meneszteni akarják, harcolni fog a tisztségéért."
-    },
-    {
-      "title": "Elon Musk lett a világ első dollárbilliomosa",
-      "link": "https://444.hu/2026/06/12/elon-musk-lett-a-vilag-elso-dollarbilliomosa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A SpaceX mai tőzsdei bevezetése a vártnál is nagyobb siker lett."
-    },
-    {
-      "title": "Közel kétszáz embert küldhetnek el a Mediaworkstől",
-      "link": "https://444.hu/2026/06/12/kozel-ketszaz-embert-kuldhetnek-el-a-mediaworkstol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hetilap lehet a Magyar Nemzet."
-    },
-    {
-      "title": "Gyanús halálesetek miatt exhumálnak négy holttestet a dunapataji temetőkben",
-      "link": "https://444.hu/2026/06/12/gyanus-halalesetek-miatt-lezarjak-a-dunapataji-temetoket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A közelmúltban elhunyt idős személyek halálát „bűncselekmények gyanújával összefüggésben” vizsgálják a Bács-Kiskun megyei településen."
-    },
-    {
-      "title": "Mesterséges intelligencia hallucinációival volt tele a mesterséges intelligencia előnyeiről szóló KPMG-jelentés",
-      "link": "https://444.hu/2026/06/12/mesterseges-intelligencia-hallucinaciokkal-volt-tele-a-mesterseges-intelligencia-elonyeirol-szolo-kpmg-jelentes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "El is kellett távolítani a weboldalról."
-    },
-    {
-      "title": "A tervezettnél kicsivel nagyobb pedagógus-béremelés jöhet",
-      "link": "https://444.hu/2026/06/12/a-tervezettnel-kicsivel-nagyobb-pedagogus-beremeles-johet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az év elején megvalósult tíz százalékos emelés nem elegendő ahhoz, hogy az uniós kötelezettségeinket teljesítsük."
-    },
-    {
-      "title": "Péntek délután kis időre teljesen leállt a Facebook, az Instagram és a Messenger",
-      "link": "https://444.hu/2026/06/12/leallt-a-facebook-es-a-messenger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Globális problémáról volt szó."
-    },
-    {
-      "title": "Kirúgta a Magyar Nemzeti Levéltár főigazgatóját Tarr Zoltán",
-      "link": "https://444.hu/2026/06/12/kirugta-a-magyar-nemzeti-leveltar-foigazgatojat-tarr-zoltan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Szabó Csaba megpróbálta az intézmény „fenntartói státuszának” megváltoztatását."
-    },
-    {
-      "title": "„I am from Bosnia” – mutassatok ennél jobb szurkolói dalt!",
-      "link": "https://444.hu/2026/06/12/i-am-from-bosnia-mutassatok-ennel-jobb-szurkoloi-dalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A szurkolók 15 év után fedezték fel az amerikai álmot kergető számot."
     }
   ],
   "HVG": [
+    {
+      "title": "Magyar Péter bizonyítékokat mutat be arról, hogy az Orbán-kormány menekülttábort akart létrehozni Magyarországon - ÉLŐ",
+      "link": "https://hvg.hu/itthon/20260613_magyar-peter-leleplezes-orban-fidesz-atveres-elo-kozvetites",
+      "summary": "Kormányülésekről, belügyminisztériumi döntésekről mutat be dokumentumokat. Kövesse élőben a HVG-n."
+    },
+    {
+      "title": "A Magyar Nemzeti Levéltár kirúgott vezetője a HVG-nek: Hibáztam, de így is méltánytalan a felmentésem",
+      "link": "https://hvg.hu/360/20260613_nemzeti-leveltar-igazgadato-tarr-tanacs-elbocsatas-okok",
+      "summary": "Szabó Csaba elismeri, hogy jó kapcsolatai voltak a KDNP-vel, és belépett a DPK-ba is, de állítja, politikai meggyőződését soha nem vitte be a munkahelyére."
+    },
+    {
+      "title": "Végre megéri éjszakázni egy vb-meccsért",
+      "link": "https://hvg.hu/sport/20260613_foci-vb-2026-a-nap-meccse-katar-svajc-brazilia-marokko-haiti-skocia-ausztralia-torokorszag",
+      "summary": "Talán a világbajnokság legizgalmasabb csoportmeccs jön, bár a brazilok és a marokkóiak is sok sérülttel vágnak neki a rangadónak. Bemutatkozik a B csoport első számú esélyese, Svájc is, Haiti a Ferencváros támadójával rohamozhat Skócia ellen, fontos meccset vív Törökország és Ausztrália."
+    },
+    {
+      "title": "Trump bejelentette, hogy az amerikaiak megölték a legnagyobb venezuelai bűnszervezet vezetőjét",
+      "link": "https://hvg.hu/vilag/20260613_drogkartell-tren-de-aragua-vezeto-nino-guerrero-meghalt-egyesult-allamok-donald-trump",
+      "summary": "A Nino Guerrero által vezetett Tren de Aragua nemzetközi bűnszervezetté nőtte ki magát, amely a dél-amerikai kontinens több országában megvetette a lábát és a drogkereskedelem mellett embercsempészettel, prostitúcióval, bérgyilkosságokkal és emberrablásokkal is foglalkozik."
+    },
+    {
+      "title": "Die Zeit: Magyar Péter győzelme Németország számára is példa lehet",
+      "link": "https://hvg.hu/360/20260613_die-zeit-magyar-peter-gyozelme-nemetorszag-szamara-is-pelda-lehet",
+      "summary": "Egy friss elemzés utánajárt, hogy miért tudott győzni a választásokon a Tisza és ebből milyen tanulságokat lehet levonni Németország számára."
+    },
+    {
+      "title": "Akinek ilyen mobilja van, az most kap valamit ingyen",
+      "link": "https://hvg.hu/tudomany/20260613_google-android-go-gemini-go-mesterseges-intelligencia",
+      "summary": "A Google a szerény hardveres teljesítménnyel rendelkező mobilokra elkészítette a Gemini alkalmazás könnyített változatát, a Gemini Gót. A bevezetés már megindult."
+    },
+    {
+      "title": "Rázós ügy: éjszaka bejutottunk a Le Mans-i versenypályára",
+      "link": "https://hvg.hu/cegauto/20260613_razos-ugy-ejszaka-bejutottunk-a-le-mans-i-versenypalyara-bmw-m-concept-neue-klasse",
+      "summary": "Vázoljuk, hogy miért nem ildomos túlzottan levágni a kanyarokat és kiszélesíteni a pályát Le Mans-ban, ahol a BMW négymotoros brutális M-es erőgépével is testközelből ismerkedtünk meg."
+    },
+    {
+      "title": "Élet a kormányváltás után: a külügyi szóvivő új bizniszbe kezd",
+      "link": "https://hvg.hu/360/20260613_paczolay-mate-kulugyi-szovivo-uj-biznisze",
+      "summary": "Bár szóvivőként Paczolay Máté nem volt túlságosan bőbeszédű, most tartalomszolgáltatásba kezd."
+    },
+    {
+      "title": "Neymar megint rontást hoz a brazilokra, Marokkó túlszárnyalja a négy évvel ezelőtti bravúrját? – bemutatjuk a foci-vb C csoportjának csapatait",
+      "link": "https://hvg.hu/sport/20260613_foci-vb-2026-c-csoport-csapatbemutato-brazilia-marokko-haiti-skocia",
+      "summary": "A 2026-os labdarúgó-világbajnokság C csoportjában az ötszörös győztes Brazília, a világranglista 8. Marokkó, a világranglista 83. helyén álló Haiti és a mindig szívós Skócia küzd a továbbjutásért. Ebben a cikkben bemutatjuk a négy válogatott szövetségi kapitányait, legfontosabb játékosait és felidézzük a legszebb góljaikat."
+    },
+    {
+      "title": "Jön az uniós pénzeső, de a kivéreztetett vidéki települések mintha már álmodni is elfelejtettek volna",
+      "link": "https://hvg.hu/360/20260613_unios-forrasok-onkormanyzatok-videkfejlesztes-ebx",
+      "summary": "Van település, ahol már annak is örülnének, ha az Orbán-kormány által elvont pénzeket megkapnák – derül ki a HVG összeállításából, amelyben arra kerestük a választ, mekkora várakozások övezik vidéken a felszabaduló uniós forrásokat, mire költenék azokat. Volt polgármester, aki az Orbán-rendszer sarcpolitikája után csak annyit mondott: „mindennek örülünk”."
+    },
+    {
+      "title": "Egy félidőnyi jó játék is elég volt, az Egyesült Államok kiütötte Paraguayt a foci-vb-n",
+      "link": "https://hvg.hu/sport/20260613_foci-vb-2026-d-csoport-egyesult-allamok-paraguay-osszefoglalo-ebx",
+      "summary": "Balogun duplázott, 4–1-re győzött a házigazda."
+    },
     {
       "title": "Magyar Péter menesztette a titkosszolgálatok vezetőit",
       "link": "https://hvg.hu/itthon/20260612_magyar-peter-titkosszolgalatok-vezetok-menesztes",
@@ -174,78 +229,18 @@
       "title": "Texasban egy embert megölt és többeket súlyosan megsebesített egy fegyveres",
       "link": "https://hvg.hu/vilag/20260612_texasban-egy-embert-megolt-es-tobbeket-sulyosan-megsebesitett-egy-fegyveres",
       "summary": "Kilenc sérültet kellett kórházba szállítani."
-    },
-    {
-      "title": "3,5 millió közpénzt költött egy háromnapos afrikai úton szállásra Nagy István",
-      "link": "https://hvg.hu/itthon/20260612_csad-nagy-istvan-utazas-kozpenz",
-      "summary": "A volt agrárminiszter még 2024-ben vitt vetőmagot Csádba."
-    },
-    {
-      "title": "Kanada hatalmas hajtás után egyenlített Bosznia-Hercegovina ellen a világbajnokságon - 1:1",
-      "link": "https://hvg.hu/sport/20260612_kanada-bosznia-hercegovina-eloben-a-vilagbajnoksagrol",
-      "summary": "A világbajnokságon kezd a B-csoport is, az egyik házigazda első meccsén kevés híján botlott egy európai ellenfél ellen. Nem volt jó meccs, de Kanada komoly hajrát nyomott le az egyenlítésért."
-    },
-    {
-      "title": "Nem kapott kanadai vízumot egy ghánai játékos, lemarad a Panama elleni meccséről",
-      "link": "https://hvg.hu/sport/20260612_kanadai-vizum-thomas-partey-ghana-panama",
-      "summary": "Van egy súlyos ügye a középpályásnak, ami miatt bíróság elé kell állnia jövőre"
-    },
-    {
-      "title": "Magyar Péter: A magyar kisebbség helyzetével kapcsolatos ukrán vállalások végrehajtása uniós elvárássá vált",
-      "link": "https://hvg.hu/itthon/20260612_magyar-peter-a-magyar-kisebbseg-helyzetevel-kapcsolatos-ukran-vallalasok-vegrehajtasa-unios-elvarassa-valt",
-      "summary": "Amennyiben ezeket Kijev nem teljesíti határidőre, nem fog tudni továbblépni a csatlakozási folyamatban."
-    },
-    {
-      "title": "Több tucat embert kirúgtak a Miniszterelnökségről",
-      "link": "https://hvg.hu/itthon/20260612_kirugas-miniszterelnokseg-orban-balazs-ruff-balint",
-      "summary": "Orbán Balázs egykori stábjától váltak meg."
-    },
-    {
-      "title": "Bántalmazással fegyelmezte a gyerekeket egy óvónő egy fővárosi óvodában",
-      "link": "https://hvg.hu/elet/20260612_bantalmazas-ovono-ii-kerulet-ovoda",
-      "summary": "A rendőrség kiskorú veszélyeztetése miatt nyomoz, az óvónőt szabadságra küldték."
-    },
-    {
-      "title": "Rámértek, mennyi gomba lehet a talajban, az eredmény megdöbbentő",
-      "link": "https://hvg.hu/tudomany/20260612_mikorrhiza-gomba-terkep-noveny-biologia",
-      "summary": "Holland kutatók 320 tanulmány átvizsgálása után számítógépes szimulációt végeztek, hogy kiderüljön, mennyi mikorrhiza gomba lapulhat a felszín alatt néhány centiméterrel."
-    },
-    {
-      "title": "Benyújtotta a közmédia átalakítását célzó törvénycsomagot a Tisza, itt vannak a részletek",
-      "link": "https://hvg.hu/itthon/20260612_benyujtotta-a-kozmedia-atalakitasat-celzo-torvenycsomagot-a-tisza-itt-vannak-a-reszletek",
-      "summary": "Magyar Péter egyik fő kampányígérete volt a közmédia „hazug hírszolgáltatása” felfüggesztése a választás után. Ez elmaradt, de most itt a rendszer teljes átalakítását ígérő törvényjavaslat. Megszűnik az MTVA és a Duna médiaszolgáltató, a tulajdonosi jogokat gyakorló új testületbe pedig a pártok és a szakma is jelölhet tagokat. Az új vezetők kinevezéséig az irányítást Tarr Zoltán miniszter veszi a kezébe."
-    },
-    {
-      "title": "Elon Musk lett a világ első dollár-ezermilliárdosa",
-      "link": "https://hvg.hu/kkv/20260612_elon-musk-dollar-ezermilliardos-spacex",
-      "summary": "A SpaceX-vezér a tőzsdetörténelem legnagyobb részvénykibocsátásával az űrvállalatban lévő 38 százalékos részesedésének az értékét 800 milliárd dollárra növelte."
-    },
-    {
-      "title": "Végig ott volt a lábunk alatt az antibiotikum, ami a szuperbaktériumok ellen is hathat",
-      "link": "https://hvg.hu/tudomany/20260612_uj-antibiotikum-felfedezes-talaj-manikomicin",
-      "summary": "Olykor érdemes kutatni ott is, ahol az ember eddig nem gondolta volna, hogy van értelme: most a talajban találtak egy ígéretes új antibiotikumot."
-    },
-    {
-      "title": "„Ez valójában Magyar Péter kormányzásának alapja” – Dull Szabolcs a Fülkében",
-      "link": "https://hvg.hu/itthon/20260612_ez-valojaban-magyar-peter-kormanyzasanak-alapja-dull-szabolcs-a-fulkeben",
-      "summary": "„Abszolút filmszínház.” Kampányból kormány lett a Tiszánál, a leállásnak pedig egyelőre nincsenek nyomai. Ez pedig már a kormányzás. Mit jelent az „egyenidejűség”? És mi az, amit a Fidesznek még mindig nem sikerült megértenie? Dull Szabolcs újságíróval, politikai elemzővel, az Ötpontban podcast műsorvezetőjével Kacskovics Mihály Béla beszélgetett."
     }
   ],
   "BBC": [
     {
       "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
       "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
-      "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby lead star is knighted."
+      "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby league star is knighted."
     },
     {
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
-    },
-    {
-      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
-      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC breaks down how the tech mogul's fortune has grown."
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "link": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions."
     },
     {
       "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
@@ -253,9 +248,9 @@
       "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
     },
     {
-      "title": "I have a duty to stay on, says Starmer, as he justifies defence spending decisions",
-      "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money."
+      "title": "Chris Mason: Starmer defiant after defence spending row",
+      "link": "https://www.bbc.com/news/articles/czxqk6w3wyro?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister was keen in a BBC interview to erect the highest bar he could to any wannabe successors triggering a leadership contest."
     },
     {
       "title": "Harry Styles revisits X Factor as he kicks off Wembley residency",
@@ -263,34 +258,24 @@
       "summary": "The pop star reminisces about his X Factor audition, which took place near Wembley Stadium in 2010."
     },
     {
-      "title": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
-      "link": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan."
+      "title": "USA start tournament in style - but will they finally join the elite?",
+      "link": "https://www.bbc.com/sport/football/articles/c621z2k51rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "If there were any doubts the USA were ready to live up to the pressure of being a World Cup host, they were dispelled in a 4-1 win over Paraguay."
     },
     {
-      "title": "King leads tributes to 'giant of the art world' David Hockney",
-      "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says."
-    },
-    {
-      "title": "Switzerland to vote on plan to cap population at 10 million",
-      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
-    },
-    {
-      "title": "Watch: David Beckham receives star on the Hollywood Walk of Fame",
-      "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise."
-    },
-    {
-      "title": "Palestine Action activists jailed over factory raid",
-      "link": "https://www.bbc.com/news/articles/ce950111xk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism."
-    },
-    {
-      "title": "Staying up for the football? Here's how to survive a World Cup all-nighter",
+      "title": "Staying up to watch the match? Here's how to survive an all-nighter",
       "link": "https://www.bbc.com/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
       "summary": "Forget blocks and tackles, this is the tactical plan you need for the football."
+    },
+    {
+      "title": "World Cup kicks off in the US with performances from Katy Perry, Future and Tyla",
+      "link": "https://www.bbc.com/news/articles/c4g9g9xy9y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier, Canada hosted its own opening ceremony in Toronto, featuring singers Alanis Morrisette and Michael Bublé."
+    },
+    {
+      "title": "'It's all they're talking about': Scotland gripped by football fever",
+      "link": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss",
+      "summary": "Excitement is building ahead of Scotland's first game in the men's World Cup for 28 years."
     },
     {
       "title": "Watch: Why is Trump not at the World Cup?",
@@ -298,17 +283,37 @@
       "summary": "All three leaders of the North America host nations have missed the tournament opening matches."
     },
     {
-      "title": "'It's all they're talking about': Scotland gripped by World Cup fever",
-      "link": "https://www.bbc.com/news/articles/c78ydv8er7no?at_medium=RSS&at_campaign=rss",
-      "summary": "Excitement is building ahead of Scotland's first game in the men's World Cup for 28 years."
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC breaks down how the tech mogul's fortune has grown."
     },
     {
-      "title": "Niagara Falls: Is there a better spot to watch a World Cup game?",
-      "link": "https://www.bbc.com/news/videos/c62132n53exo?at_medium=RSS&at_campaign=rss",
-      "summary": "Football fans gathered at a FIFA World Cup watch party at Niagara Falls for the Canadian and USA teams' opening matches."
+      "title": "David Hockney depicted a 'peaceful, gay paradise' when homosexuality was a crime",
+      "link": "https://www.bbc.com/news/articles/cpq393dz535o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hockney broke social taboos by celebrating same-sex relationships in his art - often by depicting the quiet, everyday moments of gay domestic life."
+    },
+    {
+      "title": "The night people in Belfast fled their homes because of racist violence",
+      "link": "https://www.bbc.com/news/articles/cvgjxxz0mp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reporter Richard Morgan recalls the chaotic scenes he witnessed when reporting on days of disorder in Northern Ireland."
+    },
+    {
+      "title": "Ed Sheeran found this record in a second-hand store - now it's finally getting attention",
+      "link": "https://www.bbc.com/news/articles/ce8my1mrv7mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Allan Taylor is receiving overdue recognition after Ed Sheeran found his 1978 LP in a second-hand shop."
+    },
+    {
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "link": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for — housing, food, wireless — and thinks the next startup gold rush is giving that money back."
+    },
     {
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
       "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
@@ -378,11 +383,6 @@
       "title": "Theker just raised $85M to build the factory robot that doesn’t specialize in anything",
       "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
       "summary": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
-    },
-    {
-      "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
     }
   ],
   "Nature": [

@@ -1,6 +1,26 @@
 {
   "Telex": [
     {
+      "title": "Öngól indította be az amerikai hengert, lemosták a pályáról Paraguayt",
+      "link": "https://telex.hu/sport/2026/06/13/foci-vb-2026-usa-paraguay-d-csoport-nyitomeccs-4-1-folarin-balogun-christian-pulisic-ongol",
+      "summary": "4-1-es győzelemmel kezdte a hazai világbajnokságot az amerikai csapat."
+    },
+    {
+      "title": "Recseg-ropog, muszáj hozzányúlni Európa legdrágább, sok magyart is ellátó egészségügyéhez",
+      "link": "https://telex.hu/g7/vilag/2026/06/13/nemetorszag-egeszsegugy-biztositok-reform-kormany-ellenzek-problemak",
+      "summary": "Orvoshiány, várólisták, lyukas kassza – noha a német egészségügy GDP-arányosan is sokkal több pénzből működik, mint a magyar, mégis vannak hasonló válságtünetek. A kormány reformmal próbálkozik."
+    },
+    {
+      "title": "Katy Perry és egy tízéves norvég kisfiú előadásával indult a foci-vb Amerikában",
+      "link": "https://telex.hu/after/2026/06/13/foci-vb-2026-megnyito-los-angeles-usa-paraguay-katy-perry",
+      "summary": "Megtartották a világbajnokság harmadik nyitóünnepségét is."
+    },
+    {
+      "title": "Egyesült Államok–Paraguay 4-1",
+      "link": "https://telex.hu/sport/2026/06/13/egyesult-allamok-paraguay-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "19 százalékos ugrással zárta az első tőzsdei napját a SpaceX",
       "link": "https://telex.hu/gazdasag/2026/06/13/spacex-nasdaq-tozsde-elon-musk",
       "summary": "Egy nap alatt több mint 500 millió részvény cserélt gazdát."
@@ -54,26 +74,6 @@
       "title": "Felemelkedni vagy elbukni? Egyre megy",
       "link": "https://telex.hu/karakter/konyvespolc/2026/06/12/david-szalay-booker-dij-test-kritika",
       "summary": "Bár a Booker-díjas Test főszereplőjének élete sokáig inkább sikertörténetnek tűnik, valójában végig egy olyan ember történetét olvassuk, aki fokozatosan kiüresedik és eltűnik. Kritika."
-    },
-    {
-      "title": "Magyar Péter: Hivatalossá vált a kárpátaljai magyarok jogait rendező megállapodás az ukránokkal",
-      "link": "https://telex.hu/belfold/2026/06/12/magyar-peter-hivatalossa-valt-ukrajna-magyarorszag-megallapodas-karpataljai-magyarok-ugyeben",
-      "summary": "Az ukrán fél hivatalos jegyzékben vállalta az összes pont végrehajtását, közölte a miniszterelnök."
-    },
-    {
-      "title": "Nem engedték be Kanadába a ghánai csapat középpályását",
-      "link": "https://telex.hu/sport/2026/06/12/thomas-partley-ghana-vizum",
-      "summary": "Thomas Partey ezért már biztosan kihagyja a válogatottja első meccsét."
-    },
-    {
-      "title": "Irgalmatlan mennyiségű pénz áramlik a Vanguard amerikai ETF-jeibe",
-      "link": "https://telex.hu/gazdasag/2026/06/12/vanguard-blackrock-legnagyobb-etf-kezelo",
-      "summary": "A Vanguard az amerikai ETF-ek piacán átvette a piacvezetői pozíciót a BlackRocktól."
-    },
-    {
-      "title": "Jön a filléres szemaglutid, és a világ soha többé nem lesz olyan, mint volt",
-      "link": "https://telex.hu/techtud/2026/06/12/szemaglutid-fogyasztoszerek-novo-nordisk-lejar-a-szabadalom-jonnek-a-generikus-gyogyszerek",
-      "summary": "Idén lejárt az egyik legnépszerűbb fogyasztó csodaszer hatóanyagának szabadalmi védettsége, ami az árak brutális zuhanásához fog vezetni. Több százmillió embernek válik fogyókúra helyett csupán elhatározás és pár ezer forint kérdésévé megszabadulnia a túlsúlytól – de a szép új világ új problémákkal is jár."
     }
   ],
   "Portfolio": [],
@@ -233,9 +233,19 @@
   ],
   "BBC": [
     {
+      "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
+      "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
+      "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby lead star is knighted."
+    },
+    {
       "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "link": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn."
+    },
+    {
+      "title": "Elon Musk's stratospheric rise to trillionaire status - in charts",
+      "link": "https://www.bbc.com/news/articles/c4gyp523ly8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC breaks down how the tech mogul's fortune has grown."
     },
     {
       "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
@@ -243,24 +253,19 @@
       "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
     },
     {
-      "title": "Rugby star Sinfield and authors Blackman and Donaldson lead honours list",
-      "link": "https://www.bbc.com/news/articles/c4gyx4dnr21o?at_medium=RSS&at_campaign=rss",
-      "summary": "Noughts & Crosses author Malorie Blackman and Gruffalo creator Julia Donaldson are made dames, as the rugby lead star is knighted."
-    },
-    {
       "title": "I have a duty to stay on, says Starmer, as he justifies defence spending decisions",
       "link": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
       "summary": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money."
     },
     {
+      "title": "Harry Styles revisits X Factor as he kicks off Wembley residency",
+      "link": "https://www.bbc.com/news/articles/cwy0381xxd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pop star reminisces about his X Factor audition, which took place near Wembley Stadium in 2010."
+    },
+    {
       "title": "Karren Brady stayed at West Ham despite knowing of Sullivan women's team ban",
       "link": "https://www.bbc.com/news/articles/cd0me8p579ko?at_medium=RSS&at_campaign=rss",
       "summary": "Brady's lawyers said she had \"no knowledge\" of the allegations made against long-time business partner David Sullivan."
-    },
-    {
-      "title": "'We'll go crazy for a goal' - Excitement builds ahead of USA World Cup match",
-      "link": "https://www.bbc.com/news/videos/c0myvem11ymo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC spoke to US fans at the Fifa Fan Festival in Los Angeles ahead of the team's match against Paraguay."
     },
     {
       "title": "King leads tributes to 'giant of the art world' David Hockney",
@@ -273,11 +278,6 @@
       "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos."
     },
     {
-      "title": "Defence row exposes tensions over how to keep UK safe",
-      "link": "https://www.bbc.com/news/articles/c8d2q84y1gno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-Defence Secretary John Healey has said the defence investment plan is \"well short of what is required\"."
-    },
-    {
       "title": "Watch: David Beckham receives star on the Hollywood Walk of Fame",
       "link": "https://www.bbc.com/news/videos/c1jy0444k3wo?at_medium=RSS&at_campaign=rss",
       "summary": "The former footballer was joined by his wife Victoria Beckham and their children, as well as actor Tom Cruise."
@@ -288,9 +288,14 @@
       "summary": "The case is believed to be the first time that convictions for criminal damage have been classified as terrorism."
     },
     {
-      "title": "Delta Goodrem becomes third celebrity to join Strictly Come Dancing",
-      "link": "https://www.bbc.com/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Goodrem rose to fame in Australian soap opera Neighbours"
+      "title": "Staying up for the football? Here's how to survive a World Cup all-nighter",
+      "link": "https://www.bbc.com/news/articles/c3wyel830w8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forget blocks and tackles, this is the tactical plan you need for the football."
+    },
+    {
+      "title": "Watch: Why is Trump not at the World Cup?",
+      "link": "https://www.bbc.com/news/videos/ced48dv99lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "All three leaders of the North America host nations have missed the tournament opening matches."
     },
     {
       "title": "'It's all they're talking about': Scotland gripped by World Cup fever",
@@ -298,17 +303,17 @@
       "summary": "Excitement is building ahead of Scotland's first game in the men's World Cup for 28 years."
     },
     {
-      "title": "Scotland's McTominay 'ready to go' after illness",
-      "link": "https://www.bbc.com/sport/football/articles/c78y50pmd2go?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland midfielder Scott McTominay takes part in training on the eve of the World Cup opener against Haiti, having missed out the previous day because of an upset stomach."
-    },
-    {
-      "title": "South Africa trolled by African fans in wake of World Cup loss",
-      "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The taunting reflects anger from parts of the continent over reports of xenophobia in South Africa."
+      "title": "Niagara Falls: Is there a better spot to watch a World Cup game?",
+      "link": "https://www.bbc.com/news/videos/c62132n53exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Football fans gathered at a FIFA World Cup watch party at Niagara Falls for the Canadian and USA teams' opening matches."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+    },
     {
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
@@ -378,11 +383,6 @@
       "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
       "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
       "summary": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "summary": "Wits its official share pricing announcement, SpaceX's IPO has begun."
     }
   ],
   "Nature": [

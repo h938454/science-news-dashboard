@@ -1,22 +1,42 @@
 {
   "Telex": [
     {
+      "title": "Japán az utolsó percekben egyenlített Hollandia ellen",
+      "link": "https://telex.hu/sport/2026/06/15/hollandia-japan-foci-vb-csoportkor-osszefoglalo",
+      "summary": "Hiába a mezőnyfölény és a kétszer is megszerzett vezetés, Hollandia nem bírt Japánnal."
+    },
+    {
+      "title": "Trump: Megvan az Iránnal kötött megállapodás. Hadd folyjon az olaj!",
+      "link": "https://telex.hu/belfold/2026/06/15/iran-beke-egyesult-allamok-trump",
+      "summary": "A pakisztáni miniszterelnök szerint pénteken írják majd alá a hivatalos békemegállapodást."
+    },
+    {
+      "title": "Videón, ahogy elfogják és ütni kezdik a rendőrök a budai ámokfutót",
+      "link": "https://telex.hu/belfold/2026/06/14/rendorseg-elfogas-letartoztatas-hivatalos-szemely-elleni-eroszak",
+      "summary": "Autóval menekült, neki is hajtott egy rendőrautónak az eltiltott sofőr."
+    },
+    {
+      "title": "Magukban is le kell építeni a nőknek, hogy mindent nekik kell csinálni, ez egyszerűen fenntarthatatlan",
+      "link": "https://telex.hu/eletmod/2026/06/14/nincs-ido-lathatatlan-munka-nok-tabu",
+      "summary": "Miért érzik úgy a nők, hogy soha nincs idejük semmire? Miért nem adják meg maguknak az engedélyt a pihenésre? Többek között ezekről is szó esett a Tabu eheti adásában."
+    },
+    {
       "title": "Azt mondta, ők nem zsoldosok, hanem fizettek a szerbeknek, hogy emberekre lőhessenek Szarajevóban",
       "link": "https://telex.hu/kulfold/2026/06/14/ezio-gavazzeni-delszlav-haboru-bosznia-szarajevo-ostroma-mesterlovesz-szafari-nyomozas-vadak-aleksandar-vucic",
       "summary": "Ezio Gavazzeni a 2020-as évek elején figyelt fel egy makacs pletykára, és nyomozni kezdett. Az emberiség egyik morális mélypontjára talált: eszerint pénzes olaszok és más nyugatiak a délszláv háború idején civileket gyilkolhattak meg Szarajevó ostromakor. Az ügyben már öt országban indultak eljárások. Hétvégi orvlövészek – A szarajevói emberszafarik nyomában című könyve most jelenik meg magyarul."
     },
     {
-      "title": "Gulyás Gergely Bécsbe és Berlinbe is magángéppel utazott 2023-ban",
+      "title": "Gulyás Gergely 2023-ban Bécsbe és Berlinbe is magángéppel utazott",
       "link": "https://telex.hu/belfold/2026/06/14/gulyas-gergely-becs-berlin-magangep-kozpenz-utazas",
       "summary": "A gépet közpénzből bérelték egy ismerős cégtől."
     },
     {
       "title": "Elismerte a kormány, hogy nem volt szerencsés az „Orbán a sajátjainak is hazudott” kezdetű posztjuk stílusa",
       "link": "https://telex.hu/belfold/2026/06/14/vitnyedi-menekulttabor-kormany-nem-szerencses",
-      "summary": "Gyorsan eljutott a Magyarország kormány Facebook-oldal a Fidesz-propagandától a Tisza-propagandáig."
+      "summary": "Gyorsan eljutott a Magyarország kormánya Facebook-oldal a Fidesz-propagandától a Tisza-propagandáig."
     },
     {
-      "title": "Hollandia–Japán 0-0",
+      "title": "Hollandia–Japán 2-2",
       "link": "https://telex.hu/sport/2026/06/14/hollandia-japan-vb-kozvetites",
       "summary": ""
     },
@@ -54,26 +74,6 @@
       "title": "Leszavazták a svájciak azt a kezdeményezést, ami 10 millió főben maximálta volna az ország népességét",
       "link": "https://telex.hu/kulfold/2026/06/14/svajc-10-millio-fo-lakossag-letszamanak-maximalasa",
       "summary": "Elbukott a bevándorlást korlátozni hivatott javaslat."
-    },
-    {
-      "title": "444: A NAV belső jelentése szerint jogsértően járhatott el a Legfőbb Ügyészség az ukrán pénzszállítók ügyében",
-      "link": "https://telex.hu/belfold/2026/06/14/legfobb-ugyeszseg-aranykonvoj-nav-belso-vizsgalat-kormany",
-      "summary": "A NAV több munkatársát meghallgatták, új részletekre derült fény az akcióval kapcsolatban."
-    },
-    {
-      "title": "Németország–Curaçao 7-1",
-      "link": "https://telex.hu/sport/2026/06/14/nemetorszag-curacao-vb-kozvetites",
-      "summary": ""
-    },
-    {
-      "title": "Meg fogja kapni a neki járó fizetést az Egyesült Államokból kitiltott szomáliai bíró",
-      "link": "https://telex.hu/sport/2026/06/14/foci-vb-2026-futball-fifa-szomaliai-biro",
-      "summary": "Omar Artan több mérkőzést is vezetett volna a vb-n, de nem engedték be az Egyesült Államokba."
-    },
-    {
-      "title": "Justin Trudeau-nak jó kifogása van arra, hogy kanadai helyett miért amerikai szurkolók között tűnt fel",
-      "link": "https://telex.hu/sport/2026/06/14/justin-trudeaunak-jo-kifogasa-van-arra-hogy-kanadai-helyett-miert-amerikai-szurkolok-kozott-tunt-fel",
-      "summary": "„Ha támogató pasi vagy, néha szólít a kötelesség” – posztolta a kanadai exminiszterelnök."
     }
   ],
   "Portfolio": [],
@@ -161,9 +161,9 @@
       "summary": "A gép felszállás után kanyarodni próbált, irányíthatatlanná vált és orral a földnek csapódott."
     },
     {
-      "title": "Hollandia–Japán a focivébén – ÉLŐ",
+      "title": "Kétszer is vezetett, mégsem tudott nyerni Japán ellen Hollandia",
       "link": "https://hvg.hu/sport/20260614_hollandia-japan-foci-vb-csoportkor-elo",
-      "summary": "Kövesse velünk a mérkőzést percről percre."
+      "summary": "A második félidőben indultak be igazán a hollandok, de túlzottan megnyugtatta őket az egy gólos előny."
     },
     {
       "title": "A kormány elismerte, hogy „nem volt a legszerencsésebb” a stílusa annak a posztnak, amiben arról írtak, hogy „Orbán a sajátjainak is hazudott”",
@@ -233,9 +233,9 @@
   ],
   "BBC": [
     {
-      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
-      "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday."
+      "title": "New social media restrictions will end 'system failing our kids', PM says",
+      "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Starmer promises \"bold action\" ahead of Monday's announcement on restrictions for children."
     },
     {
       "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
@@ -243,14 +243,24 @@
       "summary": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords."
     },
     {
-      "title": "UK electric car sales target set to be weakened",
-      "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands."
+      "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+      "link": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Paying tribute, Sir Keir Starmer said Lord Hattersley \"was a giant of the Labour movement\"."
+    },
+    {
+      "title": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+      "link": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday."
     },
     {
       "title": "Thunderstorms threaten Trump's UFC cage fight on the White House lawn",
       "link": "https://www.bbc.com/news/articles/c892xnwg5vlo?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands are expected at the mixed martial arts fight, which coincides with Trump's 80th birthday."
+    },
+    {
+      "title": "UK electric car sales target set to be weakened",
+      "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands."
     },
     {
       "title": "Watch: Protesters clash with police ahead of G7 summit in Geneva",
@@ -263,11 +273,6 @@
       "summary": "The plane had just taken off in the US state of Missouri, but failed to gain altitude, according to local emergency responders."
     },
     {
-      "title": "Tech firms had 'enough time' says Nandy, ahead of social media announcement",
-      "link": "https://www.bbc.com/news/articles/ce8jyp78mklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister is expected to announce measures on protecting teenagers online on Monday."
-    },
-    {
       "title": "Swiss voters reject 10 million population cap",
       "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
       "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show."
@@ -276,11 +281,6 @@
       "title": "Farage vows to ban foreign nationals from social housing",
       "link": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss",
       "summary": "The Reform UK leader says tenants would have three months to find a new home or face potential deportation."
-    },
-    {
-      "title": "'Boyfriend duties call,' Trudeau says after skipping Canada match to watch Perry",
-      "link": "https://www.bbc.com/news/articles/cly9eljexnno?at_medium=RSS&at_campaign=rss",
-      "summary": "Cameras caught Perry running off stage to greet the former Canadian leader with a kiss."
     },
     {
       "title": "How will Scotland approach Morocco game after opening win?",
@@ -298,17 +298,22 @@
       "summary": "Supporters gathered in bars and venues across the country in the early hours to watch the match against Haiti."
     },
     {
+      "title": "Roy Hattersley: Labour politician who helped start the party's modernisation",
+      "link": "https://www.bbc.com/news/articles/c7224g41x1po?at_medium=RSS&at_campaign=rss",
+      "summary": "Able Labour politician, often at odds with his party, who became a successful author and columnist."
+    },
+    {
       "title": "'The new Emma' - positives Raducanu can take from Queen's to Wimbledon",
       "link": "https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&at_campaign=rss",
       "summary": "Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner."
-    },
-    {
-      "title": "MP opens up on 30-year fight for period healthcare",
-      "link": "https://www.bbc.com/news/articles/cgrknv9qvx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "White wants endometriosis diagnosis and treatment waiting times to be prioritised by the NHS."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
+      "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
+      "summary": "JPMorgan can't be pleased by any of this."
+    },
     {
       "title": "UK may ban social media for children under 16",
       "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
@@ -378,12 +383,83 @@
       "title": "SpaceX IPO: Live updates on everything you need to know",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document."
-    },
-    {
-      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Huge study hints at risks of switching from tobacco cigarettes to vapes",
+      "link": "https://www.nature.com/articles/d41586-026-01834-9",
+      "summary": "<p>Nature, Published online: 14 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01834-9\">doi:10.1038/d41586-026-01834-9</a></p>Lung cancer risk was higher in people who took up electronic cigarettes than in those who quit smoking completely."
+    },
+    {
+      "title": "Why we seek to fly: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-01911-z",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01911-z\">doi:10.1038/d41586-026-01911-z</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Briefing Chat: The epic journey of Stonehenge’s central stone",
+      "link": "https://www.nature.com/articles/d41586-026-01912-y",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01912-y\">doi:10.1038/d41586-026-01912-y</a></p>Nature staff discuss some of the week’s top science news."
+    },
+    {
+      "title": "I advise the Vatican and the UN on AI — don’t dismiss the Pope’s message as theology",
+      "link": "https://www.nature.com/articles/d41586-026-01876-z",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01876-z\">doi:10.1038/d41586-026-01876-z</a></p>The papal letter goes beyond a religious document and diagnoses a failure in AI governance that the scientific community should heed."
+    },
+    {
+      "title": "‘Student Geng’ ignites research-integrity scandal in China after calling out senior academics<b> </b>",
+      "link": "https://www.nature.com/articles/d41586-026-01902-0",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01902-0\">doi:10.1038/d41586-026-01902-0</a></p>Video blogger’s viral accusations of data manipulation in Nature journals have sparked intense debate and speedy institutional investigations."
+    },
+    {
+      "title": "Humans outperform AI at this highly rigorous mathematics test",
+      "link": "https://www.nature.com/articles/d41586-026-01888-9",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01888-9\">doi:10.1038/d41586-026-01888-9</a></p>A new benchmark pitting AI against previously unseen maths problems shows systems still fall short of top human expertise."
+    },
+    {
+      "title": "An innovative technology boosts image quality for protein structures",
+      "link": "https://www.nature.com/articles/d41586-026-01858-1",
+      "summary": "<p>Nature, Published online: 12 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01858-1\">doi:10.1038/d41586-026-01858-1</a></p>After years of effort, two research teams have developed ‘laser phase plate’ systems that could help cryo-electron-microscopy users to generate high-quality structures for a broad range of proteins."
+    },
+    {
+      "title": "Author Correction: Plasticity and language in the anaesthetized human hippocampus",
+      "link": "https://www.nature.com/articles/s41586-026-10784-1",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10784-1\">doi:10.1038/s41586-026-10784-1</a></p>Author Correction: Plasticity and language in the anaesthetized human hippocampus"
+    },
+    {
+      "title": "Whale graveyard discovered 7km under the sea",
+      "link": "https://www.nature.com/articles/d41586-026-01886-x",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01886-x\">doi:10.1038/d41586-026-01886-x</a></p>The treasure trove of fossils and bones has already revealed a new species of extinct whale."
+    },
+    {
+      "title": "My diverse academic background is affecting my PhD studies — what do I do?",
+      "link": "https://www.nature.com/articles/d41586-026-01129-z",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01129-z\">doi:10.1038/d41586-026-01129-z</a></p>A PhD student in China who has changed his focus twice since obtaining his undergraduate degree is struggling to keep up."
+    },
+    {
+      "title": "Tool flags suspicious journals before researchers submit papers",
+      "link": "https://www.nature.com/articles/d41586-026-01707-1",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01707-1\">doi:10.1038/d41586-026-01707-1</a></p>The free platform, called Journal Trends, could also allow integrity sleuths to spot low-quality publications."
+    },
+    {
+      "title": "‘Footballers are not superheroes’: we must tackle the mental and physical pressures of elite sport",
+      "link": "https://www.nature.com/articles/d41586-026-01865-2",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01865-2\">doi:10.1038/d41586-026-01865-2</a></p>As the men’s football World Cup gets under way, how the game weighs on the health of athletes still isn’t talked about enough, says player-turned-medic Vincent Gouttebarge."
+    },
+    {
+      "title": "This World Cup could be the most high-tech yet — the innovations to watch for",
+      "link": "https://www.nature.com/articles/d41586-026-01866-1",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01866-1\">doi:10.1038/d41586-026-01866-1</a></p>Nature asked a football-journal chief about emerging trends in the sport, from AI tools to PhD students embedded in teams."
+    },
+    {
+      "title": "Revealed: how Venus flytraps snap shut with astonishing speed",
+      "link": "https://www.nature.com/articles/d41586-026-01857-2",
+      "summary": "<p>Nature, Published online: 11 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01857-2\">doi:10.1038/d41586-026-01857-2</a></p>Softening of the cells on the outermost surface of the trap lets the plant move at a breakneck pace."
+    },
+    {
+      "title": "Giant crustacean of the deep sea steals a trick from bacteria",
+      "link": "https://www.nature.com/articles/d41586-026-01832-x",
+      "summary": "<p>Nature, Published online: 10 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01832-x\">doi:10.1038/d41586-026-01832-x</a></p>Organisms called bathynomids boast a bacterial gene that helps them to regulate their metabolism in the cold depths."
+    }
+  ]
 }

@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Gulyás Gergely magánrepülővel utazott Bécsbe és Berlinbe közpénzen",
-      "summary": "Gulyás Gergely volt miniszter a közpénzből finanszírozott magánrepülőgépet használt bécsi és berlini utazásai során, melyek összesen több mint 5 millió forintba kerültek. Ez a gyakorlat kritikákat váltott ki a közpénzek felhasználása miatt.",
+      "title": "Gulyás Gergely magángéppel utazott Bécsbe és Berlinbe közpénzből",
+      "summary": "Gulyás Gergely miniszterként magánrepülővel utazott 2023-ban Bécsbe és Berlinbe, ami több mint 5 millió forintjába került az adófizetőknek. Az út költségeit közpénzből fedezték.",
       "importance": 5
     },
     {
-      "title": "Súlyos hiányosságokat tárt fel egy NAV-vizsgálat az ukrán pénzszállító ügyében",
-      "summary": "Egy belső NAV-jelentés szerint a Legfőbb Ügyészség törvénysértően járhatott el az \"aranykonvoj\" vagy ukrán pénzszállítók ügyében. A vizsgálat súlyos hiányosságokat állapított meg az ügy kezelésében.",
-      "importance": 5
-    },
-    {
-      "title": "A kormány elismerte a „nem volt szerencsés” stílusú posztjukat Orbánról",
-      "summary": "A kormány szóvivője szerint \"nem volt a legszerencsésebb\" annak a posztnak a stílusa, amely szerint \"Orbán a sajátjainak is hazudott\". Az eset rávilágít a kormányzati kommunikáció belső feszültségeire és hibáira.",
+      "title": "Videón a budai ámokfutó rendőri elfogása és ütlegelése",
+      "summary": "Felvételek tanúsága szerint a rendőrök megbilincselve, a földön ütlegelték és rugdosták a budai ámokfutót. Az eset felveti a rendőri intézkedés arányosságának és jogszerűségének kérdéseit.",
       "importance": 4
     },
     {
-      "title": "Frissült a radnaimark.hu: Magyar Péterrel kapcsolatos tartalommal",
-      "summary": "Új tartalom jelent meg a radnaimark.hu oldalon, amely egyebek mellett egy cicát és a Tisza Párt alelnökének választókerületével kapcsolatos híreket tartalmaz. Az oldal Magyar Péter politikai aktivitásával összefüggésben kapott kiemelt figyelmet.",
+      "title": "Súlyos hiányosságokat tárt fel a NAV az \"aranykonvoj\" ügyben",
+      "summary": "Egy belső NAV-vizsgálat súlyos hiányosságokat és törvénysértő eljárást állapított meg a Legfőbb Ügyészség részéről az úgynevezett \"ukrán pénzszállító\" vagy \"aranykonvoj\" ügyben. Az eset feltehetően korrupciós kockázatokat rejt.",
+      "importance": 5
+    },
+    {
+      "title": "Hatéves kislány halt meg Átányban egy rádőlt betonoszlop miatt",
+      "summary": "Tragikus baleset történt Átányban, ahol egy hatéves kislány vesztette életét, miután rádőlt egy betonoszlop. A rendőrség vizsgálja az eset körülményeit.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Trump Putyinnal és Zelenszkijjel is tárgyalt, „hatni” kész Európára",
-      "summary": "Donald Trump telefonon beszélt Vlagyimir Putyinnal és Volodimir Zelenszkijjel is, és közölte, hogy kész \"hatni\" Európára az ukrajnai háború befejezése érdekében. Putyin szerint Európa és Zelenszkij húzza el a konfliktust.",
+      "title": "Svájciak leszavazták a 10 milliós népességi plafon bevezetését",
+      "summary": "A svájci választók népszavazáson utasították el azt a kezdeményezést, amely 10 millió főben maximálta volna az ország népességét. Ezzel elvetették a bevándorlás elleni harc egyik radikális eszközét.",
       "importance": 5
     },
     {
-      "title": "A svájciak elutasították a 10 millió fős népességi maximum bevezetését",
-      "summary": "A svájci választók nagy többsége elutasította azt a kezdeményezést, amely 10 millió főben maximálta volna az ország népességét. Ezzel eldőlt, hogy Svájc nem a lakosságszám korlátozásával küzd a bevándorlás ellen.",
+      "title": "Tizenketten haltak meg egy ejtőernyős-repülőgép balesetben Missouriban",
+      "summary": "Egy ejtőernyősöket szállító repülőgép zuhant le Missouriban, a balesetben tizenegy ejtőernyős és a pilóta is életét vesztette. A tragédia körülményeit vizsgálják.",
       "importance": 4
     },
     {
-      "title": "Ejtőernyősöket szállító repülő zuhant le az USA-ban, 12 halott",
-      "summary": "Lezuhant egy ejtőernyősöket szállító kisrepülőgép Missouriban, az Egyesült Államokban. A balesetben tizenegy ejtőernyős és a pilóta vesztette életét.",
-      "importance": 4
+      "title": "Trump új külpolitikai nyilatkozatai: Irán, Putyin és Európa",
+      "summary": "Donald Trump bejelentette, hogy megvan az Iránnal kötött olajmegállapodás, emellett Putyinnal és Zelenszkijjel is tárgyalt a háborúról, jelezve, kész \"hatni\" Európára. Izraelnek is tanácsot adott egy bejrúti támadással kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Brit tengerészgyalogosok szálltak meg egy orosz árnyékflotta tankert",
-      "summary": "A brit Királyi Tengerészgyalogság tagjai az angol csatornán szálltak meg egy, az orosz árnyékflottához tartozó olajszállító tankert. Az incidens nemzetközi feszültségeket okozhat.",
+      "title": "Brit tengerészgyalogosok szálltak meg egy orosz \"árnyékflotta\" olajtankert",
+      "summary": "Brit királyi tengerészgyalogosok szálltak meg egy, az orosz \"árnyékflottához\" tartozó olajtankert a La Manche csatornán. Az akció a szankciók betartatásának ellenőrzésére irányult.",
       "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI állami főügyészi vizsgálat alá került",
-      "summary": "Az OpenAI, a ChatGPT fejlesztője, több amerikai állam főügyészi vizsgálata alá került. Az okok között valószínűleg a mesterséges intelligencia biztonságával és adatvédelmi kérdéseivel kapcsolatos aggodalmak szerepelnek.",
+      "title": "Kormányzati fellépés és vizsgálatok az AI-cégek ellen a biztonság miatt",
+      "summary": "Az Anthropic biztonsági figyelmeztetései visszafelé sültek el, a kormány leállította legfejlettebb AI-modelljüket, míg az OpenAI ellen több államügyészség is vizsgálatot indított. A mesterséges intelligencia szabályozása és etikai kérdései egyre égetőbbek.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic mesterséges intelligenciáját leállította a kormány",
-      "summary": "Az Anthropic biztonsági figyelmeztetései visszafelé sülhettek el, mivel a kormány leállította a cég legerősebb mesterséges intelligencia modelljét. Ez a fejlemény rávilágít az AI-fejlesztés és -szabályozás közötti feszültségekre.",
+      "title": "A KPMG visszavonja AI-használatról szóló jelentését \"hallucinációk\" miatt",
+      "summary": "A KPMG visszavonta az AI-használatról szóló jelentését, miután \"nyilvánvaló hallucinációkat\" és hibákat észleltek benne. Ez rávilágít a mesterséges intelligencia megbízhatóságának kihívásaira és a minőségellenőrzés fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "A SpaceX növekedése és potenciális IPO-ja túlrepül a Teslán",
+      "summary": "A SpaceX folyamatosan tör előre az űriparban, és most már pénzügyileg is meghaladja a Teslát, egy potenciális tőzsdei bevezetés (IPO) lehetősége is felmerült. Az űrcég kulcsszerepet játszik a magánkézben lévő űrkutatásban.",
       "importance": 5
     },
     {
-      "title": "A SpaceX IPO-ra készül: fontos pénzügyi mérföldkő",
-      "summary": "A TechCrunch szerint a SpaceX túlszárnyalja a Teslát, és hamarosan részletes információk várhatók a vállalat tőzsdei bevezetéséről (IPO). Ez jelentős pénzügyi mérföldkő a magán űrutazás és a technológiai szektor számára.",
-      "importance": 4
-    },
-    {
-      "title": "A Meta felmond egy 2 milliárd dolláros üzletet Peking kérésére",
-      "summary": "A Meta állítólag felmondja a 2 milliárd dolláros Manus üzletét, miután Peking követelést intézett felé. Ez az eset rávilágít a globális technológiai vállalatok és a geopolitikai érdekek közötti feszültségekre.",
-      "importance": 4
+      "title": "Az Egyesült Királyság betiltaná a közösségi médiát a 16 év alatti gyermekek számára",
+      "summary": "Az Egyesült Királyság miniszterelnöke új közösségi média korlátozásokat jelentett be, amelyek megtiltanák a platformok használatát a 16 év alatti gyermekek számára. A cél a \"gyermekeinket cserbenhagyó rendszer\" felszámolása.",
+      "importance": 5
     }
   ],
   "science": [
     {
-      "title": "A mesterséges intelligencia tényleg az életünkre tör?",
-      "summary": "A mesterséges intelligencia fejlődése egyre több etikai és biztonsági kérdést vet fel, beleértve azt a komoly dilemmát is, hogy potenciálisan veszélyeztetheti-e az emberiséget. A téma egyre inkább központi vita tárgyává válik a tudományos és technológiai körökben.",
-      "importance": 4
-    },
-    {
-      "title": "A KPMG visszavonta az AI-jelentését a „hallucinációk” miatt",
-      "summary": "A KPMG visszavont egy mesterséges intelligencia használatáról szóló jelentést az AI-modellek \"hallucinációi\" miatt, amelyek hibás vagy hamis információkat generáltak. Ez az eset kiemeli az AI jelenlegi korlátait és megbízhatósági problémáit.",
-      "importance": 4
-    },
-    {
-      "title": "Az Anthropic AI biztonsági figyelmeztetései a kormányzati beavatkozáshoz vezettek",
-      "summary": "Az Anthropic mesterséges intelligencia modelljeinek biztonsági aggodalmai a kormányzati szabályozó szervek beavatkozásához vezettek, ami a legerősebb AI leállítását eredményezte. Ez az eset rávilágít az AI-kutatás és a társadalmi felelősségvállalás komplex kapcsolatára.",
+      "title": "Hatalmas tanulmány figyelmeztet a dohányzásról e-cigarettára váltás kockázataira",
+      "summary": "Egy nagyszabású tanulmány arra utal, hogy a hagyományos dohánycigarettákról az e-cigarettára való áttérésnek is jelentős egészségügyi kockázatai lehetnek. A kutatás rávilágít a vaping hosszú távú hatásainak jobb megértésének szükségességére.",
       "importance": 5
     },
     {
-      "title": "Az FBI kiberbiztonsági gyakorlóvárost épített a támadások szimulálására",
-      "summary": "Az FBI egy valósághű, kicsinyített várost épített, hogy valós környezetben szimulálhasson kibertámadásokat és tesztelhesse védelmi rendszereit. Ez a módszer a rendszerek tudományos alapú vizsgálatát és fejlesztését szolgálja.",
+      "title": "Hét kilométer mélyen, a tenger alatt fedeztek fel bálnatemetőt",
+      "summary": "A tengerfenék alatt, 7 kilométeres mélységben fedeztek fel egy bálnatemetőt, amely ritka betekintést nyújt a mélytengeri ökoszisztémákba és a tengeri élőlények pusztulási folyamataiba. Ez a felfedezés új tudományos lehetőségeket nyit meg.",
+      "importance": 4
+    },
+    {
+      "title": "Emberi teljesítmény felülmúlja az AI-t egy szigorú matematikai teszten",
+      "summary": "Egy nagyszabású matematikai teszten az emberi elme felülmúlta a mesterséges intelligenciát, ami rávilágít az emberi gondolkodás egyedi képességeire. Ez a megállapítás fontos szempont az AI képességeinek és korlátainak értékelésében.",
+      "importance": 4
+    },
+    {
+      "title": "Kiderült, hogyan csapódik le elképesztő sebességgel a Vénusz légycsapója",
+      "summary": "Kutatók felfedték a Vénusz légycsapójának elképesztő sebességű becsapódási mechanizmusát. A felfedezés mélyebb betekintést nyújt a növényvilág biomechanikai csodáiba és a ragadozó növények adaptációjába.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A magyar kajak-kenusok vitték el a legtöbb érmet az Eb-n",
-      "summary": "A magyar válogatott szerezte a legtöbb érmet a Portugáliában rendezett kajak-kenu Európa-bajnokságon. Ezzel a kiváló eredménnyel Magyarország ismét bizonyította vezető szerepét a sportágban.",
+      "title": "A magyarok szerezték a legtöbb érmet a kajak-kenu-Eb-n Portugáliában",
+      "summary": "A magyar válogatott kimagaslóan szerepelt a Portugáliában megrendezett kajak-kenu Európa-bajnokságon, ahol a legtöbb érmet gyűjtötte be. Ez a teljesítmény újabb bizonyítéka a magyar vízisport kiemelkedő színvonalának.",
       "importance": 5
     },
     {
-      "title": "Németország magabiztos győzelmet aratott Curaçao ellen 7-1-re",
-      "summary": "Németország 7-1-re győzte le Curaçaót egy labdarúgó mérkőzésen, ahol a karibi csapat meglepetésre gólt is szerzett Manuel Neuernek. A németek végül simán hozták a papírformát.",
+      "title": "Japán az utolsó percekben egyenlített Hollandia ellen egy izgalmas meccsen",
+      "summary": "Japán az utolsó pillanatokban szerzett góllal egyenlített Hollandia ellen, így a két csapat 2-2-es döntetlennel zárta az izgalmas mérkőzést. A hollandok kétszer is vezettek, de nem tudták megtartani előnyüket.",
+      "importance": 4
+    },
+    {
+      "title": "Curaçao gólt szerzett a németek ellen, de Németország nyert",
+      "summary": "A karibi Curaçao meglepte Németországot azzal, hogy gólt szerzett Manuel Neuernek és kiegyenlített. A németek azonban végül átgázoltak ellenfelükön, és simán hozták a papírformát.",
       "importance": 3
     },
     {
-      "title": "Gól nélküli döntetlennel ért véget a Hollandia–Japán meccs",
-      "summary": "A Hollandia és Japán közötti labdarúgó mérkőzés 0-0-ás döntetlennel zárult. A mérkőzés eredménye a focivébé keretein belül született.",
-      "importance": 3
-    },
-    {
-      "title": "A FIFA szerint műszaki hiba okozta a lesanimáció hiányát",
-      "summary": "A FIFA bejelentette, hogy műszaki hiba miatt nem volt látható a lesanimáció a Svájc–Katar mérkőzésen. Ez a technikai probléma vitákat váltott ki a videóbírói rendszer megbízhatóságáról.",
-      "importance": 3
+      "title": "\"A futballisták nem szuperhősök\": foglalkozni kell az élsportolók mentális és fizikai nyomásával",
+      "summary": "A Nature cikke rámutat, hogy az élsportolókat, különösen a labdarúgókat érő mentális és fizikai nyomás súlyos következményekkel járhat. Fontos, hogy foglalkozzunk a sportolók jólétével, és ne tekintsük őket szuperhősöknek.",
+      "importance": 4
     }
   ]
 }

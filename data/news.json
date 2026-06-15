@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Szaúd-Arábia–Uruguay 1-0",
+      "link": "https://telex.hu/sport/2026/06/15/szaud-arabia-uruguay-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Lukaku beállt és megmentette Belgiumot Egyiptom ellen",
       "link": "https://telex.hu/sport/2026/06/15/belgium-egyiptom-szalah-de-bruyne-lukaku",
       "summary": "Kevin de Bruyne kapufát lőtt, Egyiptom 36 év után szerzett vb-pontot, élvezetes 1–1-et láttunk."
@@ -69,11 +74,6 @@
       "title": "Bóka János szerint nem volt sikertelen az Unió kitaktikázása a Vitnyédre tervezett menekülttáborral",
       "link": "https://telex.hu/belfold/2026/06/15/boka-janos-europai-unios-ugyekert-felelos-miniszter-vitnyedi-menekulttabor-nemzeti-erdek-unio-kitaktikazas",
       "summary": "A korábbi uniós ügyekért felelős miniszter a Telexnek azt mondta: a sikerességi mutatójuk attól függ, hogyan tudták képviselni a nemzeti érdeket. Azt elismerte, hogy ennek politikai és anyagi ára is volt."
-    },
-    {
-      "title": "Magyar Nemzet: Letartóztatásban marad az óbudai korrupciós ügy két volt momentumos gyanúsítottja",
-      "link": "https://telex.hu/belfold/2026/06/15/obuda-iii-kerulet-korrupcios-ugy-birosag-vegzes-volt-momentumos-politikusok-letartoztatasban-maradnak",
-      "summary": "A Hungast-csoport tulajdonosának, Gy. Tamás letartóztatásának meghosszabbításáról is döntött a bíróság a lap értesülései szerint."
     }
   ],
   "Portfolio": [],
@@ -263,6 +263,16 @@
       "summary": "An Indian national is charged with contravening sanctions after the tanker was detained."
     },
     {
+      "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
+      "link": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A government spokesman tells the BBC that the current offer \"does not do enough to protect consumers or the environment\"."
+    },
+    {
+      "title": "Bonnie Tyler out of coma but 'very unwell' after emergency surgery",
+      "link": "https://www.bbc.com/news/articles/cn4d80de712o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Total Eclipse of the Heart singer was put in an induced coma after emergency intestinal surgery."
+    },
+    {
       "title": "Henry Nowak killer's sentence referred to Court of Appeal under unduly lenient scheme",
       "link": "https://www.bbc.com/news/articles/c8721y4341qo?at_medium=RSS&at_campaign=rss",
       "summary": "The sentence of Vickrum Digwa, who was convicted of the murder of Henry Nowak, has been referred to the Court of Appeal."
@@ -278,29 +288,19 @@
       "summary": "The Home Office had challenged a High Court ruling that the group's proscription should be quashed."
     },
     {
-      "title": "Bonnie Tyler out of coma but 'very unwell' after emergency surgery",
-      "link": "https://www.bbc.com/news/articles/cn4d80de712o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Total Eclipse of the Heart singer was put in an induced coma after emergency intestinal surgery."
-    },
-    {
-      "title": "Boy was 'playfighting' before fatal stabbing, court told",
-      "link": "https://www.bbc.com/news/articles/cr472nyyy5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Boy, 16, goes on trial accused of murdering nine-year-old Aria Thorpe in Weston-super-Mare."
-    },
-    {
       "title": "The 40-year-old keeper who inspired Cape Verde's historic debut",
       "link": "https://www.bbc.com/sport/football/articles/c0ryz4n2v0qo?at_medium=RSS&at_campaign=rss",
       "summary": "Cape Verde stuns Spain with a goalless draw inspired by a 40-year-old goalkeeper who has gone viral on social media."
     },
     {
-      "title": "Fifa seeks explanation over VAR official's hand gesture",
-      "link": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday."
+      "title": "VAR official says hand gesture was 'involuntary, subconscious twitch'",
+      "link": "https://www.bbc.com/sport/football/articles/c0ryzjl1jlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Video assistant referee Shaun Evans has denied \"intentionally\" making a hand gesture \"to communicate a message, affiliation, game or belief of any kind\" and claimed it was a \"an involuntary, subconscious twitch\" that he was \"unaware\" of."
     },
     {
-      "title": "Empty seat at tournament for imprisoned French sports journalist",
-      "link": "https://www.bbc.com/sport/football/articles/c0ly17770lpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A seat is being left empty in the press box at every France game at the World Cup to highlight the case of a French football writer who is in prison in Algeria."
+      "title": "'Social media firms hit back' and 'Arson attack on Starmer linked to Russia'",
+      "link": "https://www.bbc.com/news/articles/cy8w7l5ej4qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several of the papers are leading on Sir Keir's plan to ban social media for under-16s in the UK, which was announced on Monday."
     },
     {
       "title": "'Positive' or 'unnecessary'? UK teens on social media ban",
@@ -309,6 +309,11 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
+    },
     {
       "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
       "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
@@ -378,11 +383,6 @@
       "title": "Startup CEO Charlie Javice is reportedly angling for a Trump pardon",
       "link": "https://techcrunch.com/2026/06/14/startup-ceo-charlie-javice-is-reportedly-angling-for-a-trump-pardon/",
       "summary": "JPMorgan can't be pleased by any of this."
-    },
-    {
-      "title": "UK may ban social media for children under 16",
-      "link": "https://techcrunch.com/2026/06/14/uk-may-ban-social-media-for-children-under-16/",
-      "summary": "The U.K. seems to be following Australia's lead in banning a wide swath of social media for teens."
     }
   ],
   "Nature": [

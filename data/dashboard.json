@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Vitézy minisztériuma megakadályozott egy 1,2 milliárdos üzletet Tiborczék cégétől",
-      "summary": "Vitézy Dávid minisztériuma gátat vetett egy 1,2 milliárd forintos szerződésnek, amit Tiborcz Istvánhoz köthető cég szerzett volna. Az ügylet meghiúsulása jelentős pénzügyi és politikai következményekkel járhat.",
+      "title": "Vitézy minisztériuma megakadályozott egy 1,2 milliárdos szerződést Tiborczék cégétől",
+      "summary": "Vitézy Dávid minisztériuma meghiúsította egy 1,2 milliárd forintos szerződés megkötését, amelytől Tiborcz Istvánhoz köthető cég esett el. Az ügy a BKK utastájékoztatási rendszerének felújításával kapcsolatos.",
       "importance": 5
     },
     {
-      "title": "Folytatódik az óbudai korrupciós ügy gyanúsítottjainak letartóztatása",
-      "summary": "Az óbudai önkormányzati kenőpénzbotrányban érintett két volt momentumos gyanúsított letartóztatása fennmarad. Az ügy a magyar politikai életben komoly visszhangot váltott ki a korrupciógyanú miatt.",
+      "title": "Megszűntették Hajdu János, a TEK korábbi igazgatójának szolgálati jogviszonyát",
+      "summary": "Hajdu János, a Terrorelhárítási Központ (TEK) volt igazgatója már nem rendőr, szolgálati jogviszonyát megszüntették. A döntés a posztjáról való leváltását követően született.",
       "importance": 4
     },
     {
-      "title": "Felfüggesztették az MCC brüsszeli szervezetét, kirekesztve őket uniós fórumokról",
-      "summary": "Felfüggesztették a Mathias Corvinus Collegium (MCC) brüsszeli tevékenységét, ami korlátozza részvételüket fontos uniós fórumokon. Ez a lépés jelentős politikai és oktatási hatással bírhat Magyarország nemzetközi képviseletére.",
+      "title": "Visszatér a kata, de megújult formában",
+      "summary": "A kisadózó vállalkozások tételes adója (kata) visszatérhet, de nem az eredeti formájában; négy forgatókönyv is felmerült a megújítására. A változások jelentősen befolyásolhatják a kisvállalkozók adózását.",
       "importance": 4
     },
     {
-      "title": "Visszatér a kata, de megújult formában: négy lehetséges forgatókönyv a változásokra",
-      "summary": "Várhatóan visszatér a kisadózó vállalkozások tételes adója (kata), de nem az eredeti formájában. Négy lehetséges forgatókönyv is felmerült a megújítására, ami sok kisvállalkozást érint.",
-      "importance": 5
+      "title": "Két tanár is molesztált diákokat egy komádi iskolában",
+      "summary": "Súlyos esetekre derült fény egy komádi általános iskolában, ahol két tanárt is diákok molesztálásával gyanúsítanak. Az ügy mélyen érinti az oktatási intézmények biztonságát és a gyermekvédelem kérdését.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Megnyílt az első uniós csatlakozási fejezetcsoport Ukrajnával és Moldovával",
-      "summary": "Az Európai Unió megkezdte a csatlakozási tárgyalásokat Ukrajnával és Moldovával, megnyitva az első fejezetcsoportot. Ez a lépés jelentős geopolitikai fordulatot és az EU jövőbeli bővítésének kezdetét jelenti.",
+      "title": "Oroszország állt a brit miniszterelnök elleni gyújtogatások mögött, derül ki a BBC-től",
+      "summary": "A BBC értesülései szerint Oroszország állt a brit miniszterelnököt célzó gyújtogatási kísérletek mögött. Az eset súlyos diplomáciai feszültségeket okozhat Nagy-Britannia és Oroszország között.",
+      "importance": 5
+    },
+    {
+      "title": "Megnyitották az első uniós csatlakozási fejezetcsoportot Ukrajnával és Moldovával",
+      "summary": "Az Európai Unió hivatalosan megkezdte a csatlakozási tárgyalásokat Ukrajnával és Moldovával az első fejezetcsoport megnyitásával. Ez jelentős lépés a két ország EU-integrációja felé.",
+      "importance": 5
+    },
+    {
+      "title": "Trump szerint már aláírták az Iránnal kötendő békeszerződést",
+      "summary": "Donald Trump volt amerikai elnök állítása szerint már aláírtak egy Iránnal kötendő békeszerződést, melynek részleteit hamarosan nyilvánosságra hozzák. Ez gyökeresen megváltoztathatja a közel-keleti helyzetet és az olajpiacot.",
       "importance": 5
     },
     {
       "title": "Oroszországban egy Telegram-posztért is évtizedes börtön járhat",
-      "summary": "Oroszországban extrém módon szigorodtak a büntetések, akár egyetlen Telegram-bejegyzésért vagy kisebb utalásért is évtizedes börtönbüntetés járhat. Ez a lépés rávilágít az emberi jogok súlyos helyzetére és a szólásszabadság korlátozására az országban.",
-      "importance": 5
-    },
-    {
-      "title": "Trump szerint aláírták az Iránnal kötendő békealkut",
-      "summary": "Donald Trump bejelentette, hogy aláírták az Iránnal kötendő békealkut, melynek részleteit hamarosan nyilvánosságra hozzák. Ez a hír jelentős geopolitikai fejleményt jelenthet a közel-keleti stabilitás szempontjából.",
-      "importance": 5
-    },
-    {
-      "title": "A BBC szerint Oroszország áll a miniszterelnököt célzó gyújtogatások mögött",
-      "summary": "A BBC leleplezése szerint Oroszország állhat a brit miniszterelnököt célzó gyújtogatási támadások mögött. Ez a felfedezés komoly nemzetbiztonsági aggodalmakat vet fel és tovább élezheti az Egyesült Királyság és Oroszország közötti feszültséget.",
+      "summary": "Oroszországban egyre súlyosabbak a büntetések a véleménynyilvánításért és a kis összegű pénzátutalásokért, akár évtizedes börtönbüntetések is kiszabhatók. Ez a jogi helyzet drámai módon szigorítja a polgári szabadságjogokat az országban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Országok sorra tiltják be a közösségi médiát a gyerekek számára",
-      "summary": "Egyre több országban merül fel a javaslat, vagy vezetik be a 16 év alattiak közösségi média használatának betiltását. Ez a tendencia globális hatással van a tech óriásokra, a gyerekek online biztonságára és a digitális jogokra.",
+      "title": "A SpaceX nyilvános: fontos tudnivalók az IPO után",
+      "summary": "A SpaceX nyilvánossá vált, és IPO-ja során 85,7 milliárd dollárt gyűjtött be, ami a valaha volt legnagyobb tőzsdei bevezetésük. Ez a fejlemény jelentős hatással lesz az űrtechnológiai szektorra és a tőkepiacra.",
       "importance": 5
     },
     {
-      "title": "A SpaceX történetének legnagyobb tőzsdei bevezetése 85,7 milliárd dollárt hozott",
-      "summary": "A SpaceX tőzsdei bevezetése elérte a 85,7 milliárd dolláros értéket, ezzel történelmének legnagyobb részvénykibocsátásává vált. Ez a jelentős pénzügyi esemény jól mutatja a magán űrcégekbe vetett piaci bizalmat és az űrtechnológia növekvő jelentőségét.",
-      "importance": 5
-    },
-    {
-      "title": "Kiberbiztonsági szakértők tiltakoznak az Anthropic AI modelljeinek kormányzati betiltása ellen",
-      "summary": "Kiberbiztonsági szakértők aggodalmukat fejezték ki és tiltakoztak az Anthropic legfejlettebb mesterséges intelligencia modelljeinek amerikai kormányzati betiltása ellen. A lépés az AI szabályozása, etikai vonatkozásai és a technológiai innováció korlátozása körüli vitákat szítja.",
+      "title": "Az amerikai kormány Anthropic AI-modelljei elleni tilalma nem a „jailbreakről” szólt",
+      "summary": "Az amerikai kormányzat Anthropic AI-modelljeire vonatkozó tilalma nem az AI „jailbreak” képességével volt kapcsolatos, hanem más aggályok merültek fel. Kiberbiztonsági szakértők „veszélyesnek” nevezték a legerősebb modellekre vonatkozó tiltást.",
       "importance": 4
     },
     {
-      "title": "A Meta új „AI Módja” a Facebookon nyilvános adatokból gyűjt információt",
-      "summary": "A Meta bevezette új „AI Módját” a Facebookon, amely nyilvánosan elérhető információkból gyűjt adatokat a platformjain. Ez az integráció adatvédelmi aggályokat vet fel, és befolyásolja a felhasználói élményt a legnagyobb közösségi média oldalon.",
+      "title": "A Fox felvásárolja a Rokut 22 milliárd dollárért",
+      "summary": "A Fox médiavállalat 22 milliárd dollárért felvásárolja a Roku streaming platformot. Ez a tranzakció jelentős átrendeződést hozhat a média- és streamingpiacon, befolyásolva a tartalomelosztást.",
+      "importance": 4
+    },
+    {
+      "title": "Egy műhold megtanult önállóan navigálni és célokat azonosítani",
+      "summary": "Egy új technológia lehetővé tette, hogy egy műhold önállóan tanuljon meg dolgokat találni és azonosítani, emberi beavatkozás nélkül. Ez az autonómia forradalmasíthatja az űrbeli megfigyelést és adatgyűjtést.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Otthoni agyimplantátum adta vissza egy beteg mindennapjait",
-      "summary": "Egy otthoni agyimplantátum visszaadta egy motoros neuron betegségben szenvedő férfi mindennapi életét, lehetővé téve számára a kommunikációt. Ez az áttörés jelentős előrelépést jelent a neurológiai betegségek kezelésében és az agy-gép interfészek területén.",
+      "title": "Otthoni agyi implantátum adta vissza egy ALS-beteg mindennapjait",
+      "summary": "Egy otthoni agyi implantátum segítségével egy motoros neuronbetegségben szenvedő férfi visszanyerte képességét a mindennapi kommunikációra és önállóbb életre. Ez áttörést jelent a neurorehabilitációban és az ALS kezelésében.",
       "importance": 5
     },
     {
-      "title": "Nagy tanulmány utal a dohányzásról e-cigarettára váltás kockázataira",
-      "summary": "Egy nagyszabású tanulmány felhívja a figyelmet a dohányzásról e-cigarettára való átállás lehetséges egészségügyi kockázataira. Az eredmények komoly népegészségügyi vonatkozásokkal bírnak, és milliókat érinthetnek.",
-      "importance": 5
-    },
-    {
-      "title": "Nanokristályokkal javították a perovszkit tandem napelemek hatékonyságát",
-      "summary": "Kutatók nanokristályok segítségével optimalizálták a perovszkit tandem napelemek rekombinációs folyamatait, növelve ezzel azok hatékonyságát. Ez az innováció áttörést hozhat a megújuló energiaforrások fejlesztésében.",
+      "title": "Az elhízás elleni gyógyszerek új előnye: növelik a tesztoszteron- és a sperma minőségét",
+      "summary": "Az elhízás elleni gyógyszerekről kiderült, hogy nem csak a testsúlyt csökkentik, hanem a férfiaknál növelhetik a tesztoszteronszintet és javíthatják a sperma minőségét is. Ez új dimenziókat nyithat a meddőség kezelésében és a férfi egészségügyi terápiákban.",
       "importance": 4
     },
     {
-      "title": "Az elhízás elleni gyógyszerek új előnye: javítják a tesztoszteron- és spermiumminőséget",
-      "summary": "Az elhízás kezelésére használt gyógyszerekről kiderült, hogy javíthatják a tesztoszteron szintet és a spermiumok minőségét. Ez a felfedezés új perspektívát nyit az ilyen típusú gyógyszerek lehetséges szélesebb körű egészségügyi előnyeiről.",
+      "title": "Kiderült, hogyan tájékozódnak a postagalambok",
+      "summary": "A kutatók megfejtették, hogy a postagalambok hogyan képesek precízen tájékozódni és hazatalálni nagy távolságokról. A felfedezés hozzájárul az állati navigáció és a komplex biológiai mechanizmusok megértéséhez.",
+      "importance": 4
+    },
+    {
+      "title": "A mesterséges intelligencia felfedi az állatok titkos életét",
+      "summary": "A mesterséges intelligencia segítségével a kutatók példátlan betekintést nyerhetnek az állatok viselkedésébe és ökológiájába, a kolibriktól a pumákig. Ez az új módszer forradalmasítja az etológiát és a vadon élő állatok megfigyelését.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A vb eddigi legnagyobb meglepetése: a Zöld-foki-szigetek bravúros döntetlent játszott Spanyolországgal",
-      "summary": "A Zöld-foki Köztársaság hatalmas meglepetésre döntetlent ért el Spanyolország ellen a világbajnokságon, a torna eddigi legromantikusabb 0-0-ás mérkőzését játszva. Ez az underdog sztori nagy visszhangot váltott ki a futballvilágban.",
+      "title": "A Zöld-foki Köztársaság óriási meglepetésre döntetlent játszott Spanyolországgal",
+      "summary": "A Zöld-foki Köztársaság bravúros védekezéssel érte el a gól nélküli döntetlent Spanyolországgal szemben a világbajnokságon, ami az eddigi legnagyobb meglepetésnek számít. Az eredmény a focitörténet egyik „legromantikusabb” 0-0-jaként vonult be a köztudatba.",
+      "importance": 5
+    },
+    {
+      "title": "Lukaku mentette meg Belgiumot Egyiptom ellen",
+      "summary": "Romelu Lukaku becserélése fordított Belgium és Egyiptom mérkőzésének állásán, megmentve csapatát a vereségtől. A csatár kulcsfontosságú szerepet játszott abban, hogy a csapat döntetlent érjen el.",
       "importance": 4
     },
     {
-      "title": "Lukaku góllal mentette meg Belgiumot Egyiptom ellen",
-      "summary": "Romelu Lukaku csereként beállva döntő gólt szerzett, megmentve ezzel Belgiumot az Egyiptom elleni vereségtől, a mérkőzés 1-1-es döntetlennel zárult. A játékos teljesítménye kulcsfontosságú volt a belga csapat számára.",
-      "importance": 3
+      "title": "Ki az a zöld-foki kapus, aki egy meccsel másfélmillió követőt szerzett?",
+      "summary": "A Zöld-foki Köztársaság kapusa egyetlen mérkőzés alatt 1,5 millió követőt szerzett a közösségi médiában bravúros teljesítményével. A 40 éves hálóőr inspirálóan hatott csapata történelmi bemutatkozására.",
+      "importance": 4
     },
     {
-      "title": "Másfélmillió követőt szerzett a zöld-foki kapus egyetlen meccsel",
-      "summary": "A Zöld-foki-szigetek 40 éves kapusa, aki Spanyolország ellen bravúrokat mutatott be, egyetlen mérkőzés alatt másfélmillió követőt szerzett a közösségi médiában. Ez a sztori rávilágít a sportolókra gyakorolt szociális média hatására.",
-      "importance": 3
-    },
-    {
-      "title": "Kirúgták a tunéziai szövetségi kapitányt a svédek elleni vereség után",
-      "summary": "A tunéziai labdarúgó-válogatott szövetségi kapitányát menesztették, miután csapata vereséget szenvedett a svédek ellen. A döntés a gyenge teljesítmény közvetlen következménye.",
+      "title": "Kirúgták a tunéziai szövetségi kapitányt a svéd vereség után",
+      "summary": "A tunéziai labdarúgó-válogatott szövetségi kapitányát menesztették, miután csapata vereséget szenvedett a svédek ellen. A döntés a gyenge eredmények miatt született, és változást hoz a csapat irányításában.",
       "importance": 3
     }
   ]

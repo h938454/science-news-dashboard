@@ -1,13 +1,18 @@
 {
   "Telex": [
     {
+      "title": "Elefántcsontpart–Ecuador 0-0",
+      "link": "https://telex.hu/sport/2026/06/15/elefantcsontpart-ecuador-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Japán az utolsó percekben egyenlített Hollandia ellen",
       "link": "https://telex.hu/sport/2026/06/15/hollandia-japan-foci-vb-csoportkor-osszefoglalo",
       "summary": "Hiába a mezőnyfölény és a kétszer is megszerzett vezetés, Hollandia nem bírt Japánnal."
     },
     {
       "title": "Trump: Megvan az Iránnal kötött megállapodás. Hadd folyjon az olaj!",
-      "link": "https://telex.hu/belfold/2026/06/15/iran-beke-egyesult-allamok-trump",
+      "link": "https://telex.hu/kulfold/2026/06/15/iran-beke-egyesult-allamok-trump",
       "summary": "A pakisztáni miniszterelnök szerint pénteken írják majd alá a hivatalos békemegállapodást."
     },
     {
@@ -69,15 +74,15 @@
       "title": "Nem a Mátrixtól vagy a Skynettől kéne tartani, hanem a mesterséges intelligenciába költöző reklámoktól",
       "link": "https://telex.hu/techtud/2026/06/14/nem-a-matrixtol-vagy-a-skynettol-kene-tartani-hanem-a-mesterseges-intelligenciaba-koltozo-reklamoktol",
       "summary": "Az MI-alapú csetbotok jelenleg brutális veszteséggel üzemelnek, viszont félelmetesen hatékony hirdetési felület lehet belőlük. Ez pedig tökéletes együttállás ahhoz, hogy a végén a felhasználók járjanak rosszul."
-    },
-    {
-      "title": "Leszavazták a svájciak azt a kezdeményezést, ami 10 millió főben maximálta volna az ország népességét",
-      "link": "https://telex.hu/kulfold/2026/06/14/svajc-10-millio-fo-lakossag-letszamanak-maximalasa",
-      "summary": "Elbukott a bevándorlást korlátozni hivatott javaslat."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Felejthető első félidő után 2-2-es döntetlent játszott egymással Japán és Hollandia",
+      "link": "https://444.hu/2026/06/15/felejtheto-elso-felido-utan-2-2-es-dontetlent-jatszott-egymassal-japan-es-hollandia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Lassan indult be, de végül a csoportkör eddigi legszórakoztatóbb meccse lett ez: hiába vezettek kétszer is a hollandok, a japánok megérdemelten szereztek egy pontot."
+    },
     {
       "title": "Gólt is szerzett Curacao, de a németek azért simán hozták a papírformát",
       "link": "https://444.hu/2026/06/14/golt-is-szerzett-curacao-de-a-nemetek-azert-siman-hoztak-a-papirformat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,11 +152,6 @@
       "title": "A FIFA szerint műszaki hiba miatt nem látszott a lesanimáció Svájc-Katar meccsen",
       "link": "https://444.hu/2026/06/14/a-fifa-szerint-muszaki-hiba-miatt-nem-latszott-a-lesanimacio-svajc-katar-meccsen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A hiba a szervezet szerint nem befolyásolta a videoasszisztens munkáját."
-    },
-    {
-      "title": "Szombaton megdőlt a napi szélrekord",
-      "link": "https://444.hu/2026/06/14/szombaton-megdolt-a-napi-szelrekord?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "99 kilométer/órával süvített."
     }
   ],
   "HVG": [
@@ -233,14 +233,14 @@
   ],
   "BBC": [
     {
-      "title": "New social media restrictions will end 'system failing our kids', PM says",
-      "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Starmer promises \"bold action\" ahead of Monday's announcement on restrictions for children."
+      "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+      "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said."
     },
     {
-      "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
-      "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords."
+      "title": "Starmer set to ban under-16s from major social media platforms",
+      "link": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister promises \"bold action\" ahead of Monday's announcement on restrictions for children."
     },
     {
       "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
@@ -258,6 +258,11 @@
       "summary": "Thousands are expected at the mixed martial arts fight, which coincides with Trump's 80th birthday."
     },
     {
+      "title": "Assisted dying returns to parliament as MP urges peers to 'finish the job'",
+      "link": "https://www.bbc.com/news/articles/c4gyxgwkyxyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lauren Edwards says she will bring the exact same bill which was narrowly passed by the Commons but ran out of time in the Lords."
+    },
+    {
       "title": "UK electric car sales target set to be weakened",
       "link": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
       "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands."
@@ -273,14 +278,14 @@
       "summary": "The plane had just taken off in the US state of Missouri, but failed to gain altitude, according to local emergency responders."
     },
     {
-      "title": "Swiss voters reject 10 million population cap",
-      "link": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show."
-    },
-    {
       "title": "Farage vows to ban foreign nationals from social housing",
       "link": "https://www.bbc.com/news/articles/cdjkd4mp93zo?at_medium=RSS&at_campaign=rss",
       "summary": "The Reform UK leader says tenants would have three months to find a new home or face potential deportation."
+    },
+    {
+      "title": "Japan come from behind twice to draw with Netherlands",
+      "link": "https://www.bbc.com/sport/football/videos/cnv9dzl62g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Daichi Kamada's late header rescues a deserved point for Japan against the Netherlands in their opening World Cup game in Dallas."
     },
     {
       "title": "How will Scotland approach Morocco game after opening win?",
@@ -301,11 +306,6 @@
       "title": "Roy Hattersley: Labour politician who helped start the party's modernisation",
       "link": "https://www.bbc.com/news/articles/c7224g41x1po?at_medium=RSS&at_campaign=rss",
       "summary": "Able Labour politician, often at odds with his party, who became a successful author and columnist."
-    },
-    {
-      "title": "'The new Emma' - positives Raducanu can take from Queen's to Wimbledon",
-      "link": "https://www.bbc.com/sport/tennis/articles/c1kymddkkj7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Emma Raducanu falls agonisingly short at Queen's after losing in Sunday's final - but there are huge positives to take with Wimbledon just around the corner."
     }
   ],
   "TechCrunch": [

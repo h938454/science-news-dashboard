@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "A kormány kezdeményezi a benzinárstop kivezetését",
-      "summary": "A kormány bejelentette, hogy kezdeményezi a védett üzemanyagár kivezetését. Ez a döntés jelentős változásokat hozhat az üzemanyagpiacon és a fogyasztói árakban.",
+      "title": "A kormány kivezeti a védett üzemanyagárat",
+      "summary": "A kormány bejelentette, hogy kivezeti az üzemanyagárstopot, amely eddig rögzített áron tartotta a benzin és a gázolaj árát. Ez a döntés jelentős hatással lehet a fogyasztókra és a gazdaságra.",
       "importance": 5
     },
     {
-      "title": "Magyarország továbbra is az EU egyik legszegényebb országa a jóléti mutatók szerint",
-      "summary": "Az egyik legfontosabb jóléti mutató alapján Magyarország még mindig az Európai Unió legszegényebb országai közé tartozik. Ez rávilágít a társadalmi-gazdasági kihívásokra és a fejlesztési szükségletekre.",
-      "importance": 5
-    },
-    {
-      "title": "Akár havi 280 ezer forintos bértámogatás vendéglátóhelyeknek diákmunkások után",
-      "summary": "A vendéglátóhelyek idén nyáron akár havi 280 ezer forintos bértámogatást kaphatnak minden diákmunkás után. A program célja a fiatalok foglalkoztatásának ösztönzése és a munkaerőhiány enyhítése.",
+      "title": "Demeter Szilárd alapítványa 9 milliárd forintot kapott a választás előtt",
+      "summary": "Demeter Szilárd alapítványa a választás előtt 9 milliárd forintos támogatást kapott Hankó Balázs minisztériumától. A jelentős összegű közpénz-juttatás sokakban kérdéseket vet fel az átláthatóság és a befolyásolás kapcsán.",
       "importance": 4
     },
     {
-      "title": "Demeter Szilárd alapítványa 9 milliárd forintot kapott a választások előtt",
-      "summary": "Demeter Szilárd alapítványa 9 milliárd forint állami támogatást kapott a választások előtt a Hankó Balázs vezette minisztériumtól. Az ügy számos kérdést vet fel a közpénzek elosztásának átláthatóságával kapcsolatban.",
+      "title": "Bajba került sok kisvállalkozás a Demján Sándor Tőkeprogram felülvizsgálata miatt",
+      "summary": "A Demján Sándor Tőkeprogram felülvizsgálata miatt sok kisvállalkozás került nehéz helyzetbe, akik hónapok óta hiába várnak a megígért hitelre. A program célja a kkv-k támogatása volt, de a jelenlegi helyzet bizonytalanságot okoz.",
+      "importance": 4
+    },
+    {
+      "title": "Orbán Viktor szerint az egészségügy sokat fejlődött, és Magyarország fantasztikus ország lett",
+      "summary": "Orbán Viktor miniszterelnök szerint az elmúlt 16 évben Magyarország fantasztikus országgá vált, és az egészségügy is jelentősen fejlődött. Hozzátette, hogy a tényeket kell nézni, nem pedig a közbeszédet az egészségügyről.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Többszörös életfogytiglanra ítélték a Gilgo Beach-i sorozatgyilkost",
-      "summary": "A Gilgo Beach-i sorozatgyilkost többszörös életfogytiglani börtönbüntetésre ítélték az Egyesült Államokban. Az ítélet lezárja az évek óta húzódó, nagy port kavaró bűnügyet.",
+      "title": "Az Egyesült Államok és Irán közötti megállapodás részleteit hozták nyilvánosságra",
+      "summary": "Amerikai tisztviselők nyilvánosságra hozták az Egyesült Államok és Irán közötti 14 pontos megállapodás részleteit, mely egy béketervekről szóló megegyezésről szól. A paktum potenciálisan enyhítheti a két ország közötti feszültséget.",
       "importance": 5
     },
     {
-      "title": "Amerikai tisztviselők részletezték a 14 pontos amerikai-iráni megállapodást",
-      "summary": "Amerikai tisztviselők nyilvánosságra hozták a 14 pontból álló, Iránnal kötött megállapodás részleteit. A megegyezés a feszültség enyhítésére és a diplomáciai kapcsolatok rendezésére törekszik a két ország között.",
-      "importance": 5
-    },
-    {
-      "title": "Oroszországban üzemanyaghiány miatt korlátozásokat vezettek be a benzinkutakon",
-      "summary": "Jelentős üzemanyaghiány alakult ki Oroszországban, ami miatt több benzinkúton korlátozásokat vezettek be. Ez a helyzet a gazdasági szankciók és belső problémák következménye lehet.",
+      "title": "Orosz hadihajó adott le figyelmeztető lövéseket egy brit vitorlás közelében",
+      "summary": "Egy orosz hadihajó figyelmeztető lövéseket adott le egy brit házaspár vitorlása közelében a Fekete-tengeren. Az eset a regionális feszültségeket és a tengeri biztonsági kockázatokat jelzi.",
       "importance": 4
     },
     {
-      "title": "A BBC 550 munkahelyet szüntet meg egy jelentős megtakarítási terv részeként",
-      "summary": "A BBC bejelentette, hogy 500 millió font értékű megtakarítási tervének részeként 550 munkahelyet szüntet meg. Ez a lépés jelentős átalakulást hoz a brit közmédia működésében.",
+      "title": "Svédország három új moduláris atomreaktort állít üzembe energiatermelés céljából",
+      "summary": "Svédország rákapcsol az energiatermelésre, és három új moduláris atomreaktort tervez üzembe helyezni, amelyek együttesen 1,5 GW energiát termelnek majd. Ez a lépés jelentős változást jelent az ország energiapolitikájában.",
       "importance": 4
+    },
+    {
+      "title": "Tömeges leépítés kezdődik a BBC-nél, 550 dolgozót küldenek el",
+      "summary": "A BBC 500 millió fontos megtakarítási tervének részeként tömeges leépítéseket jelentett be, melynek során első lépésben 550 dolgozót bocsátanak el. A döntés a médiaiparban tapasztalható gazdasági nyomásra utal.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Google a Geminire építve tervezi újra az okosotthon hangszórókat",
-      "summary": "A Google a Gemini mesterséges intelligenciát integrálva tervezi újra okosotthon hangszóróit, forradalmasítva a felhasználói élményt. A lépés az AI-alapú otthoni asszisztensek jövőjét formálhatja.",
+      "title": "Kiberbűnözők több tízezer Fortinet tűzfalat törtek fel világszerte",
+      "summary": "Kiberbűnözők állítólag több tízezer, nagyvállalatok által használt Fortinet tűzfalat törtek fel világszerte, ami súlyos biztonsági kockázatot jelent. Az eset rávilágít a kritikus infrastruktúrák sérülékenységére és a kiberbiztonság fontosságára.",
       "importance": 5
     },
     {
-      "title": "Az Odyssey 1,45 milliárd dolláros értékelést ért el, az Amazon is befektetett",
-      "summary": "Az Odyssey, egy 'világmodell' fejlesztő startup 1,45 milliárd dolláros értékelést kapott, többek között az Amazon támogatásával. A cég az AI-modellek és digitális világok fejlesztésében élen jár.",
-      "importance": 5
-    },
-    {
-      "title": "Amerikaiak mindössze 16 százaléka bízik az AI pozitív társadalmi hatásában",
-      "summary": "Egy új tanulmány szerint az amerikaiak mindössze 16 százaléka gondolja, hogy a mesterséges intelligencia pozitív hatással lesz a társadalomra. Ez rávilágít az AI-val kapcsolatos széleskörű aggodalmakra és bizalmatlanságra.",
+      "title": "A vállalatok még keresik az AI megtérülését, miközben a világ vezetői amerikai mesterséges intelligenciát akarnak",
+      "summary": "A vállalatok még mindig próbálják felmérni a mesterséges intelligenciába (AI) történő befektetéseik megtérülését, miközben a világ vezetői amerikai AI-t szeretnének. Ez rávilágít az AI gazdasági és geopolitikai jelentőségére.",
       "importance": 4
     },
     {
-      "title": "A DeepL felvásárolja a Mixhalo-t élő események audio streaming és fordítás céljából",
-      "summary": "A DeepL, a neves fordítócég felvásárolta a Mixhalo-t, hogy élő eseményeken valós idejű audio streaming és fordítási szolgáltatásokat nyújtson. Ez új lehetőségeket nyithat meg a nemzetközi kommunikációban.",
+      "title": "A Google a Gemini-re épít az okosotthoni hangszórók újraértelmezésében",
+      "summary": "A Google a Gemini mesterséges intelligencia modellre tesz, hogy újraértelmezze az okosotthoni hangszórók piacát és képességeit. Ez a lépés potenciálisan új lehetőségeket nyithat meg a felhasználók számára.",
       "importance": 4
+    },
+    {
+      "title": "A Snap részvényei zuhantak a drága AR szemüveg bemutatása után",
+      "summary": "A Snap részvényárfolyama jelentősen zuhant, miután bemutatta rendkívül drága kiterjesztett valóság (AR) szemüvegét. Az esemény rávilágít a fogyasztói AR piac kihívásaira és a technológia szélesebb körű elfogadásának nehézségeire.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Új molekulát azonosítottak az agyban, segíthet a függőknek a leszokásban",
-      "summary": "Kutatók egy új molekulát fedeztek fel az agyban, amely ígéretesnek tűnik a függőségek kezelésében és a leszokás támogatásában. Ez potenciálisan áttörést hozhat a mentális egészség területén.",
+      "title": "Egy 98-qubites, teljesen összekapcsolható csapdázott ionos kvantumszámítógép",
+      "summary": "Létrehoztak egy 98-qubites, csapdázott ionos kvantumszámítógépet, amely minden qubit között teljes összekapcsolhatósággal rendelkezik. Ez az áttörés jelentős előrelépést jelent a kvantumszámítógépek fejlődésében.",
       "importance": 5
     },
     {
-      "title": "DNS-elemzés ősi járvány titkait tárja fel vadászó-gyűjtögetők fogából",
-      "summary": "Vadászó-gyűjtögetők fogából származó DNS-elemzés segítségével ősi járványok titkaira derült fény. Ez a felfedezés új betekintést nyújt a történelem előtti betegségekbe és az emberi evolúcióba.",
-      "importance": 5
+      "title": "Konverzációs mesterséges intelligencia a betegségkezelés támogatására",
+      "summary": "Kutatók olyan konverzációs mesterséges intelligencia (AI) rendszerek fejlesztésén dolgoznak, amelyek segíthetnek a betegségek kezelésében és a betegek támogatásában. Ez az AI-alkalmazás forradalmasíthatja az egészségügyet.",
+      "importance": 4
     },
     {
-      "title": "Antarktisz hozzájárulása a tengerszint-emelkedéshez évtizedes pontossággal előre jelezhetővé válik",
-      "summary": "Új kutatás szerint az Antarktisz tengerszint-emelkedéshez való hozzájárulása már évtizedes távlatban is előre jelezhető. Ez kulcsfontosságú a klímaváltozás hatásainak megértéséhez és a part menti területek védelméhez.",
-      "importance": 5
+      "title": "Molekulát találtak az agyban, mely segíthet a függőknek a leszokásban",
+      "summary": "Felfedeztek egy molekulát az agyban, amely ígéretesnek bizonyul a függőségek kezelésében és a leszokási folyamat támogatásában. Ez a felfedezés új utakat nyithat meg a függőségi betegségek terápiájában.",
+      "importance": 4
     },
     {
-      "title": "Megépült egy 98 qubites, minden elemében összekapcsolható csapdázottion kvantumszámítógép",
-      "summary": "Tudósok egy 98 qubites, teljesen összekapcsolható, csapdázottion kvantumszámítógépet hoztak létre. Ez jelentős előrelépést jelent a kvantumszámítástechnika fejlődésében és új lehetőségeket nyit meg a komplex problémák megoldására.",
-      "importance": 5
+      "title": "Vadászó-gyűjtögetők fogaiból származó DNS-ből derülnek ki az ősi pestis titkai",
+      "summary": "Vadászó-gyűjtögetők ősi fogaiból kinyert DNS elemzésével a tudósok bepillantást nyerhetnek az ősi pestisjárványok titkaiba. Ez az archeogenetikai kutatás segít jobban megérteni a betegségek múltbeli terjedését.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Megdőlt a foci-vb-k napi nézőrekordja a FIFA szerint",
-      "summary": "A FIFA bejelentése szerint megdőlt a labdarúgó-világbajnokságok napi nézőrekordja. Ez a sportág globális népszerűségét és a torna iránti hatalmas érdeklődést bizonyítja.",
-      "importance": 5
+      "title": "Foci-vb rangadó: Anglia és Horvátország 2-2-es döntetlent játszott",
+      "summary": "Az aktuális foci-világbajnokság egyik rangadóján Anglia és Horvátország 2-2-es döntetlent játszott, izgalmas mérkőzést hozva a szurkolóknak. Az eredmény mindkét csapat számára fontos a csoportkörben való továbbjutáshoz.",
+      "importance": 4
+    },
+    {
+      "title": "Kongó meglepte Portugáliát, megszerezve első gólját és pontját a foci-vb-n",
+      "summary": "A futball-világbajnokságon Kongói Demokratikus Köztársaság meglepetésre döntetlent ért el Portugália ellen, megszerezve történetének első gólját és pontját. Az eredmény történelmi jelentőségű a csapat számára.",
+      "importance": 4
+    },
+    {
+      "title": "Hárommeccses eltiltást kapott egy dél-afrikai játékos ütés miatt",
+      "summary": "Egy dél-afrikai játékost hárommeccses eltiltással sújtottak, miután egy ütés miatt kiállították Mexikó ellen a világbajnokságon. Az eset felhívja a figyelmet a sportszerűtlen viselkedés következményeire.",
+      "importance": 3
     },
     {
       "title": "Kovács István magyar játékvezető mérkőzést vezet a világbajnokságon",
-      "summary": "Kovács István, a magyar játékvezető a labdarúgó-világbajnokságon vezethet mérkőzést. Ez nagy elismerés a magyar sportdiplomáciának és játékvezetésnek.",
-      "importance": 4
-    },
-    {
-      "title": "A mexikóiak legendás kapusa, Guillermo Ochoa visszavonult",
-      "summary": "Könnyek között jelentette be visszavonulását Guillermo Ochoa, a mexikói labdarúgó-válogatott legendás kapusa. A karizmatikus játékos ikonjává vált hazájában, számos emlékezetes pillanatot szerzett.",
-      "importance": 4
-    },
-    {
-      "title": "Portugália és Kongói DK 1-1-es döntetlennel zárt a foci-vb-n",
-      "summary": "Portugália és a Kongói Demokratikus Köztársaság 1-1-es döntetlennel fejezte be világbajnoki mérkőzését. A váratlan eredmény izgalmasan alakítja a csoporthelyzetet és a továbbjutási esélyeket.",
+      "summary": "Kovács István magyar játékvezető is részt vesz az aktuális labdarúgó-világbajnokságon, ahol mérkőzést fog vezetni. Ez jelentős elismerés a magyar bírói szakma számára.",
       "importance": 3
     }
   ]

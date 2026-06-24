@@ -1,6 +1,41 @@
 {
   "Telex": [
     {
+      "title": "Forróság várható, még a felhők is eltűnnek az égről",
+      "link": "https://telex.hu/belfold/2026/06/24/idojaras-nyar-kanikula-hoseg-figyelmeztetes",
+      "summary": "Hőségriadó van érvényben, akár 37 fok is lehet."
+    },
+    {
+      "title": "Modrić 200. válogatottságán egy cserecsatár hozta a horvát sikert",
+      "link": "https://telex.hu/sport/2026/06/24/horvatorszag-panama-modric-200-valogatottsag-budimir",
+      "summary": "Budimirnek nem volt nehéz dolga, hogy a kapuba gurítson."
+    },
+    {
+      "title": "Messi ritka betegségben szenvedett, kezelés nélkül csak 140 centire nőtt volna meg",
+      "link": "https://telex.hu/eszkombajn/2026/06/24/lionel-messi-ritka-betegseg-hormonkezeles",
+      "summary": "1400 injekciót kapott a hormonkezelés alatt, ezek egy részét magának adta be. Amikor a család nem tudta a teljes összeget kifizetni, a Barcelona nyújtott mentőövet."
+    },
+    {
+      "title": "A FIFA elnöke szerint nem is olyan rossz az ivószünet, sőt, lehet, hogy igazából még jó is",
+      "link": "https://telex.hu/sport/2026/06/24/foci-vb-2026-futball-fifa-gianni-infantino-vilagbajnoksag-ivoszunet",
+      "summary": "Gianni Infantino erősen utalt arra, hogy a FIFA a jövőben is megtarthatja az edzők, drukkerek és szakértők által is gyűlölt ivószüneteket."
+    },
+    {
+      "title": "Miért van ekkora vérengzés a fideszes médiánál?",
+      "link": "https://telex.hu/g7/vallalat/2026/06/24/fideszes-media-leepitesek-bezarasok-mediaworks-veszteseg-bevetelek",
+      "summary": "A Mediaworks-csoportnak úgy kellene hirtelen piaci alapon működnie, hogy eddig ennek morzsáit sem láthattuk, hiszen mások voltak a szempontok. A Balásy-cégek milliárdjai már most is nagyon hiányoznak."
+    },
+    {
+      "title": "Kolumbia–Kongó 1-0",
+      "link": "https://telex.hu/sport/2026/06/24/kolumbia-kongo-vb-kozvetites",
+      "summary": ""
+    },
+    {
+      "title": "Panama–Horvátország 0-1",
+      "link": "https://telex.hu/sport/2026/06/24/panama-horvatorszag-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Az angolok a vb legizgalmasabb meccse után a összehozták a legunalmasabbat is",
       "link": "https://telex.hu/sport/2026/06/24/foci-vb-2026-futball-anglia-ghana",
       "summary": "Eseménytelen 0-0-t játszottak Ghánával, az első félidőben egyik csapatnak sem volt kaput eltaláló lövése. Gólt végül mindkét csapat lőhetett volna, de egyiknek sem jött össze."
@@ -39,45 +74,15 @@
       "title": "Putyin arról beszélt, milyen feltételek szerint tárgyalna Ukrajnával",
       "link": "https://telex.hu/kulfold/2026/06/23/putyin-beke-targyalas-ukrajna-isztambuli-anchorage",
       "summary": "Az orosz elnök három korábbi eseményen elhangzott feltételekhez kötné a béketárgyalások megkezdését."
-    },
-    {
-      "title": "Leállt a klíma a győri kórház egyik szárnyában, vizet osztanak a betegeknek",
-      "link": "https://telex.hu/belfold/2026/06/23/petz-korhaz-klima-meghibasodas-egeszsegugy-gyor-helyi-tudositas",
-      "summary": "Ebben az ötemeletes épületben működik a kardiológia, az onkológia és a gyermekintenzív részleg is. Szerdára ígérik a probléma elhárítását."
-    },
-    {
-      "title": "The EU's next seven-year budget could really bring the V4 together; according to Fico, they have common interests",
-      "link": "https://telex.hu/english/2026/06/23/the-eu-s-next-seven-year-budget-could-really-bring-the-v4-together-according-to-fico-they-have-common-interests",
-      "summary": "The leaders of the V4 countries met in Gödöllő and afterwards they each confirmed their commitment to the cooperation and spoke about the important areas on which they intend to cooperate."
-    },
-    {
-      "title": "Portugália öt gólt lőve gyalulta le az üzbégeket, Ronaldo történelmet írt",
-      "link": "https://telex.hu/sport/2026/06/23/foci-vb-2026-futball-portugalia-uzbegisztan",
-      "summary": "A portugál klasszis két gólt lőtt, nagyon hajtott a harmadikért is, de végül nem jött össze neki. Portugália viszont így is simán, 5-0-ra nyert, és a csoportelsőségért játszik majd Kolumbiával."
-    },
-    {
-      "title": "Ma volt a valaha mért legmelegebb nap Franciaországban",
-      "link": "https://telex.hu/kulfold/2026/06/23/franciaorszag-hohullam-idojaras",
-      "summary": "Az ország délnyugati részén több mint 44 fokot is mértek, eddig már legalább 40 halálos áldozata van a hőhullámnak."
-    },
-    {
-      "title": "Mindenki elfogadja, hogy a paradicsomnak és a kenyérnek nőtt az ára az elmúlt 13 évben, el kell fogadni, hogy az energia ára is folyamatosan nőtt",
-      "link": "https://telex.hu/gazdasag/2026/06/23/magyarorszag-energia-fuggoseg-foldgaz-olaj-megujulo-napenergia-szelenergia",
-      "summary": "Hogyan használjunk kevesebb energiát, ha közben senki nem akarja feladni a kényelmét? Hogyan lehetne független energiarendszerünk? Fontos állítások a Magyarország Jövő Időben legújabb adásából."
-    },
-    {
-      "title": "Az orosz földgázról már jövőre le tudunk válni, de így is finanszírozható a rezsicsökkentés",
-      "link": "https://telex.hu/video/2026/06/23/magyarorszag-jovo-idoben-energiabiztonsag-holoda-attila-csernus-dora",
-      "summary": "Napenergiában EU-elsők vagyunk, a legnagyobb kihívás viszont az épületek szigetelése. A Magyarország jövő időben új része az energiaellátás fejlesztéséről szól."
-    },
-    {
-      "title": "Elmagyarázta Karácsony hivatala, miért nem jelent bevételkiesést, hogy betiltanák a közterületi reklámok nagy részét",
-      "link": "https://telex.hu/gazdasag/2026/06/23/budapest-reklamok-nem-lesz-bevetelkieses",
-      "summary": "Az óriásplakátokat betiltaná, a többi reklámfelületet nagyon erősen korlátozná a Főpolgármesteri Hivatal rendelettervezete."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Bomberdzsekis Everton-szurkoló lehet a brit baloldal utolsó esélye",
+      "link": "https://444.hu/2026/06/24/bomberdzsekis-everton-szurkolo-lehet-a-brit-baloldal-utolso-eselye?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Andy Burnham lehet Nagy-Britannia következő miniszterelnöke – miután Keir Starmer bejelentette lemondását. A volt manchesteri polgármester megpróbálja visszakormányozni pártját a baloldalra, ahonnét még Tony Blair térítette el. Egész Európa figyelni fogja Burnham kísérletét."
+    },
     {
       "title": "Anglia nem tudta feltörni Ghána mély védekezését, gól nélküli döntetlen lett a vége",
       "link": "https://444.hu/2026/06/24/anglia-nem-tudta-feltorni-ghana-mely-vedekezeset-gol-nelkuli-dontetlen-lett-a-vege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,14 +152,44 @@
       "title": "Putyin azt mondja, hajlandó tárgyalni Ukrajnával a 2022-es isztambuli feltételek alapján",
       "link": "https://444.hu/2026/06/23/putyin-azt-mondja-hajlando-targyalni-ukrajnaval-a-2022-es-iszambuli-feltetelek-alapjan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "De ködösít, hogy mi lenne a Donbásszal."
-    },
-    {
-      "title": "Bár már májusban megbukott, csak most mondott le Gyulai Miklós, a Magyar Atlétikai Szövetség elnöke, és még a nyarat is végigtolná a 3 milliárdos állami támogatással",
-      "link": "https://444.hu/2026/06/23/bar-mar-majusban-megbukott-csak-most-mondott-le-gyulai-miklos-a-magyar-atletikai-szovetseg-elnoke-es-meg-a-nyarat-is-vegigtolna-a-3-milliardos-allami-tamogatassal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Így még Gyulai és Deutsch Tamás hűtlen kezeléssel kapcsolatba hozott testvére diszponálhat a versenypénzek felett."
     }
   ],
   "HVG": [
+    {
+      "title": "Kolumbia győzött Kongó ellen, és már továbbjutó",
+      "link": "https://hvg.hu/sport/20260624_kolumbia-kongoi-demokratikus-koztarsasag-foci-vb-2026-k-csoport",
+      "summary": "A kolumbiai válogatott 1-0-ra legyőzte a Kongói DK csapatát, ezzel a legjobb 32 közé jutott, a csoportelsőséghez elég számára döntetlent játszani  a portugálok ellen."
+    },
+    {
+      "title": "Kivezényelnék az amerikai katonákat a Közel-Keletről, ám az erről szóló határozat inkább még csak politikai állásfoglalás",
+      "link": "https://hvg.hu/vilag/20260624_kozel-kelet-amerikai-katonak-poltikai-allasfoglalas-kivonasa-torvenyhozas-kongresszus-iran",
+      "summary": "A törvényhozás felsőházában elfogadott jogszabály nem bír törvényi kötelezettséggel, hasonló kezdeményezések az elmúlt hónapokban sorra elbuktak az Egyesült Államok kongresszusában."
+    },
+    {
+      "title": "Meghibásodott és leállt a klíma a győri kórház egyik épületblokkjában",
+      "link": "https://hvg.hu/itthon/20260624_gyori-korhaz-klimaja-meghibasodott-leallt-javitas-viz-onkologia-gyermekintenziv",
+      "summary": "Az intézményben ezen a részen található többek között a gyermekintenzív osztály is. Amíg helyreáll a probléma, vizet osztanak a betegeknek."
+    },
+    {
+      "title": "Mészáros Lőrinc cége is profitálhat a felszabadított uniós forrásokból",
+      "link": "https://hvg.hu/360/20260624_opus-titasz-meszaros-lorinc-unios-tamogatas-marad-penz-osztalekra-is",
+      "summary": "A Magyar-kormány éppen olyan energetikai beruházásokban gondolkozik, amilyenekre Mészáros Lőrinc vállalatai lettek képesek az elmúlt években: a villamosenergia-hálózat fejlesztésére és az okosmérés megvalósítására."
+    },
+    {
+      "title": "Kiszenvedték a győzelmet Panama ellen a horvátok",
+      "link": "https://hvg.hu/sport/20260624_foci-vb-2026-horvatorszag-panama-modric-200",
+      "summary": "Modric 200. válogatott mérkőzésén Horvátország 1-0-ára verte Panamát, amely így már biztosan nem juthat tovább a csoportból. Sokat elmond a találkozóról, hogy a FIFA-értékelés szerint a panamai Cristian Martinez lett a meccs embere."
+    },
+    {
+      "title": "Marabu Féknyúz: Nemsoká kritizálhatnak",
+      "link": "https://hvg.hu/itthon/20260624_marabu-feknyuz-nemsoka-kritizalhatnak",
+      "summary": "De addig is."
+    },
+    {
+      "title": "Kannibált foghattak Budapesten, elfogadták az új médiatörvényt – Newscast",
+      "link": "https://hvg.hu/itthon/20260624_kannibalt-foghattak-budapesten-elfogadtak-az-uj-mediatorvenyt-newscast",
+      "summary": "Megszavaztak egy csomó tiszás törvényjavaslatot, Gödöllőn ülésezik a V4, durva kánikula jön, kamatot vágott a nemzeti bank, az ukránok pedig már Szibériáig is el tudnak lőni. Ez a HVG hétköznap reggelente jelentkező hírpodcastja."
+    },
     {
       "title": "Minden vonat leállt Németországban",
       "link": "https://hvg.hu/tudomany/20260623_nemet-vasut-leallas-deutsche-bahn-informatikai-hiba",
@@ -194,48 +229,23 @@
       "title": "Sosem látott támadás indult a világban, egy orosz csoport feltört 75 ezer tűzfalat, és több még mindig elérhető a nyílt internetről",
       "link": "https://hvg.hu/tudomany/20260623_fortibleed-orosz-hackertamadas-fortinet-tuzfalak",
       "summary": "Egy orosz hackercsoporthoz egy amerikai biztonsági céghez kapcsolódó rendszereken keresztül jutott be vállalatok ezreinek hálózataiba egy hónapokkal ezelőtt indult kibertámadás-sorozatban. A belga Secutec kiberbiztonsági vállalat keddi közlése szerint ez az egyik legsúlyosabb biztonsági incidens, amely valaha egyetlen kiberbiztonsági szolgáltatóhoz kapcsolódott."
-    },
-    {
-      "title": "Új elnökhelyettese van a Kúriának",
-      "link": "https://hvg.hu/itthon/20260623_kuria-elnokhelyettes-kinevezes",
-      "summary": "Ezzel négyre nő a legfőbb bírói testület elnökhelyetteseinek száma."
-    },
-    {
-      "title": "Kubatov Gábort felszabadította, hogy Orbán Viktor elengedte a politikából",
-      "link": "https://hvg.hu/elet/20260623_kubatov-fradi-fidesz",
-      "summary": "Hogy a kormányváltás mit jelent a Fradi számára, azt a volt politikus még nem látja, ugyanakkor azt már elmondta, hogy személyesen jó kapcsolatot ápol az új sportállamtitkárral."
-    },
-    {
-      "title": "Nagy Dávid állítja, sem ő, sem Kovács Gergely nem indul a Kutyapárt társelnöki posztjáért",
-      "link": "https://hvg.hu/itthon/20260623_magyar-ketfarku-kutya-part-tisztujitas-tarselnok-nagy-david-kovacs-gergely",
-      "summary": "A politikus kizártnak tartja, hogy pártja megszűnjön."
-    },
-    {
-      "title": "Cristiano Ronaldo mindenkire rácáfolt, Portugália kitömte Üzbegisztánt",
-      "link": "https://hvg.hu/sport/20260623_vilagbajnoksag-portugalia-uzbegisztan-cristiano-ronaldo",
-      "summary": "Cristiano Ronaldo duplázott, de üzent azoknak is, akik önzéssel vádolták, Portugália 5-0-ra verte Üzbegisztánt."
-    },
-    {
-      "title": "Ráthonyi-Palácsik Tímea a Tiszának és Magyar Péternek üzent",
-      "link": "https://hvg.hu/elet/20260623_rathonyi-palacsik-timea-a-tiszanak-uzent-bizom-benne-hogy-korszerusitik-a-meddosegi-kezeleseket",
-      "summary": "A hazai meddőségi klinikák gyakorlatát kritizálta a modell-influenszer, aki maga is érintett. Sürgeti, hogy a magyar családok a legmodernebb reprodukciós orvosi lehetőségekhez férhessenek hozzá."
-    },
-    {
-      "title": "Török Gábor elmondta, szerinte mire kell felkészülnünk az elkövetkező időszakban",
-      "link": "https://hvg.hu/itthon/20260623_torok-gabor-elszamoltatas-alkotmanyozas-tisza-kormany",
-      "summary": "A politológus szerint bár sokan töprengtek el azon, hogy mihez kezd a kormány a gazdasággal, a nyugdíjakkal és az adócsökkentéssel, mostanra ezeket a kérdéseket kiszorította két másik vezértéma, és még egy jó darabig el is fogja takarni őket."
-    },
-    {
-      "title": "3 000 000 év alatt késik 1 másodpercet: megcsinálták a nukleáris órát, feltárulhat a sötét anyag titka",
-      "link": "https://hvg.hu/tudomany/20260623_nuklearis-ora-torium-atommag-ido-merese-lezer",
-      "summary": "Német és kínai mérnökök egyszerre fejlesztették ki a nukleáris órát, amely az atommag energiaszintjének változásával méri az időt."
     }
   ],
   "BBC": [
     {
+      "title": "England handed reality check by Ghana but remain in strong position after 0-0 draw",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzv7wl00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "England's drab performance against Ghana is no cause to panic – but it will not have struck fear into their rivals, writes Phil McNulty."
+    },
+    {
+      "title": "Watch: Football fans celebrate in Ghana after draw with England",
+      "link": "https://www.bbc.co.uk/news/videos/cg74djdk510o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ghana correspondent Thomas Naadi reports from Black Star Square in Accra."
+    },
+    {
       "title": "Hundreds of schools plan closures ahead of red heat alerts",
       "link": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The temperature topped 34.6 C in Wisley, England, while Scotland and Northern Ireland saw their hottest days of the year."
+      "summary": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year."
     },
     {
       "title": "The UK's summers are getting hotter - but how prepared are we?",
@@ -243,9 +253,9 @@
       "summary": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades."
     },
     {
-      "title": "Starmer holds talks with Burnham as he seeks 'orderly' transition",
-      "link": "https://www.bbc.co.uk/news/articles/c2eyj7j4evko?at_medium=RSS&at_campaign=rss",
-      "summary": "The outgoing PM is offering \"access talks\" with the civil service to Labour leadership candidates."
+      "title": "Burnham likely to replace Reeves if he becomes PM",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl91qlyr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rachel Reeves would be offered a more junior cabinet role, the BBC understands."
     },
     {
       "title": "Ten years on, Brexit's economic impact is becoming clearer",
@@ -253,9 +263,9 @@
       "summary": "A decade ago, many economists argued the UK would sustain longer-term economic damage by leaving the EU. So what did happen?"
     },
     {
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "link": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait."
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The resolution is largely symbolic, but it adds to pressure on the White House to end the conflict once and for all."
     },
     {
       "title": "Want to feel happier at work? Take a five-minute walk",
@@ -268,14 +278,14 @@
       "summary": "A body is found in the search for Lilly, 14, who was reported missing on Saturday."
     },
     {
-      "title": "Germany rail network halted nationwide due to IT malfunction",
-      "link": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours."
-    },
-    {
       "title": "Largest maternity review in NHS history to be published",
       "link": "https://www.bbc.co.uk/news/articles/c8e2xrke8l5o?at_medium=RSS&at_campaign=rss",
       "summary": "The review of Nottingham University Hospitals (NUH) NHS Trust is expected to detail how failings led to deaths and avoidable harm."
+    },
+    {
+      "title": "World's oldest football in Miami for Scotland's game against Brazil",
+      "link": "https://www.bbc.co.uk/news/articles/c1eydpx6020o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ball, which is believed to date from between 1540 and 1570, was discovered in Stirling in the 1970s."
     },
     {
       "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
@@ -283,14 +293,9 @@
       "summary": "The growth in sales has slowed significantly after a critical government grant programme was cut."
     },
     {
-      "title": "Campaigners consider appeal after Gatwick bids fail",
-      "link": "https://www.bbc.co.uk/news/articles/cjdg158v185o?at_medium=RSS&at_campaign=rss",
-      "summary": "A High Court ruling backs Gatwick Airport's expansion after campaigners raise climate concerns."
-    },
-    {
-      "title": "Should Ghana have been awarded a penalty against England?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
-      "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?"
+      "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&at_campaign=rss",
+      "summary": "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz."
     },
     {
       "title": "England held to goalless draw by Ghana",
@@ -298,17 +303,17 @@
       "summary": "England fail to repeat their performance that overpowered Croatia in their first World Cup game as they are held to a draw by a resolute Ghana at Boston Stadium."
     },
     {
-      "title": "Which players failed to make an impact? England player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1l23qdl6v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport England reporter Alex Howell rates the players after the 0-0 draw with Ghana - plus have your say."
-    },
-    {
-      "title": "Spence appears not to shake hands with Partey",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg4w21g45zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage circulating on social media appears to show England's Djed Spence not shaking hands with Ghana's Thomas Partey before their World Cup group match in Boston."
+      "title": "Should Ghana have been awarded a penalty against England?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?"
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Walmart-backed Flipkart expands quick-commerce push as Amazon ramps up in India",
+      "link": "https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/",
+      "summary": "Walmart-backed Flipkart has crossed 1,000 micro-fulfillment centers as Amazon accelerates its own quick-commerce push in India."
+    },
     {
       "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
       "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
@@ -378,11 +383,6 @@
       "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "summary": "OpenAI is using AI to help the open source community better protect itself."
-    },
-    {
-      "title": "Tesla pushes back on Autopilot narrative after fatal Texas crash",
-      "link": "https://techcrunch.com/2026/06/22/tesla-pushes-back-on-autopilot-narrative-after-fatal-texas-crash/",
-      "summary": "Whether the Autopilot system was truly active, overridden, or malfunctioning likely won't be resolved until investigators finish combing through the vehicle's data logs."
     }
   ],
   "Nature": [

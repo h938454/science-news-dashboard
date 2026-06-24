@@ -1,12 +1,22 @@
 {
   "Telex": [
     {
+      "title": "Skócia–Brazília 0-2",
+      "link": "https://telex.hu/sport/2026/06/24/skocia-brazilia-vb-kozvetites",
+      "summary": ""
+    },
+    {
+      "title": "Marokkó–Haiti 2-2",
+      "link": "https://telex.hu/sport/2026/06/24/marokko-haiti-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Svájc legyőzte Kanadát, megnyerte a B csoportot és zsinórban negyedik vb-jén is az egyenes kieséses szakaszba jutott",
       "link": "https://telex.hu/sport/2026/06/24/foci-vb-2026-kanada-svajc-b-csoport",
       "summary": "A társrendezők a csoport második helyén mentek tovább a legjobb 32 közé."
     },
     {
-      "title": "A bosnyákok kezdhetnek matekozni, történelmük második vb-győzelmét aratva a továbbjutás szélén állnak",
+      "title": "A bosnyákok kezdhetnek matekozni, történelmük második vb-győzelmét aratva a továbbjutás kapujában állnak",
       "link": "https://telex.hu/sport/2026/06/24/bosznia-hercegovina-katar-csoportkor-osszefoglalo",
       "summary": "Bosznia-Hercegovina magabiztosan verte Katart, 4 ponttal csoportharmadikok."
     },
@@ -64,16 +74,6 @@
       "title": "Ruszin-Szendi az átműtött emberekről: Ha saját magával nincsen tisztában, akkor elég nehéz fegyvert adni a kezébe",
       "link": "https://telex.hu/belfold/2026/06/24/ruszin-szendi-romulusz-honvedseg-nok-ferfiak-atmutott-katona",
       "summary": "A honvédelmi miniszter szerint egyszer jelentkezett katonának egy átműtött ember, de rájött, hogy „ezzel a fajta kultúrával” a haderőben nem tudnak mit kezdeni, el is ment magától."
-    },
-    {
-      "title": "A szivárványos lobogók mellett magyar zászlók is díszítik majd az Erzsébet hidat a Mi Hazánk akciója után",
-      "link": "https://telex.hu/belfold/2026/06/24/budapest-pride-karacsony-gergely-magyar-zaszlo-erzsebet-hid",
-      "summary": "Karácsony Gergely szerint úgy tűnik, néhányan mindenképp nemzeti ünnepet akarnak csinálni a Pride-ból."
-    },
-    {
-      "title": "Amíg a föld kerek, mindig lesznek sértett rockerek",
-      "link": "https://telex.hu/after/2026/06/24/eletem-legjobb-szama-film-kritika-paul-rudd-nick-jonas",
-      "summary": "Paul Rudd kiöregedett rocksztárként néz szembe azzal, hogy a daloknak ma nem karizmatikusnak, hanem ártalmatlannak kell lenniük. A millenniálok filmje lehetett volna, de sajnos klisékbe fullad John Carney, a Sing Street és a Once alkotójának új rendezése."
     }
   ],
   "Portfolio": [],
@@ -233,6 +233,11 @@
   ],
   "BBC": [
     {
+      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
+      "link": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon."
+    },
+    {
       "title": "Why this heatwave feels worse than the last one",
       "link": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
       "summary": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains"
@@ -301,14 +306,29 @@
       "title": "Air conditioning creates political divide in France",
       "link": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
       "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar."
-    },
-    {
-      "title": "Power outages hit France as it records hottest day since measurements began",
-      "link": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors."
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data."
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
+    },
     {
       "title": "New website names and shames companies that still don’t offer passkeys to users",
       "link": "https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/",
@@ -363,26 +383,6 @@
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
       "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
       "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
-    },
-    {
-      "title": "If you want to cut your screen time, just get a Brick",
-      "link": "https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/",
-      "summary": "After years of struggling to curb my screen time, apparently all I needed was a $59 hunk of plastic."
-    },
-    {
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
-    },
-    {
-      "title": "Valor Equity Partners looks to raise a $2.5B Fund VII, per Bloomberg",
-      "link": "https://techcrunch.com/2026/06/24/valor-equity-partners-looks-to-raise-a-2-5b-fund-vii-per-bloomberg/",
-      "summary": "New details have emerged about Valor's latest fund, which last year announced it was raising an unspecified amount of capital."
-    },
-    {
-      "title": "Slate Auto’s radically simple electric truck starts at $24,950",
-      "link": "https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/",
-      "summary": "The Jeff Bezos-backed startup finally revealed more pricing details for its debut EV, including a $29,950 starting price for the SUV variant, and boosted the base range to 205 miles."
     }
   ],
   "Nature": [

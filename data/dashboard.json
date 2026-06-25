@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Vége a magas terrorfenyegetettségnek Magyarországon",
-      "summary": "A hazai hatóságok mérsékelték a terrorfenyegetettségi szintet Magyarországon. Ezzel véget ért a magas fokú készültség, amelyet korábban vezettek be.",
-      "importance": 4
+      "title": "NKA-botrány: Letartóztatták a hat tisztviselőt",
+      "summary": "A bíróság egy hónapra elrendelte a Nemzeti Kulturális Alap (NKA) korrupciós botrányában érintett mind a hat tisztviselő letartóztatását. Az ügyészség nyomozása folytatódik az állami pénzek felhasználásával kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "NKA-botrány: Egy hónapra elrendelte mind a hat tisztviselő letartóztatását a bíróság",
-      "summary": "Az NKA (Nemzeti Kulturális Alap) körüli botrányban a bíróság egy hónapra elrendelte mind a hat érintett tisztviselő letartóztatását. Az ügy a magyar kulturális szférát érintő súlyos korrupciós vádakat vizsgálja.",
-      "importance": 4
+      "title": "Magyar Péter azonnali választ vár az ügyészségtől Orbán Viktor meghallgatásáról",
+      "summary": "Magyar Péter azonnali választ követel az ügyészségtől arra vonatkozóan, hogy gyanúsítottként meghallgatták-e már Orbán Viktort. Eközben Németh Zsolt minősíthetetlen hangnemmel vádolta meg Magyar Pétert, és kijelentette, hogy nem hívják meg Tusványosra.",
+      "importance": 5
     },
     {
-      "title": "Magyar Péter: Azonnali választ várunk az ügyészségtől, hogy meghallgatták-e már gyanúsítottként Orbán Viktort",
-      "summary": "Magyar Péter követeli az ügyészségtől, hogy tisztázzák: kihallgatták-e gyanúsítottként Orbán Viktort. A politikus szerint az ügyészségnek sürgősen választ kell adnia a felmerült kérdésekre.",
+      "title": "Mérsékelték a terrorfenyegetettségi szintet Magyarországon",
+      "summary": "Pósfai Gábor bejelentette, hogy mérsékelték a korábban magasnak ítélt terrorfenyegetettségi szintet Magyarországon. A hatóságok szerint a közvetlen terrorveszély elmúlt.",
       "importance": 4
     },
     {
       "title": "Vegyi anyag szivárgott ki a CATL debreceni gyárában",
-      "summary": "Vegyi anyag szivárgott ki a kínai CATL akkumulátorgyár debreceni telephelyén. Az eset kivizsgálása folyamatban van, a hatóságok megkezdték a környezeti hatások felmérését.",
-      "importance": 3
+      "summary": "Vegyi anyag szivárgott ki a debreceni CATL akkumulátorgyárában. Az eset részleteiről és lehetséges környezeti hatásairól vizsgálat indult.",
+      "importance": 4
     }
   ],
   "world": [
     {
       "title": "Zelenszkij 40 napos offenzívát indít az oroszok ellen",
-      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy az ukrán erők 40 napos offenzívát indítanak az orosz csapatok ellen. Cél a megszállt területek visszaszerzése és a háború kimenetelének befolyásolása.",
+      "summary": "Volodimir Zelenszkij ukrán elnök 40 napos, nagyszabású offenzívát jelentett be az orosz erők ellen. Az akció célja a megszállt területek visszafoglalása.",
+      "importance": 5
+    },
+    {
+      "title": "Az EU egy évvel meghosszabbította az Oroszország elleni gazdasági szankciókat",
+      "summary": "Az Európai Unió további egy évvel meghosszabbította az Oroszországgal szembeni gazdasági szankciókat. A döntés az ukrajnai háborúra adott válaszként született, fenntartva a nyomást Moszkván.",
+      "importance": 5
+    },
+    {
+      "title": "Az ENSZ felfüggesztette a Hormuzi-szorosban rekedt tengerészek kimentését",
+      "summary": "Az ENSZ felfüggesztette a Hormuzi-szorosban rekedt tengerészek kimentési tervét, miután egy teherszállító hajót támadás ért. A régióban fokozódik a feszültség és a nemzetközi aggodalom a hajózás biztonsága miatt.",
       "importance": 4
     },
     {
-      "title": "Fél helyett egy évvel hosszabbították meg az uniós gazdasági szankciókat Oroszország ellen",
-      "summary": "Az Európai Unió tagállamai egy évvel hosszabbították meg az Oroszország elleni gazdasági szankciókat, az eredeti fél év helyett. Ez a lépés az orosz agresszióra adott válasz része.",
+      "title": "Pusztító földrengés sújtotta a régiót egy bizonytalan időszakban",
+      "summary": "Egy pusztító erejű földrengés sújtotta a térséget, óriási károkat okozva és pánikot keltve a lakosság körében. A túlélők a halálfélelemről és a kialakult bizonytalanságról számoltak be.",
       "importance": 4
-    },
-    {
-      "title": "Pusztító földrengés rázta meg a térséget",
-      "summary": "Jelentős erejű földrengés sújtott egy térséget, ami széleskörű pusztítást és károkat okozott. A katasztrófa pontos mértéke és az áldozatok száma még felmérés alatt áll.",
-      "importance": 4
-    },
-    {
-      "title": "Kereskedelmi békejobbot nyújtottak az uniós kormányok Trumpnak",
-      "summary": "Az Európai Unió tagállamai kereskedelmi békejobbot nyújtottak Donald Trumpnak, az Egyesült Államok korábbi elnökének. A lépés célja a transzatlanti kereskedelmi feszültségek enyhítése.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Patronus AI 50 millió dolláros befektetést kapott AI ágensek tesztelésére",
-      "summary": "A Patronus AI startup 50 millió dolláros befektetést szerzett, hogy \"digitális világokat\" építsen mesterséges intelligencia ágensek stressztesztelésére. Ez a fejlesztés az AI-modellek megbízhatóságát hivatott javítani.",
+      "title": "A Patronus AI 50 millió dolláros finanszírozást kapott AI ügynökök stressztesztelésére",
+      "summary": "A Patronus AI 50 millió dolláros befektetéshez jutott, hogy 'digitális világokat' hozzon létre mesterséges intelligencia ügynökök stressztesztelésére. A cél az AI biztonság és megbízhatóságának növelése.",
+      "importance": 5
+    },
+    {
+      "title": "Az Anthropic Claude AI egyre népszerűbb a fizetős fogyasztók körében",
+      "summary": "Az Anthropic által fejlesztett Claude AI egyre nagyobb teret hódít a fizetős fogyasztók körében, ezzel komoly versenyt támasztva a ChatGPT eddigi dominanciájának. Ez a fejlemény átalakíthatja az AI chatbotok piacát.",
       "importance": 4
     },
     {
-      "title": "Anthropic Claude AI-ja egyre népszerűbb a fizetős felhasználók körében, megszorongatva a ChatGPT-t",
-      "summary": "Az Anthropic Claude nevű mesterséges intelligenciája egyre nagyobb teret nyer a fizetős fogyasztók körében, komoly kihívót állítva a piacvezető ChatGPT elé. Ez a fejlemény élesíti a versenyt az AI chatbotok piacán.",
+      "title": "Az Xbox és az Apple is áremeléseket jelentett be",
+      "summary": "Az Xbox és az Apple is áremeléseket jelentett be, melyek érintik a konzolokat, Mac-eket és iPadeket. Az iPhone-ok ára egyelőre változatlan marad.",
       "importance": 4
     },
     {
-      "title": "A General Intuition 2,3 milliárd dollárral fogad arra, hogy videojátékokkal képezhetők valós AI ügynökök",
-      "summary": "A General Intuition 2,3 milliárd dolláros befektetéssel támogatja azt az elképzelést, hogy videojátékok segítségével lehet valós feladatokra képes mesterséges intelligencia ügynököket kiképezni. Ez a nagyszabású projekt új utakat nyithat az AI fejlesztésében.",
-      "importance": 4
-    },
-    {
-      "title": "A Trump-kormány megtiltotta a Polestar új elektromos járműveinek amerikai értékesítését",
-      "summary": "A Trump-adminisztráció megtiltotta a svéd Polestar elektromos autógyártó új járműveinek értékesítését az Egyesült Államokban. A tiltás okát és részleteit pontosították.",
+      "title": "Kínai bánya 140 tonnás elektromos dömpereket vezetett be",
+      "summary": "Egy kínai bánya 140 tonnás elektromos dömpereket állított üzembe, amelyek már most érzékelhető pozitív hatással vannak a működésre. Ez a lépés jelentős előrelépést jelent a nehézipar fenntarthatósága felé.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Egyre gyorsabban öregednek a fiatalok, és senki sem érti, miért",
-      "summary": "A tudósok megfigyelték, hogy a fiatalok egyre gyorsabban öregednek biológiai értelemben, de ennek okait egyelőre nem értik. Ez a jelenség komoly kutatásokat indított el az egészség és az öregedés területén.",
+      "title": "DNS-szerkesztett emberi embriók új felfedezéseket és etikai vitákat generálnak",
+      "summary": "A DNS-szerkesztett emberi embriókon végzett kutatások új titkokat tárnak fel a fejlődésünkről. Ezek a felfedezések azonban komoly etikai vitákat is gerjesztenek a génszerkesztés határait illetően.",
+      "importance": 5
+    },
+    {
+      "title": "A NANOG gén alapvető szerepe az emberi embriófejlődésben",
+      "summary": "Egy friss bázisszerkesztési kutatás alapvető szerepet tárt fel a NANOG génnek az emberi embriófejlődésben. Ez az eredmény mélyebb megértést nyújt az emberi fejlődés korai szakaszainak folyamatairól.",
       "importance": 4
     },
     {
-      "title": "A Databricks korábbi AI-vezetője szerint ezerszeresére csökkenthető az AI energiafogyasztása",
-      "summary": "A Databricks korábbi mesterséges intelligencia vezetője azt állítja, hogy az AI rendszerek energiafogyasztása akár ezerszeresére is csökkenthető. Ez a potenciális áttörés jelentősen hozzájárulhat az AI fenntarthatóságához.",
+      "title": "Egyre gyorsabban öregednek a fiatalok, a tudomány még nem érti miért",
+      "summary": "Egy aggasztó jelenség szerint egyre gyorsabban öregednek a fiatalok, melynek pontos okait még nem sikerült megfejteni. A kutatók intenzíven vizsgálják a jelenséget, hogy megértsék az egészségügyi következményeit.",
       "importance": 4
     },
     {
-      "title": "Európa keleti fele is bőven kap majd a most nyugaton tomboló hőhullámból",
-      "summary": "A meteorológiai előrejelzések szerint a Nyugat-Európát sújtó extrém hőhullám hamarosan átterjed Európa keleti felére is. Ez további egészségügyi és környezeti kihívásokat jelenthet.",
-      "importance": 3
-    },
-    {
-      "title": "A Base Power startup olcsóbb áramot kínál a hálózatnak",
-      "summary": "Az a16z által támogatott Base Power startup olcsóbb áramot kínál az elektromos hálózatnak, ahol a legnagyobb szükség van rá. Innovatív megoldásaikkal a hálózat stabilitását és költséghatékony működését segítik.",
+      "title": "Az amerikai óceanográfiai projekteket finanszírozási bizonytalanságok fenyegetik",
+      "summary": "Az Egyesült Államok finanszírozási bizonytalanságai veszélybe sodorják a kulcsfontosságú globális óceanográfiai projekteket. Ez akadályozhatja az éghajlatváltozás és a tengeri ökoszisztémák kutatásának előrehaladását.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Ecuador–Németország 2-1",
-      "summary": "Meglepetésre Ecuador 2-1-re legyőzte Németországot egy nemzetközi labdarúgó mérkőzésen. Az eredmény sokak számára váratlan volt a sportvilágban.",
-      "importance": 1
+      "title": "Ecuador legyőzte Németországot és továbbjutott a foci-vb-n",
+      "summary": "A hősiesen küzdő Ecuador a hosszabbításban szerzett góllal 2-1-re legyőzte a csoportelsőnek vélt Németországot, ezzel továbbjutott a foci-vb csoportköréből. A németek ezzel a vereséggel búcsúztak a világbajnokságtól.",
+      "importance": 5
     },
     {
-      "title": "Curaçao–Elefántcsontpart 0-2",
-      "summary": "Elefántcsontpart 2-0-ra diadalmaskodott Curaçao ellen egy labdarúgó találkozón. A mérkőzés eseménytelenül zajlott, ahogy azt az eredmény is mutatja.",
-      "importance": 1
+      "title": "Pépé vezérletével Elefántcsontpart továbbjutott a vb-n",
+      "summary": "Pépé kétszer is betalált a hálóba, hozzájárulva Elefántcsontpart magabiztos győzelméhez Curaçao ellen. Ezzel a győzelemmel Elefántcsontpart továbbjutott a foci-világbajnokság csoportköréből.",
+      "importance": 4
     },
     {
-      "title": "A Nike hajón úsztatott plakáton mutatta be az új német mezt",
-      "summary": "A Nike egy különleges marketingfogással, egy hajón úsztatott, pixeles plakáton mutatta be az új német labdarúgó mezt. A bemutató felkeltette a sportszergyártó rajongóinak figyelmét.",
-      "importance": 1
+      "title": "Japán és Svédország gól nélküli döntetlent játszott a vb-n",
+      "summary": "Japán és Svédország gól nélküli döntetlennel fejezte be a mérkőzését a labdarúgó-világbajnokság csoportkörében. A csapatoknak így osztozniuk kellett a pontokon, ami befolyásolta a további esélyeiket.",
+      "importance": 3
     },
     {
-      "title": "A bosnyák szurkolói dal látnokinak bizonyult, valószínűleg az USA ellen játszanak a vb-n",
-      "summary": "A bosnyák kosárlabda szurkolók dala, amely az Egyesült Államok elleni mérkőzésről szólt, látnokinak bizonyult, mivel nagy valószínűséggel ellenük játszanak majd a világbajnokság kieséses szakaszában. A szurkolók most reménykednek a bravúrban.",
-      "importance": 1
+      "title": "Tunézia 0-2-re kikapott Hollandiától a foci-világbajnokságon",
+      "summary": "Tunézia 0-2-es vereséget szenvedett Hollandiától a világbajnokság csoportkörében. Hollandia magabiztosan nyert, tovább erősítve pozícióját a csoportban.",
+      "importance": 3
     }
   ]
 }

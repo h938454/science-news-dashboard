@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Zöld-foki Köztársaság–Szaúd-Arábia 0-0",
+      "link": "https://telex.hu/sport/2026/06/27/zold-foki-koztarsasag-szaud-arabia-vb-kozvetites",
+      "summary": ""
+    },
+    {
+      "title": "Uruguay–Spanyolország 0-0",
+      "link": "https://telex.hu/sport/2026/06/27/uruguay-spanyolorszag-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Amerikai légicsapás érte Iránt a Hormuzi-szorosnál történt dróntámadás után",
       "link": "https://telex.hu/kulfold/2026/06/26/amerikai-legicsapas-iran-hormuzi-szoros-drontamadas",
       "summary": "A támadás újra bizonytalanná teheti a két ország között nemrég létrejött ideiglenes megállapodás sorsát."
@@ -64,16 +74,6 @@
       "title": "Várják a kormánytól a pénzt a benzinkutak, a pénteki bezárások után még jöhetnek korlátozások",
       "link": "https://telex.hu/gazdasag/2026/06/26/fuggetlen-benzinkutak-szovetsege-demonstracio-igeret-allamtitkar",
       "summary": "Egy április elsejei, még az előző kormány kereskedelemért felelős államtitkárától érkező levélről is beszámolt az RTL Híradó."
-    },
-    {
-      "title": "A Ruminik írója, Berg Judit irodalomért és közművelődésért felelős helyettes államtitkár lesz",
-      "link": "https://telex.hu/belfold/2026/06/26/berg-judit-sipos-imre-helyettes-allamtitkar-nagy-ervin",
-      "summary": "Az előadóművészetekért felelős helyettes államtitkári pozíciót Sipos Imre tölti majd be. Popa Gergely helyettes államtitkárként képviseli majd a zeneművészet területét."
-    },
-    {
-      "title": "Szombaton megszűnik a közmédia jelenlegi vezetőinek megbízatása",
-      "link": "https://telex.hu/belfold/2026/06/26/megszunik-kozmedia-jelenlegi-vezeto-megbizatas-papp-daniel-m1-hirado",
-      "summary": "Távozik Koltay András, a Médiatanács elnöke és a testület tagjai, Altorjai Anita, a Duna Médiaszolgáltató Nonprofit Zrt. vezetője és Papp Dániel, az MTVA vezérigazgatója."
     }
   ],
   "Portfolio": [],
@@ -233,19 +233,14 @@
   ],
   "BBC": [
     {
-      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
-      "summary": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend."
-    },
-    {
       "title": "US conducts strikes on Iran after attack on cargo ship",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions."
     },
     {
-      "title": "Court rules 13 men who allegedly helped rapist drug and abuse wife can be named",
-      "link": "https://www.bbc.co.uk/news/articles/cnv9er181lno?at_medium=RSS&at_campaign=rss",
-      "summary": "13 men are accused of helping a man abuse his wife over a period of years."
+      "title": "Hottest June day record broken for third day in row as temperature hits 37.3C",
+      "link": "https://www.bbc.co.uk/news/articles/cn4d0n1l8zno?at_medium=RSS&at_campaign=rss",
+      "summary": "Suffolk saw the highest temperature on Friday - but many will feel the heatwave begin to ease over the weekend."
     },
     {
       "title": "Venezuela earthquakes kill 920 people as families desperate for news",
@@ -253,14 +248,24 @@
       "summary": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive."
     },
     {
-      "title": "Mother dies saving daughter in Venezuela earthquakes",
-      "link": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people."
+      "title": "Home Office to introduce new asylum routes to UK",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+      "summary": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system."
     },
     {
-      "title": "Man who punched female police officers at Manchester Airport jailed",
-      "link": "https://www.bbc.co.uk/news/articles/c1my31rr1vno?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohammed Fahir Amaaz assaulted PC Lydia Ward, PC Ellie Cook and a Starbucks customer, a court heard."
+      "title": "Three unusual things about the King's tax bill",
+      "link": "https://www.bbc.co.uk/news/articles/ce8kg7zg09ko?at_medium=RSS&at_campaign=rss",
+      "summary": "King Charles paid £12.9m in tax for 2024-2025 - here's what we know about his unique tax situation."
+    },
+    {
+      "title": "Meloni and Trump: A very public fall-out that is proving very hard to fix",
+      "link": "https://www.bbc.co.uk/news/articles/cze962pgk27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy's PM was not long ago being called the \"Trump whisperer\", but their relationship has gone from public attacks to personal insults."
+    },
+    {
+      "title": "Madonna was 'jealous of Kylie' - and more things we learned in her Graham Norton interview",
+      "link": "https://www.bbc.co.uk/news/articles/cn07rpn0rkxo?at_medium=RSS&at_campaign=rss",
+      "summary": "All the revelations from Madonna's chat with Graham Norton, including a big hint about Glastonbury."
     },
     {
       "title": "Trump threatens 100% tariff on European nations over tech tax",
@@ -268,9 +273,9 @@
       "summary": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy."
     },
     {
-      "title": "How transparent are the royals being about money?",
-      "link": "https://www.bbc.co.uk/news/articles/c77yzgnp5lvo?at_medium=RSS&at_campaign=rss",
-      "summary": "After the King reveals the tax he paid questions remain over how open the Royal Family is being about its wealth."
+      "title": "How messages between two dads helped expose the largest NHS maternity scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cd7pqqzznevo?at_medium=RSS&at_campaign=rss",
+      "summary": "Among the hundreds of affected families in Nottingham, two sets of parents led the fight to get answers."
     },
     {
       "title": "Conservatives offer tax incentive as part of 50,000 reservist pledge",
@@ -278,14 +283,9 @@
       "summary": "Labour accused the Conservatives of trying to \"rewrite history\" after making defence cuts while in power."
     },
     {
-      "title": "Debris falls after plane hits Beijing's tallest building",
-      "link": "https://www.bbc.co.uk/news/videos/c8j2rjrzjero?at_medium=RSS&at_campaign=rss",
-      "summary": "Social media footage showed the moment debris from a small aircraft fell to the ground after a crash into Beijing's tallest skyscraper."
-    },
-    {
-      "title": "Even if you're fit and young, avoid runs and too many beers in the heat, experts say",
-      "link": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning."
+      "title": "Bible stories become required reading for Texas schools",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8m2xkg84o?at_medium=RSS&at_campaign=rss",
+      "summary": "Critics say the new reading requirements infringe on religious freedoms and blur the separation of church and state."
     },
     {
       "title": "UK search team joins Venezuela earthquake rescue effort",
@@ -385,5 +385,81 @@
       "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+      "link": "https://www.nature.com/articles/d41586-026-02059-6",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02059-6\">doi:10.1038/d41586-026-02059-6</a></p>Nature staff discuss how apes share a rhythm of laughter, and how AI use may degrade skills in medicine and computer science."
+    },
+    {
+      "title": "The poetry of twilight and the awe-inspiring magic of eclipses: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02055-w",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02055-w\">doi:10.1038/d41586-026-02055-w</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "The surprising career parallels between footballers and researchers",
+      "link": "https://www.nature.com/articles/d41586-026-01794-0",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01794-0\">doi:10.1038/d41586-026-01794-0</a></p>Sarah Blackford reflects on how early-career scientists and professional football players share similar motivations, pressures and challenges."
+    },
+    {
+      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
+      "link": "https://www.nature.com/articles/d41586-026-01976-w",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01976-w\">doi:10.1038/d41586-026-01976-w</a></p>A handful of start-up firms are testing therapies that target specific epigenetic markers to treat everything from high cholesterol to a rare muscular disorder."
+    },
+    {
+      "title": "Inside the new political screening that’s stalling NIH grants",
+      "link": "https://www.nature.com/articles/d41586-026-01924-8",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01924-8\">doi:10.1038/d41586-026-01924-8</a></p>Mandatory reviews by top health officials and checks for 235 disfavoured terms have left hundreds of vetted grant applications in administrative limbo."
+    },
+    {
+      "title": "I study World Cup penalty shoot-outs: they say a lot about the psychology of performance under pressure",
+      "link": "https://www.nature.com/articles/d41586-026-02043-0",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02043-0\">doi:10.1038/d41586-026-02043-0</a></p>Football's most nail-biting feature can reveal ways for everyone to manage stressful situations better."
+    },
+    {
+      "title": "Europe’s record heatwave: does the continent have a new climate?",
+      "link": "https://www.nature.com/articles/d41586-026-02046-x",
+      "summary": "<p>Nature, Published online: 26 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02046-x\">doi:10.1038/d41586-026-02046-x</a></p>Nature asks researchers whether scorching summers are the new norm for London, Paris and Berlin."
+    },
+    {
+      "title": "Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs",
+      "link": "https://www.nature.com/articles/s41586-026-10829-5",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10829-5\">doi:10.1038/s41586-026-10829-5</a></p>Publisher Correction: In situ nanocrystal confinement for efficient blue perovskite LEDs"
+    },
+    {
+      "title": "Ligand-enabled distal desaturative lactonization of aliphatic acids",
+      "link": "https://www.nature.com/articles/s41586-026-10826-8",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10826-8\">doi:10.1038/s41586-026-10826-8</a></p>Ligand-enabled distal desaturative lactonization of aliphatic acids"
+    },
+    {
+      "title": "Base editing reveals an essential role for NANOG in human embryogenesis",
+      "link": "https://www.nature.com/articles/s41586-026-10792-1",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10792-1\">doi:10.1038/s41586-026-10792-1</a></p>Base editing reveals an essential role for NANOG in human embryogenesis"
+    },
+    {
+      "title": "Daily briefing: Humans and great apes giggle in the same rhythms",
+      "link": "https://www.nature.com/articles/d41586-026-02060-z",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02060-z\">doi:10.1038/d41586-026-02060-z</a></p>The findings hint that vocal motor control might have evolved from a shared ancestor. Plus, sea turtles’ navigation skills are only so-so and what’s next for the International Space Station."
+    },
+    {
+      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+      "link": "https://www.nature.com/articles/d41586-026-01994-8",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01994-8\">doi:10.1038/d41586-026-01994-8</a></p>The rhythmic patterns of laughter found in apes and humans reveal that complex primate vocal control might have started evolving 15 million years ago."
+    },
+    {
+      "title": "US funding uncertainties threaten to sink key global oceanography projects",
+      "link": "https://www.nature.com/articles/d41586-026-02028-z",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02028-z\">doi:10.1038/d41586-026-02028-z</a></p>The United States has led the world in observing the oceans — but cuts and threats of cuts have researchers worried it is no longer a reliable partner."
+    },
+    {
+      "title": "China’s LineShine just topped the global supercomputer ranking: what you need to know",
+      "link": "https://www.nature.com/articles/d41586-026-02047-w",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-02047-w\">doi:10.1038/d41586-026-02047-w</a></p>The supercomputer has an innovative chip design that allows it to carry out more than two quintillion calculations per second."
+    },
+    {
+      "title": "Can you terraform Mars? Try <i>Nature</i>’s game",
+      "link": "https://www.nature.com/articles/d41586-026-01978-8",
+      "summary": "<p>Nature, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01978-8\">doi:10.1038/d41586-026-01978-8</a></p>Once the realm of science fiction, the idea of making Mars habitable is gaining traction. Nature consulted with key scientists to develop this experimental adventure."
+    }
+  ]
 }

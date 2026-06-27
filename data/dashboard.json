@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Szombattól megszűnik a kutakon a benzin és a dízel hatósági ára",
-      "summary": "A kormány döntése értelmében szombaton véget ér a benzin és dízel hatósági árának rendszere Magyarországon, így a kutak piaci áron értékesítik majd az üzemanyagot. Ezt megelőzően több mint száz benzinkút tartott pénteken tiltakozó zárva tartást, mivel veszteségesnek tartották a hatósági árazást.",
-      "importance": 5
-    },
-    {
-      "title": "Várják a kormánytól a pénzt a benzinkutak, a pénteki bezárások után még jöhetnek korlátozások",
-      "summary": "A hatósági árak eltörlése után a benzinkutak állami kompenzációt remélnek az elszenvedett veszteségekért, miközben az iparági szereplők további korlátozásokat sem tartanak kizártnak a jövőben. A kialakult helyzet feszültséget okoz a szektorban, és a fogyasztók számára is bizonytalanságot jelent.",
-      "importance": 5
-    },
-    {
       "title": "Magyar Péter huszonhét helyettes államtitkárt felmentett, ötvenhármat kinevezett",
-      "summary": "Magyar Péter komoly átszervezést hajtott végre a kormányzati apparátusban, melynek során több tucat helyettes államtitkárt mentett fel és nevezett ki. Ez a lépés jelentős változásokat hozhat a magyar közigazgatás működésében és a politikai erőviszonyokban.",
+      "summary": "Magyar Péter frissen alakult kormánya jelentős személycseréket hajtott végre, felmentve huszonhét és kinevezve ötvenhárom új helyettes államtitkárt. Ez a lépés alapjaiban formálja át az államigazgatás vezetését.",
+      "importance": 5
+    },
+    {
+      "title": "Szombaton megszűnnek a hatósági árak a benzinkutakon",
+      "summary": "A kormány bejelentése szerint szombattól megszűnnek a hatósági árak a magyarországi benzinkutakon, ami jelentős változást hoz az üzemanyagpiacon. Ez a döntés közvetlenül befolyásolja az autósok és a fuvarozók költségeit.",
+      "importance": 5
+    },
+    {
+      "title": "Az MVM szerint stabil az energiaellátás, de estére takarékosságot kérnek a fogyasztóktól",
+      "summary": "Az MVM tájékoztatása szerint az ország energiaellátása stabil, azonban a megnövekedett terhelés miatt estére takarékosságra kérik a fogyasztókat. Ez a felhívás a nyári hőség okozta csúcsterhelésre reagál, biztosítva a folyamatos szolgáltatást.",
       "importance": 4
     },
     {
-      "title": "Hőhullám: rekordok dőlnek meg Európában, itthon nem csak a nagy meleg miatt adtak ki figyelmeztetést",
-      "summary": "Rekordhőmérsékletek dőlnek meg Európa-szerte, és itthon is jelentős hőségre figyelmeztettek, amit súlyosbít az MVM felhívása az energiatakarékosságra. Az extrém meleg komoly terhet ró az emberi szervezetre és az infrastruktúrára egyaránt.",
+      "title": "Vitézy Dávid újranyit két vasútvonalat, amelyeket még Lázár János záratott be",
+      "summary": "Vitézy Dávid közlekedési miniszter bejelentette, hogy két korábban Lázár János által bezáratott vasútvonalat újranyitnak. Ez a döntés javíthatja a regionális közlekedést és a vasúti infrastruktúra fejlesztését célozza.",
       "importance": 4
     }
   ],
   "world": [
     {
       "title": "Amerikai légicsapás érte Iránt a Hormuzi-szorosnál történt dróntámadás után",
-      "summary": "Az Egyesült Államok légicsapásokat hajtott végre Irán ellen, válaszul egy teherhajó elleni dróntámadásra a Hormuzi-szoros közelében. Az incidens tovább növeli a feszültséget a Közel-Keleten, és destabilizálhatja a térség biztonsági helyzetét.",
+      "summary": "Az Egyesült Államok légicsapásokat hajtott végre Irán ellen a Hormuzi-szorosnál történt dróntámadásra válaszul. Az incidens tovább növeli a feszültséget a két ország között a térségben.",
       "importance": 5
     },
     {
       "title": "Már 1000 közelében van a venezuelai földrengés áldozatainak száma",
-      "summary": "Egy pusztító földrengés Venezuela térségében eddig közel ezer halálos áldozatot követelt, miközben a családok kétségbeesetten várják a híreket eltűnt szeretteikről. A katasztrófa az ország amúgy is gyenge infrastruktúráját is próbára teszi.",
+      "summary": "A Venezuelában történt súlyos földrengés halálos áldozatainak száma megközelíti az 1000 főt. Nemzetközi mentőcsapatok érkeztek az országba, hogy segítsenek a túlélők felkutatásában és a károk felmérésében.",
       "importance": 5
     },
     {
       "title": "Rendkívüli állapotot vezettek be az oroszok által megszállt Krímben",
-      "summary": "Az oroszok által annektált Krím-félszigeten rendkívüli állapotot hirdettek, ami további korlátozásokat és ellenőrzéseket vezet be a lakosság számára. Ez a lépés a konfliktus elmérgesedését és az emberi jogi aggályok növekedését jelzi a megszállt területen.",
+      "summary": "Az orosz erők rendkívüli állapotot vezettek be az általuk megszállt Krím-félszigeten, biztonsági okokra hivatkozva. A lépés további feszültséget generál az ukrajnai konfliktusban.",
       "importance": 4
     },
     {
-      "title": "Trump 100%-os vámot ígér az európai országoknak a technológiai adó miatt",
-      "summary": "Donald Trump volt amerikai elnök 100%-os vám kivetésével fenyegeti az európai országokat, amennyiben azok technológiai adót vetnek ki az amerikai vállalatokra. Ez a bejelentés komoly feszültséget okozhat a transzatlanti kereskedelmi kapcsolatokban, és globális gazdasági hatásokkal járhat.",
+      "title": "Hőhullám: rekordok dőlnek meg Európában, itthon nem csak a nagy meleg miatt adtak ki figyelmeztetést",
+      "summary": "Európa-szerte hőhullám tombol, több helyen megdőltek a melegrekordok. Magyarországon sem csak a kánikula miatt adtak ki figyelmeztetést, hanem a klímaváltozás hatásai is egyre nyilvánvalóbbá válnak.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI kormányzati kérésre korlátozza a GPT-5.6 bevezetését, és kijelenti, hogy a korlátozások nem lehetnek norma",
-      "summary": "Az OpenAI bejelentette, hogy kormányzati kérésre lassítja a GPT-5.6 modelljének bevezetését biztonsági aggodalmak miatt, de hangsúlyozza, hogy az ilyen korlátozások nem lehetnek általánosak. Az eset rávilágít a mesterséges intelligencia fejlesztésének szabályozási kihívásaira és a technológiai cégek, valamint a kormányok közötti feszültségre.",
+      "title": "A Fehér Ház az OpenAI-t arra kéri, lassítsa új modelljének bevezetését biztonsági aggodalmak miatt",
+      "summary": "A Fehér Ház arra kérte az OpenAI-t, hogy lassítsa le legújabb mesterséges intelligencia modelljének bevezetését, biztonsági aggodalmakra hivatkozva. Ez a lépés rámutat a mesterséges intelligencia szabályozásának növekvő fontosságára.",
       "importance": 5
     },
     {
-      "title": "Miért épít mindenki, az OpenAI-tól a SpaceX-ig saját chipeket (és növeli a nyomást az Nvidián)?",
-      "summary": "Egyre több nagy tech cég, az OpenAI-tól a SpaceX-ig, dönt úgy, hogy saját chipeket fejleszt, ezzel növelve a versenyt az olyan domináns szereplőkkel szemben, mint az Nvidia. Ez a tendencia az AI és egyéb csúcstechnológiák iránti növekvő igényre válasz, és a félvezetőipar átrendeződését vetíti előre.",
-      "importance": 4
+      "title": "Miért épít mindenki csipeket az OpenAI-tól a SpaceX-ig (és miért élezik ki a versenyt az Nvidia-val szemben)?",
+      "summary": "Egyre több techóriás, mint az OpenAI és a SpaceX, saját csipek fejlesztésébe kezd, ezzel fokozva a versenyt az Nvidia ellen. Ez a trend a hardverfüggőség csökkentését és az innováció felgyorsítását célozza a mesterséges intelligencia területén.",
+      "importance": 5
     },
     {
       "title": "Orosz hackerek álltak a Jaguar Land Rover 2,5 milliárd dolláros hackje mögött: Jelentés",
-      "summary": "Egy jelentés szerint orosz hackercsoportok felelősek a Jaguar Land Rovert ért 2,5 milliárd dolláros kibertámadásért, amely jelentős anyagi kárt okozott a vállalatnak. Az eset kiemeli a növekvő kiberbiztonsági fenyegetéseket és a nemzetállami szereplők szerepét a digitális támadásokban.",
+      "summary": "Egy jelentés szerint orosz hackerek felelősek a Jaguar Land Rovert ért 2,5 milliárd dolláros kibertevékenységért. Ez az eset rávilágít az autóipari vállalatok növekvő kiberbiztonsági kockázataira.",
       "importance": 4
     },
     {
-      "title": "Kína LineShine szuperkomputere vezeti a globális rangsort: amit tudni kell",
-      "summary": "Kína LineShine nevű szuperkomputere került a globális ranglista élére, demonstrálva az ország jelentős előrelépését a nagy teljesítményű számítástechnika terén. Ez az eredmény nemcsak technológiai sikert jelent, hanem stratégiai jelentőséggel is bír a mesterséges intelligencia és a tudományos kutatás területén.",
+      "title": "A Trump-adminisztráció kiadja az Anthropic Mythos AI-t több mint 100 amerikai vállalat és ügynökség számára",
+      "summary": "A Trump-adminisztráció nyilvánossá tette az Anthropic Mythos AI modelljét, amelyet több mint 100 amerikai vállalat és ügynökség fog használni. Ez a lépés jelentős mértékben felgyorsíthatja a mesterséges intelligencia adaptációját az állami és üzleti szektorban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A CRISPR következő fejezete: a cégek, amelyek az epigenomot szerkesztik betegségek kezelésére",
-      "summary": "A CRISPR génszerkesztési technológia következő nagy lépése az epigenom szerkesztése, amellyel cégek már betegségek kezelését célozzák meg. Ez a kutatás új reményt adhat számos genetikai eredetű betegség gyógyítására, forradalmasítva az orvostudományt.",
+      "title": "A CRISPR következő felvonása: vállalatok, amelyek az epigenomot szerkesztik betegségek kezelésére",
+      "summary": "A CRISPR technológia egy új fejezetéhez érkezett, ahol vállalatok már az epigenom szerkesztésével kísérleteznek betegségek gyógyítására. Ez a megközelítés ígéretes utat nyit a genetikailag alapú terápiák előtt.",
       "importance": 5
     },
     {
       "title": "Európa rekord hőhulláma: új klímája van a kontinensnek?",
-      "summary": "Európát rekordmértékű hőhullám sújtja, ami felveti a kérdést, hogy a kontinens klímája tartósan megváltozott-e. A tudósok elemzik az extrém időjárási jelenségeket, hogy jobban megértsék az éghajlatváltozás hosszú távú hatásait és a jövőbeli kilátásokat.",
+      "summary": "Európa történelmi rekordokat döntő hőhullámmal küzd, felvetve a kérdést, hogy a kontinens éghajlata véglegesen megváltozott-e. A tudósok vizsgálják a jelenség hosszú távú hatásait és a klímaváltozással való összefüggéseit.",
+      "importance": 5
+    },
+    {
+      "title": "Az amerikai finanszírozási bizonytalanságok kulcsfontosságú globális oceanográfiai projekteket fenyegetnek",
+      "summary": "Az Egyesült Államok finanszírozási bizonytalanságai veszélyeztetik a kulcsfontosságú globális oceanográfiai kutatási projekteket. Ez a helyzet akadályozhatja az óceánokról és a klímaváltozásról szóló ismereteink bővítését.",
       "importance": 4
     },
     {
-      "title": "Amit egy csimpánz csikizése elárul a beszéd evolúciójáról",
-      "summary": "A csimpánzok csikizése során megfigyelt reakciók és hangadások tanulmányozása új betekintést nyújt a beszéd evolúciójába, feltárva a közös ritmikus nevetési mintákat az emberekkel. Ez a kutatás segíthet megérteni a kommunikáció ősi gyökereit és a nyelvi képességek kialakulását.",
-      "importance": 4
-    },
-    {
-      "title": "Bázisszerkesztés feltárja a NANOG alapvető szerepét az emberi embriófejlődésben",
-      "summary": "A bázisszerkesztés segítségével a kutatók felfedezték a NANOG gén kulcsfontosságú szerepét az emberi embriófejlődésben, ami alapvető fontosságú a korai fejlődési folyamatok megértéséhez. Ez az áttörés új lehetőségeket nyithat a meddőség és a fejlődési rendellenességek kezelésében.",
+      "title": "Az alapszerkesztés feltárja a NANOG alapvető szerepét az emberi embriófejlődésben",
+      "summary": "Az alapszerkesztési technológia alkalmazásával a kutatók felfedezték a NANOG gén alapvető szerepét az emberi embriófejlődésben. Ez a felfedezés mélyebb betekintést nyújt a korai emberi fejlődés mechanizmusaiba.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A vébé leggyorsabb mesterhármasával verték a franciák a tartalékoló norvégokat",
-      "summary": "Franciaország könnyedén, 4-1-re legyőzte a tartalékos norvég csapatot a világbajnokságon, Dembélé mesterhármasával, ami a torna leggyorsabbja volt. A norvégok kapitánya pihentette kulcsjátékosait, Haalandot és Ødegaardot, így a franciák domináns teljesítménnyel nyertek.",
+      "title": "Folytatódik a zöld-foki varázslat, Uruguay számára véget ért a vb",
+      "summary": "A Zöld-foki Köztársaság váratlan sikert aratva jutott tovább a labdarúgó-világbajnokságon, míg Uruguay számára véget ért a torna. A kis afrikai nemzet tündérmeséje folytatódik a vb-n.",
+      "importance": 5
+    },
+    {
+      "title": "Dembélé mesterhármasával és Doué fejesével könnyedén verte Franciaország Norvégiát",
+      "summary": "Franciaország magabiztosan győzte le Norvégiát a világbajnokságon, Dembélé mesterhármasával és Doué fejesével. A franciák erődemonstrációt tartottak a mérkőzésen.",
       "importance": 4
     },
     {
-      "title": "Szenegál tönkreverte a szinte végig emberhátrányban játszó Irakot, és még van esélye továbbjutni",
-      "summary": "Szenegál 5-0-ra diadalmaskodott Irak ellen egy olyan mérkőzésen, ahol az iraki csapat szinte végig emberhátrányban játszott, és ezzel életben tartotta továbbjutási esélyeit a tornán. A domináns győzelem megerősítette Szenegál pozícióját a csoportban.",
-      "importance": 3
-    },
-    {
       "title": "Portugál, olasz és magyar érdeklődő pályázik a Videoton FC-re",
-      "summary": "A Videoton FC labdarúgóklub tulajdonjoga iránt portugál, olasz és magyar befektetők is érdeklődnek, ami komoly változásokat hozhat a csapat jövőjében. A lehetséges tulajdonosváltás befolyásolhatja a klub pénzügyi helyzetét és sportszakmai irányát.",
-      "importance": 3
+      "summary": "Több befektető, köztük portugál, olasz és magyar érdeklődő is pályázik a Videoton FC labdarúgócsapatára. A klub jövője a tulajdonosváltás függvényében dől el.",
+      "importance": 4
     },
     {
-      "title": "Haaland és Ødegaard is a padon, szinte a teljes kezdőjét lecserélte a norvég kapitány a franciák elleni meccsre",
-      "summary": "A norvég labdarúgó-válogatott szövetségi kapitánya meglepő döntést hozott, amikor a Franciaország elleni fontos világbajnoki mérkőzésen pihentette kulcsjátékosait, Haalandot és Ødegaardot. Ez a taktikai lépés a játékosok erőnlétének megőrzését célozta, ám a meccs eredményét befolyásolta.",
+      "title": "Novak Djokovic új állást vállalt – a General Atlantic magántőke-társaság tanácsadója lett",
+      "summary": "A teniszsztár Novak Djokovic új szerepet vállalt, tanácsadóként csatlakozott a General Atlantic magántőke-társasághoz. Ez a lépés egy nagy név belépését jelenti az üzleti világba a sporton kívül.",
       "importance": 3
     }
   ]

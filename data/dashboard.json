@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Akkora a hőség Magyarországon, hogy zsinórban dőlnek meg a rekordok",
-      "summary": "Magyarországon zsinórban dőlnek meg a melegrekordok, szombaton Budakalászon 40 fokot mértek, megdöntve ezzel az országos és fővárosi napi maximumokat. A Balaton és a Velencei-tó vize is szaunává vált a rendkívüli hőhullám miatt.",
+      "title": "Rekordhőség és tűzesetek az országban",
+      "summary": "Magyarországon sorra dőlnek meg a melegrekordok, a Balaton és a Velencei-tó vize is szauna hőmérsékletűre melegedett. A hőség miatt országszerte több tarlótűz is keletkezett, két kombájn is kigyulladt a perzselő napon.",
       "importance": 5
     },
     {
-      "title": "Csak indokolt esetben keressük fel a sürgősségi osztályokat",
-      "summary": "Az egészségügyi miniszter és a kancellária arra kéri a lakosságot, hogy a sürgősségi osztályokat valóban csak indokolt, halaszthatatlan esetben keressék fel. Ez az intézkedés a rendszer túlterheltségének enyhítését célozza a nyári időszakban.",
+      "title": "Új elnöke van a Momentumnak",
+      "summary": "A Momentum párt új elnököt választott, melyről a Telex és a HVG is beszámolt. A korábbi zuglói polgármester, Horváth Csaba már nem tölti be ezt a tisztséget.",
       "importance": 4
     },
     {
-      "title": "Három gyerek és két felnőtt halt meg egy autóbalesetben Bükkábránynál",
-      "summary": "Tragikus autóbaleset történt Bükkábránynál, melynek során három gyermek és két felnőtt vesztette életét. A rendőrség vizsgálja a baleset körülményeit, amely mélyen megrázta a közvéleményt.",
+      "title": "Folyamatban az Alaptörvény-módosítás értékelése",
+      "summary": "Lezárult az egyeztetési folyamat az Alaptörvény tervezett módosításairól, a kormány jelenleg értékeli az érkezett észrevételeket. Ez fontos lépés az ország jogi kereteinek frissítésében.",
       "importance": 4
     },
     {
-      "title": "Az egész országban a XII. kerületben volt a legmagasabb a nettó mediánbér",
-      "summary": "A Központi Statisztikai Hivatal adatai szerint országosan a budapesti XII. kerületben regisztrálták a legmagasabb nettó mediánbért. Ez az adat rávilágít a fővárosi kerületek közötti jelentős jövedelmi különbségekre, és fontos gazdasági mutatója a lakosság anyagi helyzetének.",
+      "title": "Halálos autóbaleset Bükkábránynál",
+      "summary": "Öten vesztették életüket egy súlyos autóbalesetben Bükkábránynál, köztük három gyermek is. A tragédia az ország egyik legsúlyosabb közúti eseménye volt a közelmúltban.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Irán és az Egyesült Államok fokozza a támadásokat, eszkaláció fenyeget",
-      "summary": "Irán és az Egyesült Államok közötti feszültség tovább nőtt, miután mindkét fél fokozta támadásait, ami a régióban további eszkalációval fenyeget. A helyzet globális biztonsági aggályokat vet fel, és komoly nemzetközi beavatkozást igényelhet.",
+      "title": "Ukrán dróntámadás orosz olajfinomítók ellen",
+      "summary": "Újabb orosz olajfinomítókat értek „masszív ukrán dróntámadások”, ami a háború eszkalálódására utalhat. A támadások a két ország közötti feszültséget tovább növelik, és komoly gazdasági hatásokkal járhatnak.",
       "importance": 5
     },
     {
-      "title": "Újabb orosz olajfinomítókat támadtak az ukrán drónrajok",
-      "summary": "Ukrán drónrajok ismét célba vettek és támadtak orosz olajfinomítókat, ami az ukrajnai háború kimenetelének és az orosz gazdaságnak kulcsfontosságú aspektusa. A támadások az orosz energiainfrastruktúra meggyengítésére irányulnak, destabilizálva az ellátási láncokat.",
-      "importance": 5
-    },
-    {
-      "title": "Egész Európa szédeleg, sorra dőlnek meg a melegrekordok, Franciaországban ezer haláleset",
-      "summary": "Egész Európában sorra dőlnek meg a melegrekordok, egyes régiókban pusztító viharok pusztítanak, és Franciaországban több mint ezerrel nőtt a halálesetek száma a hőség miatt. Ez felveti a kérdést, hogy a kontinensnek új éghajlata van-e, és sürgős klímapolitikai válaszokra van szükség.",
+      "title": "Fokozódik a feszültség Irán és az Egyesült Államok között",
+      "summary": "Irán és az Egyesült Államok kölcsönösen fokozta a támadásokat, ami eszkalációval fenyeget a térségben. A helyzet destabilizálódása komoly aggodalmakra ad okot a nemzetközi közösségben.",
       "importance": 4
     },
     {
-      "title": "Két fiút mentettek ki a romok alól a venezuelai földrengés után",
-      "summary": "Két fiút mentettek ki a romok alól napokkal a pusztító venezuelai földrengés után, ami reményt ad a túlélőknek és a mentőcsapatoknak. A mentési munkálatok továbbra is zajlanak, a túlélők elkeseredetten keresik szeretteiket a romok között.",
+      "title": "Hőség és halálesetek Franciaországban, viharok pusztítanak",
+      "summary": "Franciaországban ezerrel több haláleset történt a rendkívüli hőség miatt, amit pusztító viharok követtek. A szélsőséges időjárás komoly kihívások elé állítja a régiót és a lakosságot.",
       "importance": 4
+    },
+    {
+      "title": "Két fiút mentettek ki venezuelai földrengés törmelékei alól",
+      "summary": "Napokkal a venezuelai földrengés után két fiút sikerült élve kimenteni a romok alól, reményt adva a mentőcsapatoknak. A mentési munkálatok a helyszínen folyamatosan zajlanak a túlélők felkutatásáért.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI és a SpaceX is saját chipeket fejleszt, fokozódik a verseny az Nvidia ellen",
-      "summary": "Az OpenAI és a SpaceX is beszáll a chipgyártásba, saját fejlesztésű processzorokkal célozva meg a mesterséges intelligencia és űripari igényeket. Ez a lépés növeli a versenyt az iparágvezető Nvidia számára, és új dimenziót nyit a technológiai innovációban.",
+      "title": "Az OpenAI saját chipeket fejleszt, GPT-5.6 korlátozás a kormány kérésére",
+      "summary": "Az OpenAI, a SpaceX és más techóriások is saját chipek fejlesztésébe kezdtek, fokozva a versenyt az Nvidia-val szemben. Eközben az OpenAI a GPT-5.6 bevezetését is korlátozni kényszerült egy kormányzati kérésre.",
       "importance": 5
     },
     {
-      "title": "Az Apple Vision Pro egyik vezetője az OpenAI-hoz igazol",
-      "summary": "Az Apple Vision Pro csapatának egyik kulcsfontosságú vezetője állítólag az OpenAI-hoz távozik, ami rávilágít a tehetségek mesterséges intelligencia területére való átáramlására. Ez a váltás jelzi az AI növekvő dominanciáját a tech iparban, és megkérdőjelezi az AR/VR jövőjét.",
+      "title": "Az AI kulcsszerepe a digitális fizetések jövőjében",
+      "summary": "Az indiai fizetési rendszerek vezetője szerint a mesterséges intelligencia (AI) meghatározó szerepet fog játszani a digitális fizetések következő korszakában. Az AI alapú megoldások forradalmasíthatják a pénzügyi tranzakciókat és szolgáltatásokat.",
       "importance": 4
     },
     {
-      "title": "Az MI kulcsszerepet kap a digitális fizetések következő korszakában",
-      "summary": "Az indiai fizetési rendszer vezetője szerint a mesterséges intelligencia meghatározó szerepet fog játszani a digitális fizetések jövőbeli növekedésében. Az MI új lehetőségeket nyithat a biztonságosabb, gyorsabb és hatékonyabb tranzakciók terén, forradalmasítva a pénzügyi szektort.",
+      "title": "Kína LineShine szuperkomputere az élen",
+      "summary": "Kína LineShine nevű szuperkomputere áll a globális ranglista élén, ezzel demonstrálva az ország növekvő technológiai erejét. Ez jelentős fejlemény a szuperkomputerek fejlesztésében és a digitális versenyben.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI kormányzati kérésre korlátozza a GPT-5.6 bevezetését",
-      "summary": "Az OpenAI egy kormányzati kérésre ideiglenesen korlátozza a GPT-5.6 modell bevezetését, hangsúlyozva, hogy az ilyen korlátozások nem lehetnek általánosak. Ez a lépés rávilágít az AI fejlesztésével kapcsolatos szabályozási és etikai aggodalmakra, és a technológia felelős alkalmazásának fontosságára.",
-      "importance": 4
+      "title": "Kulcsvezető távozik az Apple Vision Pro csapatából az OpenAI-hoz",
+      "summary": "Az Apple Vision Pro projektjének egyik kulcsfontosságú vezetője állítólag távozik a cégtől, hogy az OpenAI-hoz csatlakozzon. Ez a jelentős tehetségmozgás rávilágít a mesterséges intelligencia területének vonzerejére.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A CRISPR következő lépése: az epigenom szerkesztése betegségek kezelésére",
-      "summary": "A CRISPR génszerkesztési technológia fejlődésével a tudósok most az epigenom szerkesztésére fókuszálnak, új lehetőségeket nyitva betegségek, például a cisztás fibrózis kezelésében. Ez a megközelítés ígéretes utat mutat a genetikai alapú terápiákban, és forradalmasíthatja az orvostudományt.",
+      "title": "A CRISPR következő lépése: epigenom szerkesztés betegségek kezelésére",
+      "summary": "A CRISPR technológia új fejezetet nyit az epigenom szerkesztésével, ami reményt ad a betegségek kezelésére. Vállalatok dolgoznak azon, hogy ezt a módszert terápiás célokra is alkalmazzák.",
       "importance": 5
     },
     {
-      "title": "Kína LineShine szuperkomputere vezeti a globális ranglistát",
-      "summary": "Kína új LineShine nevű szuperkomputere vette át a vezető helyet a globális ranglistán, ami jelentős előrelépést jelent a számítástechnika terén. Ez az eredmény rávilágít Kína növekvő technológiai erejére és innovációs képességére a tudományos kutatásban és fejlesztésben.",
+      "title": "A csimpánz nevetés és a beszéd evolúciója",
+      "summary": "A csimpánzok csiklandozására adott válaszok, mint a nevetés, betekintést engednek a beszéd evolúciójába. Az emberek és a főemlősök hasonló ritmusban nevetnek, ami közös gyökerekre utalhat a kommunikációban.",
       "importance": 4
     },
     {
-      "title": "A nevetés és a majmok csiklandozása a beszéd evolúciójáról árulkodik",
-      "summary": "A csimpánzok és más emberszabású majmok csiklandozásakor hallható nevetés és annak ritmusa alapvető információkkal szolgálhat az emberi beszéd evolúciójáról. A kutatók szerint a nevetés egy ősi kommunikációs forma, amelynek tanulmányozása mélyebb betekintést enged az emberi nyelvezet eredetébe.",
+      "title": "A NANOG gén alapvető szerepe az emberi embrionális fejlődésben",
+      "summary": "A bázisszerkesztési technológia felfedte a NANOG gén kulcsfontosságú szerepét az emberi embrionális fejlődésben. Ez a felfedezés alapvető ismeretekkel szolgál a korai emberi fejlődés megértéséhez és a meddőség kutatásához.",
       "importance": 4
     },
     {
-      "title": "Meglepő karrierpárhuzamok a labdarúgók és a kutatók között",
-      "summary": "Egy tanulmány meglepő párhuzamokat mutat be a labdarúgók és a tudományos kutatók karrierútja között, kiemelve a kitartás, a csapatmunka és a kreativitás fontosságát mindkét területen. Mindkét szakma nagy nyomás alatt teljesít, és a folyamatos fejlődés kulcsfontosságú a sikerhez.",
+      "title": "Politikai szűrő veszélyezteti az amerikai tudományos kutatásokat",
+      "summary": "Új politikai ellenőrzési folyamatok akasztják meg az amerikai NIH kutatási támogatásait, és bizonytalanság veszélyezteti az óceánkutatási projekteket. Ez akadályozhatja a tudományos fejlődést és a globális együttműködéseket.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Elindult a foci-vb egyenes kieséses szakasza, nincs több hiba",
-      "summary": "A labdarúgó-világbajnokság elérte az egyenes kieséses szakaszt, ahol már nincs helye hibáknak, minden mérkőzés élet-halál harc. A csapatok a döntőbe jutásért küzdenek, ami hatalmas feszültséget és izgalmat ígér a szurkolóknak világszerte.",
+      "title": "Elindult a Foci VB kieséses szakasza",
+      "summary": "Elérkezett a labdarúgó-világbajnokság kieséses szakasza, ahol a csapatok a döntőbe jutásért küzdenek. Izgalmas párosítások és meglepetések várhatók a mérkőzéseken.",
       "importance": 5
     },
     {
-      "title": "Az afrikai válogatottak tündökölnek, Ázsia csalódást kelt a foci-vb-n",
-      "summary": "Meglepetésre az afrikai válogatottak kiválóan szerepeltek a világbajnokság csoportkörében, tízből kilenc csapat jutott tovább, míg az ázsiai képviselők csalódást keltettek. Ez az eredmény átrajzolja a kontinensek közötti erőviszonyokat a futballban, és új fejezetet nyit a sporttörténelemben.",
+      "title": "Russell hibátlan versennyel nyerte az Osztrák Nagydíjat",
+      "summary": "George Russell hibátlan teljesítménnyel, fantasztikus csaták után nyerte meg az Osztrák Nagydíjat. Ez a győzelem fontos mérföldkő a Forma-1 szezonjában és Russell karrierjében.",
       "importance": 4
     },
     {
-      "title": "Kiderült, miért nem volt kezdő Messi a Jordánia elleni meccsen",
-      "summary": "Az argentin válogatott kapitánya elárulta, hogy Lionel Messi miért nem kezdett a Jordánia elleni mérkőzésen, taktikai okokra hivatkozva. A döntés nagy port kavart a szurkolók körében, de a csapat céljai prioritást élveztek a sztárjátékos pihentetésével.",
-      "importance": 4
+      "title": "Valter Attila idén sem indul a Tour de France-on",
+      "summary": "A hírek szerint Valter Attila magyar kerékpáros idén sem vesz részt a Tour de France-on, ami csalódás lehet a hazai sportrajongók számára. Ennek oka egyelőre nem tisztázott.",
+      "importance": 3
     },
     {
-      "title": "A FIFA elnöke Taylor Swiftet megszégyenítő módon röpköd a vb-meccsek között",
-      "summary": "A FIFA elnöke, Gianni Infantino hihetetlen tempóban utazza körbe a világbajnokság helyszíneit, 27 repülőúttal és 24 meccs megtekintésével. Ez a logisztikai bravúr még Taylor Swift turnéját is felülmúlná, és rávilágít a modern sportvezetés kihívásaira.",
+      "title": "Afrikai sikerek, ázsiai csalódások a Foci VB csoportkörben",
+      "summary": "Az afrikai válogatottak kiválóan teljesítettek a labdarúgó-világbajnokság csoportkörében, tízből kilenc csapat továbbjutott. Ezzel szemben az ázsiai csapatok eddig alulmúlták a várakozásokat.",
       "importance": 3
     }
   ]

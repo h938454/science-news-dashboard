@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Gyurcsány Ferenc a vereségek természetéről mereng",
+      "link": "https://telex.hu/zacc/2026/06/28/gyurcsany-ferenc-politika-vereseg-gyozelem-elmelkedes",
+      "summary": "Tapasztalat az van. Bár azt ígérte nem fog, most mégis újra politizál egy kicsit."
+    },
+    {
+      "title": "Kanada kilencven percet átaludt, aztán egy késői villanással a 16 között találta magát",
+      "link": "https://telex.hu/sport/2026/06/28/del-afrika-kanada-foci-vb-2026",
+      "summary": "Az Eustáquio góljával Dél-Afrikát búcsúztató társházigazdák még soha nem jutottak vb-n ilyen messzire."
+    },
+    {
       "title": "WHO: Már több mint 1300-an haltak meg Európában a hőhullámmal összefüggésben",
       "link": "https://telex.hu/kulfold/2026/06/28/who-hohullam-hoseg-europa-halalos-aldozatok",
       "summary": "A WHO vezetője szerint Európa különösen veszélyeztetett, mivel a kontinens az egyik leggyorsabban melegedő régió a világon és kétszer olyan gyorsan emelkedik a hőmérséklet, mint a globális átlag."
@@ -64,20 +74,15 @@
       "title": "Másodszor is befürdött a Valve a minipécéjével, és ezt most a mesterséges intelligenciának lehet megköszönni",
       "link": "https://telex.hu/techtud/2026/06/28/valve-steam-steam-machine-hardver-konzol-pc-arazas",
       "summary": "Hétfőn derült ki a tavaly bejelentett Steam Machine ára, és a memóriaapokalipszis kellős közepén pont olyan lesújtó lett, mint amire számítani lehetett. Ettől még persze lehet, hogy jól fog fogyni, de ebben a formájában nem sok minden szól mellette."
-    },
-    {
-      "title": "Dél-Korea elnöke kormányzati vizsgálatot követel, miután a válogatottjuk kiesett a foci vb-n",
-      "link": "https://telex.hu/sport/2026/06/28/del-korea-foci-vb-2026-i-dzsemjong-hong-mjong-elszamoltatas",
-      "summary": "I Dzsemjong elnézést kért a nem megfelelően elköltött adófizetői forrásokért, az ország közvéleményének okozott csalódásért és szigorú elszámoltatást ígért."
-    },
-    {
-      "title": "Megint egymást támadja Irán és az USA, miközben a tűzszünet megsértésével vádolják a másikat",
-      "link": "https://telex.hu/kulfold/2026/06/28/iran-egyesult-allamok-eszkalacio-fenyegetozes-bekekotes",
-      "summary": "Trump szerint eljöhet az a pont, amikor már nem tudnak tovább ésszerűen viselkedni."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Kanada a 92. percben rúgta tovább magát a nyolcaddöntőbe",
+      "link": "https://444.hu/2026/06/28/kanada-a-92-percben-rugta-tovabb-magat-a-nyolcaddontobe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Dél-Afrika búcsúzik."
+    },
     {
       "title": "Trump arcképe is rákerül az Egyesült Államok 250. évfordulójára készülő „hazafias útlevelekre”",
       "link": "https://444.hu/2026/06/28/trump-arckepe-is-rakerul-az-egyesult-allamok-250-evfordulojara-keszulo-hazafias-utlevelekre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,14 +152,14 @@
       "title": "Umami #2: A konyha néha tényleg csatatér",
       "link": "https://444.hu/2026/06/28/umami-2-a-konyha-neha-tenyleg-csatater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Filozófiaszakról a fine diningba. Makai Edina, a SALT sous-séfje a csúcskonyhák brutális hangulatáról, katonás fegyelméről, René Redzepi és a Noma jelentőségéről."
-    },
-    {
-      "title": "Gyászol, de a holland válogatottal marad Cody Gakpo",
-      "link": "https://444.hu/2026/06/28/gyaszol-de-a-holland-valogatottal-marad-cody-gakpo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A holland válogatott támadó párja szombaton jelentette be, hogy elvesztették születendő gyermeküket."
     }
   ],
   "HVG": [
+    {
+      "title": "Hosszabbításban lőtt góllal jutott tovább az egyik házigazda a foci-vb-n",
+      "link": "https://hvg.hu/sport/20260628_kinkeserves-meccsen-jutott-tovabb-az-egyik-hazigazda-a-foci-vb-n",
+      "summary": "Ez volt első mérkőzés az egyenes kieséses szakaszban, Kanada csak kínkeserves meccsen tudta legyőzni a Dél-Afrikai Köztársaságot."
+    },
     {
       "title": "Több mint 12 milliárd forint közpénz jutott el alapítása óta az erdélyi médiabirodalomhoz",
       "link": "https://hvg.hu/elet/20260628_tobb-mint-12-milliard-forint-kozpenz-jutott-alapitasa-ota-az-erdelyi-mediabirodalomhoz",
@@ -224,11 +229,6 @@
       "title": "Putyin: A csatatéren nem tudnak legyőzni minket, a belső zűrzavar sem sikerül",
       "link": "https://hvg.hu/vilag/20260628_putyin-a-nyugat-nem-tudta-legyozni-oroszorszagot-a-csatateren",
       "summary": "Az orosz államfő szerint a kijevi rezsim mostanra nyíltan terrorista tevékenységhez folyamodik."
-    },
-    {
-      "title": "Péterfy Gergely a kelet-európai történelmi igazságtételről: „Örülj neki, paraszt, hogy egyáltalán kezdheted megint nulláról”",
-      "link": "https://hvg.hu/360/20260628_az-en-hetem-peterfy-gergely",
-      "summary": "Az én hetem című sorozatunkhoz négy írót kértünk fel, hogy öt kulcsszót felhasználva írjanak arról, miként élték meg az elmúlt hetet. Péterfy Gergelynek az év talán legforróbb napjaiban kellett helytállnia, hogy megihlessék az alábbi kifejezések: Tisztítótűz, ülésrend, szellemidézés, rekkenetes, hidrofeminizmus."
     }
   ],
   "BBC": [
@@ -236,6 +236,11 @@
       "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
       "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
       "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive."
+    },
+    {
+      "title": "Chris Mason: Burnham begins to sketch out vision but faces huge and imminent questions",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new MP for Makerfield will give what his team has called \"his first major leadership speech\" on Monday morning."
     },
     {
       "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
@@ -248,9 +253,9 @@
       "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said."
     },
     {
-      "title": "Senior Labour figures say party is united behind Andy Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/cn0vkle1q5ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Lucy Powell and Steve Reed say Labour MPs are backing a coronation of Burnham rather than a contest."
+      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
+      "summary": "Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury."
     },
     {
       "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
@@ -263,19 +268,14 @@
       "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew."
     },
     {
+      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+      "link": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says it will invest in modern drone-equipped vessels in the upcoming defence investment plan."
+    },
+    {
       "title": "Harry reconsiders bringing Meghan and children on UK trip",
       "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after his request for police protection was rejected days before the family is due to arrive."
-    },
-    {
-      "title": "Fourteen killed in Saudi Arabia helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated."
-    },
-    {
-      "title": "Cleverly says he would not have used Badenoch's Gestapo jibe",
-      "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Conservative leader has been criticised by Labour for making a Nazi comparison in relation to the education secretary."
     },
     {
       "title": "British man held in Ecuador after woman's body found in suitcase",
@@ -283,9 +283,19 @@
       "summary": "Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia."
     },
     {
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "link": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency."
+    },
+    {
       "title": "How Bellingham became Tuchel's most important player",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
       "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play."
+    },
+    {
+      "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg4v1wvwxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?"
     },
     {
       "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
@@ -293,22 +303,17 @@
       "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far."
     },
     {
-      "title": "World Cup knockouts are here - what is England's path to the final?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yz0zkzw39o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport takes a look at what England will need to do to reach the final after qualifying for the knockout stages."
-    },
-    {
       "title": "From Boston to Miami: How the Tartan Army lit up the World Cup",
       "link": "https://www.bbc.co.uk/news/articles/cq51qvewvn3o?at_medium=RSS&at_campaign=rss",
       "summary": "Scotland's return to the tournament after 28 years will be fondly remembered for the fans who travelled to the US"
-    },
-    {
-      "title": "Best team, moments, matches and players of the group stage",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce3e256752qo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the World Cup group stages come to an end, BBC Sport reporters pick their highlights so far."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "California law targeting loud streaming ads takes effect on July 1",
+      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
+      "summary": "Streaming ads might be getting a lot quieter."
+    },
     {
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
       "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
@@ -378,11 +383,6 @@
       "title": "Corgi, the buzzy Y Combinator-backed insurance tech startup, says it didn’t steal an open source product",
       "link": "https://techcrunch.com/2026/06/26/corgi-the-buzzy-y-combinator-backed-insurance-tech-startup-says-it-didnt-steal-an-open-source-product/",
       "summary": "Corgi became embroiled in  controversy when Papermark accused it of stealing its software. Corgi says it did not, raising new questions about vibe coding."
-    },
-    {
-      "title": "Novak Djokovic has a new job —  advisor to private equity firm General Atlantic",
-      "link": "https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/",
-      "summary": "General Atlantic has tapped tennis legend Novak Djokovic to serve as a global strategic advisor."
     }
   ],
   "Nature": [

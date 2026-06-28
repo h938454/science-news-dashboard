@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Tizenháromezerszeres határérték-túllépést mutattak ki a talajvízben a felfüggesztett Semcorp debreceni akkuipari üzeménél",
-      "summary": "A felfüggesztett debreceni Semcorp akkumulátorgyárnál a talajvízben a határérték tizenháromezerszeres túllépését észlelték. Ez súlyos környezeti kockázatot jelent a térségben, és azonnali beavatkozást igényel.",
+      "title": "Paks: a Duna túlmelegedése miatt kellett csökkenteni a reaktorok teljesítményét",
+      "summary": "A Duna vízének magas hőmérséklete miatt a paksi atomerőmű több reaktorának teljesítményét is csökkenteni kellett. Ez a tendencia várhatóan folytatódik, befolyásolva az ország energiaellátását és rávilágítva a klímaváltozás hatásaira.",
       "importance": 5
     },
     {
-      "title": "Már kétszer csökkenteni kellett Pakson a teljesítményt, hétfőn is ez várható, így csak „félgőzzel” megy majd az atomerőmű",
-      "summary": "A Duna túl magas hőmérséklete miatt a Paks I. atomerőműben már többször csökkenteni kellett a reaktorok teljesítményét, és a helyzet várhatóan hétfőn is fennmarad. Ez az energiaellátás stabilitására és a környezeti fenntarthatóságra is rávilágít.",
+      "title": "Debrecen: drámai talajvíz-szennyezés a Semcorp akkumulátorgyárnál",
+      "summary": "A felfüggesztett debreceni Semcorp akkumulátorgyárnál a talajvízben a határérték tizenháromezerszeres túllépését mutatták ki. Ez súlyos környezeti kockázatot jelent a régióra nézve, felhívva a figyelmet az ipari szennyezés veszélyeire.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter újabb figyelmeztetést küldött a Fideszhez köthető alapítványoknak",
-      "summary": "Magyar Péter felszólította a Fideszhez köthető közfeladatot ellátó vagyonkezelő alapítványok (KEKVA) kuratóriumait, hogy augusztus 31-ig ne hozzanak fontos döntéseket a vagyonról. Ez politikai feszültséget generál az alapítványok és a kormány között.",
+      "title": "Magyar Péter a Fideszhez köthető alapítványok vagyonkezelésére figyelmeztet",
+      "summary": "Magyar Péter felszólította a KEKVA kuratóriumait, hogy augusztus végéig ne hozzanak fontos döntéseket az általuk kezelt vagyonról. Ezzel a Fideszhez köthető alapítványok átláthatóságára és a közpénzek felhasználására kívánja felhívni a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Több mint 12 milliárd forint közpénz jutott el alapítása óta az erdélyi médiabirodalomhoz",
-      "summary": "Kiderült, hogy alapítása óta több mint 12 milliárd forint közpénzt kapott egy erdélyi médiabirodalom. Ez a közpénzek elköltésének átláthatóságával és a regionális médiafinanszírozással kapcsolatos kérdéseket vet fel.",
+      "title": "Vízkorlátozások országszerte a rekord meleg miatt",
+      "summary": "Az országos és fővárosi napi melegrekordok megdőlése miatt több magyar településen is vízkorlátozásokat vezettek be. Ez a jelenség Európa-szerte megfigyelhető, rávilágítva a klímaváltozás közvetlen hatásaira.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "WHO: Már több mint 1300-an haltak meg Európában a hőhullámmal összefüggésben",
-      "summary": "A WHO jelentése szerint már több mint 1300 haláleset írható a közelmúltbeli európai hőhullám számlájára. Ez rávilágít a klímaváltozás és az extrém időjárás halálos hatásaira a kontinensen.",
+      "title": "A WHO szerint már több mint 1300 halálos áldozata van az európai hőhullámnak",
+      "summary": "Az Egészségügyi Világszervezet (WHO) jelentése szerint Európában már több mint 1300 ember halt meg a tartós hőhullámmal összefüggésben. A szélsőséges időjárás komoly közegészségügyi válságot okoz a kontinensen.",
       "importance": 5
     },
     {
-      "title": "Irán és az Egyesült Államok fokozta a támadásokat, és eszkalációval fenyeget",
-      "summary": "Irán és az Egyesült Államok kölcsönösen vádolja egymást a tűzszünet megsértésével és a támadások fokozásával, ami eszkalációval fenyeget a térségben. A geopolitikai feszültség tovább nő, veszélyeztetve az ideiglenes békemegállapodást.",
-      "importance": 5
-    },
-    {
-      "title": "Putyin: A csatatéren nem tudnak legyőzni minket, a belső zűrzavar sem sikerül",
-      "summary": "Vlagyimir Putyin szerint Oroszország nehéz időket él át, de a csatatéren nem tudják legyőzni őket, és a belső zűrzavar sem fog sikerülni. A kijelentés az orosz politikai és katonai helyzetre vonatkozó állásfoglalás.",
+      "title": "Két kisfiút mentettek ki élve a venezuelai földrengés romjai alól",
+      "summary": "Napokkal a venezuelai földrengés után két kisfiút is élve emeltek ki a romok alól, akik hosszú napokat töltöttek csapdában. A mentési munkálatok hősiessége reményt ad a túlélésre a katasztrófa után.",
       "importance": 4
     },
     {
-      "title": "Két kisfiút mentettek ki a venezuelai földrengés romjai alól, miután napokig csapdában voltak",
-      "summary": "Napokkal a pusztító venezuelai földrengés után két kisfiút mentettek ki élve a romok alól. A mentőakció a katasztrófa sújtotta övezetben az életben maradás reményét erősíti.",
+      "title": "Amerikai-iráni eszkaláció fenyeget: felerősödtek a támadások",
+      "summary": "Irán és az Egyesült Államok fokozta a kölcsönös támadásokat, ami az ideiglenes békemegállapodás felbomlásával és eszkalációval fenyeget. A térségben növekszik a feszültség, komoly geopolitikai kockázatot jelentve.",
+      "importance": 5
+    },
+    {
+      "title": "Putyin szerint Oroszország nehéz időkön megy keresztül, de képes kezelni a problémákat",
+      "summary": "Vlagyimir Putyin orosz elnök elismerte, hogy Oroszország nehéz időket él át, de hangsúlyozta, hogy az ország képes reagálni a felmerülő problémákra. Kijelentette, hogy sem a csatatéren, sem belső zűrzavarral nem tudják legyőzni őket.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "A Ford visszaveszi tapasztalt, nyugdíjazott mérnökeit, miután a mesterséges intelligencia nem váltotta be a hozzá fűzött reményeket bizonyos feladatoknál. Ez rávilágít az emberi szakértelem továbbra is kulcsfontosságú szerepére, ahol az AI még nem helyettesíthet minden feladatot.",
+      "title": "A Ford visszahívja tapasztalt mérnökeit, miután a mesterséges intelligencia nem váltotta be a reményeket",
+      "summary": "A Ford autógyár visszahívja nyugdíjazott, tapasztalt mérnökeit, miután a mesterséges intelligencia alapú megoldások nem hozták a várt eredményeket. Ez rávilágít az AI korlátaira és az emberi szakértelem továbbra is kulcsfontosságú szerepére az iparban.",
       "importance": 5
     },
     {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Az Apple Vision Pro egyik vezető beosztású munkatársa állítólag az OpenAI-hoz távozik, ami rávilágít a tehetségek mozgására a technológiai óriások és az AI startupok között. Ez az MI iparág növekvő vonzerejét és a technológiai tehetségek áramlását mutatja.",
+      "title": "A haditengerészet drónokkal felszerelt hadihajókat épít a régi rombolók helyett",
+      "summary": "A haditengerészet a jövőben drónokkal felszerelt hadihajókat fog építeni, ahelyett, hogy lecserélné elöregedő rombolóit. Ez a lépés jelentős változást jelez a modern hadviselés technológiájában és stratégiájában, növelve a haderő hatékonyságát.",
       "importance": 4
     },
     {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "A Wall Street szerint a Micron, az amerikai memóriagyártó lehet a következő Nvidia, ami a mesterséges intelligencia robbanásszerű növekedésének hatására a félvezetőiparban várható fellendülésre utal. Ez jelentős befektetési trendet és az MI-hez kapcsolódó technológiák iránti fokozott érdeklődést jelez.",
+      "title": "Az Apple Vision Pro egyik vezetője az OpenAI-hoz távozik",
+      "summary": "Az Apple Vision Pro fejlesztéséért felelős egyik vezető beosztású munkatárs állítólag az OpenAI-hoz igazol. Ez a lépés rávilágít a mesterséges intelligencia területének növekvő vonzerejére és a tehetségek mozgására a tech-óriások között.",
       "importance": 4
     },
     {
-      "title": "Az embert szolgálja az AI, véletlenül se fordítva: Bécs digitális humanizmus központot nyit",
-      "summary": "Bécs Digitális Humanizmus Központot nyit, hangsúlyozva, hogy a mesterséges intelligenciának az embert kell szolgálnia, nem fordítva. A kezdeményezés az AI etikai és társadalmi felelősségvállalásának kérdéseire keres válaszokat.",
+      "title": "Bécs digitális humanizmus központot nyit a mesterséges intelligencia etikus fejlődéséért",
+      "summary": "Bécs digitális humanizmus központot nyit azzal a céllal, hogy a mesterséges intelligencia az embert szolgálja, és ne fordítva. Ez a kezdeményezés az AI etikus és felelős fejlesztésére hívja fel a figyelmet, egyre nagyobb hangsúlyt fektetve a társadalmi hatásokra.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
-      "summary": "A CRISPR génszerkesztési technológia új fázisba lép, vállalatok kezdenek az epigenom szerkesztésével foglalkozni betegségek kezelésére. Ez forradalmasíthatja az orvostudományt és a betegségek kezelésének módszereit.",
+      "title": "CRISPR: az epigenom szerkesztése betegségek kezelésére",
+      "summary": "A CRISPR technológia következő nagy lépése az epigenom szerkesztése, amivel új utakat nyithatnak a betegségek kezelésében. Ez az áttörés forradalmasíthatja a génterápiát és a személyre szabott orvoslást.",
       "importance": 5
     },
     {
-      "title": "Europe’s record heatwave: does the continent have a new climate?",
-      "summary": "Európa példátlan hőhullámokkal küzd, felvetve a kérdést, hogy a kontinens éghajlata véglegesen megváltozott-e. A tudósok sürgősen vizsgálják az éghajlatváltozás hosszú távú hatásait és a jelenség mértékét.",
+      "title": "Európa rekord hőhulláma: új klímába léptünk?",
+      "summary": "Európa rekordokat döntő hőhulláma felveti a kérdést, hogy a kontinens új klímába lépett-e. A tudósok vizsgálják a jelenség hosszú távú következményeit és az éghajlatváltozással való közvetlen kapcsolatát.",
       "importance": 5
     },
     {
-      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
-      "summary": "Kutatók felfedezték, hogy az emberek és a nagy majmok hasonló ritmusban kuncognak, ha megcsiklandozzák őket. Ez betekintést nyújt a beszéd evolúciójába, feltárva az emberi és főemlős kommunikáció közös ősi gyökereit.",
+      "title": "Ember és emberszabású majmok: azonos ritmusban kuncogunk",
+      "summary": "Kutatók felfedezték, hogy az ember és az emberszabású majmok hasonló ritmusban kuncognak, ha csiklandozzák őket. Ez a jelentős felfedezés segíthet megérteni a beszéd evolúcióját és az érzelmi kifejezések gyökereit.",
       "importance": 4
     },
     {
-      "title": "US funding uncertainties threaten to sink key global oceanography projects",
-      "summary": "Az amerikai finanszírozási bizonytalanságok kulcsfontosságú globális oceanográfiai projekteket fenyegetnek. Ez a tudományos kutatásra és a globális klímaváltozás megértésére is súlyos negatív hatással lehet.",
+      "title": "Az amerikai finanszírozási bizonytalanság veszélyezteti a kulcsfontosságú óceánkutatási projekteket",
+      "summary": "Az Egyesült Államok finanszírozási bizonytalanságai globális jelentőségű óceánkutatási projektek leállását fenyegetik. Ez komoly akadályt jelenthet az éghajlatváltozás és az óceánok egészségének megértésében, hosszú távú következményekkel.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Lemondott a dél-koreai válogatott sokat támadott szövetségi kapitánya",
-      "summary": "A dél-koreai labdarúgó-válogatott sokat támadott szövetségi kapitánya lemondott a csapat világbajnokságbeli kiesése után. Az eset miatt az elnök kormányzati vizsgálatot követel, ami rávilágít a sportpolitika érzékenységére.",
+      "title": "Kanada drámai végjátékban jutott tovább a foci-vb nyolcaddöntőjébe",
+      "summary": "Kanada egy késői góllal, a 92. percben harcolta ki a továbbjutást a labdarúgó-világbajnokság nyolcaddöntőjébe. A hazai csapat drámai küzdelemben győzte le ellenfelét, óriási örömet okozva szurkolóinak.",
       "importance": 5
     },
     {
-      "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
-      "summary": "Ben Stokes, az angol krikettválogatott kapitánya bejelentette visszavonulását a nemzetközi krikettől, mondván, ez a legjobb dolog számára. Döntése jelentős visszhangot váltott ki a krikettvilágban és a sportközösségben.",
+      "title": "Ben Stokes, az angol krikettkapitány visszavonul a nemzetközi krikettől",
+      "summary": "Ben Stokes, az angol krikettválogatott kapitánya bejelentette visszavonulását a nemzetközi krikettől, mondván, ez a \"legjobb dolog\" számára. Döntése komoly visszhangot váltott ki a sportágban, mivel Stokes kulcsfigurája volt a csapatnak.",
       "importance": 4
     },
     {
-      "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
-      "summary": "A FIFA elnökének sűrű utazási rendje, amely a világbajnokság alatt 27 repülőutat és 24 meccset foglalt magába, jelentős szén-dioxid-kibocsátással járt. Ez a sportesemények környezeti lábnyomára és a fenntarthatósági kérdésekre hívja fel a figyelmet.",
+      "title": "Emma Raducanu stressztörés miatt visszalépett Wimbledonból",
+      "summary": "Emma Raducanu, a teniszező stressztörés miatt kénytelen volt visszalépni a wimbledoni teniszbajnokságtól. A sérülés komoly érvágás a fiatal sportoló számára a Grand Slam tornán, ami befolyásolhatja további karrierjét.",
       "importance": 4
     },
     {
-      "title": "World Cup knockouts are here - what is England's path to the final?",
-      "summary": "Elérkeztek a világbajnokság egyenes kieséses szakaszai, a szurkolók Angliának a döntőig vezető útját elemzik. A foci-vb a csúcspontjához közeledik, izgalmas és sorsdöntő mérkőzések várhatók a végső győzelemért.",
+      "title": "A német fociválogatott kudarcai és a növekvő türelmetlenség",
+      "summary": "A nagy tervekkel induló német labdarúgó-válogatott \"csúnya sebeket\" szerzett a tornán, és a szurkolók egyre türelmetlenebbek. A csapat mélyponton van, ami komoly kritikákat vált ki a szakértők és a közvélemény részéről.",
       "importance": 4
     }
   ]

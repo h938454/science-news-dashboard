@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Rekordhőség és tűzesetek az országban",
-      "summary": "Magyarországon sorra dőlnek meg a melegrekordok, a Balaton és a Velencei-tó vize is szauna hőmérsékletűre melegedett. A hőség miatt országszerte több tarlótűz is keletkezett, két kombájn is kigyulladt a perzselő napon.",
+      "title": "A talajvízből kerülhetett azóta elillant alkilbenzol a BYD építkezéséről elszállított termőföldbe",
+      "summary": "A BYD építkezéséről elszállított termőföldben mutattak ki szennyezést alkilbenzollal, ami a talajvízből származhatott. A környezetvédelmi hatóság vizsgálja az esetet, mely aggodalmat kelt a beruházás környezeti hatásai miatt.",
       "importance": 5
     },
     {
       "title": "Új elnöke van a Momentumnak",
-      "summary": "A Momentum párt új elnököt választott, melyről a Telex és a HVG is beszámolt. A korábbi zuglói polgármester, Horváth Csaba már nem tölti be ezt a tisztséget.",
+      "summary": "Új elnököt választott a Momentum, ami fontos változást jelent a párt vezetésében és jövőbeli stratégiájában. Az új vezető feladata lesz a párt megerősítése és a politikai célok hatékonyabb képviselete.",
       "importance": 4
     },
     {
-      "title": "Folyamatban az Alaptörvény-módosítás értékelése",
-      "summary": "Lezárult az egyeztetési folyamat az Alaptörvény tervezett módosításairól, a kormány jelenleg értékeli az érkezett észrevételeket. Ez fontos lépés az ország jogi kereteinek frissítésében.",
+      "title": "Megdőlt a napi melegrekord, vízkorlátozás Pátyon, szenved egész Európa",
+      "summary": "Az országos és fővárosi melegrekordok is megdőltek, miközben Pátyon már vízkorlátozást kellett bevezetni a rendkívüli hőség miatt. A hőhullám egész Európát sújtja, komoly kihívásokat jelentve a lakosságnak és a mezőgazdaságnak.",
       "importance": 4
     },
     {
-      "title": "Halálos autóbaleset Bükkábránynál",
-      "summary": "Öten vesztették életüket egy súlyos autóbalesetben Bükkábránynál, köztük három gyermek is. A tragédia az ország egyik legsúlyosabb közúti eseménye volt a közelmúltban.",
+      "title": "Hegedűs Zsolt arra kéri a lakosságot, hogy a sürgősségi osztályokat valóban csak indokolt, halaszthatatlan esetben keressék fel",
+      "summary": "Hegedűs Zsolt orvos arra kérte a lakosságot, hogy csak súlyos, halaszthatatlan esetekben vegyék igénybe a sürgősségi osztályokat. A kérés a kórházak túlterheltségére és a rendszer fenntarthatósági problémáira hívja fel a figyelmet.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Ukrán dróntámadás orosz olajfinomítók ellen",
-      "summary": "Újabb orosz olajfinomítókat értek „masszív ukrán dróntámadások”, ami a háború eszkalálódására utalhat. A támadások a két ország közötti feszültséget tovább növelik, és komoly gazdasági hatásokkal járhatnak.",
+      "title": "Irán és az Egyesült Államok fokozta a támadásokat, és eszkalációval fenyeget",
+      "summary": "Irán és az Egyesült Államok kölcsönösen növelték a katonai akciókat, és eszkalációval fenyegetik egymást a térségben. A feszültség a tűzszünet megsértése és az ellentétes érdekek miatt folyamatosan nő, destabilizálva a régiót.",
       "importance": 5
     },
     {
-      "title": "Fokozódik a feszültség Irán és az Egyesült Államok között",
-      "summary": "Irán és az Egyesült Államok kölcsönösen fokozta a támadásokat, ami eszkalációval fenyeget a térségben. A helyzet destabilizálódása komoly aggodalmakra ad okot a nemzetközi közösségben.",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "summary": "Az Egészségügyi Világszervezet (WHO) szerint az európai hőhullám már 1300 ember halálával hozható összefüggésbe, miközben Németországban rekord 41,7 fokos hőséget mértek. A kontinens egészségügyi rendszereire és lakosságára rendkívüli terhet ró a tartós kánikula.",
+      "importance": 5
+    },
+    {
+      "title": "Két kisfiút mentettek ki a venezuelai földrengés romjai alól, miután napokig csapdában voltak",
+      "summary": "Két kisfiút mentettek ki élve a venezuelai földrengés romjai alól, napokkal azután, hogy csapdába estek. A sikeres mentőakció reményt ad a túlélők utáni kutatásban.",
       "importance": 4
     },
     {
-      "title": "Hőség és halálesetek Franciaországban, viharok pusztítanak",
-      "summary": "Franciaországban ezerrel több haláleset történt a rendkívüli hőség miatt, amit pusztító viharok követtek. A szélsőséges időjárás komoly kihívások elé állítja a régiót és a lakosságot.",
+      "title": "Putyin: A csatatéren nem tudnak legyőzni minket, a belső zűrzavar sem sikerül",
+      "summary": "Vlagyimir Putyin orosz elnök kijelentette, hogy Oroszországot nem lehet legyőzni a csatatéren, és a belső zűrzavar keltésére tett kísérletek is kudarcot vallanak. A nyilatkozat az Ukrajnában zajló háborúra és az ország stabilitására vonatkozó orosz álláspontot tükrözi.",
       "importance": 4
-    },
-    {
-      "title": "Két fiút mentettek ki venezuelai földrengés törmelékei alól",
-      "summary": "Napokkal a venezuelai földrengés után két fiút sikerült élve kimenteni a romok alól, reményt adva a mentőcsapatoknak. A mentési munkálatok a helyszínen folyamatosan zajlanak a túlélők felkutatásáért.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI saját chipeket fejleszt, GPT-5.6 korlátozás a kormány kérésére",
-      "summary": "Az OpenAI, a SpaceX és más techóriások is saját chipek fejlesztésébe kezdtek, fokozva a versenyt az Nvidia-val szemben. Eközben az OpenAI a GPT-5.6 bevezetését is korlátozni kényszerült egy kormányzati kérésre.",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "Az OpenAI kormányzati kérésre korlátozta a GPT-5.6 modell bevezetését, ugyanakkor hangsúlyozta, hogy az ilyen megszorítások nem válhatnak normává. Ez az eset rávilágít az AI fejlesztése és szabályozása körüli egyre növekvő feszültségre.",
       "importance": 5
     },
     {
-      "title": "Az AI kulcsszerepe a digitális fizetések jövőjében",
-      "summary": "Az indiai fizetési rendszerek vezetője szerint a mesterséges intelligencia (AI) meghatározó szerepet fog játszani a digitális fizetések következő korszakában. Az AI alapú megoldások forradalmasíthatják a pénzügyi tranzakciókat és szolgáltatásokat.",
+      "title": "Másodszor is befürdött a Valve a minipécéjével, és ezt most a mesterséges intelligenciának lehet megköszönni",
+      "summary": "A Valve minipécéje másodszor is kudarccal szembesült, amiért a mesterséges intelligencia robbanásszerű fejlődése okolható. Az AI által hajtott új technológiák gyorsan elavulttá tehetik a hagyományos hardvermegoldásokat.",
       "importance": 4
     },
     {
-      "title": "Kína LineShine szuperkomputere az élen",
-      "summary": "Kína LineShine nevű szuperkomputere áll a globális ranglista élén, ezzel demonstrálva az ország növekvő technológiai erejét. Ez jelentős fejlemény a szuperkomputerek fejlesztésében és a digitális versenyben.",
+      "title": "Egyre többen fizetik meg az árát, hogy felzabálják a memóriát az adatközpontok",
+      "summary": "Az adatközpontok egyre növekvő memóriaigénye jelentős költségnövekedést okoz a vállalatoknak. A mesterséges intelligencia és a nagy adatmennyiségek kezelése miatt a memóriapiac hatalmas nyomás alatt áll.",
       "importance": 4
     },
     {
-      "title": "Kulcsvezető távozik az Apple Vision Pro csapatából az OpenAI-hoz",
-      "summary": "Az Apple Vision Pro projektjének egyik kulcsfontosságú vezetője állítólag távozik a cégtől, hogy az OpenAI-hoz csatlakozzon. Ez a jelentős tehetségmozgás rávilágít a mesterséges intelligencia területének vonzerejére.",
+      "title": "Ahol vödörben készül a háztáji kvantumcsip és egy atom vastagságú a palacsinta",
+      "summary": "Kutatók bemutatták, hogyan lehet \"háztáji\" körülmények között, viszonylag egyszerű eszközökkel kvantumcsipeket készíteni. Ez a fejlesztés új perspektívákat nyit a kvantumtechnológia szélesebb körű hozzáférhetősége felé.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A CRISPR következő lépése: epigenom szerkesztés betegségek kezelésére",
-      "summary": "A CRISPR technológia új fejezetet nyit az epigenom szerkesztésével, ami reményt ad a betegségek kezelésére. Vállalatok dolgoznak azon, hogy ezt a módszert terápiás célokra is alkalmazzák.",
+      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
+      "summary": "A CRISPR technológia új fejezetéhez érkezett: vállalatok dolgoznak az epigenom szerkesztésén a betegségek kezelésére. Ez a megközelítés forradalmasíthatja a genetikai alapú terápiákat, új reményt adva gyógyíthatatlan betegségekben szenvedőknek.",
       "importance": 5
     },
     {
-      "title": "A csimpánz nevetés és a beszéd evolúciója",
-      "summary": "A csimpánzok csiklandozására adott válaszok, mint a nevetés, betekintést engednek a beszéd evolúciójába. Az emberek és a főemlősök hasonló ritmusban nevetnek, ami közös gyökerekre utalhat a kommunikációban.",
+      "title": "Europe’s record heatwave: does the continent have a new climate?",
+      "summary": "Európa rekordokat döntő hőhulláma felveti a kérdést, hogy a kontinens új klímába lépett-e. A kutatók vizsgálják az extrém időjárási események gyakoriságának növekedését és azok éghajlatváltozással való összefüggéseit.",
+      "importance": 5
+    },
+    {
+      "title": "Mi közünk nekünk az óceánok savasodásához, miközben lehet, hogy még tengert sem fogunk látni soha?",
+      "summary": "Az óceánok savasodása globális környezeti probléma, amely a tengeri élővilágra és az ökoszisztémákra is súlyos hatással van. Bár Magyarország tengerparttal nem rendelkezik, az éghajlatváltozás ezen aspektusa is hatással lehet ránk a globális összefüggések miatt.",
       "importance": 4
     },
     {
-      "title": "A NANOG gén alapvető szerepe az emberi embrionális fejlődésben",
-      "summary": "A bázisszerkesztési technológia felfedte a NANOG gén kulcsfontosságú szerepét az emberi embrionális fejlődésben. Ez a felfedezés alapvető ismeretekkel szolgál a korai emberi fejlődés megértéséhez és a meddőség kutatásához.",
-      "importance": 4
-    },
-    {
-      "title": "Politikai szűrő veszélyezteti az amerikai tudományos kutatásokat",
-      "summary": "Új politikai ellenőrzési folyamatok akasztják meg az amerikai NIH kutatási támogatásait, és bizonytalanság veszélyezteti az óceánkutatási projekteket. Ez akadályozhatja a tudományos fejlődést és a globális együttműködéseket.",
+      "title": "Briefing Chat: What tickling a chimpanzee can tell us about the evolution of speech",
+      "summary": "Csimpánzok csiklandozása révén szerzett új ismeretek segíthetnek megérteni az emberi beszéd fejlődését. A kutatás az emberszabású majmok és az emberek közötti kommunikációs minták hasonlóságait vizsgálja.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Elindult a Foci VB kieséses szakasza",
-      "summary": "Elérkezett a labdarúgó-világbajnokság kieséses szakasza, ahol a csapatok a döntőbe jutásért küzdenek. Izgalmas párosítások és meglepetések várhatók a mérkőzéseken.",
+      "title": "Fantasztikus csaták az Osztrák Nagydíjon, Russell hibátlan versenyzéssel nyert",
+      "summary": "George Russell hibátlan versenyzéssel nyerte meg a rendkívül izgalmas Osztrák Nagydíjat a Forma-1-ben. A futam fantasztikus csatákat és fordulatokat hozott, amelyek végén Russell állhatott a dobogó legfelső fokára.",
       "importance": 5
     },
     {
-      "title": "Russell hibátlan versennyel nyerte az Osztrák Nagydíjat",
-      "summary": "George Russell hibátlan teljesítménnyel, fantasztikus csaták után nyerte meg az Osztrák Nagydíjat. Ez a győzelem fontos mérföldkő a Forma-1 szezonjában és Russell karrierjében.",
+      "title": "Úgy tűnik, Valter Attila idén sem megy a Tour de France-ra",
+      "summary": "Valter Attila, a magyar kerékpársport egyik legkiemelkedőbb alakja, úgy tűnik, idén sem áll rajthoz a Tour de France-on. Ez csalódást jelenthet a rajongóknak, akik régóta várják, hogy a magyar versenyző részt vegyen a világ legrangosabb kerékpárversenyén.",
       "importance": 4
     },
     {
-      "title": "Valter Attila idén sem indul a Tour de France-on",
-      "summary": "A hírek szerint Valter Attila magyar kerékpáros idén sem vesz részt a Tour de France-on, ami csalódás lehet a hazai sportrajongók számára. Ennek oka egyelőre nem tisztázott.",
-      "importance": 3
+      "title": "10 afrikai válogatottból 9 túlélte a csoportkört, Ázsia eddig leszerepelt",
+      "summary": "A labdarúgó-világbajnokság csoportkörében az afrikai csapatok rendkívül jól teljesítettek, tízből kilenc továbbjutott, míg az ázsiai válogatottak eddig leszerepeltek. Ez az elemzés rávilágít a különböző kontinensek futballjának aktuális erejére.",
+      "importance": 4
     },
     {
-      "title": "Afrikai sikerek, ázsiai csalódások a Foci VB csoportkörben",
-      "summary": "Az afrikai válogatottak kiválóan teljesítettek a labdarúgó-világbajnokság csoportkörében, tízből kilenc csapat továbbjutott. Ezzel szemben az ázsiai csapatok eddig alulmúlták a várakozásokat.",
+      "title": "Az angol szuperszámítógép szerint Franciaország a vb toronymagas esélyese",
+      "summary": "Egy angol szuperszámítógép előrejelzése szerint Franciaország a labdarúgó-világbajnokság toronymagas esélyese. Ez a technológiai alapú elemzés segíthet jobban megérteni a csapatok esélyeit a tornán.",
       "importance": 3
     }
   ]

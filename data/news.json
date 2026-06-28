@@ -1,14 +1,34 @@
 {
   "Telex": [
     {
+      "title": "WHO: Már több mint 1300-an haltak meg Európában a hőhullámmal összefüggésben",
+      "link": "https://telex.hu/kulfold/2026/06/28/who-hohullam-hoseg-europa-halalos-aldozatok",
+      "summary": "A WHO vezetője szerint Európa különösen veszélyeztetett, mivel a kontinens az egyik leggyorsabban melegedő régió a világon és kétszer olyan gyorsan emelkedik a hőmérséklet, mint a globális átlag."
+    },
+    {
+      "title": "Napokkal a venezuelai földrengés után élve mentettek ki egy csecsemőt a romok alól",
+      "link": "https://telex.hu/kulfold/2026/06/28/venezuela-foldrenges-mentes-eletmentes-kisbaba",
+      "summary": "Az első földrengés óta már több mint 90 óra telt el, de a mentők nem adják fel."
+    },
+    {
+      "title": "„Szörnyűek a kilátásaink” – néhány ezer forintnyi nyugdíjból, sokszor víz és gáz nélkül próbálnak túlélni",
+      "link": "https://telex.hu/kulfold/2026/06/28/kuba-blokad-uzemanyaghiany-ellatasi-problemak-idosebb-generacio-egyesult-allamok-nagykep-reuters",
+      "summary": "Az elmúlt hónapokban különösen súlyos válságban kell boldogulniuk a kubaiaknak, de közöttük is kirívó az idősek helyzete. Az USA addig szorongatta szankcióival a kommunista országot, hogy már az elnök sem tudja tovább tagadni a valóságot. Egy kilátástalanságában magára hagyott generáció mindennapjait mutatja be a Reuters képsorozata."
+    },
+    {
+      "title": "Lemondott a dél-koreai válogatott sokat támadott szövetségi kapitánya",
+      "link": "https://telex.hu/sport/2026/06/28/foci-vb-2026-del-korea-szovetsegi-kapitany-lemondas",
+      "summary": "Hong Mjongbo azt mondta, minden felelősséget magára vállal a sikertelen világbajnoki szereplésért."
+    },
+    {
       "title": "Túl meleg a Duna, szombaton és vasárnap is vissza kellett venni a paksi reaktorok teljesítményét",
       "link": "https://telex.hu/belfold/2026/06/28/kormany-tajekozato-kanikula-paks-mav-korhazak-kozszolgaltatasok",
       "summary": "A kormány szerint az előrejelezhető terhelési adatok alapján az energiaellátás így is biztosítható."
     },
     {
-      "title": "Dél-afrikai Köztársaság–Kanada 0-0",
+      "title": "Dél-afrikai Köztársaság–Kanada 0-1",
       "link": "https://telex.hu/sport/2026/06/28/del-afrikai-koztarsasag-kanada-vb-kozvetites",
-      "summary": ""
+      "summary": "A nagy tét miatt óvatos volt mindkét csapat. Kanada ébredt előbb, és a 92. percben Eustáquio góljával megnyerték a mérkőzést."
     },
     {
       "title": "Tizenháromezerszeres határérték-túllépést mutattak ki a talajvízben a felfüggesztett Semcorp debreceni akkuipari üzeménél",
@@ -54,26 +74,6 @@
       "title": "Megint egymást támadja Irán és az USA, miközben a tűzszünet megsértésével vádolják a másikat",
       "link": "https://telex.hu/kulfold/2026/06/28/iran-egyesult-allamok-eszkalacio-fenyegetozes-bekekotes",
       "summary": "Trump szerint eljöhet az a pont, amikor már nem tudnak tovább ésszerűen viselkedni."
-    },
-    {
-      "title": "Lezuhant a világ ötödik legértékesebb vállalatának helikoptere Szaúd-Arábiában, 14-en meghaltak",
-      "link": "https://telex.hu/kulfold/2026/06/28/aramco-helikopter-lezuhant-szaud-arabia-olaj-aldozatok-helikopterbaleset",
-      "summary": "Az olajvállalat helikopterén 14-en utaztak, a balesetet egyikük sem élte túl."
-    },
-    {
-      "title": "Mi közünk nekünk az óceánok savasodásához, miközben lehet, hogy még tengert sem fogunk látni soha?",
-      "link": "https://telex.hu/techtud/2026/06/28/balastya-motivacio-tanoda-klimatudatos-neveles-permakultura-oktatas-riport",
-      "summary": "„Sok tanyasi gyerekünk van, akik három éve beszéltek először arról, hogy otthon kifogyott a kútból a víz, és ez megrémítette őket. Látják azt is, miként ég ki minden itt az Alföldön” – mesélték a balástyai Motiváció Tanoda mentorai, akik emiatt kezdték el a klímaváltozást és a permakultúrás szemléletet tanítani a hozzájuk járó hátrányos helyzetű gyerekeknek."
-    },
-    {
-      "title": "A talajvízből kerülhetett az azóta elillant alkilbenzol a BYD építkezéséről elszállított termőföldbe",
-      "link": "https://telex.hu/belfold/2026/06/28/byd-szennyezett-fold-alkilbenzol-karterites",
-      "summary": "A gazdákat senki sem tájékoztatta, hogyan kellene megsemmisíteniük a terményeket, ráadásul volt, aki előre eladta a gabonát, amit most ki kell dobni."
-    },
-    {
-      "title": "Egyre többen fizetik meg az árát, hogy felzabálják a memóriát az adatközpontok",
-      "link": "https://telex.hu/g7/vallalat/2026/06/28/chiphiany-ai-mesterseges-intelligencia-inflacio-apple-microsoft-adatkozpont",
-      "summary": "Az Apple és a Microsoft is áremeléssel reagált a mesterséges intelligencia miatt kialakult chiphiányra, aminek hatásai sokáig velünk lehetnek."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,21 @@
   ],
   "HVG": [
     {
+      "title": "Több mint 12 milliárd forint közpénz jutott el alapítása óta az erdélyi médiabirodalomhoz",
+      "link": "https://hvg.hu/elet/20260628_tobb-mint-12-milliard-forint-kozpenz-jutott-alapitasa-ota-az-erdelyi-mediabirodalomhoz",
+      "summary": "A juttatások nagy részét titkolt határozatokban osztotta ki."
+    },
+    {
+      "title": "Már kétszer csökkenteni kellett Pakson a teljesítményt, hétfőn is ez várható, így csak „félgőzzel” megy majd az atomerőmű",
+      "link": "https://hvg.hu/elet/20260628_mar-ketszer-csokkenteni-kellett-pakson-a-teljesitmenyt-hetfon-is-ez-varhato-igy-csak-felgozzel-megy-majd-az-atomeromu",
+      "summary": "A teljesítménycsökkentést a szabályok szerint a Duna, mint hűtővíz magas hőmérséklete miatt kell elrendelni."
+    },
+    {
+      "title": "Három ember fulladt a Dunába egyetlen délután alatt",
+      "link": "https://hvg.hu/itthon/20260628_harom-ember-fulladt-a-dunaba-egyetlen-delutan-alatt",
+      "summary": "A rendőrség azt kéri, csak a kijelölt fürdőhelyeknél menjen bárki a vízbe."
+    },
+    {
       "title": "Az amerikai–iráni támadások veszélyeztetik az ideiglenes békemegállapodást",
       "link": "https://hvg.hu/vilag/20260628_az-amerikai-irani-tamadasok-veszelyeztetik-az-ideiglenes-bekemegallapodast",
       "summary": "Az egyre hevesebbé váló támadások újabb hulláma folytatódik."
@@ -214,21 +229,6 @@
       "title": "Péterfy Gergely a kelet-európai történelmi igazságtételről: „Örülj neki, paraszt, hogy egyáltalán kezdheted megint nulláról”",
       "link": "https://hvg.hu/360/20260628_az-en-hetem-peterfy-gergely",
       "summary": "Az én hetem című sorozatunkhoz négy írót kértünk fel, hogy öt kulcsszót felhasználva írjanak arról, miként élték meg az elmúlt hetet. Péterfy Gergelynek az év talán legforróbb napjaiban kellett helytállnia, hogy megihlessék az alábbi kifejezések: Tisztítótűz, ülésrend, szellemidézés, rekkenetes, hidrofeminizmus."
-    },
-    {
-      "title": "Kihúzták a hatos lottó számait, volt telitalálat is",
-      "link": "https://hvg.hu/elet/20260628_kihuztak-a-hatos-lottot-volt-telitalalat-is",
-      "summary": "Nem is csak egy."
-    },
-    {
-      "title": "Russell nem hibázott és megnyerte az Osztrák Nagydíjat",
-      "link": "https://hvg.hu/cegauto/20260628_russell-nem-hibazott-es-megnyerte-az-osztrak-nagydijat",
-      "summary": "Harmadik lett a csapattárs és listavezető Antonelli."
-    },
-    {
-      "title": "A konyha királyától a csokis Mesesajtig, lehetetlen ízesítőktől a mágikus gombákig: könyvajánló kánikulára",
-      "link": "https://hvg.hu/360/20260628_7-tipp-konyvek-bocuse-small-plate-otvos-zsuzsanna-gasztroregesz-noma-taschen",
-      "summary": "A szocializmus utasellátóinak konyhája, a korszak ikonikus éttermei, élelmiszerei, elegáns vegán desszertek, a francia gasztronómia legnagyobb alakjának regényes élete, skandináv kondimentek, a hentesmesterség magyar bibliájának újranyomása – 7 tipp a HVG-től gasztrotémájú könyvekkel."
     }
   ],
   "BBC": [
@@ -258,6 +258,11 @@
       "summary": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients."
     },
     {
+      "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew."
+    },
+    {
       "title": "Harry reconsiders bringing Meghan and children on UK trip",
       "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after his request for police protection was rejected days before the family is due to arrive."
@@ -271,11 +276,6 @@
       "title": "Cleverly says he would not have used Badenoch's Gestapo jibe",
       "link": "https://www.bbc.co.uk/news/articles/cq81d8k5z1qo?at_medium=RSS&at_campaign=rss",
       "summary": "The Conservative leader has been criticised by Labour for making a Nazi comparison in relation to the education secretary."
-    },
-    {
-      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
-      "link": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
-      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures."
     },
     {
       "title": "British man held in Ecuador after woman's body found in suitcase",
@@ -315,7 +315,7 @@
       "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
     },
     {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from dematerialization",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
       "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
       "summary": "Has Silicon Valley been building the wrong things?"
     },

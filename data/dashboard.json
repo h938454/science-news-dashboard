@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Túl meleg a Duna, szombaton és vasárnap is vissza kellett venni a paksi reaktorok teljesítményét",
-      "summary": "A Duna túlságosan felmelegedett, ami miatt a paksi atomerőmű blokkjainak teljesítményét csökkenteni kellett a hűtés biztosítása érdekében. Ez az intézkedés az atomreaktorok biztonságos működéséhez szükséges folyóvíz hőmérsékleti határértéke miatt vált szükségessé.",
-      "importance": 5
-    },
-    {
       "title": "Tizenháromezerszeres határérték-túllépést mutattak ki a talajvízben a felfüggesztett Semcorp debreceni akkuipari üzeménél",
-      "summary": "A debreceni Semcorp akkumulátorgyár felfüggesztett beruházásánál a talajvízben az alkilbenzol vegyületből 13 000-szeres határérték-túllépést mértek. A környezeti szennyezés súlyos aggodalmakat vet fel az üzem jövőjével és a környezetvédelmi előírások betartásával kapcsolatban.",
+      "summary": "A felfüggesztett debreceni Semcorp akkumulátorgyárnál a talajvízben a határérték tizenháromezerszeres túllépését észlelték. Ez súlyos környezeti kockázatot jelent a térségben, és azonnali beavatkozást igényel.",
       "importance": 5
     },
     {
-      "title": "Megdőlt a napi melegrekord, vízkorlátozás Pátyon, szenved egész Európa",
-      "summary": "Az országos és fővárosi napi melegrekord is megdőlt, jelezve a rendkívüli hőséget, amely egész Európát sújtja. A szárazság miatt több magyar településen, például Pátyon, már vízkorlátozást kellett bevezetni.",
+      "title": "Már kétszer csökkenteni kellett Pakson a teljesítményt, hétfőn is ez várható, így csak „félgőzzel” megy majd az atomerőmű",
+      "summary": "A Duna túl magas hőmérséklete miatt a Paks I. atomerőműben már többször csökkenteni kellett a reaktorok teljesítményét, és a helyzet várhatóan hétfőn is fennmarad. Ez az energiaellátás stabilitására és a környezeti fenntarthatóságra is rávilágít.",
+      "importance": 5
+    },
+    {
+      "title": "Magyar Péter újabb figyelmeztetést küldött a Fideszhez köthető alapítványoknak",
+      "summary": "Magyar Péter felszólította a Fideszhez köthető közfeladatot ellátó vagyonkezelő alapítványok (KEKVA) kuratóriumait, hogy augusztus 31-ig ne hozzanak fontos döntéseket a vagyonról. Ez politikai feszültséget generál az alapítványok és a kormány között.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter felszólította a kekvák kuratóriumait, hogy augusztus 31-ig semmilyen fontos döntést ne hozzanak a vagyonról",
-      "summary": "Magyar Péter felszólította a közfeladatot ellátó közérdekű vagyonkezelő alapítványok (KEKVA) kuratóriumait, hogy augusztus 31-ig ne hozzanak vagyonnal kapcsolatos, visszafordíthatatlan döntéseket. A lépés a választások utáni esetleges változásokra hivatkozva a közvagyon védelmét célozza.",
+      "title": "Több mint 12 milliárd forint közpénz jutott el alapítása óta az erdélyi médiabirodalomhoz",
+      "summary": "Kiderült, hogy alapítása óta több mint 12 milliárd forint közpénzt kapott egy erdélyi médiabirodalom. Ez a közpénzek elköltésének átláthatóságával és a regionális médiafinanszírozással kapcsolatos kérdéseket vet fel.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Európai hőhullám: az Egészségügyi Világszervezet 1300 halálesetről számol be, Németországban 41,7°C-os rekordot mértek",
-      "summary": "Az Európát sújtó rendkívüli hőhullámhoz az Egészségügyi Világszervezet (WHO) szerint már 1300 haláleset köthető, és Németországban is történelmi melegrekordot mértek. Az időjárási szélsőségek súlyos egészségügyi és környezeti kihívások elé állítják a kontinenst.",
+      "title": "WHO: Már több mint 1300-an haltak meg Európában a hőhullámmal összefüggésben",
+      "summary": "A WHO jelentése szerint már több mint 1300 haláleset írható a közelmúltbeli európai hőhullám számlájára. Ez rávilágít a klímaváltozás és az extrém időjárás halálos hatásaira a kontinensen.",
       "importance": 5
     },
     {
-      "title": "Az amerikai–iráni támadások veszélyeztetik az ideiglenes békemegállapodást",
-      "summary": "Az Egyesült Államok és Irán közötti fokozódó támadások, valamint a tűzszünet megsértésével kapcsolatos vádaskodások veszélyeztetik a régióban létrejött ideiglenes békemegállapodást. A helyzet eszkalációval fenyeget, tovább rontva a feszült viszonyt.",
+      "title": "Irán és az Egyesült Államok fokozta a támadásokat, és eszkalációval fenyeget",
+      "summary": "Irán és az Egyesült Államok kölcsönösen vádolja egymást a tűzszünet megsértésével és a támadások fokozásával, ami eszkalációval fenyeget a térségben. A geopolitikai feszültség tovább nő, veszélyeztetve az ideiglenes békemegállapodást.",
       "importance": 5
     },
     {
-      "title": "Két kisfiút mentettek ki a venezuelai földrengés romjai alól, miután napokig csapdában voltak",
-      "summary": "Venezuelában két kisfiút mentettek ki a földrengés okozta romok alól, miután napokig csapdában voltak. A hősies mentőakció reményt ad a túlélésre a természeti katasztrófa sújtotta térségben.",
+      "title": "Putyin: A csatatéren nem tudnak legyőzni minket, a belső zűrzavar sem sikerül",
+      "summary": "Vlagyimir Putyin szerint Oroszország nehéz időket él át, de a csatatéren nem tudják legyőzni őket, és a belső zűrzavar sem fog sikerülni. A kijelentés az orosz politikai és katonai helyzetre vonatkozó állásfoglalás.",
       "importance": 4
     },
     {
-      "title": "Tizennégyen haltak meg Szaúd-Arábiában egy helikopterbalesetben",
-      "summary": "Szaúd-Arábiában tizennégy ember vesztette életét, amikor lezuhant egy helikopter. Az áldozatok között a világ ötödik legértékesebb vállalatának alkalmazottai is voltak.",
+      "title": "Két kisfiút mentettek ki a venezuelai földrengés romjai alól, miután napokig csapdában voltak",
+      "summary": "Napokkal a pusztító venezuelai földrengés után két kisfiút mentettek ki élve a romok alól. A mentőakció a katasztrófa sújtotta övezetben az életben maradás reményét erősíti.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Ford újra felveszi a „régi motoros” mérnököket, miután a mesterséges intelligencia alulmaradt",
-      "summary": "A Ford visszahívja korábbi, tapasztalt mérnökeit, mivel a mesterséges intelligencia megoldások nem váltották be a hozzájuk fűzött reményeket bizonyos feladatoknál. Ez a lépés rávilágít az AI jelenlegi korlátaira és az emberi szakértelem továbbra is nélkülözhetetlen szerepére.",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "summary": "A Ford visszaveszi tapasztalt, nyugdíjazott mérnökeit, miután a mesterséges intelligencia nem váltotta be a hozzá fűzött reményeket bizonyos feladatoknál. Ez rávilágít az emberi szakértelem továbbra is kulcsfontosságú szerepére, ahol az AI még nem helyettesíthet minden feladatot.",
+      "importance": 5
+    },
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Az Apple Vision Pro egyik vezető beosztású munkatársa állítólag az OpenAI-hoz távozik, ami rávilágít a tehetségek mozgására a technológiai óriások és az AI startupok között. Ez az MI iparág növekvő vonzerejét és a technológiai tehetségek áramlását mutatja.",
       "importance": 4
     },
     {
-      "title": "Az indiai fizetési vezető szerint a mesterséges intelligencia kulcsszerepet játszik a digitális fizetések következő korszakában",
-      "summary": "India vezető fizetési szakértője szerint a mesterséges intelligencia (AI) meghatározó szerepet fog játszani a digitális fizetési rendszerek fejlődésének következő szakaszában. Az AI várhatóan forradalmasítja a tranzakciók feldolgozását, a csalásmegelőzést és az ügyfélélményt.",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "A Wall Street szerint a Micron, az amerikai memóriagyártó lehet a következő Nvidia, ami a mesterséges intelligencia robbanásszerű növekedésének hatására a félvezetőiparban várható fellendülésre utal. Ez jelentős befektetési trendet és az MI-hez kapcsolódó technológiák iránti fokozott érdeklődést jelez.",
       "importance": 4
     },
     {
-      "title": "Az Apple Vision Pro egyik vezetője állítólag az OpenAI-hoz távozik",
-      "summary": "Az Apple Vision Pro fejlesztésének egyik kulcsvezetője állítólag távozik a cégtől, és az OpenAI-hoz igazol. Ez a lépés a technológiai óriások közötti tehetségekért folyó versenyt, valamint az AI-szektor növekvő jelentőségét mutatja.",
+      "title": "Az embert szolgálja az AI, véletlenül se fordítva: Bécs digitális humanizmus központot nyit",
+      "summary": "Bécs Digitális Humanizmus Központot nyit, hangsúlyozva, hogy a mesterséges intelligenciának az embert kell szolgálnia, nem fordítva. A kezdeményezés az AI etikai és társadalmi felelősségvállalásának kérdéseire keres válaszokat.",
       "importance": 4
-    },
-    {
-      "title": "A Wall Street szerint az amerikai Micron memóriagyártó lehet a következő Nvidia",
-      "summary": "A Wall Street elemzői szerint az amerikai Micron memóriagyártó lehet a következő nagy sikerű technológiai vállalat, hasonlóan az Nvidiához. A várakozások szerint a cég kulcsszerepet játszhat a mesterséges intelligencia által vezérelt adatközpontok memóriagyártásában.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A CRISPR következő lépése: a vállalatok, amelyek az epigenomot szerkesztik a betegségek kezelésére",
-      "summary": "A CRISPR génszerkesztési technológia következő nagy fejlődési iránya az epigenom módosítása a betegségek kezelésére. Különböző cégek már dolgoznak olyan megoldásokon, amelyek az örökítőanyagot körülvevő szabályozó rétegeket célozzák meg terápiás célból.",
+      "title": "CRISPR’s next act: the companies editing the epigenome to treat disease",
+      "summary": "A CRISPR génszerkesztési technológia új fázisba lép, vállalatok kezdenek az epigenom szerkesztésével foglalkozni betegségek kezelésére. Ez forradalmasíthatja az orvostudományt és a betegségek kezelésének módszereit.",
       "importance": 5
     },
     {
-      "title": "Európa rekord hőhulláma: új klímája van a kontinensnek?",
-      "summary": "Az Európát sújtó példátlan hőhullámok felvetik a kérdést, hogy a kontinens éghajlata véglegesen megváltozott-e. A tudósok vizsgálják, hogy ezek a szélsőséges időjárási jelenségek az új klímánk részei-e, vagy átmeneti ingadozásról van szó.",
+      "title": "Europe’s record heatwave: does the continent have a new climate?",
+      "summary": "Európa példátlan hőhullámokkal küzd, felvetve a kérdést, hogy a kontinens éghajlata véglegesen megváltozott-e. A tudósok sürgősen vizsgálják az éghajlatváltozás hosszú távú hatásait és a jelenség mértékét.",
       "importance": 5
     },
     {
-      "title": "A bázisszerkesztés feltárja a NANOG alapvető szerepét az emberi embriogenezisben",
-      "summary": "A bázisszerkesztési technológia segítségével a kutatók felfedezték, hogy a NANOG nevű gén alapvető fontosságú az emberi embriók fejlődésében. Ez a felfedezés mélyebb betekintést nyújt a korai emberi fejlődés mechanizmusaiba.",
+      "title": "Oo oo, ha ha: why humans and great apes giggle alike when tickled",
+      "summary": "Kutatók felfedezték, hogy az emberek és a nagy majmok hasonló ritmusban kuncognak, ha megcsiklandozzák őket. Ez betekintést nyújt a beszéd evolúciójába, feltárva az emberi és főemlős kommunikáció közös ősi gyökereit.",
       "importance": 4
     },
     {
-      "title": "Az USA finanszírozási bizonytalanságai globális óceánkutatási projekteket fenyegetnek",
-      "summary": "Az Egyesült Államok finanszírozásával kapcsolatos bizonytalanságok komoly veszélybe sodornak több kulcsfontosságú nemzetközi óceánkutatási projektet. Ez a helyzet akadályozhatja az óceánok állapotának és a klímaváltozás hatásainak megértését.",
+      "title": "US funding uncertainties threaten to sink key global oceanography projects",
+      "summary": "Az amerikai finanszírozási bizonytalanságok kulcsfontosságú globális oceanográfiai projekteket fenyegetnek. Ez a tudományos kutatásra és a globális klímaváltozás megértésére is súlyos negatív hatással lehet.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Itt vannak a labdarúgó-világbajnokság egyenes kieséses mérkőzései – hogyan juthat Anglia a döntőbe?",
-      "summary": "A labdarúgó-világbajnokság az egyenes kieséses szakaszba lépett, ahol a csapatok a döntőbe jutásért küzdenek. A szurkolók és szakértők izgatottan elemzik, milyen út vezethet Anglia számára a végső győzelemhez.",
+      "title": "Lemondott a dél-koreai válogatott sokat támadott szövetségi kapitánya",
+      "summary": "A dél-koreai labdarúgó-válogatott sokat támadott szövetségi kapitánya lemondott a csapat világbajnokságbeli kiesése után. Az eset miatt az elnök kormányzati vizsgálatot követel, ami rávilágít a sportpolitika érzékenységére.",
       "importance": 5
     },
     {
-      "title": "Ben Stokes angol krikettkapitány szerint a válogatottól való visszavonulás volt a „legjobb dolog” számára",
-      "summary": "Ben Stokes, az angol krikettválogatott kapitánya bejelentette visszavonulását a nemzetközi krikettől, mondván, ez volt a legjobb döntés számára. A sportág egyik legnagyobb alakja ezzel a lépéssel lezárja rendkívül sikeres pályafutásának egy fejezetét.",
+      "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
+      "summary": "Ben Stokes, az angol krikettválogatott kapitánya bejelentette visszavonulását a nemzetközi krikettől, mondván, ez a legjobb dolog számára. Döntése jelentős visszhangot váltott ki a krikettvilágban és a sportközösségben.",
       "importance": 4
     },
     {
-      "title": "27 repülőút, 24 mérkőzés: a FIFA elnökének világbajnoki utazásának karbonlábnyoma",
-      "summary": "A FIFA elnökének, Gianni Infantinónak a világbajnokság során megtett 27 repülőútja és 24 mérkőzéslátogatása jelentős karbonlábnyomot hagyott. Ez a jelentés rávilágít a sportesemények és a sportvezetők utazásainak környezeti költségeire.",
+      "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
+      "summary": "A FIFA elnökének sűrű utazási rendje, amely a világbajnokság alatt 27 repülőutat és 24 meccset foglalt magába, jelentős szén-dioxid-kibocsátással járt. Ez a sportesemények környezeti lábnyomára és a fenntarthatósági kérdésekre hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Russell hibátlanul nyerte meg az Osztrák Nagydíjat",
-      "summary": "George Russell, a Mercedes versenyzője hibátlan teljesítménnyel nyerte meg az Osztrák Nagydíjat a Formula-1-ben. Ez a győzelem kulcsfontosságú lehet a bajnoki pontversenyben.",
+      "title": "World Cup knockouts are here - what is England's path to the final?",
+      "summary": "Elérkeztek a világbajnokság egyenes kieséses szakaszai, a szurkolók Angliának a döntőig vezető útját elemzik. A foci-vb a csúcspontjához közeledik, izgalmas és sorsdöntő mérkőzések várhatók a végső győzelemért.",
       "importance": 4
     }
   ]

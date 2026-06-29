@@ -1,6 +1,41 @@
 {
   "Telex": [
     {
+      "title": "Magyar Péter kiosztotta, melyik alapítvány melyik miniszteréhez kerül",
+      "link": "https://telex.hu/belfold/2026/06/29/kozfeladatkent-felsooktatasi-tevekenyseget-nem-ellato-alapitvanyok-kijelolt-miniszterek",
+      "summary": "Ruff Bálint lesz a felelős a Batthyány Lajos Alapítványért és a Mathias Corvinus Collegium Alapítványért is."
+    },
+    {
+      "title": "Brazília megint fel tudott állni hátrányból, ott lesz a legjobb 16 között az ötszörös világbajnok",
+      "link": "https://telex.hu/sport/2026/06/29/brazilia-japan-foci-vb-tizenhatoddonto",
+      "summary": "Japán búcsújával az utolsó ázsiai válogatott is elköszönt a vb-től."
+    },
+    {
+      "title": "Már Putyin is arról beszél, hogy a benzinkutaknál sorok vannak, és problémákat okoznak az ukrán csapások",
+      "link": "https://telex.hu/kulfold/2026/06/29/orosz-ukran-haboru-oroszorszag-ukrajna-vlagyimir-putyin-nyilatkozat",
+      "summary": "De szerinte az ukránok csak meg akarják osztani az orosz társadalmat, és erősíteni az alkupozícióikat, és az ő csapásaik egyébként is pusztítóbbak és hatásosabbak."
+    },
+    {
+      "title": "Ezekben a filmekben együtt égünk szét a napon a főszereplőkkel",
+      "link": "https://telex.hu/after/2026/06/29/hoseg-forrosag-filmek-sorozatok-gyujtes-lista-breaking-bad-mad-max-arabiai-lawrence-kozony-idegen",
+      "summary": "A Breaking Bad, a Mad Max, a Szemet szemért, az Arábiai Lawrence vagy éppen Camus Közönye mind megmutatja, hogyan válhat a hőség a történet egyik főszereplőjévé. Összegyűjtöttünk pár filmet és sorozatot a forró napokra."
+    },
+    {
+      "title": "Visszavette tapasztalt mérnökeit a Ford, mert az MI nem vált be a minőség-ellenőrzésben",
+      "link": "https://telex.hu/kulfold/2026/06/29/ford-munkaero-mesterseges-intelligencia-szakertelem-gyakorlati-tapasztalat",
+      "summary": "A cég egyik alelnöke szerint hiányzott az automatizált rendszerekből az a tudás és szakértelem, amellyel a tapasztalt mérnökök rendelkeznek."
+    },
+    {
+      "title": "Példátlan hőség: már az európai zöldek is légkondikat követelnek",
+      "link": "https://telex.hu/kulfold/2026/06/29/europa-hohullam-intezkedesek-alkalmazkodas-legkondicionalo-franciaorszag-nagy-britannia",
+      "summary": "A francia és brit kormányt is kritikák érték, hogy nem készülnek fel megfelelően a hőhullámokra, amik a klímaváltozás miatt egyre gyakoribbak és veszélyesebbek lesznek Európában."
+    },
+    {
+      "title": "Cser-Palkovics András lemond az egyetemi alapítványban betöltött kuratóriumi tagságáról",
+      "link": "https://telex.hu/belfold/2026/06/29/cser-palkovics-andras-lemond-az-egyetemi-alapitvanyban-betoltott-kuratoriumi-tagsagarol",
+      "summary": "A jövőben a polgármesterek nem lehetnek tagjai a városaikhoz kötődő egyetemek fenntartó testületeinek, így ő sem lehet tag a Rudolf Kalman Alapítványnál."
+    },
+    {
       "title": "A kánikula idején derül ki, hogy mennyire rugalmatlan a hazai áramrendszer. Mi lehet a megoldás?",
       "link": "https://telex.hu/gazdasag/2026/06/29/aram-kereslet-kinalat-gazeromu-vizeromu-veolia",
       "summary": "Ahogy nyáron nem készülünk az első hó eltakarítására, úgy év közben sem az árampiaci hőhullámra. De mit kéne tenni? Még több akkumulátor? Szivattyús-tározós vízerőmű? Magánpiaci ötletek vannak, de ezek nem könnyen kivitelezhető projektek."
@@ -16,12 +51,12 @@
       "summary": "Az élő környezetért felelős miniszter szerint kibír három-négy napot a fű, de a lakosságnak szüksége van az ivóvízre."
     },
     {
-      "title": "A legjobb 32 között már nem lehet hibázni a vb-n: Brazília–Japán 0-1",
+      "title": "Brazília a 95. percben fordított: Brazília–Japán 2-1",
       "link": "https://telex.hu/sport/2026/06/29/brazilia-japan-vb-kozvetites",
-      "summary": "Japán erőt kapott az ivószünet után, a csapat első kaput találó lövése gól is lett. Szano a tizenhatoson kívülről bombázott, ez az első gólja a japán válogatottban. Kövesse élőben a tizenhatoddöntőt!"
+      "summary": "Japán jól játszott, de a végén nem bírtak a brazil nyomással, egy hiba végzetesnek bizonyult, Brazília a 95. percben fordítani tudott és bejutott a nyolcaddöntőbe."
     },
     {
-      "title": "Gyanúsítottként hallgatták ki Hajdu Jánost, a TEK volt főigazgatóját az aranykonvoj ügyben",
+      "title": "Gyanúsítottként hallgatták ki Hajdu Jánost, a TEK volt főigazgatóját az aranykonvoj-ügyben",
       "link": "https://telex.hu/belfold/2026/06/29/gyanusitottkent-hallgattak-ki-hajdu-janost-a-tek-volt-foigazgatojat",
       "summary": "A nyomozó ügyészség hétrendbeli, a sértett sanyargatásával elkövetett jogellenes fogvatartás bűntettének gyanúját közölte Hajduval, aki nem ismerte el a bűncselekmény elkövetését és vallomást tett."
     },
@@ -39,45 +74,50 @@
       "title": "Hiába a videóbíró, így is hajmeresztő bírói tévedések voltak a vb-n",
       "link": "https://telex.hu/sport/2026/06/29/var-alkalmazasa-hibak-fontos-javitasok",
       "summary": "Az viszont mázli, hogy a végeredményeket érdemben egyszer sem befolyásolták az eddigi hibák, bár ha Messit kiállítják az argentinok első meccsén, akkor biztosan nem ő vezetné a góllövőlistát. Azt viszont a VAR-nak köszönhetjük, hogy a játékosok vitás helyzetben nem mondhatnak egymásnak akármit eltakart szájjal."
-    },
-    {
-      "title": "Krasznahorkai László: A saját kudarcaimról szólnak az írásaim",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/06/29/krasznahorkai-laszlo-new-yorker-interju-tarr-bela",
-      "summary": "A Nobel-díjas író a New Yorkernek adott interjúban az idős lázadók nevetségességéről, a Tarr Bélával közös munkáról és arról is beszélt, hogy önszántából sosem olvassa újra a könyveit."
-    },
-    {
-      "title": "Hiába ment Trump a Legfelsőbb Bíróságig, nem másítják meg az elvesztett szexuális zaklatós ügyének ítéletét",
-      "link": "https://telex.hu/kulfold/2026/06/29/elutasitotta-az-amerikai-legfelsobb-birosag-trump-fellebbezeset",
-      "summary": "Az amerikai elnököt 2023-ban 5 millió dolláros kártérítésre ítélték, mert az esküdtszék szerint zaklatta és rágalmazta E. Jean Carroll újságírót."
-    },
-    {
-      "title": "Videón, ahogy Forsthoffer Ágnes elveszi a szót Magyar Pétertől",
-      "link": "https://telex.hu/belfold/2026/06/29/videon-ahogy-forsthoffer-agnes-elveszi-a-szot-magyar-petertol",
-      "summary": "Magyar Péter fel akarta használni a felszólalási időkeretét, hogy egy korábbi felszólalásra is válaszoljon, de ilyet a házelnök szerint nem tehetett."
-    },
-    {
-      "title": "Brazília az esélyes, de ha beakad egy saslövés, azt Alisson Becker sem szedi ki a hálóból",
-      "link": "https://telex.hu/after/2026/06/29/tsubasa-kapitany-japan-foci-brazilia-vb",
-      "summary": "Azon túl, hogy a Tsubasa kapitány már 30 éve megjósolta a ma esti brazil–japán-párosítást, nagyon sokat köszönhet neki a japán és a nemzetközi futball is."
-    },
-    {
-      "title": "Enzo Maresca lett a Manchester City új vezetőedzője",
-      "link": "https://telex.hu/sport/2026/06/29/futball-premier-league-anglia-manchester-city-guardiola-maresca",
-      "summary": "Eddig is nyílt titok volt, hogy egykori mentoráltja váltja majd a tíz év után távozó Pep Guardiolát, most hivatalos lett a dolog."
-    },
-    {
-      "title": "Kétezer tonna PET-palack és darálék maradt az egykor prosperáló magyar cég után",
-      "link": "https://telex.hu/g7/vallalat/2026/06/29/muanyag-hulladek-pet-felszamolas",
-      "summary": "A készleteken 130 millió forintért adna túl a cég felszámolója, de az ár lehet, hogy csak elírás. Különösen, hogy az ajánlat első ránézésre nem túl vonzó."
-    },
-    {
-      "title": "Brutális vízhiánnyal küzdenek Cipruson",
-      "link": "https://telex.hu/kulfold/2026/06/29/vizhiany-vizfelhasznalas-europa-ciprus",
-      "summary": "Az EU-ban nagyjából minden tizedik ember nehezen jut elegendő, biztonságos és tiszta ivóvízhez. Ez a probléma is Cipruson a legsúlyosabb."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Betekintés a jövőbe: élet a hőkupola alatt",
+      "link": "https://444.hu/2026/06/29/betekintes-a-jovobe-elet-a-hokupola-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Fotókon a Budapestet is elérő hőhullám. A főváros párakapukkal és rendőrségi vízágyúkkal próbálta élhetőbbé tenni a 40 fokos napot, amilyenből a globális felmelegedés miatt a jövőben egyre több lesz."
+    },
+    {
+      "title": "Magyar Péter: A következő két napban csak a valóban fontos vízhasználatra korlátozzuk az ivóvíz felhasználást!",
+      "link": "https://444.hu/2026/06/29/magyar-peter-a-kovetkezo-ket-napban-csak-a-valoban-fontos-vizhasznalatra-korlatozzuk-az-ivoviz-felhasznalast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ne locsoljanak vezetékes ivóvízzel, ne mossanak autót, ne töltsenek medencét, ne használjanak ivóvizet olyan célra, amely elhalasztható – kéri a lakosságot a kormányfő."
+    },
+    {
+      "title": "Három kerületben, több ezer embernél ment el az áram Budapesten",
+      "link": "https://444.hu/2026/06/29/harom-keruletben-is-aramkimaradas-van-budapesten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nagyjából kétezer ügyfélnél nincs áram hétfő este Budapest XX. kerületében, és több száz ügyfél maradt áram nélkül az I. kerületben, illetve a XIV.-ben is."
+    },
+    {
+      "title": "A FIFA-nak tökéletes volt a csoportkör – és nekünk sincs okunk panaszkodni",
+      "link": "https://444.hu/2026/06/29/a-fifa-nak-tokeletes-volt-a-csoportkor-es-nekunk-sincs-okunk-panaszkodni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Sok gól! Csillogó sztárok! Tengernyi néző! Az örök nosztalgiázók fanyaloghatnak, de az első 48 csapatos vébé csoportköre bőven felülmúlta a várakozásokat."
+    },
+    {
+      "title": "Az utolsó pillanatban verték meg Japánt a brazilok, ott vannak a nyolcaddöntőben",
+      "link": "https://444.hu/2026/06/29/az-utolso-pillanatban-vertek-meg-japant-a-brazilok-ott-vannak-a-nyolcaddontoben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Neymar a kispadon kezdett, ott is fejezte be a meccset. Japán soha nem nyert még egyenes kieséses meccset a vébéken, most sem."
+    },
+    {
+      "title": "Gajdos László: Az ivóvíz nagy érték, és most nem vagyunk abban a helyzetben, hogy füvet locsoljunk vele",
+      "link": "https://444.hu/2026/06/29/gajdos-laszlo-az-ivoviz-nagy-ertek-es-most-nem-vagyunk-abban-a-helyzetben-hogy-fuvet-locsoljunk-vele?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A környezetért felelős miniszter szerint még mindig sokan használják locsolásra és autómosásra a vizet a kánikulában is, pedig a lakosságnak szüksége van az ivóvízre."
+    },
+    {
+      "title": "Lemondott a cseh szövetségi kapitány",
+      "link": "https://444.hu/2026/06/29/lemondott-a-cseh-szovetsegi-kapitany?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Miroslav Koubek buta hibákkal és a sok utazással magyarázta, hogy csapata a leggyengébb teljesítményt nyújtó európai válogatott volt a vb-n."
+    },
+    {
+      "title": "A Mi Hazánk cigányellenes szövegei miatt is nekimenne az AfD szélsőjobbos pártszövetségének egy európai vizsgálat",
+      "link": "https://444.hu/2026/06/29/a-mi-hazank-ciganyellenes-szovegei-miatt-is-nekimenne-az-afd-szelsojobbos-partszovetsegenek-egy-europai-vizsgalat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az EP-ből sokan megszüntetnék a legradikálisabb pártcsoportot, elvennék az uniós finanszírozásukat is."
+    },
     {
       "title": "Ha elfogadják a módosítót, Lánczi Tamás nem kap végkielégítést, vagyonnyilatkozatot kell tennie",
       "link": "https://444.hu/2026/06/29/ha-elfogadjak-a-modositot-lanczi-tamas-nem-kap-vegkielegitest-vagyonnyilatkozatot-kell-tennie?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -112,49 +152,54 @@
       "title": "Tandemugró ápolónők zuhantak le életük első ejtőernyős ugrásán Franciaországban",
       "link": "https://444.hu/2026/06/29/tandemugro-apolonok-zuhantak-le-eletuk-elso-ejtoernyos-ugrasan-franciaorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A kánikula ellenére is felszálló pilóta felelősségéről beszélnek a 11 életet követelő halálos baleset után."
-    },
-    {
-      "title": "Magyar Péter: Milyen emberek maguk? – forró pillanatok napirend előtt",
-      "link": "https://444.hu/2026/06/29/magyar-peter-milyen-emberek-maguk-forro-pillanatok-napirend-elott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az Orbán-kormány által okozott pusztítás mértéke jó lelkiismerettel vethető össze a tatárjárással, mondta Magyar Péter a parlamentben. Az ellenzék a demokratikus működést kérte számon."
-    },
-    {
-      "title": "Előzetes szakvélemény a Fenyő-szoborról: Érezhető benne valami érdekes, ami közel viszi, és megmozgatja az embert ahhoz, hogy megnézze ki volt ez a személy és mit csinált",
-      "link": "https://444.hu/2026/06/29/elozetes-szakvelemeny-a-fenyo-szoborrol-erezheto-benne-valami-erdekes-ami-kozel-viszi-es-megmozgatja-az-embert-ahhoz-hogy-megnezze-ki-volt-ez-a-szemely-es-mit-csinalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az újlipótvárosi önkormányzat által felkért szakértők szerint a szoborterveken érződik, hogy még nem kezdődött meg Fenyő halálának feldolgozása, és nem ártott volna a helyieket is megkérdezni."
-    },
-    {
-      "title": "Hiába kellene letekerni a hőség miatt Paksot, az árampara miatt Kapitány István felmentést adott az atomerőműnek",
-      "link": "https://444.hu/2026/06/29/hiaba-kellene-letekerni-a-hoseg-miatt-paksot-az-arampara-miatt-kapitany-istvan-felmentest-adott-az-atomeromunek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Lassan 28 fokos a Duna, tovább kellene csökkenteni a termelést, de az már az ellátásbiztonságot veszélyeztetné."
-    },
-    {
-      "title": "„Én ezerszer inkább leszek megafonos, mint diktafonos”",
-      "link": "https://444.hu/2026/06/29/en-ezerszer-inkabb-leszek-megafonos-mint-diktafonos?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Szűcs Gábor nem megafonosként van jelen, Pócs János pedig állítja, mindent tud Magyar Péterről."
-    },
-    {
-      "title": "Még folyik a nemzetközi vizsgálat Deutsch bántalmazással vádolt felesége ellen",
-      "link": "https://444.hu/2026/06/29/meg-folyik-a-nemzetkozi-vizsgalat-deutsch-bantalmazassal-vadolt-felesege-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Deutsch-Lazsányi még korábban lemondott a ritmikusgimnasztika-szövetségben betöltött tisztségeiről, a testület pedig több egykori tanítványát meghallgatta, akik a stílusát és a munkamódszereit nehezményezték."
-    },
-    {
-      "title": "A nemzeti mezben meccsre tartó fiatalok látványa helyrebillentette a KDNP-s képviselő Pride által megsebzett világát",
-      "link": "https://444.hu/2026/06/29/a-nemzeti-mezben-meccsre-tarto-fiatalok-latvanya-helyrebillentette-a-kdnp-s-kepviselo-pride-altal-megsebzett-vilagat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Magyar Péter azt mondta, nem követte a Pride-ot, mert épp a Fidesz-KDNP kormányok által okozott károk helyrehozatalán dolgoznak."
-    },
-    {
-      "title": "Magyar a Parlamentben: Akkor kellett volna kiabálni, amikor szétlopták az országot",
-      "link": "https://444.hu/2026/06/29/magyar-a-parlamentben-akkor-kellett-volna-kiabalni-amikor-szetloptak-az-orszagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "GMO vagy nem GMO, ki miatt hal ki a magyar vidék, a Fidesz is hazahozta volna az EU-s pénzeket és mekkora a KDNP támogatottsága. Szócsata Magyar és az ellenzéki frakcióvezetők között."
-    },
-    {
-      "title": "„What is your name? What are you doing here? – Húzzál a picsába! Takarodjál a faszszopó kurva anyádba, te köcsög geci!”",
-      "link": "https://444.hu/2026/06/29/what-is-your-name-what-are-you-doing-here-huzzal-a-picsaba-takarodjal-a-faszszopo-kurva-anyadba-te-kocsog-geci?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Interkulturális párbeszéd Helsinkiben: a kínai megfigyelőautó magyar sofőrje bepöccent a finn újságíróra."
     }
   ],
   "HVG": [
+    {
+      "title": "Kedd hajnaltól Ruff Bálint az MCC főnöke és a többi kekva élére is minisztereket jelöltek ki",
+      "link": "https://hvg.hu/itthon/20260629_magyar-kozlony-kormany-kekva-alapitoi-joggyakorlo",
+      "summary": "Schmidt Mária intézetei élére Tarr Zoltánt jelölték ki, Lázár János ménesbirtokáért pedig Bóna Szabolcs agrárminiszter felel."
+    },
+    {
+      "title": "Magyar Péter arra kér mindenkit, hogy csak a fontos vízhasználatra korlátozza a fogyasztását",
+      "link": "https://hvg.hu/itthon/20260629_vizhiany-magyar-peter-bejelentes-keres-fogyasztas-csokkentese",
+      "summary": "Az elkövetkezendő két napban senki ne mosson autót, locsoljon növényeket vagy töltsön fel medencét vezetékes ivóvízzel."
+    },
+    {
+      "title": "Hiába kérték a vízfogyasztás csökkentését, az tovább nőtt a Duna menti vízmű területén",
+      "link": "https://hvg.hu/itthon/20260629_hoseg-duna-menti-vizmu-vizfogyasztas-korlatozas",
+      "summary": "A vállalat szerint ha a fogyasztók továbbra sem csökkentik a vízfogyasztásukat, a teljes hálózat összeomlása is elképzelhető."
+    },
+    {
+      "title": "Lemondott a vb-t egy ponttal záró csehek szövetségi kapitánya",
+      "link": "https://hvg.hu/sport/20260629_foci-vb-2026-csehorszag-szovetsegi-kapitany-miroslav-koubek-lemondas",
+      "summary": "A 74 éves Miroslav Koubek tavaly október óta irányította Csehország válogatottját."
+    },
+    {
+      "title": "Egy Vlagyimir Putyin orosz elnökhöz köthető jachtot észleltek a dán partoknál",
+      "link": "https://hvg.hu/vilag/20260629_putyin-jacht-graceful-dan-partok",
+      "summary": "A valaha Graceful nevet viselő luxushajót egy orosz romboló és egy járőrhajó kísérte."
+    },
+    {
+      "title": "A Momentum új elnöke: Higgadt és végiggondoltan működő fékje szeretnénk lenni a rendszernek",
+      "link": "https://hvg.hu/itthon/20260629_momentum-mozgalom-szilas-kincso-elnok-interju",
+      "summary": "Szilas Kincső konstruktív ellenzéki pártot építene, mert szerinte a Fidesz és a Mi Hazánk nem az."
+    },
+    {
+      "title": "Elkészült a világ első szállodája, amiben csak robotok dolgoznak",
+      "link": "https://hvg.hu/tudomany/20260629_pudu-robotics-kinai-hotel-robotok",
+      "summary": "A kínai Kuangtung tartományban található az az új szálloda, amelyben a Pudu nevű vállalat robotjai szorgoskodnak."
+    },
+    {
+      "title": "Így oldják meg Ukrajnában, hogy akkor is legyen áram, ha az oroszok kilőtték a transzformátort - Földes András riportja",
+      "link": "https://hvg.hu/gazdasag/20260629_a-haboru-segiti-a-zoldenergiat-ukrajnaban-foldes-andras-riportja",
+      "summary": "Kényszerből lett drónnagyhatalom a háborús ország, amely most ugyanígy kényszerből elindult a zöld átállás útján. Napelemmel megy a szülészeti osztály, a hadirokkantakat ellátó központ, és a kijevi társasház is. Földes András videóriportja Ukrajnából."
+    },
+    {
+      "title": "Belefulladt egy kisgyerek a Hernádba",
+      "link": "https://hvg.hu/itthon/20260629_baleset-vizbe-fulladas-hernad-folyo-gesztely-neptun-mentocsapat",
+      "summary": "A 6-7 év körüli gyerek nem tudott úszni, elsodorta a folyó."
+    },
     {
       "title": "Molnár Áron Hankó Balázsnak: Ritka gyáva ember vagy",
       "link": "https://hvg.hu/kultura/20260629_nka-botrany-hanko-balazs-molnar-aron-tarr-zoltan-teakcio",
@@ -166,14 +211,14 @@
       "summary": "Pillanatok alatt töltené le az összes kedvenc filmét 4K-ban az az internetkapcsolat, amelyet Kínában már ki is próbáltak."
     },
     {
-      "title": "A volt TEK-es Hajdu Jánost gyanúsítottként hallgatták ki az aranykonvoj-ügyben",
+      "title": "A volt TEK-es Hajdu Jánost gyanúsítottként hallgatták ki az aranykonvojügyben",
       "link": "https://hvg.hu/itthon/20260629_aranykonvoj-ugy-ugyeszseg-gyanusitotti-kihallgatas-hajdu-janos-tek",
-      "summary": "A TEK egykori főigazgatóját jogellenes fogvatartással gyanúsítják. Orbán reakciója: a Tisza az ukránok érdekeit képviseli."
+      "summary": "A TEK egykori főigazgatóját jogellenes fogva tartással gyanúsítják. Orbán reakciója: a Tisza az ukránok érdekeit képviseli."
     },
     {
-      "title": "Foci-vb: Brazília – Japán 1–1 (ÉLŐ)",
+      "title": "A 96. percben lőtt góllal ütötték ki a brazilok a vb-ről Japánt",
       "link": "https://hvg.hu/sport/20260629_foci-vb-brazilia-japan-elo-kozvetites-ebx",
-      "summary": "Kövesse velünk a mérkőzést percről percre!"
+      "summary": "Az ázsiai csapat szerzett vezetést, Viníciusék a második félidő elején egyenlítettek, a ráadásban pedig eldöntötték a meccset."
     },
     {
       "title": "Vozinhától Messiig – íme az Opta álomcsapata a vb-csoportkör után",
@@ -184,51 +229,6 @@
       "title": "Kimatekozták, mikor jöhet az Apple nagy bejelentése az iPhone 18-akról",
       "link": "https://hvg.hu/tudomany/20260629_apple-iphone-18-pro-max-iphone-fold-iphone-ultra-bemutato",
       "summary": "Az Apple-ügyekben rendre jól tájékozott Mark Gurmann szerint két lehetséges dátum van, amikor az Apple bemutatót tarthat. Mindkettő szeptember elején."
-    },
-    {
-      "title": "Találgatások miatt adott ki közleményt a birkózószövetség: még nyomoznak Németh Zsanett halála ügyében",
-      "link": "https://hvg.hu/sport/20260629_nyomozas-nemeth-zsanett-birkozo-tragikus-hirtelenseggel-elhunyt",
-      "summary": "A 32 évesen elhunyt birkózó családja azt kéri, senki ne kezelje tényként a bolgár sajtóban megjelent találgatásokat."
-    },
-    {
-      "title": "Mi lesz így Hatvanpuszta növényeivel? – vízhiány van Felcsúton és Alcsútdobozon, lajtos kocsi közlekedik",
-      "link": "https://hvg.hu/itthon/20260629_fejerviz-felcsut-alcsutdoboz-vizhiany",
-      "summary": "Orbán Viktor szűkebb pátriájának lakosait arra kérték, hogy ne locsoljanak, és ne mossanak autót ivóvízzel."
-    },
-    {
-      "title": "Döntöttek az olvasók: ez a focivébé legmenőbb meze",
-      "link": "https://hvg.hu/elet/20260629_melyik-a-focivebe-legszebb-meze",
-      "summary": "Meglepő végeredmény született."
-    },
-    {
-      "title": "„Tényleg szégyellje magát Hegedűs Barbara!” – Forsthoffer Ágnes elvette a szót Magyar Pétertől a parlamentben",
-      "link": "https://hvg.hu/itthon/20260629_orszaggyules-forsthoffer-agnes-hazelnok-magyar-peter",
-      "summary": "A házelnök először csak figyelmeztette a miniszterelnököt, majd kikapcsolta a mikrofonját."
-    },
-    {
-      "title": "Keresztbe-kasul röpköd az amerikai kontinensen Gianni Infantino, nevetségessé téve a FIFA zöld vállalásait",
-      "link": "https://hvg.hu/sport/20260629_gianni-infantino-maganrepulo-foci-vb",
-      "summary": "Az embernek az az érzése, amikor a világbajnoki meccseket nézi, hogy Gianni Infantino mindegyiken ott van. Ez persze nem igaz, a svájci sportvezető a Kanada, az Egyesült Államok és Mexikó 16 városában zajló torna első két hetében „csak” 24 mérkőzésre utazott el – magánrepülőgéppel."
-    },
-    {
-      "title": "Eltűnt egy Róma melletti tóban az olasz családügyi miniszter férje",
-      "link": "https://hvg.hu/vilag/20260629_roma-to-olasz-miniszter-ferje-eltunes",
-      "summary": "A 84 éves Luigi Cavallari még vasárnap ugrott be egy kis csónakból a Vico-tóba, és azóta nem találják."
-    },
-    {
-      "title": "Amerika emberére talált: bemutatjuk Trump megszégyenítésének iráni kulcsfiguráját",
-      "link": "https://hvg.hu/360/20260629_hvg-ahmad-vahidi-iran-forradalmi-garda-parancsnoka-kontur",
-      "summary": "A Forradalmi Gárda keményvonalas parancsnoka, Ahmad Vahidi tagja annak a szűk elitnek, amely nem enged az amerikai követeléseknek."
-    },
-    {
-      "title": "Forsthoffer fegyelmezett, Magyar szerint a Fidesz csak 19 százalékon áll – videó a Parlamentből",
-      "link": "https://hvg.hu/itthon/20260629_forsthoffer-fegyelmezett-de-folytatodott-az-adok-kapok-a-parlamentben-video",
-      "summary": "Magyar Péternek lenne pár kérdése Hankó Balázshoz – amíg a volt miniszter szabadlábon van. A Fidesz megtapsolta Forsthoffer Ágnest, majd belefért egy kis gyurcsányozás is. Sőt, Magyar szerint van egy pár olyan ellenzéki képviselő is, akikre senki soha nem szavazott."
-    },
-    {
-      "title": "Csillagászati csemege: vattacukor-bolygókat talált a NASA műholdja",
-      "link": "https://hvg.hu/tudomany/20260629_nasa-tess-muhold-felfedezes-toi-791-b-toi-791-c-gazbolygok-csillagaszat",
-      "summary": "Különleges felfedezést tett a TESS műhold adataival az Oxfordi Egyetem kutatócsoportja – olyan bolygókra bukkantak, amelyek egyike még nagyobb is a Jupiternél, miközben sokkal-sokkal könnyebb nála."
     }
   ],
   "BBC": [
@@ -238,9 +238,9 @@
       "summary": "The man most likely to be the next prime minister says his devolution plans would \"drive good growth in every postcode\"."
     },
     {
-      "title": "Henry Zeffman: Andy Burnham offers a blueprint for his premiership",
-      "link": "https://www.bbc.co.uk/news/articles/cpq3yy48zglo?at_medium=RSS&at_campaign=rss",
-      "summary": "Burnham offered a sense of what his time as prime minister would mean, but he did not lay out many details."
+      "title": "Will Andy Burnham's devolution plan raise economic growth?",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz4x9ew49o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has looked at what impact further devolution could be expected to have on the UK."
     },
     {
       "title": "Resident doctors in England accept pay deal and end strikes",
@@ -248,9 +248,9 @@
       "summary": "Doctors have been locked in a three-year dispute with the government, resulting in several rounds of strikes."
     },
     {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes."
+      "title": "'They are hoping beyond hope': Rescue efforts continue at collapsed La Guaira building",
+      "link": "https://www.bbc.co.uk/news/videos/cz75y2rggppo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 1,450 people are known to have been killed in the disaster but hope remains that others can continue to be found alive."
     },
     {
       "title": "Tributes paid to 'comic genius' Penelope Keith after her death aged 86",
@@ -278,19 +278,19 @@
       "summary": "The former Sheffield United player had feared being ridiculed and stigmatised, her inquest hears."
     },
     {
-      "title": "Sixth person dies after shooting at youth welfare centre in Germany",
+      "title": "Six people shot dead at centre for mothers and children in Germany",
       "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four women and a man were shot dead at the scene while a sixth person died in hospital, police say."
+      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say."
     },
     {
-      "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-      "link": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
-      "summary": "The survivors are hopeful the authorities will find them some form of temporary accommodation while the country rebuilds - for now they are dependant on donated food and clothing."
+      "title": "Dogs, drones and sound detectors: How rescuers search for quake survivors",
+      "link": "https://www.bbc.co.uk/news/articles/cn75jk07y5do?at_medium=RSS&at_campaign=rss",
+      "summary": "Rescuers armed with a range of techniques continue to dig through the rubble in Venezuela."
     },
     {
-      "title": "Anger directed at Venezuela's official response to earthquake recovery",
-      "link": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents in quake-affected areas have expressed anger over the state's efforts to locate survivors and help victims, the BBC's Orla Guerin reports."
+      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+      "link": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"miracle\" rescue of 18-day-old baby Juan David is a symbol of hope in Venezuela after the devastating earthquakes."
     },
     {
       "title": "Why Netherlands v Morocco is more than just a match",
@@ -305,10 +305,35 @@
     {
       "title": "How Thomas Tuchel is still searching for solutions out wide",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&at_campaign=rss",
-      "summary": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about England so far at this World Cup, but having a settled side is not one of them."
+      "summary": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about the Three Lions at this World Cup, but having a settled side is not one of them."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Watch out, Amazon: the Kobo eReader now has a Goodreads rival",
+      "link": "https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/",
+      "summary": "Kobo users can now automatically sync their reading progress to StoryGraph, making it easier to track books, reading stats, and challenges without relying on Amazon’s Goodreads."
+    },
+    {
+      "title": "Waymo and Uber quietly part ways in Phoenix",
+      "link": "https://techcrunch.com/2026/06/29/waymo-and-uber-quietly-part-ways-in-phoenix/",
+      "summary": "The companies confirmed to TechCrunch that their unusual partnership in Phoenix recently ended after nearly three years.."
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country."
+    },
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September."
+    },
     {
       "title": "Cursor now has a mobile app for guiding your coding agent on the go",
       "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
@@ -322,7 +347,7 @@
     {
       "title": "TIDAL cracks down on AI music by cutting off monetization",
       "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "summary": "TIDAL's new policy will prevent AI-generated music from making money on its service."
+      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said."
     },
     {
       "title": "In major privacy win, Supreme Court rules geofence warrants are protected by privacy rights",
@@ -332,12 +357,12 @@
     {
       "title": "WhatsApp now lets you reserve usernames",
       "link": "https://techcrunch.com/2026/06/29/whatsapp-now-lets-you-reserve-usernames/",
-      "summary": "WhatsApp username can be between 3 to 35 characters length"
+      "summary": "WhatsApp username can be between 3 to 35 characters."
     },
     {
       "title": "Rocket Lab continues buying spree by acquiring satellite company Iridium",
       "link": "https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/",
-      "summary": "The all-stock deal values Iridium at $8 billion, and gives Rocket Lab even more firepower to compete against Amazon and SpaceX."
+      "summary": "The all-stock deal values Iridium at $8 billion and gives Rocket Lab even more firepower to compete against Amazon and SpaceX."
     },
     {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
@@ -358,31 +383,6 @@
       "title": "Omen AI’s plan to optimize data centers is all wet",
       "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
       "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers."
-    },
-    {
-      "title": "California law targeting loud streaming ads takes effect on July 1",
-      "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
-      "summary": "Streaming ads might be getting a lot quieter."
-    },
-    {
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
-    },
-    {
-      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-      "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-      "summary": "Has Silicon Valley been building the wrong things?"
-    },
-    {
-      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
-      "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
     }
   ],
   "Nature": [

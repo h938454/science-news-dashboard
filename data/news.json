@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Katasztrófába torkollott a kísérlet, ami először akart megszelídíteni egy hurrikánt",
+      "link": "https://telex.hu/eszkombajn/2026/06/29/hurrikan-modositasi-kiserlet-szarazjeg-usa-king-idojaras",
+      "summary": "A negyvenes években felvetődött az ötlet, hogy felhőetetéssel el lehet csendesíteni a hurrikánokat. Egy csapat kutató meg is próbálta: több millió dolláros kár és egy emberélet lett az ára."
+    },
+    {
+      "title": "Száguldanak a magyar fizetések euróban, és sok cég nagyon nem örül ennek",
+      "link": "https://telex.hu/g7/penz/2026/06/29/forint-erosodes-munkaero-koltseg-termelekenyseg",
+      "summary": "Amíg gyengült a forint, a multik aránylag könnyen kigazdálkodták a gyorsan növekvő béreket. A tendencia megfordulása kikényszerítheti a gazdaságpolitikai fordulatot, amire a kormány amúgy is készült."
+    },
+    {
       "title": "Gyurcsány Ferenc a vereségek természetéről mereng",
       "link": "https://telex.hu/zacc/2026/06/28/gyurcsany-ferenc-politika-vereseg-gyozelem-elmelkedes",
       "summary": "Tapasztalat az van. Bár azt ígérte nem fog, most mégis újra politizál egy kicsit."
@@ -64,16 +74,6 @@
       "title": "Putyin szerint Oroszország nehéz időket él át, de reagálnak a problémákra",
       "link": "https://telex.hu/kulfold/2026/06/28/vlagyimir-putyin-egyseges-oroszorszag-kormanypart-konferencia-nehez-idok",
       "summary": "Az orosz elnök arról beszélt, hogy országa brutális és példátlan nyomást tapasztal a Nyugat részéről."
-    },
-    {
-      "title": "A Fishingen a legjobb magyar zenésznek lenni",
-      "link": "https://telex.hu/after/2026/06/28/fishing-on-orfu-fesztival-2026",
-      "summary": "Miközben szenved a fesztiválpiac, a Fishing On Orfű köszöni, és jól van. A fesztivál az egyik legjobb példa arra, hogy állandó növekedési kényszer nélkül is lehet valamit hosszú ideig sikeresen üzemeltetni."
-    },
-    {
-      "title": "Másodszor is befürdött a Valve a minipécéjével, és ezt most a mesterséges intelligenciának lehet megköszönni",
-      "link": "https://telex.hu/techtud/2026/06/28/valve-steam-steam-machine-hardver-konzol-pc-arazas",
-      "summary": "Hétfőn derült ki a tavaly bejelentett Steam Machine ára, és a memóriaapokalipszis kellős közepén pont olyan lesújtó lett, mint amire számítani lehetett. Ettől még persze lehet, hogy jól fog fogyni, de ebben a formájában nem sok minden szól mellette."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,21 @@
   ],
   "HVG": [
     {
+      "title": "A WHO szerint eddig több mint 1300 halálos áldozatot követelt a hőhullám Európában",
+      "link": "https://hvg.hu/vilag/20260629_a-who-szerint-eddig-1300-halalos-aldozatot-kovetel-a-hohullam-europaban",
+      "summary": "A világszervezet elnöke kérést intézett az európai országok vezetőihez."
+    },
+    {
+      "title": "Aleksandar Vucic hiába jelentette be, hogy lemond, folytatódtak a tüntetések Szerbiában",
+      "link": "https://hvg.hu/vilag/20260629_aleksandar-vucic-hiaba-jelentette-be-hogy-lemond-folytatodtak-a-tuntetesek-szerbiaban",
+      "summary": "Kánikulában is több ezren vonultak utcára vasárnap."
+    },
+    {
+      "title": "Az extrém hőség ellenére tízezrek vonultak a Pride-on, hamarosan csatlakozhatunk az eurozónához – itt a HVG hírpodcast",
+      "link": "https://hvg.hu/itthon/20260629_az-extrem-hoseg-ellenere-tizezrek-vonultak-a-pride-on-hamarosan-csatlakozhatunk-az-eurozonahoz-itt-a-hvg-hirpodcast",
+      "summary": "A szervezők szerint ötvenezren vonultak a Pride-on. A Medián mérése szerint már a magyarok több mint kétharmada támogatja, hogy gyereket fogadhassanak örökbe az azonos nemű párok. Közös sajtótájékoztatót tartott  Magyar Péter miniszterelnök, Kármán András pénzügyminiszter, valamint Kirjákosz Pjerakákisz görög pénzügyminiszter. Orbán Anita külügyminiszter péntek délelőtt jelentette be, hogy tárcája megkezdi a külképviselet-vezetői kar megújítását. Akkora a hőség Magyarországon, hogy, sorra döntjük szinte az összes rekordot. Kezdje a napot a HVG hírpodcastjával!"
+    },
+    {
       "title": "Hosszabbításban lőtt góllal jutott tovább az egyik házigazda a foci-vb-n",
       "link": "https://hvg.hu/sport/20260628_kinkeserves-meccsen-jutott-tovabb-az-egyik-hazigazda-a-foci-vb-n",
       "summary": "Ez volt első mérkőzés az egyenes kieséses szakaszban, Kanada csak kínkeserves meccsen tudta legyőzni a Dél-Afrikai Köztársaságot."
@@ -214,33 +229,43 @@
       "title": "A mesterséges intelligencia tényleg objektív?",
       "link": "https://hvg.hu/hvgkonyvek/20260628_a-mesterseges-intelligencia-tenyleg-objektiv",
       "summary": "A mesterséges intelligenciát gyakran az objektív tudás gépeként képzeljük el: egy érzelemmentes rendszerként, amely kizárólag a tények alapján válaszol. Valójában azonban az AI is abból építkezik, amit az emberek létrehoztak. Szerkesztett részlet Luc Julia AI-kutató Robot, nem pilóta című könyvéből."
-    },
-    {
-      "title": "Megdőlt a napi melegrekord, vízkorlátozás Pátyon, szenved egész Európa",
-      "link": "https://hvg.hu/elet/20260628_megdolt-a-napi-melegrekord",
-      "summary": "Nem csak nálunk durva a helyzet, Bécs belvárosában még sosem volt 40 fok felett a hőség."
-    },
-    {
-      "title": "Indul a vasárnap esti káosz az M7-esen, baleset volt Budapest felé",
-      "link": "https://hvg.hu/cegauto/20260628_indul-a-vasarnap-esti-kaosz-az-m7-esen-baleset-volt-budapest-fele",
-      "summary": "A torlódás egyelőre három kilométeres."
-    },
-    {
-      "title": "Putyin: A csatatéren nem tudnak legyőzni minket, a belső zűrzavar sem sikerül",
-      "link": "https://hvg.hu/vilag/20260628_putyin-a-nyugat-nem-tudta-legyozni-oroszorszagot-a-csatateren",
-      "summary": "Az orosz államfő szerint a kijevi rezsim mostanra nyíltan terrorista tevékenységhez folyamodik."
     }
   ],
   "BBC": [
     {
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive."
+      "title": "Burnham to promise devolution in first major speech since launching No 10 bid",
+      "link": "https://www.bbc.co.uk/news/articles/c14yr0mgdp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The favourite to be the next prime minister will set out his economic vision in a speech in Manchester."
     },
     {
       "title": "Chris Mason: Burnham begins to sketch out vision but faces huge and imminent questions",
       "link": "https://www.bbc.co.uk/news/articles/ckg4vypy8lzo?at_medium=RSS&at_campaign=rss",
       "summary": "The new MP for Makerfield will give what his team has called \"his first major leadership speech\" on Monday morning."
+    },
+    {
+      "title": "Two boys pulled from Venezuela earthquake rubble among 33 people rescued over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
+      "summary": "With tens of thousands of people missing, relatives face another night waiting for news of loved ones as the crucial window for locating survivors closes."
+    },
+    {
+      "title": "White working-class children failed by education system, says inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cq51j10q601o?at_medium=RSS&at_campaign=rss",
+      "summary": "The inquiry spoke to thousands of young people and their parents, as well as hundreds of teachers."
+    },
+    {
+      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
+      "link": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says it will invest in modern drone-equipped vessels in the upcoming defence investment plan."
+    },
+    {
+      "title": "Temperatures to drop this week but relief from heat may be short-lived",
+      "link": "https://www.bbc.co.uk/weather/articles/c5yzq1q4zm8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many will experience cooler air and some rain this week before a possible return to hot weather at the weekend."
+    },
+    {
+      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
+      "summary": "Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury."
     },
     {
       "title": "England captain Ben Stokes says retiring from international cricket 'best thing' for him",
@@ -253,34 +278,9 @@
       "summary": "The pilot and 10 passengers - including five first-time parachutists - died in the incident, local officials said."
     },
     {
-      "title": "Emma Raducanu withdraws from Wimbledon because of stress fracture",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c15y0q31522o?at_medium=RSS&at_campaign=rss",
-      "summary": "Emma Raducanu is out of Wimbledon after withdrawing on the eve of her home Grand Slam tournament with a leg injury."
-    },
-    {
-      "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
-      "link": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients."
-    },
-    {
-      "title": "Agnew: Ben Stokes's exit is unconventional for an English great",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/clyw37kgjeeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ben Stokes' shock retirement as England captain during the third Test against New Zealand was unconventional - just like the great player himself, says Jonathan Agnew."
-    },
-    {
-      "title": "Navy to build drone-equipped warships instead of replacing ageing destroyers",
-      "link": "https://www.bbc.co.uk/news/articles/c2ky95ndx92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government says it will invest in modern drone-equipped vessels in the upcoming defence investment plan."
-    },
-    {
-      "title": "Harry reconsiders bringing Meghan and children on UK trip",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy6ywg73wo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after his request for police protection was rejected days before the family is due to arrive."
-    },
-    {
-      "title": "British man held in Ecuador after woman's body found in suitcase",
-      "link": "https://www.bbc.co.uk/news/articles/c5yz53ll534o?at_medium=RSS&at_campaign=rss",
-      "summary": "Matthew Ashley Foster-Smith was arrested in Ecuador after the woman was found dead in Colombia."
+      "title": "Over one million children referred for mental healthcare - with anxiety the main reason",
+      "link": "https://www.bbc.co.uk/news/articles/cwyd1l0lge8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Demand is soaring beyond capacity, meaning children in England wait years for help with various conditions."
     },
     {
       "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
@@ -288,9 +288,14 @@
       "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency."
     },
     {
-      "title": "How Bellingham became Tuchel's most important player",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&at_campaign=rss",
-      "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play."
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "link": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams."
+    },
+    {
+      "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever."
     },
     {
       "title": "Conspiracy or chaos? Algeria & Austria defend 'unexpected' draw",
@@ -298,14 +303,9 @@
       "summary": "The 'Disgrace of Gijon' - an infamous match at the 1982 World Cup in Spain - has followed Austria and Algeria for 44 years. Did history repeat itself in Algeria's 3-3 draw with Austria on Sunday?"
     },
     {
-      "title": "27 flights, 24 matches: The carbon cost of Fifa president's World Cup tour",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgev5wy0zg3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gianni Infantino has clocked up thousands of air miles across North America so far."
-    },
-    {
-      "title": "From Boston to Miami: How the Tartan Army lit up the World Cup",
-      "link": "https://www.bbc.co.uk/news/articles/cq51qvewvn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland's return to the tournament after 28 years will be fondly remembered for the fans who travelled to the US"
+      "title": "France the team to beat? Chris Sutton predicts World Cup's last-32 matches",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0ry947p1qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport's football expert Chris Sutton gives his predictions for the last-32 ties at the 2026 World Cup, including England against DR Congo."
     }
   ],
   "TechCrunch": [

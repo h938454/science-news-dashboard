@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter ivóvíz-korlátozásra szólít fel a hőség miatt",
-      "summary": "A politikus arra kéri a lakosságot, hogy a következő két napban csak a legszükségesebb vízhasználatra korlátozzák fogyasztásukat a rendkívüli hőség és a vízhiány miatt. A Duna menti vízművek területén a felhívás ellenére tovább nőtt a vízfogyasztás.",
+      "title": "Magyar Péter víztakarékosságra szólít fel a hőség miatt",
+      "summary": "A kánikula súlyossága miatt Magyar Péter a vízfogyasztás korlátozására szólított fel, kiemelve, hogy minden el nem pazarolt liter víz számít. A felhívás ellenére a Duna menti vízművek területén a vízfogyasztás tovább növekedett, rávilágítva a helyzet sürgető voltára.",
       "importance": 5
     },
     {
-      "title": "Gyanúsítottként hallgatták ki Hajdu Jánost, Orbán Viktor kiáll mellette",
-      "summary": "Hajdu Jánost, a volt TEK-est gyanúsítottként hallgatták ki az \"aranykonvoj\" ügyében. Orbán Viktor miniszterelnök ugyanakkor kiállt mellette, kijelentve, hogy Hajdu minden hazáját szerető ember számára példakép.",
-      "importance": 5
-    },
-    {
-      "title": "Áramszünetek és rugalmatlan áramrendszer a kánikula idején",
-      "summary": "Budapest három kerületében több ezer embernél ment el az áram a hőségriadó idején. Az eset rávilágít a hazai áramrendszer rugalmatlanságára, ami a szélsőséges időjárási körülmények között komoly problémákat okoz.",
+      "title": "A kánikula rámutat a hazai áramrendszer rugalmatlanságára",
+      "summary": "A példátlan hőség idején kiderült, hogy mennyire rugalmatlan a magyar áramrendszer, ami Budapesten több ezer embernél okozott áramkimaradást. Sürgetővé vált a megoldások keresése az energiaellátás stabilizálására, hogy elkerülhetők legyenek a jövőbeni hasonló problémák.",
       "importance": 4
     },
     {
-      "title": "Hosszabbodik a babahitel-felhasználási határidő, megnyílnak az építéshatósági adatok",
-      "summary": "Fontos változások lépnek életbe a babahitelek igénylési határidejét illetően, ami hosszabb időt biztosít a családoknak. Emellett újra hozzáférhetővé válnak az építéshatósági adatok, ami az építőipari folyamatok átláthatóságát növeli.",
+      "title": "Gyanúsítottként hallgatták ki Hajdu Jánost az aranykonvoj ügyében",
+      "summary": "Hajdu Jánost, a volt TEK-es vezetőt gyanúsítottként hallgatták ki az „aranykonvoj-ügy” kapcsán, amely évek óta foglalkoztatja a közvéleményt. Az eset további fejleményekkel szolgálhat egy korábbi rejtélyes incidens tisztázásában.",
       "importance": 4
+    },
+    {
+      "title": "Cser-Palkovics András lemondott egyetemi kuratóriumi tagságáról",
+      "summary": "Cser-Palkovics András, Székesfehérvár polgármestere lemondott a Széchenyi István Egyetem alapítványában betöltött kuratóriumi tagságáról. Ez a döntés egy tágabb, az egyetemi alapítványokat érintő politikai és közéleti vita részét képezi.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Földrengés Venezuelában: Hősi küzdelem a túlélőkért a romok alatt",
-      "summary": "Venezuelát pusztító földrengés rázta meg, melynek következtében épületek omlottak össze, és humanitárius válság alakult ki. A mentőcsapatok dogsokkal, drónokkal és hangdetektorokkal keresik a túlélőket, miközben az utórengések tovább nehezítik a munkát.",
+      "title": "Pusztító földrengés Venezuelában, mentőakciók zajlanak",
+      "summary": "Venezuelában pusztító földrengés okozott jelentős károkat, számos épület összeomlott. A mentőalakulatok kétségbeesetten kutatnak a túlélők után a romok alatt, miközben az érintetteket sokkolta a katasztrófa.",
       "importance": 5
     },
     {
-      "title": "Putyin is elismeri az ukrán csapások hatását az orosz üzemanyagellátásra",
-      "summary": "Vlagyimir Putyin orosz elnök elismerte, hogy az ukrán támadások problémákat okoznak az orosz benzinkutaknál, ahol sorok alakultak ki. Ez jelzi, hogy a háború egyre súlyosabb hatással van Oroszország infrastruktúrájára és gazdaságára.",
+      "title": "Putyin elismerte az ukrán csapások okozta üzemanyaghiányt Oroszországban",
+      "summary": "Vlagyimir Putyin orosz elnök nyilvánosan elismerte, hogy az ukrán dróncsapások miatt problémák adódtak az üzemanyagellátásban és sorok alakultak ki a benzinkutakon. Ez ritka beismerés az orosz vezetés részéről a háború hazai hatásairól.",
       "importance": 5
     },
     {
-      "title": "Európát példátlan hőség sújtja, a zöldek légkondicionálást követelnek",
-      "summary": "Rekordokat döntő hőhullám söpör végig Európán, ami arra késztette az európai zöldeket, hogy széleskörű légkondicionálási megoldásokat követeljenek. A kontinensnek szembe kell néznie azzal a kérdéssel, hogy új klíma alakul-e ki.",
+      "title": "Nagy-Britannia új menekültügyi szabályokat tervez, visszatérítési kötelezettséggel",
+      "summary": "Nagy-Britannia új menekültügyi szabályokat vezetne be, amelyek értelmében a menekülteknek akár 10 000 fontot is vissza kellene fizetniük a befogadásuk költségeiből. A tervezet jelentős vitákat váltott ki emberi jogi szervezetek körében.",
       "importance": 4
     },
     {
-      "title": "Az Egyesült Királyság új menekültügyi szabályokat vezet be, a menedékkérőknek vissza kell fizetniük a költségeket",
-      "summary": "Az Egyesült Királyságban új menekültügyi szabályok lépnek életbe, melyek értelmében a menedékkérőknek körülbelül 10 000 fontot kell visszafizetniük. A lépés heves vitákat váltott ki a humanitárius szervezetek körében.",
+      "title": "Ukrajna innovatív módszerekkel biztosítja az áramellátást az orosz támadások ellenére",
+      "summary": "Ukrajnában speciális megoldásokkal biztosítják az áramellátást még akkor is, ha az oroszok kilőtték a transzformátorokat. Ez a technológiai ellenállóképesség kulcsfontosságú az ország lakosságának túléléséhez és a háborús erőfeszítések fenntartásához.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Ford visszahívta mérnökeit, az MI nem vált be a minőség-ellenőrzésben",
-      "summary": "A Ford autógyár visszavette tapasztalt mérnökeit, miután a mesterséges intelligencia nem bizonyult hatékonynak a minőség-ellenőrzési folyamatokban. Az eset rávilágít az MI ipari alkalmazásának korlátaira és az emberi szakértelem fontosságára.",
+      "title": "A Ford visszavette mérnökeit, az MI nem vált be a minőség-ellenőrzésben",
+      "summary": "A Ford visszahívta tapasztalt mérnökeit, miután a mesterséges intelligencia alapú rendszerek nem bizonyultak hatékonynak a minőség-ellenőrzési feladatokban. Ez rávilágít az MI jelenlegi korlátaira és az emberi szakértelem továbbra is nélkülözhetetlen szerepére a gyártásban.",
       "importance": 5
     },
     {
-      "title": "Dél-koreai tech óriások 550 milliárd dollárt fektetnek be a félvezetőiparba",
-      "summary": "A dél-koreai technológiai óriáscégek, köztük a Samsung és az SK Hynix, több mint 550 milliárd dolláros beruházást jelentettek be a félvezetőiparba. A hatalmas befektetés célja a chipgyártás fellendítése és a globális \"RAMageddon\" enyhítése.",
+      "title": "Dél-koreai techóriások 550 milliárd dollárt fektetnek a memóriachip-gyártásba",
+      "summary": "Dél-koreai technológiai óriások hatalmas, több mint 550 milliárd dolláros befektetést jelentettek be a memóriachip-gyártásba. Ezzel a lépéssel a globális chiphiányt enyhítenék és megerősítenék a régió vezető szerepét a félvezetőiparban.",
       "importance": 5
     },
     {
-      "title": "A TIDAL fellép a mesterséges intelligencia alapú zene monetizálása ellen",
-      "summary": "A TIDAL zenei streaming szolgáltató szigorításokat vezet be a mesterséges intelligencia által generált zenék monetizálása terén, korlátozva ezzel a bevételszerzési lehetőségeket. A lépés az AI zeneiparban való térnyerésére adott válaszként értelmezhető.",
+      "title": "Elkészült a világ első, csak robotokkal üzemelő szállodája",
+      "summary": "Megnyílt a világ első olyan szállodája, ahol kizárólag robotok látják el a feladatokat, a vendégek fogadásától a szobaszervizig. Ez az innováció új korszakot nyithat a vendéglátóiparban és a robotika szélesebb körű alkalmazásában.",
       "importance": 4
     },
     {
-      "title": "A Google Gemini személyre szabott AI képgenerálása ingyenessé válik az USA-ban",
-      "summary": "A Google bejelentette, hogy a Gemini platform személyre szabott mesterséges intelligencia alapú képgenerálási funkciója ingyenesen elérhetővé válik az amerikai felhasználók számára. Ez a lépés jelentősen növelheti az AI képgenerálás hozzáférhetőségét a nagyközönség számára.",
+      "title": "A TIDAL korlátozza az AI-generált zenék monetizációját",
+      "summary": "A TIDAL zenei streaming szolgáltató lépéseket tett az MI által generált zenék ellen, megakadályozva azok monetizálását a platformon. Ezzel a döntéssel a cég védi a művészek jogait és a zenei ipar kreatív integritását.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A CRISPR új iránya: epigenom szerkesztése betegségek kezelésére",
-      "summary": "A CRISPR génszerkesztési technológia következő fázisában a tudósok az epigenom szerkesztésére fókuszálnak, hogy betegségeket kezeljenek. Ez a megközelítés új reményt adhat számos genetikai rendellenesség gyógyítására.",
+      "title": "Rekord hőség Európában: Megváltozott a kontinens éghajlata?",
+      "summary": "Európa példátlan hőhullámmal küzd, ami felveti a kérdést, hogy a kontinens éghajlata véglegesen megváltozott-e. A zöld szervezetek már légkondicionálók telepítését követelik a lakosság védelmére a szélsőséges időjárás ellen.",
       "importance": 5
     },
     {
-      "title": "Új szupravezető család felfedezése rhomboéderes grafénban mágneses térrel erősítve",
-      "summary": "Tudósok egy új szupravezető család létezését mutatták ki rhomboéderes grafénban, ahol a mágneses tér jelentősen növeli a szupravezető képességet. Ez az áttörés új utakat nyithat a szupravezető anyagok kutatásában és alkalmazásában.",
+      "title": "A CRISPR technológia epigenom-szerkesztéssel kezelhet betegségeket",
+      "summary": "A CRISPR génszerkesztő technológia egy újabb fejlődési fázisba lép, ahol vállalatok az epigenom – a génexpressziót szabályozó mechanizmusok – szerkesztésével kísérleteznek betegségek kezelésére. Ez a megközelítés forradalmasíthatja a genetikai terápiákat és a gyógyítást.",
       "importance": 5
     },
     {
-      "title": "A peptidek népszerűsége: Tudomány vagy hype a háttérben?",
-      "summary": "Egyre nagyobb népszerűségnek örvend a peptidek használata egészségügyi és wellness célokra, azonban felmerül a kérdés, hogy mennyire támasztja alá mindezt a tudomány. A szakértők igyekeznek különbséget tenni a valós ígéretek és a túlzott marketing között.",
+      "title": "Mágneses térrel erősített szupravezetők felfedezése romboéderes grafénban",
+      "summary": "Tudósok új családját fedezték fel a mágneses térrel erősített szupravezetőknek romboéderes grafénban, ami jelentős áttörés az anyagtudományban. Ez a felfedezés új lehetőségeket nyithat az energiahatékony technológiák és az elektronika fejlesztésében.",
       "importance": 4
     },
     {
-      "title": "A petefészkek új feladatot kapnak a menopauza után",
-      "summary": "Kutatók felfedezték, hogy a petefészkek a menopauza beköszönte után sem válnak teljesen inaktívvá, hanem egy \"második munkát\" kezdenek el, valószínűleg hormonális vagy egyéb élettani szerepet töltve be. Ez új megvilágításba helyezi a női test működését idősebb korban.",
+      "title": "Német tudósok harcolnak az akadémiai szabadságot korlátozó tervek ellen",
+      "summary": "Német tudósok aktívan tiltakoznak a szélsőjobboldali pártok azon tervei ellen, amelyek az akadémiai szabadság korlátozására irányulnak. Ez az ügy rávilágít a tudományos kutatás függetlenségét fenyegető politikai beavatkozásokra Európában.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Brazília a legjobb 16 között a labdarúgó-világbajnokságon",
-      "summary": "Az ötszörös világbajnok brazil válogatott hátrányból felállva győzte le ellenfelét a csoportkörben, majd a 96. percben lőtt góllal ütötte ki Japánt, ezzel biztosítva helyét a labdarúgó-világbajnokság legjobb tizenhat csapata között.",
+      "title": "Foci-vb bombameglepetés: Paraguay tizenegyesekkel kiejtette Németországot",
+      "summary": "Hatalmas meglepetésre Paraguay tizenegyespárbajban kiejtette a négyszeres világbajnok Németországot a labdarúgó-világbajnokságról. Az 1-1-es rendes játékidő után Paraguay 4-3-ra nyert a büntetőrúgásokban, ezzel a torna eddigi legnagyobb szenzációját okozva.",
       "importance": 5
     },
     {
-      "title": "A FIFA szabályt akart változtatni a vb közben az érmefeldobásnál",
-      "summary": "A FIFA a labdarúgó-világbajnokság ideje alatt tervezte megváltoztatni az érmefeldobás szabályait, ami jelentős felzúdulást és kritikát váltott ki a csapatok és a szurkolók körében. A változtatás végül nem valósult meg.",
+      "title": "Brazília drámai győzelemmel jutott a legjobb 16 közé a vb-n",
+      "summary": "Az ötszörös világbajnok Brazília a 96. percben lőtt góllal győzte le Japánt egy izgalmas mérkőzésen, ezzel biztosítva helyét a labdarúgó-világbajnokság nyolcaddöntőjében. A csapat ismét megmutatta küzdőszellemét és helytállását kritikus pillanatokban.",
       "importance": 4
     },
     {
-      "title": "Lemondott a cseh labdarúgó szövetségi kapitány a vb után",
-      "summary": "A cseh labdarúgó-válogatott szövetségi kapitánya lemondott posztjáról, miután csapata mindössze egy ponttal zárta a világbajnokságot. A döntés a gyenge szereplés közvetlen következménye.",
-      "importance": 4
+      "title": "Lemondott a cseh labdarúgó-válogatott szövetségi kapitánya",
+      "summary": "A labdarúgó-világbajnokságról mindössze egy ponttal távozó cseh válogatott szövetségi kapitánya lemondott posztjáról. A gyenge szereplés után várható volt ez a döntés, ami edzőváltást jelent a nemzeti csapat élén.",
+      "importance": 3
     },
     {
-      "title": "Az Opta álomcsapata a labdarúgó-vb csoportkör után, Vozinhától Messiig",
-      "summary": "Az Opta sportstatisztikai vállalat összeállította a labdarúgó-világbajnokság csoportkörének álomcsapatát, amelyben olyan nevek szerepelnek, mint Vozinha és Messi. Az összeállítás a játékosok csoportkörben nyújtott teljesítménye alapján készült.",
+      "title": "A világbajnoki tizenegyespárbajok pszichológiája",
+      "summary": "A labdarúgó-világbajnokságok tizenegyespárbajainak tudományos vizsgálata sokat elárul a nyomás alatti teljesítmény és a döntéshozatal pszichológiájáról. Ez a terület mélyebb betekintést enged a sportolók mentális felkészültségébe a kritikus pillanatokban.",
       "importance": 3
     }
   ]

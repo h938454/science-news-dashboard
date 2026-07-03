@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyarország visszavonta a menedékjogot lengyel politikusoktól",
-      "summary": "A magyar kormány megvonta a politikai menedékjogot Zbigniew Ziobrótól és Marcin Romanowskitól, akiket korábban az Orbán-kormány fogadott be. Ez a lépés jelentős diplomáciai és jogállamisági kérdéseket vet fel.",
+      "title": "Távolodás az eurótól a költségvetési hiány miatt",
+      "summary": "A költségvetési hiány drámai növekedése miatt Magyarország egyre távolabb kerül az euró bevezetésének lehetőségétől. A gazdasági helyzet súlyos aggodalmakra ad okot a pénzügyi stabilitás tekintetében.",
       "importance": 5
     },
     {
-      "title": "Áder János bizonyítékokat vár Magyar Pétertől",
-      "summary": "Áder János volt köztársasági elnök felszólította Magyar Pétert, hogy bizonyítsa az őt közpénz-kilapátolással vádoló állításait, vagy kérjen bocsánatot. Az ügy tovább élesíti a közéleti vitát.",
-      "importance": 4
-    },
-    {
-      "title": "A Nemzeti Együttműködési Alap átvilágítása várható",
-      "summary": "A kormány felülvizsgálja a Nemzeti Együttműködési Alapot, amely a civil szervezetek támogatásáért felelős. Az átvilágítás célja a rendszer transzparenciájának növelése.",
-      "importance": 4
-    },
-    {
-      "title": "Két postás halt meg a hőségben munkavégzés közben",
-      "summary": "A rendkívüli hőségben két postás vesztette életét munkavégzés közben, ami felhívja a figyelmet a munkahelyi biztonságra és a klímaváltozás hatásaira. Az eset tragikus következménye a melegnek.",
+      "title": "Félmilliárdos állami hirdetési támogatás az Origónak",
+      "summary": "Az Origo fél év alatt 500 millió forintot, a Pesti Srácok pedig 200 milliót kapott állami hirdetésekből, ami rávilágít a kormányzati médiafinanszírozás mértékére. A jelentős összegek kérdéseket vetnek fel a közpénzek felhasználásával kapcsolatban.",
       "importance": 5
+    },
+    {
+      "title": "Áder János bizonyítékokat vagy bocsánatkérést követel Magyar Pétertől",
+      "summary": "Áder János volt köztársasági elnök bizonyítékokat kért vagy bocsánatkérést várt Magyar Pétertől, aki korábban közpénz-kilapátolással vádolta őt. Az ügy politikai feszültségeket gerjeszt és a közélet egyik fő témája maradt.",
+      "importance": 4
+    },
+    {
+      "title": "Magyarország visszavonta lengyel politikusok menedékjogát",
+      "summary": "A magyar kormány visszavonta két lengyel politikus menekültstátuszát, amelyet korábban az Orbán-kormány adományozott nekik. Ez a lépés jelentős diplomáciai és belpolitikai visszhangot váltott ki.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij Patriot-rakéták ukrajnai gyártását szorgalmazza",
-      "summary": "Volodimir Zelenszkij ukrán elnök szerint Ukrajnának saját Patriot-rakétákat kellene gyártania, és reméli, ez nem ellenkezik Donald Trump szándékaival. A bejelentés a háború jövőbeni alakulása szempontjából kulcsfontosságú.",
+      "title": "Medvegyev: Finnország orosz nukleáris célpont",
+      "summary": "Dmitrij Medvegyev orosz biztonsági tanács elnökhelyettese kijelentette, hogy Finnország is az orosz nukleáris fegyverek lehetséges célpontjai közé került. Ez a nyilatkozat súlyos feszültséget okoz a nemzetközi politikában és a régió biztonságában.",
       "importance": 5
     },
     {
-      "title": "Feszült helyzet az Ománi-szorosban",
-      "summary": "Az Ománi-szoros térségében, ahol korábban hajókat foglaltak le, feszült, de viszonylagos nyugalom tért vissza. A terület továbbra is stratégiai fontosságú a nemzetközi hajózás és a regionális biztonság szempontjából.",
-      "importance": 4
+      "title": "Zelenszkij Patriot-rakéták gyártását szorgalmazza",
+      "summary": "Volodimir Zelenszkij ukrán elnök szerint Ukrajnának magának is képesnek kell lennie Patriot-rakéták gyártására, és reméli, hogy ez a törekvés nem ütközik Donald Trump ellenállásába. A független fegyvergyártás kulcsfontosságú lenne Ukrajna védelmi képességéhez.",
+      "importance": 5
     },
     {
-      "title": "Földrengés túlélőjét mentették ki Venezuelában nyolc nap után",
-      "summary": "Egy férfit mentettek ki a venezuelai földrengés romjai alól, miután nyolc napot töltött a törmelék fogságában. A mentés rendkívüli emberi erőfeszítésekről és túlélésről tanúskodik.",
-      "importance": 4
+      "title": "Az Instagram gyermekek szexuális zaklatását népszerűsítő hirdetéseket futtatott Indiában",
+      "summary": "A BBC vizsgálata szerint az Instagram Indiában olyan hirdetéseket jelenített meg, amelyek gyermekek szexuális zaklatására vonatkozó anyagokat népszerűsítettek. Az ügy súlyos etikai és jogi aggályokat vet fel a platform működésével és a tartalom moderálásával kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Felfegyverkezve ment templomba egy férfi Észak-Karolinában",
-      "summary": "Egy észak-karolinai férfi két lángszóróval és több száz lőszerrel próbált meg bejutni egy templomba. A hatóságok megakadályozták a potenciális tragédiát, a biztonsági aggodalmak pedig továbbra is fennállnak.",
-      "importance": 3
+      "title": "Azonosították a monacói csomagrobbantás gyanúsítottját",
+      "summary": "A monacói hatóságok azonosították a csomagrobbantás gyanúsítottját, és elfogatóparancsot adtak ki ellene. Az ügy a nemzetközi rendőrségi együttműködés és a terrorizmus elleni küzdelem fontosságát emeli ki.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI 5%-os részesedést ajánlott fel egy amerikai állami alapnak",
-      "summary": "Az OpenAI azt javasolta, hogy tőkéjének 5%-át egy amerikai állami vagyonalapnak adományozza. Ez a lépés jelentős mértékben befolyásolhatja az AI szabályozását és állami szerepvállalását a technológiai szektorban.",
+      "title": "Zuckerberg szerint az AI ügynökök fejlesztése lassabb a vártnál",
+      "summary": "Mark Zuckerberg elismerte, hogy az AI-ügynökök fejlesztése nem halad olyan gyorsan, ahogy remélte, és a Meta további befektetésekre és fejlesztésekre készül ezen a területen. Ez a kijelentés rávilágít az AI-kutatás kihívásaira és a technológiai óriások elvárásaira.",
       "importance": 5
     },
     {
-      "title": "Zuckerberg szerint az AI ügynökök lassabban fejlődnek a vártnál",
-      "summary": "Mark Zuckerberg, a Meta vezérigazgatója elmondta alkalmazottainak, hogy az AI ügynökök fejlesztése nem halad olyan gyorsan, mint ahogy remélte. Ez a megjegyzés rávilágít az AI-iparág kihívásaira és a realisztikus elvárásokra.",
+      "title": "Az OpenAI 5%-os részesedést ajánlott fel egy amerikai állami alapnak",
+      "summary": "Az OpenAI felvetette, hogy 5%-os részesedést adományozna egy amerikai állami vagyonalapnak, ami komoly vitákat vált ki a cég jövőbeli irányáról és befolyásáról. Ez a javaslat hosszú távú hatással lehet az AI iparágra és a technológiai szabályozásra.",
+      "importance": 5
+    },
+    {
+      "title": "Figyelmeztető jelek az AI valódi költségeiről",
+      "summary": "A Google és az Amazon példája figyelmeztető jeleket mutat az AI-fejlesztés valódi költségeire, beleértve az energiafogyasztást és a környezeti terhelést. A technológia elterjedése egyre sürgetőbbé teszi a fenntarthatósági kérdések megválaszolását.",
       "importance": 4
     },
     {
-      "title": "Az AI valódi költségeire figyelmeztetnek",
-      "summary": "A Google és az Amazon által szolgáltatott adatok figyelmeztetnek az AI valódi gazdasági és környezeti költségeire. Az energiaigény és az erőforrás-felhasználás fenntarthatósági kérdéseket vet fel.",
+      "title": "Az IQM, Európa első kvantumcége, elismeri a technológia bizonytalan jövőjét",
+      "summary": "Az IQM, Európa vezető kvantumcégének nyilatkozata szerint a kvantumtechnológia jövője még bizonytalan, ami rávilágít a terület kutatási és fejlesztési kihívásaira. Ez a beismerés fontos jelzés a befektetők és a tudományos közösség számára is.",
       "importance": 4
-    },
-    {
-      "title": "Európa vezető kvantumcégénél bizonytalan a jövő",
-      "summary": "Az IQM, Európa első nyilvános kvantumcége elismerte, hogy a kvantumtechnológia jövője bizonytalan. Ez a bejelentés jelzi a területen rejlő technikai és piaci kihívásokat.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Áttörés a hasnyálmirigyrák kezelésében",
-      "summary": "Évtizedeken át gyógyíthatatlannak tartott hasnyálmirigyrák egy formájánál értek el 90 százalékos győzelmet, ami hatalmas orvosi áttörést jelent. Ez reményt adhat a betegeknek és új kezelési lehetőségeket nyithat meg.",
+      "title": "Megtalálták a neutrínók bölcsőjét: az \"Árnyékrobbanót\"",
+      "summary": "A tudósok azonosították az \"Árnyékrobbanó\" nevű kozmikus objektumot, amely a neutrínók, a szellemrészecskék születési helyéül szolgál. Ez a felfedezés alapvető jelentőségű az asztrofizikában és a világegyetem megértésében.",
       "importance": 5
     },
     {
-      "title": "Ritka amerikai függetlenségi nyilatkozatot fedeztek fel",
-      "summary": "Egy önkéntes egy ritka amerikai függetlenségi nyilatkozat másolatára bukkant az Egyesült Királyság archívumaiban. A felfedezés jelentős történelmi értékkel bír.",
+      "title": "Önszerveződő molekulák alkalmazása perovszkit napelemekben",
+      "summary": "Kutatók önszerveződő molekulákat alkalmaztak perovszkit napelemek gyártásánál elektrodepozíciós módszerrel, ami hatékonyabbá és stabilabbá teheti a következő generációs napelemeket. Ez az áttörés új lehetőségeket nyit az energiahatékonyság terén.",
+      "importance": 5
+    },
+    {
+      "title": "Orvosi genomika: szabványok és források harmonizálása",
+      "summary": "A tudósok a gyógyászati genomika területén a szabványok és erőforrások harmonizálásán dolgoznak, hogy globálisan egységesítsék a genomikai adatok gyűjtését és elemzését. Ez jelentősen felgyorsíthatja a személyre szabott orvoslás fejlődését.",
       "importance": 4
     },
     {
-      "title": "Kiborg csótányok boldogulnak a víz alatt",
-      "summary": "Tudósok olyan kiborg csótányokat fejlesztettek ki, amelyek már víz alatt is képesek működni. Ez a bio-mérnöki áttörés új lehetőségeket nyithat meg a kutatásban és a mentési feladatokban.",
-      "importance": 3
-    },
-    {
-      "title": "Ép Fordot találtak az óceán mélyén 83 év után",
-      "summary": "Egy különleges Ford autóra bukkantak szinte sértetlenül az óceán mélyén, 83 évvel elsüllyedése után. A felfedezés a tengeri régészet és a megőrzés szempontjából is figyelemre méltó.",
-      "importance": 3
+      "title": "Virtuális élesztő megalkotása felé",
+      "summary": "Kutatók azon dolgoznak, hogy egy teljes, virtuális élesztőmodellt hozzanak létre, ami forradalmasíthatja a biológiai rendszerek megértését és a gyógyszerfejlesztést. Ez a digitális modell mélyebb betekintést engedne a sejtek működésébe.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Spanyolország magabiztosan jutott tovább Ausztria ellen",
-      "summary": "Spanyolország favorithoz méltóan, 3-0-s győzelemmel ejtette ki Ausztriát, ezzel továbbjutva a következő körbe. A csapat továbbra is kapott gól nélkül menetel a tornán.",
+      "title": "Drámai búcsú a vb-től: Horvátország kiesett, Ronaldo a főszereplő",
+      "summary": "A horvát válogatott drámai, több mint 100 perces mérkőzésen búcsúzott a világbajnokságtól Portugália ellen. Cristiano Ronaldo és a VAR-rendszer is kulcsszerepet játszott a mérkőzés alakulásában.",
       "importance": 5
     },
     {
-      "title": "Portugália és Horvátország gól nélküli döntetlennel zárta mérkőzését",
-      "summary": "A Portugália–Horvátország mérkőzés 0-0-ás döntetlennel ért véget, ami izgalmas folytatást ígér a csoportban. A csapatok nem tudtak egymás fölé kerekedni.",
+      "title": "Ronaldo beérte Kocsis Sándort a vb-góllövőlistán",
+      "summary": "Cristiano Ronaldo a világbajnokságon szerzett góljával beérte a legendás magyar futballistát, Kocsis Sándort az örökös vb-góllövőlistán. Ez a történelmi teljesítmény tovább erősíti Ronaldo helyét a sporttörténelemben.",
+      "importance": 5
+    },
+    {
+      "title": "Spanyolország magabiztosan jutott tovább Ausztria ellen",
+      "summary": "Spanyolország favoritként igazolta papírformáját, és magabiztosan győzte le Ausztriát a világbajnokságon, ezzel bejutva a következő fordulóba. A csapat meggyőző játékkal aratott győzelmet.",
       "importance": 4
     },
     {
-      "title": "Angliában hosszabb nyitva tartással készülnek a vb-meccsre",
-      "summary": "Az angliai kocsmák tovább nyitva maradhatnak az angol–mexikói labdarúgó-világbajnoki mérkőzés idején, lehetővé téve a szurkolóknak a hajnali meccs megtekintését. A döntés a sportesemény társadalmi hatását mutatja.",
+      "title": "Viták az Anglia–Mexikó meccs utáni iskolai részvételről és a pubok nyitvatartásáról",
+      "summary": "Míg Thomas Tuchel azt kérte, hogy a fiatal angol szurkolók maradhassanak fenn a hajnali vb-meccsre, Starmer kijelentette, a gyerekeknek másnap is iskolában a helyük. Közben az angliai pubok engedélyt kaptak a 5 óráig tartó nyitvatartásra a mérkőzés miatt.",
       "importance": 4
-    },
-    {
-      "title": "Tuchel szerint a fiatal angol szurkolók maradhatnak ébren a vb-meccsre",
-      "summary": "Thomas Tuchel szerint a fiatal angol szurkolók is maradhatnak ébren a hajnali Anglia–Mexikó vb-mérkőzésre, vitát indítva arról, hogy ez helyes-e a gyermekek számára. A felvetés kiemeli a sport kulturális és társadalmi dilemmáit.",
-      "importance": 3
     }
   ]
 }

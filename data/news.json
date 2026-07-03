@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Portugália–Horvátország 0-0",
+      "link": "https://telex.hu/sport/2026/07/03/portugalia-horvatorszag-vb-kozvetites",
+      "summary": ""
+    },
+    {
       "title": "Két lángszóróval és több száz lőszerrel ment templomba egy észak-karolinai férfi",
       "link": "https://telex.hu/kulfold/2026/07/02/eszak-karolina-egyesult-allamok-templom-langszoro-szamszerij-loszer",
       "summary": "Még a templom előtt letartóztatták."
@@ -69,11 +74,6 @@
       "title": "A Fővárosi Vízművek térképén jól látszik, hol nőtt akár ötszörösére a vízfogyasztás a hőség alatt",
       "link": "https://telex.hu/belfold/2026/07/02/hoseg-napi-vizfogyasztas-terkep-vizmuvek",
       "summary": "A legnagyobb terhelés ott jelentkezett, ahol sok kertet öntöznek, medencéket töltenek fel."
-    },
-    {
-      "title": "Áder János felszólította Magyar Pétert: bizonyítékot vagy bocsánatkérést vár",
-      "link": "https://telex.hu/belfold/2026/07/02/ader-janos-magyar-peter-felszolitas-bocsanatkeres-bizonyitek",
-      "summary": "A miniszterelnök a sajtótájékoztatóján közpénz „kilapátolásával” vádolta a volt köztársasági elnököt."
     }
   ],
   "Portfolio": [],
@@ -248,9 +248,24 @@
       "summary": "The government had initially said it would not relax licensing laws further for the World Cup."
     },
     {
-      "title": "Labour failed to prepare for power, admits PM's former top aide",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office."
+      "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
+      "link": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stars have been spotted arriving in New York ahead of Taylor Swift's rumoured wedding celebrations at Madison Square Garden."
+    },
+    {
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC visits Bandar Abbas to see how the US-Israeli war with Iran has affected everyday life in the port city."
+    },
+    {
+      "title": "NHS to reward people who walk 30 minutes a day",
+      "link": "https://www.bbc.co.uk/news/articles/cj6g0rdy40jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The \"marathon a month\" scheme, developed with former Olympic medallist Sir Brendan Foster, will launch early next year."
+    },
+    {
+      "title": "How the American Dream has survived 250 years, but only just",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The American Dream has persisted since the days of the Founding Fathers, but faith in the ideal is fading"
     },
     {
       "title": "Survivor pulled from rubble eight days after Venezuela earthquakes",
@@ -258,34 +273,24 @@
       "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him."
     },
     {
-      "title": "Watch: Kate gives out tickets and meets public in surprise Wimbledon visit",
-      "link": "https://www.bbc.co.uk/news/videos/cly09x7wjpko?at_medium=RSS&at_campaign=rss",
-      "summary": "After greeting queuing fans and handing out tickets to attendees, the princess took a seat on court 18."
-    },
-    {
-      "title": "Mini-mart at centre of BBC drug dealing investigation closed down",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4807pn9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Cradley Market shop, in Sandwell, is closed for three months following an investigation."
-    },
-    {
-      "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
-      "link": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stars have been spotted arriving in New York ahead of Taylor Swift's rumoured wedding celebrations at Madison Square Garden."
-    },
-    {
       "title": "I take responsibility to fund defence plan extremely seriously, says Burnham",
       "link": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
       "summary": "The Makerfield MP also rejects attacks on his economic stance, insisting he would not be \"indisciplined\" on finances."
     },
     {
-      "title": "Sciver-Brunt leads superb England into World Cup final",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cy731p46j5mo?at_medium=RSS&at_campaign=rss",
-      "summary": "England roar into Sunday's T20 World Cup final against Australia with a superb 40-run victory against South Africa at The Oval."
-    },
-    {
       "title": "At least eight arrests linked to forums that encourage drugging and raping women",
       "link": "https://www.bbc.co.uk/news/articles/cy4e109nx04o?at_medium=RSS&at_campaign=rss",
       "summary": "The National Crime Agency says it has identified 270 individuals linked to the abuse websites."
+    },
+    {
+      "title": "Rare copy of US Declaration of Independence found by volunteer in UK archives",
+      "link": "https://www.bbc.co.uk/news/articles/cgrkl104ly5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The newly discovered copy is one of only 11 of its kind in the world."
+    },
+    {
+      "title": "Why Wonderwall has become England's World Cup anthem",
+      "link": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Post-victory singalongs between England fans and players have become a new tradition this summer."
     },
     {
       "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
@@ -298,11 +303,6 @@
       "summary": "England are taking precautions to ensure boisterous locals do not disrupt their preparations in Mexico."
     },
     {
-      "title": "Mexico-England resale tickets cost over £2.6k",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdxdg73n911o?at_medium=RSS&at_campaign=rss",
-      "summary": "England fans hoping to attend the World Cup last-16 showdown with Mexico face paying a minimum of £2,600 for one ticket on Fifa's resale site."
-    },
-    {
       "title": "How do you handle World Cup drama? Take our quiz to find out",
       "link": "https://www.bbc.co.uk/news/articles/ce37gq5wx3go?at_medium=RSS&at_campaign=rss",
       "summary": "Super fan or nervous wreck? Find your World Cup style with this test"
@@ -310,9 +310,24 @@
   ],
   "TechCrunch": [
     {
+      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
+      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
+      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone."
+    },
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+    },
+    {
+      "title": "Private space pilots are flying orbital missions for the US Space Force",
+      "link": "https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/",
+      "summary": "True Anomaly and Rocket Lab are performing Top Gun-style satellite fly-bys for the U.S. military."
+    },
+    {
       "title": "Thiel Capital’s Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
       "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
-      "summary": "Selby's VC firm Copper Sky Capital is currently raising a $300 million second fund, according to a regulatory filing."
+      "summary": "Selby's VC firm, Copper Sky Capital, is currently raising a $300 million second fund, according to a regulatory filing."
     },
     {
       "title": "IQM, Europe’s first public quantum company, admits the future of the tech is uncertain",
@@ -368,98 +383,7 @@
       "title": "Lucid Motors’ CFO is out as its new CEO continues leadership shakeup",
       "link": "https://techcrunch.com/2026/07/02/lucid-motors-cfo-is-out-as-its-new-ceo-continues-leadership-shakeup/",
       "summary": "The company announced a new slate of executive hires meant to help turn things around, as Gravity SUV sales are not taking off as expected."
-    },
-    {
-      "title": "US government says it got hacked — again",
-      "link": "https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/",
-      "summary": "A top Democrat on the Senate's Intelligence Committee warned that the information accessed on a Homeland Security intelligence-sharing network may risk national security."
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
-    },
-    {
-      "title": "Tesla saw a massive sales jump in the second quarter",
-      "link": "https://techcrunch.com/2026/07/02/tesla-saw-a-massive-sales-jump-in-the-second-quarter/",
-      "summary": "The company delivered more than 480,000 EVs globally, seemingly thanks to geographic expansion and cheaper versions of the Model 3, Model Y, and Cybertruck."
     }
   ],
-  "Nature": [
-    {
-      "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
-      "link": "https://www.nature.com/articles/s41586-026-10844-6",
-      "summary": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10844-6\">doi:10.1038/s41586-026-10844-6</a></p>Electrodeposited self-assembled molecules for perovskite photovoltaics"
-    },
-    {
-      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
-      "link": "https://www.nature.com/articles/s41586-026-10854-4",
-      "summary": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10854-4\">doi:10.1038/s41586-026-10854-4</a></p>Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization"
-    },
-    {
-      "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
-      "link": "https://www.nature.com/articles/d41586-026-02034-1",
-      "summary": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02034-1\">doi:10.1038/d41586-026-02034-1</a></p>A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young."
-    },
-    {
-      "title": "Can you actually do a nine-to-five PhD? <i>Nature</i> readers weigh in",
-      "link": "https://www.nature.com/articles/d41586-026-01773-5",
-      "summary": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01773-5\">doi:10.1038/d41586-026-01773-5</a></p>Nature readers share their PhD time-management woes."
-    },
-    {
-      "title": "Incoming US science academy chief vows to ‘double down’ on research",
-      "link": "https://www.nature.com/articles/d41586-026-02088-1",
-      "summary": "<p>Nature, Published online: 02 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02088-1\">doi:10.1038/d41586-026-02088-1</a></p>New leader of the National Academy of Sciences Neil Shubin warns: ‘a society that loses science loses the future’."
-    },
-    {
-      "title": "Togetherness: How co-operation built the world",
-      "link": "https://www.nature.com/articles/d41586-026-02067-6",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02067-6\">doi:10.1038/d41586-026-02067-6</a></p>Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together."
-    },
-    {
-      "title": "Backreaction of stimulated Hawking radiation in an optical analogue",
-      "link": "https://www.nature.com/articles/s41586-026-10720-3",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10720-3\">doi:10.1038/s41586-026-10720-3</a></p>By using a fibre-optical analogue of the physics of black holes, theoretical and experimental evidence is presented for the process underpinning the generation of Hawking radiation and its backreaction onto the optical pump."
-    },
-    {
-      "title": "Harmonizing standards and resources for the medical genome",
-      "link": "https://www.nature.com/articles/s41586-026-10621-5",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10621-5\">doi:10.1038/s41586-026-10621-5</a></p>This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls for the establishment of new, centralized reference standards to improve consistency and accuracy in the field of precision medicine."
-    },
-    {
-      "title": "Towards the construction of a virtual yeast",
-      "link": "https://www.nature.com/articles/s41586-026-10574-9",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10574-9\">doi:10.1038/s41586-026-10574-9</a></p>A virtual yeast, an artificial intelligence-driven agent for modelling eukaryotic cellular behaviours, is described."
-    },
-    {
-      "title": "Isomeric multi-hydrogen-bonding enables blue perovskite LEDs",
-      "link": "https://www.nature.com/articles/s41586-026-10723-0",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10723-0\">doi:10.1038/s41586-026-10723-0</a></p>Hydrogen-bonding networks engineered with isomeric molecules enable stable, saturated blue perovskite LEDs with record external quantum efficiencies up to 22.0%, advancing high-performance full-colour display technologies."
-    },
-    {
-      "title": "A secreted endosymbiont protein essential for colonizing host cells",
-      "link": "https://www.nature.com/articles/s41586-026-10711-4",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10711-4\">doi:10.1038/s41586-026-10711-4</a></p>SyeA was present in the Buchnera ancestor, is secreted into the host cytoplasm, is homologous to secreted effectors of bacterial pathogens and is essential for Buchnera transmission."
-    },
-    {
-      "title": "Replication-stress-induced chromatin loops protect fork stability",
-      "link": "https://www.nature.com/articles/s41586-026-10695-1",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10695-1\">doi:10.1038/s41586-026-10695-1</a></p>Replication stress induces the formation of transient chromatin loops that enclose de novo heterochromatin-enriched stalled replication forks."
-    },
-    {
-      "title": "Identification of cross-stage, cross-species malaria CD8<sup>+</sup> T cell antigens",
-      "link": "https://www.nature.com/articles/s41586-026-10730-1",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10730-1\">doi:10.1038/s41586-026-10730-1</a></p>An immunopeptidomics analysis identifies numerous Plasmodium T cell antigens that are conserved across malaria parasite species and expressed at several phases of the parasite’s life cycle, with possible applications in the development of a malaria vaccine."
-    },
-    {
-      "title": "Targeted enzyme discovery using metal-coordination mining",
-      "link": "https://www.nature.com/articles/s41586-026-10716-z",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10716-z\">doi:10.1038/s41586-026-10716-z</a></p>A methodology for mining protein structure databases on the basis of the distinct intrinsic structures of metal-binding active sites in enzymes enables the discovery of new families of radical halogenases."
-    },
-    {
-      "title": "Directly probing the carrier transfer length in 2D-material transistors",
-      "link": "https://www.nature.com/articles/s41586-026-10707-0",
-      "summary": "<p>Nature, Published online: 01 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10707-0\">doi:10.1038/s41586-026-10707-0</a></p>Cross-sectional scanning tunnelling microscopy shows a 2 nm carrier transfer length in bismuth-contacted monolayer MoS2 transistors, defining metal-contact scaling limits for sub-10 nm 2D electronic devices."
-    }
-  ]
+  "Nature": []
 }

@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Guller Zoltánt másodszor is menesztették",
-      "summary": "Egy héten belül másodszor hívták vissza pozíciójából Guller Zoltánt, a Magyar Turisztikai Ügynökség korábbi vezetőjét. Először a miniszteri biztosi, majd az igazgatósági tisztségéből kellett távoznia.",
+      "title": "Magyar Péter drónvideót tett közzé Áder János állítólagos villájáról",
+      "summary": "Magyar Péter drónfelvételt hozott nyilvánosságra Áder János volt elnök állítólagos balatonfüredi villájáról, válaszul Áder János korábbi kijelentéseire. Az eset tovább szítja a politikai vitát az ingatlanügy és a közpénzek felhasználása körül.",
       "importance": 5
     },
     {
-      "title": "Leállították a debreceni Semcorp gyár működését",
-      "summary": "A kormányhivatal minden tevékenységet megtiltott a debreceni akkumulátorgyárban, miután korábban már hibákat találtak a működésében. A cég tudomásul veszi a leállítást és ígéretet tett a hiányosságok kivizsgálására.",
+      "title": "Társadalmi egyeztetésre bocsátotta a kormány az ügynökakták nyilvánosságáról szóló törvényjavaslatot",
+      "summary": "A magyar kormány megkezdte a társadalmi egyeztetést az ügynökakták nyilvánossá tételét célzó törvényjavaslatról. Ez a lépés történelmi jelentőségű lehet a kommunista múlt feldolgozásában és az átláthatóság növelésében.",
+      "importance": 5
+    },
+    {
+      "title": "A kormányhivatal minden tevékenységet megtiltott a debreceni Semcorp gyárban",
+      "summary": "A kormányhivatal teljes körűen megtiltotta a debreceni Semcorp akkumulátorgyár minden tevékenységét. A döntés a gyár működési engedélyeivel és környezetvédelmi szabálytalanságaival kapcsolatos problémákra vezethető vissza.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter drónfelvételt tett közzé Áder János állítólagos villájáról",
-      "summary": "Magyar Péter egy drónfelvétellel reagált Áder János volt köztársasági elnök felszólítására, melyen Áder állítólagos villája látható. A videóval \"közpénzhorgász\" bizonyítékokat követel.",
-      "importance": 4
-    },
-    {
-      "title": "Társadalmi egyeztetést indított a kormány az ügynökakták nyilvánosságáról",
-      "summary": "A kormány törvényjavaslatot terjesztett elő az egykori állambiztonsági akták nyilvánosságra hozataláról, amiről most társadalmi egyeztetés kezdődik. Az ügy évtizedek óta napirenden van, és a történelmi igazságtételt célozza.",
+      "title": "Egy héten belül kétszer is kirúgták Guller Zoltánt",
+      "summary": "Guller Zoltánt, a Szerencsejáték Zrt. korábbi vezérigazgatóját egy héten belül két pozíciójából is menesztették. Az eset belső hatalmi átrendeződésekre utalhat a kormánypárti körökben és a gazdasági szférában.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A lengyel miniszterelnök az orosz fenyegetésre figyelmeztet",
-      "summary": "A lengyel miniszterelnök kritikus hónapok elé néz az ország az orosz fenyegetés árnyékában, mely komoly biztonsági kihívásokat jelent a térségben.",
+      "title": "Fájdalmas azonosítás vár a venezuelai földrengés áldozatainak családjaira ideiglenes halottasházakban",
+      "summary": "Venezuelát súlyos földrengés rázta meg, melynek következtében számos család kénytelen ideiglenes halottasházakban azonosítani szeretteit. A katasztrófa hatalmas emberi tragédiát és infrastruktúrális károkat okozott.",
       "importance": 5
     },
     {
-      "title": "Kémprogrammal hackelték meg egy Pegasus-ügyeket vizsgáló politikus telefonját",
-      "summary": "Egy Pegasus kémprogrammal támogató politikus telefonját, aki maga is a kémprogramok visszaéléseit vizsgálta. Az eset rávilágít a digitális megfigyelés kockázataira és a politikai célú hackelésre.",
+      "title": "A lengyel miniszterelnök kritikus hónapokra figyelmeztetett az orosz fenyegetés miatt",
+      "summary": "A lengyel miniszterelnök szerint kritikus hónapok állnak Európa előtt Oroszország növekvő fenyegetésével szemben. A kijelentés rávilágít a regionális biztonsági helyzet romlására és a folyamatos feszültségekre.",
       "importance": 5
     },
     {
       "title": "Akár 30 millió iráni is részt vehet Ali Hámenei temetésén",
-      "summary": "Jelentős tömeg várható Ali Hámenei, a legfelsőbb vezető temetésén Iránban, ami tovább növelheti a politikai feszültségeket a régióban és az egész világon.",
+      "summary": "Becslések szerint akár 30 millió iráni is részt vehet Ali Hámenei temetésén, ami óriási tömegmegmozdulást és nemzetközi figyelmet vonz. Ez az esemény jelentős politikai és vallási jelentőséggel bír a régióban.",
       "importance": 4
     },
     {
-      "title": "Fájdalmas azonosításra váró áldozatok Venezuelában a földrengés után",
-      "summary": "A földrengés sújtotta Venezuelában a családok a hozzátartozók azonosításával küzdenek az ideiglenes halottasházakban. A katasztrófa jelentős emberi tragédiát okozott a térségben.",
+      "title": "Egyre forróbb és forróbb – Európa új klímája hét grafikonon",
+      "summary": "Európa klímája drámaian melegszik, amit hét részletes grafikon is bemutat. A folyamatos hőhullámok és az éghajlatváltozás hatásai egyre súlyosabbak az egész kontinensen, sürgős intézkedéseket igényelve.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Figyelmeztető jel az AI valós költségeiről a Google és az Amazon példáján",
-      "summary": "A Google és az Amazon esetei rávilágítanak a mesterséges intelligencia fejlesztésének és üzemeltetésének valódi, rejtett költségeire. Ez figyelmeztetés a technológiai ipar számára az AI-hype ellenére.",
+      "title": "Egy kémprogramokkal való visszaéléseket vizsgáló politikus telefonját törték fel Pegasus kémprogrammal",
+      "summary": "Egy olyan politikus telefonját, aki korábban a Pegasus kémprogramokkal való visszaéléseket vizsgálta, feltehetően ugyanazzal a kémprogrammal törték fel. Az eset súlyos aggodalmakat vet fel a kiberbiztonság, a megfigyelés és a politikai integritás kapcsán.",
+      "importance": 5
+    },
+    {
+      "title": "Az IQM, Európa első nyilvános kvantumcége elismeri, hogy a technológia jövője bizonytalan",
+      "summary": "Az IQM, Európa első nyilvános kvantumszámítástechnikai vállalata beismerte, hogy a technológia jövője továbbra is bizonytalan. Ez a nyilatkozat rávilágít a kvantumszámítástechnika fejlesztésének kihívásaira és a technológiai ígéretek realitására.",
       "importance": 4
     },
     {
-      "title": "Mark Zuckerberg elismeri, hogy az AI ügynökök nem fejlődtek olyan gyorsan, mint remélte",
-      "summary": "Mark Zuckerberg belső üzenetben közölte munkatársaival, hogy a mesterséges intelligencia ügynökök fejlesztése lassabban halad, mint ahogyan azt eredetileg remélte. Ez rávilágít az AI-fejlesztés kihívásaira.",
+      "title": "Mark Zuckerberg elmondta az alkalmazottainak, hogy az AI-ügynökök nem fejlődtek olyan gyorsan, mint remélte",
+      "summary": "Mark Zuckerberg, a Meta vezérigazgatója belsőleg elismerte, hogy az AI-ügynökök fejlesztése nem hozta az elvárt gyorsaságú áttöréseket. Ez a megjegyzés rávilágít a mesterséges intelligencia fejlesztésével járó váratlan kihívásokra és a piaci várakozások realitására.",
       "importance": 4
     },
     {
-      "title": "Európa első kvantumcége bizonytalan a technológia jövőjét illetően",
-      "summary": "Az IQM, Európa első nyilvános kvantumcége elismerte, hogy a kvantumtechnológia jövője még mindig bizonytalan. Ez rávilágít a terület kutatás-fejlesztési kihívásaira.",
+      "title": "Figyelmeztetés az AI valódi költségére a Google és az Amazon jóvoltából",
+      "summary": "A Google és az Amazon adataiból figyelmeztető jelek derülnek ki a mesterséges intelligencia rendszerek valódi működtetési költségeiről. Ez a felismerés rávilágít az AI-rendszerek üzemeltetésének pénzügyi terheire és az iparág gazdasági fenntarthatóságára.",
       "importance": 4
-    },
-    {
-      "title": "Az Anthropic új, egyedi chipről tárgyal a Samsunggal",
-      "summary": "Az Anthropic mesterséges intelligencia cég tárgyalásokat folytat a Samsunggal egy új, egyedi chip fejlesztéséről. Ez az együttműködés kulcsfontosságú lehet az AI-modellek hardveres támogatásában.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Melanóma elleni hatóanyagot találtak az Antarktisz mélyén",
-      "summary": "Tudósok egy mérgező anyag nyomaira bukkantak az Antarktisz mélyén, amelyről feltételezik, hogy segíthet a melanóma legyőzésében. Ez a felfedezés új utakat nyithat a rákkutatásban.",
+      "title": "Megtalálták a neutrínók bölcsőjét: az „Árnyékrobbanó”",
+      "summary": "A tudósok azonosították a neutrínók születési helyét, amelyet 'Árnyékrobbanónak' neveztek el. Ez a jelentős felfedezés új betekintést nyújt a világegyetem legtitokzatosabb részecskéinek eredetébe és viselkedésébe.",
       "importance": 5
     },
     {
-      "title": "Sarki fény lehet a hétvégén Magyarországon",
-      "summary": "A hétvégén akár Magyarországról is látható lehet a sarki fény, köszönhetően a megnövekedett naptevékenységnek. Ez a ritka égi jelenség izgalmas látványt ígér az északi égbolton.",
-      "importance": 3
+      "title": "Cyborg csótányok lélegeznek víz alatt egy nyomtatott ruhában",
+      "summary": "Kutatók olyan 'cyborg' csótányokat fejlesztettek ki, amelyek egy speciális, nyomtatott ruházatnak köszönhetően képesek a víz alatt lélegezni. Ez az innovatív megoldás új lehetőségeket nyithat meg a robotika és a biológia határterületein.",
+      "importance": 4
     },
     {
-      "title": "Meglepő hatása lehet a kávézásnak napi öt csésze felett is",
-      "summary": "Egy új kutatás szerint a kávézásnak egészen meglepő hatásai lehetnek a szervezetre, még akkor is, ha valaki naponta több mint öt csészével fogyaszt. Az eredmények árnyalják a kávéval kapcsolatos korábbi ismereteket.",
-      "importance": 3
+      "title": "Kína növeli a fiatal tudósoknak járó rangos támogatásokat – enyhíti ez a versenyt?",
+      "summary": "Kína jelentősen megemeli a fiatal tudósoknak nyújtott rangos kutatási ösztöndíjak összegét, abban a reményben, hogy ez enyhíti a tudományos versenyt és ösztönzi az innovációt. A lépés globális hatással lehet a tudományos tehetséggondozásra és a kutatási prioritásokra.",
+      "importance": 4
     },
     {
-      "title": "Magán űrpilóták repülnek orbitális küldetéseket az US Space Force számára",
-      "summary": "Magánvállalatok űrpilótái hajtanak végre orbitális küldetéseket az Egyesült Államok Űrhaderője számára. Ez a tendencia új korszakot nyithat az űrkutatás és a katonai célú űrhasználat terén.",
-      "importance": 3
+      "title": "Az újonnan kinevezett amerikai tudományos akadémia vezetője a kutatás megduplázását ígéri",
+      "summary": "Az Egyesült Államok Nemzeti Tudományos Akadémiájának újonnan kinevezett vezetője ígéretet tett arra, hogy 'megduplázza' a kutatási erőfeszítéseket. Ez a stratégia jelentősen befolyásolhatja az amerikai tudomány jövőbeli irányát és finanszírozását.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Etikai vizsgálatot követelnek a FIFA elnöke ellen",
-      "summary": "Európai parlamenti képviselők etikai vizsgálatot követelnek Gianni Infantino FIFA-elnökkel szemben egy Trump-kitüntetés miatt. Az ügy rávilágít a sport és a politika összefonódására, valamint a FIFA működésére.",
+      "title": "Itt a világbajnokság nyolcaddöntőinek menetrendje, klasszikusok jönnek",
+      "summary": "Elkészült a labdarúgó-világbajnokság nyolcaddöntőinek menetrendje, amely számos izgalmas és nagy érdeklődésre számot tartó klasszikus párosítást tartogat. A szurkolók már alig várják a kieséses szakasz kezdetét és a kiélezett mérkőzéseket.",
+      "importance": 5
+    },
+    {
+      "title": "Dopingbotrány a világbajnokságon: tiltott szer nyomaira bukkantak a legrosszabb csapatnál",
+      "summary": "Tiltott szerek nyomait találták meg a labdarúgó-világbajnokság egyik leggyengébben teljesítő csapatának futballistáinál, feltehetően szennyezett marhahús fogyasztása miatt. A doppingbotrány beárnyékolja a tornát és kérdéseket vet fel az élelmiszerbiztonsággal kapcsolatban.",
+      "importance": 5
+    },
+    {
+      "title": "Kolumbia legyőzte Ghánát, teljessé vált a vb-nyolcaddöntők mezőnye",
+      "summary": "Kolumbia egygólos győzelmet aratott Ghána ellen, ezzel utolsóként csatlakozott a labdarúgó-világbajnokság nyolcaddöntőinek mezőnyéhez. A mérkőzés izgalmas pillanatokat hozott, és véglegesítette a továbbjutó csapatok listáját a kieséses szakaszra.",
       "importance": 4
     },
     {
-      "title": "Egyiptom tizenegyesekkel verte Ausztráliát, továbbjutott a világbajnokságon",
-      "summary": "Egyiptom büntetőpárbajban győzte le Ausztráliát, ezzel továbbjutott a világbajnokság következő szakaszába. Szalahék nagy örömmel ünnepelték a sikert, amely egy kiélezett mérkőzésen született.",
+      "title": "Argentína hosszabbításban ment tovább a zöld-fokiak ellen, nagyot küzdött a címvédő",
+      "summary": "Argentína csak a hosszabbításban tudta legyőzni a zöld-foki szigeteket, miután a rendes játékidőben rendkívül szoros volt az állás. A címvédő a vártnál nehezebben, de végül továbbjutott a következő fordulóba.",
       "importance": 4
-    },
-    {
-      "title": "Németország tárgyalna Kloppal, Nagelsmann lemondott",
-      "summary": "Németország szeretne tárgyalni Jürgen Kloppal a válogatott szövetségi kapitányi posztjáról, miután Julian Nagelsmann lemondott. Ez jelentős változásokat hozhat a német labdarúgásban és a nemzetközi edzőpiacon.",
-      "importance": 4
-    },
-    {
-      "title": "Tiltott szert találtak a világbajnokság legrosszabb csapatának futballistáinál",
-      "summary": "A világbajnokságon részt vevő egyik csapat több játékosánál is tiltott szer nyomaira bukkantak. Az eset doppingbotrányt robbantott ki, és megkérdőjelezi a sport tisztaságát.",
-      "importance": 3
     }
   ]
 }

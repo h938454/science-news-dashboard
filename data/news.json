@@ -1,14 +1,39 @@
 {
   "Telex": [
     {
+      "title": "Mexikó–Anglia 0-0",
+      "link": "https://telex.hu/sport/2026/07/06/mexiko-anglia-vb-kozvetites",
+      "summary": ""
+    },
+    {
+      "title": "Haaland duplájával és egy zseniális kapusteljesítménnyel ejtette ki Norvégia Brazíliát a vb-ről",
+      "link": "https://telex.hu/sport/2026/07/06/foci-vb-brazilia-norvegia-nyolcaddonto-osszefoglalo",
+      "summary": "A norvégok 2-1-re győztek úgy, hogy kapusuk kivédett egy büntetőt és öngóltól is megmentette csapatát. A legvégén Neymar szépített 11-esből."
+    },
+    {
+      "title": "Egy youtuber egymillió dollárért órákat ajándékozott a mexikói játékosoknak, de azokat vissza kellett adniuk",
+      "link": "https://telex.hu/sport/2026/07/05/egy-youtuber-minden-mexikoi-jatekosnak-egymillio-dollaros-orat-ajandekozott-de-azt-vissza-kellett-adniuk",
+      "summary": "A szabályok szerint csak értéktelen vagy jelképes ajándékot lehet elfogadni."
+    },
+    {
+      "title": "Marék szotyiért elpasszolt szupersztár, felforgatott Kelet – rég nem látott őrületet hozott az idei nyár az NBA-ben",
+      "link": "https://telex.hu/sport/2026/07/05/kosarlabda-nba-celtics-lakers-heat-raptors-trail-blazers-atigazolasi-szezon-orulet",
+      "summary": "A tavalyi, kifejezetten érdektelen nyári átigazolási időszak után idén tövig nyomták a csapatok a gázt, és olyan cseréket ütöttek nyélbe, amiket még fél éve is nehéz lett volna elképzelni. Összeszedtük az elmúlt hét legfontosabb történéseit."
+    },
+    {
+      "title": "XIV. Leó pápára fittyet hányva szenteltek püspököket, a Vatikán válasza még a vártnál is keményebb volt",
+      "link": "https://telex.hu/kulfold/2026/07/05/fsspx-szent-x-piusz-testverulet-testveriseg-puspokszenteles-katolikus-egyhaz-kikozosites-vatikan-xiv-leo-papa",
+      "summary": "Az évtizedes konfliktus a Szent X. Piusz Papi Testvérület és a Vatikán között idén újra fellángolt. A pápa hiába kérte az ultrakonzervatív csoportot, hogy ne rendezzék meg a püspökszentelést, mert az automatikus exkommunikációt von maga után. A szerdai esemény után bejelentett kiközösítésnek a hívőkre nézve is vannak következményei."
+    },
+    {
       "title": "62 év után Taylor Swift esküvőjén játszotta el újra a Beatles egyik legnagyobb slágerét Paul McCartney",
       "link": "https://telex.hu/after/2026/07/05/paul-mccartney-taylor-swift-travis-kelce-eskuvo",
       "summary": "A Beatles első listavezető slágerét utoljára 1964-ben játszotta el New Yorkban, McCartney azóta soha nem adta elő nyilvánosan – mostanáig."
     },
     {
-      "title": "Brazília–Norvégia 0-0",
+      "title": "Brazília–Norvégia 1–2",
       "link": "https://telex.hu/sport/2026/07/05/brazilia-norvegia-vb-kozvetites",
-      "summary": "Brazília még nem kapott ki vébén, ha Casemiro a pályán volt. Norvégia még nem kapott ki Brazíliától. Casemiro a pályán."
+      "summary": "Haaland a meccs végén 11 perc alatt duplázott, ezzel eldöntötte a továbbjutást. A végén a brazilok még kaptak egy könnyű síppal befújt büntetőt, szép gesztussal Neymarral rúgatták. Ő nem hibázott. Az első félidőben egyet kihagytak, az döntőnek bizonyult."
     },
     {
       "title": "Akkorákat pöfög Mamma Etna, hogy hajnalig lezárták a cataniai repülőteret",
@@ -49,35 +74,20 @@
       "title": "Lázár János egykori helyettese lett Áder alapítványának főigazgatója, Freund Tamás is helyet kapott a kuratóriumban",
       "link": "https://telex.hu/belfold/2026/07/05/ader-janos-kek-bolygo-klimavedelmi-alapitvany-freund-tamas-martonyi-janos-csepreghy-nandor",
       "summary": "Az MTA nemrég leköszönt elnöke kuratóriumi tagságáról lemondott Martonyi Jánost követte."
-    },
-    {
-      "title": "A paraguayi kapuslegenda afrikai csapatnak nevezte Franciaországot, a francia futballelnök elítélte a rasszista kommentet",
-      "link": "https://telex.hu/sport/2026/07/05/chilavert-franciaorszag-afrikai-csapat-diallo-elitelte-a-rasszista-nyilatkozatot",
-      "summary": "Philippe Diallo szerint Chilavert egykor nagyszerű kapus volt, de most kegyvesztetté vált."
-    },
-    {
-      "title": "Úgy földhözvágta dühében az ütőjét Wimbledonban, hogy az a nézők közé repült",
-      "link": "https://telex.hu/sport/2026/07/05/wimbledoni-teniszbajnoksag-junior-ida-wobker-uto",
-      "summary": "A 15 éves Ida Wobkert sportszerűtlen viselkedésért leléptették."
-    },
-    {
-      "title": "Rejtélyes, ezüstös gömbök tűntek fel Ausztrália partjainál",
-      "link": "https://telex.hu/kulfold/2026/07/05/rejtelyes-ezustgombok-ausztralia-queensland",
-      "summary": "Valószínűleg űrszemétről lehet szó, de a pontos eredetüket egyelőre vizsgálják az ausztrál hatóságok."
-    },
-    {
-      "title": "A SpaceX-árfolyam zuhanása nem véletlen, és csak az egyik baljós jel lehet a nagy MI-cégek körül",
-      "link": "https://telex.hu/nevertek/2026/07/05/spacex-ipo-reszvenykibocsatas-elott-es-utan-mesterseges-intelligencia-buborek-piaci-itelet",
-      "summary": "Ezermilliárd dolláros értékvesztés pár nap alatt, elhalasztott tőzsdére lépések, adatközpontok bérbeadása saját használat helyett. Nem kizárt, hogy amit a SpaceX példáján látunk, az egy komolyabb problémasorozat első eleme."
-    },
-    {
-      "title": "Franciaország brutálisan brutális",
-      "link": "https://telex.hu/sport/2026/07/05/foci-vb-franciaorszag-kylian-mbappe-ousmane-dembele-michael-olise-didier-deschamps-taktika-erossegek",
-      "summary": "Ha szépen, ha csúnyán kell játszani, megoldják. A Mbappéval Dembélével, Oliséval felálló támadósoruk félelmetes, a védelmük szinte hibátlan, Deschamps edző pedig az utolsó vb-jére rájött, hogy a focit élvezni is lehet. Csapat legyen a talpán, ami megállítja a franciákat."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Haaland–varázslat a nyolcaddöntőben: Norvégia kiverte Brazíliát",
+      "link": "https://444.hu/2026/07/06/haalandvarazslat-a-nyolcaddontoben-norvegia-kiverte-braziliat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A norvég óriás két hatalmas góljára Neymar csak egy tizenegyessel tudott válaszolni: a vörösök megérdemelten jutottak a legjobb nyolc közé."
+    },
+    {
+      "title": "NYT: A FIFA Trump kérésére függeszthette fel az amerikai gólvágó eltiltását",
+      "link": "https://444.hu/2026/07/05/nyt-a-fifa-trump-keresere-fuggesztette-fel-az-amerikai-golvago-eltiltasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Hihetetlen, ha igaz: az elnök felemelte a telefont, Folarin Balogun pedig játszhat Belgium ellen."
+    },
     {
       "title": "Lázár János egykori helyettese lett Áder János alapítványának főigazgatója",
       "link": "https://444.hu/2026/07/05/lazar-janos-egykori-helyettese-lett-ader-janos-alapitvanyanak-foigazgatoja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -142,28 +152,23 @@
       "title": "Trump vagyonnyilatkozatában is megjelent a kolozsvári Trump-torony terve",
       "link": "https://444.hu/2026/07/05/trump-vagyonnyilatkozataban-is-megjelent-a-kolozsvari-trump-torony-terve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A Trump International Cluj-Napoca nevű komplexumhoz összesen 1850 lakást építenének."
-    },
-    {
-      "title": "A nyár leghidegebb hajnala: -3,8 fok volt a Bükkben",
-      "link": "https://444.hu/2026/07/05/a-nyar-leghidegebb-hajnala-38-fok-volt-a-bukkben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kutató szerint lesz ez még hidegebb a szezonban."
-    },
-    {
-      "title": "Európa-rekordot ért el a magyar vasút az elmúlt években",
-      "link": "https://444.hu/2026/07/05/europa-rekordot-ert-el-a-magyar-vasut-az-elmult-evekben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A közlekedési miniszter elárulta, mi az a mutató, amiben a MÁV legalább 10 évvel jár a környező országok előtt."
     }
   ],
   "HVG": [
+    {
+      "title": "Times: Trump maga hívta fel a FIFA elnökét, hogy közbenjárjon az amerikai játékos eltiltásának elengedése ügyében",
+      "link": "https://hvg.hu/sport/20260705_times-trump-felhivta-a-fifa-elnoket-hogy-kozbenjarjon-az-amerikai-jatekos-piros-lapja-ugyeben",
+      "summary": "Balogun büntetésének felfüggesztése annyira rendkívüli, hogy 1962-ben történt utoljára olyan, hogy a FIFA engedélyezte egy játékosnak, hogy olyan mérkőzésen játsszon, ahol eltiltásban részesült volna."
+    },
     {
       "title": "Ismeretlenek 400 milliós zsákmányt loptak ki maguknak az AI-ból",
       "link": "https://hvg.hu/tudomany/20260705_adatkozpont-rakomany-lopas-usa",
       "summary": "Igen vonzó és nem kevésbé gyakori célpontokká váltak az adatközpontok építéséhez szükséges szállítmányok az Egyesült Államokban."
     },
     {
-      "title": "Foci-vb-nyolcaddöntő: Brazília – Norvégia (ÉLŐ)",
+      "title": "Haaland megállíthatatlan: duplázott Brazília ellen, a norvégok bejutottak a legjobb 8 közé a foci-vb-n",
       "link": "https://hvg.hu/sport/20260705_foci-vb-2026-brazilia-norvegia-nyolcaddonto-elo-kozvetites-percrol-percre-ebx",
-      "summary": "A nyolcaddöntők talán leginkább várt mérkőzésén Brazília és Norvégia csap össze egymással. Kövesse élőben a HVG-n!"
+      "summary": "Neymar egy tizenegyes góllal szépített, de ez is kevés volt az egyenlítéshez, a brazilok kiestek."
     },
     {
       "title": "Zelenszkij nagyszabású orosz támadásokra számít a NATO-csúcs előtt",
@@ -224,18 +229,13 @@
       "title": "Izrael katonákat és Vaskupola-rendszert küldött az Egyesült Arab Emírségekbe a háború idején",
       "link": "https://hvg.hu/vilag/20260705_izrael-katonakat-es-vaskupola-rendszert-kuldott-az-egyesult-arab-emirsegekbe-a-haboru-idejen",
       "summary": "Az izraeli légvédelmi rendszer több tucat, az Öböl-menti állam felé kilőtt iráni rakétát semmisített meg."
-    },
-    {
-      "title": "Lezárták Catania repülőterét az Etna mozgolódása miatt",
-      "link": "https://hvg.hu/vilag/20260705_lezartak-catania-repuloteret-az-etna-mozgolodasa-miatt",
-      "summary": "Ismét hamut szórt az Etna."
     }
   ],
   "BBC": [
     {
-      "title": "Reform denies rules broken by Farage after benefits from ally not declared",
-      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Sunday Times says the Reform UK leader failed to register the support supplied by a cryptocurrency entrepreneur who had been convicted of fraud."
+      "title": "Trump thanks Fifa after USA striker Balogun's ban suspended",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+      "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa."
     },
     {
       "title": "EasyJet reaches 'agreement in principle' over potential takeover",
@@ -243,9 +243,9 @@
       "summary": "The low-cost airline had previously rejected four takeover offers from US investment firm Castlelake."
     },
     {
-      "title": "England battling the weight of history as well as Mexican nation in Azteca cauldron",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty."
+      "title": "Reform denies rules broken by Farage after benefits from ally not declared",
+      "link": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Sunday Times says the Reform UK leader failed to register the support supplied by a cryptocurrency entrepreneur who had been convicted of fraud."
     },
     {
       "title": "Emotion and politics merge in Tehran at funeral of former supreme leader",
@@ -253,19 +253,9 @@
       "summary": "The BBC's chief international correspondent Lyse Doucet is in Tehran, where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei."
     },
     {
-      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the famous guests have been posting on social media about the big day in New York."
-    },
-    {
       "title": "Catherine shares photos reuniting with family after Three Peaks Challenge",
       "link": "https://www.bbc.co.uk/news/articles/c8e22dnl0nko?at_medium=RSS&at_campaign=rss",
       "summary": "The princess completed the challenge in aid of the hospital where she was treated for cancer."
-    },
-    {
-      "title": "Australia probes mystery space balls that washed up on beach",
-      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland."
     },
     {
       "title": "Young woman dies in skydiving incident near airfield",
@@ -273,9 +263,19 @@
       "summary": "The woman, 22, was found in a nearby field and pronounced dead at the scene, police say."
     },
     {
-      "title": "Trump thanks Fifa after USA striker Balogun's ban suspended",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
-      "summary": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa."
+      "title": "Benedict's Law to overhaul school allergy training",
+      "link": "https://www.bbc.co.uk/news/articles/c79yj0g77n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Benedict Blythe died after an accidental exposure to an allergen at school in 2021."
+    },
+    {
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland."
+    },
+    {
+      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the famous guests have been posting on social media about the big day in New York."
     },
     {
       "title": "What Sky buying ITV could mean for your favourite shows",
@@ -283,9 +283,14 @@
       "summary": "An announcement is expected imminently on Sky buying ITV's TV and streaming channels."
     },
     {
-      "title": "Mexico fans fail in bid to wake up England players",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
-      "summary": "England players feel little to no impact of Mexico fans attempting to disturb their sleep by letting off fireworks outside their hotel."
+      "title": "Quansah set to start at right-back for England against Mexico",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r225dm81yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jarell Quansah is set to start at right-back for England against Mexico in the World Cup last-16 tie at the Azteca stadium."
+    },
+    {
+      "title": "England battling the weight of history as well as Mexican nation in Azteca cauldron",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty."
     },
     {
       "title": "Staying up for the match? How to handle a 1am kick-off",
@@ -293,22 +298,27 @@
       "summary": "Forget blocks and tackles, this is the tactical plan you need for the football."
     },
     {
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "link": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia."
-    },
-    {
       "title": "BBC offers 'Stay Up or Catch Up' for England v Mexico",
       "link": "https://www.bbc.co.uk/sport/football/articles/ce8ml7jv1g1o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC will be launching a special 'Stay Up or Catch Up' offer for its live coverage of England's game against Mexico at the 2026 World Cup."
     },
     {
-      "title": "Prince Harry and Meghan: Will they or won't they, and will we care?",
-      "link": "https://www.bbc.co.uk/news/articles/c621jwpld8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "There will be much attention on whether the Duke of Sussex can build bridges with his family."
+      "title": "Mexico fans fail in bid to wake up England players",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx244m0mzr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "England players feel little to no impact of Mexico fans attempting to disturb their sleep by letting off fireworks outside their hotel."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Uber’s European expansion plans may have hit a speed bump",
+      "link": "https://techcrunch.com/2026/07/05/ubers-european-expansion-plans-may-have-hit-a-speed-bump/",
+      "summary": "Back in February, Uber announced ambitious plans to launch in seven new European markets in 2026 — but now five of those launches are reportedly on hold."
+    },
+    {
+      "title": "Trump memecoin investors lost $3.8 billion, analysis finds",
+      "link": "https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/",
+      "summary": "Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million."
+    },
     {
       "title": "Amazon will stop accepting new customers for Mechanical Turk",
       "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
@@ -373,16 +383,6 @@
       "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware",
       "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
       "summary": "A government customer of NSO Group used the company's Pegasus spyware to hack into the phone of a European politician, who at the time was serving on an EU committee tasked with investigating the spyware industry."
-    },
-    {
-      "title": "Last chance to apply — Startup Battlefield Australia applications close July 6",
-      "link": "https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/",
-      "summary": "If you're going to apply for Startup Battlefield Australia, now is the time. Applications close July 6, and once the deadline passes, the opportunity is gone."
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     }
   ],
   "Nature": [

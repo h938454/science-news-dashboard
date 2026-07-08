@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Költségvetési átvilágítás: drámai helyzetben az állam pénzügyei",
-      "summary": "A kormány pénzügyeiről szóló átfogó átvilágítás szerint az állam drámai helyzetben van, a büdzsében ezermilliárdos hiányt tártak fel. Ez a jelentés komoly gazdasági kihívásokra és reformok szükségességére hívja fel a figyelmet.",
+      "title": "Drámai helyzetben az állam pénzügyei, ezermilliárdos lyukak a költségvetésben",
+      "summary": "Elkészült a költségvetési átvilágítás, amely szerint az állam pénzügyi helyzete súlyos. Ezermilliárdos hiányok tátongnak a büdzsében, ami komoly gazdasági kihívásokra utal.",
       "importance": 5
     },
     {
-      "title": "Kivonják az Alaptörvény-módosítás vitatott részét, elkerülve az EU konfliktust",
-      "summary": "A kormány úgy döntött, hogy kiveszi a 17. Alaptörvény-módosítás tervezetéből azt a passzust, amely súlyos konfliktust okozott volna az Európai Unióval. Ez a lépés enyhítheti a feszültséget Magyarország és az EU között.",
-      "importance": 5
-    },
-    {
-      "title": "Magyar Péter és Zelenszkij találkozót tervez a NATO-csúcs után",
-      "summary": "A NATO-csúcs során Magyar Péter és Volodimir Zelenszkij ukrán elnök megállapodtak egy jövőbeli találkozóban Kijevben vagy Budapesten. A tárgyalások feltehetően Magyarország Ukrajnával kapcsolatos álláspontját és a kétoldalú kapcsolatokat érintik majd.",
+      "title": "Szakács István: Letartóztatásomkor terrormit tudoménmivel gyanúsítottak meg",
+      "summary": "Szakács István megafonos propagandista részletesen beszámolt arról, hogy bilincsben vitték el. Elmondása szerint terrorcselekménnyel gyanúsították meg, ami nagy visszhangot váltott ki.",
       "importance": 4
     },
     {
-      "title": "Felmerült a Tesco kivonulása Magyarországról",
-      "summary": "Spekulációk szerint a Tesco fontolgatja a kivonulást a magyar, szlovák és cseh piacokról, miközben a cég brit üzletágai jól teljesítenek. Ez jelentős hatással lehet a hazai kiskereskedelemre és a foglalkoztatottságra.",
+      "title": "A Financial Times szerint a Tesco fontolgatja a kivonulást Magyarországról",
+      "summary": "A Financial Times értesülései szerint a Tesco fontolóra veszi a kivonulást Magyarországról, Szlovákiából és Csehországból. Ez több ezer munkahelyet és a kiskereskedelmi piacot is érintheti.",
+      "importance": 4
+    },
+    {
+      "title": "Kirúgták Kárász Róbertet és a Magyar Péter-interjúkat készítő műsorvezetőket a közmédiából",
+      "summary": "A választások utáni Magyar Péter-interjúk miatt Kárász Róbertet és több más műsorvezetőt is elbocsátottak a közmédiától. Az eset felveti a sajtószabadság és a média függetlenségének kérdését.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az olaj- és gázárak emelkednek az iráni tűzszünet felmondása után",
-      "summary": "Donald Trump bejelentése az iráni tűzszünet felmondásáról azonnal az olaj- és földgázárak meredek emelkedését okozta. Ez a lépés globális energiapiaci volatilitást és geopolitikai feszültséget jelez.",
+      "title": "Trump „keményen odacsap” Iránnak: Az olajár kilőtt",
+      "summary": "Donald Trump bejelentette, hogy Amerika valószínűleg \"keményen odacsap\" Iránnak, ami miatt kilőtt a kőolaj és a földgáz ára. A nyilatkozat súlyos feszültségeket jelez a térségben.",
       "importance": 5
     },
     {
-      "title": "Európa gázbetárolási problémái és a Hormuzi-szoros szerepe",
-      "summary": "Európa jelentős késésben van a téli gázkészletek betárolásával, ami energiaellátási aggodalmakat vet fel. A Hormuzi-szoros megnyitásából adódó potenciális szállítások sem biztos, hogy elegendőek lesznek a hiány pótlására.",
-      "importance": 5
-    },
-    {
-      "title": "Trump engedélyezi a Patriot rakéták gyártását Ukrajnának",
-      "summary": "Donald Trump amerikai elnök engedélyezte a Patriot légvédelmi rakétarendszerek gyártását Ukrajnában, ami jelentős támogatást jelent a háború sújtotta országnak. Ez a döntés erősíti Ukrajna védelmi képességeit Oroszországgal szemben.",
+      "title": "Oroszország a Starlink blokkolásával gyengíti az ukrán dróntámadásokat",
+      "summary": "Az orosz hadsereg állítólag az Elon Musk-féle Starlink műholdas internet blokkolásával próbálja csökkenteni az ukrán dróntámadások hatékonyságát. Ez technológiai frontot nyit a háborúban.",
       "importance": 4
     },
     {
-      "title": "Iskolai lövöldözés Németországban, több súlyos sérülttel",
-      "summary": "Ámokfutó nyitott tüzet egy németországi iskolában, számos diákot és tanárt megsebesítve, többen súlyos állapotban vannak. Az incidens sokkolta az országot és ismét felvetette a biztonsági intézkedések kérdését.",
+      "title": "Ámokfutó lövöldözött egy német iskolában, több súlyos sérült",
+      "summary": "Németországban egy ámokfutó lövöldözött egy iskolában, több diákot és tanárt megsebesítve. Az eset ismét rávilágít az iskolai erőszak problémájára.",
       "importance": 4
+    },
+    {
+      "title": "Újabb komoly hőhullámra figyelmeztet az Európai Bizottság",
+      "summary": "Az Európai Bizottság ismét figyelmeztetést adott ki egy újabb, súlyos hőhullám érkezésére Európában. A szélsőséges időjárás komoly egészségügyi és környezeti kockázatokat jelent.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Milliók jogosítványadatát érintő adatvédelmi incidens",
-      "summary": "Egy újabb hatalmas adatvédelmi incidens során több millió jogosítvány száma került nyilvánosságra, ami súlyos biztonsági aggodalmakat vet fel. Az eset rávilágít a digitális biztonság folyamatos kihívásaira és a személyes adatok védelmének fontosságára.",
+      "title": "Az OpenAI új hangmodelleket mutatott be a valósághűbb beszélgetésekhez",
+      "summary": "Az OpenAI új hangmodelleket adott ki, amelyek célja a természetesebb és valósághűbb élő beszélgetések lehetővé tétele. Ez áttörést jelenthet a mesterséges intelligencia kommunikációs képességeiben.",
       "importance": 5
     },
     {
-      "title": "Az Apple és a Broadcom amerikai gyártású vezeték nélküli chipeket készít",
-      "summary": "Az Apple bejelentette, hogy a Broadcommal együttműködve amerikai gyártású vezeték nélküli chipeket fog gyártani. Ez a lépés hozzájárulhat a hazai félvezetőipar erősítéséhez és a globális ellátási láncok diverzifikálásához.",
-      "importance": 5
-    },
-    {
-      "title": "Leáll az eredeti Nintendo Switch gyártása, megszűnik a konzol európai forgalmazása",
-      "summary": "A Nintendo bejelentette, hogy beszünteti az eredeti Switch konzol gyártását, ami azt jelenti, hogy a készülék hamarosan eltűnik az európai piacról. Ez a döntés előkészítheti az utat egy új generációs konzol megjelenése előtt.",
+      "title": "Egy AI chipgyártó cég 1 milliárd dolláros befektetést kapott, 11 milliárd dollárra értékelve",
+      "summary": "A SambaNova nevű AI chipgyártó vállalat 1 milliárd dolláros befektetést szerzett, mellyel értéke 11 milliárd dollárra emelkedett. Ez jelzi a mesterséges intelligencia hardverfejlesztés iránti hatalmas piaci bizalmat.",
       "importance": 4
     },
     {
-      "title": "A Paradigm kripto-VC cég 1,2 milliárd dollárt gyűjtött technológiai startupokba",
-      "summary": "A Paradigm nevű kriptovaluta kockázati tőketársaság 1,2 milliárd dolláros befektetési alapot gyűjtött, melyet a technológia 'határterületein' működő startupokba fektet. Ez a jelentős tőkeinjekció új lendületet adhat a feltörekvő technológiai szektoroknak.",
+      "title": "Újabb hatalmas adatlopás során több millió jogosítványadat került nyilvánosságra",
+      "summary": "Egy nagyszabású adatvédelmi incidens során több millió jogosítványadat szivárgott ki. Az eset rávilágít az online biztonság sebezhetőségére és a személyes adatok védelmének fontosságára.",
       "importance": 4
+    },
+    {
+      "title": "Leáll az eredeti Nintendo Switch gyártása, a konzol eltűnik Európából",
+      "summary": "A Nintendo bejelentette, hogy leállítja az eredeti Switch konzol gyártását, ami azt jelenti, hogy a készülék fokozatosan eltűnik az európai piacról. Ez egy korszak végét jelenti a játékiparban.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Humánoid robotok sebészeti alkalmazásának in vivo megvalósíthatósági vizsgálata",
-      "summary": "Egy új kutatás az emberi testben végzett sebészeti beavatkozásokra alkalmas humánoid robotok megvalósíthatóságát vizsgálja. Az eredmények áttörést hozhatnak a minimálisan invazív műtétek és az orvosi robotika területén.",
+      "title": "A nagyméretű nyelvi modellek képesek előrejelezni a társadalomtudományi kísérletek eredményeit",
+      "summary": "A Nature folyóiratban megjelent tanulmány szerint a nagyméretű nyelvi modellek (LLM-ek) képesek pontosan előrejelezni a társadalomtudományi kísérletek kimenetelét. Ez forradalmasíthatja a kutatási módszereket és az emberi viselkedés megértését.",
       "importance": 5
     },
     {
-      "title": "Nagy nyelvi modellek képesek előre jelezni a társadalomtudományi kísérletek eredményeit",
-      "summary": "Kutatók felfedezték, hogy a nagy nyelvi modellek (LLM-ek) képesek előre jelezni társadalomtudományi kísérletek kimenetelét. Ez a felfedezés új utakat nyithat a viselkedési minták megértésében és a kutatási folyamatok felgyorsításában.",
-      "importance": 5
-    },
-    {
-      "title": "Űrdetektor fejleszthető űrben elhelyezett robbanófejek felderítésére",
-      "summary": "Egy új orbitális detektor kifejlesztésén dolgoznak, amely képes lenne az űrben elhelyezett nukleáris robbanófejek azonosítására. Ez a technológia jelentős hatással lehet az űrfegyverkezési szerződések betartatására és a nemzetközi biztonságra.",
-      "importance": 5
-    },
-    {
-      "title": "Kínai űrszonda fotózta le a Föld 'titkos holdját'",
-      "summary": "Egy kínai űrszonda sikeresen lefényképezte a Föld 'titkos holdját' vagy kvaszi-holdját, egy olyan aszteroidát, amely hosszú ideig a bolygónk gravitációja közelében kering. Ez a megfigyelés hozzájárul az égitestek mozgásának és a Naprendszerünk dinamikájának jobb megértéséhez.",
+      "title": "Emberi robotok sebészeti alkalmazhatóságának vizsgálata élőlényeken",
+      "summary": "Egy in vivo megvalósíthatósági tanulmány humanoid robotok sebészeti beavatkozásokban való alkalmazását vizsgálta. Az eredmények ígéretesek lehetnek a jövő orvosi technológiái szempontjából.",
       "importance": 4
+    },
+    {
+      "title": "Közös pontot találtak a 100 évet élő emberekben, ami nem az étrend",
+      "summary": "Kutatók azonosítottak egy közös tényezőt a hosszú életű, 100 évnél idősebb embereknél, ami nem az étrendhez kapcsolódik. Ez új utakat nyithat az öregedéskutatásban és az egészséges életmód megértésében.",
+      "importance": 4
+    },
+    {
+      "title": "Az űregyezmény ellenőrzése kozmikus protonokkal",
+      "summary": "Tudósok kozmikus protonok segítségével vizsgálják az Outer Space Treaty (Külső Világűr Egyezmény) betartását, különösen az űrben lévő fegyverekre vonatkozóan. Ez egy innovatív módszer a nemzetközi megállapodások tudományos ellenőrzésére.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Távozik a horvát és a portugál futballválogatott szövetségi kapitánya",
-      "summary": "A horvát és a portugál labdarúgó-válogatott is bejelentette szövetségi kapitányának távozását a közelmúltbeli nemzetközi torna után. Ezek a változások új korszakot nyithatnak a két európai futballnagyhatalomnál.",
-      "importance": 5
-    },
-    {
-      "title": "Trump politikája veszélyezteti a világbajnokságot",
-      "summary": "Donald Trump politikai lépései, különösen az iráni tűzszünet felmondása, destabilizálhatják a nemzetközi helyzetet, ami közvetetten hatással lehet a közelgő világbajnokságra. A geopolitikai feszültségek árnyékot vethetnek a sporteseményre.",
+      "title": "Bármi megtörténhet: Messiék vb-döntőbe jutása sem garantált",
+      "summary": "A labdarúgó-világbajnokságon bármi előfordulhat, és Messiék döntőbe jutása sem tekinthető biztosnak. A torna tele van meglepetésekkel, ami izgalmassá teszi a további mérkőzéseket.",
       "importance": 4
     },
     {
-      "title": "Kirúgása ellenére marad a sportújságíró-szövetség elnöke a Nemzeti Sport volt főszerkesztője",
-      "summary": "A Nemzeti Sport korábbi főszerkesztője, akit nemrég elbocsátottak, továbbra is ellátja a sportújságíró-szövetség elnöki feladatait. Ez a helyzet kérdéseket vet fel a sportmédia belső struktúráiról és vezetői pozícióinak stabilitásáról.",
+      "title": "Távozik a horvát és a portugál labdarúgó-válogatott szövetségi kapitánya",
+      "summary": "A horvát és a portugál labdarúgó-válogatott is bejelentette szövetségi kapitányának távozását a közelmúltbeli eredmények után. Ez komoly változásokat hozhat a csapatok felkészülésében.",
       "importance": 3
     },
     {
-      "title": "A vízfogyasztás alapján nagyon izgalmas volt a spanyol–portugál meccs",
-      "summary": "A vízfogyasztási adatok alapján a magyar nézők alig használták a mosdót a spanyol-portugál futballmeccs alatt, ami az összecsapás kivételes izgalmára utal. Ez a nem mindennapi statisztika humorosan mutatja be a mérkőzés feszültségét és a nézők lekötöttségét.",
+      "title": "Brit \"wildcard\" jutott a wimbledoni tenisz elődöntőbe",
+      "summary": "A brit Arthur Fery, \"wildcard\" indulóként, meglepő győzelmet aratva jutott be a wimbledoni teniszbajnokság elődöntőjébe. Ezzel komoly sikert ért el a hazai közönség előtt.",
       "importance": 3
+    },
+    {
+      "title": "A Nemzeti Sport kirúgott főszerkesztője marad a sportújságíró-szövetség elnöke",
+      "summary": "A Nemzeti Sporttól elbocsátott főszerkesztő, aki a sportújságíró-szövetség elnöke is, a posztján marad. Az eset rávilágít a sportmédia és a szakmai szervezetek közötti feszültségekre.",
+      "importance": 2
     }
   ]
 }

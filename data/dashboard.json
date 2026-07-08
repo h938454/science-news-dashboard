@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Drámai helyzetben az állam pénzügyei, ezermilliárdos lyukak a költségvetésben",
-      "summary": "Elkészült a költségvetési átvilágítás, amely szerint az állam pénzügyi helyzete súlyos. Ezermilliárdos hiányok tátongnak a büdzsében, ami komoly gazdasági kihívásokra utal.",
+      "title": "Költségvetési átvilágítás: Drámai helyzetben az állam pénzügyei",
+      "summary": "Az államháztartás drámai helyzetben van, ezermilliárdos lyukakat találtak a költségvetésben egy friss átvilágítás során. A Pénzügyminisztérium emellett 400 milliárd forintnyi, eddig nem szereplő kiadásra is bukkant az idei büdzsében.",
       "importance": 5
     },
     {
-      "title": "Szakács István: Letartóztatásomkor terrormit tudoménmivel gyanúsítottak meg",
-      "summary": "Szakács István megafonos propagandista részletesen beszámolt arról, hogy bilincsben vitték el. Elmondása szerint terrorcselekménnyel gyanúsították meg, ami nagy visszhangot váltott ki.",
+      "title": "Reagálás Szakács István ügyére: A Belügyminisztérium az ügyészségre mutogat",
+      "summary": "A belügyminiszter reagált Szakács István, a megafonos propagandista szerdai előállítására. A Belügyminisztérium szűkszavú közleményben az ügyészségre hárította a felelősséget az eset kapcsán.",
       "importance": 4
     },
     {
-      "title": "A Financial Times szerint a Tesco fontolgatja a kivonulást Magyarországról",
-      "summary": "A Financial Times értesülései szerint a Tesco fontolóra veszi a kivonulást Magyarországról, Szlovákiából és Csehországból. Ez több ezer munkahelyet és a kiskereskedelmi piacot is érintheti.",
+      "title": "Nagyot gyengült a forint a globális események és a hazai bizonytalanság árnyékában",
+      "summary": "A forint árfolyama jelentősen gyengült szerdán, amiben a globális politikai események és a hazai gazdasági bizonytalanság is szerepet játszhatott. A szakértők szerint a Trump által generált globális piaci reakciók is hozzájárultak a leértékelődéshez.",
       "importance": 4
     },
     {
-      "title": "Kirúgták Kárász Róbertet és a Magyar Péter-interjúkat készítő műsorvezetőket a közmédiából",
-      "summary": "A választások utáni Magyar Péter-interjúk miatt Kárász Róbertet és több más műsorvezetőt is elbocsátottak a közmédiától. Az eset felveti a sajtószabadság és a média függetlenségének kérdését.",
-      "importance": 4
+      "title": "Lemondott a Magyar Kerékpáros Szövetség elnöke",
+      "summary": "Tisztújítás előtt egy nappal lemondott pozíciójáról a Magyar Kerékpáros Szövetség elnöke, korábban Lázár János bizalmasa, újabb személyi változást jelezve a hazai sportvezetésben. Ez a lépés egybeesik a NER-hez köthető személyi mozgásokkal.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Trump „keményen odacsap” Iránnak: Az olajár kilőtt",
-      "summary": "Donald Trump bejelentette, hogy Amerika valószínűleg \"keményen odacsap\" Iránnak, ami miatt kilőtt a kőolaj és a földgáz ára. A nyilatkozat súlyos feszültségeket jelez a térségben.",
+      "title": "Trump és az iráni feszültség a NATO-csúcs árnyékában",
+      "summary": "Donald Trump feszült hangulatban érkezett a NATO-csúcsra, ahol újra összetűzésbe került európai szövetségeseivel, miközben az Egyesült Államok további csapásokat helyez kilátásba Irán ellen. Teherán „félelem nélküli” válaszlépéseket ígér, tovább fokozva a közel-keleti feszültséget.",
       "importance": 5
     },
     {
-      "title": "Oroszország a Starlink blokkolásával gyengíti az ukrán dróntámadásokat",
-      "summary": "Az orosz hadsereg állítólag az Elon Musk-féle Starlink műholdas internet blokkolásával próbálja csökkenteni az ukrán dróntámadások hatékonyságát. Ez technológiai frontot nyit a háborúban.",
+      "title": "Oroszország leállítja a dízelolaj exportját az üzemanyag-ellátási válság miatt",
+      "summary": "Oroszország az üzemanyag-ellátási válság enyhítése érdekében ideiglenesen felfüggesztette a dízelolaj exportját. Ez a lépés komoly hatással lehet a globális energiaárakra és az ország gazdaságára, amely a háború miatt amúgy is nyomás alatt van.",
+      "importance": 5
+    },
+    {
+      "title": "Izraeli légicsapás végzett egy humanitárius dolgozóval Gázában",
+      "summary": "Egy izraeli légicsapásban meghalt egy humanitárius dolgozó Gázában, aki a labdarúgó-világbajnokság meccseinek közvetítését szervezte a térségben. Az eset rávilágít a konfliktus civil áldozataira és a humanitárius munkát végzők veszélyeztetettségére.",
       "importance": 4
     },
     {
-      "title": "Ámokfutó lövöldözött egy német iskolában, több súlyos sérült",
-      "summary": "Németországban egy ámokfutó lövöldözött egy iskolában, több diákot és tanárt megsebesítve. Az eset ismét rávilágít az iskolai erőszak problémájára.",
+      "title": "Életfogytiglani ítélet a betegeit halálos koktéllal megölő német orvosnak",
+      "summary": "Életfogytiglanra ítéltek egy német orvost, aki legalább 15 betegével végzett halálos gyógyszerkoktélokkal. A felkavaró bűneset az egészségügybe vetett bizalomra gyakorolhatott súlyos hatást.",
       "importance": 4
-    },
-    {
-      "title": "Újabb komoly hőhullámra figyelmeztet az Európai Bizottság",
-      "summary": "Az Európai Bizottság ismét figyelmeztetést adott ki egy újabb, súlyos hőhullám érkezésére Európában. A szélsőséges időjárás komoly egészségügyi és környezeti kockázatokat jelent.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI új hangmodelleket mutatott be a valósághűbb beszélgetésekhez",
-      "summary": "Az OpenAI új hangmodelleket adott ki, amelyek célja a természetesebb és valósághűbb élő beszélgetések lehetővé tétele. Ez áttörést jelenthet a mesterséges intelligencia kommunikációs képességeiben.",
+      "title": "Új áttörések a mesterséges intelligenciában: Grok 4.5 és OpenAI hangmodellek",
+      "summary": "Elon Musk SpaceXAI cége kiadta a Grok 4.5-öt, amelyet „Opus-osztályú modellként” jellemez, jelezve a fejlettségét. Eközben az OpenAI új hangmodelleket mutatott be a természetesebb élő beszélgetésekhez, új szintre emelve az AI interakciós képességeit.",
       "importance": 5
     },
     {
-      "title": "Egy AI chipgyártó cég 1 milliárd dolláros befektetést kapott, 11 milliárd dollárra értékelve",
-      "summary": "A SambaNova nevű AI chipgyártó vállalat 1 milliárd dolláros befektetést szerzett, mellyel értéke 11 milliárd dollárra emelkedett. Ez jelzi a mesterséges intelligencia hardverfejlesztés iránti hatalmas piaci bizalmat.",
+      "title": "Oroszország a Starlink blokkolásával küzd az ukrán dróntámadások ellen",
+      "summary": "Az orosz erők az Elon Musk-féle Starlink műholdas internet szolgáltatás blokkolásával igyekeznek csökkenteni az ukrán dróntámadások hatékonyságát. Ez az eset rávilágít a technológia kulcsszerepére a modern hadviselésben és a digitális infrastruktúra stratégiai fontosságára.",
+      "importance": 5
+    },
+    {
+      "title": "Masszív adatszivárgás milliók jogosítványadatainak érintettségével",
+      "summary": "Egy újabb jelentős adatszivárgás során milliók jogosítványadatainak számai kerültek nyilvánosságra, ami súlyos kiberbiztonsági aggályokat vet fel. Az eset rávilágít a személyes adatok védelmének folyamatos kihívásaira a digitális korban.",
       "importance": 4
     },
     {
-      "title": "Újabb hatalmas adatlopás során több millió jogosítványadat került nyilvánosságra",
-      "summary": "Egy nagyszabású adatvédelmi incidens során több millió jogosítványadat szivárgott ki. Az eset rávilágít az online biztonság sebezhetőségére és a személyes adatok védelmének fontosságára.",
+      "title": "Az Apple amerikai chipgyártásba kezd a Broadcommal",
+      "summary": "Az Apple bejelentette, hogy az Egyesült Államokban fog vezeték nélküli chipeket gyártani a Broadcommal együttműködve. Ezzel a lépéssel a vállalat erősíteni kívánja a hazai termelést és diverzifikálni a beszállítói láncát.",
       "importance": 4
-    },
-    {
-      "title": "Leáll az eredeti Nintendo Switch gyártása, a konzol eltűnik Európából",
-      "summary": "A Nintendo bejelentette, hogy leállítja az eredeti Switch konzol gyártását, ami azt jelenti, hogy a készülék fokozatosan eltűnik az európai piacról. Ez egy korszak végét jelenti a játékiparban.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A nagyméretű nyelvi modellek képesek előrejelezni a társadalomtudományi kísérletek eredményeit",
-      "summary": "A Nature folyóiratban megjelent tanulmány szerint a nagyméretű nyelvi modellek (LLM-ek) képesek pontosan előrejelezni a társadalomtudományi kísérletek kimenetelét. Ez forradalmasíthatja a kutatási módszereket és az emberi viselkedés megértését.",
+      "title": "Humán robotok alkalmazhatóságának vizsgálata a sebészetben",
+      "summary": "Egy új tanulmány az emberi robotok sebészeti beavatkozásokban való alkalmazhatóságának in vivo megvalósíthatóságát vizsgálta. Ez az áttörés új lehetőségeket nyithat meg az orvosi technológiában és a minimálisan invazív sebészetben.",
       "importance": 5
     },
     {
-      "title": "Emberi robotok sebészeti alkalmazhatóságának vizsgálata élőlényeken",
-      "summary": "Egy in vivo megvalósíthatósági tanulmány humanoid robotok sebészeti beavatkozásokban való alkalmazását vizsgálta. Az eredmények ígéretesek lehetnek a jövő orvosi technológiái szempontjából.",
+      "title": "Űrbeli atomfegyverek és az Űrszerződés ellenőrzése",
+      "summary": "Keringési detektorok segíthetnek az űrbeli robbanófejek felkutatásában, lehetőséget biztosítva a külső űrben történő katonai tevékenységek nyomon követésére. Az új módszerekkel a kozmikus protonok révén az Űrszerződés betartása is ellenőrizhetővé válik.",
+      "importance": 5
+    },
+    {
+      "title": "Nagy nyelvi modellek a társadalomtudományi kísérletek előrejelzésében",
+      "summary": "Kutatók kimutatták, hogy a nagy nyelvi modellek képesek előre jelezni a társadalomtudományi kísérletek eredményeit. Ez a felfedezés új módszert nyit a humán viselkedés tanulmányozására és a társadalmi jelenségek megértésére.",
       "importance": 4
     },
     {
-      "title": "Közös pontot találtak a 100 évet élő emberekben, ami nem az étrend",
-      "summary": "Kutatók azonosítottak egy közös tényezőt a hosszú életű, 100 évnél idősebb embereknél, ami nem az étrendhez kapcsolódik. Ez új utakat nyithat az öregedéskutatásban és az egészséges életmód megértésében.",
+      "title": "A rák kialakulásának új megértése: az aneuploidia szerepe az emlőrákban",
+      "summary": "Kutatások szerint az aneuploidia – a kromoszómák rendellenes száma – kiválasztja a daganatot előidéző gének megszerzését emlőrákban. Ez a felfedezés mélyebb betekintést nyújt a betegség mechanizmusaiba és új terápiás célpontokat azonosíthat.",
       "importance": 4
-    },
-    {
-      "title": "Az űregyezmény ellenőrzése kozmikus protonokkal",
-      "summary": "Tudósok kozmikus protonok segítségével vizsgálják az Outer Space Treaty (Külső Világűr Egyezmény) betartását, különösen az űrben lévő fegyverekre vonatkozóan. Ez egy innovatív módszer a nemzetközi megállapodások tudományos ellenőrzésére.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Bármi megtörténhet: Messiék vb-döntőbe jutása sem garantált",
-      "summary": "A labdarúgó-világbajnokságon bármi előfordulhat, és Messiék döntőbe jutása sem tekinthető biztosnak. A torna tele van meglepetésekkel, ami izgalmassá teszi a további mérkőzéseket.",
+      "title": "Arthur Fery, a brit szabadkártyás játékos Wimbledon elődöntőjében",
+      "summary": "Arthur Fery, a brit szabadkártyás teniszező lenyűgöző győzelmet aratva jutott be a wimbledoni férfi egyes elődöntőjébe. Ez a kiemelkedő teljesítmény jelentős meglepetés a teniszvilágban és a torna egyik legfőbb sztorija.",
+      "importance": 5
+    },
+    {
+      "title": "A labdarúgó-világbajnokság politikai árnyékban – Trump hatása",
+      "summary": "A labdarúgó-világbajnokságot politikai feszültségek árnyékolják be, ahol Donald Trump megjegyzései is hozzájárultak a globális esemény hangulatához. Ez az eset is rávilágít a sport és a politika összefonódására a világ színpadán.",
       "importance": 4
     },
     {
-      "title": "Távozik a horvát és a portugál labdarúgó-válogatott szövetségi kapitánya",
-      "summary": "A horvát és a portugál labdarúgó-válogatott is bejelentette szövetségi kapitányának távozását a közelmúltbeli eredmények után. Ez komoly változásokat hozhat a csapatok felkészülésében.",
-      "importance": 3
+      "title": "Távozik a horvát és a portugál labdarúgó-válogatott kapitánya",
+      "summary": "A világbajnoki szereplés után lemondott posztjáról a horvát és a portugál labdarúgó-válogatott szövetségi kapitánya is. Ez a hír komoly változásokat jelez a két európai nagyhatalom csapatának élén, és új korszak kezdetét jelenti.",
+      "importance": 4
     },
     {
-      "title": "Brit \"wildcard\" jutott a wimbledoni tenisz elődöntőbe",
-      "summary": "A brit Arthur Fery, \"wildcard\" indulóként, meglepő győzelmet aratva jutott be a wimbledoni teniszbajnokság elődöntőjébe. Ezzel komoly sikert ért el a hazai közönség előtt.",
+      "title": "Messiék világbajnoki döntőbe jutásának bizonytalansága",
+      "summary": "A labdarúgó-világbajnokságon bármi megtörténhet, és semmi sem garantálja, hogy Messi és az argentin válogatott eljut a döntőig. A torna utolsó szakaszában a feszültség és a kiszámíthatatlanság csak fokozódik.",
       "importance": 3
-    },
-    {
-      "title": "A Nemzeti Sport kirúgott főszerkesztője marad a sportújságíró-szövetség elnöke",
-      "summary": "A Nemzeti Sporttól elbocsátott főszerkesztő, aki a sportújságíró-szövetség elnöke is, a posztján marad. Az eset rávilágít a sportmédia és a szakmai szervezetek közötti feszültségekre.",
-      "importance": 2
     }
   ]
 }

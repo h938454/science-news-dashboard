@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Medián: A magyarok többsége elégedett Magyar Péter beszédeivel",
-      "summary": "Egy friss Medián felmérés szerint a magyarok 83 százaléka elégedett Magyar Péter országgyűlési beszédeinek tartalmával. Ez jelentős politikai támogatottságot jelez, és befolyásolhatja a közélet alakulását.",
+      "title": "Súlyos helyzet a Bajcsy-Zsilinszky kórház sürgősségijén",
+      "summary": "A Bajcsy-Zsilinszky kórház sürgősségi osztályán klímás katonai sátrakban várakoznak a betegek a zsúfoltság és az ellátási nehézségek miatt. Ez a helyzet rávilágít az egészségügyi rendszer kapacitásproblémáira.",
       "importance": 5
     },
     {
-      "title": "Válságban a Magyar Máltai Szeretetszolgálat",
-      "summary": "A Magyar Máltai Szeretetszolgálat ügyvezetője szerint a szervezet súlyos válsággal küzd, amely veszélyezteti a szociális munkájukat. Ez komoly hatással lehet a rászorulókon végzett segítő tevékenységükre.",
+      "title": "Még tíz napig nem lesz szülészeti ellátás az Uzsoki utcai kórházban",
+      "summary": "Az Uzsoki utcai kórházban átmenetileg felfüggesztették a szülészeti ellátást, ami további nehézségeket okoz a kismamáknak és az egészségügyi rendszernek. A szolgáltatás hiánya komoly aggodalmakat vet fel.",
+      "importance": 5
+    },
+    {
+      "title": "Magyarország népessége fogy, míg az EU a bevándorlás miatt nő",
+      "summary": "Magyarország demográfiai helyzete továbbra is romlik, a népesség csökkenő tendenciát mutat. Eközben az Európai Unió teljes népessége növekszik, főként a bevándorlásnak köszönhetően.",
       "importance": 4
     },
     {
-      "title": "A kormány 821 milliót fordít a Dunai Vasmű környezeti kárainak megelőzésére",
-      "summary": "A kormány 821 millió forintot különít el a Dunai Vasműnél fenyegető környezetkárosodás megelőzésére. Ezzel az állami beavatkozással a cél a potenciális ökológiai katasztrófa elhárítása és a térség védelme.",
-      "importance": 4
-    },
-    {
-      "title": "Civilek klímaváltozási javaslatai: klímabarát áfa és kötelező céges átállás",
-      "summary": "Civil szervezetek konkrét javaslatokkal álltak elő az ország klímaváltozásra való felkészítésére, mint például a klímabarát áfa bevezetése és a cégek kötelező átállása. Ezek a lépések segíthetnék Magyarországot az éghajlatváltozással szembeni ellenállóképesség növelésében.",
+      "title": "Visszatöltötték Magyarország biztonsági kőolajkészletét",
+      "summary": "A márciusi mélypont után sikerült teljesen visszatölteni az ország stratégiai kőolajkészletét, ami az energiabiztonság szempontjából kulcsfontosságú. Ez stabilizálja az ország energiaellátását.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Peszkov szerint Putyin nyitott a tárgyalásokra, Kijev eszkalálja a konfliktust",
-      "summary": "Dmitrij Peszkov, a Kreml szóvivője kijelentette, hogy Putyin elnök nyitott a tárgyalásokra, de Kijev a konfliktus eszkalálására törekszik. Ez a nyilatkozat rávilágít a háború diplomáciai patthelyzetére és a további feszültségek lehetőségére.",
-      "importance": 5
-    },
-    {
       "title": "Meggyilkolták Ann Widdecombe volt brit minisztert",
-      "summary": "Meggyilkolták Ann Widdecombe-ot, a brit politikai élet ellentmondásos megítélésű volt miniszterét, ami nagy megdöbbenést váltott ki az Egyesült Királyságban. A rendőrség vizsgálatot indított az ügyben, és egy 26 éves férfit gyanúsítanak.",
+      "summary": "Meggyilkolták Ann Widdecombe-ot, a brit Konzervatív Párt egykori, ellentmondásos megítélésű miniszterét. Egy 26 éves férfit gyanúsítanak a bűncselekménnyel.",
       "importance": 5
     },
     {
-      "title": "Az orosz propagandát sarokba szorítja a benzinhiány",
-      "summary": "Az Oroszországban tapasztalható benzinhiány egyre inkább megnehezíti a kormányzati propagandát, amely a gazdasági stabilitást hirdeti. Ez a helyzet rávilágít a szankciók és a háború gazdasági hatásaira az átlagpolgárok számára.",
-      "importance": 4
+      "title": "Peszkov: Putyin nyitott a tárgyalásokra, Kijev eszkalálni akarja a konfliktust",
+      "summary": "Dmitrij Peszkov orosz elnöki szóvivő szerint Vlagyimir Putyin nyitott a tárgyalásokra, de Kijev a konfliktus eszkalálására törekszik. A nyilatkozat az ukrajnai háborúval kapcsolatos nemzetközi párbeszédet érinti.",
+      "importance": 5
     },
     {
-      "title": "A dízelellátást két elhúzódó háború veszélyezteti",
-      "summary": "Két elhúzódó háború globálisan veszélyezteti a dízel üzemanyag ellátását, ami jelentős áremelkedéseket és gazdasági bizonytalanságot okozhat. Az energiaellátási láncok sebezhetősége egyre inkább megmutatkozik a geopolitikai feszültségek miatt.",
+      "title": "Súlyos erdőtűz tombol Spanyolország déli részén",
+      "summary": "Spanyolország déli részén hatalmas erdőtűz pusztít, amely legalább 12 halálos áldozatot és 23 eltűntet követelt. A tűz hatalmas károkat okoz a természeti környezetben és a helyi közösségekben.",
+      "importance": 5
+    },
+    {
+      "title": "Az orosz propagandát a benzinhiány szorítja sarokba",
+      "summary": "Oroszországban a benzinhiány egyre súlyosabb problémát jelent, ami komoly kihívás elé állítja az állami propagandát. A hiány rávilágít az ország gazdasági nehézségeire.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az SK Hynix rekordösszegű IPO-t hajtott végre, új amerikai gyárak építésére kérik",
-      "summary": "Az SK Hynix 26,5 milliárd dolláros tőkebevonást hajtott végre, ami a valaha volt legnagyobb külföldi IPO az Egyesült Államokban. A céget arra sürgetik, hogy új chipgyártó üzemeket építsen az USA-ban, ami hozzájárulhat a globális félvezetőipar átrendeződéséhez.",
+      "title": "Az EU korlátozná a Facebook és Instagram addiktív funkcióit",
+      "summary": "Az Európai Bizottság szigorú szabályokat vezetne be, hogy korlátozza a Facebook és Instagram függőséget okozó funkcióit. Ez komoly hatással lehet a Meta üzleti modelljére és a felhasználói élményre.",
       "importance": 5
     },
     {
-      "title": "Az Oratomic 300 millió dollárt gyűjtött 20 ezer qubites kvantumszámítógép fejlesztésére",
-      "summary": "Az Oratomic 300 millió dolláros befektetést szerzett egy olyan működőképes kvantumszámítógép megépítésére, amely mindössze 20 ezer qubitet igényel. Ez a fejlesztés jelentős előrelépést jelenthet a kvantumszámítógépek szélesebb körű elérhetősége felé.",
+      "title": "300 millió dolláros befektetés egy kvantumszámítógép fejlesztésére",
+      "summary": "Az Oratomic 300 millió dolláros tőkebefektetést szerzett egy életképes kvantumszámítógép építéséhez, amely mindössze 20 ezer qubittel működne. Ez a jelentős finanszírozás közelebb hozhatja a kvantumszámítógépek széles körű alkalmazását.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI szerint a GPT 5.6 a preferált modell a Microsoft Copilot 365-höz",
-      "summary": "Az OpenAI bejelentette, hogy a GPT 5.6-os modellje a preferált választás a Microsoft Copilot 365 számára, még a lehetséges szakításról szóló pletykák ellenére is. Ez a hír kiemeli a mesterséges intelligencia fejlesztésének fontosságát a nagyvállalati szoftverekben és a két cég közötti stratégiai kapcsolatot.",
+      "title": "SK Hynix: rekord nagyságú tőzsdei bevezetés az USA-ban",
+      "summary": "Az SK Hynix 26,5 milliárd dolláros tőkeemelést hajtott végre az Egyesült Államokban, ami az eddigi legnagyobb külföldi IPO-nak számít. A céget új amerikai gyárak építésére ösztönzik, ami a chipgyártás globális átrendeződését jelzi.",
       "importance": 4
     },
     {
-      "title": "Az Európai Bizottság korlátozná a Facebook és Instagram addiktív funkcióit",
-      "summary": "Az Európai Bizottság arra kötelezné a Facebookot és az Instagramot üzemeltető Metát, hogy csökkentse platformjai addiktív funkcióit. Ez a szabályozás a digitális jólét és a felhasználók egészségének védelmét célozza, és precedenst teremthet más régiókban is.",
+      "title": "Változik az AI-iparág üzleti modellje: a cégek nem bérelnének többé AI-t",
+      "summary": "A Hugging Face vezérigazgatója szerint a vállalatok egyre inkább elfordulnak az AI-szolgáltatások bérlésétől, és inkább saját AI-modelleket fejlesztenek. Ez az AI-iparág jövőbeni üzleti stratégiáinak alapvető átalakulását jelzi.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Mesterséges sejtet hoztak létre, amely táplálkozik és osztódik",
-      "summary": "Tudósoknak sikerült létrehozniuk egy mesterséges sejtet, amely az igazi élő szervezetekhez hasonlóan táplálkozik és osztódik. Ez a mérföldkő jelentős előrelépést jelent a szintetikus biológia terén, és mélyebb betekintést nyújthat az élet alapvető folyamataiba.",
+      "title": "Áttörés a meddőség kezelésében: laborban előállított sperma",
+      "summary": "A tudósok egyre közelebb kerülnek a laborban előállított spermiumok kifejlesztéséhez, ami forradalmasíthatja a meddőség kezelését. Ez a felfedezés hatalmas reményt adhat a termékenységi problémákkal küzdő pároknak.",
       "importance": 5
     },
     {
-      "title": "Laborban növesztett spermiumok: közelebb az áttörés a termékenységi kezelésekben",
-      "summary": "A tudósok egyre közelebb kerülnek ahhoz, hogy laboratóriumi körülmények között működőképes spermiumokat növeszthessenek, ami forradalmasíthatja a termékenységi kezeléseket. Ez az áttörés reményt adhat számos meddőséggel küzdő párnak a jövőben.",
+      "title": "Kínai tudósok: atommal kellene felrobbantani a veszélyes aszteroidákat",
+      "summary": "Kínai tudósok merész javaslattal éltek, miszerint atomrobbantással lehetne semlegesíteni a Földet veszélyeztető aszteroidákat. Ez az elképzelés új távlatokat nyit a bolygóvédelemben.",
       "importance": 5
     },
     {
-      "title": "Kínai tudósok atomrobbantást javasolnak veszélyes aszteroidák ellen",
-      "summary": "Kínai tudósok olyan stratégiát javasoltak, mely szerint atomrobbantással lehetne megsemmisíteni a Földet fenyegető aszteroidákat. Ez a merész elképzelés új lehetőségeket nyithat meg a bolygóvédelem területén, bár komoly etikai és technológiai kérdéseket vet fel.",
-      "importance": 4
+      "title": "„Szuper-puff” bolygókat fedeztek fel: könnyebbek, mint a vattacukor",
+      "summary": "Csillagászok olyan „szuper-puff” bolygópárt fedeztek fel, amelyek rendkívül alacsony sűrűségűek, könnyebbek a vattacukornál is. Ez a különleges felfedezés új betekintést nyújt az exobolygók kialakulásába és szerkezetébe.",
+      "importance": 5
     },
     {
-      "title": "Felfedezték az óceáni katasztrófát okozó mérgező gyilkost",
-      "summary": "Kutatók azonosították azt a mérgező anyagot, amely egy korábbi óceáni katasztrófát idézett elő, és tömeges kihalásokat okozott. A felfedezés segíthet jobban megérteni a múltbeli ökológiai eseményeket és a jelenlegi környezeti változások lehetséges következményeit.",
+      "title": "Hannibál elefántjait és csapatait megviselte az alpesi átkelés",
+      "summary": "Új kutatások szerint Hannibál elefántjait és seregeit rendkívül súlyosan érintette az alpesi átkelés. Ez a történelmi felfedezés mélyebb betekintést nyújt az ókori hadviselés nehézségeibe és az állatok szerepébe.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Balatoni aszály miatt rövidült a Kékszalag útvonala",
-      "summary": "A Balaton alacsony vízszintje miatt idén kénytelenek voltak megrövidíteni a legendás Kékszalag vitorlásverseny útvonalát. Ez az éghajlatváltozás hatását mutatja be egy ikonikus magyar sporteseményre.",
-      "importance": 5
-    },
-    {
-      "title": "Újabb angol védő sérült meg, aggódnak Haaland miatt",
-      "summary": "Újabb kulcsfontosságú védő dőlt ki az angol labdarúgó-válogatottból, ami komoly fejtörést okoz a szakmai stábnak Haaland megállításában. A sérüléshullám befolyásolhatja az Anglia–Norvégia mérkőzés kimenetelét.",
+      "title": "Véget ért a spanyolok kapott gól nélküli sorozata: Spanyolország-Belgium 1-1",
+      "summary": "A spanyol labdarúgó-válogatott kivételes, kapott gól nélküli sorozata véget ért a Belgium elleni 1-1-es döntetlennel. Ez az eredmény befolyásolja a nemzetközi rangsorokat és a közelgő tornák esélyeit.",
       "importance": 4
     },
     {
-      "title": "Diktátorból vezér: a franciák újra megszeretik Mbappét",
-      "summary": "Kylian Mbappé korábbi kritikák után ismét a francia szurkolók kedvencévé vált, \"diktátorból\" igazi vezérré emelkedve a csapatban. Ez a változás a játékos pályán nyújtott teljesítményének és vezetői képességeinek köszönhető.",
+      "title": "Mbappé újra a franciák kedvence: diktátorból kapitány",
+      "summary": "Kylian Mbappé megítélése sokat javult Franciaországban, a „diktátor” státuszból a csapat kapitányává emelkedett. A francia szurkolók újra megszeretik a sztárjátékost.",
       "importance": 4
     },
     {
-      "title": "Visszatér az Audi legendás raliautója, de nem a gyáritól",
-      "summary": "Az Audi legendás raliautója, a Quattro visszatér a versenypályákra, azonban nem a gyári csapat égisze alatt. Ez az esemény a motorsport rajongók számára különleges csemege, és tiszteleg a rali történetének egyik ikonikus járműve előtt.",
+      "title": "Fery Wimbledon-i menetelése véget ért Zverev ellen az elődöntőben",
+      "summary": "Arthur Fery, a hazai közönség kedvence, Wimbledon-i menetelése az elődöntőben ért véget Alexander Zverev ellen. A fiatal játékos kiemelkedő teljesítményt nyújtott a tornán.",
+      "importance": 4
+    },
+    {
+      "title": "Újabb védő esett ki az angoloknál, ki állítja meg Haalandot?",
+      "summary": "Az angol labdarúgó-válogatott újabb kulcsfontosságú védőjét vesztette el sérülés miatt. Ez a hiányosság különösen aggasztó az érkező mérkőzések előtt, ahol Erling Haaland gólveszélye fenyeget.",
       "importance": 3
     }
   ]

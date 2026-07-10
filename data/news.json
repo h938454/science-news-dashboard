@@ -1,83 +1,118 @@
 {
   "Telex": [
     {
+      "title": "Súlyos válságban van a Magyar Máltai Szeretetszolgálat a szervezet ügyvezetője szerint",
+      "link": "https://telex.hu/belfold/2026/07/10/magyar-maltai-szeretetszolgalat-valsag-thaisz-miklos-interju",
+      "summary": "Thaisz Miklós szerint az unió és a korábbi kormány konfliktusa lehetetlen helyzetbe hozta a szeretetszolgálatot."
+    },
+    {
+      "title": "Feltehetőleg meggyilkolták az ellentmondásos megítélésű volt brit minisztert, Ann Widdecombe-ot",
+      "link": "https://telex.hu/kulfold/2026/07/10/meghalt-ann-widdecombe-brit-miniszter-gyilkossag-nyomozas-bunugy",
+      "summary": "A konzervatív politikus 78 éves volt. A rendőrség nyomozást indított, miután a nőt súlyos sérülésekkel a testén találták holtan otthonában."
+    },
+    {
+      "title": "Két elhúzódó háború már túl sok lehet a dízelellátásnak",
+      "link": "https://telex.hu/g7/vilag/2026/07/10/dizel-uzemanyagar-olajar-szemanyagellatas",
+      "summary": "Az olajpiac eheti fejleményei sem megnyugtatók, de a gázolajból jelentős importra szoruló Európa számára jelenleg aggasztóbbnak tűnnek a hormuzi válság és az orosz exporttilalom továbbgyűrűző hatásai."
+    },
+    {
+      "title": "Klímabarát áfa, beépítési korlát, kötelező céges átállás – így készítenék fel az országot a klímaváltozásra a civilek",
+      "link": "https://telex.hu/techtud/2026/07/10/civil-klimatorveny-fosszilis-energia-foldhasznalat-kornyezetvedelem-eghajlatpolitika",
+      "summary": "Összeszedtük a négy legfontosabb, legérdekesebb és legkézzelfoghatóbb javaslatot a kétszáz civil szervezet által készített klímatörvény-javaslatból."
+    },
+    {
+      "title": "„Innen irányították a gyűlöletpropagandát” – extra táblát kapott Rogán régi minisztériumának épülete",
+      "link": "https://telex.hu/belfold/2026/07/10/katai-nemeth-vilmos-szocialis-es-csaladugyi-miniszterium-tabla-rogan-antal-miniszterelnoki-kabinetiroda",
+      "summary": "Ma már a Szociális és Családügyi Minisztérium működik a Várnegyedben található épületben."
+    },
+    {
+      "title": "Medián: A magyarok 83 százaléka elégedett Magyar Péter országgyűlési beszédeinek tartalmával",
+      "link": "https://telex.hu/belfold/2026/07/10/median-parlament-kozvetites-magyar-peter-felszolalasok-nepszeruseg-fidesz",
+      "summary": "A HVG számára készült kutatás szerint a stílust sokan kifogásolják."
+    },
+    {
+      "title": "Annyira nincs víz már a Balatonban sem, hogy rövidíteni kellett a Kékszalag vitorlásverseny útvonalát",
+      "link": "https://telex.hu/belfold/2026/07/10/modositani-kellett-a-kekszalag-vitorlasverseny-utvonalat-a-balaton-alacsony-vizallasa-miatt",
+      "summary": "Az 55 centis várható átlagos vízállás 60 centivel kevesebb az ideálisnál, és 40 centivel marad el a tavalyitól."
+    },
+    {
+      "title": "Pósfai: Felülvizsgáljuk a taorendszert, egy átláthatóbb és igazságosabb rendszer a cél",
+      "link": "https://telex.hu/belfold/2026/07/10/posfai-gabor-belugyminiszterium-sportert-felelos-allamtitkarsag-tao-rendszer-valtozasok",
+      "summary": "A belügyminiszter és a sportért felelős államtitkárság közzétette a sporttal kapcsolatos alapelveiket."
+    },
+    {
+      "title": "Ruszin-Szendi elárulta, mi történt valójában a Kecskemétről eltűnt MiG–29-es alkatrészekkel",
+      "link": "https://telex.hu/belfold/2026/07/10/honvedseg-mig-29-repulo-alkatresz-rendorseg-ruszin-szendi-romulusz",
+      "summary": "A rendőrség közölte, hogy nem volt lopás, a miniszter most tisztázta az ügyet."
+    },
+    {
+      "title": "Szeleczky Ádám lesz átmenetileg a Duna csatornaigazgatója",
+      "link": "https://telex.hu/belfold/2026/07/10/szeleczky-adam-kozmedia-duna-csatornaigazgato",
+      "summary": "A riporterként és kreatív producerként ismert szakember a Duna csatornaigazgatója lesz, emellett a hírszolgáltatáson kívüli tévés területért felel az átmeneti időszakban."
+    },
+    {
+      "title": "A totyogós tizenegyes csodafegyvernek tűnik, de inkább csak a baj van vele",
+      "link": "https://telex.hu/sport/2026/07/10/tizenegyesrugasok-foci-vb-nagyon-gyenge-arany-65-szazalek-gol-megtorpanos-buntetok",
+      "summary": "Trend, hogy egyre rosszabb hatékonysággal rúgják a büntetőket a foci-vb-ken, aki megtorpan, még jobb eséllyel hibázik. De érdemes a kapusokra is ránézni."
+    },
+    {
+      "title": "Egy 17 éves lány meghalt, miközben a franciák győzelmét ünnepelték egy kisvárosban",
+      "link": "https://telex.hu/sport/2026/07/10/francia-unneples-halalos-aldozat",
+      "summary": "Az egész országban megünnepelték Marokkó legyőzését és a világbajnoki elődöntőt."
+    },
+    {
+      "title": "Kirúgták a Nemzeti Filmintézet igazgatóságát, köztük Káel Csabát",
+      "link": "https://telex.hu/belfold/2026/07/10/kael-csaba-megbizatas-visszavonas-nemzeti-filmintezet-nfi-igazgatosagi-elnok-nagy-ervin",
+      "summary": "Nagy Ervin kultúráért felelős államtitkár közölte a döntést."
+    },
+    {
+      "title": "Mi jobb, a posztnáci kapitalizmus vagy a kommunista nyomor?",
+      "link": "https://telex.hu/karakter/kultura/2026/07/10/fatherland-pawel-pawlikowski-sandra-huller-thomas-mann-nemetorszag-karlovy-vary-film",
+      "summary": "A Hidegháború rendezőjének új filmjében Thomas Mann a háború után megnézi magának Németország mindkét felét, de ő sem lesz okosabb, hogy lehetne belőlük valami jót kihozni."
+    },
+    {
       "title": "Hungary joins European Public Prosecutor's Office",
       "link": "https://telex.hu/english/2026/07/10/hungary-joins-european-public-prosecutor-s-office",
       "summary": "The EPPO will be able to investigate financial crimes involving the EU budget committed since June 2021 even retroactively, and may bring charges related to them."
-    },
-    {
-      "title": "Biztonságosan fogyasztható az itthon kapható tészta, aminek a gyártója külföldön szalmonellafertőzést észlelt",
-      "link": "https://telex.hu/belfold/2026/07/10/biztonsagosan-fogyaszthato-az-itthon-kaphato-teszta-aminek-a-gyartoja-kulfoldon-szalmonellafertozest-eszlelt",
-      "summary": "A magyar forgalmazó termékei nem érintettek a fertőzésben."
-    },
-    {
-      "title": "Már két embert gyanúsít garázdasággal a rendőrség az Orbán Viktor veszprémi országjárásán történtek miatt",
-      "link": "https://telex.hu/belfold/2026/07/10/garazdasag-gyanusitas-orban-viktor-orszagjaras-veszprem",
-      "summary": "A Telex vette videóra a kampányban, hogy két férfi rárontott a kutyapártos tiltakozókra Orbán Viktor országjárása előtt. A rendőrség szerint mindketten panasszal éltek a gyanúsítással szemben."
-    },
-    {
-      "title": "Egész életében komponált, most kiadja első albumát Anthony Hopkins",
-      "link": "https://telex.hu/after/2026/07/10/anthony-hopkins-komolyzene-album-kiadas",
-      "summary": "A kétszeres Oscar-díjas színész bevallása szerint az első szerelme mindig a zene volt."
-    },
-    {
-      "title": "Már-már kihagyhatatlan éjszakai libegőzés, Budapest a festők szemével, Kemény György 90",
-      "link": "https://telex.hu/karakter/kultura/2026/07/10/programajanlo-fonyodi-konyvfesztival-libegok-ejszakaja-kemeny-gyorgy-esterhazy-peter",
-      "summary": "E heti kulturális ajánlónkban a II. Fonyódi Könyvfesztivál és egy olyan program is helyet kapott, amelyen a tíz éve elhunyt Esterházy Péterre emlékeznek."
-    },
-    {
-      "title": "Benyújtotta a kormány a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt létrehozó törvényjavaslatot",
-      "link": "https://telex.hu/belfold/2026/07/10/nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-torvenyjavaslat-benyujtas",
-      "summary": "A hivatal elnökét és elnökhelyetteseit a törvény hatálybalépésétől számított 30 napon belül választja majd meg az Országgyűlés."
-    },
-    {
-      "title": "Elkezdte árulni a Taylor Swift esküvője után gyűjtött szemetet egy művész, egy nap alatt megvették az összeset",
-      "link": "https://telex.hu/after/2026/07/10/taylor-swift-eskuvo-szemet-arusitas-new-york",
-      "summary": "New York-i művész odament, és összegyűjtötte a meghívott vendégek eldobált szemetét."
-    },
-    {
-      "title": "Az MCC Erdély átalakítását kéri tízpontos kiáltványában az Egyenlőbb Erdélyért Mozgalom",
-      "link": "https://telex.hu/transtelex/2026/07/10/mcc-allasfoglalas-egyenlobb-erdelyert-mozgalom",
-      "summary": "Az eddigi „gyarmatosított tudástér” helyett autonóm, decentralizált rendszert, az ideológiai nevelés helyett szakmaiságot várnak."
-    },
-    {
-      "title": "Bita Dániel lesz a 24.hu új főszerkesztője, Pető Péter az előfizetéses tartalmakért felel majd",
-      "link": "https://telex.hu/belfold/2026/07/10/central-media-24-hu-foszerkeszto-valtas-peto-peter-bita-daniel",
-      "summary": "Pető 2019 óta vezette a 24.hu szerkesztőségét, a korábbi főszerkesztő-helyettes lép a helyébe."
-    },
-    {
-      "title": "Kimondta az Európai Bizottság, hogy uniós jogot sért a Facebook és az Instagram addiktív kialakítása",
-      "link": "https://telex.hu/kulfold/2026/07/10/europai-bizottsag-meta-kozossegi-media-addiktiv-kialakitas",
-      "summary": "Az EB szerint az olyan funkciók, mint a végtelenített görgetés, az automatikus lejátszás és a személyre szabott ajánlórendszer hozzájárulnak a kényszeres használathoz."
-    },
-    {
-      "title": "A KDNP alelnöke a párt önállósodásáról: Nem akarunk fél szemmel mindig a Fideszre figyelni",
-      "link": "https://telex.hu/belfold/2026/07/10/kdnp-vitaanyag-latorcai-csaba-simicsko-istvan-fidesz-semjen-zsolt",
-      "summary": "A kereszténydemokrácia nem besavanyodott, öreg emberek gyülekezete, mondta a Telexnek Latorcai János. Az alelnök szerint volt, hogy nem tettek szóvá dolgokat a Fidesznek, mert egy komolyabb politikai cél érdekében kormányoztak, és volt, hogy szóvá tették, de nem lett következménye. A párt képviselőit kérdeztük a szervezetben zajló vitáról és a megújulásról."
-    },
-    {
-      "title": "Egyhangúlag elfogadták a 3600 milliárd forintot érő magyar helyreállítási tervet a tagállami miniszterek",
-      "link": "https://telex.hu/gazdasag/2026/07/10/eu-europai-unio-tanacsa-helyreallitasi-terv-penzugyminiszterek-jovahagyas",
-      "summary": "Magyar Péter szerint ezzel a végső akadály is elhárult az uniós ezermilliárdok hazahozatala elől."
-    },
-    {
-      "title": "Két éve elmaradt béremelés miatt is sztrájkolhatnak az IKEA dolgozói",
-      "link": "https://telex.hu/g7/vallalat/2026/07/10/ikea-sztrajk-berek-eredmeny-kereskedelem",
-      "summary": "Az IKEA magyar leányvállalata már 2024-ben sem követte az országos bérdinamikát, ami hozzájárulhatott a mostani feszültségekhez. A menedzsment mozgásterét csoportszintű megszorítások szűkítik."
-    },
-    {
-      "title": "Elismerte a rendőrség, hogy jogszerűtlenül fújták le gázspray-vel az őket kamerázó férfit",
-      "link": "https://telex.hu/belfold/2026/07/10/rendorseg-kenyszerintezkedes-gazspray-bilincs-jogszerutlenseg-helsinki-bizottsag",
-      "summary": "A férfit tavaly nyáron Angyalföldön állították elő, a rendőrség most kimondta: szakszerűtlenül és aránytalanul alkalmaztak vele szemben testi kényszert, bilincset és gázspray-t."
-    },
-    {
-      "title": "Pánik tört ki a Ryanair egyik járatán, miután betört egy ablak",
-      "link": "https://telex.hu/kulfold/2026/07/10/ryanair-repulogep-ablak-tores-baleset-visszafordulas",
-      "summary": "A görögországi Szalonikiből a németországi Memmingenbe tartó járaton nem sokkal felszállás után történt az incidens, a gép visszafordult."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Felülvizsgálja a Belügyminisztérium a TAO-rendszert",
+      "link": "https://444.hu/2026/07/10/felulvizsgalja-a-belugyminiszterium-a-tao-rendszert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A versenysport eredményességének fenntartását továbbra is fontosnak tartják, de az állami támogatások sokkal szigorúbb átláthatósága mellett."
+    },
+    {
+      "title": "Mindjárt benéz hozzánk egy hidegfront, de a világon semmi sem indokolja, hogy ez felizgasson bennünket",
+      "link": "https://444.hu/2026/07/10/mindjart-benez-hozzank-egy-hidegfront-de-a-vilagon-semmi-sem-indokolja-hogy-ez-felizgasson-bennunket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Lehet, hogy itt-ott esni fog, de nyár lesz, méghozzá elviselhető, sőt kedvelhető típusú."
+    },
+    {
+      "title": "Átmenetileg Szeleczky Ádám igazgatja a Duna TV-t",
+      "link": "https://444.hu/2026/07/10/atmenetileg-szeleczky-adam-igazgatja-a-duna-tv-t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "2024-ig a közmédiánál dolgozott."
+    },
+    {
+      "title": "Egy adminisztrációs hibát hittek lopásnak a kecskeméti katonai repülőtéren",
+      "link": "https://444.hu/2026/07/10/egy-adminisztracios-hibat-hittek-lopasnak-a-kecskemeti-katonai-repuloteren?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A belső vizsgálat szerint mégsem loptak tavaly MIG-alkatrészeket."
+    },
+    {
+      "title": "Az ukrán legfelsőbb bíróság elutasította Petro Porosenko volt államfő keresetét az ellene hozott szankciók feloldására",
+      "link": "https://444.hu/2026/07/10/az-ukran-legfelsobb-birosag-elutasitotta-petro-porosenko-volt-allamfo-keresetet-az-ellene-hozott-szankciok-feloldasara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Zelenszkij korábbi érvelése szerint „a szankciókat olyanokra vetették ki, akik a 2014-ben kezdődött háború alatt pénzt mostak, hrivnyák milliárdjait vonták ki az ország gazdaságából”."
+    },
+    {
+      "title": "Eltávolították a Nemzeti Filmintézet éléről Káel Csabát",
+      "link": "https://444.hu/2026/07/10/eltavolitottak-a-nemzeti-filmintezet-elerol-kael-csabat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az egész igazgatóság megbízását visszavonták."
+    },
+    {
+      "title": "A Világi Oszkárhoz köthető ferencvárosi lőtér szerint nekik nem mondtak fel, minden megy tovább, ahogy eddig",
+      "link": "https://444.hu/2026/07/10/a-vilagi-oszkarhoz-kotheto-ferencvarosi-loter-szerint-nekik-nem-mondtak-fel-minden-megy-tovabb-ahogy-eddig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A ferencvárosi polgármester és a szociális miniszter is bejelentette, hogy a MÁV felmondta a lőtér szerződését, a lőtér szerint „semmilyen felmondás... ezidáig hivatalosan nem érkezett”."
+    },
     {
       "title": "Az Európai Bizottság kötelezné a Facebookot és az Instagramot, hogy ne legyen addiktív",
       "link": "https://444.hu/2026/07/10/az-europai-bizottsag-kotelezne-a-facebookot-es-az-instagramot-hogy-ne-legyen-addiktiv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -117,150 +152,125 @@
       "title": "Új főszerkesztő kerül a 24.hu élére",
       "link": "https://444.hu/2026/07/10/uj-foszerkeszto-kerul-a-24hu-elere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A lapot eddig vezető Pető Péter digitális előfizetéses tartalom- és hírigazgatóként folytatja munkáját, az új főszerkesztő Bita Dániel lesz."
-    },
-    {
-      "title": "Jöhetnek az uniós ezermilliárdok: jóváhagyta az EU Tanácsa Magyarország új helyreállítási tervét",
-      "link": "https://444.hu/2026/07/10/johetnek-az-unios-ezermilliardok-jovahagyta-az-eu-tanacsa-magyarorszag-uj-helyreallitasi-tervet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "10 milliárd euró, azaz több mint 3500 milliárd forint volt a tét."
-    },
-    {
-      "title": "Brüsszel jóváhagyta Magyarország csatlakozását az Európai Ügyészséghez",
-      "link": "https://444.hu/2026/07/10/brusszel-jovahagyta-magyarorszag-csatlakozasat-az-europai-ugyeszseghez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A döntés ezzel még nem lépett életbe, majd csak húsz nappal azután fog, hogy kihirdették az EU hivatalos lapjában."
-    },
-    {
-      "title": "A rendőrség elismerte, hogy jogszerűtlenül bilincselt és használt gázspray-t",
-      "link": "https://444.hu/2026/07/10/a-rendorseg-elismerte-hogy-jogszerutlenul-bilincselt-es-hasznalt-gazspray-t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az angyalföldi dohányboltnál történtekről videófelvétel készült, ez volt végül az ügy kulcsa."
-    },
-    {
-      "title": "Az első félév végére normalizálódott a magyarországi üzemanyag-tartalék mennyisége",
-      "link": "https://444.hu/2026/07/10/az-elso-felev-vegere-normalizalodott-a-magyarorszagi-uzemanyag-tartalek-mennyisege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Még mindig nem érte el az iráni háború kirobbanása előtti szintet, de a március végi 44 nappal szemben már 82 napra elé."
-    },
-    {
-      "title": "Őrizetbe vettek több embert a görög kormánypárti politikusok elleni merényletek ügyében",
-      "link": "https://444.hu/2026/07/10/orizetbe-vettek-tobb-embert-a-gorog-kormanyparti-politikusok-elleni-merenyletek-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A támadásokban egy kormánypárti politikus anyja életét vesztette, négy másik ember pedig megsérült."
-    },
-    {
-      "title": "Miért toporognak a világ legjobb focistái a tizenegyeseknél?",
-      "link": "https://444.hu/2026/07/10/miert-toporognak-a-vilag-legjobb-focistai-a-tizenegyeseknel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Messi, Mbappé, Kane és Neymar is lőtt megtorpanós tizenegyest, de a trükk a világbajnokságon feltűnően sokszor visszaütött: a kapusok egyre türelmesebben várják ki a lövést, a rúgók pedig saját magukat zökkentik ki a ritmusból."
-    },
-    {
-      "title": "Betört egy Ryanair-gép ablaka, a nyomásváltozás egy utast beszippantott az ablakba, a feje kilógott a gépből",
-      "link": "https://444.hu/2026/07/10/betort-egy-ryanair-gep-ablaka-a-nyomasvaltozas-egy-utast-beszippantott-az-ablakba-a-feje-kilogott-a-gepbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy Boeing 737-essel történt az eset nem sokkal azután, hogy felszállt a szaloniki reptérről Németország felé. A 61 éves férfit vissza tudták húzni az utastérbe, a kényszerleszállás után kórházba került."
     }
   ],
   "HVG": [
     {
-      "title": "25%-kal több szén-dioxidot engedett a légkörbe a Microsoft egy év alatt",
-      "link": "https://hvg.hu/tudomany/20260710_microsoft-szen-dioxid-kibocsatas-karbonsemlegesseg-kornyezetszennyezes",
-      "summary": "Nem áll jól a Microsoft azzal a vállalásával, ami szerint 2030-ra karbonsemlegessé válna a cég."
+      "title": "Pósfai Gábor: Átláthatóbb, igazságosabb tao-rendszer megalkotása a cél",
+      "link": "https://hvg.hu/sport/20260710_posfai-gabor-sportallamtitkarsag-tao-rendszer-felulvizsgalat-versenysport",
+      "summary": "A belügyminiszter szerint a korábban megpályázott és elnyert nemzetközi sporteseményeket meg kívánják rendezni – a költségvetés újratervezésével."
     },
     {
-      "title": "Bűnöző macskákról szól a Toy Story és az Agymanók készítőinek új filmje",
-      "link": "https://hvg.hu/kultura/20260710_bunozo-macskakrol-szol-a-toy-story-es-az-agymanok-keszitoinek-uj-filmje-gatto-elozetes",
-      "summary": "A Gatto című Pixar-filmről a magyar nézőknek alighanem a Macskafogó Mr. Gattója jut az eszébe, de a készülő macskás animációs filmet aligha erről a rajzfilmről mintázták. Itt az első előzetes."
+      "title": "80 milliárd eurót tolnak az európai techcégekbe, a magyaroknak is juthat belőle",
+      "link": "https://hvg.hu/tudomany/20260710_europai-beruhazasi-bank-europai-tech-cegek-tamogatasa-befektetes",
+      "summary": "Európa óriási összeggel támogatná az innovatív európai technológiai cégeket, hogy azok a kontinensen maradva nőhessenek világméretű tényezővé."
     },
     {
-      "title": "Lemondta a válogatottságot Szenegál legjobbja, Sadio Mané",
-      "link": "https://hvg.hu/sport/20260710_sadio-mane-valogatottsag-szenegal-lemondas",
-      "summary": "A Belgium elleni 3–2-es vereséggel búcsúzott a nemzeti csapattól."
+      "title": "Megcsinálták a mesterséges sejtet, úgy táplálkozik és osztódik, mint az igazi",
+      "link": "https://hvg.hu/tudomany/20260710_spud-cell-mesterseges-sejt-fejlesztese-novekedes-taplalkozas-osztodas",
+      "summary": "Olyan új platformot készítettek a kutatók, amely újfajta gyógyszerek fejlesztését is lehetővé teheti a jövőben."
     },
     {
-      "title": "Lekerült a tiltólistáról, így tíz év után újra behívták a közmédiába Szabó-Kimmel Tamást",
-      "link": "https://hvg.hu/kultura/20260710_lekerult-a-tiltolistarol-tiz-ev-utan-ujra-behivtak-a-kozmediaba-szabo-kimmel-tamast",
-      "summary": "A népszerű színész is egyike volt azoknak, akiknek nevét Nagy Ervin kulturális államtitkár felolvasta a parlamentben, amikor ismertette, kik szerepelnek a közmédia feketelistáján."
+      "title": "„Innen irányították a gyűlöletpropagandát” – táblát avattak Rogán Antal egykori minisztériumának épületén",
+      "link": "https://hvg.hu/elet/20260710_szocialis-es-csaladugyi-miniszterium-katai-nemeth-vilmos-miniszterelnoki-kabinetiroda-tabla-avatas",
+      "summary": "A néhai Miniszterelnöki Kabinetiroda épületébe a Szociális és Családügyi Minisztérium költözött be."
     },
     {
-      "title": "Magyar Péter az uniós pénzek felszabadításáról: „Megígértük, megcsináltuk”",
-      "link": "https://hvg.hu/gazdasag/20260710_unios-forrasok-felszabaditasa-magyar-peter-vitezy-david-reakcio",
-      "summary": "A miniszterelnök és Vitézy Dávid is üdvözölte az EU Tanácsának döntését, amellyel 10 milliárd euró lehívása előtt nyílik meg az út. A tárcavezető azt is elárulta, mire fordítják a források jelentős részét."
+      "title": "Bezárták a Máré-várat, amelynek bulizók szétbontották a falát",
+      "link": "https://hvg.hu/kultura/20260710_mare-var-bezaras-statikus",
+      "summary": "A Máré-vár balesetveszélyes lett, csak akkor nyitnak ki, ha elkészül a fal megtámasztása."
     },
     {
-      "title": "Az örökösök árulják Tamás Gáspár Miklós belvárosi lakását",
-      "link": "https://hvg.hu/kultura/20260710_tamas-gaspar-miklos-belvaros-lakas-elado",
-      "summary": "A filozófus könyvtárának és a kéziratainak már megtalálták a helyét."
+      "title": "Zseniális rejtett funkcióval állt elő a Google – csak keressen rá Erling Haaland nevére",
+      "link": "https://hvg.hu/tudomany/20260710_erling-haaland-google-kereso-viking-evezes-dobolas-ebx",
+      "summary": "A norvég csatár is erre kér mindenkit a közösségi oldalán. Kár lenne nemet mondani neki."
     },
     {
-      "title": "Azahriah, Bongor, Sisi – fotógaléria az EFOTT első napjáról",
-      "link": "https://hvg.hu/kultura/20260710_azahriah-bongor-sisi-ilyen-volt-az-efott-elso-napja",
-      "summary": "Csütörtökön már csúcsra járva dübörgött Sukorón az Egyetemisták és Főiskolások Országos Turisztikai Találkozója (EFOTT). Így látta az első napot a HVG fotóriportere."
+      "title": "„A magyar fővárost a külföldiek elragadtatással dicsérik, a budapestiek állhatatosan szidják”",
+      "link": "https://hvg.hu/360/20260710_kiallitas-budapest-festoszemmel-hianypotlo-valogatas-hvg",
+      "summary": "Vannak olyan modern alkotók a magyar festészetben, akiknek több párizsi látképük van, mint budapesti. De akadtak köztük szerelmesei is a fővárosnak. Az ő műveikből válogat a Kieselbach Galéria július 18-áig látható kiállítása."
     },
     {
-      "title": "A nemrég talált szalmonellás instant tészta a forgalmazó szerint elkerülte Magyarországot",
-      "link": "https://hvg.hu/kkv/20260710_nem-szalmonellas-teszta-reeva-foods-hivatalos-forgalmazo-white-lake-kft-elelmiszerbiztonsag",
-      "summary": "A hivatalos kereskedelemben érkezett szállítmányok nem is voltak szalmonellagyanúsak, Magyarországon egészségügyi panaszok nem merültek fel."
+      "title": "Olaszországban 43 fok is lehet, a tengervíz akár 8 fokkal magasabb a megszokottnál",
+      "link": "https://hvg.hu/vilag/20260710_olaszorszag-szardinia-hohullam-kanikula-riasztas",
+      "summary": "Az egészségügyi minisztérium több városra is hőségriasztást adott ki."
     },
     {
-      "title": "Uniós jogot sérthet a Facebook és az Instagram függőséget okozó kialakítása",
-      "link": "https://hvg.hu/tudomany/20260710_meta-instagram-facebook-europai-bizottsag-vizsgalat-fuggoseg-jogsertes",
-      "summary": "Az Instagram és a Facebook függőséget okozó tervezése sérti a digitális szolgáltatásokról szóló rendeletet – véli az EU."
+      "title": "Új akkumulátorokat fejleszthet a világ egyik legerősebb szuperszámítógépe",
+      "link": "https://hvg.hu/tudomany/20260710_kemia-szimulacio-szuperszamitogep-aurora",
+      "summary": "Amerikai kutatók olyan keretrendszert fejlesztettek ki, ami jelentős mértékben javítja a komplex kémiai folyamatok szimulációját."
     },
     {
-      "title": "Csalás gyanúval újra nyomoznak Józsefváros gyermeküdülőjének a Fidesz alatt történt zavaros felújítása miatt",
-      "link": "https://hvg.hu/itthon/20260710_csalasgyanuval-ujra-nyomoznak-jozsefvaros-gyerekudulojenek-a-fidesz-eraban-tortent-zavaros-felujitasa-miatt",
-      "summary": "A káptalanfüredi üdülő kálváriája 11 éve tart: az ügyben felbukkant a még Simicska-közeli kézilabdaklub és taotámogatások elszámolása, kifogásolható tételek, elmaradó garanciális javítások és bedőlt beruházócég is. A gyerekek még mindig nem használhatják, a korábban leállt NAV-nyomozás azonban újraindult."
+      "title": "„Az üres beszéd nem büntetendő” – Magyar György szerint túlreagálásnak tekinthető a Szakács István elleni rendőri intézkedés",
+      "link": "https://hvg.hu/itthon/20260710_szakacs-istvan-rendorseg-magyar-gyorgy-ugyved-jogellenes-ebx",
+      "summary": "Ez nem terrorcselekmény, ez véleménynyilvánítás – mondta a HVG-nek Magyar György ügyvéd, aki szerint az eddig ismertté vált információk alapján a hatóságnak meg kellene szüntetnie a Szakács István ellen indított eljárást, hiszen nem valósított meg semmilyen bűncselekményt."
     },
     {
-      "title": "Főszerkesztőváltás történt a 24.hu-nál",
-      "link": "https://hvg.hu/gazdasag/20260710_augusztustol-uj-foszerkesztoje-lesz-a-24-hu-nak-is-peto-petert-bita-daniel-valtja",
-      "summary": "Az eddigi főszerkesztő Pető Péter új feladatokat kap a Central Médiacsoportnál."
+      "title": "Szeleczky Ádám lett a Duna ideiglenes csatornaigazgatója",
+      "link": "https://hvg.hu/itthon/20260710_mtva-duna-atmeneti-csatornaigazgato-szeleczky-adam",
+      "summary": "A tévés szakember korábban több mint tíz éven át dolgozott a közmédiánál."
     },
     {
-      "title": "Benyújtotta a kormány a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt létrehozó törvényjavaslatot",
-      "link": "https://hvg.hu/itthon/20260710_benyujtotta-a-kormany-a-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatalt-letrehozo-torvenyjavaslatot",
-      "summary": "A hivatal elnökét és elnökhelyetteseit a törvény hatálybalépésétől számított 30 napon belül választja meg az Országgyűlés."
+      "title": "Jorge Jesus lett a portugálok szövetségi kapitánya",
+      "link": "https://hvg.hu/sport/20260710_jorge-jesus-portugal-szovetsegi-kapitany",
+      "summary": "Egy igazi edzőlegenda lett a válogatott vezetője."
     },
     {
-      "title": "Likvidálja a mobilokon népszerű játékát a Nintendo, megszűnik a Mario Kart Tour",
-      "link": "https://hvg.hu/tudomany/20260710_nintendo-mario-kart-tour-megszunes-mobilon",
-      "summary": "Már csak pár hónapig lehet nyomkodni mobilon a Mario Kart Tourt, amely a kijelölt dátum pillanatában végleg használhatatlanná válik."
+      "title": "Senki sem lopott alkatrészeket a kecskeméti MiG–29-esekből a HM belső vizsgálata szerint",
+      "link": "https://hvg.hu/itthon/20260710_honvedelmi-miniszterium-kecskemet-mig-29-alkatresz-lopas-belso-vizsgalat-ruszin-szendi-romulusz",
+      "summary": "Ruszin-Szendi Romulusz tárcavezető szerint az előző minisztériumi vezetés is tudott a valós tényállásról, mégsem tájékoztatták erről a társadalmat."
     },
     {
-      "title": "Függőséget okoz a Facebook és az Instagram az EU szerint, súlyos bírság fenyegeti a Metát",
-      "link": "https://hvg.hu/eurologus/20260710_addiktiv-dizajn-meta-facebook-instragram-unios-jog",
-      "summary": "Előzetesen megállapította az Európai Bizottság, hogy a Meta megsérthette az uniós digitális szolgáltatásokról szóló rendeletet (Digital Services Act – DSA), mert a Facebook és az Instagram működését olyan módon alakította ki, amely elősegítheti a felhasználók – különösen a gyermekek és a fiatalok – túlzott, kényszeres használatát. Ha a vizsgálat végén is fennmarad ez az álláspont, a vállalat éves globális árbevételének akár 6 százalékát elérő bírságot is kaphat."
+      "title": "Titokban listát vezetett a meleg és balhés sztárokról is a Madison Square Garden",
+      "link": "https://hvg.hu/kultura/20260710_borszin-es-szexualis-iranyultsag-alapjan-listazta-a-hiressegeket-new-york-egyik-legfontosabb-koncert-es-meccshelyszine",
+      "summary": "A New York-i koncert- és sporthelyszín adatbázisát egy hackercsoport hozta nyilvánosságra, és közel 40 ezer név szerepelt rajta. A sztárokat rizikófaktor alapján is besorolták."
     },
     {
-      "title": "Kissé összekapta magát péntek délelőtt a forint",
-      "link": "https://hvg.hu/gazdasag/20260710_forinterosodes-forintarfolyam-euroarfolyam-devizapiac-valuta-gazdasag",
-      "summary": "A 355-ös szintet is megközelítette, miután csökkenni kezdett az olajár."
+      "title": "Medián: Még a fideszesek harmada is jónak tartja Magyar Péter beszédeinek tartalmát",
+      "link": "https://hvg.hu/360/20260710_durvan-is-jo-median-magyar-peter-parlament-hvg",
+      "summary": "Az új kormányfő új életet lehelt a parlamenti munkába is, nem csoda, hogy jóval többen követik a plenáris üléseket, mint korábban. De tetszik is, amit látnak?"
     }
   ],
   "BBC": [
+    {
+      "title": "Ann Widdecombe murder probe: What we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say they are searching for a suspect in connection with the former MP's death at her home on Dartmoor."
+    },
+    {
+      "title": "Arthur Fery's Wimbledon run ended by Alexander Zverev in semi-finals",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/ckg475qdnd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Arthur Fery's unforgettable Wimbledon run comes to an end as Alexander Zverev beats the British wildcard to secure a place in the final."
+    },
+    {
+      "title": "Top Boy actor Micheal Ward found not guilty of rape",
+      "link": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\"."
+    },
     {
       "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
       "link": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
       "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September."
     },
     {
-      "title": "Met police investigating Reform over election donations - reports",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The investigation is looking into donations made to Reform UK by the mother of the convicted fraudster George Cottrell, according to the Times."
-    },
-    {
-      "title": "Ann Widdecombe: Brexit-backing former minister turned Strictly star",
-      "link": "https://www.bbc.co.uk/news/articles/c2kyw4nqd5do?at_medium=RSS&at_campaign=rss",
-      "summary": "A leading figure on the right of British politics who reinvented herself as a reality TV star."
-    },
-    {
-      "title": "Man 'nearly sucked out of window mid-air' on Ryanair plane, passengers say",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
       "link": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair."
+      "summary": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say."
     },
     {
-      "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
-      "link": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss",
-      "summary": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial."
+      "title": "UK bakes in 35C highs as millions under hosepipe bans",
+      "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
+      "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year."
     },
     {
-      "title": "Vapes to have less enticing names and flavours to protect children",
-      "link": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
-      "summary": "People are being consulted about plans to stop vape companies using enticing flavour descriptions that \"attract\" children into experimenting."
+      "title": "Longest-serving Archers star Patricia Greene dies aged 95",
+      "link": "https://www.bbc.co.uk/news/articles/cy04erw9y42o?at_medium=RSS&at_campaign=rss",
+      "summary": "She was best known for playing Jill Archer in the BBC Radio 4 soap for nearly 70 years."
+    },
+    {
+      "title": "Watch: US declassifies even more UFO videos",
+      "link": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis."
     },
     {
       "title": "Prince Harry plays pickleball at Invictus Games event, but no Meghan",
@@ -268,29 +278,19 @@
       "summary": "The Duke of Sussex is travelling without his wife for the event at Birmingham's NEC."
     },
     {
-      "title": "Disney's 'dismal' live-action Moana panned by critics",
-      "link": "https://www.bbc.co.uk/news/articles/cz6vz56326vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dwayne Johnson reprises his role as demigod Maui, a decade after the original hit animation."
-    },
-    {
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "link": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods."
-    },
-    {
-      "title": "UK bakes in 35C highs as heatwave to continue next week",
-      "link": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
-      "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year."
-    },
-    {
-      "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
-      "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC join a crew based in Exeter as the UK sizzles in one of its longest-running heatwaves."
+      "title": "Pioneering treatment saves identical twins from rare pregnancy condition",
+      "link": "https://www.bbc.co.uk/news/articles/c2eyl3zkpwko?at_medium=RSS&at_campaign=rss",
+      "summary": "Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial."
     },
     {
       "title": "How much sunscreen do you need to protect your skin?",
       "link": "https://www.bbc.co.uk/news/articles/c1lj5r48vmmo?at_medium=RSS&at_campaign=rss",
       "summary": "What to look for when choosing sunscreen and how to apply it to get the maximum protection."
+    },
+    {
+      "title": "'People don't realise how at risk they are': A day with an ambulance service in a heatwave",
+      "link": "https://www.bbc.co.uk/news/articles/cvg4y289ppjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC join a crew based in Exeter as the UK sizzles in one of its longest-running heatwaves."
     },
     {
       "title": "'Cool in 90 seconds' - the fake portable air conditioners sweeping the internet",
@@ -303,12 +303,37 @@
       "summary": "Experts are calling for better awareness of the heat-related risks to women and more targeted efforts to protect them."
     },
     {
-      "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-      "link": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC looks at the growing trend of people swapping homes to cut holiday costs."
+      "title": "How an undercover police sting solved a 1984 murder and sent two brothers to jail",
+      "link": "https://www.bbc.co.uk/news/articles/cg74e270p13o?at_medium=RSS&at_campaign=rss",
+      "summary": "The brothers, who had been on a violent crime spree attacking men they thought were gay, are jailed after an undercover operation that involved bugged cars and covert officers."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+      "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+      "summary": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic."
+    },
+    {
+      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+      "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures."
+    },
+    {
+      "title": "Netflix could be planning ‘always-on’ live TV channels",
+      "link": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+      "summary": "Amid signs of slowing engagement,  Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7."
+    },
+    {
+      "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+      "link": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+      "summary": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said."
+    },
+    {
+      "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+      "link": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+      "summary": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers."
+    },
     {
       "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV",
       "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
@@ -358,32 +383,83 @@
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
       "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide."
-    },
-    {
-      "title": "Charles Hudson shares the common mistakes he’s seen after investing in 500+ startups",
-      "link": "https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/",
-      "summary": "In this week’s episode of Build Mode,  Isabelle Johannessen talks with Precursor Ventures' Charles Hudson about the headwinds facing early-stage founders today and the most common mistakes founders should avoid in order to get funded."
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "summary": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
-    },
-    {
-      "title": "Slate Auto teams up with Crayola to color its EV truck",
-      "link": "https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/",
-      "summary": "Slate has an answer for owners who have always want to drive a truck with bright crayon colors."
-    },
-    {
-      "title": "FanDuel sent a video from star athlete Bryce Harper to a customer with a gambling problem",
-      "link": "https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/",
-      "summary": "The video call highlights the murky relationship between professional athletes and gambling apps."
-    },
-    {
-      "title": "Mercor is in talks for a $20B valuation",
-      "link": "https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/",
-      "summary": "A new $20 billion valuation would be a giant step up from the $10 billion valuation it reached in October."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+      "link": "https://www.nature.com/articles/d41586-026-02113-3",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02113-3\">doi:10.1038/d41586-026-02113-3</a></p>Pachyderms would have lost substantial amounts of weight traversing the mountains, as would have horses and soldiers."
+    },
+    {
+      "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
+      "link": "https://www.nature.com/articles/d41586-026-02185-1",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02185-1\">doi:10.1038/d41586-026-02185-1</a></p>Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created."
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "link": "https://www.nature.com/articles/d41586-026-02091-6",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02091-6\">doi:10.1038/d41586-026-02091-6</a></p>General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?"
+    },
+    {
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "link": "https://www.nature.com/articles/d41586-026-02167-3",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02167-3\">doi:10.1038/d41586-026-02167-3</a></p>Preprints don’t change much after peer review — and are rarely retracted."
+    },
+    {
+      "title": "Found: the toxic killer that caused an ocean catastrophe",
+      "link": "https://www.nature.com/articles/d41586-026-02112-4",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02112-4\">doi:10.1038/d41586-026-02112-4</a></p>Scientists identify an alga species as the culprit behind the deaths of more than one million marine animals."
+    },
+    {
+      "title": "Pair of ‘super-puff’ planets are lighter than candy floss",
+      "link": "https://www.nature.com/articles/d41586-026-02114-2",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02114-2\">doi:10.1038/d41586-026-02114-2</a></p>Two gas giants circling the same star are among the least dense planets ever found."
+    },
+    {
+      "title": "Graduating without a thesis: meet the people getting ‘practical’ PhDs in China",
+      "link": "https://www.nature.com/articles/d41586-026-01242-z",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01242-z\">doi:10.1038/d41586-026-01242-z</a></p>Nature spoke to three students from China’s first cohort of PhD candidates who are allowed to graduate with products instead of papers."
+    },
+    {
+      "title": "Daily briefing: Mutation lets octopuses make proteins with precision",
+      "link": "https://www.nature.com/articles/d41586-026-02177-1",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02177-1\">doi:10.1038/d41586-026-02177-1</a></p>A break in these octopuses’ protein-making machinery boosts their accuracy. Plus, a Nobel-prizewinner has left the United States for China and the effects of microgravity on the brain."
+    },
+    {
+      "title": "Whoops! Most arXiv papers contain information never meant to be shared",
+      "link": "https://www.nature.com/articles/d41586-026-02057-8",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02057-8\">doi:10.1038/d41586-026-02057-8</a></p>Passwords, GPS coordinates and private conversations have all been found in the metadata and source files of millions of preprint submissions."
+    },
+    {
+      "title": "‘This time, it’s the other way around’: how Indonesia is reclaiming the science of human history",
+      "link": "https://www.nature.com/articles/d41586-026-01357-3",
+      "summary": "<p>Nature, Published online: 09 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01357-3\">doi:10.1038/d41586-026-01357-3</a></p>After a massive restructuring of its research ecosystem, Indonesia is taking the lead on its own palaeontological research."
+    },
+    {
+      "title": "Nukes in space? Orbital detector could sniff out warheads",
+      "link": "https://www.nature.com/articles/d41586-026-02141-z",
+      "summary": "<p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02141-z\">doi:10.1038/d41586-026-02141-z</a></p>A shoebox-sized detector satellite could identify the telltale signal of a hidden nuclear device — plus, how Indigenous plant knowledge is under threat."
+    },
+    {
+      "title": "Observation of Floquet rotational super-radiance",
+      "link": "https://www.nature.com/articles/s41586-026-10725-y",
+      "summary": "<p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10725-y\">doi:10.1038/s41586-026-10725-y</a></p>A Floquet regime of rotational super-radiance has been observed in a spatiotemporally modulated ring network of resonators."
+    },
+    {
+      "title": "In vivo feasibility study of humanoid robots in surgery",
+      "link": "https://www.nature.com/articles/s41586-026-10796-x",
+      "summary": "<p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10796-x\">doi:10.1038/s41586-026-10796-x</a></p>A systematic evaluation shows that contemporary humanoid robots can perform laparoscopic surgical tasks through teleoperation, highlighting both their promise and key technical challenges before clinical deployment."
+    },
+    {
+      "title": "Single-phase gradient-solvation-electrolyte-stabilized Li metal batteries",
+      "link": "https://www.nature.com/articles/s41586-026-10732-z",
+      "summary": "<p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10732-z\">doi:10.1038/s41586-026-10732-z</a></p>A targeted ligand anti-solvent is incorporated into an anion-rich ether-based electrolyte and used to achieve lithium metal batteries with a long cycle life, high energy density and high capacity retention."
+    },
+    {
+      "title": "Non-genotoxic transplantation and in vivo selection through epitope editing",
+      "link": "https://www.nature.com/articles/s41586-026-10737-8",
+      "summary": "<p>Nature, Published online: 08 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10737-8\">doi:10.1038/s41586-026-10737-8</a></p>Epitope editing of KIT enables antibody-based, non-genotoxic conditioning that selectively enriches therapeutic BCL11A-edited haematopoietic stem/progenitor cells, supports durable engraftment, preserves clonal diversity and enhances induction of fetal haemoglobin, a therapeutic approach for conditions such as sickle cell disease and β-thalassemia."
+    }
+  ]
 }

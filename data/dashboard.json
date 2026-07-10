@@ -2,110 +2,110 @@
   "hungary": [
     {
       "title": "Magyarország csatlakozik az Európai Ügyészséghez",
-      "summary": "Brüsszel jóváhagyta Magyarország belépését az Európai Ügyészségbe (EPPO), ami egy fontos lépés a korrupció elleni küzdelemben és az uniós jogállamisági elvárások teljesítésében. A csatlakozás lehetővé teszi az uniós forrásokkal kapcsolatos bűncselekmények hatékonyabb kivizsgálását.",
+      "summary": "Magyarország hivatalosan is csatlakozott az Európai Ügyészséghez (EPPO), melynek célja az uniós költségvetést érintő csalások és korrupció elleni küzdelem. Ez a lépés jelentős változást hozhat az ország bűnüldözési gyakorlatában és nemzetközi megítélésében.",
       "importance": 5
     },
     {
-      "title": "Jóváhagyta az EU Magyarország helyreállítási tervét",
-      "summary": "Az uniós tagállami miniszterek egyhangúlag elfogadták a 3600 milliárd forint értékű magyar helyreállítási tervet, megnyitva az utat az eurómilliárdok lehívása előtt. A döntés hosszú tárgyalások után született meg, és jelentős gazdasági lökést adhat az országnak.",
-      "importance": 5
-    },
-    {
-      "title": "Törvényjavaslat a Nemzeti Vagyonvisszaszerzési Hivatal létrehozásáról",
-      "summary": "A kormány benyújtotta azt a törvényjavaslatot, amely egy új Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt hozna létre. Célja az elcsalt állami vagyonelemek felkutatása és visszaszerzése, ezzel erősítve a korrupció elleni fellépést.",
+      "title": "Súlyos válságban van a Magyar Máltai Szeretetszolgálat",
+      "summary": "A Magyar Máltai Szeretetszolgálat ügyvezetője szerint a szervezet súlyos válsággal küzd, amelyet a finanszírozási nehézségek és az önkéntesek számának csökkenése okoz. Ez a helyzet veszélyezteti a szervezet alapvető szociális és segítő tevékenységét.",
       "importance": 4
     },
     {
-      "title": "A rendőrség elismerte a jogszerűtlen gázspray-használatot",
-      "summary": "A rendőrség hivatalosan elismerte, hogy jogszerűtlenül alkalmazott gázspray-t és bilincset egy őket kamerázó férfival szemben. Az eset a közvélemény figyelmét felkeltő esemény volt, rávilágítva a rendőri intézkedések jogszerűségének fontosságára.",
+      "title": "Felülvizsgálják a TAO-rendszert, átláthatóbb és igazságosabb működés a cél",
+      "summary": "A Belügyminisztérium felülvizsgálja a sporttámogatások TAO-rendszerét, hogy átláthatóbbá és igazságosabbá tegye. A cél egy olyan új rendszer kialakítása, amely hatékonyabban szolgálja a magyar sportot és kultúrát.",
       "importance": 4
+    },
+    {
+      "title": "Kirúgták a Nemzeti Filmintézet igazgatóságát, köztük Káel Csabát",
+      "summary": "Eltávolították pozíciójukból a Nemzeti Filmintézet igazgatóságának tagjait, beleértve Káel Csabát is. Ez a döntés komoly változásokat hozhat a magyar filmipar vezetésében és irányvonalában.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Pánik egy Ryanair járaton ablakbetörés miatt",
-      "summary": "Pánik tört ki egy Ryanair járaton, miután az egyik ablak betört repülés közben, és a nyomáskülönbség miatt egy utas feje rövid időre kilógott a gépből. Az eset súlyos biztonsági aggályokat vet fel a légiközlekedésben.",
+      "title": "Vizsgálat indult Ann Widdecombe volt brit miniszter feltételezett meggyilkolása ügyében",
+      "summary": "Vizsgálat folyik Ann Widdecombe, ellentmondásos megítélésű volt brit miniszter feltételezett meggyilkolása ügyében. Az esemény megdöbbentette a brit közéletet, és a nyomozók intenzíven dolgoznak az ügy felderítésén.",
       "importance": 5
     },
     {
-      "title": "Hőhullám és rekordhőmérsékletek Nagy-Britanniában",
-      "summary": "Nagy-Britanniában 35 Celsius-fokos hőség és hőhullám várható a következő héten, ami komoly terhelést jelent az egészségügyi rendszerekre és a lakosságra. A hőség különösen veszélyes a sebezhető csoportokra, és fokozott óvatosságra inti az embereket.",
+      "title": "Rekordmeleg sújtja Európát, Olaszországban 43 fok is lehet",
+      "summary": "Európa számos országában, különösen Olaszországban és az Egyesült Királyságban, rekordhőmérsékletek és súlyos hőhullámok tombolnak, amelyek veszélyeztetik az emberi egészséget és a vízellátást. A Földközi-tenger hőmérséklete is jelentősen megemelkedett a megszokotthoz képest.",
+      "importance": 5
+    },
+    {
+      "title": "Az ukrán legfelsőbb bíróság elutasította Porosenko szankciók feloldására irányuló keresetét",
+      "summary": "Az ukrán legfelsőbb bíróság elutasította Petro Porosenko volt államfő azon keresetét, amely a vele szemben hozott szankciók feloldására irányult. Ez a döntés fenntartja az egykori elnök elleni intézkedéseket, tovább árnyalva az ukrán belpolitikai helyzetet.",
       "importance": 4
     },
     {
-      "title": "Vizsgálat indult a Reform Párt kampányfinanszírozása ügyében Nagy-Britanniában",
-      "summary": "A Metropolitan Rendőrség vizsgálatot indított a Reform Párt ellen választási adományokkal kapcsolatos gyanúk miatt, ami komoly politikai botrányt jelent az Egyesült Királyságban. Az ügy a párt integritását és a választási folyamatok tisztaságát kérdőjelezi meg.",
+      "title": "900 év után először érkezett az Egyesült Királyságba a Bayeux-i kárpit",
+      "summary": "A történelmi jelentőségű Bayeux-i kárpit 900 év után először utazott Franciaországból az Egyesült Királyságba, rendőri őrizet alatt. Ez az esemény komoly kulturális és történelmi jelentőséggel bír, óriási érdeklődés övezi.",
       "importance": 4
-    },
-    {
-      "title": "Őrizetbe vételek görög politikusok elleni merényletek ügyében",
-      "summary": "Több embert őrizetbe vettek Görögországban kormánypárti politikusok elleni merényletek ügyében indított nyomozás során. Az eset rávilágít a politikai erőszak kockázatára és a biztonsági szervek feladataira.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az EU szerint addiktív a Facebook és az Instagram kialakítása",
-      "summary": "Az Európai Bizottság kimondta, hogy az uniós jogot sértik a Facebook és az Instagram addiktív kialakításai, és súlyos bírság fenyegeti a Metát. A döntés a felhasználói jólét védelmére és a digitális platformok felelősségre vonására irányul.",
+      "title": "300 millió dolláros befektetést kapott egy kvantumszámítógép fejlesztő vállalat",
+      "summary": "Az Oratomic 300 millió dolláros finanszírozást szerzett egy működőképes kvantumszámítógép építésére, amely mindössze 20 000 qubittel működik. Ez a jelentős befektetés áttörést hozhat a kvantumszámítástechnika területén, közelebb hozva a gyakorlati alkalmazásokat.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI bemutatja az új GPT-5.6 modellcsaládot",
-      "summary": "Az OpenAI bevezette az új GPT-5.6 modellcsaládját, amely jelentős előrelépést jelent a mesterséges intelligencia képességeiben. Az új modellek várhatóan még kifinomultabb és sokoldalúbb alkalmazásokat tesznek lehetővé.",
+      "title": "Az OpenAI elindította a GPT-5.6 modellcsaládját",
+      "summary": "Az OpenAI bejelentette új GPT-5.6 modellcsaládjának elindítását, amelyet a Microsoft Copilot 365 preferált modelljeként is emlegetnek. Ez a fejlesztés új szintre emeli a mesterséges intelligencia képességeit és alkalmazhatóságát, különösen az üzleti szektorban.",
       "importance": 5
     },
     {
-      "title": "Nőtt a Microsoft szén-dioxid-kibocsátása egy év alatt",
-      "summary": "A Microsoft szén-dioxid-kibocsátása 25%-kal nőtt az elmúlt évben, ami aggodalmakat vet fel a nagy technológiai vállalatok környezeti lábnyoma miatt. Ez a tendencia ellentmond a vállalat fenntarthatósági céljainak.",
+      "title": "Az EU pénzbírsággal fenyegeti a Metát az addiktív funkciók miatt",
+      "summary": "Az Európai Bizottság pénzbírsággal fenyegeti a Metát, amennyiben a Facebook és Instagram platformokon továbbra is addiktív funkciókat alkalmaz. A cél az, hogy a közösségi média ne legyen túlzottan függőséget okozó, és a felhasználók jóléte előtérbe kerüljön.",
       "importance": 4
     },
     {
-      "title": "A Nintendo leállítja a Mario Kart Tour mobiljátékot",
-      "summary": "A Nintendo bejelentette, hogy megszünteti a népszerű Mario Kart Tour mobiljátékot, amely sokak kedvencévé vált az okostelefonokon. A döntés hatással lesz a játékosokra és a mobiljáték piacra.",
-      "importance": 3
+      "title": "Új akkumulátorokat fejleszthet a világ egyik legerősebb szuperszámítógépe",
+      "summary": "A világ egyik legerősebb szuperszámítógépe új generációs akkumulátorok fejlesztésében segíthet, jelentősen felgyorsítva a kutatási folyamatokat. Ez az áttörés forradalmasíthatja az energiatárolás technológiáját, hozzájárulva a fenntartható energiaforrásokhoz.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Úttörő kezelés ritka terhességi állapotú ikreknél",
-      "summary": "Egy úttörő kezelésnek köszönhetően sikerült megmenteni ikreket egy ritka terhességi állapotból, ami jelentős áttörést jelent a neonatológia és a magzati medicina területén. Ez a siker reményt ad hasonló esetekben szenvedő családoknak.",
+      "title": "Létrehozták a mesterséges sejtet, amely úgy táplálkozik és osztódik, mint az igazi",
+      "summary": "Tudósoknak sikerült létrehozniuk egy mesterséges sejtet, amely képes táplálkozni és osztódni, akárcsak egy valódi sejt. Ez a breakthrough óriási lépést jelent a szintetikus biológia és az élet megértése felé, potenciálisan új terápiás lehetőségeket nyitva meg.",
       "importance": 5
     },
     {
-      "title": "Miért érinti súlyosabban a nőket a hőhullám?",
-      "summary": "Kutatók vizsgálják, miért érintik súlyosabban a nőket a hőhullámok, rávilágítva a nemi alapú különbségekre az éghajlatváltozás hatásaival szembeni sebezhetőségben. Az eredmények segíthetnek célzottabb közegészségügyi intézkedések kidolgozásában.",
+      "title": "Humánoid robotok sebészeti alkalmazásának in vivo megvalósíthatósági vizsgálata",
+      "summary": "Egy új tanulmány élő szervezeten vizsgálta a humánoid robotok sebészeti beavatkozásokban való alkalmazhatóságát és biztonságosságát. Ez a kutatás jelentős lépés lehet a jövő orvosi technológiájának fejlődésében, pontosabb és biztonságosabb műtéteket ígérve.",
       "importance": 4
     },
     {
-      "title": "Új szabályok a vape termékek elnevezésére és ízesítésére",
-      "summary": "Javaslatok születtek a vape termékek kevésbé csábító elnevezésére és ízesítésére, hogy megvédjék a gyerekeket a függőségtől. A szabályozás tudományos kutatásokon alapul, melyek szerint a vonzó ízek növelik a fiatalkori e-cigaretta használatot.",
+      "title": "Úttörő kezelés mentett meg azonos ikreket egy ritka terhességi komplikációtól",
+      "summary": "Egy úttörő orvosi kezelésnek köszönhetően sikerült megmenteni két azonos ikerpárt egy ritka terhességi állapotból. Ez az eljárás reményt ad hasonló esetek kezelésére világszerte, és áttörést jelent a perinatális orvoslásban.",
       "importance": 4
     },
     {
-      "title": "Nőtt a Microsoft szén-dioxid-kibocsátása egy év alatt",
-      "summary": "A Microsoft szén-dioxid-kibocsátása 25%-kal nőtt az elmúlt évben, ami aggodalmakat vet fel a nagy technológiai vállalatok környezeti lábnyoma miatt. Ez a tendencia ellentmond a vállalat fenntarthatósági céljainak és rávilágít a technológia és környezetvédelem kapcsolatára.",
+      "title": "Felfedezték az óceáni katasztrófát okozó mérgező anyagot",
+      "summary": "Kutatók azonosították azt a mérgező anyagot, amely egy korábbi óceáni katasztrófát okozott, és jelentős tengeri élővilág pusztulásához vezetett. Ez a felfedezés segíthet megérteni a múltbeli ökológiai eseményeket és a jövőbeli környezeti fenyegetéseket.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Sadio Mané lemondta a szenegáli válogatottságot",
-      "summary": "Sadio Mané, Szenegál egyik legjobb labdarúgója, lemondta a válogatottságot, ami jelentős veszteség a nemzeti csapat számára. Döntése a szurkolók és a szakma körében is nagy visszhangot váltott ki.",
-      "importance": 5
-    },
-    {
-      "title": "A Kékszalag útvonalát módosítják a Balaton alacsony vízszintje miatt",
-      "summary": "A Balaton rendkívül alacsony vízszintje miatt módosítani kell a hagyományos Kékszalag vitorlásverseny útvonalát. Ez az intézkedés a verseny biztonságát és lebonyolítását hivatott garantálni a megváltozott körülmények között.",
-      "importance": 4
-    },
-    {
-      "title": "Miért tétováznak a legjobb focisták a tizenegyeseknél?",
-      "summary": "Egy elemzés boncolgatja, hogy a világ legjobb focistái miért toporognak gyakran a tizenegyesrúgások előtt, pszichológiai és technikai tényezőket vizsgálva. A cikk rávilágít a sportolókra nehezedő nyomásra és a döntéshozatal komplexitására.",
+      "title": "A Balaton alacsony vízszintje miatt rövidítették a Kékszalag vitorlásverseny útvonalát",
+      "summary": "A Balaton rendkívül alacsony vízállása miatt a szervezők kénytelenek voltak lerövidíteni a rangos Kékszalag vitorlásverseny útvonalát. Ez a döntés közvetlenül befolyásolja a sportesemény lebonyolítását és a versenyzők stratégiáját.",
       "importance": 3
     },
     {
-      "title": "Sportfogadási cég problémás üzenete egy függőnek",
-      "summary": "A FanDuel sportfogadási platform egy sztáratléta, Bryce Harper videóüzenetét küldte egy szerencsejáték-függőségben szenvedő ügyfelének. Az eset etikai kérdéseket vet fel a cég felelősségvállalásával és a marketing gyakorlatával kapcsolatban.",
+      "title": "Arthur Fery wimbledoni menetelését Alexander Zverev állította meg az elődöntőben",
+      "summary": "Arthur Fery tehetséges játékos menetelésének Alexander Zverev vetett véget a wimbledoni tenisztorna elődöntőjében. A mérkőzés kiélezett küzdelmet hozott, melynek végén Zverev került ki győztesen, bejutva a döntőbe.",
+      "importance": 3
+    },
+    {
+      "title": "Jorge Jesus lett a portugál labdarúgó-válogatott szövetségi kapitánya",
+      "summary": "Jorge Jesus tapasztalt edzőt nevezték ki a portugál labdarúgó-válogatott új szövetségi kapitányává. Tőle várják, hogy a csapatot a nemzetközi sikerek útjára vezeti, és eredményesen szerepeljen a közelgő tornákon.",
+      "importance": 3
+    },
+    {
+      "title": "A 'totyogós tizenegyes' nem csodafegyver, inkább csak problémás",
+      "summary": "A futballban népszerűvé vált 'totyogós tizenegyes' bár látványosnak tűnik, statisztikailag nem bizonyult hatékonyabbnak, sőt, gyakran problémákat okoz a játékosoknak. Ez a technika inkább pszichológiai nyomást helyez a kivitelezőre, mintsem taktikai előnyt biztosítana.",
       "importance": 3
     }
   ]

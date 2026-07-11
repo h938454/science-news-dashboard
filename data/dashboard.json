@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter Sulyok Tamás lemondására szólít fel",
-      "summary": "Magyar Péter, a Tisza Párt alelnöke azonnali lemondásra buzdítja Sulyok Tamás köztársasági elnököt, miután felmerült a gyanú, hogy Sulyok elnöki hivatala szabálytalanul fizette ki a fia amerikai útjának költségeit. A Sándor-palota szerint a kifizetések szabályszerűen történtek, a vádakat pedig a köztársasági elnök méltóságának megsértésére irányuló kísérletnek tartják.",
+      "title": "Sulyok Tamás hivatala: Szabályszerűen kifizették Sulyok Márton amerikai útjának költségeit",
+      "summary": "A Sándor-palota közleménye szerint Sulyok Márton amerikai útjának költségeit szabályszerűen, a jogszabályoknak megfelelően fizették ki. Ezzel párhuzamosan Magyar Péter lemondásra szólította fel az elnököt az ügy miatt.",
       "importance": 5
     },
     {
-      "title": "Újraindul a hírszolgáltatás a közmédiában",
-      "summary": "Az MTVA közölte, hogy fokozatosan újraindítja a közmédia hírszolgáltatását, miután korábban szüneteltették azt. A hírek visszatérnek a Kossuth Rádióra, a hirado.hu azonban egyelőre nem üzemel, és politikai műsorok csak később lesznek elérhetőek.",
+      "title": "Gyógyszeráfa, azbeszt és közvetlen elnökválasztás – ígéreteket tett Magyar Péter a Redditen",
+      "summary": "Magyar Péter a Redditen válaszolgatott kérdésekre, ahol többek között a gyógyszeráfa csökkentését, az azbesztmentesítést és a közvetlen elnökválasztást ígérte. Ezek az ígéretek a jövőben számon kérhetőek lesznek tőle.",
+      "importance": 5
+    },
+    {
+      "title": "Eltávolították Balog Zoltán nevét a budapesti reformáció-emlékműről",
+      "summary": "A Reformátorok terén álló szoborról eltávolították Balog Zoltán nevét, melyet korábban „gennyedző sebnek” neveztek. A döntés a korábbi közéleti botrányok utóhatásaként született.",
       "importance": 4
     },
     {
-      "title": "Magyarországon a legdrágább a benzin a régióban",
-      "summary": "A legfrissebb adatok szerint Magyarországon kell a legtöbbet fizetni a benzinért a környező országok közül. Horvátországban és Szlovéniában is kedvezőbb áron tankolhatnak az autósok, ami terhet ró a magyar fogyasztókra.",
+      "title": "Magyarországon a legdrágább tankolni a régióban",
+      "summary": "A régió országai közül Magyarországon a legmagasabb a benzin ára, megelőzve Horvátországot és Szlovéniát is. Ez jelentős terhet ró a magyar autósokra és a gazdaságra.",
       "importance": 4
-    },
-    {
-      "title": "Sztrájkoltak az IKEA dolgozók több áruházban",
-      "summary": "Az IKEA több mint 200 dolgozója sztrájkolt, ami miatt Budaörsön egy időre leállt az árukiadó és a vevőszolgálat is. A munkavállalók béremelést és jobb munkakörülményeket követelnek.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Bosszút esküdött Irán új legfelsőbb vezetője",
-      "summary": "Irán új legfelsőbb vezetője nyilvánosan bosszút esküdött apja gyilkosai ellen. Ez a nyilatkozat fokozhatja a feszültséget a régióban, és új irányt szabhat az ország külpolitikájának.",
+      "title": "Irán „további értesítésig” lezárta a Hormuzi-szorost",
+      "summary": "Irán bejelentette a stratégiai fontosságú Hormuzi-szoros lezárását, ami jelentős hatással lehet a globális olajkereskedelemre. A lépés feszültséget generálhat a térségben.",
       "importance": 5
     },
     {
       "title": "Tájfun miatt 1,7 millió embert telepítettek ki Kínában",
-      "summary": "Kínában hatalmas tájfun pusztít, melynek következtében 1,7 millió ember kényszerült elhagyni otthonát. A hatóságok azon dolgoznak, hogy biztonságos menedéket biztosítsanak az evakuáltaknak, miközben a vihar továbbra is komoly károkat okoz.",
-      "importance": 4
-    },
-    {
-      "title": "Az USA kifizette a Havanna-szindróma áldozatait",
-      "summary": "Az Egyesült Államok eddig 3 millió dollárt fizetett ki a Havanna-szindróma áldozatainak kárpótlásul. Ez a lépés elismerése a titokzatos betegség okozta károknak és a szenvedőknek, bár a jelenség pontos oka továbbra sem tisztázott.",
+      "summary": "Kínában egy pusztító tájfun miatt kényszerültek 1,7 millió embert evakuálni otthonukból. A hatóságok a károk minimalizálásán és a lakosság biztonságának garantálásán dolgoznak.",
       "importance": 4
     },
     {
       "title": "Apja lánya az új perui államfő",
-      "summary": "Peru új államfője egy nő, aki apja nyomdokaiba lépett a politikai színtéren, és elnyerte az elnökválasztást. Előélete során börtönben is volt, és a kemény kéz politikájának híve.",
+      "summary": "Peru új államfője az előző vezető lánya, aki korábban börtönben is ült. A „kemény kéz” híveként jelentős változásokat ígér az ország vezetésében.",
+      "importance": 3
+    },
+    {
+      "title": "Az USA 3 millió dollárt fizetett ki a Havanna-szindróma áldozatainak",
+      "summary": "Az Egyesült Államok eddig 3 millió dollárt juttatott a rejtélyes Havanna-szindróma áldozatainak. A jelenség eredete továbbra is tisztázatlan, de a kifizetések segítséget nyújtanak a szenvedőknek.",
       "importance": 3
     }
   ],
   "technology": [
     {
       "title": "Az Apple beperelte az OpenAI-t állítólagos üzleti titoklopás miatt",
-      "summary": "Az Apple jogi eljárást indított az OpenAI ellen, azzal vádolva a céget, hogy üzleti titkokat lopott el. Ez a per jelentős hatással lehet a mesterséges intelligencia piacára és a két vállalat jövőbeni viszonyára.",
+      "summary": "Az Apple jogi eljárást indított az OpenAI ellen, azzal vádolva a céget üzleti titkok eltulajdonításával. Ez a per komoly precedenst teremthet az AI-iparban és a technológiai óriások közötti viszonyban.",
       "importance": 5
     },
     {
-      "title": "300 millió dolláros tőkebefektetés kvantumszámítógép fejlesztésére",
-      "summary": "Az Oratomic 300 millió dolláros finanszírozást szerzett egy életképes kvantumszámítógép fejlesztésére, melyhez mindössze 20 000 qubit szükséges. Ez a befektetés előrelépést jelenthet a kvantumszámítástechnika terén és új lehetőségeket nyithat meg a számítástechnikai iparban.",
+      "title": "Kína utoléri Elon Musk újrahasználható rakétáit",
+      "summary": "Kína jelentős előrelépéseket tesz az újrahasználható rakétatechnológia terén, felzárkózva ezzel Elon Musk SpaceX cégéhez. Ez a fejlesztés új fejezetet nyithat az űrversenyben.",
       "importance": 4
     },
     {
-      "title": "Kína felzárkózik Elon Musk újrahasználható rakétáihoz",
-      "summary": "Kína jelentős előrelépéseket tesz az újrahasználható rakétatechnológia terén, utolérve Elon Musk hasonló fejlesztéseit. Ez a verseny új lendületet adhat az űrversenynek és a technológiai innovációnak.",
+      "title": "Az Oratomic 300 millió dollárt gyűjtött kvantumszámítógép fejlesztésére",
+      "summary": "Az Oratomic cég 300 millió dolláros tőkét vont be egy életképes, mindössze 20 000 kvantumbitet igénylő kvantumszámítógép kifejlesztésére. Ez a befektetés nagy lépést jelent a kvantumszámítástechnika jövője felé.",
       "importance": 4
     },
     {
-      "title": "A Meta eltávolított egy vitatott AI funkciót az Instagramról",
-      "summary": "A Meta kénytelen volt eltávolítani egy ellentmondásos mesterséges intelligencia funkciót az Instagramról a felhasználói visszajelzések és a nyilvános felháborodás miatt. Ez a lépés rávilágít az AI-fejlesztések etikai kihívásaira és a felhasználók igényeinek fontosságára.",
+      "title": "Az OpenAI a családokra fókuszál a ChatGPT-vel",
+      "summary": "Az OpenAI stratégiaváltást hajt végre, a ChatGPT-t egyre mélyebben integrálva a háztartásokba és a családi életbe. Ez új lehetőségeket nyithat az AI mindennapi használatában és a felhasználói bázis bővítésében.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A laborban növesztett spermiumok közelebb hozzák a termékenységi áttörést",
-      "summary": "A tudósok jelentős lépést tettek a laborban növesztett spermiumok fejlesztésében, ami áttörést hozhat a meddőségi kezelések terén. Ez a technológia új reményt adhat azoknak, akik termékenységi problémákkal küzdenek.",
+      "title": "Laborban növesztett spermiumok: áttörés a termékenységben",
+      "summary": "A tudósok közelebb kerültek ahhoz, hogy laboratóriumi körülmények között spermiumokat növeszthessenek, ami forradalmasíthatja a termékenységi kezeléseket. Ez a felfedezés reményt adhat sok meddőséggel küzdő párnak.",
       "importance": 5
     },
     {
-      "title": "Új, szuperhosszú nyakú dinoszaurusz fajt fedeztek fel Thaiföldön",
-      "summary": "Thaiföldön egy eddig ismeretlen, szuperhosszú nyakú dinoszaurusz faj maradványait találták meg a kutatók. Ez a felfedezés új adatokkal szolgál a Föld őskori élővilágáról és a dinoszauruszok evolúciójáról.",
+      "title": "Új, szuperhosszú nyakú dinoszaurusz fajt találtak Thaiföldön",
+      "summary": "Thaiföldön egy eddig ismeretlen, szuperhosszú nyakú dinoszaurusz faj maradványait fedezték fel. Ez a felfedezés új adatokkal szolgálhat a dinoszauruszok evolúciójával és az ősi ökoszisztémákkal kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Megtalálták egy ősi óceáni katasztrófa halálos okozóját",
-      "summary": "A tudósok azonosították azt a mérgező anyagot, amely egy ősi óceáni katasztrófát okozott, jelentősen megváltoztatva az akkori tengeri élővilágot. Ez a felfedezés segíthet megérteni a Föld múltbeli környezeti eseményeit.",
+      "title": "„Szuperpuff” bolygókat találtak, könnyebbek a vattacukornál",
+      "summary": "Csillagászok egy pár rendkívül alacsony sűrűségű „szuperpuff” bolygót fedeztek fel, amelyek könnyebbek, mint a vattacukor. Ez a különös jelenség új kérdéseket vet fel a bolygók keletkezésével és keletkezési mechanizmusával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Felfedeztek egy „szuperpuff” bolygópárt, melyek könnyebbek a vattacukornál",
-      "summary": "Két különleges, „szuperpuff” bolygót fedeztek fel, amelyek rendkívül alacsony sűrűségűek, könnyebbek, mint a vattacukor. Ez a felfedezés kihívást jelent a bolygóképződési elméletek számára, és új kérdéseket vet fel az exobolygók sokféleségével kapcsolatban.",
+      "title": "Felfedezték az óceáni katasztrófát okozó mérgező gyilkost",
+      "summary": "Tudósok azonosítottak egy mérgező anyagot, amely egy ősi óceáni katasztrófát okozott, jelentős kihalást eredményezve. Ez a felfedezés segíthet megérteni a Föld múltjának drámai eseményeit és a mai környezeti változásokat.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Jürgen Klopp lesz Németország szövetségi kapitánya",
-      "summary": "Megerősítették, hogy Jürgen Klopp veszi át a német labdarúgó-válogatott irányítását. Ez a bejelentés hatalmas visszhangot váltott ki a futballvilágban, reményt adva a német csapatnak a jövőbeni sikerekhez egy ikonikus edző vezetésével.",
+      "title": "Bellingham duplájával Anglia jutott a világbajnokság elődöntőjébe",
+      "summary": "Jude Bellingham két góljával Anglia 2-1-re legyőzte Norvégiát, ezzel bejutva a labdarúgó-világbajnokság elődöntőjébe. A győzelem hatalmas küzdelemben született.",
+      "importance": 5
+    },
+    {
+      "title": "Szinte biztos, hogy Jürgen Klopp lesz Németország szövetségi kapitánya",
+      "summary": "Nagyon valószínű, hogy Jürgen Klopp veszi át a német labdarúgó-válogatott irányítását, miután távozott korábbi klubjától. Ez a kinevezés új korszakot nyithat a német futballban.",
       "importance": 5
     },
     {
       "title": "A 21 éves Linda Noskova nyerte a női egyest Wimbledonban",
-      "summary": "A mindössze 21 éves Linda Noskova nyerte meg a wimbledoni teniszbajnokság női egyes döntőjét. Ezzel a fiatal cseh játékos első Grand Slam címét szerezte meg, hatalmas meglepetést okozva a tenisztörténelemben.",
+      "summary": "A mindössze 21 éves Linda Noskova meglepetésre megnyerte a wimbledoni teniszbajnokság női egyesét. Ezzel a fiatal tehetség megszerezte első Grand Slam címét.",
       "importance": 4
     },
     {
-      "title": "Két héttel vébészereplése után meghalt a dél-afrikai válogatott játékosa",
-      "summary": "Két héttel a világbajnokságon való szereplése után tragikus hirtelenséggel elhunyt a dél-afrikai válogatott 25 éves labdarúgója. A sportvilágot megrázta a fiatal játékos elvesztése, és sokan fejezték ki részvétüket.",
+      "title": "Gianni Infantino szerint jöhetne a 64 csapatos világbajnokság",
+      "summary": "Gianni Infantino, a FIFA elnöke felvetette egy 64 csapatos labdarúgó-világbajnokság ötletét, ami jelentősen kibővítené a tornát. Ez a javaslat vitákat vált ki a sportágban a minőség és a logisztika miatt.",
       "importance": 4
-    },
-    {
-      "title": "Gianni Infantino szerint jöhetne a 64 csapatos futball-vébé",
-      "summary": "Gianni Infantino, a FIFA elnöke felvetette egy 64 csapatos világbajnokság ötletét, ami jelentősen átalakíthatná a torna eddigi formátumát. A javaslat további vitákat gerjeszt a futballközösségben annak megvalósíthatóságáról és hatásairól.",
-      "importance": 3
     }
   ]
 }

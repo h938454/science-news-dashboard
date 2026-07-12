@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Meghalt Szolnoki Péter, a Bon-Bon énekese",
-      "summary": "Elhunyt Szolnoki Péter, a Bon-Bon együttes énekese, aki a magyar könnyűzene meghatározó alakja volt. A halálhírre számos zenésztárs és rajongó fejezte ki gyászát.",
+      "title": "Azbesztszennyezés Sopronban: újabb helyszíneken mutatták ki",
+      "summary": "Sopronban két tucat további helyszínen mutattak ki azbesztszennyezést, ami aggályokat vet fel a helyi lakosok egészsége és a város környezetvédelmi helyzete kapcsán. A szennyeződés felszámolása hosszú távú feladatot jelent.",
       "importance": 4
     },
     {
-      "title": "Közpénzből működő szervezet fizetett 412 milliót Orbán János Dénes műveiért",
-      "summary": "Az Orbán János Dénes által vezetett közpénzből finanszírozott szervezet 412 millió forintot költött az író kilenc művére. Ez felveti a közpénzek felhasználásának átláthatóságával kapcsolatos kérdéseket.",
-      "importance": 4
-    },
-    {
-      "title": "Magyar Péter jövőképe: Tanárként dolgozna és keveset alszik",
-      "summary": "Magyar Péter politikus napi 3-4 órát alszik, és elmondása szerint nyolc év múlva akár tanárként is el tudná képzelni magát. A kijelentések betekintést engednek a közéleti szereplő személyes életébe és jövőbeli terveibe.",
+      "title": "Rendőrautónak ütközött egy 17 éves ámokfutó Fehérváron",
+      "summary": "Székesfehérváron egy 17 éves gyorshajtó rendőrautónak ütközött menekülés közben, melynek során rendőrök is megsérültek. A fiatal sofőrt az eset után elfogták.",
       "importance": 3
     },
     {
-      "title": "MI-vel próbálta kijátszani a NAV-ot egy magyar vállalkozó",
-      "summary": "Egy magyar vállalkozó mesterséges intelligencia segítségével próbálta meg átverni a Nemzeti Adó- és Vámhivatalt. Az eset rávilágít az AI-technológia visszaélési potenciáljára és az adócsalási kísérletekre.",
+      "title": "Hétfőn megsemmisítik a szavazólapokat a választások után",
+      "summary": "A választások utáni jogi eljárás részeként hétfőn kerül sor a fel nem használt és érvénytelen szavazólapok megsemmisítésére. Ez a lépés a választási folyamat lezárásának része.",
+      "importance": 4
+    },
+    {
+      "title": "Meghalt Szolnoki Péter, a Bon-Bon énekese",
+      "summary": "Elhunyt Szolnoki Péter, a Bon-Bon zenekar közkedvelt énekese. Halála mélyen megrendítette a magyar zenei világot és rajongóit.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az Egyesült Államok légicsapásokat mért Iránra",
-      "summary": "Az Egyesült Államok légicsapásokat hajtott végre iráni célpontok ellen, növelve a feszültséget a Közel-Keleten. A lépés nemzetközi aggodalmakat váltott ki a régió stabilitásával kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Közel 3 millió embert telepítettek ki Kínában az év legerősebb tájfunja miatt",
-      "summary": "Kína közel 3 millió lakost telepített ki az év legerősebb tájfunja elől, amely hatalmas pusztítást okozott az országban. A természeti katasztrófa súlyos humanitárius válságot idézett elő.",
-      "importance": 5
-    },
-    {
       "title": "Zelenszkij kezdeményezte az ukrán kormányfő leváltását",
-      "summary": "Volodimir Zelenszkij ukrán elnök kezdeményezte az ukrán miniszterelnök leváltását, ami politikai változásokat jelez a háború sújtotta országban. Ez a lépés jelentős belső átrendeződést hozhat Ukrajna vezetésében.",
+      "summary": "Volodimir Zelenszkij ukrán elnök kezdeményezte az ukrán miniszterelnök leváltását, ami jelentős politikai átrendeződést jelez a háború sújtotta ország vezetésében. A döntés hátterében belpolitikai feszültségek állhatnak.",
+      "importance": 5
+    },
+    {
+      "title": "Kínában közel 3 millió embert telepítettek ki a legerősebb tájfun miatt",
+      "summary": "Kínában az év legerősebb tájfunja miatt közel 3 millió embert kellett kitelepíteni otthonából. A természeti katasztrófa hatalmas pusztítást és jelentős károkat okozott.",
       "importance": 4
     },
     {
-      "title": "Több mint 230 ezer orosz katona halálát azonosították az ukrajnai háborúban",
-      "summary": "Egy független orosz lap és a BBC közös vizsgálata szerint több mint 230 ezer orosz katona halt meg az ukrajnai háborúban. Ez a szám rávilágít a konfliktus rendkívüli emberi veszteségeire.",
+      "title": "Az Egyesült Államok katonai erőt biztosít a Hormuzi-szorosban",
+      "summary": "Az Egyesült Államok katonai erőket telepít a Hormuzi-szorosba, hogy fenntartsa a hajózás biztonságát és szabadságát egy feszült regionális helyzetben. Ez a lépés növeli a geopolitikai feszültséget a térségben.",
+      "importance": 4
+    },
+    {
+      "title": "Aleksandar Vučić drámai lemondással erősítheti hatalmát",
+      "summary": "Aleksandar Vučić szerb elnök drámai lemondással igyekszik tovább örökíteni hatalmát, a kritikusok szerint Putyin példáját követve. A lépés a szerb belpolitika átrendeződését hozhatja.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple beperelte az OpenAI-t állítólagos üzleti titkok ellopása miatt",
-      "summary": "Az Apple perelte be az OpenAI-t üzleti titkok állítólagos eltulajdonítása miatt, ami komoly jogi csatározást jelez a techóriások között. Ez a per alapjaiban rengetheti meg az AI-iparágat és a versenyszabályokat.",
+      "title": "A Moore-törvény kifulladása és a jövőbeli növekedés kihívásai",
+      "summary": "A Moore-törvény, amely a chipek teljesítményének exponenciális növekedését írta le, kifulladóban van, ami komoly kérdéseket vet fel a technológiai iparág jövőbeli növekedésével kapcsolatban. Új innovációs utakat kell találni a fejlődés fenntartásához.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI a családokat célozza meg, a ChatGPT mélyebben behatol a háztartásokba",
-      "summary": "Az OpenAI arra törekszik, hogy a ChatGPT-t a családok mindennapjaiba integrálja, új funkciókkal és alkalmazásokkal bővítve a szolgáltatást. Ez a stratégia az AI szélesebb körű elterjedését célozza.",
+      "title": "Az Apple beperelte az OpenAI-t állítólagos üzleti titok ellopása miatt",
+      "summary": "Az Apple jogi lépéseket tett az OpenAI ellen, azzal vádolva a céget üzleti titkok állítólagos ellopásával. Ez a per élesíti a versenyt a mesterséges intelligencia piacán a technológiai óriások között.",
       "importance": 4
     },
     {
-      "title": "Az SK Hynix 26,5 milliárd dolláros tőkeemelést hajt végre, új amerikai gyárak építésére kérik",
-      "summary": "Az SK Hynix 26,5 milliárd dolláros tőkeemelést valósított meg, ami az egyik legnagyobb külföldi tőzsdei bevezetés az Egyesült Államokban. A céget új amerikai félvezetőgyárak építésére sürgetik, ami jelentős gazdasági és technológiai hatással jár.",
+      "title": "Az SK Hynix 26,5 milliárd dolláros IPO-ja történelmi lépés",
+      "summary": "Az SK Hynix 26,5 milliárd dollárt gyűjtött be az amerikai történelem legnagyobb külföldi tőzsdei bevezetésével, és sürgetik, hogy új gyárakat építsen az Egyesült Államokban. Ez a lépés a globális félvezetőipar és az amerikai technológiai infrastruktúra szempontjából is jelentős.",
       "importance": 4
     },
     {
-      "title": "Kína felzárkózik Elon Musk újrahasználható rakétái mögött",
-      "summary": "Kína jelentős előrelépéseket tesz az újrahasználható rakétatechnológia terén, felzárkózva Elon Musk vállalatának, a SpaceX-nek az eredményeihez. Ez a fejlődés megváltoztathatja az űrverseny dinamikáját.",
+      "title": "Kína felzárkózik Elon Musk rakétáihoz az újrahasznosíthatóság terén",
+      "summary": "Kína jelentős előrelépéseket tesz az újrahasznosítható rakétatechnológia terén, felzárkózva Elon Musk és a SpaceX által képviselt úttörő megoldásokhoz. Ez fokozza a globális űrversenyt és a technológiai innovációt.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Laborban növesztett spermával közelednek a tudósok a meddőségi áttöréshez",
-      "summary": "A tudósok jelentős lépéseket tettek a laborban növesztett spermák előállításában, ami reményt adhat a meddőséggel küzdő pároknak. Ez az áttörés forradalmasíthatja a reproduktív orvostudományt.",
+      "title": "Áttörés a laboratóriumban növesztett spermiumok kutatásában",
+      "summary": "A tudósok egyre közelebb kerülnek a laboratóriumban növesztett spermiumok előállításához, ami forradalmasíthatja a meddőségi kezeléseket és új reményt adhat gyermektelen pároknak. Ez a kutatás jelentős etikai és orvosi kérdéseket is felvet.",
       "importance": 5
     },
     {
-      "title": "A szupergazdagok által felvásárolt dinoszauruszok akadályozzák a tudományos kutatást",
-      "summary": "A szupergazdag gyűjtők által felvásárolt dinoszaurusz-maradványok egyre nagyobb problémát jelentenek a tudományos kutatás számára. Az értékes leletek elérhetetlenné válnak a kutatók számára, hátráltatva az őslénytani felfedezéseket.",
+      "title": "Az NSF forrásokat csökkent alapprogramjainál egy Fehér Házi kezdeményezés miatt",
+      "summary": "Az amerikai Nemzeti Tudományos Alapítvány (NSF) a core tudományos programok finanszírozását tervezi csökkenteni, hogy egy Fehér Házi kezdeményezést támogasson. Ez a döntés komoly hatással lehet az alapvető kutatások jövőjére.",
       "importance": 4
     },
     {
-      "title": "Újra kivizsgálták a Covid-oltásokat, megjött az eredmény",
-      "summary": "Újra átfogóan kivizsgálták a Covid-19 elleni oltásokat, megerősítve azok biztonságosságát és hatékonyságát. Az eredmények hozzájárulnak a közbizalom erősítéséhez és a félretájékoztatás elleni küzdelemhez.",
+      "title": "A szupergazdagok dinoszauruszvásárlásai veszélyeztetik a tudományt",
+      "summary": "A szupergazdagok által megvásárolt dinoszauruszleletek komoly problémát jelentenek a tudomány számára, mivel korlátozzák a kutatók hozzáférését az értékes fosszíliákhoz. Ez akadályozza a tudományos felfedezéseket és a kollektív tudás bővítését.",
       "importance": 4
     },
     {
-      "title": "Nukleáris fegyverek az űrben? Keringő detektor érzékelhetné a robbanófejeket",
-      "summary": "Egy új, keringő detektor képes lehet észlelni az űrben elhelyezett nukleáris robbanófejeket, ami új szintre emelné a nukleáris fegyverek ellenőrzését. Ez a technológia kulcsfontosságú lehet a nemzetközi biztonság szempontjából.",
+      "title": "Atomfegyverek az űrben? Keringő detektor keresheti a robbanófejeket",
+      "summary": "Egy keringő detektor képes lehet észlelni az űrben lévő atomfegyvereket, ami új dimenziót nyit a védelmi technológiában és a globális biztonságban. Ez a fejlesztés komoly nemzetközi vitákat generálhat az űrfegyverkezésről.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A FIFA a 64 csapatos vb-t vizsgálja, Trump adná át a trófeát",
-      "summary": "A FIFA fontolgatja a 64 csapatos világbajnokság bevezetését, Gianni Infantino elnök pedig azt tervezi, hogy Donald Trump adja át a trófeát. Ez a javaslat jelentős változásokat hozna a futballvilágban és politikai felhangokkal is jár.",
-      "importance": 5
-    },
-    {
-      "title": "Menesztették az angol krikett tesztcsapat vezetőedzőjét, McCullumot",
-      "summary": "Menesztették Brendon McCullumot, az angol krikett tesztcsapatának vezetőedzőjét, ami jelentős változást jelent a csapat irányításában. A döntés a gyenge eredményekre reagálhat.",
+      "title": "FIFA-elnök: 64 csapatos vb-t vizsgálunk, Trump adhatja át a trófeát",
+      "summary": "A FIFA elnöke bejelentette, hogy vizsgálják a 64 csapatos világbajnokság bevezetését, és felvetette, hogy Donald Trump adhatja át a trófeát. Ez jelentős változást hozhat a labdarúgó-világbajnokságok jövőjében és politikai felhangja is lehet.",
       "importance": 4
     },
     {
-      "title": "Messi először találkozhat Angliával – „Izgatottnak kell lennünk”",
-      "summary": "Lionel Messi várhatóan először lép pályára Anglia ellen, ami hatalmas várakozásokat szül a futballrajongók körében. A mérkőzés kiemelt sporteseménynek ígérkezik a sztárjátékos miatt.",
-      "importance": 4
+      "title": "Franciaország esélyei folyamatosan nőnek a vb-győzelemre",
+      "summary": "Franciaország folyamatosan növeli esélyeit a labdarúgó-világbajnokság megnyerésére, kiemelkedő teljesítményével és stratégiai játékával. A csapat az egyik fő esélyessé vált a tornán.",
+      "importance": 3
     },
     {
-      "title": "Az argentin kapitány szerint a szenvedés a vérükben van",
-      "summary": "Az argentin válogatott szövetségi kapitánya kijelentette, hogy a szenvedés 'a vérükben van, a DNS-ük része', utalva a csapat mentalitására és játékstílusára. Ez a nyilatkozat bepillantást enged egy topcsapat lelkületébe.",
+      "title": "Először jutott a világranglista top 4 csapata a vb-elődöntőbe",
+      "summary": "Ez az első világbajnokság a történelemben, ahol a FIFA világranglista első négy helyezettje jutott be az elődöntőbe. Ez a statisztika a sportág kiegyensúlyozottságát és a topcsapatok dominanciáját mutatja.",
+      "importance": 3
+    },
+    {
+      "title": "Tuchel elégedetlen volt Anglia győzelme után, Bellingham védte a csapatot",
+      "summary": "Thomas Tuchel angol szövetségi kapitány elégedetlenkedett az angol válogatott győzelme után, mire Jude Bellingham védelmébe vette a játékosokat. Ez a belső feszültség a csapaton belüli dinamikáról árulkodik.",
       "importance": 3
     }
   ]

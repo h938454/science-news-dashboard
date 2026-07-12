@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Egészségügyi béremelést sürget a Tisza-kormány minisztere",
-      "summary": "A Tisza-kormány egészségügyi minisztere kiemelte, hogy legalább 20-25 százalékos béremelésre van szükség az egészségügyi szakdolgozók számára. Ez a javaslat jelentős hatással lehet az ágazat munkaerő-megtartó képességére és a szolgáltatások minőségére.",
+      "title": "Társadalmi egyeztetést indít a kormány az elektromos rollerek szabályozásáról",
+      "summary": "A kormány társadalmi egyeztetésre bocsátja az elektromos rollerek közlekedésben való részvételének új szabályait, mivel a használatuk egyre gyakoribb balesetekhez vezet. A cél a biztonságosabb közlekedés feltételeinek megteremtése.",
       "importance": 5
     },
     {
-      "title": "Vitézy Dávid kritikája a sztrádakoncesszió költségeiről",
-      "summary": "Vitézy Dávid, korábbi államtitkár szerint a sztrádakoncessziós cég lényegesen kevesebbet fordított a hálózatra, mint amennyi bevételt kapott. Ez a kijelentés vitát generálhat az infrastruktúra fejlesztési kiadásainak átláthatóságáról és hatékonyságáról.",
+      "title": "Egészségügyi béremelést szorgalmaz a Tisza-kormány minisztere",
+      "summary": "A Tisza-kormány egészségügyi minisztere szerint legalább 20-25 százalékos béremelésre van szükség az egészségügyi szakdolgozók számára. Ez létfontosságú az ágazat stabilizálásához és a munkaerő megtartásához.",
+      "importance": 5
+    },
+    {
+      "title": "Politikai vita robbant ki a szociális miniszter becsmérlése miatt",
+      "summary": "Fideszes influenszer \"vicsorgó vak embernek\" nevezte a szociális és családügyi minisztert, ami országos politikai vitát váltott ki. A kormánytagok is reagáltak az eseményre, elhatárolódva a kijelentéstől.",
       "importance": 4
     },
     {
-      "title": "Társadalmi egyeztetés indul az elektromos rollerek szabályozásáról",
-      "summary": "A kormány társadalmi egyeztetést kezdeményez az elektromos rollerek használatának szabályozásáról. A kezdeményezés célja a biztonságosabb közlekedés megteremtése, különös tekintettel a balesetek számának növekedésére, mint például egy 3 éves gyermek elütése.",
+      "title": "Vitézy Dávid kritikája a sztrádakoncessziós cégről",
+      "summary": "Vitézy Dávid szerint a sztrádakoncessziós cég a kapott pénznek legfeljebb a felét költötte a hálózatra. Ez komoly kérdéseket vet fel az infrastruktúra-fejlesztés átláthatóságával és hatékonyságával kapcsolatban.",
       "importance": 4
-    },
-    {
-      "title": "Politikai vita bontakozott ki egy miniszter becsmérlése miatt",
-      "summary": "Ábrahám Róbert becsmérlő megjegyzéseket tett a Tisza-kormány szociális és családügyi miniszterére, akit \"vicsorgó vak embernek\" nevezett. A megjegyzésekre Magyar Péter és a kormánytagok is reagáltak, elítélve a támadást.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Az USA és Irán közötti feszültség a Hormuzi-szorosban",
-      "summary": "Az Egyesült Államok légiereje célzott támadásokat hajtott végre Irán ellen, miután Teherán tüzet nyitott a Hormuzi-szorosban közlekedő hajókra. Az incidens tovább élezi a már amúgy is pattanásig feszült helyzetet a térségben.",
+      "title": "Feszültség a Hormuzi-szoros körül: USA és Irán ellentétes állásponton",
+      "summary": "Az amerikai hadsereg szerint a Hormuzi-szoros nyitva áll a nemzetközi hajóforgalom előtt, míg Irán továbbra is zártnak tartja azt. Ez a kulcsfontosságú tengeri útvonal körüli ellentmondásos helyzet globális aggodalmakat kelt.",
       "importance": 5
     },
     {
       "title": "Zelenszkij menesztené az ukrán kormányfőt",
-      "summary": "Volodimir Zelenszkij ukrán elnök kezdeményezte Julija Szviridenko ukrán kormányfő menesztését. Ez a lépés jelentős változást jelezhet az ukrán kormány vezetésében a folyamatban lévő háború idején.",
+      "summary": "Volodimir Zelenszkij ukrán elnök kezdeményezte Julija Szviridenko ukrán kormányfő menesztését. Ez jelentős politikai változást jelezhet a háború sújtotta ország vezetésében.",
       "importance": 5
     },
     {
-      "title": "A Brexit utáni Nagy-Britannia jövője: szétesés vagy újraegyesülés az EU-val?",
-      "summary": "Kérdésessé vált Nagy-Britannia jövője a Brexit után, ahol a lehetséges forgatókönyvek között szerepel az ország szétesése vagy az Európai Unióhoz való esetleges újracsatlakozás. Ez a dilemma mélyreható politikai és társadalmi vitákat vált ki.",
+      "title": "Lengyelország aggódik Oroszország készülődése miatt",
+      "summary": "A lengyel külügyminiszter kijelentette, Oroszországnak nincs elegendő erőforrása Lengyelország megtámadásához, de gyaníthatóan valamilyen más lépésre készül. A nyilatkozat fokozza a regionális feszültségeket.",
       "importance": 4
     },
     {
-      "title": "Hőségriadó Franciaország harmadában",
-      "summary": "Franciaország lakosságának több mint egyharmada ismét a legmagasabb fokú hőségriasztásban tölti a hétvégét. Az extrém meleg komoly egészségügyi kockázatot és ellátási terheket jelent országszerte.",
+      "title": "Tragikus tűz egy thaiföldi bárban: 27 halott",
+      "summary": "Legalább 27 ember vesztette életét egy thaiföldi bárban kiütött tűzben, amelynek okait még vizsgálják. A katasztrófa súlyos károkat és sok áldozatot követelt.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple beperli az OpenAI-t állítólagos üzleti titoklopás miatt",
-      "summary": "Az Apple keresetet nyújtott be az OpenAI ellen, üzleti titkok eltulajdonításával vádolva a céget. Ez a per fordulópontot jelenthet a mesterséges intelligencia iparágban zajló versenyben és az innováció védelmében.",
+      "title": "Az Apple beperelte az OpenAI-t állítólagos üzleti titoklopás miatt",
+      "summary": "Az Apple pereli az OpenAI-t üzleti titkok állítólagos eltulajdonítása miatt, ami súlyos vád egy mesterséges intelligencia iparágban vezető cég ellen. Ez a per komoly precedenst teremthet a technológiai szektorban.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI a családokat célozza meg a ChatGPT új funkcióival",
-      "summary": "Az OpenAI a családok felé nyit a ChatGPT új, háztartásokra szabott funkcióival. A mesterséges intelligencia bevonása a mindennapi családi életbe új lehetőségeket és kihívásokat egyaránt tartogat.",
+      "title": "Az SK Hynix történelmi mértékű, 26,5 milliárd dolláros IPO-val debütált az USA-ban",
+      "summary": "Az SK Hynix, egy vezető chipgyártó, 26,5 milliárd dolláros tőkebevonással történelmi IPO-t hajtott végre az Egyesült Államokban, a legnagyobb külföldi tőzsdei bevezetéssel. A céget amerikai gyárak építésére is sürgetik.",
+      "importance": 5
+    },
+    {
+      "title": "Az OpenAI családokra fókuszálva terjeszkedik a háztartásokban",
+      "summary": "Az OpenAI arra készül, hogy a ChatGPT-t mélyebben bevezesse a háztartásokba, családokra szabott funkciókkal. Ez a stratégia az AI szélesebb körű elfogadását és beépülését célozza a mindennapi életbe.",
       "importance": 4
     },
     {
-      "title": "Új adattárolási technológia érkezik: a Folio Disc 1024 GB-os kapacitással",
-      "summary": "Egy új adattárolási technológia, a Folio Disc ígér 1024 GB kapacitást, megkérdőjelezve ezzel a fizikai adathordozók halálát. Ez az innováció jelentősen befolyásolhatja az otthoni és üzleti adattárolási szokásokat.",
-      "importance": 4
-    },
-    {
-      "title": "Kína utoléri Elon Musk újrahasznosítható rakéta technológiáját",
-      "summary": "Kína jelentős lépéseket tesz az újrahasznosítható rakétatechnológia fejlesztésében, ezzel felzárkózva Elon Musk SpaceX cégének innovációihoz. Ez a fejlődés megváltoztathatja az űrverseny dinamikáját és a hozzáférést az űrhöz.",
+      "title": "Kína felzárkózik Elon Musk újrahasznosítható rakétáihoz",
+      "summary": "Kína jelentős előrelépéseket tesz az újrahasznosítható rakétatechnológiában, felzárkózva Elon Musk és a SpaceX fejlesztéseihez. Ez élezheti a versenyt az űrversenyben és a technológiai innovációban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Laboratóriumban növesztett sperma: áttörés a termékenységi kutatásokban",
-      "summary": "Tudósok jelentős előrelépést tettek laboratóriumban növesztett spermiumok előállításában, ami áttörést jelenthet a termékenységi kezelések terén. Ez a kutatás reményt adhat azoknak a pároknak, akik meddőségi problémákkal küzdenek.",
+      "title": "Áttörés a termékenységi kutatásban: laboratóriumban növesztett hímivarsejtek",
+      "summary": "Tudósok jelentős lépést tettek a laboratóriumban növesztett hímivarsejtek előállítása felé, ami óriási áttörést jelenthet a meddőségi kezelések terén. Ez a fejlődés új reményt adhat azoknak, akik termékenységi problémákkal küzdenek.",
       "importance": 5
     },
     {
-      "title": "Az NSF alapvető tudományos programokat vág meg egy Fehér Házi kezdeményezés finanszírozására",
-      "summary": "Az amerikai Nemzeti Tudományos Alapítvány (NSF) alapvető tudományos programok költségvetését csökkenti, hogy finanszírozzon egy új Fehér Házi kezdeményezést. Ez a döntés hatással lehet az alapkutatásokra és a tudományos prioritásokra.",
+      "title": "Felfedezték az óceáni katasztrófát okozó mérgező gyilkost",
+      "summary": "Kutatók azonosították azt a mérgező anyagot, amely egy korábbi nagy óceáni katasztrófát okozott. Ez a felfedezés segíthet jobban megérteni a bolygó ökológiai történetét és a jelenlegi környezeti kihívásokat.",
       "importance": 5
     },
     {
-      "title": "Felfedezték az óceáni katasztrófa mérgező okozóját",
-      "summary": "Kutatók azonosították azt a mérgező anyagot, amely egy korábbi óceáni katasztrófát okozott. Ez a felfedezés segíthet megérteni a Föld múltjának kihalási eseményeit és a jövőbeli környezeti változásokat.",
+      "title": "Űrdetektor észlelheti az űrben lévő robbanófejeket",
+      "summary": "Egy új orbitális detektor képes lehet észlelni az űrben elhelyezett robbanófejeket, ami jelentős előrelépés a világűr biztonsága és a nemzetközi ellenőrzés szempontjából. Ez a technológia új távlatokat nyithat a fegyverzetellenőrzésben.",
       "importance": 4
     },
     {
-      "title": "Két szuperkönnyű exobolygót fedeztek fel, amelyek könnyebbek a vattacukornál",
-      "summary": "Csillagászok két \"szuperkönnyű\" exobolygót azonosítottak, amelyek sűrűsége hihetetlenül alacsony, könnyebbek, mint a vattacukor. Ez a felfedezés új betekintést nyújt a bolygókeletkezés mechanizmusába és a rendkívüli égitestek diverzitásába.",
+      "title": "Hannibál alpesi átkelése súlyos árat követelt az elefántoktól és katonáktól",
+      "summary": "Új kutatások szerint Hannibál alpesi átkelése rendkívül megterhelő volt elefántjai és katonái számára. A tanulmány új részletekkel szolgál a történelmi hadjárat körülményeiről és logisztikai kihívásairól.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Jannik Sinner ismét wimbledoni bajnok",
-      "summary": "Jannik Sinner ismét megnyerte a wimbledoni férfi egyes bajnoki címét, ezzel megerősítve helyét a teniszvilág elitjében. Győzelme a szezon egyik legfontosabb sporteseményén komoly visszhangot váltott ki.",
+      "title": "Sinner megvédte wimbledoni címét a tenisz világelsők csatájában",
+      "summary": "Jannik Sinner, a tenisz világelső, hatalmas játékkal védte meg címét Wimbledonban, legyőzve ellenfelét egy szinte tökéletes kezdés után is. Ezzel megerősítette domináns pozícióját a sportágban.",
       "importance": 5
     },
     {
-      "title": "Licitre bocsátották Puskás Ferenc Real Madrid-mezét",
-      "summary": "Lehetőség nyílik licitálni Puskás Ferenc egykori Real Madrid-mezére, amelyet egy Manchester United elleni barátságos mérkőzésen viselt. Ez a ritkaság felbecsülhetetlen értéket képvisel a futballtörténelem és a magyar sportrajongók számára.",
+      "title": "Európa-bajnoki elődöntők: Anglia és a \"század mérkőzése\"",
+      "summary": "Az Európa-bajnokság elődöntőiben Anglia visszavághat az \"Isten kezéért\" egy korábbi riválisnak, míg a francia-spanyol összecsapást az évszázad mérkőzésének tartják. Izgalmas küzdelmek várhatók a döntőbe jutásért.",
+      "importance": 5
+    },
+    {
+      "title": "Gianni Infantino egy 64 csapatos világbajnokság lehetőségét veti fel",
+      "summary": "Gianni Infantino, a FIFA elnöke, felvetette egy jövőbeli, 64 csapatos labdarúgó-világbajnokság lehetőségét. Ez a bővítés jelentősen átalakíthatja a sportág legnagyobb eseményének formátumát.",
       "importance": 4
     },
     {
-      "title": "Történelmi világbajnokság: a top 4 jutott a legjobb négy közé",
-      "summary": "Ez az első olyan világbajnokság a sportág történetében, ahol a világranglista első négy helyezettje jutott a legjobb négy közé. Ez a statisztika rendkívüli dominanciát és kiegyenlített csúcsformát mutat.",
-      "importance": 3
-    },
-    {
-      "title": "Bellingham reakciója Tuchel kritikájára az angol győzelem után",
-      "summary": "Jude Bellingham nyilvánosan reagált Thomas Tuchel edző elégedetlenségére, melyet az angol válogatott győzelme után fejezett ki. Az esemény rávilágít a játékosok és edzők közötti feszültségekre a magas szintű labdarúgásban.",
-      "importance": 3
+      "title": "Licitálható Puskás Ferenc Real Madrid-meze",
+      "summary": "Puskás Ferenc egykori Real Madrid-mezére, amelyet egy Manchester United elleni barátságos mérkőzésen viselt, még licitálni lehet. Ez a relikvia nagy értéket képvisel a futballtörténelem és a gyűjtők számára.",
+      "importance": 4
     }
   ]
 }

@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Argentína–Svájc 1-1",
+      "link": "https://telex.hu/sport/2026/07/12/argentina-svajc-vb-kozvetites",
+      "summary": ""
+    },
+    {
+      "title": "Norvégia hatalmasat küzdött, de Bellingham becipelte az elődöntőbe az angolokat",
+      "link": "https://telex.hu/sport/2026/07/12/foci-vb-2026-futball-norvegia-anglia-negyeddonto",
+      "summary": "Nagy meccset játszott egymással Norvégia és Anglia, az angolok pedig ugyan nem voltak kifejezetten jók, fordítani tudtak, 2-1-re győztek és életben tartották a világbajnoki álmaikat."
+    },
+    {
       "title": "Sándor-palota: Szabályszerűen kifizették Sulyok Márton amerikai útjának költségeit",
       "link": "https://telex.hu/belfold/2026/07/11/sandor-palota-sulyok-tamas-amerikai-utja-kifizette-a-fia",
       "summary": "Magyar Péter szombat délelőtt posztolt a köztársasági elnök és fia amerikai útjáról."
@@ -64,16 +74,6 @@
       "title": "Közzétette az MTVA, hogyan indítják újra a közmédia különböző felületeinek hírszolgáltatásait",
       "link": "https://telex.hu/belfold/2026/07/11/mtva-duna-mediaszolgaltato-fokozatosan-inditjak-ujra-a-hireket",
       "summary": "A rádiók és tévék más-más módon közölnek majd híreket."
-    },
-    {
-      "title": "Halálos áramütés ért egy 17 éves fiút, miután felmászott egy tehervonatra",
-      "link": "https://telex.hu/belfold/2026/07/11/halalo-baleset-tehervonat-aramutes",
-      "summary": "Egy 16 éves lány is vele mászott, ő súlyos égési sérüléseket szenvedett, de életben van."
-    },
-    {
-      "title": "Több milliárd forint közpénzből építi budapesti központját egy itthon alig ismert egyház, ami részletesen reagált a Magyar-kormány vádjaira",
-      "link": "https://telex.hu/belfold/2026/07/11/konstantinapolyi-egyetemes-patriarchatus-muzeum-utcai-palota",
-      "summary": "A konstantinápolyi ortodox egyház ingyen kapott egy belvárosi palotát, ahol a magyar állam pénzén építi helyi központját. A Magyar-kormány feljelentést tett a projekt miatt, az egyház részletesen válaszolt a Telex ezt firtató kérdéseire."
     }
   ],
   "Portfolio": [],
@@ -81,7 +81,7 @@
     {
       "title": "Anglia hatalmas küzdelemben legyőzte Norvégiát, és ott van a világbajnokság elődöntőjében",
       "link": "https://444.hu/2026/07/12/anglia-hatalmas-kuzdelemben-legyozte-norvegiat-es-ott-van-a-vilagbajnoksag-elodontojeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Jude Bellingham két góljával hosszabbítás után 2-1-re fordított, és ezzel ott van a négy között az angol csapat."
+      "summary": "Jude Bellingham két góljával hosszabbítás után 2-1-re fordított és négy közé jutott az angol csapat."
     },
     {
       "title": "Gianni Infantino szerint jöhetne a 64 csapatos vébé",
@@ -163,7 +163,7 @@
     {
       "title": "Nagyot küzdött Norvégia, de Bellingham duplája elődöntőbe juttatta az angolokat",
       "link": "https://hvg.hu/sport/20260711_labdarugo-vilagbajnoksag-norvegia-anglia-elo-ebx",
-      "summary": "Erling Haaland ezen a meccsen nem villogott annyira."
+      "summary": "Erling Haaland most nem tudta góllal segíteni a csapatát."
     },
     {
       "title": "Magyarországon a legdrágább tankolni a régióban, Horvátország és Szlovénia is olcsóbb",
@@ -233,14 +233,24 @@
   ],
   "BBC": [
     {
-      "title": "Man arrested on suspicion of murder of Ann Widdecombe, police say",
+      "title": "'Man of all the moments' - Bellingham gives England the lead",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami."
+    },
+    {
+      "title": "Man arrested on suspicion of murder of Ann Widdecombe",
       "link": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
       "summary": "A 28-year-old white British national has been arrested in South Yorkshire, police say."
     },
     {
-      "title": "Iran says Strait of Hormuz closed 'until further notice'",
+      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The IRGC says it fired a warning shot at a vessel in the strait and is warning the US not to respond with \"aggression\"."
+      "summary": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway."
+    },
+    {
+      "title": "We are living fewer years in good health: Is the NHS part of the problem?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r2nz82z3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "What is driving the UK's fall in healthy life expectancy?"
     },
     {
       "title": "Tributes paid to TV presenter Dermot Murnaghan",
@@ -253,14 +263,9 @@
       "summary": "The Chancellor tells Laura Kuenssberg she will be handing over a stable economy to the incoming PM."
     },
     {
-      "title": "Watch: 'We escaped Spanish wildfire, but our friends lost their lives'",
-      "link": "https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country."
-    },
-    {
-      "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
-      "link": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
-      "summary": "The sizzling heat continues into next week despite a drop in temperatures over the weekend."
+      "title": "Watch fans react to every goal of England v Norway",
+      "link": "https://www.bbc.co.uk/news/videos/cvgqxx912dro?at_medium=RSS&at_campaign=rss",
+      "summary": "The quarter-final of the World Cup saw the two teams face off in Miami, cheered on by fans back home."
     },
     {
       "title": "'He has dragged them through all tournament' - England player ratings",
@@ -273,19 +278,24 @@
       "summary": "England's World Cup semi-final against Argentina or Switzerland will be broadcast live on BBC One and BBC iPlayer."
     },
     {
-      "title": "Fifa official refuses to answer BBC's Balogun ban questions",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gy1j87e1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of Fifa's disciplinary committee refuses to answer BBC questions about the decision-making process which led to United States striker Folarin Balogun avoiding a ban after being sent off."
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "link": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m."
     },
     {
-      "title": "Which World Cup stars have roots near you? Try our postcode lookup",
-      "link": "https://www.bbc.co.uk/news/articles/cn75y330kpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Which World Cup stars have roots near you? Find out with our interactive lookup tool"
+      "title": "Ice on testicles and donating blood - the myths sold to men trying to boost their sperm",
+      "link": "https://www.bbc.co.uk/news/articles/c8921982pgzo?at_medium=RSS&at_campaign=rss",
+      "summary": "With men’s fertility increasingly in the spotlight, we meet the men using unproven “hacks” promoted by influencers to up their sperm counts."
     },
     {
-      "title": "Hey Jude: Bellingham's return to England indispensability",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup."
+      "title": "Why Gen Z chilling red wine is socially acceptable, especially in the summer heat",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzjlgr7zlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Drinking a red at room temperature only is a common belief but the heatwave might have changed that."
+    },
+    {
+      "title": "Wimbledon vs World Cup: Who wore their look best?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2vz37z7v3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wimbledon and the World Cup are known for high stakes and high fashion. Choose your favourite looks."
     },
     {
       "title": "Five key scenes from the Bayeux Tapestry, and the story they tell",
@@ -293,22 +303,17 @@
       "summary": "It depicts a medieval game of thrones as William the Conquerer did battle with King Harold to rule England."
     },
     {
-      "title": "Dating can be hard in South Korea - so the monks stepped in",
-      "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It may sound like the start of a new reality show, but it's actually a real-life dating retreat."
-    },
-    {
-      "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "link": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future."
-    },
-    {
-      "title": "See if you can spot an AI deepfake with our test",
-      "link": "https://www.bbc.co.uk/news/articles/c9d2wgvg55jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers in Aberdeen have been finding out if you can train people to identify computer-generated facial images."
+      "title": "Ann Widdecombe murder probe: What we know so far",
+      "link": "https://www.bbc.co.uk/news/articles/c3vyqkqkvr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former MP was found dead at her home in Haytor, Devon, on Thursday morning."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs's words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said."
+    },
     {
       "title": "This slushie machine was a lifesaver during NYC’s heat wave",
       "link": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
@@ -378,11 +383,6 @@
       "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
       "link": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
       "summary": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic."
-    },
-    {
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "summary": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures."
     }
   ],
   "Nature": [

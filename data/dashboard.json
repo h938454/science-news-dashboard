@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Magyar parlament törvényt fogadott el Sulyok Tamás, az Orbán-kormányhoz kötődő elnök leváltására, amit az Alaptörvénybe is beleírtak",
-      "summary": "A magyar Országgyűlés megszavazta az Alaptörvény módosítását, amely Sulyok Tamás államfő leváltását célozza. A lépést több forrás alkotmányos puccsként értelmezi és jelentős politikai feszültséget okoz.",
+      "title": "A magyar parlament elfogadta az Alaptörvény-módosítást Sulyok Tamás eltávolításáról",
+      "summary": "A magyar Országgyűlés megszavazta azt az Alaptörvény-módosítást, amely lehetővé teszi Sulyok Tamás, az Orbánhoz közelálló elnök pozícióból való eltávolítását. Az ellenzék ünnepelte a döntést, melyet követően Forsthoffer Ágnes alá is írta a jogszabályt.",
       "importance": 5
     },
     {
-      "title": "Forsthoffer Ágnes aláírta az Alaptörvény-módosítást, Sulyoknak öt napja maradt dönteni",
-      "summary": "Az Alaptörvény-módosítást, mely Sulyok Tamás államfő leváltásáról szól, Forsthoffer Ágnes már aláírta. Ezáltal Sulyoknak mindössze öt napja maradt a szükséges lépések megtételére, mielőtt a változtatások hatályba lépnek.",
-      "importance": 5
+      "title": "Gulyás Gergely lemondott a Fidesz frakcióvezetői tisztségéről",
+      "summary": "Gulyás Gergely bejelentette lemondását a Fidesz parlamenti frakciójának éléről, pénteken már közölte döntését Orbán Viktorral. Nyilatkozata szerint utódja jobban fogja végezni a feladatot, de tagadta, hogy ez a párt rossz állapotát jelezné.",
+      "importance": 4
     },
     {
-      "title": "Orbán Viktor: Az új elnök jogtalanul került pozícióba, döntései sem lesznek törvényesek",
-      "summary": "Orbán Viktor miniszterelnök kijelentette, hogy az új, jogtalanul pozícióba ültetett elnök nem lehet törvényes, és ennélfogva a döntései sem érvényesek. Ez a nyilatkozat tovább mélyíti a politikai feszültséget az államfői poszt körül.",
-      "importance": 5
+      "title": "Fideszes aktivista fantomfoglalkoztatása miatt bukott a sárvári gyógyfürdő vezetője",
+      "summary": "A sárvári gyógyfürdő ügyvezetője elveszítette pozícióját, miután kiderült, hogy éveken át fizetett egy fideszes aktivistának anélkül, hogy az munkát végzett volna. Az érintett személy a polgármester régi ismerőse volt.",
+      "importance": 3
     },
     {
-      "title": "Gulyás Gergely lemondott a frakcióvezetői posztról, pénteken értesítette Orbánt",
-      "summary": "Gulyás Gergely, a Fidesz frakcióvezetője bejelentette lemondását posztjáról, amit már pénteken közölt Orbán Viktor miniszterelnökkel. Véleménye szerint utódja jobban fogja végezni a feladatot, jelezve ezzel egy belső politikai változást.",
+      "title": "Megnyílt az új kecskeméti Mercedes-gyár, jelentős exportpotenciállal",
+      "summary": "Átadták az új kecskeméti Mercedes-gyárat, mely évente több tízezer autót exportál majd, jelentősen hozzájárulva a magyar gazdasághoz. A modern létesítményben innovatív gyártási technológiákat alkalmaznak.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Eldőlt: Andy Burnham lesz az Egyesült Királyság új miniszterelnöke",
-      "summary": "Megerősítést nyert, hogy Andy Burnham, Manchester volt polgármestere lesz az Egyesült Királyság következő miniszterelnöke. Ez jelentős változást hozhat a brit politikában és a párt irányvonalában.",
-      "importance": 5
-    },
-    {
-      "title": "Donald Trump: Az USA felügyelete alá vonja a Hormuzi-szorost és díjat szed az őrizetért",
-      "summary": "Donald Trump bejelentette, hogy az Egyesült Államok átveszi a Hormuzi-szoros felügyeletét, és díjat fog kérni az átkelő hajóktól a biztonságért. Ez a lépés jelentős geopolitikai feszültségeket okozhat a régióban.",
+      "title": "Donald Trump visszaállítaná az iráni kikötők blokádját és felügyelet alá vonná a Hormuzi-szorost",
+      "summary": "Donald Trump bejelentette, hogy elnökként visszaállítaná az iráni kikötők blokádját, és 20%-os díjat vetne ki a Hormuzi-szoroson áthaladó hajóforgalomra. Ezzel az Egyesült Államok felügyelete alá vonná a stratégiai fontosságú vízi utat.",
       "importance": 5
     },
     {
       "title": "A Volkswagen akár 100 000 munkahelyet is megszüntethet világszerte",
-      "summary": "A Volkswagen autógyártó vállalat drasztikus munkaerőcsökkentést tervez, amely akár 100 000 álláshelyet is érinthet globálisan. A döntés jelentős gazdasági és társadalmi hatásokkal járhat az autóiparban.",
-      "importance": 5
+      "summary": "A Volkswagen autógyártó vállalat globálisan akár 100 000 munkahelyet is leépíthet, ami komoly következményekkel járhat a nemzetközi munkaerőpiacon. A lépés a vállalat költségcsökkentési és hatékonyságnövelési stratégiájának része.",
+      "importance": 4
     },
     {
-      "title": "Von der Leyen: Egyetértés van a közösségi média korhatár bevezetéséről",
-      "summary": "Ursula von der Leyen, az Európai Bizottság elnöke szerint széles körű egyetértés alakult ki arról, hogy korhatárt kell bevezetni a közösségi médiához való csatlakozáshoz. Ez a szabályozás a fiatalok védelmét szolgálná a digitális térben.",
+      "title": "Andy Burnham lesz az Egyesült Királyság új miniszterelnöke",
+      "summary": "Eldőlt, hogy Andy Burnham, Manchester korábbi polgármestere lesz az Egyesült Királyság következő miniszterelnöke. A Munkáspárt vezetőjeként 349 képviselő támogatását szerezte meg, megerősítve pozícióját.",
       "importance": 4
+    },
+    {
+      "title": "Pusztító erdőtüzek Spanyolországban, emberi tragédiákkal",
+      "summary": "Spanyolországot pusztító erdőtüzek sújtják, amelyek gyors terjedése miatt sokan csapdába estek. Egy brit túlélő beszámolt arról, hogyan menekült meg autójában, miközben felesége és barátai meghaltak a menekülési kísérlet során.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Satya Nadella megdöbbentő figyelmeztetést adott ki az AI-t használó vállalatoknak",
-      "summary": "A Microsoft vezérigazgatója, Satya Nadella komoly figyelmeztetéssel élt az AI-t bevezető cégek felé. Kiemelte az etikai és biztonsági kockázatokat, melyekkel a vállalatoknak számolniuk kell a mesterséges intelligencia integrálásakor.",
+      "title": "Satya Nadella, a Microsoft vezérigazgatója megdöbbentő figyelmeztetést adott ki a mesterséges intelligencia használatával kapcsolatban",
+      "summary": "Satya Nadella, a Microsoft vezérigazgatója komoly figyelmeztetést fogalmazott meg a mesterséges intelligenciát használó vállalatok számára. Hangsúlyozta az AI etikus és felelős alkalmazásának fontosságát a technológia gyors fejlődése mellett.",
       "importance": 5
     },
     {
-      "title": "A SpaceX engedélyt kapott a Starship ismételt indítására a májusi rakétahiba után",
-      "summary": "A SpaceX zöld utat kapott a Starship ismételt tesztrepülésére, miután a májusi fellövés egy erősítőrakéta meghibásodása miatt kudarccal végződött. Ez kulcsfontosságú lépés a Marsra tartó űrrepülés fejlesztésében és a vállalat jövőbeni terveiben.",
-      "importance": 5
-    },
-    {
-      "title": "Az Apple szerint volt alkalmazottja ritka hibát használt ki bizalmas fájlok letöltésére az OpenAI-hoz távozva",
-      "summary": "Az Apple bejelentette, hogy egy korábbi alkalmazottja egy ritka szoftveres hibát kihasználva bizalmas adatokat töltött le. Az incidens azután történt, hogy az illető az OpenAI-hoz igazolt, ami ipari kémkedésre utaló aggályokat vet fel.",
+      "title": "Az Apple pert indított az OpenAI ellen üzleti titkok eltulajdonítása miatt",
+      "summary": "Az Apple azzal vádolja az OpenAI-t, hogy egy korábbi alkalmazottja egy ritka hiba kihasználásával bizalmas fájlokat töltött le, miután átigazolt az OpenAI-hoz. A perben vad vádak hangzottak el üzleti titkok eltulajdonításával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "A General Fusion részvényei megugrottak a debütáláskor, mint az első nyilvánosan forgalmazott fúziós cég",
-      "summary": "A General Fusion tőzsdére lépésével hatalmas befektetői érdeklődést váltott ki, hiszen ez az első nyilvánosan forgalmazott fúziós energiavállalat. A sikeres debütálás ígéretes jövőt jelez a tiszta energiaforrások fejlesztésében.",
+      "title": "A SpaceX Starship ismét repülhet a májusi hajtóműhiba után",
+      "summary": "A SpaceX engedélyt kapott a Starship újraindítására, miután a májusi start egy hajtóműhiba miatt sikertelenül zárult. Ez a fejlemény kulcsfontosságú a cég űrrepülési ambíciói és a Mars-missziók szempontjából.",
       "importance": 4
+    },
+    {
+      "title": "A General Fusion az első nyilvánosan jegyzett fúziós vállalatként debütált a tőzsdén",
+      "summary": "A General Fusion lett az első olyan fúziós energiavállalat, amely nyilvánosan bevezetett a tőzsdére, és részvényei szárnyaltak debütálásakor. Ez a lépés jelentős mérföldkő a tiszta energiaforrások fejlesztésében.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Rossz hír a klímaváltozás elleni 'csodafegyverről'",
-      "summary": "Kiderült, hogy a klímaváltozás elleni egyik ígéretes 'csodafegyver' korántsem olyan hatékony, mint remélték, sőt, súlyos mellékhatásokkal is járhat. Ez komoly visszalépést jelenthet a globális felmelegedés elleni harcban és a jövőbeli stratégiákban.",
+      "title": "Az első \"valódi cukor\" molekula felfedezése az űrben, nyomokat adva az élet eredetéről",
+      "summary": "A tudósok felfedezték az első \"valódi cukor\" molekulát az űrben, ami fontos nyomokat szolgáltathat az élet eredetével kapcsolatban. Ez a felfedezés segíthet megérteni, hogyan alakulhattak ki az élethez szükséges kémiai építőkövek a kozmoszban.",
       "importance": 5
     },
     {
-      "title": "Jelentés szerint a tanulási zavarokkal élő felnőttek több mint fele nem éri meg a 65 évet",
-      "summary": "Egy friss jelentés aggasztó adatokat tárt fel: a tanulási zavarokkal küzdő felnőttek több mint fele nem él 65 éves kornál tovább. Ez rávilágít a súlyos egészségügyi és társadalmi egyenlőtlenségekre, sürgetve a jobb támogatási rendszereket.",
+      "title": "Az epigenetikai szerkesztés előretörése a tudományban",
+      "summary": "Az epigenetikai szerkesztés technológiája egyre jelentősebbé válik, új lehetőségeket kínálva a génkifejeződés szabályozásában anélkül, hogy magát a DNS-szekvenciát megváltoztatná. Ez forradalmasíthatja a betegségek kezelését és a biológiai kutatásokat.",
       "importance": 4
     },
     {
-      "title": "Segíthet-e az AI elkerülni a büntetést gyilkosság után?",
-      "summary": "Felmerül az etikai kérdés, hogy segíthet-e a mesterséges intelligencia valakinek elkerülni a büntetést, ha bűncselekményt követett el, például gyilkosságot. Ez a technológiai fejlődés és a jogrendszer közötti feszültséget mutatja, komoly jogi és morális dilemmákat vetve fel.",
+      "title": "Új perovszkit-organikus tandem napelemek fototranszformálható stabilizátorral",
+      "summary": "Kutatók olyan új perovszkit-organikus tandem napelemeket fejlesztettek, amelyek fototranszformálható stabilizátort tartalmaznak, növelve ezzel hatékonyságukat és élettartamukat. Ez jelentős előrelépést jelent a napenergia-technológia fejlesztésében.",
       "importance": 4
     },
     {
-      "title": "Reed Jobs inkább a rák gyógyításáról beszélne, mint a családnevéről",
-      "summary": "Reed Jobs, Steve Jobs fia, a biotechnológiai szektorban dolgozik, és inkább a rák gyógyítására irányuló munkájáról ismert. Célja, hogy saját tudományos eredményeivel járuljon hozzá a világhoz, nem pedig híres családnevével.",
+      "title": "Egy 70 000 tanulmányt elemző kutatás vizsgálja a preprintek megbízhatóságát",
+      "summary": "Egy kiterjedt, 70 000 preprint tanulmányt elemző kutatás azt sugallja, hogy a preprintek megbízhatósága nagyobb lehet, mint azt sokan gondolják. Az elemzés rávilágít a gyors tudományos kommunikáció előnyeire és hátrányaira.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Kubatov Gábor már nemcsak elnök, hanem ügyvezető is a Fradinál",
-      "summary": "Kubatov Gábor újabb vezetői pozíciót kapott a Ferencvárosi Torna Clubnál, így már nemcsak elnökként, hanem ügyvezetőként is irányítja a klubot. Ez további befolyást jelent számára a magyar sportéletben és a klub mindennapi működésében.",
+      "title": "Kubatov Gábor már elnök és ügyvezető is a Ferencvárosi Torna Clubnál",
+      "summary": "Kubatov Gábor a Ferencvárosi Torna Clubnál nemcsak az elnöki, hanem az ügyvezetői pozíciót is betölti, jelentősen növelve befolyását a klub vezetésében. Ez a kettős szerepvállalás új irányt szabhat a Fradi működésének és jövőjének.",
       "importance": 4
     },
     {
-      "title": "Rákbetegségéről írt a közösségi oldalán Kovács Ágnes olimpiai bajnok úszó",
-      "summary": "Kovács Ágnes, olimpiai bajnok úszónk a közösségi médiában osztotta meg, hogy rákbetegséggel küzd. Posztjával erőt adhat sorstársainak és felhívja a figyelmet a betegség elleni küzdelem fontosságára.",
+      "title": "Kovács Ágnes olimpiai bajnok úszó rákbetegségéről vallott",
+      "summary": "Kovács Ágnes, olimpiai bajnok úszónk a közösségi oldalán osztotta meg nyilvánosan rákbetegségével kapcsolatos küzdelmét. Nyílt vallomása célja, hogy erőt adjon másoknak és felhívja a figyelmet a betegség elleni küzdelem fontosságára.",
       "importance": 3
     },
     {
-      "title": "Meghalt egy holland játékvezető, akit a vb előtt kizártak a bírói csapatból",
-      "summary": "Elhunyt egy holland labdarúgó-játékvezető, akit nem sokkal a világbajnokság kezdete előtt kizártak a bírói csapatból. A haláleset a sportvilágot is megrendítette és elgondolkodtat a sportolók mentális egészségéről.",
-      "importance": 3
+      "title": "A labdarúgó-világbajnokság elődöntőinek legfontosabb kérdései és esélyei",
+      "summary": "A BBC Sport szakértői elemzik a labdarúgó-világbajnokság utolsó négy csapatát, összehasonlítva erősségeiket és gyengeségeiket az elődöntők előtt. Kérdés, melyik csapat a legklinikusabb és melyik a legkreatívabb, miközben az angol csapat Rice játékáról hoz majd döntést.",
+      "importance": 4
     },
     {
       "title": "Fernando Alonso a Bugatti Veyron elődjét vezette Monaco utcáin",
-      "summary": "A kétszeres Forma-1-es világbajnok, Fernando Alonso egy Bugatti Veyron prototípusát, az 'elődjét' vezette Monaco ikonikus utcáin. Ez egy különleges megjelenés volt a motorsport rajongók számára, egyesítve a sebességet és a luxust.",
+      "summary": "Fernando Alonso, a Forma-1 kétszeres világbajnoka egy különleges esemény keretében vezette a Bugatti Veyron elődjét, a Bugatti EB110-et Monaco utcáin. Ez a látványos esemény a motorsport és az autózás szerelmeseinek is különleges élményt nyújtott.",
       "importance": 2
     }
   ]

@@ -79,6 +79,11 @@
   "Portfolio": [],
   "444": [
     {
+      "title": "A Fidesz az új óellenzék",
+      "link": "https://444.hu/2026/07/14/a-fidesz-az-uj-oellenzek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Gulyás Gergely lemondott, Orbán Viktor focit néz az USA-ban, amíg megmaradt hívei Sulyokért tüntetnek, Trump pedig tovább kavar Iránnál. A 444 reggeli hírlevele."
+    },
+    {
       "title": "Belebukott a sárvári fürdő vezetője abba, hogy évek óta munkavégzés nélkül fizetett egy fideszes aktivistának, a polgármester régi ismerősének",
       "link": "https://444.hu/2026/07/13/belebukott-a-sarvari-furdo-vezetoje-abba-hogy-munkavegzes-nelkul-fizetett-evek-ota-egy-fideszes-aktivistanak-a-polgarmester-regi-ismerosenek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Az egyébként fideszes többségű képviselő-testület felmentette Kántás Zoltánt."
@@ -147,11 +152,6 @@
       "title": "Donald Trump: Az Egyesült Államok a felügyelete alá vonja a Hormuzi-szorost, és pénzt kér az őrizetért",
       "link": "https://444.hu/2026/07/13/donald-trump-az-egyesult-allamok-a-felugyelete-ala-vonja-a-hormuzi-szorost-es-penzt-ker-az-orizetert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Az amerikai elnök bejelentette az iráni kikötők blokádját is, valamint azt, hogy 20 százalékos sarcot szedne a szoros őrizetéért. A piaci reakció pocsék volt, gyengül a forint, az olaj 3 százalékot drágult."
-    },
-    {
-      "title": "Karácsony Gergely szerint most lenne ideje elengedni az augusztus 20-ai tűzijátékot, lehetőleg mindörökre",
-      "link": "https://444.hu/2026/07/13/karacsony-gergely-szerint-most-lenne-ideje-elengedni-az-augusztus-20-i-tuzijatekot-lehetoleg-mindorokre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Üdvözli a spórolást, de szerinte a tűzijáték továbbra is káros és idejétmúlt."
     }
   ],
   "HVG": [
@@ -240,7 +240,7 @@
     {
       "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
       "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz."
+      "summary": "The US military later said it had started the third consecutive night of strikes on Iran."
     },
     {
       "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
@@ -293,14 +293,14 @@
       "summary": "The government says the findings are stark, while a campaign group says they should be \"headline news\"."
     },
     {
+      "title": "England to make late call on Rice for World Cup semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina."
+    },
+    {
       "title": "Most clinical? Least creative? BBC Sport compares the last four teams in the World Cup",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet."
-    },
-    {
-      "title": "These are unprecedented times - England should enjoy them",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c932rqverkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A record of four semi-finals in the past five international tournaments for England is outstanding. It is time to accept that this is where England belong."
     },
     {
       "title": "BBC experts pick their England World Cup semi-final starters - do you agree?",
@@ -385,5 +385,81 @@
       "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs' words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Perovskite–organic tandem solar cells with a photo-transformable stabilizer",
+      "link": "https://www.nature.com/articles/s41586-026-10869-x",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10869-x\">doi:10.1038/s41586-026-10869-x</a></p>Perovskite–organic tandem solar cells with a photo-transformable stabilizer"
+    },
+    {
+      "title": "Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours",
+      "link": "https://www.nature.com/articles/s41586-026-10855-3",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10855-3\">doi:10.1038/s41586-026-10855-3</a></p>Author Correction: OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumours"
+    },
+    {
+      "title": "Tall and small trees are equally vulnerable to drought",
+      "link": "https://www.nature.com/articles/d41586-026-02121-3",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02121-3\">doi:10.1038/d41586-026-02121-3</a></p>The water-transport system of tropical giants called dipterocarps has evolved to defy the effects of gravity and resist water stress."
+    },
+    {
+      "title": "Rights for rivers and ice cream for all: top reads for the summer holidays",
+      "link": "https://www.nature.com/articles/d41586-026-02152-w",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02152-w\">doi:10.1038/d41586-026-02152-w</a></p>Ten Nature contributors share their current book obsessions."
+    },
+    {
+      "title": "How voluntary work can boost your career in science",
+      "link": "https://www.nature.com/articles/d41586-026-01339-5",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01339-5\">doi:10.1038/d41586-026-01339-5</a></p>Supporting charities can bring career benefits and provide valuable social connections."
+    },
+    {
+      "title": "The rise of evidence-based medicine and the ‘mavericks’ who championed it",
+      "link": "https://www.nature.com/articles/d41586-026-02153-9",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02153-9\">doi:10.1038/d41586-026-02153-9</a></p>An impeccably researched account describes how clinical trials have transformed health and social policy."
+    },
+    {
+      "title": "Epigenetic editing makes its mark",
+      "link": "https://www.nature.com/articles/d41586-026-02151-x",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02151-x\">doi:10.1038/d41586-026-02151-x</a></p>Researchers are rewriting the chemical tags on DNA and chromatin to tune gene expression."
+    },
+    {
+      "title": "This microbiologist endured a four-year court battle over COVID-19 tests",
+      "link": "https://www.nature.com/articles/d41586-026-01654-x",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01654-x\">doi:10.1038/d41586-026-01654-x</a></p>Linda Guamán wanted to serve her country, but became mired in a political controversy that led to her being arrested and facing years in prison."
+    },
+    {
+      "title": "First ‘true sugar’ molecule found in space — offering hints to life’s origins",
+      "link": "https://www.nature.com/articles/d41586-026-02173-5",
+      "summary": "<p>Nature, Published online: 13 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02173-5\">doi:10.1038/d41586-026-02173-5</a></p>Erythrulose, which has four carbon atoms, is the most complex sugar spotted beyond our Solar System."
+    },
+    {
+      "title": "Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle",
+      "link": "https://www.nature.com/articles/s41586-026-10853-5",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10853-5\">doi:10.1038/s41586-026-10853-5</a></p>Author Correction: Authigenic mineral phases as a driver of the upper-ocean iron cycle"
+    },
+    {
+      "title": "Alpine crossing took a heavy toll on Hannibal’s elephants and troops",
+      "link": "https://www.nature.com/articles/d41586-026-02113-3",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02113-3\">doi:10.1038/d41586-026-02113-3</a></p>Pachyderms would have lost substantial amounts of weight traversing the mountains, as would have horses and soldiers."
+    },
+    {
+      "title": "Briefing Chat: The 30 year-legacy of a science icon — Dolly the sheep",
+      "link": "https://www.nature.com/articles/d41586-026-02185-1",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02185-1\">doi:10.1038/d41586-026-02185-1</a></p>Nature staff discuss the landmark moment when a mammal was first cloned from an adult cell — plus, the first direct observation of ocean-floor crust being created."
+    },
+    {
+      "title": "Which ‘AI scientist’ suits your lab? A guide for the perplexed",
+      "link": "https://www.nature.com/articles/d41586-026-02091-6",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02091-6\">doi:10.1038/d41586-026-02091-6</a></p>General purpose AI tools for science, such as Claude Science, promise to accelerate research. But which is right for you?"
+    },
+    {
+      "title": "Think preprints are unreliable? Analysis of 70,000 studies might change your mind",
+      "link": "https://www.nature.com/articles/d41586-026-02167-3",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02167-3\">doi:10.1038/d41586-026-02167-3</a></p>Central conclusions rarely change when biomedical preprints go on to be published in journals."
+    },
+    {
+      "title": "Daily briefing: Preprints are chock-full of authors’ private info",
+      "link": "https://www.nature.com/articles/d41586-026-02198-w",
+      "summary": "<p>Nature, Published online: 10 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02198-w\">doi:10.1038/d41586-026-02198-w</a></p>Passwords, to-do lists and even derogatory comments litter arXiv preprints. Plus, two huge planets that are lighter than candy floss and which ‘AI scientist’ might suit your lab."
+    }
+  ]
 }

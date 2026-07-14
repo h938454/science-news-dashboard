@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "A vendégmunkásvita a magyar ipar egyik érzékeny pontját találta el",
+      "link": "https://telex.hu/g7/vallalat/2026/07/14/vendegmunkasok-ipar-vita-munkaero-beruhazas-automatizacio",
+      "summary": "Nehezen tudnak alkalmazkodni a cégek ahhoz, ha hirtelen kihúzzák alóluk a munkaerő-utánpótlás külföldi bázisát. A gépesítéssel mindenki számol, de még nem lehet az összes munkafázist kiváltani."
+    },
+    {
+      "title": "Váratlan halála után Lindsey Grahamet húga követheti a szenátori székben",
+      "link": "https://telex.hu/kulfold/2026/07/14/lindsey-graham-halala-utan-huga-kovetheti-szenator",
+      "summary": "Donald Trump egyik legfontosabb szövetségese hétvégén, szívrohamban halt meg."
+    },
+    {
       "title": "Belebukott a sárvári gyógyfürdő ügyvezetője, hogy fantomállásban foglalkoztatta a polgármester ismerősét",
       "link": "https://telex.hu/belfold/2026/07/13/kantas-zoltan-sarvari-gyogyfurdo-ugyvezeto-munkaszerzodes-felbontas-fantomallas",
       "summary": "Rendkívüli ülést tartott ma a sárvári képviselő-testület, itt dőlt el, hogy közös megegyezéssel felbontják Kántás Zoltán munkaszerződését."
@@ -64,16 +74,6 @@
       "title": "Gulyás Gergely már pénteken szólt Orbánnak, hogy távozik a frakció éléről, szerinte az utódja jobban fogja végezni a feladatot",
       "link": "https://telex.hu/belfold/2026/07/13/gulyas-gergely-fidesz-frakciovezeto-lemondas-orban-viktor-atv-egyenes-beszed",
       "summary": "Az ATV-nek adott interjúban nem nevezte meg, kit szeretne utódjának."
-    },
-    {
-      "title": "Magyar Péter szerint az „amerikai emigrációba kényszerült” Orbán legelsőként hagyta el a süllyedő hajót",
-      "link": "https://telex.hu/belfold/2026/07/13/magyar-peter-alaptorveny-modositas-utan-sajtotajekoztato",
-      "summary": "Sajtótájékoztatót tartott Magyar Péter az Alaptörvény módosításának szavazása után."
-    },
-    {
-      "title": "Négy út áll Sulyok Tamás előtt az Alaptörvény módosítása után",
-      "link": "https://telex.hu/belfold/2026/07/13/alaptorveny-modositas-sulyok-tamas-koztarsasagi-elnok-alairas-megfosztas-alkotmanybirosag",
-      "summary": "Öt napja van átgondolni, hogy aláírja-e a módosítást. Egy újabb alkotmánybírósági körrel még tudja húzni az időt, a Tisza Párt a megfosztási eljárás elindításával azonban akár már jövő keddre megszüntetheti a megbízatását. Reagált a Sándor-palota a Telexnek a szavazás után."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Orbán Viktor elrepült, a Fidesz nem ült be, Sulyok ellen megfosztási eljárás indulhat – Newscast",
+      "link": "https://hvg.hu/itthon/20260714_orban-viktor-elrepult-a-fidesz-nem-ult-be-sulyok-ellen-megfosztasi-eljaras-indulhat-newscast",
+      "summary": "Tegnap szavazott az Országgyűlés az Alaptörvény 17. módosításáról. Gulyás Gergely bejelentette, hogy lemond a Fidesz-frakció vezetéséről, Orbán Viktor útban a foci-vb-re a magyar demokrácia gyásznapjaként jellemezte a történteket. Az egykori gazdasági miniszter, Nagy Márton fél éven belül háromszor szállt meg ugyanabban a sokcsillagos antwerpeni luxushotelben. Az amerikai haderő légicsapások újabb sorozatát indította iráni célpontok ellen. Kezdje a napot a HVG hírpodcastjával!"
+    },
+    {
       "title": "Hegedűs Zsolt: Kórházvezetői megbízásokat vont vissza az OKFŐ",
       "link": "https://hvg.hu/itthon/20260713_hegedus-zsolt-korhazvezetoi-megbizas-visszavonas-okfo",
       "summary": "Egy borsodi intézmény és a budapesti Bajcsy-Zsilinszky kórház érintett."
@@ -224,33 +229,28 @@
       "title": "Gulyás Gergely: Orbán Viktornak már pénteken elmondtam, hogy lemondok",
       "link": "https://hvg.hu/itthon/20260713_gulyas-gergely-fidesz-frakciovezeto-lemondas-orban-viktor-atv-egyenes-beszed-interju",
       "summary": "A Fidesz távozó frakcióvezetője szerint nem a párt rossz állapotára utal, hogy Orbán Viktor annak ellenére is elutazott Amerikába, hogy tudta, ő lemond."
-    },
-    {
-      "title": "Letartóztattak egy férfit, aki bántalmazta és szexre kényszerítette kiskorú zárkatársát",
-      "link": "https://hvg.hu/itthon/20260713_letartoztatas-borton-szexualis-eroszak-kiskoru-zarkatars-exc",
-      "summary": "A zárkában fogva tartott négy férfi lekötözte a fiatalt, majd hárman közülük megerőszakolták."
     }
   ],
   "BBC": [
+    {
+      "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait."
+    },
     {
       "title": "Ann Widdecombe suspect not known to Prevent as counter terrorism police take over investigation",
       "link": "https://www.bbc.co.uk/news/articles/c0mydjl12mwo?at_medium=RSS&at_campaign=rss",
       "summary": "Home Secretary Shabana Mahmood confirmed the suspect was not known to the government's anti-terrorism programme in an update to MPs."
     },
     {
-      "title": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military later said it had started the third consecutive night of strikes on Iran."
+      "title": "No significant rain forecast for at least a week as UK heatwave continues",
+      "link": "https://www.bbc.co.uk/weather/articles/cvge2zq0zg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Heat has been this big story of the summer so far but there has also been a lack of wet weather, as Ben Rich explains."
     },
     {
-      "title": "Twelve arrested over alleged right-wing terror threat to UK Islamic event, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cvgl20x1ggpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Home Secretary Shabana Mahmood says the police's response \"undoubtedly saved lives\"."
-    },
-    {
-      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain."
+      "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+      "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police hope the images could jog memories that will help them find the body of Peter Falconio."
     },
     {
       "title": "Burnham cements Labour leadership with backing of 349 MPs",
@@ -258,14 +258,24 @@
       "summary": "The MP for Makerfield is on track to become the prime minister next week after receiving the support of the vast majority of Labour MPs."
     },
     {
-      "title": "Mahmood says law will be changed to help deport grooming gang leader",
-      "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Calls to deport Rochdale grooming gang ringleader Shabir Ahmed have been growing since his release from prison."
+      "title": "Thai police probe safety lapses after deadly Bangkok bar fire",
+      "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors and first reporters reported doors being locked and the lack of signage marking emergency exits."
     },
     {
-      "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-      "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China."
+      "title": "YouTube still recommending eating disorder videos to teens, research finds",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzn2g0xw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The site is continuing to recommend harmful videos despite new rules meant to better protect teenagers in the UK, a study finds."
+    },
+    {
+      "title": "The secretive crypto firm backed by Farage's biggest donor",
+      "link": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing."
+    },
+    {
+      "title": "US-based Mexican food chain Chipotle opening first outlet in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other US fast food brands have struggled to succeed in the countries their dishes originated."
     },
     {
       "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
@@ -273,24 +283,14 @@
       "summary": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action."
     },
     {
-      "title": "Heatwave to intensify in second week as wildfires burn across UK",
-      "link": "https://www.bbc.co.uk/weather/articles/c0jyx16ww8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "After a brief drop in temperature many areas will see heat and humidity build again this week"
+      "title": "Mahmood says law will be changed to help deport grooming gang leader",
+      "link": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Calls to deport Rochdale grooming gang ringleader Shabir Ahmed have been growing since his release from prison."
     },
     {
-      "title": "A versatile actor whose roles went far beyond Jurassic Park - Sam Neill dies aged 78",
-      "link": "https://www.bbc.co.uk/news/articles/cx2wrvqq9rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor built up a long string of screen credits over a five-decade career."
-    },
-    {
-      "title": "Escaped prisoner Daniel Khalife assisted by two friends, jury told",
-      "link": "https://www.bbc.co.uk/news/articles/ce8j55mnv8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adeel Khan and Imran Chowdhury, are accused of helping the former soldier, who absconded from HMP Wandsworth in 2023."
-    },
-    {
-      "title": "Over half of adults with learning disabilities do not live past 65, report says",
-      "link": "https://www.bbc.co.uk/news/articles/cnv949z75jmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government says the findings are stark, while a campaign group says they should be \"headline news\"."
+      "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain."
     },
     {
       "title": "England to make late call on Rice for World Cup semi-final",
@@ -298,17 +298,42 @@
       "summary": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina."
     },
     {
+      "title": "Deschamps predicts 'spectacular' France v Spain semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c79y29l32gxo?at_medium=RSS&at_campaign=rss",
+      "summary": "France boss Didier Deschamps is predicting a \"spectacular\" semi-final when his exciting side take on Spain in a heavyweight World Cup showdown in Dallas."
+    },
+    {
       "title": "Most clinical? Least creative? BBC Sport compares the last four teams in the World Cup",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2k9qj2nyvo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport compares statistics for France, Spain, Argentina and England in the World Cup so far as the semi-finalists prepare to meet."
-    },
-    {
-      "title": "BBC experts pick their England World Cup semi-final starters - do you agree?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&at_campaign=rss",
-      "summary": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?"
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "summary": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
+    },
+    {
+      "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice."
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
+    },
+    {
+      "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+      "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+      "summary": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel."
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
+    },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
@@ -358,31 +383,6 @@
       "title": "SpaceX cleared to fly Starship again after booster failure in May",
       "link": "https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/",
       "summary": "This will be the first Starship test flight for SpaceX as a public company, testing the market's appetite for the company's \"fly, fail, fix\" approach to rocket development, which often ends in fireballs."
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps."
-    },
-    {
-      "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-      "link": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-      "summary": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns."
-    },
-    {
-      "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-      "link": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-      "summary": "Washington, D.C. has become a battleground for Uber and Waymo's competing views."
-    },
-    {
-      "title": "TechCrunch Mobility: A robotaxi ultimatum",
-      "link": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
-    },
-    {
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "link": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in roughly the same window, creating all kinds of new opportunities; and AI has gone from a curiosity to, in Jobs' words, a huge part of what Yosemite does. \"I didn't expect Yosemite to be moving this fast,\" he said."
     }
   ],
   "Nature": [

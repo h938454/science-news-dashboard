@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Vizsgálat indult Szijjártó Péter ellen",
-      "summary": "Szijjártó Péter korábbi külügyminiszter ellen vizsgálat indult. Az ügy a kormányinfón is szóba került, ahol erről a botrányról is beszámoltak.",
+      "title": "Szijjártó Péter körüli vizsgálat és vádak",
+      "summary": "Több forrás is vizsgálatról és botrányról számol be Szijjártó Péter külügyminiszter kapcsán. Magyar Péter titkos dokumentumokat emleget az ügyben, amelyhez Orbán Anita szerint példa nélküli körülmények társulnak.",
       "importance": 5
     },
     {
-      "title": "A NAV vizsgálja az ukrán pénzszállító elleni akciót",
-      "summary": "A Nemzeti Adó- és Vámhivatal vizsgálatot indított egy ukrán pénzszállító elleni akció ügyében. Az eset miatt már két vezetőt is leváltottak.",
+      "title": "Zsugorodó Fidesz-kampányszervezetek",
+      "summary": "Jelentősen csökkent a Fidesz kampányát segítő cégek és szervezetek létszáma, egyes esetekben az alkalmazottak több mint kétharmadát elbocsátották. A digitális polgári körök mögötti cég önkéntesekkel tervezi a folytatást.",
       "importance": 4
     },
     {
-      "title": "Botrány az Operettszínház körül és Orbán János Dénes nyílt levele",
-      "summary": "Az Operettszínház főigazgatója magyarázatot adott az Orbán János Dénes-féle produkciók finanszírozására, melyek külön forrásból valósultak meg. Orbán János Dénes nyílt levélben jelezte művei visszavásárlási szándékát.",
+      "title": "Bűncselekmény gyanúja a Gondosóra-programban",
+      "summary": "Az Integritás Hatóság több bűncselekmény gyanújával tett feljelentést a Gondosóra-programmal kapcsolatban. A részletek a program működésével összefüggő aggályokra utalnak.",
       "importance": 4
     },
     {
-      "title": "Feljelentés a Gondosóra-program ügyében",
-      "summary": "Az Integritás Hatóság több bűncselekmény gyanújával tett feljelentést a Gondosóra-programmal kapcsolatban. Az ügy további vizsgálatokat igényel, rávilágítva a közpénzek felhasználásának ellenőrzésére.",
+      "title": "Két napra leállnak az állami informatikai rendszerek",
+      "summary": "Az állami informatikai rendszerek két napra leállnak karbantartás miatt, ami fennakadásokat okozhat a DÁP és más online ügyintézési felületek működésében. Ez idő alatt bizonyos szolgáltatások elérhetetlenek lesznek.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az USA rakétákkal támadott egy olajszállító tartályhajót az iráni blokád miatt",
-      "summary": "Az Egyesült Államok rakétákkal támadott meg egy olajszállító tartályhajót, érvényesítve az új Irán elleni blokádot. A lépés tovább növeli a feszültséget a térségben, és komoly nemzetközi visszhangot váltott ki.",
+      "title": "Amerikai légicsapások Iránban",
+      "summary": "Jelentések szerint légicsapásokat hajtottak végre Iránban, miután az Egyesült Államok újabb támadássorozatot indított a térségben. A geopolitikai feszültség tovább fokozódik a Közel-Keleten.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij új védelmi minisztert nevezett ki Ukrajnában",
-      "summary": "Volodimir Zelenszkij ukrán elnök az SZBU-főnököt nevezte ki megbízott védelmi miniszternek. A kinevezés a háború idején kulcsfontosságú a védelem irányításában és a belső stabilitás fenntartásában.",
-      "importance": 5
-    },
-    {
-      "title": "Börtönbüntetések Genovában a hídomlás miatt",
-      "summary": "Harminckét embert ítéltek el a több mint negyven halálos áldozatot követelő genovai hídomlás ügyében. Az ítéletek az egykori vezetőket és hivatalnokokat is érintik, jelezve a felelősségre vonás fontosságát.",
+      "title": "Zelenszkij új védelmi minisztert nevezett ki",
+      "summary": "Volodimir Zelenszkij ukrán elnök az SZBU-főnökét nevezte ki megbízott védelmi miniszternek. Ez a lépés a folyamatban lévő háború közepette az ukrán kormányzat egyik fontos személycseréje.",
       "importance": 4
     },
     {
-      "title": "Angliában betiltják az energiaitalokat 16 év alattiaknak",
-      "summary": "Angliában áprilistól tilos lesz 16 év alattiaknak energiaitalt vásárolni. A döntéssel a fiatalok egészségét kívánják védeni, reagálva a megnövekedett fogyasztásra és az egészségügyi kockázatokra.",
+      "title": "Elítélték a genovai hídomlás volt vezetőjét",
+      "summary": "Tizenkét év börtönre ítélték az olasz autópálya-üzemeltető volt vezetőjét a 43 halálos áldozatot követelő genovai hídomlás miatt. Az ítélet mérföldkő a katasztrófa felelősségre vonásában.",
+      "importance": 4
+    },
+    {
+      "title": "Drónnal közelített a lengyel elnöki konvojhoz egy ukrán fiatal",
+      "summary": "Vádat emeltek egy ukrán fiatal ellen, aki egy drónt reptetett volna a lengyel elnök autója fölé. Az eset potenciálisan biztonsági incidenst okozhatott volna, és a lengyel hatóságok vizsgálják.",
       "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az AI teljes mértékben átalakítja a kiberbiztonságot",
-      "summary": "A mesterséges intelligencia forradalmasítja a kiberbiztonságot, ami új kihívások elé állítja a kutatókat. A felkészülés elengedhetetlen a jövőbeli fenyegetések kezelésére és a digitális rendszerek védelmére.",
-      "importance": 5
-    },
-    {
-      "title": "A Google Vids segítségével saját AI videókat készíthetünk",
-      "summary": "A Google Vids új funkciójával bárki készíthet saját, mesterséges intelligencia által generált videókat. Ez a fejlesztés új lehetőségeket nyit meg a tartalomgyártásban és a kreatív iparágakban.",
+      "title": "Ransomware támadás bénította meg a Coca-Cola Fairlife tejüzemét",
+      "summary": "A Coca-Cola Fairlife tejüzeme kénytelen volt felfüggeszteni a termelést egy zsarolóvírus támadás után. Az eset rávilágít a kritikus infrastruktúrák sérülékenységére a kibertámadásokkal szemben.",
       "importance": 4
     },
     {
-      "title": "Az Uber 14,8 milliárd dolláros üzlettel bővíti globális jelenlétét",
-      "summary": "Az Uber egy 14,8 milliárd dolláros felvásárlással közel megduplázná globális piaci részesedését a Delivery Hero által. Ez jelentős változást hozhat az élelmiszer-szállítási szektorban, és átrendezi a piaci erőviszonyokat.",
+      "title": "Az Uber felvásárolja a Delivery Herót",
+      "summary": "Az Uber közel 14,8 milliárd dolláros üzlet keretében felvásárolná a Delivery Herót, ezzel majdnem megkétszerezve globális piacát. Az akvizíció jelentősen átalakítaná a szállítási szolgáltatások szektorát.",
       "importance": 4
     },
     {
       "title": "Brit rendőrök felszámoltak egy hírhedt hackercsoportot",
-      "summary": "Brit rendőrségi akcióval két fiatal hacker letartóztatása megzavarta egy hírhedt hackercsoport működését. Ez a siker jelentős lépés a kiberbűnözés elleni küzdelemben és a digitális biztonság javításában.",
-      "importance": 3
+      "summary": "Az Egyesült Királyság rendőrsége bejelentette, hogy két fiatal hacker letartóztatásával súlyosan megzavarták egy hírhedt hackercsoport működését. Ez a lépés jelentős győzelem a kiberbűnözés elleni harcban.",
+      "importance": 4
+    },
+    {
+      "title": "Egészségügyi adatokat osztott meg a Stardust menstruációs app",
+      "summary": "A Stardust nevű menstruációs ciklus követő alkalmazás a Mozilla kutatása szerint megosztotta a felhasználók egészségügyi adatait egy elemző céggel. Az eset komoly aggodalmakat vet fel az adatvédelem és a magánszféra körül.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Magyar kutatók tumorgátló kapcsolót fedeztek fel",
-      "summary": "Magyar kutatóknak sikerült azonosítaniuk egy molekuláris kapcsolót, amely képes gátolni a tumorok növekedését. Ez az áttörés új utakat nyithat meg a rákterápiában és a célzott kezelések fejlesztésében.",
+      "title": "Magyar kutatók tumorgátló kapcsolót találtak",
+      "summary": "Magyar kutatók egy olyan molekuláris kapcsolót azonosítottak, amely képes gátolni a tumorok növekedését, áttörést hozva a rákkezelés terén. Ez a felfedezés új terápiás utakat nyithat meg.",
       "importance": 5
     },
     {
-      "title": "Folyékony vízre utaló jelek egy 49 fényévre lévő exobolygón",
-      "summary": "Egy 49 fényévre található exobolygó felszínén folyékony vízre utaló jeleket fedeztek fel. Ezt a planétát már korábban is a legígéretesebb exobolygók között tartották számon az élet keresésében.",
+      "title": "Folyékony vízre utaló jelek egy exobolygón",
+      "summary": "Egy 49 fényévre lévő exobolygó felszínén folyékony vízre utaló jeleket fedeztek fel, ami a 2017-es felfedezése óta a legígéretesebbnek számít a földönkívüli élet szempontjából. A bolygó vizsgálata folytatódik.",
       "importance": 4
     },
     {
-      "title": "Az űrhajósok testének sorvadása és a mitokondriumok szerepe",
-      "summary": "Az űrállomáson végzett kutatások szerint a mitokondriumok diszfunkciója okozhatja az űrhajósok testének sorvadását. Ez a felfedezés segíthet a jövőbeli űrküldetések egészségügyi kockázatainak csökkentésében és a hosszú távú űrutazás tervezésében.",
+      "title": "Mutáció a rágcsálókban, ami veszélyeztetheti az emberiséget",
+      "summary": "Egerek 84, patkányok 35%-a hordoz egy mutációt, amely komoly egészségügyi problémákat okozhat az emberiség számára. A kutatók sürgősen vizsgálják a mutáció emberre gyakorolt lehetséges hatásait.",
       "importance": 4
     },
     {
-      "title": "A csupasz turkáló királynőinek uralmának 'szent grálja' megfejtve",
-      "summary": "A csupasz turkálók kutatásának „szent grálja” megfejtette, hogyan uralkodnak a királynőik a kolóniában. Egy egyszerű vegyület segítségével szabályozzák a szaporodást és a társadalmi rendet ebben az egyedülálló állatfajban.",
-      "importance": 3
+      "title": "Az élelmiszerrendszerek átalakítása globális hatással",
+      "summary": "Az élelmiszerrendszerek átfogó átalakítása alapjaiban változtatná meg a globális mezőgazdaságot és élelmezést. Ez a transzformáció kulcsfontosságú lehet a fenntarthatóság és a környezetvédelem szempontjából.",
+      "importance": 4
     }
   ],
   "sports": [
     {
       "title": "Kettős győzelemmel jutott tovább a Fradi az Európa-ligában",
-      "summary": "A Ferencváros kettős győzelemmel, magabiztosan jutott be az Európa-liga második selejtezőfordulójába. A siker a magyar futball számára is fontos előrelépést jelent a nemzetközi porondon.",
+      "summary": "A Ferencváros kettős győzelemmel, magabiztosan jutott be az Európa-liga selejtezőjének második fordulójába. A magyar csapat tovább folytatja menetelését a nemzetközi porondon.",
       "importance": 4
     },
     {
-      "title": "Messi és Lamine Yamal: egy generációs történet a futballban",
-      "summary": "Egy elgondolkodtató anekdota, miszerint Lionel Messi húsz éve még 'babakádban fürdette' a most feltörekvő Lamine Yamalt. Ez a történet a futball generációs különbségeit és a sportág folyamatos megújulását szimbolizálja.",
-      "importance": 4
-    },
-    {
-      "title": "Horvát és magyar focistagyerekek lehetőségei közötti különbségek",
-      "summary": "Egy elemzés hasonlítja össze a horvát és magyar fiatal focisták lehetőségeit és körülményeit. Rávilágít arra, hogy milyen tényezők segítik vagy hátráltatják a tehetségek kibontakozását a két országban.",
+      "title": "Megvan a Debrecen ellenfele a Konferencia-ligában",
+      "summary": "A Debrecen megtudta, ki lesz az ellenfele a Konferencia-liga selejtezőjében, folytatva ezzel európai kupakalandját. A csapat felkészülhet a következő megmérettetésre.",
       "importance": 3
     },
     {
-      "title": "Kiderült a Debrecen ellenfele a Konferencia-liga selejtezőjében",
-      "summary": "A DVSC megtudta, kivel mérkőzik meg a Konferencia-liga selejtezőjének következő fordulójában. A nemzetközi szereplés fontos kihívás és lehetőség a csapat számára, hogy bizonyítson Európában.",
+      "title": "Messi és Lamine Yamal találkozása a vb-döntőben",
+      "summary": "A futballvilág egy különleges történetről beszél, amely szerint húsz éve Messi babakádban fürdette a mostani vb-döntős Lamine Yamalt. Ez a generációs különbség ellenére is felejthetetlen pillanatot ígér a döntőben.",
+      "importance": 3
+    },
+    {
+      "title": "Horvát és magyar focistagyerekek fejlesztési különbségei",
+      "summary": "Egy elemzés hasonlítja össze, hogy mit kapnak meg a horvát és a magyar focistagyerekek a képzésük során. Ez rávilágít a magyar utánpótlás-nevelés esetleges hiányosságaira és fejlesztési lehetőségeire.",
       "importance": 3
     }
   ]

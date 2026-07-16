@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Vádat emeltek egy ukrán fiatal ellen, aki egy drónt reptetett volna a lengyel elnök autója fölé",
+      "link": "https://telex.hu/kulfold/2026/07/16/ukran-szabotazsakcio-lengyelorszag-elokeszites-vad",
+      "summary": "A 18 éves Ilja K. bűnlajstroma ennél jóval hosszabb, ráadásul az oroszoknak dolgozott."
+    },
+    {
       "title": "Az Operettszínház főigazgatója megírta a társulatnak, miért nem érinti őket Orbán János Dénes botránya",
       "link": "https://telex.hu/karakter/kultura/2026/07/16/operettszinhaz-tarsulat-kmtg-orban-janos-denes",
       "summary": "A társulat a kevesebb bemutató és a csökkent előadásszám hátterére volt kíváncsi."
@@ -69,11 +74,6 @@
       "title": "Beigazolódott a gyanú, új majomfajra bukkantak Kongó erdeiben",
       "link": "https://telex.hu/techtud/2026/07/16/afrika-kongoi-demokratikus-koztarsasag-felfedezes-majom-allat",
       "summary": "A helyiek már húsz éve ismerik Likweliként, most kapott egy sokkal unalmasabb latin nevet."
-    },
-    {
-      "title": "A NAV vizsgálja az ukrán pénzszállító elleni akciót, és annyit megerősített, hogy két vezetőt leváltottak",
-      "link": "https://telex.hu/belfold/2026/07/16/nav-vezeto-levaltas-aranykonvoj-ukran-penszallito-eljaras",
-      "summary": "Egyes intézkedéseknél szabálytalanságot állapítottak meg, ezért a hivatal újabb átvilágítást rendelt el."
     }
   ],
   "Portfolio": [],
@@ -238,14 +238,19 @@
       "summary": "The London mayor is to be joined by broadcaster June Sarpong and former union chief Christina McAnea in the Lords."
     },
     {
+      "title": "Burnham to promise new path for UK when he becomes new Labour leader",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week."
+    },
+    {
       "title": "Fifa 'assessing match reports' over Falklands banner",
       "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
       "summary": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support of their country's claims to the Falkland Islands."
     },
     {
-      "title": "Why you should care about the third-place play-off between England and France",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off."
+      "title": "Blasts reported in Iran as US launches new wave of strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says its attacks aim to \"further degrade Iranian military capabilities\", as fighting continued for the sixth day in a row."
     },
     {
       "title": "Couples free to marry at the beach or the pub in England and Wales under new plans",
@@ -283,11 +288,6 @@
       "summary": "Courtney Gartshore, 28, denied the culpable homicide of her three-month-old daughter Dahlia-Rose."
     },
     {
-      "title": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island."
-    },
-    {
       "title": "Teenager's inquest to reopen after mum's campaign",
       "link": "https://www.bbc.co.uk/news/articles/c79y9qnp340o?at_medium=RSS&at_campaign=rss",
       "summary": "Ellen Roome believes her son's death in 2022 was as the result of an online challenge gone wrong."
@@ -298,17 +298,22 @@
       "summary": "BBC Sport understands that Thomas Tuchel's defensive tactics in the World Cup semi-final defeat to Argentina are being hotly debated by the England squad."
     },
     {
+      "title": "Why you should care about the third-place play-off between England and France",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly5we2lgq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It might feel like the last thing anyone wants right now - but here is why, actually, you do want to watch the World Cup's third-place play-off."
+    },
+    {
       "title": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
       "summary": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny"
-    },
-    {
-      "title": "What next for England? How does Tuchel fix key problems for Euro 2028?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq56djw19z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The manner of England's World Cup exit was meek, and Thomas Tuchel must now find a way to fix those problems as focus will soon turn to qualifying for Euro 2028."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+      "link": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+      "summary": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack."
+    },
     {
       "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
       "link": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
@@ -378,11 +383,6 @@
       "title": "Why is OpenAI selling a ChatGPT basketball?",
       "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
       "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
-    },
-    {
-      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence."
     }
   ],
   "Nature": [

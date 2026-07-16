@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Az összeomlás elmaradt, de tartósan drágulhat az üzemanyag a hormuzi káosz miatt",
+      "link": "https://telex.hu/g7/vilag/2026/07/16/hormuzi-valsag-osszeomlas-elmaradt-tartos-dragulas-uzemanyag-iran-usa",
+      "summary": "Hiába jósoltak sokan 200 dolláros olajárat és a 70-es évekhez hasonló energiaválságot, enyhébb maradt a háború energiapiaci hatása. Arra viszont kevés esély van, hogy visszatérjen a régi világ."
+    },
+    {
       "title": "Argentin szövetségi kapitány a vb-döntőbe jutás után: Egyedülállóak vagyunk, és ez nem arrogancia",
       "link": "https://telex.hu/sport/2026/07/15/argentin-szovetsegi-kapitany-lionel-scaloni-vb-elodonto-anglia-2-1-gyozelem-ertekeles-lautaro-martinez",
       "summary": "Lionel Scaloni szerint az argentin mez megköveteli tőlük, hogy mindig az utolsó pillanatig küzdjenek."
@@ -69,11 +74,6 @@
       "title": "Orbán János Dénes ügyének tisztázását követeli az Operettszínház társulata",
       "link": "https://telex.hu/karakter/kultura/2026/07/15/operettszinhaz-orban-janos-denes-muvei-jogdijak-szazmilliok",
       "summary": "A színház vezetése korábban forráshiányra panaszkodott, eközben a szakmai vezető Orbán nagy összegű közpénzt kapott jogdíjként."
-    },
-    {
-      "title": "A romló budapesti közbiztonság miatt sürgős intézkedést kérnek a kormánytól a belső kerületek polgármesterei",
-      "link": "https://telex.hu/belfold/2026/07/15/budapest-erzsebetvaros-niedermuller-peter-kozbiztonsag-kormany-szocialis-krizis",
-      "summary": "Közös levelük szerint az utcákon egyre több a probléma, amit a kormánynak kell kezelnie."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,16 @@
   ],
   "HVG": [
     {
+      "title": "Marabu Féknyúz: Önkény",
+      "link": "https://hvg.hu/itthon/20260716_marabu-feknyuz-onkeny",
+      "summary": "Jó hírek érkeztek."
+    },
+    {
+      "title": "Szijjártó kicsekkol, a Fidesz pedig úgy tűnik, éppen szétesik – Newscast",
+      "link": "https://hvg.hu/itthon/20260716_szijjarto-kicsekkol-a-fidesz-pedig-ugy-tunik-eppen-szetesik-newscast",
+      "summary": "Míg Orbán focit néz, Gulyás Gergely lelép a frakció éléről, Szijjártó Péter a politikából, Ferencz Orsolya pedig a Fideszből – talán Navracsics Tiborral együtt. Hajdu János vallomást tett az aranykonvoj-ügyben, két NAV-os vezetőt pedig kirúgtak miatta. Szabó Bence villámkarriert csinált. Meghalt Szánthó Imre, vagyis Öcsi bácsi. Ez a Newscast, a HVG hétköznap reggelente jelentkező hírpodcastja."
+    },
+    {
       "title": "„A Falkland-szigetek Argentínához tartoznak” – provokatív transzparenssel ünnepelték a vb-döntőbe jutást az argentinok",
       "link": "https://hvg.hu/sport/20260715_foci-vb-2026-argentina-anglia-falkland-szigetek-transzparens-molino-unneples",
       "summary": "A molinót az egyik szurkoló adta oda az argentin játékosoknak."
@@ -219,33 +229,23 @@
       "title": "L. Simon László: Orbán János Dénes pénzügyei joggal sokkolták a teljes magyar irodalmi életet",
       "link": "https://hvg.hu/kultura/20260715_l-simon-laszlo-orban-janos-denes-penzugy-magyar-irodalom-eletet-jogos-sokkol",
       "summary": "Az egykori kulturális államtitkár „azt találná a legelegánsabbnak”, ha Orbán János Dénes lemondana a Magyar Művészeti Akadémia-beli tagságáról."
-    },
-    {
-      "title": "Ellopták Kolodko Mihály miniszobrát a Városligetből",
-      "link": "https://hvg.hu/elet/20260715_zuglo-vasorliget-kolodko-mihaly-drakula-miniszobor-lopas",
-      "summary": "A Drakulát ábrázoló szobor a Vajdahunyad vára mellől tűnt el."
-    },
-    {
-      "title": "Gyönyörű és lélegzetelállító képeskönyv az Odüsszeia Christopher Nolan kezében",
-      "link": "https://hvg.hu/kultura/20260715_odusszeia-christopher-nolan-kritika-matt-damon-ebx",
-      "summary": "Képtelenség lenne grandiózusabb módon bemutatni a trójai háború végét és Odüsszeusz hazatérésének legendáját, mint ahogyan azt a Csillagok között és az Oppenheimer rendezője teszi új filmjében. Aki ezt várta a vadonatúj, negyedmilliárd dollárból készült Odüsszeiától, aligha fog csalódni. De mi van a többiekkel? Kritika."
     }
   ],
   "BBC": [
+    {
+      "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?"
+    },
     {
       "title": "William tells England to 'hold their heads high' after loss",
       "link": "https://www.bbc.co.uk/news/articles/c5y68dgnylxo?at_medium=RSS&at_campaign=rss",
       "summary": "The Prince of Wales says England has \"inspired us all\" as he offers his commiserations over the loss to Argentina."
     },
     {
-      "title": "'We had the spirit': England fans on semi-final loss to Argentina",
-      "link": "https://www.bbc.co.uk/news/videos/c62e47le4e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina scored two late goals to secure their spot in the final against Spain."
-    },
-    {
-      "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
-      "summary": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes."
+      "title": "Argentina face action after waving Falklands banner",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
     },
     {
       "title": "Iain Watson: Burnham faces crucial choice for chancellor as battle for No 11 continues",
@@ -253,9 +253,29 @@
       "summary": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson."
     },
     {
-      "title": "Man arrested over social media post threatening to shoot Farage",
-      "link": "https://www.bbc.co.uk/news/articles/c8r2r76vnd1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Met Police says a man in his 20s was held in south London this week on suspicion of sending threatening communications to an MP."
+      "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
+      "link": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England."
+    },
+    {
+      "title": "Weekend cooldown to mark end of heatwave for some",
+      "link": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England."
+    },
+    {
+      "title": "New monkey species with orange lips found 'hiding' in DRC forest",
+      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
+    },
+    {
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+      "summary": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below."
+    },
+    {
+      "title": "Orange haze from Canada wildfires seen in Ontario and northern US",
+      "link": "https://www.bbc.co.uk/news/videos/c62q3kw126xo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are currently 838 wildfires actively burning across the country, according to the Canadian Interagency Forest Fire Centre."
     },
     {
       "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
@@ -268,29 +288,14 @@
       "summary": "The film, starring Matt Damon and Zendaya, is director Sir Christopher Nolan's first since Oppenheimer."
     },
     {
-      "title": "Dramatic video shows wildfire surround freight train in Canada",
-      "link": "https://www.bbc.co.uk/news/videos/cwy0yyzdqxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "CN Rail told the BBC that operations were temporarily suspended in the affected area in the province of Ontario."
-    },
-    {
-      "title": "SpaceX share price drops below stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago."
-    },
-    {
-      "title": "Covid fraudsters spent thousands on cars and watches",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7jj59x20o?at_medium=RSS&at_campaign=rss",
-      "summary": "The NCA says the group claimed they could supply millions of boxes of nitrile gloves."
-    },
-    {
       "title": "Salary information to be shown on job ads under new laws",
       "link": "https://www.bbc.co.uk/news/articles/ckg7gg2zdexo?at_medium=RSS&at_campaign=rss",
       "summary": "The government argues the move would help jobseekers and could reduce pay discrimination claims."
     },
     {
-      "title": "Argentina face fine for Falklands banner in semi-final win",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-      "summary": "Argentina face the prospect of a Fifa fine after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands."
+      "title": "'We had the spirit': England fans on semi-final loss to Argentina",
+      "link": "https://www.bbc.co.uk/news/videos/c62e47le4e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina scored two late goals to secure their spot in the final against Spain."
     },
     {
       "title": "Argentina shatter England's World Cup dreams in semi-final",
@@ -301,14 +306,19 @@
       "title": "Argentina fans celebrate World Cup win over England",
       "link": "https://www.bbc.co.uk/news/videos/c235lvr13vpo?at_medium=RSS&at_campaign=rss",
       "summary": "Argentina fans at home and in the US celebrate their progression to the World Cup final."
-    },
-    {
-      "title": "Final two World Cup matches to be shown live on BBC",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8xn7178x1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Saturday's World Cup third-place play-off between England and France and Sunday's World Cup final will both be  live on BBC TV."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+      "link": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+      "summary": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders."
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+    },
     {
       "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
       "link": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
@@ -373,16 +383,6 @@
       "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
       "link": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
       "summary": "If completed, the acquisition would unite two of the biggest names in digital payments."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode’s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded Fractional AI, [&#8230;]"
     }
   ],
   "Nature": [

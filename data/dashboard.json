@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter bejelentette, milyen változtatások jönnek a céges adórendszerben",
-      "summary": "Magyar Péter gazdasági programjának részeként öt adófajta, köztük a KATA és az iparűzési adó eltörlését ígéri. Célja egy egyszerűbb és igazságosabb adórendszer megteremtése a vállalkozások számára.",
+      "title": "Az IKEA-sztrájk egy hét haladék után folytatódhat",
+      "summary": "Az IKEA vezetőségének egy hét türelmi időt adott a szakszervezet a bértárgyalásokra. Ha nem születik egyezség, országos, egész napos sztrájkok várhatók az áruházakban.",
       "importance": 5
     },
     {
-      "title": "Négy ügyben az Alkotmánybírósághoz fordul a Fidesz",
-      "summary": "A Fidesz négy frissen elfogadott törvény ügyében az Alkotmánybírósághoz fordul, amelyek a pedofiltörvény módosítását, a jogállamiság erősítését és a közérdekű adatok hozzáférését érintik. A lépés politikai feszültséget jelez a kormánypárton belül.",
+      "title": "NAV nyomozás indult a Gondosóra program ügyében",
+      "summary": "Költségvetési csalás gyanúja miatt indított nyomozást a Nemzeti Adó- és Vámhivatal a Gondosóra programmal kapcsolatban. Az ügy a közpénzek felhasználásának szabályosságát vizsgálja.",
+      "importance": 5
+    },
+    {
+      "title": "Százmilliós kártérítés a Mediaworksnek lejárató kampány miatt",
+      "summary": "A bíróság első fokon 100 millió forint kártérítés megfizetésére kötelezte a Mediaworks-öt egy meleg házaspárt lejárató kampány miatt. Az ítélet a sajtószabadság és a személyiségi jogok ütközésére hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Százmilliós kártérítést ítéltek meg a meleg házaspárnak a Mediaworks lejárató kampánya miatt",
-      "summary": "Egy meleg házaspár 100 millió forintos kártérítést nyert a Mediaworks ellen egy lejárató kampány miatt, melyben szivárványcsaládjukat támadták. Az ítélet precedensértékű lehet a gyűlöletkeltő média ellen.",
-      "importance": 4
-    },
-    {
-      "title": "Felülvizsgálják a választás előtt Tiborcz Istvánnak 10 évre bérbe adott Papp László Sportaréna szerződéseit",
-      "summary": "A kormány vizsgálatot indított a Papp László Sportaréna bérbeadásával kapcsolatos szerződések ügyében, melyeket a választások előtt 10 évre Tiborcz István cége kapott. A döntés a közvagyon kezelésének átláthatóságát érinti.",
+      "title": "Magyar Péter adórendszer-reform javaslatot jelentett be",
+      "summary": "Magyar Péter bejelentette javaslatait a céges adórendszer megváltoztatására, amely öt adófajta eltörlését is magában foglalná. A tervek szerint csökkentenék a vállalkozások terheit és ösztönöznék a gazdasági növekedést.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Burnham a kabinetjét véglegesíti, mielőtt hétfőn miniszterelnök lesz",
-      "summary": "Andy Burnham készen áll, hogy hétfőn Nagy-Britannia miniszterelnöke legyen, kabinetjét véglegesíti. Ígéretei szerint hatalmas változásokat hoz, azonban a megvalósítás részletei még kérdésesek.",
+      "title": "Eszkalálódik az amerikai-iráni konfliktus",
+      "summary": "Az Egyesült Államok és Irán kölcsönösen egymás infrastruktúráját célozza, tovább élezve a térségbeli feszültséget. Washington tagadja, hogy iráni polgári célpontokat támadott volna.",
       "importance": 5
     },
     {
-      "title": "Irán azzal vádolja az Egyesült Államokat, hogy polgári infrastruktúrát támadott",
-      "summary": "Irán azzal vádolja az Egyesült Államokat, hogy polgári infrastruktúrát támadott, ami tovább élezi a két ország közötti feszültséget. Az incidensre a régió amúgy is robbanásveszélyes helyzetében került sor.",
+      "title": "Zelenszkijt éles kritikák érik távozó munkatársától",
+      "summary": "Volodimir Zelenszkij ukrán elnök sosem kapott még akkora nyilvános kritikát távozó magas rangú munkatársától, mint most. Ez az eset belső feszültségeket jelez az ukrán vezetésben a háború idején.",
+      "importance": 5
+    },
+    {
+      "title": "Orosz háborúellenes elnökjelöltet ítéltek el",
+      "summary": "Elítélték az egyetlen nyíltan háborúellenes orosz elnökjelöltet, miután egy videójában Alekszej Navalnij képét mutatta. Az eset tovább súlyosbítja a politikai ellenvélemény elfojtását Oroszországban.",
       "importance": 4
     },
     {
-      "title": "A tálibok elkezdték betiltani az okostelefonokat Afganisztánban",
-      "summary": "A tálibok Afganisztánban betiltották az okostelefonokat, azzal az indoklással, hogy még kikapcsolva is kémkedésre alkalmasak. Az intézkedés a digitális szabadság és a modern technológia korlátozását jelenti az országban.",
-      "importance": 4
-    },
-    {
-      "title": "Belarusz szabadulna az orosz medve öleléséből, de nem tud",
-      "summary": "Belarusz próbálja csökkenteni Oroszország befolyását, azonban a szoros politikai és gazdasági kötelékek miatt nehezen tud kilépni az orosz 'medve öleléséből'. Az ország függetlenségi törekvései nagy kihívásokba ütköznek.",
+      "title": "Andy Burnham a brit miniszterelnöki poszt előtt",
+      "summary": "Andy Burnham, a Munkáspárt vezető alakja, a kabinetjét véglegesíti, mielőtt hétfőn elfoglalná a miniszterelnöki hivatalt. Kinevezése jelentős politikai változást hozhat az Egyesült Királyságban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Amazon javít egy hibát, ami miatt egyes AWS ügyfeleknek milliárd dolláros számlákat küldtek",
-      "summary": "Az Amazonon belül egy szoftverhiba miatt több AWS ügyfélnek milliárd dolláros számlákat küldtek ki, amit a cég már javít. Az eset rávilágít a felhőszolgáltatások skálázhatóságának és hibakezelésének kihívásaira.",
+      "title": "Az Apple pert indít az OpenAI ellen",
+      "summary": "Az Apple jelentős peres eljárást indított az OpenAI ellen, amely potenciálisan felboríthatja az utóbbi tőzsdére lépési terveit. Ez a lépés komoly következményekkel járhat az AI-iparág jövőjére nézve.",
       "importance": 5
     },
     {
-      "title": "A SpaceX hirtelen megszakította a Starship V3 második indítását a gyújtás után",
-      "summary": "A SpaceX hirtelen megszakította a Starship V3 második indítását a gyújtás után, ami késlelteti a cég űrprogramjának előrehaladását. A váratlan leállás a komplex rendszerek tesztelésének nehézségeit mutatja.",
+      "title": "Az Amazon AWS-hibája milliárdos számlákat okozott",
+      "summary": "Az Amazon javít egy hibát, amely tévesen milliárd dolláros összegeket számlázott ki egyes AWS-ügyfeleknek. Ez az eset rávilágít a felhőszolgáltatások megbízhatóságának és a számlázási rendszerek pontosságának fontosságára.",
+      "importance": 5
+    },
+    {
+      "title": "A SpaceX Starship V3 indításának megszakítása",
+      "summary": "A SpaceX hirtelen megszakította a második Starship V3 indítást a gyújtás után. A probléma okát vizsgálják, ami késleltetheti a további tesztrepüléseket és a Mars-missziók felkészülését.",
       "importance": 4
     },
     {
-      "title": "A Patreon már nem kéri, hanem blokkolja az AI botokat a tartalmak feltérképezésében",
-      "summary": "A Patreon felhagyott azzal, hogy megkérje az AI botokat a tartalmak nem feltérképezésére, és ehelyett blokkolni kezdi őket. Ez a lépés jelentős fordulatot jelent a tartalomkészítők jogainak védelmében az AI-korszakban.",
-      "importance": 4
-    },
-    {
-      "title": "A Zoox szoftvervisszahívást hajtott végre, miután egy robotaxi zavarba jött sűrű füstben",
-      "summary": "A Zoox szoftvervisszahívást hajtott végre, miután az egyik robotaxi nehézségekbe ütközött sűrű füstben, ami zavart okozott a rendszerben. Az eset rávilágít az önvezető járművek valós körülmények közötti megbízhatóságának fontosságára.",
+      "title": "Az okostelefon-eladások 13 éves mélyponton",
+      "summary": "A globális okostelefon-eladások 13 éves mélypontra zuhantak a memóriachipek hiánya miatt. Ez a trend a félvezető-ipar és a fogyasztói elektronikai piac kihívásait tükrözi.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Ház tetejére esett egy meteorit, kiderült, hogy az élet építőköveit tartalmazza",
-      "summary": "Egy ház tetejére zuhant meteorit vizsgálatakor kiderült, hogy az az élet építőköveit, azaz szerves molekulákat tartalmaz. Ez a felfedezés újabb bizonyítékot szolgáltat arra, hogy az élet összetevői más égitestekről is származhatnak.",
+      "title": "Élet építőköveit találták egy meteoritban",
+      "summary": "Egy ház tetejére esett meteoritban fedezték fel az élet alapvető építőköveit. Ez a felfedezés megerősítheti azt az elméletet, hogy az élet alapjai az űrből érkezhettek a Földre.",
       "importance": 5
     },
     {
-      "title": "Szuperföldet találtak a Naprendszer mellett, légköre is van",
-      "summary": "A tudósok egy 'Szuperföld' típusú exobolygót fedeztek fel a Naprendszeren kívül, amelynek légköre is van és a csillagától lakható zónában található. Ez a felfedezés nagy lépés a Földön kívüli élet kutatásában.",
+      "title": "Légkörös szuperföldet találtak a Naprendszeren kívül",
+      "summary": "Felfedeztek egy Naprendszeren kívüli, sziklás szuperföldet, amely rendelkezik légkörrel. Ez a bolygó potenciálisan alkalmas lehet az élet hordozására, és új távlatokat nyit a lakható exobolygók kutatásában.",
       "importance": 5
     },
     {
-      "title": "Újraírták a humanoid robot szoftverét, az eredmény a kutatókat is meglepte",
-      "summary": "Egy humanoid robot szoftverének újraírása meglepő eredményeket hozott a kutatók számára, ami új lehetőségeket nyithat a robotika fejlődésében. A robot viselkedése és képességei jelentősen javultak a beavatkozásnak köszönhetően.",
+      "title": "Férfi termékenység helyreállítása szövetátültetéssel",
+      "summary": "Tudósoknak sikerült helyreállítaniuk egy férfi spermiumtermelő képességét hereszövet-átültetéssel. Ez az áttörés új reményt adhat a meddőséggel küzdő férfiaknak.",
       "importance": 4
     },
     {
-      "title": "13 éves mélyponton az okostelefon-eladások a memóriaválság miatt",
-      "summary": "Az okostelefon-eladások 13 éves mélypontra estek a globális memóriaválság következtében, ami jelentős hatással van a techiparra és a fogyasztói piacra. A jelenség rávilágít a globális ellátási láncok és a chipek fontosságára a modern technológiában.",
-      "importance": 3
+      "title": "CRISPR hatékonyságának növelése mesterséges intelligenciával",
+      "summary": "A CRISPR génszerkesztési technológia hatékonyságát mesterséges intelligencia által tervezett 'molekuláris ollókkal' sikerült fokozni. Ez az innováció pontosabb és szélesebb körű genetikai beavatkozásokat tehet lehetővé.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Hosszabbított a Liverpoolban Szoboszlai Dominik",
-      "summary": "Szoboszlai Dominik meghosszabbította szerződését a Liverpool labdarúgóklubbal, így hosszú távon a csapat oszlopos tagja marad. A hír nagy öröm a magyar és a nemzetközi szurkolók körében is.",
+      "title": "Zidane lesz a francia labdarúgó-válogatott új kapitánya",
+      "summary": "Zinedine Zidane-t nevezték ki a francia labdarúgó-válogatott következő szövetségi kapitányává. A korábbi sztárjátékos és sikeres klubedző kinevezése nagy várakozásokat kelt a szurkolók körében.",
       "importance": 5
     },
     {
-      "title": "Az MLSZ 15 milliárd forintot kap az MTVA-tól és a Szerencsejáték Zrt-től egy évre",
-      "summary": "A Magyar Labdarúgó Szövetség (MLSZ) 15 milliárd forint támogatást kap az MTVA-tól és a Szerencsejáték Zrt-től egy évre. Az összeg jelentős forrást biztosít a magyar labdarúgás fejlesztésére.",
+      "title": "Az MLSZ 15 milliárd forintos támogatást kap",
+      "summary": "A Magyar Labdarúgó Szövetség (MLSZ) 15 milliárd forintot kap az MTVA-tól és a Szerencsejáték Zrt.-től egy évre. Ez a jelentős összeg a magyar labdarúgás fejlesztését és működését segíti.",
       "importance": 4
     },
     {
-      "title": "Veszélyes a levegő minősége a vb-döntő helyszínén, a spanyolok mégis kint tartottak edzést",
-      "summary": "A világbajnoki döntő helyszínén veszélyes a levegő minősége, ennek ellenére a spanyol válogatott szabadtéri edzést tartott. Az eset aggályokat vet fel a sportolók egészségét illetően a nagy versenyeken.",
+      "title": "Elhunyt Garfield Sobers, a krikett ikonja",
+      "summary": "Elhunyt Garfield Sobers, akit az 'ultimate all-round sportsman' néven is ismertek a krikett világában. Pályafutása során kiemelkedő teljesítményével forradalmasította a sportágat.",
       "importance": 3
     },
     {
-      "title": "Elhunyt Garfield Sobers, a Nyugat-indiai krikett legendája",
-      "summary": "89 éves korában elhunyt Garfield Sobers, a Nyugat-indiai krikett legendája, akit sokan minden idők legnagyobb játékosának tartottak. Halála mélyen érintette a krikett világát.",
-      "importance": 4
+      "title": "Nincs további releváns sport hír",
+      "summary": "A rendelkezésre álló forrásokból nem volt elegendő negyedik, önállóan fontos sportszakmai hír választható a többi kategória kiválasztott híreivel egyenértékű fontossággal.",
+      "importance": 1
     }
   ]
 }

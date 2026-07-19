@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Politico szerint saját magát rúgta ki Sulyok Tamás",
-      "summary": "A Politico forrásokra hivatkozva állítja, hogy Sulyok Tamás köztársasági elnök saját akaratából mondott le, nem pedig kényszer hatására. Ez a hír jelentős politikai vihart kavart a hazai közéletben.",
+      "title": "Polgár Juditot javasolják köztársasági elnöknek",
+      "summary": "Tizenhat ismert tudós, művész és sportoló, köztük Rubik Ernő és Kulka János, Polgár Judit sakkolimpikont jelölte a köztársasági elnöki posztra. Közleményükben kiemelték Polgár Judit nemzetközi elismertségét és értékalapú kiállását.",
       "importance": 5
     },
     {
-      "title": "Gajdos László szerint megszűnt Polt Péter védettsége",
-      "summary": "Gajdos László jogász bejelentette, hogy Polt Péter legfőbb ügyész mandátuma lejárt, így megszűnt a védettsége. Ez a lépés potenciálisan új jogi eljárásokat tehet lehetővé, és komoly jogpolitikai vitákat generált.",
-      "importance": 4
-    },
-    {
-      "title": "Visszakerülhet az államhoz a KEKVÁ-kba kiszervezett vagyon",
-      "summary": "Görög Márta igazságügyi miniszter bejelentette, hogy az állami vagyon, melyet korábban közfeladatot ellátó közérdekű vagyonkezelő alapítványokba (KEKVÁ) szerveztek ki, visszakerülhet az államhoz. Ez jelentős változást hozhat az állami vagyonkezelésben és az alapítványok szerepében.",
+      "title": "A Politico szerint Sulyok Tamás maga okozta lemondását",
+      "summary": "A Politico európai kiadása szerint Sulyok Tamás köztársasági elnök saját kijelentéseivel ásta meg a sírját, ami végül lemondásához vezetett. Az elemzés rávilágít, hogy a hazai és nemzetközi sajtóban megjelent kritikák alapozták meg a lépést.",
       "importance": 4
     },
     {
       "title": "Szijjártó Péter segítséget ajánlott Szegednek a BYD-ügyben",
-      "summary": "Szijjártó Péter külgazdasági és külügyminiszter felhívta Szeged polgármesterét, felajánlva a kormány segítségét a BYD elektromosautó-gyár építésével kapcsolatos ügyekben. Ez a kormányzati beavatkozás kritikus a nagyszabású beruházás sikeréhez.",
-      "importance": 3
+      "summary": "Szijjártó Péter külgazdasági és külügyminiszter felhívta Szeged polgármesterét, Botka Lászlót, hogy felajánlja segítségét a városnak a BYD autógyár tervezett beruházásával kapcsolatban. A tárcavezető hangsúlyozta a kormányzati támogatás fontosságát a projekt megvalósításában.",
+      "importance": 4
+    },
+    {
+      "title": "Visszakerülhet az államhoz a KEKVÁ-kba kiszervezett vagyon",
+      "summary": "Görög Márta igazságügyi miniszter bejelentette, hogy dolgoznak azon a jogi megoldáson, amellyel a közérdekű vagyonkezelő alapítványokba (KEKVÁ) kiszervezett állami vagyon visszakerülhetne az állam tulajdonába. Ez jelentős változást hozhat a magyar állam vagyonkezelésében.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Amerika ismét bombázta Iránt két katona halála után",
-      "summary": "Két amerikai katona halálát követően az Egyesült Államok ismét bombázta Iránt, ami tovább élezi a feszültséget a két ország között a Közel-Keleten. Ez egy jelentős katonai válaszreakció, amely destabilizálhatja a régiót.",
+      "title": "Az USA és Irán tűzharcba keveredett két amerikai katona halála után",
+      "summary": "Két amerikai katona jordániai halála után az Egyesült Államok és Irán erői tűzharcba keveredtek. Amerika bombázta Iránhoz köthető célpontokat, köztük egy iráni atomerőművet, ami a térségbeli feszültség súlyos eszkalációját jelenti.",
       "importance": 5
     },
     {
-      "title": "Oroszország ballisztikus rakétákkal támadta az ukrán városokat",
-      "summary": "Oroszország nagyszabású ballisztikus rakétatámadást indított ukrán városok ellen, Kijevet és Juzsnijt is célba véve. A támadások az ukrajnai háború súlyosbodását és a civil infrastruktúra elleni agresszió folytatását jelzik.",
+      "title": "Oroszország nagyszabású ballisztikus rakétatámadást indított ukrán városok ellen",
+      "summary": "Oroszország nagyszabású ballisztikus rakétatámadást hajtott végre több ukrán város, köztük Kijev és Juzsnyi ellen. A támadás újabb súlyos eszkalációt jelent az orosz-ukrán háborúban, civilek és infrastruktúra elleni csapásokkal.",
       "importance": 5
     },
     {
       "title": "Tektonikus változások várhatók a globális hatalmi egyensúlyban",
-      "summary": "Elemzések szerint véget érhet az állóháború a globális hatalmi viszonyokban, ami tektonikus változásokat hozhat a nemzetközi rendben. Ez hosszútávú geopolitikai következményekkel járhat, átalakítva a nemzetközi viszonyokat.",
+      "summary": "Elemezések szerint véget érhet a globális hatalmi állóháború, és tektonikus változások várhatók a nemzetközi erőviszonyokban. Ez a geopolitikai elmozdulás alapjaiban alakíthatja át a világrendet a közeljövőben.",
       "importance": 4
     },
     {
-      "title": "Letartóztatták az Andrew Tate testvéreket az Egyesült Államokban",
-      "summary": "Andrew és Tristan Tate testvéreket ismét letartóztatták az Egyesült Államokban, az Egyesült Királyságban pedig további 59 vádpontot emeltek ellenük. Az ügy széleskörű nemzetközi jogi és médiafigyelmet kapott, kiemelve a nemzetközi bűnüldözés összetettségét.",
+      "title": "Jégeső verte el Bad Bunny milánói koncertjét, többen megsérültek",
+      "summary": "Bad Bunny milánói koncertjét súlyos jégeső verte el, ami pánikot és többszörös sérüléseket okozott a nézők között. A rendezvényt félbe kellett szakítani a váratlan időjárás miatt.",
       "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az Apple-t és a Google-t nudista alkalmazások törlésére kötelezték",
-      "summary": "Az Apple-t és a Google-t arra utasították, hogy távolítsák el alkalmazásboltjaikból az 'nudista' alkalmazásokat, amelyek mesterséges intelligencia segítségével képesek valósághű meztelen képeket generálni. Ez a döntés komoly etikai és adatvédelmi kérdéseket vet fel az AI-használattal kapcsolatban, és precedenst teremthet a tartalommoderálásra.",
+      "title": "Gondolattal vezéreltek egy humanoid robotot Kínában",
+      "summary": "Kínai kutatók áttörő sikert értek el azzal, hogy pusztán emberi gondolatokkal irányítottak egy humanoid robotot. Ez a fejlesztés új utakat nyithat a mesterséges intelligencia és a robotika területén.",
       "importance": 5
     },
     {
-      "title": "Christopher Nolan az AI-t 'trójai falónak' nevezi",
-      "summary": "Christopher Nolan, az 'Odüsszeia' rendezője a mesterséges intelligenciát 'nyilvánvaló trójai falónak' nevezte, ami felhívja a figyelmet az AI lehetséges rejtett veszélyeire. Egy befolyásos személyiség erős véleménye komoly vitát indíthat az AI etikus fejlesztéséről és alkalmazásáról.",
+      "title": "Mesterséges intelligencia által tervezett \"molekuláris ollók\" segítik a CRISPR-t",
+      "summary": "A CRISPR génszerkesztési technológia hatékonyságát mesterséges intelligencia által tervezett \"molekuláris ollók\" növelik, lehetővé téve a precízebb génmódosításokat. Ez az innováció jelentősen felgyorsíthatja az orvosi kutatásokat és a terápiák fejlesztését.",
+      "importance": 5
+    },
+    {
+      "title": "Nonprofit szervezet építi az MI világhálóját",
+      "summary": "Egy nonprofit szervezet, a Current AI azon dolgozik, hogy létrehozza a mesterséges intelligencia \"világhálóját\", amely mindenki számára ingyenesen elérhető lesz. Céljuk egy nyílt és hozzáférhető MI ökoszisztéma kiépítése.",
       "importance": 4
     },
     {
-      "title": "A Databricks értéke elérte a 188 milliárd dollárt",
-      "summary": "A Databricks, az adatelemző és AI platformszolgáltató értéke elérte a 188 milliárd dollárt, megerősítve pozícióját az AI-iparág kulcsszereplőjeként. Ez a jelentős értékelés az AI-ba fektetett befektetői bizalmat tükrözi, és a technológiai szektor dinamizmusát mutatja.",
-      "importance": 4
-    },
-    {
-      "title": "Az AI átalakíthatja a kiberbiztonságot",
-      "summary": "A mesterséges intelligencia teljesen át fogja alakítani a kiberbiztonságot, ami új kihívások elé állítja a kutatókat és a szakembereket. Az AI bevezetése mind a támadó, mind a védekező oldalon alapvető változásokat hoz, hatékonyabb, de komplexebb védelmet ígérve.",
+      "title": "Harc a robotaxik szabályozásáért",
+      "summary": "A robotaxik szabályozása körül továbbra is éles vita zajlik a technológiai cégek, a hatóságok és a közlekedési vállalatok között. A jogi keretek meghatározása kulcsfontosságú az autonóm járművek széles körű elterjedéséhez.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Felfedeztek egy kőzetbolygót atmoszférával – lehetséges, hogy életet hordoz?",
-      "summary": "Csillagászok egy kőzetbolygót fedeztek fel, amelynek atmoszférája is van, ami növeli annak esélyét, hogy az égitest életet hordozhat. Ez a felfedezés jelentős lépés az exobolygók kutatásában, közelebb hozva az idegen élet utáni kutatást.",
+      "title": "Légkörrel rendelkező kőzetbolygót fedeztek fel – rejthet-e életet?",
+      "summary": "Csillagászok egy légkörrel rendelkező kőzetbolygót fedeztek fel a Naprendszeren kívül, ami felveti a kérdést, hogy vajon alkalmas lehet-e az életre. Ez a felfedezés jelentősen hozzájárulhat a lakható exobolygók kutatásához.",
       "importance": 5
     },
     {
-      "title": "Édes! Cukormolekulákat találtak az űrben",
-      "summary": "Rejtélyes cukormolekulákat fedeztek fel a világűrben, ami fontos betekintést nyújthat a komplex szerves anyagok kialakulásába. Ez a felfedezés alapvető jelentőségű az élet eredetének megértéséhez, és a kozmikus kémia kutatásának új távlatokat nyit.",
-      "importance": 5
-    },
-    {
-      "title": "Férfiaknál helyreállították a spermiumtermelő képességet hereállomány-átültetéssel",
-      "summary": "Tudósok sikeresen visszaállították férfiak spermiumtermelő képességét hereállomány-átültetés segítségével. Ez áttörést jelent a meddőségi kezelések terén és a reproduktív orvostudományban, új reményt adva a meddőséggel küzdő pároknak.",
+      "title": "Here-szövetátültetéssel állították vissza a spermiumtermelést férfiaknál",
+      "summary": "Tudósok here-szövetátültetéssel sikeresen állították vissza a spermiumtermelő képességet férfiaknál. Ez az áttörés új reményt adhat a meddőséggel küzdő pároknak és forradalmasíthatja a reproduktív orvostudományt.",
       "importance": 4
     },
     {
-      "title": "Miért sorvadnak az űrhajósok testei? A mitokondriumra mutat egy űrállomás-tanulmány",
-      "summary": "Egy űrállomáson végzett tanulmány szerint az űrhajósok testének sorvadása a mitokondriumok működésével hozható összefüggésbe. Ez a felfedezés alapvető fontosságú az űrben történő hosszú távú emberi tartózkodás megértéséhez és a jövőbeli űrküldetések egészségügyi tervezéséhez.",
+      "title": "Ritka cukormolekulákat találtak az űrben",
+      "summary": "A csillagászok ritka cukormolekulákat azonosítottak a világűrben, ami új információkkal szolgál a komplex szerves anyagok kozmikus képződéséről. Ez a felfedezés segíthet megérteni az élet kialakulásához szükséges alapanyagok eredetét.",
+      "importance": 4
+    },
+    {
+      "title": "Óriási űrtükrökkel a zöldenergia felé? Egy startup vizsgálja",
+      "summary": "Egy startup cég nagyszabású kutatásba kezdett, hogy kiderítse, óriási űrtükrök felhasználásával lehetne-e jelentősen növelni a Földön termelt zöldenergia mennyiségét. A projekt a napenergia gyűjtésének és továbbításának új módjait vizsgálja.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Vingegaard Tour de France-a egy bukás miatt ért véget",
-      "summary": "A második helyen álló Jonas Vingegaard számára egy súlyos bukás miatt ért véget a Tour de France kerékpárverseny. Ez a hír jelentősen befolyásolja a verseny végeredményét és a további küzdelmeket, kiemelve a sportág veszélyeit.",
+      "title": "Bukás miatt véget ért Vingegaard Tour de France-a",
+      "summary": "Jonas Vingegaard, a Tour de France regnáló bajnoka és a jelenlegi verseny második helyezettje egy súlyos bukás következtében kénytelen volt feladni a versenyt. Sérülései miatt nem tudta folytatni a küzdelmet a sárga trikóért.",
       "importance": 5
     },
     {
-      "title": "Antonelli nyerte a Forma–1-es Belga Nagydíjat, növelte előnyét",
-      "summary": "Antonelli nyerte a Forma–1-es Belga Nagydíjat, meglepve a virtuális biztonsági autót, és Leclerc-t is megelőzve ezzel növelte előnyét a pontversenyben. Ez egy kulcsfontosságú eredmény a motorsport szezonjában, amely izgalmasabbá teszi a bajnoki küzdelmet.",
+      "title": "Antonelli nyerte a Forma-1-es Belga Nagydíjat",
+      "summary": "Andrea Kimi Antonelli, a Forma-1 egyik feltörekvő tehetsége meglepetésre nyerte a Belga Nagydíjat, megelőzve Charles Leclerc-t. A virtuális biztonsági autó ellenére is magabiztosan győzött, tovább növelve előnyét a pontversenyben.",
       "importance": 4
     },
     {
-      "title": "A FIFA-t bírálta az Európa Tanács főtitkára a vb-döntőn",
-      "summary": "Az Európa Tanács főtitkára a labdarúgó-világbajnokság döntőjének napján bírálta a FIFA-t, mondván, hogy a politikai befolyás megjelent a pályán. Ez a kritika komoly kérdéseket vet fel a sport és a politika kapcsolatáról, és a FIFA integritását is érinti.",
+      "title": "Az Európa Tanács főtitkára kritizálta a FIFA-t a politikai befolyás miatt",
+      "summary": "Az Európa Tanács főtitkára, Marija Pejčinović Burić élesen bírálta a FIFA-t a világbajnoki döntő napján, arra hivatkozva, hogy a politikai befolyás megjelent a pályán. Kiemelte, hogy a sportnak függetlennek kell maradnia a politikai nyomástól.",
       "importance": 4
     },
     {
-      "title": "Messi a történelem küszöbén – ez lesz az utolsó vb-meccse?",
-      "summary": "Lionel Messi a labdarúgó-világbajnokságon a történelem küszöbén áll, és felmerül a kérdés, hogy ez lesz-e az utolsó vb-mérkőzése. Ez a hír egy futballikon pályafutásának kulcsfontosságú pillanatát jelöli, izgalmat keltve a szurkolók körében.",
-      "importance": 4
+      "title": "A FIFA felülvizsgálja az ivószüneteket népszerűtlenségük miatt",
+      "summary": "A labdarúgó-mérkőzéseken bevezetett ivószünetek nem bizonyultak népszerűnek a játékosok és a szurkolók körében, ezért a FIFA felülvizsgálja alkalmazásukat. A szünetek célja a játékosok hidratálása volt, de gyakran megakasztották a játék lendületét.",
+      "importance": 3
     }
   ]
 }

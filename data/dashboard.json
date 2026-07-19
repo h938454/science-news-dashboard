@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Forsthoffer Ágnes látja el ideiglenesen a köztársasági elnöki feladatokat",
-      "summary": "Hétfőtől Forsthoffer Ágnes tölti be ideiglenesen a köztársasági elnöki pozíciót. A felkérésre reagálva megtisztelő bizalmukat kérte a polgároktól, ami jelentős politikai fejlemény Magyarországon.",
+      "title": "Sulyok Tamás tiltakozik az alaptörvény-módosítás ellen",
+      "summary": "A köztársasági elnök határozatban fejezte ki nemtetszését az alaptörvény tervezett módosítása kapcsán, verbális abúzussal vádolva a folyamatot. A Politico szerint ez a lépés végül saját pozíciójának megkérdőjelezéséhez vezethetett.",
       "importance": 5
     },
     {
-      "title": "Hende Csaba sem maradhat alkotmánybíró egy korábbi törvény miatt",
-      "summary": "Egy korábbi törvényi szabályozás értelmében Hende Csaba sem töltheti be tovább az alkotmánybírói pozíciót. Ez a döntés újabb jelentős személyi változást jelent az Alkotmánybíróságon belül.",
+      "title": "Milliárdokkal gyarapodott Palkovics László barátja és bizalmasa",
+      "summary": "Palkovics László korábbi miniszter bizalmasának cégei több milliárd forintos állami megrendelésekhez jutottak, kihasználva a kormány szoftverfüggőségét. A gyanú szerint összeférhetetlenség és befolyásolás merült fel.",
+      "importance": 5
+    },
+    {
+      "title": "Gajdos László: Polt Péter védettsége megszűnt",
+      "summary": "Gajdos László bejelentette, hogy Polt Péter legfőbb ügyész védettsége megszűnt, ami potenciálisan új jogi lépések előtt nyitja meg az utat ellene. Az ügy jelentős politikai és jogi visszhangot válthat ki.",
       "importance": 4
     },
     {
-      "title": "A magyar állam 100 milliárd forint K+F-támogatást adott a német Rheinmetallnak",
-      "summary": "A magyar állam mintegy 100-110 milliárd forint kutatás-fejlesztési támogatást nyújtott a német Rheinmetall cégnek. Felmerül a kérdés, hogy ez a jelentős összeg valaha megtérülhet-e, és milyen hatással van a védelmi iparra.",
+      "title": "Hende Csaba alkotmánybírói megbízatása megszűnik",
+      "summary": "Hende Csaba alkotmánybíró nem maradhat tovább pozíciójában egy korábbi törvényi szabályozás értelmében. Ez a döntés az Alkotmánybíróság összetételére nézve is következményekkel járhat.",
       "importance": 4
-    },
-    {
-      "title": "Jelentős változásokat ígértek a gyógyszerfinanszírozásban",
-      "summary": "Hegedűs Zsolt jelentős átalakításokat ígért a gyógyszerfinanszírozási rendszerben, ami közvetlenül érintheti a betegeket és az egészségügyi kiadásokat. Ez a bejelentés komoly hatással lehet a magyar egészségügyre.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Oroszország a háború egyik legnagyobb rakétatámadását zúdította Kijevre",
-      "summary": "Oroszország soha nem látott mértékű, ballisztikus rakétatámadást hajtott végre Kijev ellen éjjel. Ez a háború egyik legsúlyosabb csapása, jelentős pusztítást okozva a fővárosban.",
+      "title": "Oroszország példátlan rakétatámadást indított Kijev ellen",
+      "summary": "Oroszország soha nem látott mennyiségű ballisztikus rakétával támadta Kijevet egyetlen éjszaka alatt. A támadás komoly károkat okozott és újabb eszkalációt jelent a háborúban.",
       "importance": 5
     },
     {
-      "title": "Meghalt két amerikai katona egy iráni támadásban Jordániában",
-      "summary": "Két amerikai katona életét vesztette, egy pedig eltűnt Jordániában egy iráni dróntámadás következtében. Az Egyesült Államok további csapásokkal válaszolt Iránra, fokozva a regionális feszültséget és az eszkaláció veszélyét.",
-      "importance": 5
-    },
-    {
-      "title": "Letartóztatták a Tate fivéreket újabb brit nemi erőszak-vádak miatt",
-      "summary": "Andrew és Tristan Tate-et újabb brit nemi erőszak vádak miatt tartóztatták le az Egyesült Államokban. Az eset nagy nemzetközi figyelmet kapott, mivel a testvérek már korábban is hasonló vádakkal néztek szembe.",
+      "title": "Letartóztatták a Tate fivéreket az Egyesült Államokban",
+      "summary": "Andrew és Tristan Tate testvéreket brit kérésre tartóztatták le az Egyesült Államokban, további vádemelések miatt. Az ügyben összesen 59 vádpontot emeltek ellenük.",
       "importance": 4
     },
     {
-      "title": "Az új uniós határrendszer megháromszorozza az útlevél-ellenőrzés idejét",
-      "summary": "Egy repülőtéri vezető figyelmeztetése szerint az új EU határrendszer jelentősen megnövelheti az útlevél-ellenőrzés idejét. Ez komoly fennakadásokat okozhat a nemzetközi utazásban és a turizmusban.",
-      "importance": 3
+      "title": "Perzselő hőség tombol Szicíliában: rekordot döntött a hőmérséklet",
+      "summary": "Szicíliában példátlan hőhullám tombol, ahol a hőmérséklet elérte a 48,4 fokot, megközelítve az európai rekordot. Az extrém meleg komoly terhet ró a lakosságra és az infrastruktúrára.",
+      "importance": 4
+    },
+    {
+      "title": "Az új EU határrendszer akár háromszorosára növelheti a várakozási időt",
+      "summary": "Egy új európai uniós határrendszer bevezetése a repülőtereken jelentősen meghosszabbíthatja az útlevél-ellenőrzési időt. Az egyik repülőtéri vezető szerint a várakozási idő akár háromszorosára is nőhet.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Megváltoztatják a ChatGPT-t, családivá válhat",
-      "summary": "A ChatGPT-t fejlesztik, hogy alkalmasabbá váljon családi felhasználásra, ami szélesebb körű elterjedést hozhat az AI-asszisztensnek. Ez potenciálisan jelentősen kibővíti a felhasználói bázisát és a mesterséges intelligencia hétköznapi alkalmazását.",
+      "title": "A Facebook fizetős posztolást vezetne be",
+      "summary": "A Facebooknál bedurvultak a változások, egyes hírek szerint akár 210 ezer forintot is kérhetnek azért, hogy valaki szabadon posztolhasson a platformon. Ez a lépés alapjaiban változtathatja meg a közösségi média használatát.",
+      "importance": 5
+    },
+    {
+      "title": "Részlegesen leállt, majd magához tért a Facebook szolgáltatása",
+      "summary": "A Facebook több mint két órán keresztül nem volt elérhető a felhasználók számára, széleskörű leállást okozva. A szolgáltatás később részlegesen, majd teljesen helyreállt.",
       "importance": 4
     },
     {
-      "title": "Az Apple és a Google felszólítást kapott „nudify” alkalmazások eltávolítására",
-      "summary": "Az Apple-t és a Google-t is felszólították, hogy távolítsák el az App Store-jaikból az emberekről valósághű meztelen képeket generáló \"nudify\" alkalmazásokat. Ez a tartalommoderáció és a magánélet védelmének fontos kérdését veti fel a digitális térben.",
+      "title": "Az Apple és a Google eltávolíttatta a „nudify” alkalmazásokat",
+      "summary": "Az Apple és a Google utasítást kapott, hogy távolítsa el a „nudify” jellegű alkalmazásokat az App Store-okból. Ez a lépés a tartalomszűrés és a felhasználói adatvédelem szigorodását jelzi.",
       "importance": 4
     },
     {
-      "title": "A Databricks értékelése elérte a 188 milliárd dollárt",
-      "summary": "A Databricks értékelése elérte a 188 milliárd dollárt, megerősítve pozícióját az AI-iparágban. Ez a jelentős piaci érték az AI szektor gyors növekedését és a felhőalapú adatkezelés fontosságát tükrözi.",
-      "importance": 3
-    },
-    {
-      "title": "Az elektromos autók töltése már nem okoz gondot",
-      "summary": "Egy 600 mérföldes tesztút és az adatok is azt bizonyítják, hogy az elektromos autók töltése már nem jelent akadályt a hosszabb utazások során. Ez a fejlemény kulcsfontosságú az EV-k szélesebb körű elterjedéséhez és a felhasználók bizalmának növeléséhez.",
-      "importance": 3
+      "title": "A Databricks értéke 188 milliárd dollárra ugrott az AI-piacon",
+      "summary": "A Databricks startup 188 milliárd dolláros értékelést ért el, megerősítve pozícióját az AI-iparág kulcsszereplőjeként. A vállalat a mesterséges intelligencia fejlesztésének egyik kedvenc \"második felvonása\" lett.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Először fedeztek fel cukormolekulákat az űrben",
-      "summary": "Tudósok illékony cukormolekulákat azonosítottak a világűrben, ami fontos felfedezés az élet eredetének kutatásában. Ez segíthet megérteni, hogyan épülnek fel az alapvető biológiai molekulák a kozmoszban és a bolygókon.",
+      "title": "Szicíliában 48,4 fokot mértek: rekordközeli hőség Európában",
+      "summary": "Szicília perzselő hőségtől szenved, ahol a hőmérséklet elérte a 48,4 Celsius fokot, megközelítve Európa abszolút hőmérsékleti rekordját. Ez az extrém jelenség rávilágít az éghajlatváltozás súlyosbodó hatásaira.",
       "importance": 5
     },
     {
-      "title": "Felfedeztek egy kőzetbolygót légkörrel, ami életet hordozhat",
-      "summary": "Felfedeztek egy kőzetbolygót, amelynek légköre van, és potenciálisan alkalmas lehet az élet hordozására. Ez a felfedezés az exobolygók kutatásának mérföldköve, és tovább tágítja az élet keresésének horizontját a galaxisban.",
-      "importance": 5
-    },
-    {
-      "title": "Az AI-val tervezett „molekuláris ollók” új lendületet adnak a CRISPR-nek",
-      "summary": "Mesterséges intelligencia által tervezett \"molekuláris ollók\" új lehetőségeket nyitnak a CRISPR génszerkesztési technológiában. Ez az innováció pontosabbá és hatékonyabbá teheti a génmanipulációt, új utakat nyitva a gyógyászatban és a biológiában.",
+      "title": "A kutatók tanácsai hőhullám idejére",
+      "summary": "Kutatók hívják fel a figyelmet arra, milyen óvintézkedéseket kell tenni a hőhullámok idején az egészség megőrzése érdekében. Fontos a hidratálás, a direkt napsütés kerülése és a pihenés.",
       "importance": 4
     },
     {
-      "title": "Miért sorvad el az űrhajósok teste? Egy új tanulmány a mitokondriumokra mutat",
-      "summary": "Az űrállomáson végzett kutatások szerint a mitokondriumok kulcsszerepet játszhatnak abban, hogy az űrhajósok teste miért sorvad el a súlytalanságban. Ez az eredmény létfontosságú az űrutazás egészségügyi kockázatainak megértéséhez és kezeléséhez.",
+      "title": "Az éjszakai műszak rejtett költségei és a pihentető alvás titkai",
+      "summary": "A tudományos kutatások rávilágítanak az éjszakai műszakban dolgozók egészségügyi kockázataira és a megfelelő alvás fontosságára. Tanácsokat adnak a bioritmus fenntartásához és a pihentető alvás eléréséhez.",
       "importance": 4
+    },
+    {
+      "title": "Jó hírek az égboltról: enyhülés várható a hőségben",
+      "summary": "A legfrissebb meteorológiai előrejelzések szerint a következő napokban enyhülés várható a hőmérsékletben, így nem kell perzselő hőségre számítani. Ez némi fellélegzést hoz az elmúlt időszak forróságát követően.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Az angolok nyerték az őrült, tízgólos vb-bronzmeccset a franciák ellen",
-      "summary": "Az angol válogatott egy rendkívül izgalmas, tízgólos mérkőzésen, 6-4-re legyőzte Franciaországot, ezzel megszerezte a labdarúgó-világbajnoki bronzérmet. A mérkőzés a torna egyik legemlékezetesebb és legdrámaibb összecsapása volt.",
+      "title": "A világbajnoki döntő Messivel és Mbappéval a főszerepben",
+      "summary": "A labdarúgó-világbajnokság döntője történelmi pillanatot ígér, ahol Messi és Mbappé vezetik csapataikat. A mérkőzés meghatározhatja mindkét játékos örökségét és a futballtörténelembe vonul.",
       "importance": 5
     },
     {
-      "title": "Rekordbevételt hozott a világbajnokság a FIFA-nak",
-      "summary": "A FIFA rekordbevételt ért el a legutóbbi labdarúgó-világbajnokságból, bizonyítva a sportesemény óriási gazdasági vonzerejét. Ez aláhúzza a FIFA üzleti stratégiájának sikerességét és a sport globális erejét.",
+      "title": "Mbappé megdöntötte Messi vb-rekordját, történelmi világbajnokságot hozva össze",
+      "summary": "Kylian Mbappé megdöntötte Messi korábbi világbajnoki rekordját, ezzel az évszázad legeredményesebb világbajnokságát hozta össze. Teljesítménye 1954 óta nem látott magasságokba emelte a tornát.",
+      "importance": 5
+    },
+    {
+      "title": "FIFA: Példátlan botrányok és kritikák a csalások miatt",
+      "summary": "Az Európa Tanács főtitkára példátlan nyílt levélben kritizálta a FIFA-t, amiért az szélesre tárta a kaput a csalások előtt. Infantino elnök a Balogun-botrány ellenére is megúszhatja az ügyet.",
       "importance": 4
     },
     {
-      "title": "Kiélezett az Aranycipő verseny Messi és Mbappé között",
-      "summary": "A világbajnokság Aranycipőjéért folyó verseny kiélezetté vált Lionel Messi és Kylian Mbappé között, mindketten a torna legkiemelkedőbb gólszerzői voltak. A két sztárjátékos rivalizálása külön figyelmet kapott, és a döntő előtt nagy volt a tét.",
+      "title": "Drámai angol-francia bronzmeccs: 6-4-es győzelem",
+      "summary": "Az angol válogatott drámai, 6-4-es győzelmet aratott Franciaország ellen a bronzmérkőzésen. A magas gólzáporos mérkőzésen Rabiot is kiosztotta a társait a vereség után.",
       "importance": 4
-    },
-    {
-      "title": "Minden idők legkülönlegesebb világbajnoki döntője következik",
-      "summary": "A sportvilág minden idők legkülönlegesebb labdarúgó-világbajnoki döntőjére készül, amelyre óriási várakozás előzi meg. A döntő várhatóan történelmi pillanatokat tartogat, és hosszú ideig emlékezetes marad.",
-      "importance": 3
     }
   ]
 }

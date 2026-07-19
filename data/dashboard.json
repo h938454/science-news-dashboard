@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter Polgár Juditot kérné fel köztársasági elnöknek, a javaslat megosztja a közéletet",
-      "summary": "Magyar Péter hivatalosan is felkéri Polgár Juditot a köztársasági elnöki posztra, amelyet számos értelmiségi is támogat. A kezdeményezés erős érzelmeket vált ki, és megosztja a politikai tábort.",
+      "title": "Polgár Judit köztársasági elnöki jelölése",
+      "summary": "Magyar Péter felkérte Polgár Juditot a köztársasági elnöki posztra, melyet számos közéleti személyiség, tudós és művész is támogat. A kezdeményezés vitákat váltott ki a politikai elemzők körében és megosztja a Tisza Párt támogatóit.",
       "importance": 5
     },
     {
-      "title": "Sulyok Tamás távozása után új elnökjelöltet keresnek az Alkotmánybíróság élére",
-      "summary": "Sulyok Tamás lemondása az Alkotmánybíróság éléről vitát generált arról, ki töltheti be a megüresedett posztot. A jelöltek között Molnár Áron és Papp Gergely neve is felmerült.",
+      "title": "Országszerte jelentős károkat okozott a heves vihar",
+      "summary": "Heves vihar söpört végig az országon, kidőlt fákat, letépett tetőket és elektromos hálózati meghibásodásokat hagyva maga után. Különösen Érden okozott komoly károkat egy iskola tetejének leszakításával.",
       "importance": 4
     },
     {
-      "title": "Országszerte jelentős károkat okozott a pusztító vihar",
-      "summary": "Erős viharok söpörtek végig Magyarországon, kidőlt fákat és letépett tetőket hagyva maguk után. A károk elhárításán már dolgoznak, de több helyen is súlyos a helyzet.",
+      "title": "Sulyok Tamás távozása és az utódlás kérdése",
+      "summary": "Sulyok Tamás távozását követően számos találgatás látott napvilágot a döntés hátteréről és politikai következményeiről. Az Ügyvédkör máris bemutatta saját jelöltjét a megüresedő posztra, élénk politikai vitát generálva az utódlás körül.",
       "importance": 4
     },
     {
-      "title": "Megoldás körvonalazódik a KEKVÁ-kba kiszervezett vagyon visszaszerzésére",
-      "summary": "A kormányzat dolgozik azon a mechanizmuson, amellyel az államhoz visszakerülhet a korábban kiszervezett vagyon a KEKVÁ-kból. A részletek kidolgozása folyamatban van.",
-      "importance": 3
+      "title": "Szijjártó Péter segítséget ajánl Szegednek a BYD-beruházás kapcsán",
+      "summary": "Szijjártó Péter, a BYD globális vezetőjeként felhívta Szeged polgármesterét, hogy segítséget ajánljon fel a kínai autógyártó beruházásával kapcsolatban. Ez a lépés rávilágít a projekt kiemelt kormányzati figyelmére és a helyi támogatás fontosságára.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Oroszország újabb nagyszabású rakétatámadást indított ukrán városok ellen",
-      "summary": "Oroszország masszív ballisztikus rakétatámadásokat hajtott végre ukrán városok ellen, tovább súlyosbítva a háborús helyzetet. A támadások kiterjedt pusztítást és sebesüléseket okoztak.",
+      "title": "Oroszország jelentős ballisztikus rakétatámadást indított ukrán városok ellen",
+      "summary": "Oroszország nagyszabású ballisztikus rakétatámadásokat hajtott végre több ukrán város ellen. Ez a legújabb eszkaláció a folyamatos konfliktusban, amely súlyos károkat és áldozatokat követel.",
       "importance": 5
     },
     {
+      "title": "Iráni támadások Irakban és amerikai ellencsapás Iránban",
+      "summary": "Iráni támadásban meghalt egy amerikai katona Irakban, és egy másik megsebesült, ami azonnali amerikai válaszcsapást provokált. Az amerikai erők állítólag egy épülő iráni atomerőművet támadtak meg, tovább növelve a regionális feszültséget.",
+      "importance": 5
+    },
+    {
+      "title": "Két utasszállító repülőgép majdnem összeütközött a levegőben",
+      "summary": "Két utasszállító repülőgép került veszélyesen közel egymáshoz, alig elkerülve egy katasztrófát a levegőben. Az incidens rávilágít a légiforgalmi irányítás és a biztonsági protokollok kritikus fontosságára.",
+      "importance": 4
+    },
+    {
       "title": "Emlékművet avattak Oslóban a Breivik-merényletek áldozatainak",
-      "summary": "Oslóban felavatták az emlékművet a 2011-es Breivik-merényletek áldozatainak tiszteletére. Az esemény a gyász és az emlékezés fontos pillanata volt Norvégiában.",
-      "importance": 4
-    },
-    {
-      "title": "Amerikai támadás érte egy épülő iráni atomerőművet",
-      "summary": "Amerikai erők támadást intéztek egy Iránban épülő atomerőmű ellen, ami tovább élezi a térség feszültségeit. A támadás részletei és következményei még tisztázásra várnak.",
-      "importance": 4
-    },
-    {
-      "title": "Majdnem katasztrófát okozott két utasszállító repülőgép ütközése",
-      "summary": "Két utasszállító repülőgép majdnem összeütközött a levegőben, csak hajszálon múlott a katasztrófa. Az eset ismét felhívja a figyelmet a repülésbiztonsági protokollok fontosságára.",
+      "summary": "Oslóban emlékművet lepleztek le a 2011-es Anders Breivik által elkövetett terrortámadások áldozatainak tiszteletére. Az emlékmű a nemzet tragédiájára és az áldozatokra emlékeztet, miközben a gyászfeldolgozásban is segít.",
       "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az AI-ipar felrobbant: milliárdos befektetések és jogi kihívások jellemzik a szektort",
-      "summary": "A Netflix közel 600 millió dollárért vásárolta meg Ben Affleck AI-filmkészítő startupját, miközben a Databricks értéke 188 milliárd dollárra ugrott. Ugyanakkor az OpenAI hardveres terveit egy Apple per fenyegeti.",
+      "title": "Az AI fejlődése és befolyása a tech világra és üzletre",
+      "summary": "Az AI iparág exponenciális növekedést mutat, amit például a Netflix jelentős befektetése egy AI startupba, vagy a Databricks hatalmas, 188 milliárd dolláros értékelése is alátámaszt. Az Apple-lel való jogi viták és Christopher Nolan \"trójai faló\" metaforája is jelzik a gyors fejlődés kihívásait és kockázatait.",
       "importance": 5
     },
     {
-      "title": "Kína gondolattal vezérelt humanoid robotot mutatott be",
-      "summary": "Kínai kutatók bemutattak egy humanoid robotot, amelyet gondolatokkal lehet irányítani, ami óriási előrelépést jelent a mesterséges intelligencia és a robotika területén. A technológia új távlatokat nyithat az ember-gép interakcióban.",
+      "title": "Kínában gondolattal vezéreltek egy humanoid robotot",
+      "summary": "Kínai kutatóknak sikerült gondolati parancsokkal irányítaniuk egy humanoid robotot, jelentős áttörést elérve az agy-gép interfész technológiában. Ez a fejlesztés új távlatokat nyithat a robotika és az ember-gép interakció területén.",
       "importance": 4
     },
     {
-      "title": "A ChatGPT „kamuzása” mögött meghúzódó jelenség: miért hibázik a mesterséges intelligencia?",
-      "summary": "Sok felhasználó észrevette, hogy a ChatGPT gyakran téves vagy megtévesztő információkat szolgáltat, ezt a jelenséget \"hallucinációnak\" nevezik. A háttérben az AI modell tanulási és válaszképzési mechanizmusai állnak, melyek nem mindig garantálják a pontosságot.",
+      "title": "A ChatGPT gyakori \"hazudozásának\" okai",
+      "summary": "A ChatGPT gyakran produkál téves vagy kitalált információkat, amit a szakértők \"hallucinációnak\" neveznek. Ennek hátterében a modell működési elve, a valószínűségi alapon történő szógenerálás áll, ami néha logikailag helytelen, de nyelvtanilag korrekt válaszokat eredményez.",
       "importance": 4
     },
     {
-      "title": "A mesterséges intelligencia forradalmasítja a kiberbiztonságot, miközben globális központok épülnek ki az AI biztonságáért",
-      "summary": "A mesterséges intelligencia gyökeresen átalakítja a kiberbiztonsági ágazatot, új lehetőségeket és kihívásokat teremtve a kutatók számára. Ezzel párhuzamosan globális AI biztonsági központok is létrejönnek Szilícium-völgyön kívül.",
-      "importance": 4
+      "title": "A robotaxik szabályozása és működési kihívásai",
+      "summary": "A robotaxik piacán élesedik a szabályozási harc, miközben a szolgáltatók, mint a Waymo, működési kihívásokkal néznek szembe. A Waymo például egy órára felfüggesztette San Franciscó-i szolgáltatását, rávilágítva a technológia érettségével kapcsolatos kérdésekre.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Felfedeztek egy légkörrel rendelkező kőzetbolygót: lehetséges az élet rajta?",
-      "summary": "Egy új kőzetbolygót fedeztek fel, amelynek légköre is van, felvetve a kérdést, hogy vajon életre alkalmasak-e a körülményei. Ez a felfedezés hatalmas lépés a földön kívüli élet kutatásában.",
+      "title": "Áttörés az agy-gép interfész kutatásában: gondolattal vezérelt humanoid robot",
+      "summary": "Kínai kutatók sikeresen irányítottak egy humanoid robotot csupán gondolatok erejével, ami jelentős előrelépést jelent az agy-gép interfész technológiában. Ez a tudományos áttörés új lehetőségeket nyit az orvostudományban és a robotikában.",
       "importance": 5
     },
     {
-      "title": "Először fedeztek fel cukormolekulákat a világűrben",
-      "summary": "Először sikerült cukormolekulákat azonosítani a világűrben, ami alapvető jelentőségű a prebiotikus kémia megértésében és az élet eredetének kutatásában. Ez a felfedezés új megvilágításba helyezi a komplex szerves anyagok kozmikus eloszlását.",
+      "title": "Miért \"hazudik\" a ChatGPT? A jelenség tudományos magyarázata",
+      "summary": "A ChatGPT által produkált téves információk, vagyis \"hallucinációk\" mélyebb tudományos magyarázattal bírnak, a nagyméretű nyelvi modellek működési elveiből fakadnak. Ez a jelenség a mesterséges intelligencia kognitív korlátainak megértését segíti, és kihívás elé állítja a fejlesztőket.",
       "importance": 4
     },
     {
-      "title": "Helyreállították egy férfi spermiumtermelő képességét herebiopsziás szövetátültetéssel",
-      "summary": "Kísérletben sikerült helyreállítani egy férfi spermiumtermelő képességét herebiopsziás szövetátültetéssel, ami reményt adhat a meddőséggel küzdőknek. A tudósok szerint ez jelentős előrelépés a reproduktív orvostudományban.",
-      "importance": 4
+      "title": "Az űripar tudományos és gazdasági jelentősége",
+      "summary": "Az űripar gazdasági jelentősége egyre nő, de ezzel együtt a tudományos kutatás és a felfedezések motorja is. Az új technológiák és befektetések elősegítik a mélyűr kutatását, az aszteroidák vizsgálatát és az űrutazás fejlődését.",
+      "importance": 3
     },
     {
-      "title": "Az AI-tervezésű „molekuláris ollók” felpörgetik a CRISPR génszerkesztést",
-      "summary": "A mesterséges intelligencia segítségével tervezett „molekuláris ollók” jelentősen növelik a CRISPR génszerkesztés hatékonyságát és pontosságát. Ez az innováció új távlatokat nyit a genetikai betegségek gyógyításában és az alapkutatásban.",
-      "importance": 4
+      "title": "Betekintés a pesti gettó történetébe és emlékhelyeibe",
+      "summary": "Két cikk is a pesti gettó történelmébe és emlékhelyeibe kalauzolja az olvasót, kiemelve a Victor Hugo utca 28. alatti épület jelentőségét. Ez a történelmi és társadalmi feltárás a múlt eseményeit és a helyi közösség emlékezetét dolgozza fel.",
+      "importance": 3
     }
   ],
   "sports": [
     {
+      "title": "Spanyolország lett a labdarúgó-világbajnok",
+      "summary": "Spanyolország hatalmas fölényben játszva, de egy drámai, hosszabbításos mérkőzésen 1-0-ra legyőzte Argentínát a világbajnoki döntőben, ezzel 2010 után újra megszerezte a címet. Ferran Torres gólja döntötte el a küzdelmet, a torna során végig domináló csapat megérdemelten lett világbajnok.",
+      "importance": 5
+    },
+    {
       "title": "Európa-bajnok az U20-as férfi kézilabda válogatott",
-      "summary": "Történelmi sikert aratott a magyar U20-as férfi kézilabda válogatott, miután megnyerte az Európa-bajnokságot. A fiatal sportolók kiemelkedő teljesítményt nyújtottak.",
-      "importance": 5
-    },
-    {
-      "title": "Spanyolország nyerte a labdarúgó-világbajnokság döntőjét Argentína ellen egy drámai mérkőzésen",
-      "summary": "Spanyolország izgalmas mérkőzésen, emberhátrányban is legyőzte Argentínát a labdarúgó-világbajnokság döntőjében. A mérkőzés hosszabbításban dőlt el, Spanyolország történelmet írt.",
-      "importance": 5
-    },
-    {
-      "title": "Egy bukás miatt véget ért Vingegaard Tour de France-a",
-      "summary": "Jonas Vingegaard, a Tour de France egyik esélyese egy súlyos bukás következtében kénytelen volt feladni a versenyt. Az incidens jelentősen befolyásolja a kerékpáros körverseny további alakulását.",
+      "summary": "Történelmi sikert ért el a magyar U20-as férfi kézilabda válogatott, miután megnyerte az Európa-bajnokságot. Ez a kiemelkedő teljesítmény a magyar kézilabda utánpótlásának erejét bizonyítja.",
       "importance": 4
     },
     {
-      "title": "Kritikák kereszttüzében a labdarúgó-világbajnokság döntőjének félidei show-ja",
-      "summary": "A labdarúgó-világbajnokság döntőjének félidei műsorát sokan \"totális katyvaszként\" jellemezték, és széles körben kritikát kapott. A produkcióról valószínűleg senki sem fog emlékezni.",
+      "title": "Messi jövője a válogatottban a világbajnoki döntő után",
+      "summary": "A világbajnoki döntő után felmerült a kérdés, hogy Lionel Messi utolsó válogatott mérkőzésén lépett-e pályára. A legendás játékos jövőjével kapcsolatos bizonytalanság izgalomban tartja a szurkolókat és a sportvilágot.",
+      "importance": 4
+    },
+    {
+      "title": "Fox nyerte a The Open golfbajnokságot",
+      "summary": "Fox a forró Birkdale-en is megőrizte hidegvérét, és megnyerte a rangos The Open golfbajnokságot. A győzelem a sportág egyik legfontosabb eseményén jelentős eredménynek számít.",
       "importance": 3
     }
   ]

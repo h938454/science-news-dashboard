@@ -1,83 +1,138 @@
 {
   "Telex": [
     {
+      "title": "Róna Dániel: Ha valaki szerint Polgár Judit egy báb, az nem ismeri az életútját",
+      "link": "https://telex.hu/video/2026/07/20/rona-daniel-21-kutatokozpont-elemzes-alaptorveny-modositas-video-sulyok-tamas-polgar-judit-vitezy-david",
+      "summary": "Politikai tapasztalata nincs, de Polgár Juditról nem lehet azt mondani, hogy belesimul a dolgokba – elemzés Róna Dániellel, aki szerint míg Vitézy felemelkedése látványos, Kapitány István mintha visszaszorulna."
+    },
+    {
+      "title": "Magyar Péter: Nem társadalmi konzultációról beszéltünk, hanem azt kértük, hogy küldjenek ajánlásokat",
+      "link": "https://telex.hu/belfold/2026/07/20/magyar-peter-radnai-mark-polgar-judit-koztarsasagi-elnok-allamfoi-jeloles-kritika",
+      "summary": "A miniszterelnök kommentben reagált a Polgár Judit jelölése körüli kritikákra, mondván 10 komolyan vehető jelölt érkezett. A sakkozót Radnai Márk is védelmébe vette."
+    },
+    {
+      "title": "Meghalt Kevin Keegan, a Liverpool kétszeres aranylabdás focilegendája",
+      "link": "https://telex.hu/sport/2026/07/20/kevin-keegan-meghalt-liverpool-aranylabda-newcastle",
+      "summary": "Miután visszavonult a profi futballtól, edzőként dolgozott a Newcastle Unitednél, a Fulhamnél, a Manchester Citynél."
+    },
+    {
+      "title": "Spanyolország soha nem látott dominanciával lett világbajnok. És ez még csak a kezdet",
+      "link": "https://telex.hu/sport/2026/07/20/spanyolorszag-futball-vilagbajnok-de-la-fuente-foci-vb-vb-donto-vilagbajnoksag",
+      "summary": "A spanyolok erejét a rendszer állandósága adja, a kapitány, De la Fuente már a felnőtt válogatottságuk előtt elkezdett együtt dolgozni a mostani vb-győztes játékosokkal, és ez meg is látszott rajtuk. Az utánpótlás mellett edzőképzésben is élen járnak, úgyhogy az egyetlen kapott góllal megnyert vb és a 38 meccses veretlenségi sorozat után jöhet még csak a java."
+    },
+    {
+      "title": "Nem zavarta az embereket a viharjelzés, 27 embert kellett kimenteni a Balatonból",
+      "link": "https://telex.hu/belfold/2026/07/20/balatoni-vizirendeszet-elsodrodott-furdozok-hajok",
+      "summary": "Viharos volt az idő a tavon a hétvégén, sok dolguk akadt a vízirendőröknek."
+    },
+    {
+      "title": "Leállt a milliárdos állami ingatlanok eladása a választások óta",
+      "link": "https://telex.hu/g7/kozelet/2026/07/20/allami-ingatlan-eladas-stop",
+      "summary": "Míg a választások előtt a megszokottnál sokkal nagyobb számban értékesített nagy értékű állami ingatlanokat a nemzeti vagyonkezelő, április közepe óta egyetlen milliárdos ingatlant sem adott el."
+    },
+    {
+      "title": "Doctor Doommal pörlekednek a Bosszúállók: íme az Ítéletnap újabb előzetese",
+      "link": "https://telex.hu/after/2026/07/20/avengers-doomsday-elozetes-bosszuallok-iteletnap-trailer",
+      "summary": "A Marvel-univerzum színe-java felveszi a harcot Robert Downey Jr. karakterével."
+    },
+    {
+      "title": "Kaszparov Polgár Judit államfővé ajánlásáról: Reggel írtam Juditnak, ez a lépés igazi vezércsel",
+      "link": "https://telex.hu/belfold/2026/07/20/garri-kaszparov-reggel-irtam-juditnak-ez-a-lepes-igazi-vezercsel",
+      "summary": "A sakkvilág egykori legendája a putyini rezsimet és a hozzá közel álló orbáni rendszert is elutasítja. Szerinte az új magyar kormány egy ilyen jelöléssel fontos üzenetet közvetítene."
+    },
+    {
+      "title": "Magyar szárnyashajó roncsát találták meg Bécs közelében",
+      "link": "https://telex.hu/kulfold/2026/07/20/siraly-magyar-szarnyashajo-roncsat-talaltak-meg-becs-kozeleben",
+      "summary": "A Sirály I. 1983-ban nekirohant egy szovjet hajóköteléknek, ketten meghaltak. A roncs egy darabja felbukkant az apadó Dunában."
+    },
+    {
+      "title": "Kiszáradt a Bicsérdi horgásztó",
+      "link": "https://telex.hu/belfold/2026/07/20/kiszaradt-a-bicserdi-horgaszto",
+      "summary": "A Baranya megyei Bicsérd településen található tó eredeti maximális mélysége 2,5 méter, területe közel három hektár. Négy évvel ezelőtt szintén eltűnt belőle a víz."
+    },
+    {
+      "title": "Magyari Péter és Bogár Zsolt is főszerkesztő-helyettes lesz a Kossuth Rádiónál",
+      "link": "https://telex.hu/after/2026/07/20/magyari-peter-bogar-zsolt-kossuth-radio-mtva",
+      "summary": "Pontosabban csatornaigazgató-helyettesek lesznek, augusztus elsején kezdenek."
+    },
+    {
+      "title": "Egy motoros eldöntötte a kötelező védőfelszerelésekről szóló vitát, egyúttal gyorshajtott is",
+      "link": "https://telex.hu/belfold/2026/07/20/motoros-gyorshajtas-vedofelszereles-rendorseg",
+      "summary": "A rendőrök a Szentesről Fábiánsebestyénre vezető úton állították meg, miután elszáguldott a traffipax előtt."
+    },
+    {
+      "title": "Blokád alá vonnák a jemeni lázadók a szaúdi hajózást",
+      "link": "https://telex.hu/kulfold/2026/07/20/szaud-arabia-olajexport-hajok-blokadja-jemeni-huszik",
+      "summary": "Ha a Perzsa-öböl után a Vörös-tengerről is nehézkesen tud majd olajat exportálni a királyság, az komoly globális fennakadást hozhat."
+    },
+    {
+      "title": "Megvan, ki helyettesíti a köztársasági elnöknek beugró házelnököt, Forsthoffer Ágnest",
+      "link": "https://telex.hu/belfold/2026/07/20/parlament-hallerne-nagy-aniko-tisza-part-orszaggyules-alelnoke-elnoki-feladatok-forsthoffer-agnes",
+      "summary": "Az átmeneti időszakban a Tisza Párt soproni képviselője veszi át a házelnök feladatait."
+    },
+    {
       "title": "Kössön útlevelet a talpára, itt a Telex túraútlevele!",
       "link": "https://telex.hu/szepkilatas/2026/07/20/telex-szepkilatas-turautlevel",
       "summary": "Ez a nem hivatalos, személyes kis dokumentum hasonlít az igazi útlevélre, de nagyszerű grafikájával el is különül tőle. De mi is ez valójában?"
-    },
-    {
-      "title": "Megszólalt Polgár Judit, de nem arról",
-      "link": "https://telex.hu/belfold/2026/07/20/polgar-judit-nemzetkozi-sakknap",
-      "summary": "Minden idők legeredményesebb női sakkozójának még a mostani turbulens időkben sem kerülik el a figyelmét a fontos dátumok."
-    },
-    {
-      "title": "Török Gábor: A választás óta először volt érzékelhető a miniszterelnök és a kormánypárt megtorpanása",
-      "link": "https://telex.hu/belfold/2026/07/20/torok-gabor-magyar-peter-parlament-koztarsasagi-elnok-jelolese",
-      "summary": "Magyar Péter a parlamentben azt mondta, várják az államfőjelöléseket, miközben a Tisza-frakció már kiállt Polgár Judit mellett."
-    },
-    {
-      "title": "Milyen egy jó köztársasági elnök? – Magyar Péter perceken át írta körbe az alkalmas jelölt karakterét",
-      "link": "https://telex.hu/belfold/2026/07/20/magyar-peter-parlament-felszolalas-koztarsasagi-elnok",
-      "summary": "„Mindegy, hogy nő vagy férfi, a végzettsége, a családja, vagy hogy vidéki vagy budapesti”, de a miniszterelnök konkrét nevet nem mondott."
-    },
-    {
-      "title": "Alapos késéssel, de megjött a 40 fokos dögmeleg Görögországba is",
-      "link": "https://telex.hu/kulfold/2026/07/20/gorogorszag-hoseg-kanikula-idojaras-40-fok",
-      "summary": "2011 óta harmadszor fordult elő, hogy ilyen későn mértek először legalább 40 fokot."
-    },
-    {
-      "title": "Róna Dániel: A Fidesznek ez teljes kudarc",
-      "link": "https://telex.hu/belfold/2026/07/20/rona-daniel-21-kutatokozpont-elemzes-sulyok-tamas-fidesz-magyar-peter",
-      "summary": "A 21 Kutatóközpont elemzője szerint Sulyok Tamás azért nem harcolt tovább, mert reménytelen lett volna, az pedig a napnál is világosabb, hogy Magyar Péter a sakkolimpikon Polgár Juditot szeretné államfőnek."
-    },
-    {
-      "title": "Kepes András támogatja Polgár Judit jelölését, de van pár megjegyzése",
-      "link": "https://telex.hu/belfold/2026/07/20/kepes-andras-tamogatja-polgar-judit-jeloleset-de-van-par-megjegyzese",
-      "summary": "Az író, újságíró egyike azoknak, akik egy levél aláírójaként javasolták a sakkozó megválasztását köztársasági elnöknek."
-    },
-    {
-      "title": "Pócs János beépített kamerás Ray-Ban Meta szemüveggel ült be a parlament ülésére",
-      "link": "https://telex.hu/belfold/2026/07/20/pocs-janos-ray-ban-meta-kameras-szemuveg",
-      "summary": "Amikor Magyar Péterhez beszélt, villogott is a szemüveg, ami azt jelenti, hogy éppen felvételt készít."
-    },
-    {
-      "title": "Meghalt egy túrázó a Bükkben",
-      "link": "https://telex.hu/belfold/2026/07/20/halaleset-bukk-turazo-noszvaj-es-sikfokut",
-      "summary": "Párjával túrázni indult Noszvaj-Síkfőútról, de menet közben rosszul lett, és a kiérkező mentők nem tudták megmenteni."
-    },
-    {
-      "title": "Leszorította az útról az ismerősei autóját, majd többször feléjük lőtt egy férfi, az egészet rögzítette egy kamera",
-      "link": "https://telex.hu/belfold/2026/07/20/baleset-lovoldozes-gazfegyver-kozuti-veszelyeztetes",
-      "summary": "A Gödöllői járásban történt eset gyanúsítottja azzal magyarázta tettét, hogy a sértettek több tárgyat elloptak tőle, és ezeket akarta visszaszerezni."
-    },
-    {
-      "title": "Vasúti közlekedésre alakított autóval menekült volna Romániából egy magyar férfi a családjával 1988-ban",
-      "link": "https://telex.hu/transtelex/2026/07/20/atalakitott-auto-menekules-romania-magyar-nemzetisegu-allampolgar-securitate",
-      "summary": "A filmbe illő akcióról a Securitate irattárát tanulmányozó országos tanács most számolt be a Facebookon."
-    },
-    {
-      "title": "Nem tett eleget az AliExpress az illegális, veszélyes és hamisított termékek ellen, 550 millió eurós bírságot kapott",
-      "link": "https://telex.hu/gazdasag/2026/07/20/aliexpress-europai-bizottsag-buntetes-birsag-hamisitas",
-      "summary": "Az Európai Bizottság 198 milliárd forintnyi bírságot szabott ki a kínai online piactérre."
-    },
-    {
-      "title": "Választás? Persze, hogy az ellenzék kerüljön hatalomra! – Nicaragua elnöke átlát a szitán",
-      "link": "https://telex.hu/kulfold/2026/07/20/daniel-ortega-nicaragua-nem-lesz-valasztas-ellenzek-rosario-murillo",
-      "summary": "A 80 éves Daniel Ortega szerint a választás nevű ármánnyal az USA szeretné hatalomra segíteni az ellenzéket."
-    },
-    {
-      "title": "Andy Burnham az új brit miniszterelnök, 40 éve nem látott változásokat ígért",
-      "link": "https://telex.hu/kulfold/2026/07/20/andy-burnham-brit-kormanyfo",
-      "summary": "Manchester volt polgármestere beszédében célként tűzte ki a londoni központú kormányzás decentralizálását és az alapvető szolgáltatások államosítását."
-    },
-    {
-      "title": "A Tisza-frakció egyhangú álláspontja, hogy Polgár Judit a legalkalmasabb jelölt az államfői posztra",
-      "link": "https://telex.hu/belfold/2026/07/20/parlament-orszaggyules-tisza-part-koztarsasagi-elnok-sulyok-tamas-polgar-judit",
-      "summary": "A Fidesz nem fog részt venni az új államfő jelölésében és választásában. Magyar Szijjártó Péter új állásáról azt mondta: meg fogják vizsgálni az összes BYD-hez kapcsolódó kormányzati döntést. Sulyok Tamás államfő helyét átmenetileg Forsthoffer Ágnes veszi át, ezért a parlament ma új, ideiglenes házelnököt is választ. Gulyás Gergely nincs bent az ülésteremben."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "2078 embert ítéltek el 2025-ben terrorizmus vádjával Oroszországban, több százan kaptak több mint 15 évet",
+      "link": "https://444.hu/2026/07/20/2078-embert-iteltek-el-2025-ben-terrorizmus-vadjaval-oroszorszagban-tobb-szazan-kaptak-tobb-mint-15-evet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az elítélt „terroristák” száma megduplázódott 2024-hez képest."
+    },
+    {
+      "title": "Meghalt Kevin Keegan",
+      "link": "https://444.hu/2026/07/20/meghalt-kevin-keegan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Kétszer elnyerte az Aranylabdát, minden idők egyik legjobb angol futballistájának tartják. 75 éves volt."
+    },
+    {
+      "title": "Életfogytiglant kapott az anya, aki vízbe fojtotta 20 éves lányát",
+      "link": "https://444.hu/2026/07/20/eletfogytiglant-kapott-az-anya-aki-vizbe-fojtotta-20-eves-lanyat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A fogyatékossággal élő áldozat 2020 novemberéig egy bentlakásos iskola tanulója volt, de az online oktatás bevezetése után hazaköltözött."
+    },
+    {
+      "title": "Garri Kaszparov: Polgár Judit ideális lehet az elnöki feladatra",
+      "link": "https://444.hu/2026/07/20/garri-kaszparov-polgar-judit-idealis-lehet-az-elnoki-feladatra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Kiemelkedő intellektuális képessége egyértelmű, világszerte ismert, Magyarországot a világban is kiválóan képviselné – mondta a korábbi sakkvilágbajnok Polgár Juditról."
+    },
+    {
+      "title": "Szokatlan fordulatokkal teli vitát hozott Magyar Péter elnöki felkérése",
+      "link": "https://444.hu/2026/07/20/szokatlan-fordulatokkal-teli-vitat-hozott-magyar-peter-elnoki-felkerese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az ellenzék igyekezett lecsapni a parlamentben arra, hogy Magyar Péter egy nappal a társadalmi egyeztetés bejelentése után már meg is nevezte elnökjelöltjét. A miniszterelnök szerint ugyanakkor a Fidesz nevében felszólaló Bóka Jánoshoz képest Gulyás Gergely maga volt a hurrikán."
+    },
+    {
+      "title": "Még a Polgár Juditot ajánló kiválóságok szerint is lehetne több jelölt a köztársasági elnöki posztra",
+      "link": "https://444.hu/2026/07/20/meg-a-polgar-juditot-ajanlo-kivalosagok-szerint-is-lehetne-tobb-jelolt-a-koztarsasagi-elnoki-posztra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Megkérdeztük Kapu Tibort, Parti Nagy Lajost és Nagy Tímeát, hogyan állt össze a támogatói csapat. Többeket meglepett, hogy társadalmi egyeztetés helyett Magyar Péter már az első lépés után eredményt hirdetett."
+    },
+    {
+      "title": "Mumifikálódott holttestet találtak Mikepércsen, kiderült, hogy még télen verték agyon a férfit",
+      "link": "https://444.hu/2026/07/20/mumifikalodott-holttestet-talaltak-mikepercsen-kiderult-hogy-meg-telen-vertek-agyon-a-ferfit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Italoztak, majd a vita verekedésbe torkollott."
+    },
+    {
+      "title": "Maradona-szobor és kék-fehérre festett ház – nem a cseh fanatikuson múlt, hogy Argentína nem nyert vb-t",
+      "link": "https://444.hu/2026/07/20/maradona-szobor-es-kek-feherre-festett-haz-nem-a-cseh-fanatikuson-mult-hogy-argentina-nem-nyert-vb-t?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Bár Argentína elveszítette a vb-döntőt, a cseh Miloslav Urbanec mindent megtett a sikerért: házát kék-fehérre festette, futballpályát épített, Maradona-szobrot állított, és még az utcáját is Argentínáról nevezte el."
+    },
+    {
+      "title": "Szájukra ne vegyék a nevét – a KDNP szóba hozta Karsai Dánielt a Parlamentben, Magyar Péter feldúltan osztotta ki őket",
+      "link": "https://444.hu/2026/07/20/szajukra-ne-vegyek-a-nevet-a-kdnp-szoba-hozta-karsai-danielt-a-parlamentben-magyar-peter-feldultan-osztotta-ki-oket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "„Karsai Dániel amikor alig tudott mozogni, beszélni, abban az állapotában is több volt a fejében, mint itt az egész frakciónak.”"
+    },
+    {
+      "title": "Magyari Péter a Kossuth rádió főszerkesztő-helyettese lesz",
+      "link": "https://444.hu/2026/07/20/magyari-peter-a-kossuth-radio-foszerkeszto-helyettese-lesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Két vezető munkatárs szerződtetéséről számolt be az MTVA, Bogár Zsolt ugyancsak csatornaigazgató-helyettesi pozícióba érkezik."
+    },
+    {
+      "title": "Lesodorta ismerősei autóját, majd lövöldözni kezdett feléjük",
+      "link": "https://444.hu/2026/07/20/lesodorta-ismerosei-autojat-majd-lovoldozni-kezdett-felejuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A férfi tettét azzal indokolta, hogy tőle az egyik sértett tárgyakat tulajdonított el, amelyeket megpróbált visszaszerezni."
+    },
     {
       "title": "Teszttel kell bizonyítaniuk a teniszezőnőknek, hogy nők, különben nem indulhatnak a WTA-versenyeken",
       "link": "https://444.hu/2026/07/20/teszttel-kell-bizonyitaniuk-a-teniszezonoknek-hogy-nok-kulonben-nem-indulhatnak-a-wta-versenyeken?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -86,7 +141,7 @@
     {
       "title": "A komoly felszólalása után második körben már elengedte magát az imprózásban Magyar Péter a Parlamentben",
       "link": "https://444.hu/2026/07/20/a-komoly-felszolalasa-utan-masodik-korben-mar-elengedte-magat-az-improzasban-magyar-peter-a-parlamentben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Pócs videós szemüvege, ex-SZDSZ-es fideszes, maffiafőnök Orbán, a HírTv 18 nézője, és villámló szemekkel előadott „nem kell kiabálni\" szigor."
+      "summary": "Pócs videós szemüvege, ex-SZDSZ-es fideszes, maffiafőnök Orbán, a HírTv 18 nézője, és villámló szemekkel előadott „nem kell kiabálni” szigor."
     },
     {
       "title": "Drágul az üzemanyag, keddtől többe fog kerülni a benzin, mint a védett árak idején",
@@ -97,148 +152,103 @@
       "title": "Bujdosó Andrea: Polgár Judit a legalkalmasabb államfőjelölt",
       "link": "https://444.hu/2026/07/20/bujdoso-andrea-polgar-judit-a-legalkalmasabb-allamfojelolt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Magyar Péter vasárnap posztolt arról, hogy a sakknagymestert kéri fel köztársasági elnöknek."
-    },
-    {
-      "title": "Polgár Judit nevének említése nélkül beszélt az államfői poszt jövőjéről és „tiszta lapról” Magyar Péter a parlamentben",
-      "link": "https://444.hu/2026/07/20/polgar-judit-nevenek-emlitese-nelkul-beszelt-az-allamfoi-poszt-jovojerol-es-tiszta-laprol-magyar-peter-a-parlamentben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Szerinte akik azt mondják, jogásznak, közgazdásznak kell lennie az elnöknek, azok nem értik, miért jött létre a Tisza, és mi történt április 12-én."
-    },
-    {
-      "title": "Óriásbüntetést kapott az AliExpress az illegális termékek miatt",
-      "link": "https://444.hu/2026/07/20/oriasbuntetest-kapott-az-aliexpress-az-illegalis-termekek-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az Európai Unió 550 millió euróra bírságolta a kínai e-kereskedőt a jogellenes, nem biztonságos vagy hamisított termékekkel kapcsolatos magatartása miatt."
-    },
-    {
-      "title": "Most már tényleg lemondott a brit miniszterelnök",
-      "link": "https://444.hu/2026/07/20/most-mar-tenyleg-lemondott-a-brit-miniszterelnok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Keir Starmer hétfőn benyújtotta lemondását, amit III. Károly király elfogadott."
-    },
-    {
-      "title": "A világ legmenőbb emlékműve",
-      "link": "https://444.hu/2026/07/20/a-vilag-legmenobb-emlekmuve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hányan szájalnak interaktivitásról meg a széles tömegek bevonásáról, és milyen kevesen hoznak létre valódi élő, közben sokszerzős alkotást! Orbánnak és Párkányi Raab Péternek azonban sikerült ez a német megszállási emlékművel."
-    },
-    {
-      "title": "Magyar túrázók sérültek meg villámcsapásban Ausztriában, egyikük úgy megégett, hogy mentőhelikopter vitte el",
-      "link": "https://444.hu/2026/07/20/magyar-turazok-serultek-meg-villamcsapasban-ausztriaban-egyikuk-ugy-megegett-hogy-mentohelikopter-vitte-el?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A két 25 éves férfi közvetlen közelében csapódott be egy villám 1800 méteres magasságon, a becsapódás erejétől egyikük 30 métert zuhant lefelé a hegyről."
-    },
-    {
-      "title": "Győr polgármestere alkotmányjogi panaszt nyújt be a szolidaritási adó miatt",
-      "link": "https://444.hu/2026/07/20/gyor-polgarmestere-alkotmanyjogi-panaszt-nyujt-be-a-szolidaritasi-ado-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A győri közgyűlés egyhangúlag megszavazta."
-    },
-    {
-      "title": "Elhalasztja a Boeing az új repülőgépének bevezetését, mert a vezérigazgató szerint előbb a pénzügyeiket kell rendezni",
-      "link": "https://444.hu/2026/07/20/elhalasztja-a-boeing-az-uj-repulogepenek-bevezeteset-mert-a-vezerigazgato-szerint-elobb-a-penzugyeiket-kell-rendezni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Márpedig az évekbe telhet, Kelly Ortberg, aki szerint az új generációs, keskenytörzsű utasszállító repülőgépre egyelőre nem lenne kellő piaci kereslet sem."
-    },
-    {
-      "title": "Ha így néz ki egy társadalmi egyeztetés a Tiszánál, akkor nem állunk túl jól",
-      "link": "https://444.hu/2026/07/20/ha-igy-nez-ki-egy-tarsadalmi-egyeztetes-a-tiszanal-akkor-nem-allunk-tul-jol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Magyar Péter szombaton még amellett tett hitet, hogy füstös szivarszobák helyett közösen döntsünk, majd vasárnap este már azt közölte, hogy hétfőn megkérdezi Polgár Juditot, akar-e ő lenni a köztársasági elnök."
-    },
-    {
-      "title": "Gyilkossági kísérlet miatt nyomoz a belga rendőrség, miután megtámadták a Katargate ügyön dolgozó felügyelőt",
-      "link": "https://444.hu/2026/07/20/gyilkossagi-kiserlet-miatt-nyomoz-a-belga-rendorseg-miutan-megtamadtak-a-katargate-ugyon-dolgozo-felugyelot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egyelőre nincs bizonyíték arra, hogy a munkája miatt támadtak rá a férfira."
-    },
-    {
-      "title": "Betiltja Belgium a megszállt területeken létesült izraeli telepekről származó termékek importját",
-      "link": "https://444.hu/2026/07/20/betiltja-belgium-a-megszallt-teruleteken-letesult-izraeli-telepekrol-szarmazo-termekek-importjat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A belga kormány szerint Izrael már régen túl van „a jogos önvédelem stádiumán” a 2023. október 7-i támadások után kezdett katonai műveletekkel."
-    },
-    {
-      "title": "Az argentin elnök a vb-döntős vereség ellenére munkaszüneti napot hirdetett",
-      "link": "https://444.hu/2026/07/20/az-argentin-elnok-a-vb-dontos-vereseg-ellenere-munkaszuneti-napot-hirdetett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Javier Milei azt írta, hogy az ünneplés időpontjáról a válogatott játékosai és a szakmai stáb dönt."
     }
   ],
   "HVG": [
     {
-      "title": "Török Gábor: Most először érzékelhető a miniszterelnök megtorpanása",
-      "link": "https://hvg.hu/itthon/20260720_torok-gabor-magyar-peter-polgar-judit-koztarsasagi-elnok-jeloles-parlament",
-      "summary": "Nem világos szerinte a stratégiai irány."
+      "title": "Garri Kaszparov „igazi vezércselnek” nevezte Polgár Judit államfői felkérését",
+      "link": "https://hvg.hu/elet/20260720_garri-kaszparov-vezercsel-dicser-polgar-judit-allamfo-felkeres",
+      "summary": "A világbajnok sakk nagymester szerint Polgár Judit ideális államfő lenne Magyarország számára az átmenet idejére."
     },
     {
-      "title": "Pócs János most nem telefonnal videózott, hanem okosszemüvegben ült be a parlamentbe",
-      "link": "https://hvg.hu/itthon/20260720_orszaggyules-parlament-pocs-janos-ray-ban-meta-okosszemuveg-magyar-peter",
-      "summary": "Magyar Péter miniszterelnök azonnal kiszúrta a fideszes politikus új szemüvegét, lett is vita belőle."
+      "title": "Távozik a belga válogatott kispadjáról Rudi Garcia",
+      "link": "https://hvg.hu/sport/20260720_foci-vb-2026-belgium-belga-valogatott-rudi-garcia-szovetsegi-kapitany-tavozas",
+      "summary": "A belgák a negyeddöntőig jutottak a világbajnokságon, mégsem marasztalják a francia edzőt."
     },
     {
-      "title": "Alapvető változás jön az Androidba, sokan járhatnak rosszul",
-      "link": "https://hvg.hu/tudomany/20260720_google-android-felhotarhely-elszamolas-valtozas-e-mail-tajekoztatas",
-      "summary": "Az utolsó byte-ig elszámolja hamarosan az adatait a Google, hirtelen kevesebb lehet a szabad tárhely a felhőjében."
+      "title": "A Karsai Dániel Alapítvány üdvözölte, hogy Magyar Péter az eutanázia kérdésében is társadalmi egyeztetést ígért a parlamentben",
+      "link": "https://hvg.hu/itthon/20260720_karsai-daniel-alapitvany-udvozol-magyar-peter-eutanazia-tarsadalom-egyeztetes-parlament",
+      "summary": "Magyar Péter az Országgyűlés hétfői ülésén jelentette ki, hogy szakmai-társadalmi egyeztetést követően születhet döntés az eutanázia esetleges engedélyezéséről, amelyről az előző kormány a gyógyíthatatlan betegségben szenvedő Karsai Dániel ügyvéddel sem volt hajlandó párbeszédet folytatni."
     },
     {
-      "title": "Polgár Juditot 20 éve még nem érdekelte a politika, mégis könnyen az egyik legfontosabb pozícióban találhatja magát",
-      "link": "https://hvg.hu/itthon/20260720_polgar-judit-portre",
-      "summary": "A napokon belül 50 éves, világhírű sakknagymester mindig is kifejezetten visszafogottan nyilatkozott politikai kérdésekben, de a nemzetközi elismertsége mellett talán épp az adja hitelességét, hogy mindig arról beszélt, amihez ért: a sakkról, az oktatásról, az érvényesülés módjairól."
+      "title": "Oroszország épp ott tart, hogy 600 forintos iránytűket csavaroz a drónjaira",
+      "link": "https://hvg.hu/tudomany/20260720_orosz-ukran-haboru-iranytu-dron",
+      "summary": "Az orosz egységek igyekeznek megkerülni az ukránok elektronikus hadviselését, ehhez pedig egy faék egyszerű megoldást választottak."
     },
     {
-      "title": "Életét vesztette egy magyar nő közlekedési balesetben Ausztriában",
-      "link": "https://hvg.hu/cegauto/20260720_halalos-baleset-ausztriaban-magyar-no-is-meghalt",
-      "summary": "A balesethez siető egyik rendőrautó is karambolozott, amikor a feltorlódott kocsisorban elé hajtott egy sofőr."
+      "title": "Meghalt Kevin Keegan angol focilegenda",
+      "link": "https://hvg.hu/sport/20260720_labdarugas-anglia-kevin-keegan-halalhir",
+      "summary": "A kétszeres aranylabdás, a Liverpool háromszoros bajnoka januárban jelentette be, hogy rákos."
     },
     {
-      "title": "Tárgyalt a Tisza-frakció Polgár Juditról, de döntés még nincs",
-      "link": "https://hvg.hu/itthon/20260720_tisza-frakcioules-polgar-judit-koztarsasagi-elnok-dontes-tarkanyi-zsolt",
-      "summary": "Tárkányi Zsolt szerint kiváló államfőjelölt Polgár Judit."
+      "title": "Kása Kátya kavarási technikája és a biokémikust verő asztrofizikus – a skót zabkása-vb kulisszái mögött",
+      "link": "https://hvg.hu/360/20260720_hvg-az-arany-spatula-film-ajanlo",
+      "summary": "Az eddig operarendezéseivel kitűnt, ciprusi görög származású ausztrál rendező, Constantine Costi Az Arany Spatula című filmje óda a szent keveréshez, és annak kitalálójához, Charlie Millerhez."
     },
     {
-      "title": "Az argentinok viselkedése bemocskolta a vb-döntőt, de a spanyolok csillogását nem tudta elhomályosítani",
-      "link": "https://hvg.hu/sport/20260720_foci-vb-2026-vilagbajnoki-donto-spanyolorszag-argentina-rodri-lionel-messi-lamine-yamal-unai-simon-pau-cubarsi-felidei-show-donald-trump-gianni-infantino",
-      "summary": "Az argentin válogatott a játékban nem tudta felvenni a versenyt a világbajnok Spanyolországgal, így minden erejével azon volt, hogy ellehetetlenítse a szép focit. Ez többé-kevésbé sikerült is, de Enzo Fernández saját csapatát hozta nehéz helyzetbe azzal, hogy bő tíz perc alatt összehozott egy kiállítást. A piros lap nagyban befolyásolta a döntő végeredményét, és olyan előnyhöz juttatta a spanyolokat, amit kegyetlenül kihasználtak. Ebben a cikkben a világbajnoki döntő legfontosabb pillanatait vesszük górcső alá."
+      "title": "Nem akar béremelést adni az IKEA, inkább folytatnák a tárgyalásokat a szakszervezettel",
+      "link": "https://hvg.hu/kkv/20260720_ikea-sztrajk-targyalasok-beremeles-szakszervezet",
+      "summary": "A vállalat a munkáltatói érdekképviselet által felvázolt öt pontból álló követeléscsomagból négyet elfogadott, de az ötödiket, ami a menedzsment tagjaira nem vonatkozó, egységes, 6 százalékos béremelést írta volna elő, az IKEA elutasította."
     },
     {
-      "title": "Andy Burnham apja nem tudja, hogy a fia az Egyesült Királyság új miniszterelnöke",
-      "link": "https://hvg.hu/elet/20260720_andy-burnham-brit-miniszterelnok-apja-alzheimer-kor",
-      "summary": "Roy Burnham Alzheimer-kórban szenved."
+      "title": "Maldini személyesen utazott Guardiolához, hogy felkérje olasz szövetségi kapitánynak",
+      "link": "https://hvg.hu/sport/20260720_labdarugas-olaszorszag-valogatott-paolo-maldini-pep-guardiola",
+      "summary": "A spanyol edző az előző szezon végén távozott a Manchester Citytől, ahol tíz évet töltött."
     },
     {
-      "title": "A világbajnoki győzelem ünneplése közben halt meg egy gyerek Spanyolországban",
-      "link": "https://hvg.hu/vilag/20260720_vilagbajnoki-gyozelem-unneples-szokokut-baleset-gyerek-spanyolorszag-tragedia",
-      "summary": "Leszakadt egy szökőkút teteje, amikor többen felmásztak rá."
+      "title": "Nagyot bukott a közel-keleti háborún a Ryanair",
+      "link": "https://hvg.hu/kkv/20260720_ryanair-veszteseg-kozel-kelet-haboru",
+      "summary": "Vonakodó utasok, dráguló üzemanyag és Donald Trump is nehezítik az ír légitársaság életét, a vállalat részvényei a tőzsdén is vesztettek értékükből."
     },
     {
-      "title": "Polgár Judit tényleg a saját lábán áll: százmilliókat termel a brandje",
-      "link": "https://hvg.hu/360/20260720_polgar-judit-cegei-osztalek-alapitvany-sakkpalota-sakktesi-sakk",
-      "summary": "A sakknagymester tehetségére és szorgalmára sikeres üzlet épült. Polgár Judit vállalkozásai tavaly csaknem 171 millió forintos árbevételt és közel 130 millió forintos nyereséget értek el, miközben az általa létrehozott alapítvány a Sakkpalota és a SakkTesi programokkal tízezrekhez juttatta el a sakkot mint képességfejlesztő módszert."
+      "title": "Jámbor András szerint Magyar Péter hibázott a „kamu társadalmi egyeztetéssel”, de Polgár Judit attól még jó jelölt",
+      "link": "https://hvg.hu/itthon/20260720_jambor-andras-magyar-peter-hiba-kamu-egyeztetes-polgar-judit-jo-jelolt-allamfo",
+      "summary": "Jámbor Andrást megdöbbentették a sakk nagymester államfői posztra jelölésével szemben felhozott érvek. Márki-Zay Pétert ellenjavaslatát egyenesen hazugnak tartja."
     },
     {
-      "title": "Süddeutsche Zeitung: A stadionokban egy szinte már elfelejtett Amerika jelent meg, de Trump mindent elrontott egy telefonhívással",
-      "link": "https://hvg.hu/360/20260720_trump-foci-vb-usa-suddeutsche-zeitung-ertekeles",
-      "summary": "Naivitás volna azt hinni, hogy az amerikai elnök fikarcnyit is törődik a játékszabályokkal, így érvényesül az „Amerika mindenekelőtt” a futballban. De az Egyesült Államok is veszített ebben a sajnálatos játszmában."
+      "title": "Új vezetőt választott a Hamász",
+      "link": "https://hvg.hu/vilag/20260720_hamasz-uj-vezeto-halil-al-hajja",
+      "summary": "A palesztin terrorszervezet előző vezetőjével 2024 őszén végzett Izrael, azóta egy öttagú tanács irányított."
     },
     {
-      "title": "Bolygómentő akciót tesztel Kína, a hangsebesség 26-szorosával ütközik majd az űrszonda az aszteroidának",
-      "link": "https://hvg.hu/tudomany/20260720_kina-bolygomento-akcio-aszteroida-2015-xf-261",
-      "summary": "Kína valamikor 2029-ben, vagy 2030-ban ütköztetheti az űrszondáját a 2015 XF261 nevű aszteroidának. A cél, hogy megváltozzon a pályája."
+      "title": "Szigorít a TikTok, jön az újfajta ellenőrzés",
+      "link": "https://hvg.hu/tudomany/20260720_bytedance-tiktok-mesterseges-intelligencia-deepfake-kepmas-ellpoasa-elenorzes",
+      "summary": "Lecsap a TikTok a deepfake hasonmásokra, már teszteli az új eszközt."
     },
     {
-      "title": "Kedden is emelkedik az üzemanyagok nagykereskedelmi ára",
-      "link": "https://hvg.hu/gazdasag/20260720_kedden-is-emelkedik-az-uzemanyagok-nagykereskedelmi-ara",
-      "summary": "Ez borítékolhatóan valamilyen szinten átcsorog majd a kiskereskedelmi árakba is."
+      "title": "A Fehér Ház az eddigieknél is komolyabb hadműveletet indítana Irán ellen",
+      "link": "https://hvg.hu/vilag/20260720_feher-haz-iran-haboru-loszerhiany",
+      "summary": "A Pentagon növeli a közel-keleti térségben állomásozó légiflottájának létszámát, ugyanakkor kérdéses, hogy van-e az USA-nak elegendő erőforrása egy elhúzódó háborúhoz."
     },
     {
-      "title": "Károly király megbízta a kormányalakítással Andy Burnhamet",
-      "link": "https://hvg.hu/vilag/20260720_nagy-britannia-andy-burnham-iii-karoly-miniszterelnok-kormanyalakitas",
-      "summary": "A munkáspárti politikus elfogadta az uralkodó felkérését, így ő lett az ország új miniszterelnöke."
+      "title": "Kézifékhibával közlekedik több tucat új Volán-busz, ráadásul sok járműről a kötelező holttérfigyelő is hiányzik",
+      "link": "https://hvg.hu/gazdasag/20260720_kezifekhiba-kozlekedes-uj-credo-busz-unio-eloiras-holtterfigyelo-hiany",
+      "summary": "A MÁV 2025-ben rendelt közel 900 új buszt a Volán járataira, idén júniusban pedig körlevélben figyelmeztette a buszvezetőket, hogy egyes járműveken adott esetben a vezető műveletei ellenére nem húz be vagy old ki az elektromos kézifék. Ugyanakkor a buszok így is biztonságosan üzemeltethetők."
     },
     {
-      "title": "A futball következő nagy mérkőzése nem a vb-n dől el",
-      "link": "https://hvg.hu/360/20260720_premium-hirlevelek-bcg-uzleti-intelligencia-futball-jovo-fifa-uefa-mls-premier-league",
-      "summary": "Pénz, hatalom és zsúfolt versenynaptár. Min kellene változtatni, hogy a fociból ne gladiátorküzdelem váljon?"
+      "title": "Hősies önvédelem vagy gyilkosság rablókat lelőni? Olaszország vitatkozik, Elon Musk beleszól",
+      "link": "https://hvg.hu/elet/20260720_mario-roggero-olasz-ekszeresz-rablas-gyilkossag-elon-musk",
+      "summary": "Egy idős ékszerész börtönbe kerülése borzolja a kedélyeket Olaszországban, az ügynek politikai színezete is lett."
     }
   ],
   "BBC": [
     {
       "title": "Burnham promises help with your money. How could it affect you?",
       "link": "https://www.bbc.co.uk/news/articles/cp9ezldrkkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "New Prime Minister Andy Burnham says he wants life to be more affordable, but how could he do it?"
+      "summary": "The new PM says he will look at how much people can earn before paying tax but admitted changing it would be difficult."
     },
     {
-      "title": "Watch: Starmer resigns, Burnham becomes PM... the day in 98 seconds",
+      "title": "Burnham's policy choices reveal what kind of PM he wants to be",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping."
+    },
+    {
+      "title": "Key takeaways as Andy Burnham becomes PM",
+      "link": "https://www.bbc.co.uk/news/articles/c80nln7zgp7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new Labour leader has formally taken office and set out his priorities for power in No 10."
+    },
+    {
+      "title": "Watch: Starmer resigns, Burnham becomes PM... the day so far",
       "link": "https://www.bbc.co.uk/news/videos/cd0xgxgz135o?at_medium=RSS&at_campaign=rss",
       "summary": "Andy Burnham has become the UK's prime minister after being appointed by the King at Buckingham Palace."
     },
@@ -248,24 +258,19 @@
       "summary": "Van Heel, known as Frankie, is a marketing executive who has been in a relationship with Burnham since their university days."
     },
     {
-      "title": "'A circuit-breaker moment': Watch Andy Burnham's first speech as PM in full",
-      "link": "https://www.bbc.co.uk/news/videos/c934q2kkkvxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Andy Burnham spoke outside Downing Street after he replaced Keir Starmer as prime minister and leader of the Labour party."
+      "title": "Kevin Keegan, Liverpool footballer who managed England and Newcastle United, dies aged 75",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2lyl82n2e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former England captain and manager revealed seven weeks ago that he had been diagnosed with stage four cancer."
     },
     {
-      "title": "'I go with a smile': Watch Keir Starmer's last speech as prime minister in full",
-      "link": "https://www.bbc.co.uk/news/videos/cx2ml6g4y6ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Starmer spoke in front of an applauding crowd on Downing Street."
+      "title": "Ofcom launches investigation into Married at First Sight UK",
+      "link": "https://www.bbc.co.uk/news/articles/c4gyyx2zg59o?at_medium=RSS&at_campaign=rss",
+      "summary": "In May, BBC Panorama revealed rape allegations from two women on the show, which the men involved deny."
     },
     {
-      "title": "Broadcaster and journalist Edward Stourton dies aged 68",
-      "link": "https://www.bbc.co.uk/news/articles/c20d4j4v9g9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Stourton hosted Radio 4's Today programme for a decade and was a founding member of Channel 4 News."
-    },
-    {
-      "title": "Fire crews battle blaze on Arthur’s Seat in Edinburgh",
-      "link": "https://www.bbc.co.uk/news/articles/cr59mqnm081o?at_medium=RSS&at_campaign=rss",
-      "summary": "A huge plume of smoke could be seen from as far away as Fife on Sunday evening."
+      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "link": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans"
     },
     {
       "title": "My fitness tracker knew I was pregnant before I did",
@@ -278,19 +283,19 @@
       "summary": "The businessman said it was an \"honour\" to serve in the post, but the BBC understands he feels he has achieved all he can in the role."
     },
     {
+      "title": "Police block thousands of 'cockroach' protesters marching on India's parliament",
+      "link": "https://www.bbc.co.uk/news/articles/cvg9w9dxd7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some protesters demanding education reforms said they were injured in clashes with police who banned the march."
+    },
+    {
+      "title": "Rare identical quadruplets born in Australia",
+      "link": "https://www.bbc.co.uk/news/articles/cx2jnj3428lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The parents of the four naturally-conceived girls were taken by \"immense surprise\" with the pregnancy, the hospital said."
+    },
+    {
       "title": "Are you a parent missing out on £27 a week? Here's how to check",
       "link": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
       "summary": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says."
-    },
-    {
-      "title": "The small seaside town winning big from TV tourism",
-      "link": "https://www.bbc.co.uk/news/articles/clyq6vqx39zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hope Street has drawn tourists from around the world to Donaghadee in Northern Ireland - and its locals are also enjoying being part of the show."
-    },
-    {
-      "title": "Why David Beckham was the face of the World Cup",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwyq1ew4830o?at_medium=RSS&at_campaign=rss",
-      "summary": "After arriving in Los Angeles 19 years ago promising to grow the game, David Beckham is still helping sell football to America."
     },
     {
       "title": "Will the Tate brothers be extradited from the US to the UK?",
@@ -298,17 +303,42 @@
       "summary": "Andrew and Tristan Tate are set to face extradition proceedings in the US as British prosecutors issued 38 new charges against the brothers."
     },
     {
-      "title": "‘Everyone's afraid to die’: Struggle to recruit soldiers in Ukraine turns violent",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k5ngde3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Aggression against recruitment officers has become increasingly threatening, police say."
-    },
-    {
-      "title": "How India's 'cockroach' protest movement has grown from hundreds to thousands",
-      "link": "https://www.bbc.co.uk/news/videos/c0qvdywj97ko?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms."
+      "title": "The small seaside town winning big from TV tourism",
+      "link": "https://www.bbc.co.uk/news/articles/clyq6vqx39zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hope Street has drawn tourists from around the world to Donaghadee in Northern Ireland - and its locals are also enjoying being part of the show."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Adobe camera app’s new feature will critique your photos using AI",
+      "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app"
+    },
+    {
+      "title": "Hackers are exploiting recently patched WordPress bugs, putting millions of websites at risk",
+      "link": "https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/",
+      "summary": "Two critical security flaws in WordPress’ software have given hackers the chance to remotely take over tens of millions of websites, according to an estimate by a cybersecurity researcher."
+    },
+    {
+      "title": "YouTube clarifies policies around AI slop and upsetting videos",
+      "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+      "summary": "YouTube has updated its monetization policies to more clearly define the kinds of AI-generated and low-quality videos that can’t earn ad revenue."
+    },
+    {
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Athropic researchers",
+      "link": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "summary": "AI infrastructure company Infinity announced Monday a $15 million raise at a $100 million valuation from investors including Touring Capital, Principal VC, and researchers from companies such as OpenAI and Anthropic."
+    },
+    {
+      "title": "Hackers stole ‘significant’ amount of data from tech firm relied on by thousands of US hospitals and pharmacies",
+      "link": "https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/",
+      "summary": "Edinburgh-based tech firm Craneware said customer data was stolen during a cyberattack. The company makes software that thousands of U.S. hospitals, pharmacies, and clinics rely on for billing patients, potentially exposing health data."
+    },
+    {
+      "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+      "summary": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues."
+    },
     {
       "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
       "link": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
@@ -332,7 +362,7 @@
     {
       "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
       "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+      "summary": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast a shadow over OpenAi's much-discussed plans to get into hardware and go public."
     },
     {
       "title": "TechCrunch Mobility: The battle over robotaxi rules",
@@ -347,49 +377,34 @@
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "summary": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
     },
     {
       "title": "Waymo says San Francisco service has resumed after one-hour pause",
       "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
       "summary": "This isn’t the first time power outages have caused issues for Waymo."
-    },
-    {
-      "title": "Kimi: Threat or menace?",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-    },
-    {
-      "title": "All the EVs that were discontinued or killed off in the U.S. this year",
-      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/",
-      "summary": "Th Honda Prologue will no longer be sold in the U.S., joining a growing list of EV models to exit the market this year."
-    },
-    {
-      "title": "Federal employees can download TikTok on their work phones again",
-      "link": "https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/",
-      "summary": "The Department of Justice says that federal employees can now download TikTok on their government devices."
-    },
-    {
-      "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
-      "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
-      "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S."
-    },
-    {
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily."
-    },
-    {
-      "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-      "link": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-      "summary": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no further competition, a guaranteed spot on the world&#8217;s most [&#8230;]"
     }
   ],
   "Nature": [
     {
+      "title": "Detailed maps of European wetlands reveal overlooked patches of ecosystems",
+      "link": "https://www.nature.com/articles/d41586-026-02211-2",
+      "summary": "<p>Nature, Published online: 20 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02211-2\">doi:10.1038/d41586-026-02211-2</a></p>Satellite images have been analysed by a machine-learning algorithm to produce high-resolution maps of wetland environments — a boon for conservation efforts."
+    },
+    {
+      "title": "Smuggling charges against NIH virologists trigger political uproar",
+      "link": "https://www.nature.com/articles/d41586-026-01995-7",
+      "summary": "<p>Nature, Published online: 20 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01995-7\">doi:10.1038/d41586-026-01995-7</a></p>Other researchers say that non-infectious viral samples in luggage posed no risk, but might have violated import rules."
+    },
+    {
       "title": "The science of foresight: how to future-proof your research",
       "link": "https://www.nature.com/articles/d41586-026-02231-y",
       "summary": "<p>Nature, Published online: 20 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02231-y\">doi:10.1038/d41586-026-02231-y</a></p>Anticipating from the start the various ways a research programme can succeed or fail can avoid problems later. Here’s how to do it."
+    },
+    {
+      "title": "Huge study finds first genetic clues for borderline personality disorder",
+      "link": "https://www.nature.com/articles/d41586-026-02220-1",
+      "summary": "<p>Nature, Published online: 20 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02220-1\">doi:10.1038/d41586-026-02220-1</a></p>Largest genetic analysis of the condition so far finds 11 linked locations in the human genome."
     },
     {
       "title": "My job interviews for industry positions are going nowhere. How do I make myself stand out?",
@@ -445,21 +460,6 @@
       "title": "AI is set to completely transform cybersecurity — here’s how researchers must prepare",
       "link": "https://www.nature.com/articles/d41586-026-02214-z",
       "summary": "<p>Nature, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02214-z\">doi:10.1038/d41586-026-02214-z</a></p>As automated tools accelerate both the discovery and the exploitation of software vulnerabilities, organizations must redesign their defences and workflows to keep pace."
-    },
-    {
-      "title": "A global capital for AI safety is emerging — and it’s not in Silicon Valley",
-      "link": "https://www.nature.com/articles/d41586-026-01389-9",
-      "summary": "<p>Nature, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01389-9\">doi:10.1038/d41586-026-01389-9</a></p>The United Kingdom is gaining influence through its growing AI-safety ecosystem."
-    },
-    {
-      "title": "US politicians push agencies to restrict research collaboration with China",
-      "link": "https://www.nature.com/articles/d41586-026-02226-9",
-      "summary": "<p>Nature, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02226-9\">doi:10.1038/d41586-026-02226-9</a></p>Republicans and Democrats worry about research theft and exploitation — but don’t agree on how to solve the problem."
-    },
-    {
-      "title": "CRISPR gets a power boost from AI-designed ‘molecular scissors’",
-      "link": "https://www.nature.com/articles/d41586-026-02217-w",
-      "summary": "<p>Nature, Published online: 16 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02217-w\">doi:10.1038/d41586-026-02217-w</a></p>Researchers used artificial intelligence to design functional CRISPR enzymes not seen in nature."
     }
   ]
 }

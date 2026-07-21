@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Fidesz szervereit foglalta le az ügyészség az NKA-botrány miatt",
-      "summary": "Az ügyészség lefoglalta a Fidesz szervereit a Nemzeti Kulturális Alap (NKA) körüli botrány miatt. A lépés a párt teljes kommunikációs rendszerét és adatbázisait érinti, ami komoly politikai következményekkel járhat.",
+      "title": "Megszavazta a parlament az iskolakezdési támogatást és az új közmédia alapjait",
+      "summary": "A magyar parlament elfogadta a százezer forintos iskolakezdési támogatás bevezetését, amely jelentős segítséget nyújt a családoknak. Emellett döntés született az új közmédia működését szabályozó alapokról is.",
       "importance": 5
     },
     {
-      "title": "A parlament megszavazta az iskolakezdési támogatást és a közmédia megújulásának alapjait",
-      "summary": "A magyar parlament elfogadta az iskolakezdési támogatás bevezetését, amely az oktatásban résztvevő családoknak nyújt segítséget. Emellett döntés született az új közmédia alapjait lefektető javaslatról is, ami jelentős változásokat hozhat a médiumok működésében.",
+      "title": "Országos vizsgálat indult a kórházban hagyott kisgyerekek ügyében",
+      "summary": "Országos vizsgálatot indítottak a kórházakban maradt, gondozó nélkül élő gyermekek helyzetének feltárására, célul tűzve ki a probléma sürgős és hatékony megoldását. Az ügy a gyermekvédelem egyik legsúlyosabb kihívása.",
       "importance": 5
     },
     {
-      "title": "Feljelentés született eltűnt, félmilliárdos honvédségi eszközök ügyében",
-      "summary": "Ruszin-Szendi Romulusz vezérezredes és csapata feljelentést tett a félmilliárd forint értékű, eltűnt honvédségi eszközök ügyében. Az eset az előző kormány idején megrendelt tételeket érinti, és súlyos hivatali visszaélés gyanúját veti fel.",
+      "title": "Ügyészségi lefoglalás a Fidesz szerverein az NKA-botrány miatt",
+      "summary": "Az ügyészség lefoglalta a Fidesz szervereit a Nemzeti Kulturális Alap (NKA) körüli botrány miatt, amely a párt kommunikációs rendszereit és adatbázisait érinti. A lépés komoly politikai és jogi következményekkel járhat.",
       "importance": 5
     },
     {
-      "title": "A Tisza Párt nyitott az új államfőjelöltekre a Polgár Judit-fiaskó után",
-      "summary": "A Polgár Judit körüli vita után a Tisza Párt jelezte, hogy nyitott az új köztársasági elnökjelöltekre, és kész együttműködni más frakciókkal is. Ez a fejlemény átrendezheti a politikai erőviszonyokat az államfőválasztás kérdésében.",
-      "importance": 5
+      "title": "Varga Mihály a forintról: a kilengések elkerülése a cél",
+      "summary": "Varga Mihály pénzügyminiszter megerősítette a kormány szándékát a forint árfolyamának stabilizálására, elkerülve az elmúlt éveket jellemző erős ingadozásokat. Ezzel egy időben tovább csökkent az alapkamat, ami a gazdaság élénkítését szolgálja.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az USA újabb csapásokat mért Iránra, Trump megtorlással fenyeget katonái halála miatt",
-      "summary": "Az Egyesült Államok újabb légicsapásokat hajtott végre Irán ellen, miután amerikai katonák életüket vesztették egy támadásban. Donald Trump volt elnök is megtorlással fenyegette Iránt, ami a regionális feszültségek további eszkalálódásához vezethet.",
+      "title": "Újabb amerikai légicsapások Irán ellen, Trump megtorlást ígér",
+      "summary": "Az Egyesült Államok újabb légicsapásokat hajtott végre Irán ellen, miután amerikai katonák haltak meg egy korábbi támadásban. Donald Trump volt elnök azonnali és erőteljes megtorlást sürgetett.",
       "importance": 5
     },
     {
-      "title": "Putyin utolsó kísérlete Ukrajna ellen, miközben Oroszország óriási emberveszteségeket szenved",
-      "summary": "Vlagyimir Putyin az utolsó nagy katonai kísérletre készülhet Ukrajna ellen, miközben az orosz hadsereg már milliós nagyságrendű veszteségeket szenvedett. Az elemzők szerint a hatalmas emberveszteségeket Oroszország sem tudja már elrejteni a nyilvánosság elől.",
-      "importance": 5
-    },
-    {
-      "title": "Elmélyül a vita Ukrajnában a hadsereg főparancsnokának jövőjéről",
-      "summary": "Ukrajnában eszkalálódott a vita a hadsereg főparancsnokának jövőjéről, ami belső feszültségeket okoz a háborús időkben. A vezetés körüli bizonytalanság befolyásolhatja az ország védekezőképességét.",
+      "title": "Eskalálódó feszültség Ukrajnában a hadsereg parancsnokának jövője körül",
+      "summary": "Az ukrán hadsereg főparancsnokának jövője körüli vita egyre súlyosabbá válik, ami belső feszültségeket jelez az orosz invázióval szembeni védekezés közepette. A helyzet hatással lehet az ország harcképességére.",
       "importance": 4
     },
     {
-      "title": "Locsolási tilalmat vezet be a Thames Water 10 millió ember számára",
-      "summary": "A Thames Water vízügyi vállalat locsolási tilalmat rendelt el mintegy 10 millió fogyasztója számára az Egyesült Királyságban, a tartós szárazság miatt. A lépés a vízhiány elleni védekezés része, és a háztartásokra jelentős hatással van.",
+      "title": "Jelentősen csökkent az Amazonas égésterülete 2025-ben",
+      "summary": "Brazíliai jelentések szerint 2025-ben jelentősen visszaesett az Amazónia területén elégetett erdős területek nagysága. Ez reményt ad az erdőirtás elleni küzdelemben és a klímaváltozás elleni fellépésben.",
+      "importance": 4
+    },
+    {
+      "title": "Orosz hadihajó végzett lőgyakorlatot a Plymouth partjainál",
+      "summary": "Egy orosz hadihajó lőgyakorlatot hajtott végre az Egyesült Királyság partjainál, Plymouth közelében. Az incidens tovább növeli a feszültséget Oroszország és a NATO-országok között.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az USA szankciókkal fenyegeti a kínai AI-modelleket IP-lopás miatt",
-      "summary": "Az Egyesült Államok szankciókat helyez kilátásba a kínai mesterséges intelligencia (AI) modellek ellen, a szellemi tulajdon ellopása miatt. Ez a lépés tovább élezheti a technológiai háborút a két nagyhatalom között, és befolyásolhatja az AI fejlesztés globális irányát.",
+      "title": "A Google három új Gemini modellt mutatott be",
+      "summary": "A Google bemutatta mesterséges intelligencia modellcsaládjának, a Gemininek három új tagját, ezzel bővítve képességeit a különböző alkalmazási területeken. A 3.5 Pro verzió azonban még várat magára.",
       "importance": 5
     },
     {
-      "title": "10 millió dolláros támogatást kapott a Bluecore Energy hordozható atomreaktorok fejlesztésére",
-      "summary": "A Bluecore Energy 10 millió dolláros finanszírozást szerzett hordozható atomreaktorok uszályokon való építésére. Ez a technológia forradalmasíthatja az energiaellátást a távoli területeken vagy katasztrófa sújtotta övezetekben.",
+      "title": "Az Egyesült Államok szankciókkal fenyegeti a kínai AI-modelleket IP-lopás miatt",
+      "summary": "Az Egyesült Államok szankciókat helyez kilátásba kínai mesterséges intelligencia modellekkel szemben szellemi tulajdonjogok megsértése miatt. Ez tovább élezi a technológiai versenyt és a geopolitikai feszültségeket a két ország között.",
       "importance": 5
     },
     {
-      "title": "A Deezer szerint napi feltöltéseik több mint fele mesterséges intelligencia által generált zene",
-      "summary": "A Deezer zenei streaming szolgáltató bejelentette, hogy napi feltöltéseinek több mint 50%-a már mesterséges intelligencia (AI) által generált zene. Ez a trend mélyrehatóan átalakítja a zeneipart és a tartalomgyártás folyamatát.",
-      "importance": 5
+      "title": "Tömeges adatvédelmi incidens érinti az AI zene generátor Suno felhasználóit",
+      "summary": "Az AI zene generátor Suno szolgáltatóját érintő adatvédelmi incidensben mintegy 55 millió felhasználó adatai kerültek veszélybe. Az esemény ismét rávilágít a mesterséges intelligencia platformok biztonsági kockázataira.",
+      "importance": 4
     },
     {
-      "title": "Jóváhagyták az Anthropic 1,5 milliárd dolláros mérföldkőnek számító szerzői jogi megállapodását",
-      "summary": "Jóváhagyták az Anthropic AI cég 1,5 milliárd dolláros szerzői jogi egyezségét, ami precedenst teremthet a mesterséges intelligencia és a szellemi tulajdon viszonyában. Ez a megállapodás kulcsfontosságú lehet az AI fejlesztők és a tartalomtulajdonosok közötti jövőbeli viták rendezésében.",
-      "importance": 5
+      "title": "A Deezer zenei streaming szolgáltató szerint a feltöltések több mint fele AI-generált",
+      "summary": "A Deezer zenei streaming platform adatai szerint a napi feltöltések több mint 50 százaléka már mesterséges intelligencia által generált tartalmat jelent. Ez jelentős változást hoz a zeneiparban és a tartalomelőállítási folyamatokban.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az olaj- és gázkitermelés a mélytenger felé tolódik – íme, ami forog kockán",
-      "summary": "Az olaj- és gázkitermelés egyre inkább a mélytengeri területekre összpontosul, ami óriási környezeti kockázatokat rejt. A sérülékeny mélytengeri ökoszisztémákra és a globális éghajlatra gyakorolt hatások komoly aggodalomra adnak okot.",
+      "title": "Elrejtőzve találták meg a Földről valaha észlelt leghalványabb bolygót",
+      "summary": "Csillagászok felfedezték a Földről valaha megfigyelt leghalványabb bolygót, amely hosszú ideig rejtve maradt a tudósok szemei elől. Ez a felfedezés új betekintést nyújt a bolygókeresés módszereibe és az univerzum rejtélyeibe.",
       "importance": 5
     },
     {
-      "title": "Új remény a kachexia elleni küzdelemben, a rák halálos társbetegsége ellen",
-      "summary": "Új felfedezések nyújtanak reményt a kachexia, a rákos betegek körében gyakori, halálos izomsorvadásos állapot elleni küzdelemben. Ez az áttörés jelentősen javíthatja a daganatos betegek életminőségét és túlélési esélyeit.",
+      "title": "Új remény a cachexia – a rák halálos kísérője – elleni küzdelemben",
+      "summary": "Új kutatások adnak reményt a cachexia, a rákos betegek súlyos izomsorvadásos állapotának kezelésére. Ez a felfedezés segíthet javítani a betegek életminőségét és meghosszabbítani túlélésüket.",
       "importance": 5
     },
     {
-      "title": "Hatalmas tanulmány az első genetikai nyomokat találja a borderline személyiségzavarhoz",
-      "summary": "Egy nagyszabású kutatás során azonosították a borderline személyiségzavar (BPD) első genetikai markereit. Ez a felfedezés alapvető fontosságú lehet a betegség jobb megértéséhez, diagnosztizálásához és hatékonyabb kezelésének kifejlesztéséhez.",
-      "importance": 5
+      "title": "Hatalmas tanulmány talált genetikai nyomokat a borderline személyiségzavarhoz",
+      "summary": "Egy nagyszabású tanulmány keretében először azonosítottak genetikai összefüggéseket a borderline személyiségzavar kialakulásával kapcsolatban. Ez az áttörés új utakat nyithat a betegség megértésében és kezelésében.",
+      "importance": 4
     },
     {
-      "title": "Édes meglepetés: Megtalálták az eddig rejtőzködő cukormolekulákat az űrben",
-      "summary": "Csillagászoknak sikerült azonosítaniuk eddig rejtőzködő cukormolekulákat a világűrben, ami fontos áttörést jelent az élet eredetének kutatásában. Ez a felfedezés új perspektívákat nyit a bolygókon kívüli élet kialakulásának vizsgálatában.",
+      "title": "Őrült tempóban fogy az oxigén a vizekből, komoly bajt jelezve",
+      "summary": "A világ vizeiben az oxigénszint aggasztóan gyors ütemben csökken, ami komoly ökológiai problémákat jelez, és veszélyezteti a tengeri élővilágot. Ez a jelenség a klímaváltozás és a szennyezés következménye.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Fernandez megvédi az argentin csapatot a spanyolok elleni vb-döntő után",
-      "summary": "Az argentin csapat Fernández kapitánya kiállt játékosai mellett, miután a Spanyolország elleni világbajnoki döntőben csúnya jelenetek zajlottak. A csapat a vereség ellenére is büszke a teljesítményére, de a sportszerűtlenségek árnyékot vetettek az eseményre.",
-      "importance": 5
-    },
-    {
-      "title": "Nyomozás indult a 25 milliárdos Fradiváros-projekt miatt",
-      "summary": "Nyomozás vette kezdetét a Ferencváros 25 milliárd forintos Fradiváros-projektjével kapcsolatban, amely a sportklub infrastrukturális fejlesztéseit érinti. Az ügy a projekt pénzügyi hátterét és az esetleges szabálytalanságokat vizsgálja.",
-      "importance": 4
-    },
-    {
-      "title": "Ikonikus olimpiai fotó: Egervári Márta bronzérme 50 évvel ezelőtt Montrealban",
-      "summary": "Egy ikonikus fotó emlékezik meg Egervári Márta 50 évvel ezelőtti, montreali olimpiai bronzérméről. A kép a magyar sporttörténet egyik emlékezetes pillanatát örökíti meg, tisztelegve a sportolónő teljesítménye előtt.",
+      "title": "Az argentin csapat védelmére kelt Fernandez egy spanyolok elleni vb-döntőn",
+      "summary": "Az argentin közéleti szereplő, Fernandez védelmébe vette a válogatottat egy Spanyolország elleni világbajnoki döntőben tapasztalt vitatott jelenetek után. Az incidensek sportdiplomáciai feszültséget okozhattak.",
       "importance": 3
+    },
+    {
+      "title": "Spanyol pilóta tréfálta meg argentin utasait a focivébével",
+      "summary": "Egy spanyol pilóta azzal viccelte meg argentin utasait, hogy Argentína nyerte meg a labdarúgó világbajnokságot. A tréfa vegyes reakciókat váltott ki a repülőgépen.",
+      "importance": 2
+    },
+    {
+      "title": "Ikonikus fotó az 50 évvel ezelőtti montreali olimpiáról: Egervári Márta bronzérmes",
+      "summary": "Egy ikonikus fotó eleveníti fel Egervári Márta bronzérmes teljesítményét az 50 évvel ezelőtti montreali olimpiáról. A kép a magyar sporttörténet egyik emlékezetes pillanatát örökíti meg.",
+      "importance": 2
+    },
+    {
+      "title": "Az állóképességi sportok tanulságai a kutatói munkában",
+      "summary": "Egy cikk azt boncolgatja, hogyan segítettek az állóképességi sportok által tanult leckék a jobb kutatóvá válásban. Kiemeli a kitartás, a fókusz és a kudarcokból való tanulás fontosságát a tudományos munkában is.",
+      "importance": 1
     }
   ]
 }

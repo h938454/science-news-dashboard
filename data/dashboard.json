@@ -1,101 +1,111 @@
 {
   "hungary": [
     {
-      "title": "A Fidesz nem vesz részt az alkotmánybírók jelölésében és megválasztásában",
-      "summary": "A Fidesz–KDNP frakció közölte, hogy nem delegál tagokat az alkotmánybírókat jelölő testületbe, és nem vesz részt a megválasztásukban sem. Ezzel politikai feszültséget generálnak az igazságszolgáltatási rendszerben, komoly alkotmányjogi aggályokat felvetve.",
+      "title": "Itt vannak az idei felvételi ponthatárok",
+      "summary": "Megjelentek a 2024-es felsőoktatási felvételi ponthatárok, melyek ezúttal is tízezrek jövőjét befolyásolják. Az ELTE pszichológia szakára például 455 pontra volt szükség a bejutáshoz.",
       "importance": 5
     },
     {
-      "title": "Megjelentek a felvételi ponthatárok: jogra és politikatudományra is visszaesett az ELTE-n",
-      "summary": "Közzétették az idei felsőoktatási felvételi ponthatárokat, melyek szerint több népszerű szakon, például az ELTE jogász- és politikatudományi képzésén is jelentősen csökkent a bejutáshoz szükséges pontszám. Ez alapvetően befolyásolja több ezer fiatal jövőjét és az oktatási rendszer kihívásaira is rávilágít.",
-      "importance": 5
-    },
-    {
-      "title": "Az Állami Számvevőszék reakciója Magyar Péterre: „Az ÁSZ ellenőrzi a kormányt és nem a kormány az ÁSZ-t”",
-      "summary": "Az Állami Számvevőszék nyilatkozatban reagált Magyar Péter bejelentésére, hangsúlyozva, hogy a szervezet feladata a kormányzati ellenőrzés, és nem fordítva. Ez a nyilatkozat a magyar politikai élet egyik központi intézményének függetlenségét hangsúlyozza, válaszul a működésük felülvizsgálatára vonatkozó felvetésekre.",
+      "title": "Az Állami Számvevőszék reagálása Magyar Péter kritikájára",
+      "summary": "Az ÁSZ hangsúlyozta, hogy a szervezet a kormányt ellenőrzi, és nem fordítva, válaszul Magyar Péter felülvizsgálati szándékára. Ez a nyilatkozat az intézményi függetlenség melletti kiállásként értelmezhető a politikai viták közepette.",
       "importance": 4
     },
     {
-      "title": "Egyszerre tíz nővér mondott fel a Kútvölgyi úti sebészeten",
-      "summary": "Tíz nővér adta be egyszerre felmondását a Kútvölgyi úti kórház sebészetén, súlyos kihívások elé állítva az osztály működését. Az eset rávilágít az egészségügyi rendszerben tapasztalható munkaerőhiányra és a dolgozók elégedetlenségére.",
+      "title": "Fidesz: nem vesznek részt az alkotmánybírók jelölésében és megválasztásában",
+      "summary": "A kormánypárt közölte, hogy tartózkodik az új alkotmánybírók jelölésétől és megválasztásától, ami jelentős politikai döntés. Ez a lépés további feszültségeket okozhat a hazai jogrendszer és a politikai erőviszonyok terén.",
+      "importance": 4
+    },
+    {
+      "title": "Orbánék 202 millió forint közpénzt költöttek tusványosi utazásokra",
+      "summary": "Az elmúlt években Orbán Viktor és kísérete több mint 202 millió forint közpénzt fordított a tusványosi utazásokra. Ez a kiadás komoly vitákat válthat ki a közpénzek felhasználásáról és az elszámoltathatóságról.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Donald Trump ismét hatalmas támadást fontolgat Irán ellen",
-      "summary": "Donald Trump volt amerikai elnök állítása szerint „minden eddiginél nagyobb” támadást fontolgat Irán ellen. Ez a nyilatkozat súlyos feszültséget gerjeszt a közel-keleti régióban és nemzetközi aggodalmakat vet fel egy lehetséges konfliktus eszkalációja miatt.",
+      "title": "Trump: Szaúd-Arábiának el kell ismernie Izraelt egy atomalkuhoz",
+      "summary": "Donald Trump volt amerikai elnök kijelentette, Szaúd-Arábiának el kell ismernie Izraelt ahhoz, hogy nukleáris megállapodást köthessen az Egyesült Államokkal. Ez a feltétel jelentős regionális geopolitikai átrendeződéshez vezethet a Közel-Keleten.",
       "importance": 5
     },
     {
-      "title": "Az olajárak május óta először elérték a 100 dollárt",
-      "summary": "Az olaj világpiaci ára május óta először elérte a hordónkénti 100 dollárt. Ez a növekedés jelentős hatással lehet a globális gazdaságra és az inflációra, fokozva az energiaár-ingadozások miatti aggodalmakat.",
+      "title": "Húti támadások: a Közel-Keleti konfliktus kiszélesedésétől tartanak",
+      "summary": "A húti támadások aggodalmat keltenek egy szélesebb közel-keleti konfliktus kirobbanása és további globális gazdasági károk miatt. A tengeri útvonalak biztonsága és a régió stabilitása globális szinten is befolyásolja a piacokat.",
       "importance": 5
     },
     {
-      "title": "Az orosz támadások akadályozzák az ukrán gabonaszállítást, a világpiac is megérezheti",
-      "summary": "Az orosz támadások meghiúsítják az ukrán gabona szállítását, ami aggodalomra ad okot a globális élelmiszerellátás stabilitása miatt. A helyzet a világpiaci árakra is hatással lehet, tovább súlyosbítva az élelmiszerválságot a háború által érintett területeken.",
-      "importance": 5
+      "title": "Az olajárak $100 fölé emelkedtek először május óta",
+      "summary": "A kőolaj hordónkénti ára először lépte át a 100 dolláros határt május óta, ami komoly hatással lehet a világgazdaságra. Ez az emelkedés az inflációs nyomást is növelheti világszerte.",
+      "importance": 4
     },
     {
-      "title": "Trump szerint Szaúd-Arábiának el kell ismernie Izraelt a nukleáris megállapodásért",
-      "summary": "Donald Trump kijelentette, hogy Szaúd-Arábiának el kell ismernie Izraelt egy esetleges nukleáris megállapodás részeként. Ez a javaslat jelentős változásokat hozhat a közel-keleti diplomáciában, és potenciálisan átalakíthatja a regionális szövetségeket.",
-      "importance": 5
+      "title": "Ukrán drónok lőttek ki egy pótolhatatlan orosz bombázót",
+      "summary": "Ukrán drónoknak sikerült kilőniük egy \"pótolhatatlan\" orosz bombázót, ami jelentős veszteség az orosz légierő számára. Ez az incidens a háború további eszkalálódását jelezheti és stratégiai következményekkel járhat.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Irán-barát hackerek zavarják az amerikai víz- és energiaszolgáltatókat",
-      "summary": "Az Egyesült Államok kormánya szerint Iránhoz köthető hackerek támadják az amerikai víz- és energiaszolgáltatók rendszereit. A kibertámadások kritikus infrastruktúrákat veszélyeztetnek, nemzetbiztonsági kockázatot jelentve és rávilágítva a digitális védelem fontosságára.",
+      "title": "Irán-kapcsolt hackerek támadják az amerikai víz- és energiaszolgáltatókat",
+      "summary": "Az amerikai kormányzat szerint iráni hackerek zavarják az amerikai víz- és energiaszolgáltatókat, ami kritikus infrastruktúra elleni támadásokat jelent. Ez a kiberfenyegetés komoly nemzetbiztonsági aggályokat vet fel.",
       "importance": 5
     },
     {
-      "title": "Az AI chip startup, az Etched 10,3 milliárd dolláros értékelést ért el",
-      "summary": "Az Etched nevű mesterséges intelligencia chip startup 10,3 milliárd dolláros piaci értékelést ért el, defying szkeptikusokat. Ez a hatalmas befektetés rávilágít az AI hardverpiac iránti óriási bizalomra és a szektor exponenciális növekedésére.",
-      "importance": 5
-    },
-    {
-      "title": "Az OpenAI minden amerikai felhasználó számára elérhetővé teszi a ChatGPT Health-et",
-      "summary": "Az OpenAI az összes amerikai felhasználó számára elérhetővé tette a ChatGPT Health változatát. Ez a lépés jelentős előrelépést jelent az AI-alapú egészségügyi szolgáltatások széleskörű elterjedésében, potenciálisan átalakítva a betegellátást és a hozzáférést az orvosi információkhoz.",
+      "title": "Az AI chip start-up Etched 10,3 milliárd dolláros értékelést ért el",
+      "summary": "Az Etched nevű mesterséges intelligencia chip-startup 10,3 milliárd dolláros értékelést ért el, ami jelzi a befektetők töretlen bizalmát az AI-ágazatban. Ez a finanszírozás tovább erősítheti a versenyt az AI hardverek piacán.",
       "importance": 4
     },
     {
-      "title": "A Tesla robotaxijai „hátrafelé mennek” a fejlesztésben",
-      "summary": "A Tesla robotaxi fejlesztései kihívásokkal küzdenek, ami azt jelzi, hogy a projekt a várakozásokkal ellentétben inkább 'hátrafelé halad'. Ez a hír rávilágít az önvezető technológia komplexitására és a jelentős akadályokra, amelyekkel még a vezető cégek is szembesülnek.",
+      "title": "A Meta kilép a tiszta energia paktumból, gázüzemű bővítéseket gyorsít",
+      "summary": "A Meta kivonult egy jelentős tiszta energia paktumból, miközben felgyorsítja a földgáz alapú infrastruktúrájának kiépítését. Ez a döntés komoly kritikákat válthat ki a vállalat környezeti kötelezettségvállalásaival kapcsolatban.",
+      "importance": 4
+    },
+    {
+      "title": "Az OpenAI elérhetővé teszi a ChatGPT Health-et az amerikai felhasználók számára",
+      "summary": "Az OpenAI bevezeti a ChatGPT Health szolgáltatást az Egyesült Államok minden felhasználója számára, ami a mesterséges intelligencia egészségügyi alkalmazásainak terjedését jelzi. Ez forradalmasíthatja az orvosi tanácsadást és információkeresést.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A valaha volt legnagyobb El Niño-ra számíthatunk",
-      "summary": "A szakértők szerint az idei El Niño jelenség a valaha mért legnagyobb lesz, 'megdöbbentő' mértékben meghaladva a korábbi rekordokat. Ez globális időjárási és éghajlati zavarokat okozhat, súlyos következményekkel járva az ökoszisztémákra és a mezőgazdaságra.",
+      "title": "Az idei El Niño lesz a legnagyobb a feljegyzések szerint",
+      "summary": "Az előrejelzések szerint az idei El Niño az eddigi legnagyobb lesz, \"megdöbbentő\" mértékben meghaladva a korábbiakat. Ez súlyos időjárási anomáliákat és globális éghajlati hatásokat okozhat világszerte.",
       "importance": 5
     },
     {
-      "title": "42 kutatás bizonyítja a légszennyezés súlyos egészségügyi hatásait",
-      "summary": "Negyvenkét kutatás eredményei támasztják alá, hogy a légszennyezés súlyos, hosszú távú egészségügyi hatásokkal járhat, a szív- és érrendszeri betegségektől a légúti problémákig. Ez megerősíti a levegőminőség javításának sürgősségét a közegészségügy szempontjából, és cselekvésre ösztönöz.",
+      "title": "Szigorú korlátozások várnak a nemzetközi PhD hallgatókra az Egyesült Államokban",
+      "summary": "A nemzetközi PhD hallgatók szigorú időbeli korlátozásokkal néznek szembe az Egyesült Államokban, ami jelentősen befolyásolhatja a globális tudományos együttműködést és a tehetségek áramlását. Ez a lépés hosszú távon hatással lehet az amerikai kutatási kapacitásokra.",
       "importance": 4
     },
     {
-      "title": "Elektronikus rezonanciával erősített molekula perovskite napelemekhez",
-      "summary": "Kutatók egy elektronikus rezonanciával erősített molekulát fejlesztettek ki perovskite napelemekhez, ami jelentősen növelheti a hatékonyságukat. Ez áttörést hozhat a megújuló energiaforrások fejlesztésében, hozzájárulva a fenntarthatóbb jövőhöz.",
+      "title": "Új, elektronikus rezonanciával erősített molekula perovszkit napelemekhez",
+      "summary": "Kutatók egy elektronikus rezonanciával erősített molekulát fejlesztettek ki perovszkit napelemekhez, amely növelheti azok hatékonyságát. Ez a felfedezés ígéretes lehet a megújuló energiaforrások fejlesztése terén.",
       "importance": 4
     },
     {
-      "title": "A krími-kongói vérzéses láz vírus polimerázának szerkezete és gátlása",
-      "summary": "Vizsgálták a krími-kongói vérzéses láz vírus (CCHFV) polimerázának szerkezetét és gátlását, ami kulcsfontosságú lehet a vírus elleni gyógyszerek fejlesztésében. Ez a kutatás hozzájárulhat egy veszélyes járvány kezeléséhez és a globális egészségügyi biztonsághoz.",
+      "title": "A CRISPR-Cas rendszer szabályozza a beágyazott vírusellenes védelmi rendszerek expresszióját",
+      "summary": "A CRISPR-Cas rendszer a beágyazott vírusellenes védelmi rendszerek expresszióját szabályozza, új betekintést nyújtva a génszerkesztési technológiák működésébe. Ez a felfedezés alapvető jelentőségű lehet a virológia és a biotechnológia számára.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kós Hubert csúcsokra vágyik az úszó-Eb-n, és odaszúrt Milák Kristófnak",
-      "summary": "Kós Hubert magyar úszó nagy ambíciókkal vág neki az Európa-bajnokságnak, és nyilatkozatában odaszúrt Milák Kristófnak, utalva a rivális formahanyatlására. Ez felkorbácsolja a hazai úszósportban a versenyszellemet és érdekes párbajt vetít előre.",
+      "title": "Hollandiában nyert az El-meccsen a Ferencváros",
+      "summary": "A Ferencváros győzelmet aratott idegenben az Európa Liga mérkőzésen, ami fontos lépést jelentett a csoportkörben való szereplésük szempontjából. A magyar csapat sikere nagyban hozzájárult a nemzetközi kupaszereplésük pozitív megítéléséhez.",
       "importance": 4
     },
     {
-      "title": "Norvégia nem hagyja, hogy elsikkadjon a Balogun-ügy, kimondatná a FIFA-vezérrel, hogy hibázott",
-      "summary": "Norvégia nem hajlandó elengedni a Balogun-ügyet, és azt szeretné, ha a FIFA-elnök elismerné hibáját az ügyben. Ez a nemzetközi futballpolitikában kiváltott vita befolyásolhatja a jövőbeni átigazolási szabályokat és a sportvezetés felelősségre vonhatóságát.",
+      "title": "A Paks kikapott a Panathinaikosztól az El-selejtezőn",
+      "summary": "A Paks alulmaradt a Panathinaikosz elleni Európa Liga selejtezőn, ezzel búcsúzva a sorozattól. A vereség ellenére a csapat értékes tapasztalatokat szerzett a nemzetközi porondon.",
+      "importance": 3
+    },
+    {
+      "title": "Kós Hubert csúcsokra vágyik az úszó-Eb-n és odaszúrt Milák Kristófnak",
+      "summary": "Kós Hubert nagy ambíciókkal tekint az úszó Európa-bajnokság elé, és egyúttal Milák Kristófnak is üzent, jelezve a hazai úszósportban rejlő rivalizálást. A két sportoló versengése fokozhatja a magyar úszók teljesítményét.",
+      "importance": 4
+    },
+    {
+      "title": "Norvégia nem hagyja, hogy elsikkadjon a Balogun-ügy a FIFA-nál",
+      "summary": "Norvégia határozottan kiáll a Balogun-ügy mellett, és elvárja, hogy a FIFA vezetője elismerje a hibáit az ügyben. Ez az eset rávilágít a nemzetközi labdarúgó-szövetség átláthatóságával és döntéshozatalával kapcsolatos kérdésekre.",
       "importance": 3
     }
   ]

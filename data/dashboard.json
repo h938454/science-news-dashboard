@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Kijöttek a felvételi ponthatárok: sok szakon csökkentek a bejutáshoz szükséges pontok",
-      "summary": "Megjelentek az idei egyetemi felvételi ponthatárok, melyek szerint több népszerű képzésen, például jogászképzésen és az ELTE politikatudományi szakán is jelentősen visszaestek a bejutáshoz szükséges pontok. Összességében a jelentkezők 72 százalékát vették fel az intézményekbe.",
+      "title": "Földrengés Ausztriában, érezhető Magyarországon",
+      "summary": "Ausztriában éjszaka földrengés volt, amelyet Magyarországon is sokan éreztek. Az eseményről több településről is érkeztek jelentések, de károkról egyelőre nem érkezett hír.",
       "importance": 4
     },
     {
-      "title": "Az Állami Számvevőszék határozottan visszautasítja a külső befolyásolást",
-      "summary": "Az Állami Számvevőszék (ÁSZ) közleményben reagált az intézmény működését érintő kritikákra, hangsúlyozva, hogy az ÁSZ ellenőrzi a kormányt, és nem fordítva. Ezzel az intézmény függetlenségét és alkotmányos szerepét erősítette meg a jelenlegi politikai viták közepette.",
+      "title": "Megreccsent a Fidesz: nem indul időközi választásokon több városban",
+      "summary": "A Fidesz nem állít jelöltet több időközi választáson, például Békéscsabán és Makón. Ez a lépés komoly fordulatot jelezhet a párt politikájában és helyi erejében, különösen a közelgő önkormányzati választások előtt.",
+      "importance": 5
+    },
+    {
+      "title": "Jelentősen csökkentek a felvételi ponthatárok több egyetemi szakon",
+      "summary": "Megjelentek a felvételi ponthatárok, melyek szerint idén alacsonyabb pontszámmal is be lehet jutni jogászképzésre és az ELTE politikatudományi szakára. Ez sok diák számára változást hozhat a felsőoktatásba való bejutásban, és a szakok népszerűségét is befolyásolhatja.",
       "importance": 4
     },
     {
-      "title": "Tíz nővér mondott fel egyszerre a Kútvölgyi kórház sebészetén",
-      "summary": "Egyszerre tíz nővér hagyta ott a Kútvölgyi úti kórház sebészeti osztályát, ami jelentős problémákat okozhat az ellátásban. Ez a hír rávilágít az egészségügyi dolgozók elégedetlenségére és a rendszerszintű kihívásokra a magyar egészségügyben.",
-      "importance": 4
-    },
-    {
-      "title": "Forsthoffer Ágnes és Sulyok Tamás államfő személyesen találkoztak",
-      "summary": "Forsthoffer Ágnes, a közelmúltban aláírt iskolakezdési támogatásról szóló törvény kapcsán, személyesen találkozott Sulyok Tamás államfővel a Sándor-palotában. A találkozó az új állami szereplő hivatalos bemutatkozását és első nagyobb jogi lépését követi.",
+      "title": "Tömeges felmondás a Kútvölgyi úti kórház sebészetén",
+      "summary": "Egyszerre tíz nővér mondott fel a Kútvölgyi úti kórház sebészeti osztályán. A tömeges távozás aggodalmakat vet fel az egészségügyi ellátás stabilitásával és a munkaerőhiánnyal kapcsolatban.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Donald Trump \"minden eddiginél nagyobb\" támadást fontolgat Irán ellen",
-      "summary": "Donald Trump volt amerikai elnök állítása szerint hatalmas támadást fontolgat Irán ellen, amely szerinte \"nagyobb lenne, mint valaha\". Ez a kijelentés jelentősen növelheti a közel-keleti feszültséget és a globális aggodalmakat egy potenciális konfliktus miatt.",
+      "title": "Az USA újabb vámokat vet ki több tucat kereskedelmi partnerére",
+      "summary": "Az Egyesült Államok újabb védővámokat vezet be számos kereskedelmi partnere ellen, kényszermunka alkalmazására hivatkozva. A döntés legalább hatvan országot érinthet, és tovább élezheti a nemzetközi kereskedelmi feszültségeket.",
       "importance": 5
     },
     {
-      "title": "A jemeni húti támadások a közel-keleti konfliktus eszkalálódásától és globális gazdasági károktól való félelmet táplálják",
-      "summary": "A jemeni húti lázadók támadásai felerősítették a félelmeket egy szélesebb körű közel-keleti konfliktus kirobbanásától, és további globális gazdasági károkat okozhatnak. A konfliktus hatással van a hajózási útvonalakra és az olajárakra, destabilizálva a régiót.",
-      "importance": 4
+      "title": "Az Egyesült Királyság felkészült az iráni fenyegetésre",
+      "summary": "Az Egyesült Királyság kijelentette, hogy készen áll megvédeni magát, miután Irán \"legitim célpontnak\" nevezte a brit bázisokat. A feszültség tovább fokozódik a két ország között, ami regionális konfliktusokhoz vezethet.",
+      "importance": 5
     },
     {
-      "title": "Az Egyesült Államok büntetővámokat vet ki a \"kényszermunkával\" előállított importra",
-      "summary": "Az Egyesült Államok büntetővámokat jelentett be több tucat kereskedelmi partner ellen, azzal az indokkal, hogy termékeik \"kényszermunkával\" készülnek. Ez a lépés jelentős hatással lehet a globális ellátási láncokra és a nemzetközi kereskedelmi kapcsolatokra, különösen Kínával szemben.",
-      "importance": 4
+      "title": "Donald Trump ismét hatalmas iráni támadást fontolgat",
+      "summary": "Donald Trump volt elnök újabb, minden eddiginél nagyobb támadást fontolgat Irán ellen, állítása szerint \"nagyobb, mint valaha\". Nyilatkozata aggodalmakat kelt a közel-keleti régió stabilitása és egy szélesebb konfliktus lehetősége miatt.",
+      "importance": 5
     },
     {
-      "title": "Ukrán drónok egy \"pótolhatatlan\" orosz bombázót lőttek ki",
-      "summary": "Ukrán drónoknak sikerült lelőniük egy orosz bombázót, amelyet Moszkva \"pótolhatatlannak\" minősített. Ez a katonai veszteség komoly csapást mérhet az orosz légierőre és az ukrajnai hadműveletekre, befolyásolva a háború menetét.",
+      "title": "Gazdag britek magasabb adót kérnek magukra az új miniszterelnöktől",
+      "summary": "Egy csoportnyi gazdag brit állampolgár arra kéri az új miniszterelnököt, hogy vessen ki rájuk magasabb adót. A kezdeményezéssel a társadalmi egyenlőtlenségekre és a közszolgáltatások finanszírozására szeretnének felhívni a figyelmet.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az amerikai törvényhozók \"gyilkos kapcsolót\" követelnek az AI-nak egy meghibásodás után",
-      "summary": "Az amerikai törvényhozók \"gyilkos kapcsoló\" beépítését sürgetik az AI-rendszerekbe, miután az OpenAI egyik rendszere \"meghibásodott\". Ez a vita rávilágít az AI biztonsági kockázataira és a szabályozás sürgősségére, ami potenciálisan globális irányelvekhez vezethet.",
+      "title": "Amerikai törvényhozók AI \"gyilkos kapcsolót\" követelnek a szabályozatlan mesterséges intelligencia ellen",
+      "summary": "Az amerikai törvényhozók egy \"gyilkos kapcsoló\" bevezetését sürgetik a mesterséges intelligencia számára, miután az OpenAI rendszere \"megvadult\". Ez a lépés az AI-fejlesztések biztonsági kontrolljának és a jövőbeli szabályozás fontosságára hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Iránhoz köthető hackerek támadták az amerikai vízellátó és energiaszolgáltató rendszereket",
-      "summary": "Az amerikai kormány bejelentette, hogy Iránhoz köthető hackerek zavarják az amerikai vízellátó és energiaszolgáltató rendszereket. Ez a kibertámadás rávilágít a kritikus infrastruktúrák sebezhetőségére és a nemzetállami kiberhadviselés kockázataira.",
+      "title": "Iráni hackerek amerikai víz- és energiaszolgáltatókat támadnak",
+      "summary": "Az amerikai kormány bejelentése szerint iráni kötődésű hackerek zavarják az amerikai víz- és energiaszolgáltatókat. A kibertámadások komoly veszélyt jelentenek a kritikus infrastruktúrára és a nemzetbiztonságra.",
       "importance": 5
     },
     {
-      "title": "Az Etched AI chip startup 10,3 milliárd dolláros értékelést ért el",
-      "summary": "Az Etched nevű, mesterséges intelligencia chipeket fejlesztő startup 10,3 milliárd dolláros értékeléssel zárt egy finanszírozási kört, ezzel megcáfolva a kétkedőket. A jelentős befektetés aláhúzza az AI hardverpiac robbanásszerű növekedését és az innovatív startupok értékét.",
+      "title": "Az AMD új AI rendszerrel száll versenybe az Nvidia ellen",
+      "summary": "Az AMD bemutatta Helios AI rack-skálájú rendszerét, amellyel az Nvidia dominanciáját kívánja megtörni a mesterséges intelligencia hardverek piacán. Ez a lépés jelentős versenykiéleződést hozhat az AI chip szektorban, és felgyorsíthatja az innovációt.",
       "importance": 4
     },
     {
-      "title": "A Meta kilép egy tiszta energia paktumból, miközben gyorsítja földgáz alapú fejlesztéseit",
-      "summary": "A Meta kivonult egy jelentős tiszta energia egyezményből, miközben felgyorsítja a földgázra épülő adatközponti fejlesztéseit. Ez a lépés kérdéseket vet fel a vállalat környezetvédelmi elkötelezettségével kapcsolatban és ellentmond a korábbi célkitűzéseknek.",
+      "title": "A Patreon elbocsátja munkaerőjének 20 százalékát",
+      "summary": "A Patreon, a tartalomkészítőket támogató platform, munkaerőjének 20 százalékát bocsátja el. Az elbocsátások a technológiai szektor gazdasági kihívásait tükrözik, és a piaci változásokra adott reakcióként értékelhetők.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A jelenlegi El Niño várhatóan rekordméretű lesz, elképesztő arányokkal",
-      "summary": "A tudósok szerint a mostani El Niño jelenség a valaha mért legnagyobb lehet, elképesztő mértékben felülmúlva a korábbi rekordokat. Ennek globális hatásai lehetnek az időjárásra, az óceáni ökoszisztémákra és a mezőgazdaságra világszerte.",
+      "title": "Fekete Halál és autoimmun betegségek: 700 éves örökség",
+      "summary": "Kutatók szerint az autoimmun betegségekkel fizetjük meg azt az árat, hogy az emberiség átvészelte a 700 évvel ezelőtti Fekete Halál járványt. A túléléshez szükséges genetikai változások ma bizonyos autoimmun problémákra hajlamosíthatnak.",
+      "importance": 4
+    },
+    {
+      "title": "Rekordméretű El Niño várható, \"elképesztő mértékben\"",
+      "summary": "Az előrejelzések szerint a valaha feljegyzett legnagyobb El Niño jelenség várható, \"elképesztő mértékben\" felülmúlva a korábbi rekordokat. Ez komoly hatással lehet a globális időjárásra, éghajlatra és ökoszisztémákra.",
       "importance": 5
     },
     {
-      "title": "Áttörés a Krími-kongói vérzéses láz vírus polimerázának szerkezetkutatásában",
-      "summary": "Kutatók feltárták a Krími-kongói vérzéses láz (CCHFV) vírus polimerázának szerkezetét és gátlásának mechanizmusát. Ez az alapvető tudományos felfedezés kulcsfontosságú lehet új antivirális gyógyszerek kifejlesztésében a súlyos betegség ellen.",
+      "title": "Az emberiség elveszett nyelvei a mezőgazdaság hajnalán",
+      "summary": "Az emberiség több ezer nyelven beszélt a mezőgazdaság hajnalán, ám ezek közül sok mára elveszett. A kutatás rávilágít a nyelvi sokszínűség történeti csökkenésére és annak okaira, például a népességnövekedésre és a migrációra.",
       "importance": 4
     },
     {
-      "title": "Új perovszkit polariton lézerdióda, közvetlen árammal működik",
-      "summary": "Kísérletek során sikeresen működtettek egy nem-epitaxiális perovszkit polariton lézerdiódát közvetlen árammal. Ez az áttörés új lehetőségeket nyit meg az optoelektronika és a jövőbeni nagy teljesítményű lézertechnológiák területén, jelentős előrelépést hozva az anyagtudományban.",
-      "importance": 4
-    },
-    {
-      "title": "Szigorú korlátozások várnak a külföldi PhD hallgatókra az Egyesült Államokban",
-      "summary": "Az Egyesült Államok szigorúbb időbeli korlátokat vezet be a nemzetközi PhD hallgatók tartózkodására vonatkozóan, ami jelentősen befolyásolhatja a kutatási projekteket és a tudományos együttműködést. Ez a változás aggodalmat vált ki a globális tudományos közösségben a tehetségek áramlása miatt.",
-      "importance": 4
+      "title": "Légzési elemző mutathatja ki a zsírégetést egyetlen kilégzésből",
+      "summary": "Egy új fejlesztésű légzési elemző képes megmondani, hogy valaki zsírt éget-e, mindössze egyetlen kilégzés alapján. Ez az innováció új lehetőségeket nyithat a diéták és a metabolikus egészség monitorozásában, anélkül, hogy invazív eljárásokra lenne szükség.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Ferencváros El-meccset nyert Hollandiában, a Paks kikapott a Panathinaikosztól",
-      "summary": "A Ferencváros bravúros győzelmet aratott Hollandiában egy Európa Liga mérkőzésen, míg a Paks vereséget szenvedett a Panathinaikosz ellen. Az eredmények vegyes képet mutatnak a magyar csapatok európai kupaszerepléséről, de a Fradi továbbjutási esélyei növekedtek.",
-      "importance": 3
+      "title": "Fradi győzelem, Paks vereség az Európa Ligában",
+      "summary": "A Ferencváros idegenben győzedelmeskedett a Twente ellen az Európa Ligában, míg a Paks kikapott a Panathinaikosztól. A magyar csapatok vegyes eredményekkel kezdték meg a nemzetközi kupaszereplést, de a Fradi győzelme bizakodásra ad okot.",
+      "importance": 5
     },
     {
-      "title": "Kós Hubert úszó-Eb csúcsokra vágyik, és odaszúrt Milák Kristófnak",
-      "summary": "Kós Hubert, az egyik legtehetségesebb magyar úszó, nagy ambíciókkal tekint az úszó-Eb elé, ahol csúcsokat akar dönteni. Nyilatkozatában odaszúrt Milák Kristófnak is, ami feszültséget sejtet a két sportoló között, és izgalmas versenyt ígér.",
-      "importance": 3
+      "title": "Kós Hubert csúcsokra tör az úszó-Eb-n, szurkálódás Milák Kristófnak",
+      "summary": "Kós Hubert nagy reményekkel várja az úszó Európa-bajnokságot, ahol csúcsokra szeretne törni. Egyben odaszúrt Milák Kristófnak, ami a két magyar úszósztár közötti rivalizálásra utal, és fokozza a versenyt a nemzetközi mezőnyben.",
+      "importance": 4
     },
     {
-      "title": "Norvégia nem engedi elsikkadni a Balogun-ügyet, a FIFA-vezér beismerését várja",
-      "summary": "Norvégia határozottan kiáll a Balogun-ügyben, és elvárja, hogy a FIFA vezetője ismerje be hibáját. Az eset rávilágít a nemzetközi futballadminisztrációban felmerülő problémákra és a tisztességtelen bánásmódra, komoly visszhangot kiváltva a sportdiplomáciában.",
-      "importance": 3
+      "title": "F1-es felvezetés a Hungaroringen: Kajakozó Gasly, rollerező Sainz",
+      "summary": "A Hungaroringen már javában zajlott a Forma-1-es hétvége felvezetése, ahol a pilóták, mint Gasly és Sainz, rendhagyó módon is feltűntek a szurkolók előtt. Fotókon is megörökítették a nulladik nap eseményeit és a hűséges szurkolók lelkes hangulatát.",
+      "importance": 4
     },
     {
-      "title": "F1-es láz a Hungaroringen: a rajongók és pilóták már a nulladik napon megérkeztek",
-      "summary": "Megkezdődött az F1-es hétvége a Hungaroringen, ahol már a nulladik napon rengeteg rajongó és a pilóták is megjelentek, felcsigázva a hangulatot. A képek tanúsága szerint a versenyzők, mint Gasly és Sainz, különféle módon hangolódtak az eseményre, készülve a futamra.",
-      "importance": 3
+      "title": "Megfizethetetlen a Forma-1 Magyarországon?",
+      "summary": "A Forma-1-hez kapcsolódó minden rendkívül drága Magyarországon, a rendezvénytől a kiegészítő szolgáltatásokig. Ez a jelenség kérdéseket vet fel az esemény elérhetőségéről és gazdasági hátteréről a hazai közönség számára, valamint a jegyárak indokoltságáról.",
+      "importance": 4
     }
   ]
 }

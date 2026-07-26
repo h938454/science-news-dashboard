@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Hatgólos meccsen kapott ki a Fradi, a Vasas emberhátrányban mentett pontot a Győr ellen",
+      "link": "https://telex.hu/sport/2026/07/26/futball-nb-1-fizz-liga-ferencvaros-paks-gyor-vasas",
+      "summary": "Gólzáport és nagy izgalmakat hozott az NB I. nyitófordulójának vasárnapi játéknapja."
+    },
+    {
+      "title": "Tisza Szigetek által támogatott jelölt nyerte a békéscsabai időközi választást",
+      "link": "https://telex.hu/belfold/2026/07/26/tisza-szigetek-altal-tamogatott-jelolt-nyerte-a-bekescsabai-idokozi-valasztast",
+      "summary": "Hivatalosan itt sem a Tisza, sem a Fidesz nem indított jelöltet."
+    },
+    {
       "title": "Amíg ez nem indul be, csak álom marad, hogy nagyot gurítson a magyar gazdaság",
       "link": "https://telex.hu/gazdasag/2026/07/26/szabadalom-innovacio-kutatas-fejlesztes-ner",
       "summary": "A 16 éves Orbán-korszak után mindenhol, így a hazai innovációk, a K+F, a szabadalmak világában is trendforduló következhet. Az elmaradásunk ma jelentős, Magyarország a ranglisták végén foglal helyet, pedig lennének ötletek, mit kéne jobban csinálni."
@@ -64,20 +74,15 @@
       "title": "Magyar Péter adta át Norrisnak a győztesnek járó Herendi-trófeát a Magyar Nagydíj után",
       "link": "https://telex.hu/belfold/2026/07/26/magyar-peter-trofea-hungaroring",
       "summary": "A kormányfő szelfizett is a három dobogós versenyzővel."
-    },
-    {
-      "title": "Lopakodó fordulat a gázpiacon: Kína a tengeri kereskedelem ura",
-      "link": "https://telex.hu/g7/vilag/2026/07/26/kina-lng-europa-katar-usa-arbitrazs-gazkereskedelem",
-      "summary": "Ha a katari kapacitások a következő években helyreállnak, Európa egy olyan piacon találja magát, ahol a gázárak felső határát már a kínai állami kereskedőházakban határozzák meg."
-    },
-    {
-      "title": "Kedden a Duna vízállása Budapestnél a valaha mért legkisebb is lehet",
-      "link": "https://telex.hu/techtud/2026/07/26/kedden-csak-2-centivel-lehet-magasabb-a-duna-vizallasa-budapestnel-a-valaha-mert-legkisebb-szintnel",
-      "summary": "Az eddigi negatív rekord 33 centiméter volt, keddre 35 centit jeleznek előre plusz-mínusz 7 centivel."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "A szemfényvesztes visszatér",
+      "link": "https://444.hu/2026/07/27/a-szemfenyvesztes-visszater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Tusványos-lezárás, horgászőrjöngés, a Trump-stílus és meleg férfiak a 444 napindító hírlevelében."
+    },
     {
       "title": "Ötödször is megnyerte a Tour de France-t Tadej Pogačar, ezzel utolérte a sportág legnagyobbjait",
       "link": "https://444.hu/2026/07/26/otodszor-is-megnyerte-a-tour-de-france-t-tadej-pogacar-ezzel-utolerte-a-sportag-legnagyobbjait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,16 +152,26 @@
       "title": "„Az orosz propaganda megtévesztett&quot; – teljes fordulatot vett Trump egyik leghűségesebb szövetségese Ukrajnával kapcsolatban",
       "link": "https://444.hu/2026/07/26/az-orosz-propaganda-megtevesztett-teljes-fordulatot-vett-trump-egyik-leghusegesebb-szovetsegese-ukrajnaval-kapcsolatban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Még Németh Zsolt is elégedetten csettintene ekkora pálfordulás láttán."
-    },
-    {
-      "title": "Az Iszlám Államhoz is próbált csatlakozni a berlini gázolásos merénylet gyanúsítottja",
-      "link": "https://444.hu/2026/07/26/az-iszlam-allamhoz-is-probalt-csatlakozni-a-berlini-gazolasos-merenylet-gyanusitottja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A férfi járt Libanonban is, de miután onnan visszaküldték Németországba, elítélték „az állam biztonságát fenyegető súlyos erőszakcselekmény előkészítéséért”."
     }
   ],
   "HVG": [
     {
-      "title": "Ukrajna a nyugati területeit is el fogja veszíteni és helyreáll a rend",
+      "title": "„Hogy a francba kerültem ide?!” – Verstappen nem értette, hogyan sikerült másodikként befutnia a Magyar Nagydíjon",
+      "link": "https://hvg.hu/sport/20260726_magyar-nagydij-forma1-hungaroring-norris-verstappen-antonelli",
+      "summary": "Lando Norris arról beszélt, hogy végig hitt a győzelemben, Kimi Antonelli pedig remek kármentésnek nevezte a harmadik helyezését a Hungaroringen."
+    },
+    {
+      "title": "Pogacar ötödször is megnyerte a Tour de France-ot (videóval)",
+      "link": "https://hvg.hu/sport/20260726_tour-de-france-kerekpar-korverseny-tadej-pogacar-gyozelem",
+      "summary": "A szlovén Tadej Pogacar zsinórban harmadszor győzött a világ legnagyobb kerékpáros körversenyén, hat percet verve a belga Remco Evenepoelre."
+    },
+    {
+      "title": "Még a választások előtt is csurrant-cseppent: fél milliárd forint közpénzt utaltak a felvidéki Fidesz-barát híroldalnak",
+      "link": "https://hvg.hu/itthon/20260726_rtl-hirado-felvidek-ma7-allami-tamogatas",
+      "summary": "Több mint 4,3 milliárd forint közpénzt kapott a felvidéki Ma7 2018 óta – tudósít az RTL."
+    },
+    {
+      "title": "Putyin: Ukrajna a nyugati területeit is el fogja veszíteni és helyreáll a rend",
       "link": "https://hvg.hu/vilag/20260726_vlagyimir-putyin-ukrajna-felosztasa-haboru-orosz-magyar-hatar",
       "summary": "Szentpéterváron ünnepelték az orosz hadiflotta napját, ahol Putyin Nyugat-Ukrajna felosztását vizionálta, valamint egy autonóm hadiflottát is."
     },
@@ -214,33 +229,43 @@
       "title": "Jön az újabb hőhullám",
       "link": "https://hvg.hu/elet/20260726_nyar-hoseg-idojaras-elorejelzes",
       "summary": "Július utolsó hetében napról napra egyre melegebb lesz, vasárnap már 39 fok is lehet."
-    },
-    {
-      "title": "Autó ütközött vonattal Tállyán, egy férfi nem élte túl",
-      "link": "https://hvg.hu/itthon/20260726_tallya-vonatbaleset-autobaleset-halalos-aldozat-katasztrofavedelem",
-      "summary": "Egy andráskereszttel jelzett átjáróban történt halálos baleset vasárnap, egy nőt mentőhelikopterrel szállítottak kórházban."
-    },
-    {
-      "title": "7 tipp a HVG-től: balatoni nyarak ikonikus étele, cornflakes, popcorn – mindent a kukoricáról",
-      "link": "https://hvg.hu/360/20260726_7-tipp-kukorica-corn-flakes-popcorn-puliszka",
-      "summary": "Kevés növény van, amelyik ennyire észrevétlenül hódította meg a bolygót, mint a kukorica. Hogyan vált a pattogatott kukorica a mozizás szimbólumává? Milyen magyar hagyományok kötődnek a csöves kukoricához? Kis kultúrtörténet, és az elote, egy klasszikus mexikói grillezett kukorica receptje."
-    },
-    {
-      "title": "Kimászott a tetőablakon és lezuhant a pécsi gyermekotthon tetejéről egy 14 éves lány",
-      "link": "https://hvg.hu/itthon/20260726_kimaszott-az-ablakon-es-lezuhant-a-pecsi-gyermekotthon-tetejerol-egy-14-eves-lany",
-      "summary": "A kislány korábban is elszökött a gyermekotthonból, most kórházban ápolják."
     }
   ],
   "BBC": [
     {
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night."
-    },
-    {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain."
+    },
+    {
+      "title": "Berlin Pride attack suspect shot and killed during police operation",
+      "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin."
+    },
+    {
+      "title": "Badenoch says PM must rule out tax rises to fund social care reform",
+      "link": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform."
+    },
+    {
+      "title": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "link": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office."
+    },
+    {
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead."
+    },
+    {
+      "title": "Trump paused attacks on Iran to make space for talks, US ambassador says",
+      "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither the US nor Iran have launched attacks in the last two nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war."
+    },
+    {
+      "title": "Pogacar wins fifth Tour as Van der Poel takes stage",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/c07r8d4d2z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Slovenian Tadej Pogacar wins the Tour de France for a record-equalling fifth time."
     },
     {
       "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
@@ -248,14 +273,14 @@
       "summary": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\"."
     },
     {
-      "title": "Andy Burnham rules out early election in exclusive BBC interview",
-      "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election."
+      "title": "Four people including baby die after car crash",
+      "link": "https://www.bbc.co.uk/news/articles/c9805pkkkejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people, including a baby, died after a car crashed into trees in Derby. The driver was arrested."
     },
     {
-      "title": "Water returning to Gatwick Airport after major outage",
+      "title": "Water returns to Gatwick Airport after major outage",
       "link": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers."
+      "summary": "Gatwick Airport faced a day of disruptions with toilets and restaurants closed to passengers."
     },
     {
       "title": "Meghan calls Harry 'a charmer' during MasterChef Australia appearance",
@@ -263,52 +288,37 @@
       "summary": "The duke surprises his wife with a video call during her guest judge appearance  on MasterChef Australia."
     },
     {
-      "title": "Norris wins his first grand prix of year in Hungary",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix."
+      "title": "Evans steps out of shadows into spotlight with Scotland's fourth gold",
+      "link": "https://www.bbc.co.uk/sport/swimming/articles/cn9n17vy25wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Angharad Evans was overlooked before these Commonwealth Games. But now the Scotland swimmer is a gold medallist."
     },
     {
-      "title": "Teen charged over record crossing on 'mega dinghy'",
-      "link": "https://www.bbc.co.uk/news/articles/clyq5nqw13lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chan Mathok Atak, 19, is accused of endangering another during a journey by sea to the UK."
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park."
     },
     {
-      "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider",
-      "link": "https://www.bbc.co.uk/news/articles/cgq5v72jqglo?at_medium=RSS&at_campaign=rss",
-      "summary": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\"."
-    },
-    {
-      "title": "How rapper Aitch's sister inspired him to climb one of the world's toughest peaks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2dgl98lxko?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper has been taking on challenges to raise awareness and money for the Down's Syndrome Association."
-    },
-    {
-      "title": "Man in critical condition after sea rescue",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgnnyye90o?at_medium=RSS&at_campaign=rss",
-      "summary": "A man in his 50s is in critical condition, and a man in his 20s and a teenage girl remain in hospital."
+      "title": "Andy Burnham rules out early election in exclusive BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/c935kzyq6r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new prime minister told Laura Kuenssberg that people \"voted for a manifesto\" that he would honour, when pressed on whether there will be an early general election."
     },
     {
       "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
       "link": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss",
       "summary": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say."
-    },
-    {
-      "title": "I thought the Lockerbie bombing was a closed case until I started asking questions",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkx01n0y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Almost four decades on I delved into this complex case with fresh eyes - who really was behind the bombing?"
-    },
-    {
-      "title": "Pizza, pasta, potatoes, protein - how Italian children became so overweight",
-      "link": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Mediterranean diet was a blueprint for healthy living, yet Italian children are among the most overweight in Europe according to WHO."
-    },
-    {
-      "title": "What Love Island tells us about the changing face of dating",
-      "link": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
-      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture"
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "summary": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns."
+    },
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+    },
     {
       "title": "Inside one London founder house rewriting the founder-house rules",
       "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -373,16 +383,6 @@
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
       "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-      "link": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-      "summary": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression."
-    },
-    {
-      "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
-      "link": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
-      "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators."
     }
   ],
   "Nature": [

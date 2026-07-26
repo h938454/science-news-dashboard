@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "A Mi Hazánk Schiffer Andrást jelöli alkotmánybírónak",
-      "summary": "A Mi Hazánk mozgalom Schiffer Andrást jelöli alkotmánybírónak, ami jelentős politikai lépés. Ez a jelölés befolyásolhatja az Alkotmánybíróság összetételét és munkáját.",
+      "title": "Rekord alacsony vízállás a Dunán",
+      "summary": "A Duna vízszintje Budapestnél a valaha mért legalacsonyabb szintre süllyedhet, súlyos kihívások elé állítva a vízi közlekedést és az ökoszisztémát. Ez a történelmi alacsony vízállás aggodalmat kelt a környezeti hatások és a jövőbeni vízellátás kapcsán.",
       "importance": 5
     },
     {
-      "title": "A Duna vízállása Budapestnél a valaha mért legkisebb is lehet",
-      "summary": "A Duna vízállása Budapestnél várhatóan rekord alacsony szintre süllyed, ami komoly környezeti és gazdasági aggodalmakat vet fel. Ez a helyzet különösen a hajózásra és az ökológiára van hatással.",
+      "title": "A magyar gazdaság fellendülésének akadályai",
+      "summary": "A gazdasági elemzők szerint a magyar gazdaság nagy áttörése csak álom marad, amíg bizonyos alapvető strukturális problémák nem oldódnak meg. A stagnálás és a növekedési potenciál kihasználatlansága hosszú távú kihívást jelent.",
       "importance": 4
     },
     {
-      "title": "Halálos vonatbaleset Tállyán",
-      "summary": "Halálos kimenetelű baleset történt Tállyán, ahol egy autó vonattal ütközött. Egy ember életét vesztette, egy másik pedig súlyosan megsérült.",
+      "title": "Tusványos a választási vereség után: sebnyalogatás és összekapaszkodás",
+      "summary": "Az idei Tusványos hangulata eltért a korábbi évektől; a választási vereség után inkább a sebnyalogatás és az összekapaszkodás jellemezte az eseményt. A korábbi erődemonstrációk helyett a belső megerősödés volt a fókuszban.",
       "importance": 4
     },
     {
-      "title": "Orbán Viktor tusványosi beszéde és a közéleti viták",
-      "summary": "Orbán Viktor tusványosi beszédében olyan kijelentéseket tett, amelyek ellentmondtak Hajdu János volt TEK-vezér aranykonvoj-ügyben tett védekezésének. A beszéd széleskörű politikai vitákat váltott ki.",
-      "importance": 4
+      "title": "Schiffer Andrást jelöli a Mi Hazánk alkotmánybírónak",
+      "summary": "A Mi Hazánk Mozgalom bejelentette, hogy Schiffer Andrást, az LMP korábbi társelnökét jelöli alkotmánybírónak. A jelölés jelentős politikai lépés, amely befolyásolhatja az Alkotmánybíróság összetételét és működését.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij „ballisztikus terrornak” minősítette az újabb orosz támadásokat",
-      "summary": "Volodimir Zelenszkij ukrán elnök \"ballisztikus terrornak\" nevezte az Oroszország által végrehajtott újabb brutális támadásokat. Az ukrajnai háború eszkalációja továbbra is a nemzetközi figyelem középpontjában áll.",
+      "title": "Újabb orosz légicsapások Kijev és más ukrán nagyvárosok ellen",
+      "summary": "Oroszország masszív légicsapásokat mért Kijevre és több más nagyvárosra Ukrajnában, halálos áldozatokat és jelentős károkat okozva. Zelenszkij elnök \"ballisztikus terrornak\" minősítette az újabb brutális támadásokat.",
       "importance": 5
     },
     {
-      "title": "Több százezer embert telepítettek ki az európai erdőtüzek miatt",
-      "summary": "Franciaországban és Spanyolországban pusztító erdőtüzek miatt több mint 300 ezer embert kellett kitelepíteni otthonából. Az esemény rávilágít az éghajlatváltozás súlyos hatásaira és a környezeti katasztrófákra.",
-      "importance": 5
-    },
-    {
-      "title": "Nőtt a berlini Pride-on elkövetett támadás sérültjeinek száma, a gyanúsított az Iszlám Államhoz köthető",
-      "summary": "A berlini Pride-on elkövetett támadásban 29-re nőtt a sérültek száma, és kiderült, hogy a gyanúsított az Iszlám Államhoz is próbált csatlakozni. Az eset fokozott biztonsági intézkedésekhez vezetett Európa-szerte.",
+      "title": "Lelőtték a berlini Pride-on elkövetett támadás gyanúsítottját",
+      "summary": "A német rendőrség lelőtte azt a férfit, aki a gyanú szerint kisbusszal hajtott a tömegbe a berlini Pride felvonuláson, több embert megsebesítve. A támadó az Iszlám Államhoz is próbált csatlakozni.",
       "importance": 4
     },
     {
-      "title": "Fordulat Trump egyik szövetségesének Ukrajna-álláspontjában",
-      "summary": "Donald Trump egyik hűséges szövetségese nyilvánosan változtatta meg Ukrajna támogatásával kapcsolatos álláspontját, elismerve, hogy korábban orosz propaganda áldozata volt. Ez a fordulat potenciálisan befolyásolhatja az amerikai külpolitikát.",
+      "title": "Több százezer ember evakuálása az európai erdőtüzek miatt",
+      "summary": "Több mint 300 ezer embert kellett kitelepíteni Franciaországban és Spanyolországban a pusztító erdőtüzek miatt, amelyek hatalmas területeket emésztenek fel. A tűzoltók hősiesen küzdenek a lángokkal, miközben a hatóságok a biztonsági intézkedéseket fokozzák.",
+      "importance": 4
+    },
+    {
+      "title": "Kína az LNG-kereskedelem élére tör, átalakítva a gázpiacot",
+      "summary": "Kína jelentős befolyásra tett szert a tengeri cseppfolyósított földgáz (LNG) kereskedelemben, ami \"lopakodó fordulatot\" hoz a globális gázpiacon. Ezzel az országgal a tengeri energiakereskedelem meghatározó szereplőjévé válik.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Hugging Face vezérigazgatója radikális transzparenciát sürget az OpenAI hack után",
-      "summary": "A Hugging Face vezérigazgatója nagyobb átláthatóságot követel az OpenAI elleni példátlan hackertámadást követően. Ez az incidens rávilágít az AI-cégek kiberbiztonsági kihívásaira és az iparági felelősség fontosságára.",
+      "title": "Kína agyi chipet ültetett emberbe, versenyezve a Neuralinkkel",
+      "summary": "Kínai kutatók sikeresen ültettek be egy újfajta agyi chipet emberbe, ami jelentős előrelépést jelent az agy-számítógép interfész technológiában. Ez a fejlesztés közvetlen versenytársat jelenthet Elon Musk Neuralinkjének, és új távlatokat nyithat a neurológiai kezelésekben.",
       "importance": 5
     },
     {
-      "title": "A Monday.com is az AI-t hibáztatja a munkahelyi leépítésekért",
-      "summary": "A Monday.com a legújabb techcég, amely az AI-t nevezi meg a leépítések okaként, ezzel csatlakozva több mint húsz másik vállalathoz. Ez a tendencia aggodalmakat vet fel az AI munkaerőpiacra gyakorolt hatásával kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Elon Musk Boring Company-ja 20 milliárd dolláros értékeléssel gyűjt forrást",
-      "summary": "Elon Musk The Boring Company-ja állítólag 20 milliárd dolláros értékelés mellett gyűjt befektetést, jelezve a cég jelentős növekedését. Ez a lépés aláhúzza a jövőbeni innovatív közlekedési megoldásokba vetett bizalmat.",
+      "title": "A Hugging Face vezérigazgatója radikális átláthatóságot követel az OpenAI hack után",
+      "summary": "A Hugging Face vezérigazgatója \"radikális átláthatóságra\" szólított fel egy \"példátlan\" OpenAI hack után. Az incidens rávilágít az AI-iparág adatbiztonsági kihívásaira és a transzparencia fontosságára.",
       "importance": 4
     },
     {
-      "title": "A SpaceX új Starlink V3 műholdakat bocsátott fel, de ismét hajtóműhiba történt",
-      "summary": "A SpaceX sikeresen pályára állította új V3 Starlink műholdjait, azonban a fellövés során ismét hajtóműhiba lépett fel. Ez az esemény rávilágít az űrtechnológia folyamatos kihívásaira és fejlesztési igényeire.",
+      "title": "Ír írók győzelme a mesterséges intelligenciával szemben",
+      "summary": "Az ír írók fontos csatát nyertek a mesterséges intelligenciával szemben, ami precedenst teremthet az AI által generált tartalmak jogi szabályozásában. Ez a győzelem kiemeli a szerzői jogok és az alkotók védelmének fontosságát a digitális korban.",
+      "importance": 4
+    },
+    {
+      "title": "Az AI okozta elbocsátások növekedése a tech szektorban",
+      "summary": "A Monday.com a legújabb technológiai vállalat, amely a mesterséges intelligenciát okolja az elbocsátásokért, csatlakozva ezzel több mint húsz másik céghez. Ez a trend aggályokat vet fel az AI munkaerőpiacra gyakorolt hatásával kapcsolatban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Bizarre CRISPR enzim pusztítja el a rákos sejteket a DNS szétszaggatásával",
-      "summary": "Egy különleges CRISPR enzim képes elpusztítani a rákos sejteket azok DNS-ének szétszaggatásával. Ez az áttörés új reményt adhat a rákterápiában és forradalmasíthatja a genetikai alapú gyógyítást.",
+      "title": "Személyre szabott génterápia hozott enyhülést súlyos epilepsziában szenvedő fiúknak",
+      "summary": "Két súlyos epilepsziában szenvedő fiúnál sikerült enyhíteni a tüneteket egy személyre szabott génterápia segítségével. Ez a breakthrough reményt adhat más, hasonló ritka betegségben szenvedő pácienseknek.",
       "importance": 5
     },
     {
-      "title": "Személyre szabott génterápia enyhítette két fiú súlyos epilepsziáját",
-      "summary": "Két fiú súlyos epilepsziáját enyhítette egy személyre szabott génterápia, ami ígéretes eredményeket mutat a ritka genetikai betegségek kezelésében. Ez a siker utat nyithat hasonló terápiák kifejlesztéséhez.",
+      "title": "Bizarr CRISPR enzim pusztítja a rákos sejteket a DNS széttépésével",
+      "summary": "Tudósok felfedeztek egy különleges CRISPR enzimet, amely képes elpusztítani a rákos sejteket azok DNS-ének széttépésével. Ez az úttörő felfedezés új terápiás lehetőségeket nyithat a rák elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "Az idei El Niño minden eddiginél nagyobb lehet",
-      "summary": "Az idei El Niño jelenség a valaha feljegyzett legnagyobb lehet, \"elképesztő mértékben\" felülmúlva a korábbi rekordokat. Ennek súlyos globális éghajlati következményei várhatók, befolyásolva az időjárási mintákat és az ökoszisztémákat.",
+      "title": "Rekordméretű El Niño jelenség várható, 'elképesztő' mértékben",
+      "summary": "A szakértők szerint az idei El Niño jelenség a valaha mért legnagyobb lehet, \"elképesztő\" mértékű hatásokkal járva. Ez globális szinten befolyásolhatja az időjárási mintákat, szélsőséges eseményeket okozva.",
       "importance": 5
     },
     {
-      "title": "A Fehér Ház jelentős AI kutatási finanszírozást indít",
-      "summary": "A Fehér Ház jelentős AI kutatási finanszírozást jelentett be, ami az amerikai tudomány új korszakát jelzi. Ez a lépés aláhúzza az AI stratégiai fontosságát a nemzeti fejlesztésekben és a globális versenyben.",
+      "title": "A Fehér Ház jelentős AI-finanszírozást jelentett be a tudomány jövőjéért",
+      "summary": "A Fehér Ház új AI-finanszírozási programot indított, amely a mesterséges intelligencia kutatásának és fejlesztésének új korszakát jelzi az Egyesült Államok tudományában. A befektetés célja az innováció ösztönzése és az ország vezető szerepének megerősítése az AI területén.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Lando Norris nyerte a Magyar Nagydíjat a Hungaroringen",
-      "summary": "Lando Norris nyerte a Forma-1-es Magyar Nagydíjat a Hungaroringen, ezzel megszerezve első idei győzelmét. A futam izgalmas pillanatokat tartogatott a rajongók számára.",
+      "title": "Tadej Pogačar ötödször nyerte meg a Tour de France-ot",
+      "summary": "Tadej Pogačar sporttörténelmet írt azzal, hogy ötödszörre is megnyerte a Tour de France-t, beállítva ezzel egy évtizedes rekordot. Ezzel a teljesítményével beírta magát a kerékpározás legnagyobbjai közé.",
       "importance": 5
     },
     {
-      "title": "Mészáros Lőrinc érdekeltségei beszálltak az NB II.-es Diósgyőr támogatásába",
-      "summary": "Mészáros Lőrinc érdekeltségei pénzügyi támogatást nyújtanak az NB II.-es Diósgyőr labdarúgócsapatának. Ez a lépés jelentős befolyással lehet a klub jövőjére és a magyar futball gazdasági viszonyaira.",
+      "title": "Lando Norris győzött a Magyar Nagydíjon, Magyar Péter adta át a Herendi-trófeát",
+      "summary": "Lando Norris megvédte címét a Hungaroringen rendezett Formula-1-es Magyar Nagydíjon, megszerezve ezzel az idei első győzelmét. A Herendi porcelánserleget Magyar Péter adta át a győztes pilótának, ami különleges magyar vonatkozást adott az eseménynek.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter a Forma-1 elnök-vezérigazgatójával tárgyalt",
-      "summary": "Magyar Péter találkozott a Forma-1 elnök-vezérigazgatójával, ami a sportág magyarországi jövőjével kapcsolatos tárgyalásokra utal. Ez a megbeszélés kiemelt fontosságú lehet a hazai Forma-1-es események szempontjából.",
-      "importance": 4
+      "title": "Marco Rossi célja a magyar válogatott világbajnoki szereplése",
+      "summary": "Marco Rossi, a magyar labdarúgó-válogatott szövetségi kapitánya elmondta, hogy az a célja és álma, hogy a csapat ott legyen a következő világbajnokságon. Ez a kijelentés nagy motivációt jelenthet a játékosoknak és a szurkolóknak egyaránt.",
+      "importance": 3
     },
     {
-      "title": "A cseh elnök inkognitóban, fotósként a Hungaroringen",
-      "summary": "Petr Pavel cseh elnök inkognitóban, fotósként látogatott el a Hungaroringre a Magyar Nagydíjra. A szokatlan megjelenés komoly nemzetközi és médiaérdeklődést váltott ki a sportesemény iránt.",
+      "title": "A cseh elnök inkognitóban látogatott el a Hungaroringre",
+      "summary": "Petr Pavel, Csehország elnöke inkognitóban, fotósként vett részt a Hungaroringen rendezett Formula-1-es Magyar Nagydíjon. Ez a szokatlan látogatás számos érdekes fotót eredményezett és felkeltette a média figyelmét.",
       "importance": 3
     }
   ]

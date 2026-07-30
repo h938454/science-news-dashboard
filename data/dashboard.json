@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Paksi Atomerőmű leállása és az energiaválság Magyarországon",
-      "summary": "Az alacsony Duna-vízszint miatt felmerült a Paksi Atomerőmű esetleges leállításának lehetősége, ami kritikus energiaellátási helyzetet teremthet az országban. Kormányzati tisztviselők és politikai szereplők is aggodalmuknak adtak hangot az importáram elégtelensége miatt.",
+      "title": "A Duna alacsony vízszintje miatt leállították a Paksi Atomerőművet",
+      "summary": "A rekordalacsony Duna-vízállás kényszerű leállásra késztette Magyarország egyetlen atomerőművét. Ez a lépés jelentősen befolyásolhatja az ország energiaellátását és -biztonságát.",
       "importance": 5
     },
     {
-      "title": "Aszály és vízhiány: Budapesten lekapcsolják a díszkivilágítást",
-      "summary": "Az országot sújtó aszályhelyzet és a rekord alacsony Duna-vízállás miatt Budapesten lekapcsolják a díszkivilágítást, bár a vízellátás még nem forog veszélyben. Az extrém hőség és vízhiány számos intézkedést tett szükségessé országszerte.",
+      "title": "Kritikus energiaellátási helyzet jöhet Magyarországon",
+      "summary": "Magyar Péter szerint olyan súlyos energiaellátási helyzet alakulhat ki, amire eddig nem volt példa az országban. Ez a figyelmeztetés különösen releváns a Paksi Atomerőmű leállásának tükrében.",
+      "importance": 5
+    },
+    {
+      "title": "Leállítják a jégelhárító rendszert az elutasító vármegyékben",
+      "summary": "Azokban a vármegyékben, ahol a gazdák elutasítják a JÉGER-rendszer működtetését, leállítják a jégelhárító szolgáltatást. Ez jelentős kockázatot jelenthet a mezőgazdasági termelők számára a jégkárok megelőzésében.",
       "importance": 4
     },
     {
-      "title": "Négyből tíz magyar nem engedhet meg magának egy hetes nyaralást",
-      "summary": "Felmérések szerint a magyar lakosság közel 40%-a nem tudja anyagilag fedezni egy egyhetes nyaralás költségeit. Ez rávilágít az országban tapasztalható megélhetési nehézségekre és az infláció hatására.",
-      "importance": 4
-    },
-    {
-      "title": "Civil szervezetek egyeztettek az Egészségügyi Minisztériummal a szívhangrendelet visszavonásáról",
-      "summary": "Civil szervezetek tárgyaltak az Egészségügyi Minisztériummal a \"szívhangrendelet\" visszavonásáról, amely a terhességmegszakítás előtti kötelező szívhang meghallgatásra vonatkozik. A rendelet nagy társadalmi vitát váltott ki.",
+      "title": "Botrány: 273 millió forint közpénzből utazott a világ körül egy fideszes képviselő",
+      "summary": "Budai Gyula fideszes képviselő alapfokú nyelvtudással, 273 millió forint közpénzből utazta be a világot, ami komoly kritikákat váltott ki a közvéleményben. Az ügy a közpénzek felhasználásának átláthatóságát kérdőjelezi meg.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Tömeges migrációs hullám Ceutában: több ezer bevándorló jutott be Spanyolországba",
-      "summary": "Több ezer migráns jutott át Marokkóból a spanyol észak-afrikai enklávéba, Ceutába, úszva vagy a határkerítésen át. Az esemény ismét rávilágít a Földközi-tengeri migrációs útvonalak feszültségére.",
+      "title": "A NATO aktiválta védelmi rendszereit lengyel légtérsértés miatt",
+      "summary": "A NATO lég- és szárazföldi védelmi rendszereit is aktiválta egy lengyelországi légtérsértést követően. Az incidens rávilágít a térség biztonsági feszültségeire és a gyors reagálás fontosságára.",
       "importance": 5
     },
     {
-      "title": "Rekordokat döntő aszályok és erdőtüzek Európában",
-      "summary": "Európa több részét is súlyos aszály és pusztító erdőtüzek sújtják, rekordokat döntve. Kréta szigetén ezrek evakuálására került sor, Walesben pedig országos aszályhelyzetet hirdettek.",
+      "title": "Rekordokat döntő erdőtüzek és aszály sújtja Európát",
+      "summary": "Európa-szerte rekordokat döntő erdőtüzek és súlyos aszály sújtja a kontinenst, ami az éghajlatváltozás egyre drámaibb hatásaira utal. Több ezer embert kellett evakuálni Kréta szigetéről is a lángok miatt.",
       "importance": 5
     },
     {
-      "title": "Putyin kampányüzemmódba kapcsolt, miközben Oroszországban benzinhiány van",
-      "summary": "Az orosz lakosság benzinhiánnyal küzd, miközben Vlagyimir Putyin orosz elnök a következő választásokra készülve kampányüzemmódba kapcsolt. Ez a kontraszt feszültségeket jelez az országon belül.",
+      "title": "Több száz migráns úszott Ceutába, a spanyol exklávéba",
+      "summary": "Több száz migráns úszta át a Gibraltári-szorost Marokkóból a spanyol Ceutába, miután kaotikus jelenetek alakultak ki a határkerítésnél. Ez ismét rávilágít az európai migrációs kihívásokra és a határvédelem problémáira.",
       "importance": 4
     },
     {
-      "title": "A NATO aktiválta védelmi rendszereit a lengyel légtérsértés után",
-      "summary": "A NATO aktiválta légi és szárazföldi védelmi rendszereit, miután Lengyelország légterét megsértették. Az incidens rávilágít a régió fokozott biztonsági kockázataira és a folyamatos feszültségre.",
+      "title": "Benzinhiány sújtja Oroszországot, miközben Putyin kampányüzemmódba vált",
+      "summary": "Oroszországban benzinhiány alakult ki, ami hosszú sorokhoz vezet a töltőállomásokon, miközben Vlagyimir Putyin elnök kampányüzemmódba kapcsolt. A helyzet a gazdasági feszültségeket és a közelgő választásokat tükrözi.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI terjedése és az adatvédelmi aggodalmak a technológiai szektorban",
-      "summary": "A mesterséges intelligencia egyre inkább beépül a mindennapi alkalmazásokba, miközben az adatvédelmi aggodalmak is növekednek. A LinkedIn funkciót vezet be a generált tartalmak jelentésére, az FTC pedig pereli a felhasználói adatok megosztása miatt.",
+      "title": "Újabb 1 milliárd dolláros befektetést kapott a fúziós energia startup",
+      "summary": "A fúziós energiával foglalkozó Commonwealth Fusion Systems startup további 1 milliárd dolláros befektetést szerzett. Ez a finanszírozás hatalmas lépés lehet a tiszta energiaforrások fejlesztésében és a kereskedelmi fúziós erőművek megvalósításában.",
       "importance": 5
     },
     {
-      "title": "Még 1 milliárd dolláros befektetést kapott a fúziós energia startup",
-      "summary": "A Commonwealth Fusion Systems, a fúziós energia fejlesztésével foglalkozó startup újabb 1 milliárd dolláros finanszírozást szerzett. Ez a jelentős tőkeinjekció felgyorsíthatja a tiszta energiaforrás megvalósítását.",
-      "importance": 5
-    },
-    {
-      "title": "A mesterséges intelligencia 42 éves ókori rejtélyt oldott meg",
-      "summary": "A mesterséges intelligencia segítségével sikerült megfejteni egy 42 éve fennálló rejtélyt, és leleplezni egy titokzatos ókori társasjáték szabályait. Ez bemutatja az AI potenciálját a régészeti kutatásokban.",
+      "title": "Az AI segítségével javított a Google rekordmennyiségű Chrome hibát",
+      "summary": "A Google bejelentette, hogy az AI segítségével júniusban több Chrome hibát javított ki, mint az elmúlt két évben összesen. Ez rávilágít a mesterséges intelligencia szoftverfejlesztésben és biztonságban betöltött növekvő szerepére.",
       "importance": 4
     },
     {
-      "title": "A Tesla legyártotta a tízmilliomodik elektromos járművét",
-      "summary": "A Tesla elérte a tízmilliós mérföldkövet az elektromos járművek gyártásában, ami az EV-technológia széleskörű elterjedését jelzi. Ez a számadat is mutatja az elektromos autózás globális térhódítását.",
+      "title": "Orvosi adatok ellopása miatt értesít több százezer ügyfelet a CareCloud",
+      "summary": "A CareCloud elkezdte értesíteni több százezer ügyfelét, miután hackerek orvosi adatokat loptak el a rendszereikből. Ez a nagyszabású adatvédelmi incidens ismét rávilágít az egészségügyi adatok online biztonságának fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "A Tesla legyártotta 10 milliomodik elektromos járművét",
+      "summary": "A Tesla elérte a 10 milliomodik elektromos járművének legyártását, ami jelentős mérföldkő az autóipar történetében. Ez a teljesítmény aláhúzza az elektromos mobilitás térnyerését és a vállalat vezető szerepét ezen a területen.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Hatékonyabb mRNS-vakcinák jöhetnek, magyar kutatók közreműködésével",
-      "summary": "Magyar kutatók eredményei segítik a még hatékonyabb mRNS-vakcinák fejlesztését, ami áttörést hozhat a betegségek megelőzésében. Ez a tudományos áttörés új lehetőségeket nyithat a gyógyászatban.",
+      "title": "Óriási ősi civilizációra utaló nyomokat találtak az Amazonas vidékén",
+      "summary": "Földműveket fedeztek fel az Amazonas vidékén, amelyek egy eddig ismeretlen, hatalmas ősi civilizáció létezésére utalnak. Ez a felfedezés alapjaiban írhatja át a régió történelméről alkotott képünket.",
       "importance": 5
     },
     {
-      "title": "Rekordot döntő európai erdőtüzek: mi várható a jövőben?",
-      "summary": "Európában soha nem látott mértékű erdőtüzek pusztítanak, ami a klímaváltozás súlyosbodó hatásaira utal. A tudósok elemzik az okokat és a jövőbeli kilátásokat.",
+      "title": "Rekordokat döntő európai erdőtüzek és jövőbeli kilátások",
+      "summary": "Európában az erdőtüzek rekordokat döntenek, ami súlyos következményekkel jár a környezetre és az emberi társadalmakra nézve. A jelenség az éghajlatváltozás hatásait mutatja be, és a jövőre nézve aggasztó tendenciákat vetít előre.",
       "importance": 5
     },
     {
-      "title": "Óriási ősi civilizáció nyomaira bukkantak az Amazonas vidékén",
-      "summary": "Földmunkák nyomaira bukkantak az Amazonas esőerdejében, amelyek egy eddig ismeretlen, hatalmas ősi civilizáció létezésére utalnak. Ez a felfedezés átírhatja az Amazonas vidékének történelmét.",
+      "title": "Az AI leleplezett egy 42 éves ókori társasjáték rejtélyét",
+      "summary": "A mesterséges intelligencia sikeresen megfejtett egy 42 éve megoldatlan rejtélyt, egy titokzatos ókori társasjáték szabályait tárva fel. Ez az eredmény bemutatja az AI alkalmazhatóságát a régészetben és a történelemkutatásban.",
       "importance": 4
     },
     {
-      "title": "Növekvő lítiumkereslet: hogyan tehetjük fenntarthatóbbá a bányászatot?",
-      "summary": "A lítium iránti kereslet folyamatosan nő, ami kihívásokat támaszt a fenntartható bányászat terén. A kutatók és iparági szereplők azon dolgoznak, hogyan csökkenthetők a környezeti hatások.",
+      "title": "Hatékonyabb mRNS-vakcinák fejlesztését segítik magyar kutatók",
+      "summary": "Magyar kutatók eredményei hozzájárulnak a hatékonyabb mRNS-vakcinák kifejlesztéséhez, ami új távlatokat nyithat a betegségek megelőzésében és kezelésében. Ez az áttörés globális szinten is jelentős egészségügyi előnyökkel járhat.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Világbajnoki bojkottal fenyegetnek az európai fociszövetségek a FIFA tervei miatt",
-      "summary": "Az európai labdarúgó-szövetségek bojkottal fenyegetik a világbajnokságot, ha a FIFA elnöke ragaszkodik a vitatott üzleti és privatizációs terveihez. Ez komoly feszültséget okoz a nemzetközi foci vezetésében.",
+      "title": "Európai nemzetek bojkottal fenyegetik a világbajnokságot",
+      "summary": "Az európai labdarúgó-válogatottak bojkottal fenyegetik a közelgő világbajnokságot, amennyiben a FIFA ragaszkodik privatizációs terveihez. Ez a lépés súlyosan érintheti a sportág legnagyobb eseményét és annak nemzetközi megítélését.",
       "importance": 5
     },
     {
-      "title": "Egy brazil játékos eltörte ellenfele lábát, eltiltották gyógyulásig",
-      "summary": "Egy brazil labdarúgó olyan súlyosan megsérítette ellenfele lábát egy mérkőzésen, hogy eltiltották a játéktól addig, amíg a sérült játékos fel nem épül. Az eset vitát váltott ki a sportbeli agresszióról.",
-      "importance": 2
+      "title": "A FIFA elnöke a hatalmon maradásért a világbajnokság kiárusításával vádolják",
+      "summary": "A FIFA elnökét azzal vádolják, hogy a hatalmon maradásért képes lenne a világbajnokságot is kiárusítani, ami mély felháborodást váltott ki. Ez a botrány áll az európai nemzetek bojkottfenyegetésének hátterében.",
+      "importance": 4
     },
     {
-      "title": "Egy férfi túrabottal a testében túrázott le 10 mérföldet a hegyről",
-      "summary": "Egy túrázó egy baleset során egy túrabot szúrta át, de ennek ellenére 10 mérföldet gyalogolt le a hegyről segítséget kérve. Ez a történet az emberi kitartásról és túlélésről szól.",
-      "importance": 1
+      "title": "Kupaselejtező: Vezet a Fradi emberhátrányban, a Paks 2-1-re Athénban",
+      "summary": "Az UEFA kupaselejtezőjében a Ferencváros emberhátrányban is vezet, míg a Paks idegenben 2-1-es előnyre tett szert Athénban. A magyar csapatok jól szerepelnek a nemzetközi megmérettetésen.",
+      "importance": 4
+    },
+    {
+      "title": "Brazil focista eltörte ellenfele lábát, eltiltották a gyógyulásig",
+      "summary": "Egy brazil labdarúgó súlyosan megsérült, eltörve ellenfele lábát egy mérkőzésen, ami miatt eltiltották, amíg a sérült fel nem épül. Az eset felhívja a figyelmet a játékosok biztonságára és a sportág kockázataira.",
+      "importance": 3
     }
   ]
 }

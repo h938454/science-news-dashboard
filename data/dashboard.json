@@ -1,112 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Kritikus energiaellátási helyzet jöhet Magyarországon, akár paksi leállással",
-      "summary": "Magyar Péter szerint hétfőtől olyan súlyos energiaellátási krízishelyzet alakulhat ki, amivel az ország eddig nem szembesült. Ez a Paksi Atomerőmű esetleges leállítását is jelentheti.",
+      "title": "A Paksi Atomerőmű leállása és az energiaválság Magyarországon",
+      "summary": "Az alacsony Duna-vízszint miatt felmerült a Paksi Atomerőmű esetleges leállításának lehetősége, ami kritikus energiaellátási helyzetet teremthet az országban. Kormányzati tisztviselők és politikai szereplők is aggodalmuknak adtak hangot az importáram elégtelensége miatt.",
       "importance": 5
     },
     {
-      "title": "A Fidesz parlamenti képviselőinek egytizedét lecserélik még idén",
-      "summary": "A Fidesz elismerte, hogy változásokra van szükség, ezért parlamenti képviselői tíz százalékát még az év vége előtt lecserélik. Ez a párt belső megújulási szándékát jelzi a közelgő választások előtt.",
+      "title": "Aszály és vízhiány: Budapesten lekapcsolják a díszkivilágítást",
+      "summary": "Az országot sújtó aszályhelyzet és a rekord alacsony Duna-vízállás miatt Budapesten lekapcsolják a díszkivilágítást, bár a vízellátás még nem forog veszélyben. Az extrém hőség és vízhiány számos intézkedést tett szükségessé országszerte.",
       "importance": 4
     },
     {
-      "title": "A hőség és aszály súlyosan érinti a magyar gazdaságot és mezőgazdaságot",
-      "summary": "A hazai gazdaság hőgutát kapott az elviselhetetlen melegben, és az aszály is jelentős károkat okoz a mezőgazdaságban. Az agrárminisztérium aszálytűrő növények bevezetésével keres megoldást a kialakult helyzetre.",
+      "title": "Négyből tíz magyar nem engedhet meg magának egy hetes nyaralást",
+      "summary": "Felmérések szerint a magyar lakosság közel 40%-a nem tudja anyagilag fedezni egy egyhetes nyaralás költségeit. Ez rávilágít az országban tapasztalható megélhetési nehézségekre és az infláció hatására.",
       "importance": 4
     },
     {
-      "title": "A bajor miniszterelnök, Söder üdvözli Magyarország visszatérését Európához",
-      "summary": "Bajorország miniszterelnöke, Markus Söder ünnepélyesen kijelentette, hogy üdvözli Magyarország visszatérését Európához és a szorosabb kapcsolatokhoz. Ez fontos diplomáciai gesztus a kétoldalú viszonyban és az európai integráció szempontjából.",
-      "importance": 3
+      "title": "Civil szervezetek egyeztettek az Egészségügyi Minisztériummal a szívhangrendelet visszavonásáról",
+      "summary": "Civil szervezetek tárgyaltak az Egészségügyi Minisztériummal a \"szívhangrendelet\" visszavonásáról, amely a terhességmegszakítás előtti kötelező szívhang meghallgatásra vonatkozik. A rendelet nagy társadalmi vitát váltott ki.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Orosz rakétadarabok csapódtak be Lengyelországba, NATO aktiválta védelmi rendszereit",
-      "summary": "Donald Tusk lengyel miniszterelnök szerint orosz robotrepülőgép vagy annak darabjai csapódhattak be Lengyelország területére. Az esetre válaszul a NATO aktiválta légi és szárazföldi védelmi rendszereit, jelezve a helyzet súlyosságát.",
+      "title": "Tömeges migrációs hullám Ceutában: több ezer bevándorló jutott be Spanyolországba",
+      "summary": "Több ezer migráns jutott át Marokkóból a spanyol észak-afrikai enklávéba, Ceutába, úszva vagy a határkerítésen át. Az esemény ismét rávilágít a Földközi-tengeri migrációs útvonalak feszültségére.",
       "importance": 5
     },
     {
-      "title": "Az USA \"erős\" csapásokat mér Iránra amerikai csapatok elleni támadás kísérlete után",
-      "summary": "Az Egyesült Államok nagyszabású légicsapásokat indított Irán ellen, miután kísérletet tettek amerikai csapatok megtámadására. A lépés súlyos eszkalációt jelent a térségben és fokozza a geopolitikai feszültségeket.",
+      "title": "Rekordokat döntő aszályok és erdőtüzek Európában",
+      "summary": "Európa több részét is súlyos aszály és pusztító erdőtüzek sújtják, rekordokat döntve. Kréta szigetén ezrek evakuálására került sor, Walesben pedig országos aszályhelyzetet hirdettek.",
       "importance": 5
     },
     {
-      "title": "A bankok tartják a kamatokat, de emelésre készek, ha eszkalálódik az iráni háború",
-      "summary": "A jegybankok egyelőre változatlanul hagyták az alapkamatokat, de jelezték, hogy készek emelni azokat, amennyiben az Irán és USA közötti konfliktus háborúvá eszkalálódik. Ez a gazdasági bizonytalanságok növekedésére és a globális inflációs nyomásra utal.",
+      "title": "Putyin kampányüzemmódba kapcsolt, miközben Oroszországban benzinhiány van",
+      "summary": "Az orosz lakosság benzinhiánnyal küzd, miközben Vlagyimir Putyin orosz elnök a következő választásokra készülve kampányüzemmódba kapcsolt. Ez a kontraszt feszültségeket jelez az országon belül.",
       "importance": 4
     },
     {
-      "title": "Több ezer embert evakuáltak Krétán az erdőtüzek miatt",
-      "summary": "Görögországban, Krétán több ezer embert kellett evakuálni, mivel a gyorsan terjedő erdőtüzek fenyegetik a turistaparadicsomokat. A súlyos környezeti katasztrófa a turizmust is veszélyezteti, és rávilágít az éghajlatváltozás hatásaira.",
+      "title": "A NATO aktiválta védelmi rendszereit a lengyel légtérsértés után",
+      "summary": "A NATO aktiválta légi és szárazföldi védelmi rendszereit, miután Lengyelország légterét megsértették. Az incidens rávilágít a régió fokozott biztonsági kockázataira és a folyamatos feszültségre.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta szerint az AI megkönnyíti az új alkalmazások fejlesztését",
-      "summary": "A Meta bejelentette, hogy a mesterséges intelligencia (AI) technológiák megkönnyítik új alkalmazások létrehozását, és további fejlesztések várhatók a jövőben. Ez a trend alapjaiban formálja az applikációfejlesztés jövőjét és az iparágat.",
+      "title": "Az AI terjedése és az adatvédelmi aggodalmak a technológiai szektorban",
+      "summary": "A mesterséges intelligencia egyre inkább beépül a mindennapi alkalmazásokba, miközben az adatvédelmi aggodalmak is növekednek. A LinkedIn funkciót vezet be a generált tartalmak jelentésére, az FTC pedig pereli a felhasználói adatok megosztása miatt.",
       "importance": 5
     },
     {
-      "title": "A Tesla legyártotta 10 milliomodik elektromos járművét",
-      "summary": "A Tesla jelentős mérföldkőhöz érkezett, legyártva a tízmilliomodik elektromos járművét. Ez a szám a vállalat növekedését és az elektromos autók piacán betöltött vezető szerepét mutatja.",
+      "title": "Még 1 milliárd dolláros befektetést kapott a fúziós energia startup",
+      "summary": "A Commonwealth Fusion Systems, a fúziós energia fejlesztésével foglalkozó startup újabb 1 milliárd dolláros finanszírozást szerzett. Ez a jelentős tőkeinjekció felgyorsíthatja a tiszta energiaforrás megvalósítását.",
+      "importance": 5
+    },
+    {
+      "title": "A mesterséges intelligencia 42 éves ókori rejtélyt oldott meg",
+      "summary": "A mesterséges intelligencia segítségével sikerült megfejteni egy 42 éve fennálló rejtélyt, és leleplezni egy titokzatos ókori társasjáték szabályait. Ez bemutatja az AI potenciálját a régészeti kutatásokban.",
       "importance": 4
     },
     {
-      "title": "Az FTC beperli a Hims & Hers céget betegek adatainak hirdetőkkel való megosztása miatt",
-      "summary": "Az amerikai Szövetségi Kereskedelmi Bizottság (FTC) pert indított a Hims & Hers nevű vállalat ellen, mert állítólag megosztotta a betegek orvosi adatait hirdetőkkel, például a Metával és a Snappel. Ez adatvédelmi aggályokat vet fel a digitális egészségügyi szolgáltatások terén.",
+      "title": "A Tesla legyártotta a tízmilliomodik elektromos járművét",
+      "summary": "A Tesla elérte a tízmilliós mérföldkövet az elektromos járművek gyártásában, ami az EV-technológia széleskörű elterjedését jelzi. Ez a számadat is mutatja az elektromos autózás globális térhódítását.",
       "importance": 4
-    },
-    {
-      "title": "A Zoox engedélyt kapott fizetős robotaxi szolgáltatás indítására",
-      "summary": "A Zoox vállalat megkapta a végső szövetségi engedélyt, hogy elindítsa fizetős robotaxi szolgáltatását az Egyesült Államokban. Ez jelentős előrelépés az önvezető járművek kereskedelmi forgalomba hozatalában és a jövőbeli közlekedésben.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Szomatikus mutációk fedik fel a mikrogliák ontogenézisét az emberi öregedésben",
-      "summary": "Új kutatások szerint a szomatikus mutációk kulcsfontosságúak a mikrogliák (az agy immunsejtjei) fejlődésének megértésében az emberi öregedés során. Ez a felfedezés segíthet az öregedéssel kapcsolatos neurológiai betegségek jobb megértésében és kezelésében.",
+      "title": "Hatékonyabb mRNS-vakcinák jöhetnek, magyar kutatók közreműködésével",
+      "summary": "Magyar kutatók eredményei segítik a még hatékonyabb mRNS-vakcinák fejlesztését, ami áttörést hozhat a betegségek megelőzésében. Ez a tudományos áttörés új lehetőségeket nyithat a gyógyászatban.",
       "importance": 5
     },
     {
-      "title": "Hatalmas ősi civilizációra utaló földmunkákat fedeztek fel az Amazonason",
-      "summary": "Régészek hatalmas, ősi civilizációra utaló földmunkálatokat azonosítottak az Amazonas mélyén. Ez a felfedezés alapjaiban változtathatja meg az erdő történelmének és az ott élt népeknek az ismeretét.",
+      "title": "Rekordot döntő európai erdőtüzek: mi várható a jövőben?",
+      "summary": "Európában soha nem látott mértékű erdőtüzek pusztítanak, ami a klímaváltozás súlyosbodó hatásaira utal. A tudósok elemzik az okokat és a jövőbeli kilátásokat.",
       "importance": 5
     },
     {
-      "title": "Az ipari csirketenyésztés miatt terjed egy veszélyes baktérium",
-      "summary": "Egy új tanulmány szerint az ipari csirketenyésztés hozzájárul egy veszélyes baktérium elterjedéséhez, ami komoly közegészségügyi kockázatot jelenthet. A felfedezés rávilágít az élelmiszer-termelés és a járványtan közötti összefüggésekre.",
+      "title": "Óriási ősi civilizáció nyomaira bukkantak az Amazonas vidékén",
+      "summary": "Földmunkák nyomaira bukkantak az Amazonas esőerdejében, amelyek egy eddig ismeretlen, hatalmas ősi civilizáció létezésére utalnak. Ez a felfedezés átírhatja az Amazonas vidékének történelmét.",
       "importance": 4
     },
     {
-      "title": "Európában rekordot döntöttek az erdőtüzek, a jövőre nézve aggasztó kilátásokkal",
-      "summary": "Az idei évben Európa-szerte rekordot döntöttek az erdőtüzek, komoly kihívás elé állítva a kontinenst. A helyzet rávilágít az éghajlatváltozás súlyosbodó hatásaira és a jövőbeli környezeti fenyegetésekre.",
+      "title": "Növekvő lítiumkereslet: hogyan tehetjük fenntarthatóbbá a bányászatot?",
+      "summary": "A lítium iránti kereslet folyamatosan nő, ami kihívásokat támaszt a fenntartható bányászat terén. A kutatók és iparági szereplők azon dolgoznak, hogyan csökkenthetők a környezeti hatások.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Az európai fociszövetségek világbajnoki bojkottal fenyegetnek a FIFA üzleti terve miatt",
-      "summary": "Az európai labdarúgó-szövetségek bojkottal fenyegetik a FIFA tornáit, amennyiben a FIFA elnöke ragaszkodik egy vitatott üzleti tervhez. Ez komoly válságot idézhet elő a nemzetközi futballban és befolyásolhatja a jövőbeli eseményeket.",
+      "title": "Világbajnoki bojkottal fenyegetnek az európai fociszövetségek a FIFA tervei miatt",
+      "summary": "Az európai labdarúgó-szövetségek bojkottal fenyegetik a világbajnokságot, ha a FIFA elnöke ragaszkodik a vitatott üzleti és privatizációs terveihez. Ez komoly feszültséget okoz a nemzetközi foci vezetésében.",
       "importance": 5
     },
     {
-      "title": "A Fradi–Real Madrid mérkőzés jelezheti az M4 Sport közvetítési monopóliumának végét",
-      "summary": "A Fradi és a Real Madrid közötti meccs közvetítése arra utalhat, hogy véget érhet az M4 Sport kizárólagos közvetítési uralma Magyarországon. Ez változásokat hozhat a magyar sportközvetítések piacán és a nézői szokásokban.",
-      "importance": 4
+      "title": "Egy brazil játékos eltörte ellenfele lábát, eltiltották gyógyulásig",
+      "summary": "Egy brazil labdarúgó olyan súlyosan megsérítette ellenfele lábát egy mérkőzésen, hogy eltiltották a játéktól addig, amíg a sérült játékos fel nem épül. Az eset vitát váltott ki a sportbeli agresszióról.",
+      "importance": 2
     },
     {
-      "title": "A Guardian \"piros lapot mutat\" a FIFA elnökének a vitatott döntések miatt",
-      "summary": "A Guardian sportlap élesen bírálta a FIFA elnökét, Gianni Infantinót, \"piros lapot\" mutatva neki a vitatott üzleti döntések és a szervezet irányítása miatt. Ez erős média kritikát tükröz a nemzetközi futball vezetőjével szemben.",
-      "importance": 4
-    },
-    {
-      "title": "Brazil futballista eltörte ellenfele lábát, felépüléséig eltiltották a játéktól",
-      "summary": "Egy brazil labdarúgó eltörte ellenfele lábát egy mérkőzésen, amiért a sportoló addig nem játszhat, amíg az érintett játékos fel nem gyógyul. Az eset rávilágít a sportsérülések súlyosságára és a sportszerűségi szabályok betartására.",
-      "importance": 3
+      "title": "Egy férfi túrabottal a testében túrázott le 10 mérföldet a hegyről",
+      "summary": "Egy túrázó egy baleset során egy túrabot szúrta át, de ennek ellenére 10 mérföldet gyalogolt le a hegyről segítséget kérve. Ez a történet az emberi kitartásról és túlélésről szól.",
+      "importance": 1
     }
   ]
 }

@@ -238,14 +238,14 @@
       "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals."
     },
     {
+      "title": "Trump says Board of Peace has reached agreement for disarmament of Hamas",
+      "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel and Hamas have yet to comment on the announcement."
+    },
+    {
       "title": "Suffolk wildfire still growing and unpredictable, says fire service",
       "link": "https://www.bbc.co.uk/news/articles/c78gnj1qqyyo?at_medium=RSS&at_campaign=rss",
       "summary": "Firefighters expect to be at the scene on the Suffolk coast for another 48 hours at least."
-    },
-    {
-      "title": "Thousands evacuated in Crete as wildfires threaten tourist resorts",
-      "link": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
-      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island."
     },
     {
       "title": "Andy Burnham to give regional mayors share of income tax",
@@ -253,14 +253,14 @@
       "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
     },
     {
+      "title": "Renowned ex-Royal Marine Nirmal Purja among 10 climbers feared missing after avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan."
+    },
+    {
       "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
       "link": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
       "summary": "Wales is on course for its driest July on record in almost 190 years."
-    },
-    {
-      "title": "MP Diane Abbott readmitted into Labour Party after suspension",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
-      "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\"."
     },
     {
       "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
@@ -273,6 +273,11 @@
       "summary": "The call was made on an Airbus A320 flying from Dusseldorf airport in Germany on 6 July following two stall warnings."
     },
     {
+      "title": "MP Diane Abbott readmitted into Labour Party after suspension",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dwd1p374o?at_medium=RSS&at_campaign=rss",
+      "summary": "The long-serving MP apologises for past comments and says she has been issued with a \"formal warning\"."
+    },
+    {
       "title": "Why limited war with the US may suit Iran better than peace",
       "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
       "summary": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war."
@@ -281,11 +286,6 @@
       "title": "Archbishop of Canterbury committed to £100m slavery fund",
       "link": "https://www.bbc.co.uk/news/articles/cp9e03ymreyo?at_medium=RSS&at_campaign=rss",
       "summary": "Dame Sarah Mullally has renewed her commitment to the fund on a visit to Cape Coast Castle in Ghana."
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
     },
     {
       "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
@@ -309,6 +309,31 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+      "link": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+      "summary": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September."
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+    },
+    {
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind."
+    },
+    {
+      "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+      "link": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+      "summary": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions."
+    },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
       "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
@@ -358,31 +383,6 @@
       "title": "Tesla made its 10 millionth EV",
       "link": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
       "summary": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package."
-    },
-    {
-      "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-      "link": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-      "summary": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years."
-    },
-    {
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-      "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
-    },
-    {
-      "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-      "link": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-      "summary": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets."
-    },
-    {
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "summary": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
-    },
-    {
-      "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-      "link": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-      "summary": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant."
     }
   ],
   "Nature": [

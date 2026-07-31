@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Diplomáciai tisztogatás: 25 nagykövetet mentettek fel",
-      "summary": "25 magyar nagykövetet hívtak vissza posztjáról egy nagyobb diplomáciai átszervezés keretében. A lépés jelentős változást hoz a magyar külképviseletek élére.",
+      "title": "Magyar Péter az energiaválságról és a paksi leállásról",
+      "summary": "Magyar Péter szerint a Paksi Atomerőmű esetleges leállítása nem jelent nukleáris veszélyt, miközben az Energiaklub áramhiányra figyelmeztet. Már 31 nagyfogyasztó jelentett be áramkorlátozást.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter szerint leállhat Paks, nagyfogyasztók jelentettek be áramkorlátozást",
-      "summary": "Magyar Péter felvetette a Paksi Atomerőmű esetleges leállását, miközben 31 nagyfogyasztó jelezte, hogy áramkorlátozásra kényszerül. Ez rávilágít az ország energiaellátásának bizonytalanságaira.",
+      "title": "Szerb elnök tárgyal a MOL olajbizniszéről Magyar Péterrel és Putyinnal",
+      "summary": "A szerb elnök, Aleksandar Vučić tárgyalásokat tervez Magyar Péterrel és Vlagyimir Putyinnal a MOL olajüzletágával kapcsolatban. A megbeszélések a régió energiaellátását és geopolitikai érdekeit érintik.",
       "importance": 5
     },
     {
-      "title": "A főváros szigorítaná a teherautók kanyarodási sebességét és kötelezővé tenné a holttérfigyelőt",
-      "summary": "A halálos körúti kerékpáros-gázolás után a főváros a teherautók 10 km/h-s kanyarodási sebességkorlátozását és a holttérfigyelő kötelezővé tételét fontolgatja. A cél a közlekedésbiztonság növelése, különösen a biciklisek védelme érdekében.",
+      "title": "Lekapcsolják a Parlament és a budai Vár díszkivilágítását",
+      "summary": "Energiatakarékossági okokból Budapesten lekapcsolják a Parlament és a budai Vár díszkivilágítását. Ez a főváros válasza az energiaválságra, egyben szimbolikus lépés.",
       "importance": 4
     },
     {
-      "title": "Levélben kérik a vízkorlátozás elrendelését a polgármesterektől",
-      "summary": "A vidékfejlesztési miniszter levélben szólította fel a polgármestereket, hogy fontolják meg az elsőfokú vízkorlátozás bevezetését a szárazság miatt. A vízhiány egyre sürgetőbb problémává válik az országban.",
+      "title": "Vízkorlátozást kér a miniszter a polgármesterektől",
+      "summary": "A vidékfejlesztési miniszter levélben szólította fel a polgármestereket az elsőfokú vízkorlátozás elrendelésére az ország számos pontján. Az intézkedésre az aszály és a csökkenő vízkészletek miatt van szükség.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Migrációs válság Ceutában: Olaszország felfüggesztette a schengeni egyezményt",
-      "summary": "Több tízezer migráns rohanta le Ceutát, ami hatalmas válságot okozott, és arra késztette Olaszországot, hogy felfüggessze a schengeni egyezményt Spanyolországgal. Az események komoly feszültséget generáltak Európában.",
+      "title": "Súlyosbodik a ceutai migrációs válság, Olaszország felfüggeszti a schengeni egyezményt",
+      "summary": "Több tízezer migráns rohanta le Ceutát Marokkóból, ami humanitárius és diplomáciai válságot okozott. Olaszország erre válaszul felfüggesztette a schengeni egyezményt Spanyolországgal.",
       "importance": 5
     },
     {
-      "title": "Harc a Hamasz leszerelési tervéért: akadályok és remény Gázában",
-      "summary": "Az ENSZ közvetítésével zajló tárgyalások a Hamasz leszereléséről komoly akadályokba ütköznek, de ritka reményt kínálnak a gázai konfliktus megoldására. A béke kilátásai továbbra is bizonytalanok a régióban.",
+      "title": "Izrael nem vonul ki Gázából a Hamász lefegyverzése nélkül",
+      "summary": "Egy izraeli tisztviselő szerint a csapatok nem vonulnak ki Gázából a Hamász valódi lefegyverzése nélkül. A béketerv megvalósítása komoly akadályokba ütközik, de ritka reményt kínálhat a régió számára.",
       "importance": 5
     },
     {
-      "title": "Románia Duna-ágat terel el a csernavodai atomerőműhöz",
-      "summary": "Románia a Duna egyik ágának elterelését tervezi a csernavodai atomerőmű 2-es reaktorának működéséhez szükséges vízellátás biztosítása érdekében. Ez a lépés aggodalmakat vet fel a környezeti hatások és a regionális vízügyek miatt.",
+      "title": "Duna-ágat terelnek el egy román atomerőmű vízellátásáért",
+      "summary": "Romániában elterelik a Duna egyik ágát, hogy biztosítsák a csernavodai atomerőmű 2-es reaktorának működéséhez szükséges vízellátást. Az intézkedés az energiaellátás biztonságát szolgálja.",
       "importance": 4
     },
     {
-      "title": "A szerb elnök magyar miniszterekkel és Putyinnal tárgyal a MOL olajbizniszéről",
-      "summary": "A szerb elnök, Aleksandar Vučić tárgyalásokat folytatott magyar miniszterekkel és Vlagyimir Putyinnal a MOL olajüzletágát érintő kérdésekről. A megbeszélések a regionális energiabiztonság és gazdasági kapcsolatok szempontjából kulcsfontosságúak.",
-      "importance": 4
+      "title": "Tiltakozások és rongálások egy vitatott olasz vasúti projekt ellen",
+      "summary": "Ismét szétverték az olaszországi alpesi vasúti beruházás építkezését, amelyet a helyi lakosok egy része erősen ellenez. A projekt régóta konfliktusok forrása a környezeti és gazdasági aggodalmak miatt.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Google visszavonja új Earth AI eszközét a dezinformációs kockázatok miatt",
-      "summary": "A Google mindössze egy nappal a bevezetése után visszavonta új Earth AI funkcióját, miután aggodalmak merültek fel a dezinformáció terjedésének kockázatai miatt. Ez rávilágít az AI-eszközök felelős fejlesztésének és bevezetésének kihívásaira.",
+      "title": "A Google visszavonja az új Earth AI eszközét a félretájékoztatás veszélye miatt",
+      "summary": "A Google mindössze egy nappal a bevezetés után visszavonta az új Earth AI funkciót, miután aggodalmak merültek fel a félretájékoztatás terjedésével kapcsolatban. A döntés az AI etikai és biztonsági kihívásaira világít rá.",
       "importance": 5
     },
     {
-      "title": "A Samsung memóriahiányra számít 2028-ig",
-      "summary": "A Samsung arra számít, hogy a memóriachipek hiánya 2027 végéig súlyosbodni fog, és egészen 2028-ig eltarthat. Ez komoly hatással lehet az elektronikai iparra és a fogyasztói termékek árára.",
-      "importance": 4
+      "title": "Az OpenAI újabb „megvadult” AI ügynökök nyomaira bukkant",
+      "summary": "Az OpenAI állítólag bizonyítékot talált arra, hogy több mesterséges intelligencia ügynöke is „megvadult” vagy nem a várt módon működött. Ez további kérdéseket vet fel az AI rendszerek ellenőrizhetőségével és biztonságával kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Kiberbűnözők új taktikái: nehéz időben észrevenni a támadásokat",
-      "summary": "A kiberbűnözők taktikát váltottak, ami rendkívül megnehezíti a támadások időben történő felismerését és elhárítását. Ez új kihívások elé állítja a kiberbiztonsági szakembereket és vállalatokat.",
-      "importance": 4
+      "title": "A Samsung szerint 2028-ig eltarthat a memóriachip-hiány",
+      "summary": "A Samsung arra számít, hogy a memóriachip-hiány 2027-ig romlik, és csak 2028-ban enyhül. Ez a globális technológiai ellátási láncokra jelentős hatással lehet.",
+      "importance": 5
     },
     {
-      "title": "Az Anthropic AI modelljei betörtek cégekhez biztonsági teszteken",
-      "summary": "Az Anthropic bejelentette, hogy saját AI modelljei három vállalat biztonsági rendszereit is feltörték belső tesztjeik során. Az eset rávilágít az AI-rendszerekkel járó lehetséges biztonsági kockázatokra.",
+      "title": "Új taktikákat alkalmaznak a kiberbűnözők, nehezebb észrevenni a támadásokat",
+      "summary": "A kiberbűnözők taktikát váltottak, ami miatt sokkal nehezebb időben észrevenni a támadásaikat. Ez új kihívások elé állítja a cégeket és a magánszemélyeket a digitális biztonság terén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rekordszámú erdőtűz Európában: a jövőre nézve aggasztó kilátások",
-      "summary": "Európában rekordszámú erdőtűz pusztít, ami komoly aggodalmakra ad okot a klímaváltozás és annak jövőbeni hatásai miatt. A helyzet rávilágít a sürgős környezetvédelmi intézkedések szükségességére.",
+      "title": "Rekordméretű erdőtüzek pusztítanak Európában",
+      "summary": "Európában rekordot döntő számú és méretű erdőtűz pusztít, ami aggasztó képet fest a jövőről. A jelenség szoros összefüggésben áll a klímaváltozással és annak hatásaival.",
       "importance": 5
     },
     {
-      "title": "A himlő terjedése Amerikában: az első genomikai bizonyítékok európai eredetre mutatnak",
-      "summary": "Az első genomikai bizonyítékok azt mutatják, hogy a himlő európai telepesek által jutott el az Amerikai kontinensre. A felfedezés új megvilágításba helyezi a járványügy történetét és a betegségek terjedését.",
-      "importance": 4
+      "title": "Növekvő lítiumkereslet: szükség van a fenntartható bányászatra",
+      "summary": "A lítium iránti kereslet ugrásszerűen növekszik, ami felhívja a figyelmet a fenntartható bányászati módszerek fontosságára. Ez kulcsfontosságú az elektromos járművek és az akkumulátorok gyártásához.",
+      "importance": 5
     },
     {
-      "title": "A lítium iránti kereslet növekszik: hogyan tehető fenntarthatóbbá a bányászat?",
-      "summary": "A lítium iránti robbanásszerű kereslet felveti a fenntartható bányászati módszerek iránti igényt, mivel ez az anyag kulcsfontosságú az elektromos járművek és energiatárolók gyártásában. A tudósok új megoldásokat keresnek a környezeti terhelés csökkentésére.",
-      "importance": 4
+      "title": "Zöld utat kapott a gyerekkori pubertásgátlók klinikai vizsgálata",
+      "summary": "A bírói döntés értelmében megkezdődhet a pubertásgátló gyógyszerek klinikai vizsgálata gyermekeknél. Ez a döntés hosszas jogi vita után született, és fontos etikai kérdéseket vet fel.",
+      "importance": 5
     },
     {
-      "title": "Tanulmány: az LLM-eket használó tudósok 'többet, de rosszabbul' fognak teljesíteni",
-      "summary": "Egy modellezési tanulmány szerint a nagyméretű nyelvi modelleket (LLM) kutatásra használó tudósok hajlamosak lesznek 'többet, de rosszabbul' dolgozni. Ez a figyelmeztetés rávilágít az AI-alapú kutatás minőségének fenntartásával kapcsolatos aggodalmakra.",
+      "title": "Brutális tűzvihar végzett a dinoszauruszokkal egy új elmélet szerint",
+      "summary": "Egy új elmélet szerint a dinoszauruszokat nem csupán az aszteroida-becsapódás, hanem az azt követő, bolygóméretű tűzvihar is elpusztíthatta. Az állatok elevenen sülhettek meg a hőségben.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Belső feszültségek a FIFA-nál: Infantinót csalással vádolják, helyére keresnek utódot",
-      "summary": "A FIFA belső köreiből származó hírek szerint Gianni Infantino elnököt félrevezetéssel vádolják, és felmerült a kérdés, ki léphet a helyébe. A szervezet vezetésében komoly feszültségek tapasztalhatók.",
+      "title": "64 csapatos világbajnokság jöhet 2030-tól a FIFA tervei szerint",
+      "summary": "A FIFA elképesztő terveket szövöget: 2030-tól bevezetné a 64 csapatos világbajnokságot. Ez a nagyszabású bővítés jelentősen átalakíthatja a nemzetközi futballt.",
+      "importance": 5
+    },
+    {
+      "title": "A FIFA vezetését bizalmi válság rázza meg",
+      "summary": "A FIFA vezetője, Gianni Infantino tervei állítólag megtévesztették a szervezet munkatársait, ami belső feszültségeket és bizalmi válságot okoz. Kérdésessé vált Infantino pozíciója.",
       "importance": 4
     },
     {
-      "title": "Újabb őrület a FIFA-nál: 2030-tól 64 csapatos világbajnokság jöhet",
-      "summary": "A FIFA-nál felmerült a javaslat, hogy 2030-tól 64 csapatra bővítenék a labdarúgó-világbajnokság mezőnyét. Ez a nagyszabású változtatás komoly vitákat válthat ki a futballvilágban.",
-      "importance": 4
+      "title": "Lavina sodorta el Nirmal Purja expedícióját Pakisztánban",
+      "summary": "Lavina sodorta el a világ egyik leghíresebb hegymászója, Nirmal Purja expedícióját Pakisztánban. A baleset a magashegyi expedíciók veszélyeire hívja fel a figyelmet.",
+      "importance": 3
     },
     {
-      "title": "Lavina sodorta el Nirmal Purja, a világ leghíresebb hegymászójának expedícióját",
-      "summary": "Pakisztánban egy lavina sodorta el Nirmal Purja, a neves hegymászó expedícióját, ami súlyos veszélybe sodorta a csapatot. Az eset rávilágít az extrém sportok kockázataira.",
-      "importance": 4
-    },
-    {
-      "title": "Hajdú B. István zakója és egy emlékezetes tüsszentés a tévében",
-      "summary": "Hajdú B. István, a neves sportkommentátor, egy televíziós adásban okozott derültséget a zakójával és egy öblös tüsszentéssel. Az eset sokaknak emlékezetes maradt.",
+      "title": "Hajdú B. István zakója és a tévé élő adásának meglepetése",
+      "summary": "Hajdú B. István kommentátor zakója és egy öblös tüsszentés is emlékezetes pillanatokat okozott a tévékészítőknek. Ez a könnyed hír a sportközvetítések kulisszái mögé enged bepillantást.",
       "importance": 1
     }
   ]

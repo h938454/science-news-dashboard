@@ -1,6 +1,66 @@
 {
   "Telex": [
     {
+      "title": "Miért nem hűt le az izzadás? Miért alszunk rosszul dögmelegben?",
+      "link": "https://telex.hu/techtud/2026/07/31/hoseg-kanikula-hun-ren-javaslatok-alvashoz-idoseknek",
+      "summary": "A címben lévő kérdések mellett azt is megválaszolta a HUN-REN egy cikkében, miért veszélyeztetettek most az idősebbek."
+    },
+    {
+      "title": "Seperni lehetett őket, ellepték a szúnyogok a Kékszalagot",
+      "link": "https://telex.hu/belfold/2026/07/31/balaton-kekszalag-szunyoginvazio-video",
+      "summary": "Brutális szúnyoginvázióról készültek videók a Balatonnál."
+    },
+    {
+      "title": "Csapattársa megsértődhetett Szoboszlaira, mert nem neki adta a csapatkapitányi karszalagot",
+      "link": "https://telex.hu/sport/2026/07/31/csapattars-curtis-jones-szoboszlai-dominik-csapatkapitanyi-karszalag",
+      "summary": "Curtis Jones hisztizni kezdett, egy ponton földre dobták a karszalagot."
+    },
+    {
+      "title": "Nagyon durva stresszteszt lesz a magyar áramellátásnak Paks leállása",
+      "link": "https://telex.hu/g7/elet/2026/07/31/paks-leallas-aram-blackout-halozat",
+      "summary": "A hazai áramtermelés nagyjából 40 százaléka veszik el Paks kiesésével, de lesznek olyan időszakai a napnak, amikor az atomerőmű leállása miatt a termelés kétharmada fog hiányozni a rendszerből."
+    },
+    {
+      "title": "A fürdőszövetség alelnöke szerint csak a föld felszínéig látunk, pedig a föld alatti vízkincsre kéne építeni",
+      "link": "https://telex.hu/belfold/2026/07/31/aszaly-termalviz-hoseg-koncepcio-kovacsics-imre-magyar-peter",
+      "summary": "Kovacsics Imre termálfürdő-üzemeltető az aszály okozta helyzetre vélt találni megoldást, még a miniszterelnöknek is bemutatná az elképzeléseit."
+    },
+    {
+      "title": "Visszatért a Ferencvároshoz a 88-szoros válogatott Nagy Ádám",
+      "link": "https://telex.hu/sport/2026/07/31/nagy-adam-ferencvaros-igazolas-88-szoros-valogatott-kozeppalyas",
+      "summary": "A rutinos középpályás az olasz Speziától igazolt a Fradihoz."
+    },
+    {
+      "title": "Áramkimaradás esetén a lakossági napelemek sem működnek, hiába süt a nap",
+      "link": "https://telex.hu/g7/elet/2026/07/31/aramkimaradasok-lakossagi-napelemek-inverter-kikapcsolas",
+      "summary": "Elsőre nem tűnik logikusnak, de a háztartások döntő többsége nem számíthat arra, hogy ha problémák lesznek az energiaellátással, akkor a napelemekből közvetlenül nyerhet áramot."
+    },
+    {
+      "title": "Christopher Nolan Odüsszeiája új lendületet adott ennek a nyolc éve megjelent játéknak",
+      "link": "https://telex.hu/after/2026/07/31/christopher-nolan-odusszeia-assassins-creed-odyssey-mozi-jatek",
+      "summary": "Nem nehéz kitalálni, melyik Assassin's Creednek indultak meg a számai meredeken felfelé."
+    },
+    {
+      "title": "Nagy Ervin: Kompetenciamérést vezetünk be a színházigazgatóknak",
+      "link": "https://telex.hu/karakter/kultura/2026/07/31/nagy-ervin-kompetenciamerest-vezetunk-be-a-szinhazigazgatoknak",
+      "summary": "Emellett pályázatot írtak ki a Madách Színház és az Újszínház igazgatói posztjára."
+    },
+    {
+      "title": "Magyar Péter az energiacsökkentésről: Mielőtt a cégek elküldik a felajánlásaikat, szorozzák meg kettővel",
+      "link": "https://telex.hu/gazdasag/2026/07/31/magyar-peter-kapitany-istvan-mol-szazhalombatta-hoseg-kanikula-aszaly",
+      "summary": "Rendkívüli sajtótájékoztatót tartott a miniszterelnök és a Mol elnök-vezérigazgatója a százhalombattai finomítóban. A vállalatokat és az embereket is önmérsékletre szólították fel. Van elég üzemanyag, nem kell hozzányúlni a stratégiai tartalékhoz."
+    },
+    {
+      "title": "Energiatakarékossági okokból a hétfői és a keddi parlamenti ülés elhalasztását kéri a Tisza-frakció",
+      "link": "https://telex.hu/belfold/2026/07/31/energiatakarekossagi-okokbol-a-hetfoi-es-a-keddi-parlamenti-ules-elhalasztasat-keri-a-tisza-frakcio",
+      "summary": "Magyar Péter bejelentette, hogy lekapcsolják az állami fenntartású intézmények díszkivilágítását."
+    },
+    {
+      "title": "A kukoricának vége",
+      "link": "https://telex.hu/belfold/2026/07/31/az-orszag-legforrobb-es-legszarazabb-deli-reszen-a-homokhatsagon-mar-megszoktak-az-aszalyt-es-a-hoseget",
+      "summary": "A Dél-Alföldön élők megszokták a hőséget és az aszályt, egyelőre ivóvíz is van, de a 20-25 méteres mélységre fúrt kutak már rég elapadtak. A homokhátsági polgármesterek szerint a tanyákon élők ellátása a legnehezebb."
+    },
+    {
       "title": "A gödi Samsung-gyár megfelezi az ivóvíz-felhasználását",
       "link": "https://telex.hu/gazdasag/2026/07/31/god-samsung-gyar-ivoviz-felhasznalas-50-szazalek-csokkentes",
       "summary": "Az áramfogyasztását pedig a kritikus időszakban 10 százalékkal mérsékelte."
@@ -8,76 +68,66 @@
     {
       "title": "Már 3,3 milliárd forintot visszafizettek az NKA-kollégium támogatásaiból",
       "link": "https://telex.hu/belfold/2026/07/31/tarr-zoltan-nemzeti-kulturalis-alap-tamogatas-visszafizetes-3-3-milliard-forint",
-      "summary": "Hankó Balázs döntött a pénzek kiosztásáról, egyre többen utalják vissza az államnak."
+      "summary": "Hankó Balázs döntött a pénzek kiosztásáról, egyre többen utalják őket vissza az államnak."
     },
     {
       "title": "Kiírták a pályázatot a Nemzeti Filmintézet vezérigazgatói posztjára",
       "link": "https://telex.hu/karakter/kultura/2026/07/31/palyazat-kiiras-nemzeti-filmintezet-vezerigazgatoi-poszt-nfi",
       "summary": "A jelentkezőknek felsőfokú végzettséggel, legalább ötéves filmszakmai és vezetői tapasztalattal, tárgyalóképes angoltudással, valamint a magyar filmipar működésének átfogó ismeretével kell rendelkezniük."
-    },
-    {
-      "title": "Hiába figyelné mesterséges intelligencia a szegedi földeket, ha a gazdák még nem állnak rá készen",
-      "link": "https://telex.hu/techtud/2026/07/31/mesterseges-intelligencia-magyar-foldek-mezogazdasag-szegedi-tudomanyegyetem-technologia",
-      "summary": "A szegedi tudományegyetem szakemberei MI-vel azonosítanák és mérnék fel a növények problémáit, de a technológia sikerét végül a gazdák digitális felkészültsége dönti majd el."
-    },
-    {
-      "title": "A FIFA továbbra is kitart Infantino terve mellett, szerintük senki sem akarja eladni a futballt",
-      "link": "https://telex.hu/sport/2026/07/31/fifa-ffe-kulso-befektetok-bevonasa-foci-vb-kereskedelmi-jogok-gianni-infantino-terv-ellenallas-uefa",
-      "summary": "Az európai szövetség mellett már az ázsiai és az észak-amerikai konföderáció is ellenzi a magánbefektetők bevonását a világbajnokságok rendezésébe."
-    },
-    {
-      "title": "Meghalt Gálvölgyi Judit",
-      "link": "https://telex.hu/karakter/kultura/2026/07/31/meghalt-galvolgyi-judit",
-      "summary": "A család közlése szerint Gálvölgyi János felesége hosszú betegség után, 81 éves korában hunyt el."
-    },
-    {
-      "title": "Csaknem 50 ezer ember érkezhetett Marokkóból a spanyol Ceutába egy nap alatt",
-      "link": "https://telex.hu/kulfold/2026/07/31/spanyolorszag-marokko-ceuta-bevandorlas-migracio",
-      "summary": "Az észak-afrikai spanyol enklávéba a hadsereget is kivezényelték."
-    },
-    {
-      "title": "Így lehet most már tíz százalék alatti kamattal is személyi kölcsönhöz jutni",
-      "link": "https://telex.hu/g7/pr-cikk/2026/07/31/igy-lehet-most-mar-tiz-szazalek-alatti-kamattal-is-szemelyi-kolcsonhoz-jutni",
-      "summary": "Egyre több pénzintézetnél elérhető 9,5 százalék alatti kamat. Akár már néhány százezer forintos kölcsönt is adnak ilyen áron."
-    },
-    {
-      "title": "Részletfizetéssel is megvehetők a Sziget 2026 jegyei (x)",
-      "link": "https://telex.hu/pr-cikk/2026/07/31/reszletfizetessel-is-megvehetok-a-sziget-2026-jegyei",
-      "summary": "A Milpay partnerségével a látogatók több részletben fizethetik ki jegyüket vagy bérletüket."
-    },
-    {
-      "title": "Csapvíz, ásványvíz vagy szűrt víz? Nem mindegy, mit iszunk (x)",
-      "link": "https://telex.hu/pr-cikk/2026/07/31/csapviz-asvanyviz-vagy-szurt-viz-nem-mindegy-mit-iszunk-x",
-      "summary": "Csapvíz, ásványvíz vagy szűrt víz? Meglepő tények a hidratálásról, a vízminőségről és arról, melyik megoldás lehet a legegészségesebb."
-    },
-    {
-      "title": "7-én nyílik a Váli-kert, az új közösségi tér az Allee és a körtér között",
-      "link": "https://telex.hu/tamogatott-tartalom/2026/07/31/hetvegen-nyilik-a-vali-kert-az-uj-kozossegi-ter-az-allee-es-a-korter-kozott",
-      "summary": "Olyan közösségi tér születik, mely megállásra, kikapcsolódásra készteti az arra járókat."
-    },
-    {
-      "title": "Már a volgográdi Wildberries-raktárat is drónokkal támadta Ukrajna",
-      "link": "https://telex.hu/kulfold/2026/07/31/ukrajna-oroszorszag-haboru-zelenszkij-wildberries-raktar-tamadas",
-      "summary": "Az oroszok pedig egy amerikai drónüzemet semmisítettek meg Kijevben."
-    },
-    {
-      "title": "Az aszály miatt szinte teljesen kiszáradt az instagramozók kedvenc svájci tava",
-      "link": "https://telex.hu/kulfold/2026/07/31/aszaly-svajc-brenets-to-kiszaradt-csapadekhiany",
-      "summary": "A vízszint már több mint kilenc méterrel marad el az átlagostól, és naponta további mintegy 22 centimétert csökken."
-    },
-    {
-      "title": "Megállapodott a Mol-csoport a Shell ciprusi leányvállalatának megvásárlásáról",
-      "link": "https://telex.hu/gazdasag/2026/07/31/mol-shell-ciprusi-leanyvallalat-megvasarlas-megallapodas",
-      "summary": "A tranzakció zárása várhatóan 2027 első felében történik meg."
-    },
-    {
-      "title": "Drága az olaj, a benzin és a dízel, de a szomorú igazság az, hogy sokkal drágábbak is lehetnének",
-      "link": "https://telex.hu/gazdasag/2026/07/31/olaj-benzin-dizel-iran-usa-donald-trump-vedett-ar",
-      "summary": "Globálisan egyre önsorsrontóbb lett az amerikaiak iráni fellépése, itthon pedig már megint a dízel a szűk keresztmetszet."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Lavina sodorta el Pakisztánban a világ leghíresebb hegymászója, Nirmal Purja expedícióját",
+      "link": "https://444.hu/2026/07/31/lavina-sodorta-el-pakisztanban-a-vilag-leghiresebb-hegymaszoja-nirmal-purja-expediciojat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Négy holttestet már megtaláltak a Broad Peaken, Purját a jeladója alapján keresik az ítéletidőben."
+    },
+    {
+      "title": "Az MLSZ nem változtat az NB I-es menetrenden, vasárnap délután fél 4-kor, 40 fokban kell lejátszani az Újpest–Debrecen meccset",
+      "link": "https://444.hu/2026/07/31/az-mlsz-nem-valtoztat-az-nb-i-es-menetrenden-vasarnap-delutan-fel-4-kor-40-fokban-kell-lejatszani-az-ujpestdebrecen-meccset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ivószünet azért bizonyára lesz."
+    },
+    {
+      "title": "Szombattól nincs többé országos közéleti napilap Magyarországon",
+      "link": "https://444.hu/2026/07/31/szombattol-nincs-tobbe-orszagos-kozeleti-napilap-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A nyomtatott Népszabadság, a Magyar Hírlap és a Népszava után a Magyar Nemzet sem jelenik meg többé naponta."
+    },
+    {
+      "title": "Semmi ok az aggodalomra: áramszünet esetén is sugároz a közmédia",
+      "link": "https://444.hu/2026/07/31/semmi-ok-az-aggodalomra-aramszunet-eseten-is-sugaroz-a-kozmedia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az MTVA energiatakarékossági intézkedéseket is bejelentett a rendkívüli energiahelyzetre és a súlyos vízhiányra hivatkozva."
+    },
+    {
+      "title": "Akár augusztus 8-áig vagy 9-éig is itt maradhat velünk ez a 40 fokos pokol",
+      "link": "https://444.hu/2026/07/31/akar-augusztus-8-aig-vagy-9-eig-is-itt-maradhat-nekunk-ez-a-40-fokos-pokol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Legalább egy hétig brutális hőség lesz, de könnyen lehet, hogy kapunk néhány nap ráadást."
+    },
+    {
+      "title": "A Telekom két hétre otthoni munkavégzést vezet be, és lekapcsolja székházának digitális kijelzőit",
+      "link": "https://444.hu/2026/07/31/a-telekom-ket-hetre-otthoni-munkavegzest-vezet-be-es-lekapcsolja-szekhazanak-digitalis-kijelzoit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A MOL és a Samsung után a telekommunikációs cég is beáll a sorba."
+    },
+    {
+      "title": "Energiatakarékosság miatt hétfő-kedden szünetel az Abszolút Parlament",
+      "link": "https://444.hu/2026/07/31/energiatakarekossag-miatt-hetfo-kedden-szunetel-az-abszolut-parlament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Legkésőbb hétfőtől minden állami fenntartású intézmény díszkivilágítását is lekapcsolják."
+    },
+    {
+      "title": "Szirtes Tamás és Dörner György megbízatása lejár, Nagy Ervin megpályáztatja a Madách Színházat és az Újszínházat is",
+      "link": "https://444.hu/2026/07/31/szirtes-tamas-es-dorner-gyorgy-megbizatasa-lejar-nagy-ervin-megpalyaztatja-a-madach-szinhazat-es-az-ujszinhazat-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Kötelező vezetői kompetenciamérést vezetnek be, hiszen a kulisszák mögött nem uralkodhat félelem."
+    },
+    {
+      "title": "Temus Casino Royale: letartóztattak egy brit-azeri taxisofőrt, mert a gyanú szerint Iránnak kémkedett Cipruson",
+      "link": "https://444.hu/2026/07/31/temus-casino-royale-letartoztattak-egy-brit-azeri-taxisofort-mert-a-gyanu-szerint-irannak-kemkedett-cipruson?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A nemzetközi helyzet fokozódik."
+    },
+    {
+      "title": "A gödi Samsung-gyár is csökkenti az áram- és vízfogyasztását az energiakrízis miatt",
+      "link": "https://444.hu/2026/07/31/a-godi-samsung-gyar-is-csokkenti-az-aram-es-vizfogyasztasat-az-energiakrizis-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Amíg nem stabilizálódik a helyzet, ivóvízfogyasztását 50, villamosenergia-felhasználását pedig 10 százalékkal fogja vissza."
+    },
     {
       "title": "Magyar Péter: Az elmúlt évtizedek egyik legsúlyosabb energiaválságának elején vagyunk, hétfőn kezdődik a legkritikusabb időszak",
       "link": "https://444.hu/2026/07/31/magyar-peter-az-elmult-evtizedek-egyik-legsulyosabb-energiavalsaganak-elejen-vagyunk-hetfon-kezdodik-a-legkritikusabb-idoszak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -102,145 +152,95 @@
       "title": "Hiába fenyeget totális bojkottal az UEFA is, Infantino nem adja fel, továbbra is privatizálni akarja a futball-világbajnokságokat",
       "link": "https://444.hu/2026/07/31/hiaba-fenyeget-totalis-bojkottal-az-uefa-is-infantino-nem-adja-fel-tovabbra-is-privatizalni-akarja-a-futball-vilagbajnoksagokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A kritikák ellenére kitart az őrült terv mellett a FIFA. És különben is: a média a hibás, mert megzavarta a konzultációs folyamatokat."
-    },
-    {
-      "title": "Forsthoffer Ágnes nem költözik át a Sándor-palotába",
-      "link": "https://444.hu/2026/07/31/forsthoffer-agnes-nem-koltozik-at-a-sandor-palotaba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Magyar Hangnak adott interjújában Forsthoffer arról is beszélt, hogy a Divinyi Zsombor-ügy tárgytalan."
-    },
-    {
-      "title": "Akár fél méterrel is megdöntheti a Duna az alacsony vízállás rekordját Paksnál, Budapestnél pedig 0 centi alá süllyedhet",
-      "link": "https://444.hu/2026/07/31/akar-fel-meterrel-is-megdontheti-a-duna-az-alacsony-vizallas-rekordjat-paksnal-budapestnel-pedig-0-centi-ala-sullyedhet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Paksnál pénteken délelőtt –123, a fővárosnál 19 centiméternél járunk, az apadás folytatódik."
-    },
-    {
-      "title": "Szentendrén a rendszer túlterheltsége miatt több ezren maradtak ivóvíz nélkül",
-      "link": "https://444.hu/2026/07/31/szentendren-a-rendszer-tulterheltsege-miatt-tobb-ezren-maradtak-ivoviz-nelkul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az újabb, pusztító hőhullám miatt egyre több probléma jelentkezik."
-    },
-    {
-      "title": "Gajdos László: „Ha nem változtatunk, néhány év múlva egymillió ember élhet sivatagos környezetben Magyarországon”",
-      "link": "https://444.hu/2026/07/31/gajdos-laszlo-ha-nem-valtoztatunk-nehany-ev-mulva-egymillio-ember-elhet-sivatagos-kornyezetben-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A miniszter szerint tartósan vízhiányos helyzetre kell felkészülni."
-    },
-    {
-      "title": "A spanyol kormány katonákat vezényel Ceutába, miután összeomlott a határellenőrzés az észak-afrikai exklávéban",
-      "link": "https://444.hu/2026/07/31/a-spanyol-kormany-katonakat-vezenyel-ceutaba-miutan-osszeomlott-a-hatarellenorzes-az-eszak-afrikai-exklaveban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Legalább 15-en meghaltak, miközben Ceutába akartak bejutni. A helyzet miatt egymásnak feszült az olasz és a spanyol kormány is, az olaszok már kidobnák Schengenből Spanyolországot. A spanyol belügyminisztérium szerint az elmúlt 24 órában 49 ezren léptek be Marokkó felől az exklávéba."
-    },
-    {
-      "title": "Meghalt Franco Baresi",
-      "link": "https://444.hu/2026/07/31/meghalt-franco-baresi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az olasz válogatott és az AC Milan legendás futballistája 66 éves volt."
-    },
-    {
-      "title": "Az ALDI nem kérdezi, hol voltál, csak örül, hogy megint jöttél",
-      "link": "https://444.hu/2026/07/31/az-aldi-nem-kerdezi-hol-voltal-csak-orul-hogy-megint-jottel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az ALDI nem féltékeny típus. Nem kérdezi meg, hol jártál, kinél vettél kenyeret, és miért van idegen tej a hűtődben. Hűségprogram helyett egyszerűen alacsonyan tartja az árakat. Érzelmileg meglepően stabil teljesítmény egy diszkontlánctól."
-    },
-    {
-      "title": "A Shelltől vesz tulajdonrészt a Mol, a terjeszkedő magyar olajmulti beteszi a lábát Ciprusra is",
-      "link": "https://444.hu/2026/07/31/shell-tulajdonreszt-vesz-a-mol-a-terjeszkedo-magyar-olajmulti-beteszi-a-labat-ciprusra-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az amerikai Chevronnal és az izraeli NewMeddel lesz közös érdekeltsége egy mélytengeri gázmezőben."
-    },
-    {
-      "title": "Az első félévben 28 ezerrel csökkent Magyarország népessége",
-      "link": "https://444.hu/2026/07/31/az-elso-felevben-28-ezerrel-csokkent-magyarorszag-nepessege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Júniusban kevesebben születtek és kevesebben is haltak meg, mint egy évvel korábban, a természetes fogyás enyhén mérséklődött."
-    },
-    {
-      "title": "Az egyiptomi vizeken történő dróntámadások miatt már a Szuezi-csatorna biztonsága miatt is lehet aggódni",
-      "link": "https://444.hu/2026/07/31/az-egyiptomi-vizeken-torteno-drontamadasok-miatt-mar-a-szuezi-csatorna-biztonsaga-miatt-is-lehet-aggodni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Pedig a Hormuzi-szoros körüli hacacáré óta kulcsfontosságú exportútvonalat jelent a szaúdi olaj számára."
     }
   ],
   "HVG": [
     {
-      "title": "Három évre kiutasították Magyarországról a francia férfit, aki ököllel ütötte egy rendőr arcát",
-      "link": "https://hvg.hu/itthon/20260731_birosag-ele-allitottak-az-ugyeszseg-a-rendort-bantalmazo-kulfoldi-ferfit",
-      "summary": "A rendőrök azután kezdték üldözni, hogy egy benzinkúton nem fizetett."
+      "title": "Hitler elsüllyesztett hajói bukkantak fel a Dunában Szerbiában",
+      "link": "https://hvg.hu/elet/20260731_nemet-elsullyesztett-hajo-duna-szerbia",
+      "summary": "Az alacsony vízállás miatt sorra kerülnek elő a 82 éve elsüllyesztett hajók."
     },
     {
-      "title": "Várhatóan hétfőn kell lekapcsolni a Paksi Atomerőművet, szeptember 22-re fejezhetik be a Mol-finomító javítását",
-      "link": "https://hvg.hu/gazdasag/20260731_mol-dunai-finomito-szazhalombatta-magyar-peter-uzemanyag-arak",
-      "summary": "Magyar Péter azt is bejelentette: szombattól teljes kapacitással újraindulhat a Dunamenti Erőmű."
+      "title": "Ha kap egy e-mailt, amelynek 4110588461 van a tárgyában, akkor önt éppen át akarják verni",
+      "link": "https://hvg.hu/tudomany/20260731_megrendelesszam-4110588461-atveros-email-semmelweis-egyetem",
+      "summary": "Több ezer hamis címről érkező, vírust terjesztő levelet küldtek szét ismeretlenek július 30-án a Semmelweis Egyetem nevével visszaélve."
     },
     {
-      "title": "A gödi Samsung csökkenti ivóvíz- és áramfogyasztását, amíg az ellátási helyzet nem stabilizálódik",
-      "link": "https://hvg.hu/gazdasag/20260731_samsung-god-aramfogyasztas-vizfogyasztas-korlatozas-aszaly-hoseg",
-      "summary": "Vizsgálják a további csökkentési lehetőségeket is."
+      "title": "Történelmi mélypontját közelíti a Duna vízszintje Szerbiában, Németországban a Rajna apadt rekordközelbe",
+      "link": "https://hvg.hu/gazdasag/20260731_tortenelmi-melypont-kozelit-vizallas-duna-szerbia-nemetorszag-rajna",
+      "summary": "Egyre fogy Európa legnagyobb és legfontosabb folyóinak vízhozama."
     },
     {
-      "title": "Vasárnap élesedik az uniós AI-szabályozás: kötelező lesz jelezni, ha mesterséges intelligenciával beszélünk",
-      "link": "https://hvg.hu/eurologus/20260731_europai-bizottsag-mesterseges-intelligencia-deepfake",
-      "summary": "A fejlesztőknek azt is nyilvánosságra kell hozniuk, milyen típusú tartalmakkal tanították be modelljeiket."
+      "title": "Tragédia Pécsen: leszakadt a zsaluzat, egy ember meghalt, négyen megsérültek",
+      "link": "https://hvg.hu/itthon/20260731_pecs-epitkezes-halalos-baleset",
+      "summary": "Egy 46 éves barcsi férfi a helyszínen elhunyt."
     },
     {
-      "title": "A hot dog finom, de azért lehetnek sötét oldalai",
-      "link": "https://hvg.hu/tudomany/20260731_amerikai-felmeres-hot-dog-fogyasztassal-kapcsolatos-veszelyek",
-      "summary": "Mustárral, ketchuppal ízesített meleg virsli egy spéci kifliben: sokak nagy kedvence a hot dog. A népszerű street food azonban számos egészségügyi kockázatot rejt, amellyel – derül ki egy amerikai felmérésből – nagyon nincsenek tisztában az emberek."
+      "title": "Von der Leyen a ceutai helyzetről: A veszélyes határátlépéseknek azonnal véget kell vetni",
+      "link": "https://hvg.hu/vilag/20260731_spanyolorszag-marokko-ceuta-ursula-von-der-leyen-europai-unio-reakcio",
+      "summary": "Az Európai Bizottság elnöke két biztost bízott meg a helyzet kontrollálásával."
     },
     {
-      "title": "Harmadfokú vízkorlátozás lépett életbe 14 településen a Pilisi-medencében",
-      "link": "https://hvg.hu/itthon/20260731_vizkorlatozas-duna-menti-regionalis-vizmu",
-      "summary": "A vízmű önkorlátozásra kérte azokat, akiknél zavartalan a szolgáltatás."
+      "title": "Mindenki észre fogja venni a jeleket: vasárnap megkezdődik az uniós AI-rendelet végrehajtása",
+      "link": "https://hvg.hu/tudomany/20260731_vasarnap-megkezdodik-az-unios-ai-rendelet-vegrehajtasa",
+      "summary": "2026. augusztus 2-ától az Európai Bizottság AI-hivatala – a nemzeti hatóságokkal együttműködve – megkezdi a mesterséges intelligenciáról szóló rendelet végrehajtását. Ugyanettől a naptól kell alkalmazni az új átláthatósági szabályokat, aminek a hatását mindenki közvetlenül észlelheti majd az online tartalmaknál."
     },
     {
-      "title": "Tarr Zoltán: 3,3 milliárd forintnál is több közpénzt fizettek vissza a Hankó-ügy kedvezményezettjei",
-      "link": "https://hvg.hu/kultura/20260731_tarr-zoltan-3-3-milliard-forint-kozpenzt-fizettek-hanko-nka",
-      "summary": "Hankó Balázs, az Orbán-kormány minisztere milliárdokat osztott szét olyan szervezeteknek, amelyek a Fidesz kampányát segítették."
+      "title": "Aranyrészvényekkel a gazdasági hatalom korlátozásáért és Magyarország vonzóbbá tételéért a minőségi befektetők számára",
+      "link": "https://hvg.hu/360/20260731_gazdasag-hatalom-befektetes-velemeny",
+      "summary": "A nyitott gazdaság és a külföldi tőke bevonzása nem zárja ki azt, hogy az állam világos korlátokat szabjon a gazdasági hatalom túlzott koncentrációjának. Éppen ellenkezőleg: a kiszámítható szabályozás, a tisztességes verseny, az átlátható közbeszerzések és a stratégiai ágazatok védelme nem a befektetések ellen hatnak, hanem hosszú távon éppen ezek teszik vonzóbbá és stabilabbá az országot a felelős nemzetközi tőke számára. Arie Yom-Tov izraeli üzletember, befektető, a Kaboom Technologies alapítójának írása."
     },
     {
-      "title": "A kormány hamarosan állami alapba gyűjtheti a visszaszerzett vagyont",
-      "link": "https://hvg.hu/360/20260731_vagyonvisszaszerzes-kekvak-mol-richter-reszvenyek-allami-tokebefektetes-magyar-kormany",
-      "summary": "Pár héten belül 15 százalék Mol- és 10 százalék Richter-részvény tulajdonosa lesz az állam, és ez még csak a kezdet. Az Orbán-kormány tőkeprogramjain és hitelezésein keresztül már rövid távon olyan üzletrészekhez juthat az állam, amelyek a Fideszhez közel álló milliárdosoknál halmozódtak fel."
+      "title": "Rákapcsol a Spotify, jön a futó mód",
+      "link": "https://hvg.hu/tudomany/20260731_spotify-futo-mod-lejatszasi-listak-letrehozasa-mesterseges-intelligencia",
+      "summary": "Új funkció élesedik a Spotifyban: összeállíthatja vele az ön számára tökéletes lejátszási listát futáshoz, és ehhez nincs is szükség a zenék egyedi válogatására."
     },
     {
-      "title": "Hat nem egyetemi kekva megy a kukába, többnek a sorsa még bizonytalan, kettő a vagyona alapos megkurtítása után is élni akar",
-      "link": "https://hvg.hu/360/20260731_hvg-kozerdeku-vagyonkezelo-alapitvanyok-vagyonmerlegek-ader-janos-batthyany-alapitvany",
-      "summary": "Áder János és a Batthyány Alapítvány is biztos abban, hogy folytatja tevékenységét augusztus 31-e után, amikorra az állam 15 egykori közérdekű vagyonkezelő alapítványból veszi vissza a vagyonát. A HVG-nek adott minisztériumi válaszok alapján legalább két további alapítvány is túlélhet."
+      "title": "Paksi Atomerőmű: az Európai Bizottság kész rendkívüli tanácskozást összehívni a leállítás miatt",
+      "link": "https://hvg.hu/gazdasag/20260731_paksi-atomeromu-europai-bizottsag-rendkivuli-tanacskozas",
+      "summary": "A testület szóvivője szerint a romániai erőműhelyzetet is szoros figyelemmel kísérik."
     },
     {
-      "title": "Gajdos László: Tartósan vízhiányos helyzetre kell felkészülni",
-      "link": "https://hvg.hu/gazdasag/20260731_tartos-vizhiany-figyelmeztetes-gajdos-laszlo-elo-kornyezetert-felelos-miniszter-duna-vizszint-ivoviz-takarekossag",
-      "summary": "Ha nem vigyázunk, néhány év múlva egymillió ember élhet Magyarországon sivatagos környezetben."
+      "title": "Joseph Stiglitz: Itt az alkalom, hogy a világ visszavágjon Trump új vámjaiért",
+      "link": "https://hvg.hu/360/20260731_lapszemle-joseph-stiglitz-trump-uj-vamok-eu-vilag-visszavagas",
+      "summary": "Az amerikai elnök megint felrúgja a hazai és a nemzetközi jogot, mert nagyot akar szakítani a globális érték- és szállítási láncból, és ezzel kárt okoz az amerikai gazdaságnak. És minél tovább óvakodnak a cégek és kormányok szembeszállni vele, annál nagyobb a katasztrófa, amely mindenkire leselkedik."
     },
     {
-      "title": "Annyira alacsony a Duna vízszintje, hogy újra láthatóvá váltak az egykori Ferenc József híd maradványai",
-      "link": "https://hvg.hu/itthon/20260731_duna-vizallas-budapest-szabadsag-hid-ferenc-jozsef-hid",
-      "summary": "Nem mindennapi és hátborzongó látvány fogadja azokat, akik a Szabadság hídnál a mélybe tekintenek."
+      "title": "Kapitány István: A magyar emberek tegnap megint bebizonyították, amit én mindig is tudtam",
+      "link": "https://hvg.hu/gazdasag/20260731_kapitany-istvan-aramfogyasztas-visszafogas-mavir",
+      "summary": "A gazdasági és energetikai miniszter a csütörtök esti lakossági áramfogyasztás-visszafogást ünnepli."
     },
     {
-      "title": "Képek: 15 hektáron égett az erdő a Visegrádi-hegységben",
-      "link": "https://hvg.hu/itthon/20260731_erdotuz-visegradi-hegyseg-kutato-mento-szolgalat-katasztrofavedelem",
-      "summary": "Több településről érkeztek hivatásos és önkéntes tűzoltók, és a Pest Vármegyei Kutató-Mentő Szolgálat is kivonult a helyszínre."
+      "title": "Orbán újabb álma van összeomlóban lengyel szövetséges pártja szétszakadása után",
+      "link": "https://hvg.hu/360/20260731_lengyelorszag-valasztas-pis-morawiecki-tusk-elemzes",
+      "summary": "Nagy a bizonytalanság a jövő évi lengyel választások körül a jobboldal szakadása után. A fő kérdés az lesz, ki kivel hajlandó szövetkezni."
     },
     {
-      "title": "A Magyar Nemzet főszerkesztője szerint az olvasói szokások annyira megváltoztak, hogy „ebben a formában nem megy tovább”",
-      "link": "https://hvg.hu/itthon/20260731_magyar-nemzet-napilap-bucsu-hetilap-nezo-laszlo-publicisztika-valosag-jovo",
-      "summary": "Néző László értelmezése alapján a Magyar Nemzet nem megszűnt, hanem átalakult."
+      "title": "Videó: tízezrek törtek át Marokkóból Ceutába, kivezényelték a katonaságot",
+      "link": "https://hvg.hu/vilag/20260731_spanyolorszag-marokko-ceuta-bevandorlas-attores",
+      "summary": "A becslések szerint több mint 60 ezren érkeztek a 83 ezer lakost számláló spanyol városba, és legalább 18-an meghaltak."
     },
     {
-      "title": "Nagy újításon dolgozik a Google, újraindítás nélkül frissülhet a Chrome böngésző",
-      "link": "https://hvg.hu/tudomany/20260731_google-chrome-frissites-biztonsagi-javitasok-telepites-ujrainditas-nelkul",
-      "summary": "Hamarosan nem lesz szükség a Chrome bezárására a frissítések telepítéséhez, és ez sokkal biztonságosabbá is teheti a böngésző használatát."
+      "title": "A letartóztatott Őrsi Gergely elrendelte: visszafogják a szökőkutat és csökkentik az irodai munkavégzést",
+      "link": "https://hvg.hu/gazdasag/20260731_ii-kerulet-energiafogyasztas-onkorlatozas-orsi-gergely-magyar-peter-hoseg",
+      "summary": "Spórol a II. kerületi önkormányzat is."
     },
     {
-      "title": "Meghalt Gálvölgyi Judit műfordító, Gálvölgyi János felesége",
-      "link": "https://hvg.hu/kultura/20260731_meghalt-galvolgyi-judit-galvolgyi-janos-felesege",
-      "summary": "80 éves volt."
+      "title": "Nagy Ervin: Kötelező lesz a vezetői kompetenciamérés a színházigazgatóknál",
+      "link": "https://hvg.hu/kultura/20260731_nagy-ervin-vezetoi-kompetenciameres-szinhazigazgatok",
+      "summary": "A minsztérium pályázatokat írt ki a Madách Színház és az Újszínház élére."
     }
   ],
   "BBC": [
     {
-      "title": "About 49,000 migrants enter Spanish territory of Ceuta, officials say",
+      "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
       "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The estimated number of arrivals is more than half of the population of the city, which is about 83,600."
+      "summary": "The estimated number of arrivals is more than 70% of the population of the city, which is about 83,600."
     },
     {
-      "title": "Senior Infantino adviser quits after Asian federation opposes World Cup investment plan",
+      "title": "Burnham says Infantino 'wrong man' to lead Fifa as third confederation opposes World Cup plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/ce345l6kg6ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Asian Football Confederation \"stands in solidarity\" with Uefa and Concacaf in opposing controversial Fifa proposals."
+      "summary": "Prime Minister Andy Burnham says Gianni Infantino is \"the wrong man\" to lead Fifa as criticism grows of the controversial investment plan."
     },
     {
       "title": "Southport killer charged with prison attacks and possessing weapon",
@@ -248,9 +248,14 @@
       "summary": "Axel Rudakubana, 19, is accused of attacking staff at HMP Belmarsh between May and October 2025."
     },
     {
-      "title": "Satellite images show impact of heatwaves and drought on UK landscape",
-      "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming."
+      "title": "Sainsbury's agrees to sell Argos for £120m",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points."
+    },
+    {
+      "title": "Four climbers killed and six feared missing after avalanche hit Nirmal Purja's team",
+      "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing or killed in Pakistan."
     },
     {
       "title": "Anthropic's Claude AI escapes test environment and hacks into three organisations",
@@ -258,9 +263,9 @@
       "summary": "It comes just days after rival OpenAI said rogue AI agents had breached other firms' networks."
     },
     {
-      "title": "Sainsbury's agrees to sell Argos for £120m",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points."
+      "title": "Glasgow gets starring role in Spider-Man: Brand New Day film",
+      "link": "https://www.bbc.co.uk/news/articles/c78gngjz3p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scotland's largest city doubles as New York in the latest installment of Marvel cinematic universe."
     },
     {
       "title": "Andy Burnham to give regional mayors share of income tax",
@@ -268,14 +273,19 @@
       "summary": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail."
     },
     {
-      "title": "British man accused of spying on Cyprus RAF base for Iran",
-      "link": "https://www.bbc.co.uk/news/articles/ce853y7yq7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rashad Sultanov, a UK-Azerbaijan national, was arrested in Cyprus on suspicion of spying on RAF Akrotiri."
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of unleaded hits 160p a litre, according to motoring group the RAC, as oil prices remain elevated."
     },
     {
       "title": "What your summer reading list says about you",
       "link": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss",
       "summary": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show."
+    },
+    {
+      "title": "Satellite images show impact of heatwaves and drought on UK landscape",
+      "link": "https://www.bbc.co.uk/news/articles/ckgv657e1yko?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify's analysis indicates “vegetation stress” in many areas, which may affect wildlife and farming."
     },
     {
       "title": "'I pay £580 a month to live in a disused care home': Property guardians show us around",
@@ -288,11 +298,6 @@
       "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza."
     },
     {
-      "title": "Glasgow gets starring role in Spider-Man: Brand New Day film",
-      "link": "https://www.bbc.co.uk/news/articles/c78gngjz3p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland's largest city doubles as New York in the latest installment of Marvel cinematic universe."
-    },
-    {
       "title": "Weekly quiz: Why was a French teenager fined for licking a straw?",
       "link": "https://www.bbc.co.uk/news/articles/cn4nlp7qjjlo?at_medium=RSS&at_campaign=rss",
       "summary": "How much attention did you pay to what happened in the world over the past seven days?"
@@ -301,14 +306,14 @@
       "title": "Millions opposed military rule in Myanmar. Is their dream of a revolution over?",
       "link": "https://www.bbc.co.uk/news/articles/ckgd3k7xe39o?at_medium=RSS&at_campaign=rss",
       "summary": "Opponents of the junta hoped a revolution would remake Myanmar - but these are disheartening times."
-    },
-    {
-      "title": "Amazon and Apple just told us more about their AI plans - here are three things we learned",
-      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
-      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?"
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
+      "link": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
+      "summary": "Ellis AI announced Thursday its emergence from stealth with $10 million in seed funding."
+    },
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
       "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
@@ -378,18 +383,23 @@
       "title": "Spotify launches ‘User Notes’ to let users add memories to songs",
       "link": "https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/",
       "summary": "Spotify says the new feature is designed to let users add personal captions to their favorite songs, such as noting why a track was added to a playlist or when they first discovered it"
-    },
-    {
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-      "summary": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments."
     }
   ],
   "Nature": [
     {
+      "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+      "link": "https://www.nature.com/articles/s41586-026-10921-w",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10921-w\">doi:10.1038/s41586-026-10921-w</a></p>Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores"
+    },
+    {
       "title": "The power of ignorance and peering into the Milky Way: Books in brief",
       "link": "https://www.nature.com/articles/d41586-026-02371-1",
       "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02371-1\">doi:10.1038/d41586-026-02371-1</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Meat allergy is on the rise — what scientists want to know",
+      "link": "https://www.nature.com/articles/d41586-026-02362-2",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02362-2\">doi:10.1038/d41586-026-02362-2</a></p>The allergy is caused by ticks, but researchers have much to learn about it."
     },
     {
       "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
@@ -427,6 +437,11 @@
       "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02079-2\">doi:10.1038/d41586-026-02079-2</a></p>Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner."
     },
     {
+      "title": "Daily briefing: ‘Raygun’ AI can shrink or supersize proteins",
+      "link": "https://www.nature.com/articles/d41586-026-02420-9",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02420-9\">doi:10.1038/d41586-026-02420-9</a></p>The tool can add, remove or swap protein subunits using similar steps to natural evolution. Plus, spin qubits are back in the quantum race and the drugs that could prevent long COVID."
+    },
+    {
       "title": "Author Correction: A ductile solid electrolyte interphase for solid-state batteries",
       "link": "https://www.nature.com/articles/s41586-026-10945-2",
       "summary": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10945-2\">doi:10.1038/s41586-026-10945-2</a></p>Author Correction: A ductile solid electrolyte interphase for solid-state batteries"
@@ -445,21 +460,6 @@
       "title": "Why tomorrow’s nanotechnologies need support today",
       "link": "https://www.nature.com/articles/d41586-026-02179-z",
       "summary": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02179-z\">doi:10.1038/d41586-026-02179-z</a></p>The field seems to be on the cusp of big advances, but a concerted effort is needed to realize its true potential."
-    },
-    {
-      "title": "Was art key to ancient humans' success? The secrets of Hohle Fels cave",
-      "link": "https://www.nature.com/articles/d41586-026-02359-x",
-      "summary": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02359-x\">doi:10.1038/d41586-026-02359-x</a></p>New discoveries at famous archeological site add to mystery of ancient human culture."
-    },
-    {
-      "title": "The piezochiral effect",
-      "link": "https://www.nature.com/articles/s41586-026-10845-5",
-      "summary": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10845-5\">doi:10.1038/s41586-026-10845-5</a></p>The piezochiral effect, a new member of the family of strain-responsive functionalities alongside piezoelectricity and piezomagnetism, is introduced, enabling control of chirality through mechanical strain, with future applications in photonics, spintronics, biosensing and quantum information."
-    },
-    {
-      "title": "Diverse bacterial pattern recognition receptors sense the core phage proteome",
-      "link": "https://www.nature.com/articles/s41586-026-10852-6",
-      "summary": "<p>Nature, Published online: 29 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10852-6\">doi:10.1038/s41586-026-10852-6</a></p>Systematic analysis of prokaryotic STAND NTPases — relatives of animal and plant immune receptors — uncovers diverse antiviral sensors that detect most of the core structural and replicative proteins of bacteriophages."
     }
   ]
 }

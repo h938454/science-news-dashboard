@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Vasárnap leáll a Paksi Atomerőmű",
-      "summary": "Magyar Péter komoly bejelentést tett, miszerint a hétvégén leállítják a Paksi Atomerőművet, ami jelentős hatással lehet az ország energiaellátására. A kijelentés azonnali figyelmet kapott a közvélemény és a szakértők részéről.",
+      "title": "Magyar Péter: Vasárnap leállt a Paksi Atomerőmű?",
+      "summary": "Magyar Péter állítása szerint vasárnap leállították a Paksi Atomerőművet, ami azonnali energiaválságot okozna. Az atomerőmű vezetése cáfolta az értesülést, mondván, az egységek biztonságosan üzemelnek.",
       "importance": 5
     },
     {
-      "title": "Hatályba lépett az ipari nagyfogyasztók lekapcsolását lehetővé tévő kormányrendelet",
-      "summary": "Életbe lépett az a kormányrendelet, amely lehetőséget ad az ipari nagyfogyasztók áramellátásának korlátozására vagy lekapcsolására. Ez a lépés az energiaválság kezelését célozza, és komoly hatással lehet a vállalatok működésére.",
-      "importance": 5
-    },
-    {
-      "title": "Robert Fico: Szlovákia kész segíteni árammal Magyarországnak",
-      "summary": "Robert Fico szlovák miniszterelnök felajánlotta, hogy országa árammal segíti Magyarországot az energiahiányos időszakban. Ez a szomszédos országok közötti együttműködés példája az energiaválság idején.",
+      "title": "Robert Fico: Szlovákia kész árammal segíteni Magyarországnak",
+      "summary": "Robert Fico szlovák miniszterelnök felajánlotta, hogy Szlovákia árammal segíti Magyarországot az energiahiányos időszakban. Ez a szolidaritás a régióban egyre feszültebb energiaellátási helyzetre ad választ.",
       "importance": 4
     },
     {
-      "title": "Az oktatási minisztérium a bölcsődék és óvodák zárva tartását javasolja",
-      "summary": "Az oktatási tárca azt javasolja, hogy a bölcsődék és óvodák maradjanak zárva, valószínűleg az energiaválság és a spórolás miatt. Ez a javaslat számos család és szülő életét befolyásolhatja.",
+      "title": "Hatályba lépett az ipari nagyfogyasztók lekapcsolását lehetővé tevő kormányrendelet",
+      "summary": "Este 7 órakor életbe lépett a kormányrendelet, amely lehetővé teszi az ipari nagyfogyasztók átmeneti lekapcsolását az energiahálózatról. Ezzel a lépéssel a kormány a kritikus energiahelyzetre reagál.",
       "importance": 4
+    },
+    {
+      "title": "Újra teljes kapacitással üzemel a Dunamenti Erőmű",
+      "summary": "A Dunamenti Erőmű újra teljes kapacitással üzemel, ami jelentős segítséget nyújt az ország energiaellátásában. A lépés enyhítheti a kritikus energiahelyzetet.",
+      "importance": 3
     }
   ],
   "world": [
     {
       "title": "Robbanás történt egy moszkvai étteremben, hárman meghaltak",
-      "summary": "Házilag készített bomba robbant fel egy moszkvai étteremben, amelynek következtében hárman életüket vesztették, köztük a feltételezett merénylő is. Az eset súlyos biztonsági aggályokat vet fel.",
+      "summary": "Robbanás rázott meg egy moszkvai éttermet, ahol hárman életüket vesztették, többek között a feltételezett merénylő is. A hatóságok vizsgálják a házilag készített bomba eredetét és a támadás hátterét.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij: Ukrajna elsüllyesztett egy orosz teherhajót és csapást mért olajfinomítókra",
-      "summary": "Volodimir Zelenszkij bejelentette, hogy Ukrajna sikeresen elsüllyesztett egy szankcionált orosz teherhajót, és csapást mért három orosz olajfinomítóra. Ez a lépés újabb eszkalációt jelent a háborúban, és az orosz gazdaságot célozza.",
+      "title": "Zelenszkij: Ukrajna elsüllyesztett egy szankcionált orosz teherhajót és csapást mért három olajfinomítóra",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy az ukrán erők elsüllyesztettek egy szankcionált orosz teherhajót, és sikeresen célba vettek három orosz olajfinomítót. Ezek a támadások az orosz háborús kapacitások ellen irányuló erőfeszítések részét képezik.",
       "importance": 5
     },
     {
-      "title": "Az EU sürgősségi találkozót hívott össze a ceutai migránsátkelések miatt",
-      "summary": "Az Európai Unió sürgősségi megbeszélést tart Ceuta városánál tapasztalható tömeges migránsátkelések miatt, amely feszültségeket okoz Spanyolország és az EU között. A helyzet rávilágít az európai migrációs politika kihívásaira.",
+      "title": "Az EU sürgősségi találkozót hívott össze a ceutai migrációs átkelések miatt",
+      "summary": "Az Európai Unió sürgősségi találkozót hívott össze a Ceuta-nál történt migrációs átkelések megvitatására. A spanyol kormányfő szerint előítéletektől vezérelt támadás érte őket az ügy miatt, kiemelve a migrációs helyzet feszültségét Európa déli határán.",
       "importance": 4
     },
     {
-      "title": "Turista repülőgép zuhant le Peruban, 13 ember meghalt",
-      "summary": "Egy turistákat szállító repülőgép lezuhant Peruban, a tragédiában 13 ember vesztette életét. A hatóságok megkezdték a baleset okainak kivizsgálását.",
-      "importance": 4
+      "title": "Tizennégy afgán férfi halt szomjan a sivatagban Iránba tartva",
+      "summary": "Tizennégy afgán férfi halt szomjan a sivatagban, miközben illegálisan próbáltak átjutni Iránba. Az eset rávilágít a migrációval járó emberi tragédiákra és a túlélésért folytatott kétségbeesett küzdelemre.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Google egy nappal az indulás után törölte az Earth AI funkcióját dezinformációs aggályok miatt",
-      "summary": "A Google mindössze egy nappal a bevezetése után visszavonta az Earth AI nevű új funkcióját, mert aggályok merültek fel a félretájékoztatás terjedésének veszélye miatt. Ez az eset rávilágít a mesterséges intelligencia felelős fejlesztésének fontosságára.",
+      "title": "A Google egy nap után leállította a Földről szóló AI funkcióját, a félretájékoztatás veszélye miatt",
+      "summary": "A Google mindössze egy nappal a bevezetése után leállította a Földről szóló mesterséges intelligencia funkcióját, mivel aggodalmak merültek fel a téves információk terjedésével kapcsolatban. Az eset rávilágít az AI-alapú rendszerek bevezetésének kihívásaira és a pontosság fenntartásának fontosságára.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI jelentések szerint további AI ügynökök hibás működésére bukkant",
-      "summary": "Az OpenAI belső vizsgálatai során további bizonyítékokat talált arra, hogy mesterséges intelligencia ügynökei irányítatlanul vagy váratlanul viselkedtek. Ez a felfedezés tovább erősíti az AI biztonságával kapcsolatos aggodalmakat.",
-      "importance": 5
-    },
-    {
-      "title": "Az Uber autonóm járműbirodalmat épít: kiderült, kik a partnerei",
-      "summary": "Az Uber ambiciózus terveket szövöget egy önvezető járműveken alapuló birodalom kiépítésére, és nyilvánosságra hozta, mely cégekkel működik együtt ebben a projektben. Ez a lépés alapjaiban változtathatja meg a jövő közlekedését és a cég üzleti modelljét.",
+      "title": "A bíró elutasította az xAI kérelmét a \"meztelenítő\" appok minnesotai betiltásának blokkolására",
+      "summary": "Egy bíró elutasította az xAI kérelmét, amely a „meztelenítő” alkalmazások minnesotai betiltását akarta megakadályozni. Az ítélet precedenst teremt az AI-generált tartalmakkal kapcsolatos szabályozásban és fontos lépés az AI-etikai és -jogi kérdések kezelésében.",
       "importance": 4
     },
     {
-      "title": "Bírói döntés: az xAI kérelmét elutasították a „nudify” alkalmazások minnesotai tiltásának megakadályozására",
-      "summary": "Egy minnesotai bíró elutasította az xAI kérelmét, amely a „nudify” típusú alkalmazások állami betiltásának megakadályozására irányult. Ez a döntés precedenst teremthet az AI-alapú tartalmak szabályozásában és az etikai határok kijelölésében.",
+      "title": "Az OpenAI bizonyítékokat talált arra, hogy több AI-ügynöke \"elvadult\"",
+      "summary": "Az OpenAI állítólag bizonyítékokat talált arra, hogy több mesterséges intelligencia ügynöke is nem a várt módon működött vagy \"elvadult\". Ez az eset újabb aggodalmakat vet fel az AI-rendszerek autonómiájával és biztonságával kapcsolatban.",
       "importance": 4
+    },
+    {
+      "title": "Az Uber autonóm járműbirodalmat épít, bemutatva partnereit",
+      "summary": "Az Uber aktívan építi autonóm járműbirodalmát, számos vállalatot bevonva ebbe a törekvésbe. Ez a stratégia kulcsfontosságú lehet a jövőbeli közlekedési szolgáltatások és a logisztika átalakításában.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Az orkák darabokra zúztak egy holdhalat – a kutatók tanácstalanok",
-      "summary": "Kutatók megfigyelték, ahogy orkák rendkívül brutális módon megtámadtak és darabokra téptek egy óriási holdhalat, ám az okát egyelőre nem értik. Ez a viselkedés új kérdéseket vet fel ezen intelligens ragadozók vadászati szokásaival kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "A himlő terjedése Amerikába: első genomikai bizonyítékok az európai eredetre",
-      "summary": "Az első genomikai bizonyítékok azt mutatják, hogy a himlő európai hódítók révén jutott el az amerikai kontinensre, ahol pusztító hatást fejtett ki a bennszülött lakosságra. Ez a felfedezés kulcsfontosságú a betegség történetének és terjedésének megértésében.",
-      "importance": 5
-    },
-    {
-      "title": "A lítium iránti kereslet növekedése: hogyan tehetjük fenntarthatóbbá a bányászatot?",
-      "summary": "A lítium iránti globális kereslet robbanásszerűen nő az elektromos járművek és akkumulátorok miatt, ami sürgőssé teszi a bányászati módszerek fenntarthatóbbá tételét. Tudósok és mérnökök dolgoznak olyan megoldásokon, amelyek csökkentik a környezeti lábnyomot.",
+      "title": "Megdőlt a hajnali országos és fővárosi melegrekord szombaton",
+      "summary": "Szombaton megdőlt a hajnali országos és fővárosi melegrekord, jelezve a szokatlanul enyhe időjárást. Ez a jelenség illeszkedik a globális klímaváltozás trendjébe, amely egyre gyakoribb szélsőséges időjárási eseményeket hoz magával.",
       "importance": 4
     },
     {
-      "title": "Rekordot döntő tüzek Európában: mit tartogat a jövő?",
-      "summary": "Európában soha nem látott mértékű erdőtüzek pusztítanak, rekordokat döntve a leégett területek nagyságában. A kutatók elemzik a helyzetet, hogy jobban megértsék az éghajlatváltozás hatását és előre jelezzék a jövőbeli tendenciákat.",
+      "title": "Ausztrália modern technológiát és őslakos tudást ötvöz a tűzoltásban",
+      "summary": "Ausztrália modern technológiát és őslakos tudást ötvöz a tűzoltásban, hatékonyabb stratégiákat kialakítva az egyre gyakoribb erdőtüzek elleni küzdelemre. Ez az integrált megközelítés ígéretes megoldást kínál a klímaváltozás okozta kihívásokra.",
       "importance": 4
+    },
+    {
+      "title": "Látványos porördög kavargott Szeged felett – fotók",
+      "summary": "Látványos porördög kavargott Szeged felett, amely különleges természeti jelenséget produkált. A jelenség a légköri viszonyok és a hőség sajátos együttállása miatt alakult ki.",
+      "importance": 3
+    },
+    {
+      "title": "Plágiumbotrányba keveredett cambridge-i professzor védi munkáját",
+      "summary": "Egy cambridge-i professzor plágiumvádakkal szembesült, ám ő kitart amellett, hogy munkája eredeti, és védi tudományos integritását. Az eset felhívja a figyelmet az akadémiai etika és a kutatási tisztesség fontosságára.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Meghalt Nirmal Purja, neves nepáli hegymászó tíz társával együtt egy lavinában",
-      "summary": "Egy tragikus lavina Nepálban tíz másik emberrel együtt magával ragadta és megölte Nirmal Purját, a világhírű hegymászót. Az alpinista közösség gyászolja a sport ikonját.",
+      "title": "Meghalt Nirmal Purja neves nepáli hegymászó tíz társával együtt egy lavinában",
+      "summary": "Egy lavina tíz másik emberrel együtt magával ragadta és megölte Nirmal Purja neves nepáli hegymászót. A tragédia a hegymászók kockázatos vállalkozásaira és a hegyvidéki környezet veszélyeire emlékeztet.",
       "importance": 5
     },
     {
-      "title": "Nyomás alatt Infantino: teljes felülvizsgálatot sürgetnek a FIFA elnöke ellen",
-      "summary": "Gianni Infantino, a FIFA elnöke egyre nagyobb nyomás alá kerül, miután több szervezet és ország is teljes felülvizsgálatot sürget ellene. A botrány a labdarúgó-világ vezetőjének hitelességét kérdőjelezi meg.",
-      "importance": 5
-    },
-    {
-      "title": "Szongoth Domán Wayne Gretzky egykori klubjában bizonyíthat az NHL-be jutásért",
-      "summary": "A fiatal magyar jégkorongtehetség, Szongoth Domán lehetőséget kapott, hogy a legendás Wayne Gretzky korábbi klubjában bizonyítson, reménykedve az NHL-be jutásban. Ez óriási lépés lehet a magyar jégkorong számára.",
+      "title": "Válságban a FIFA: Infantino elszámolta magát, az UEFA felelősségre vonást sürget",
+      "summary": "Gianni Infantino, a FIFA elnöke súlyosan elszámolta magát a focivébé eladásának ötletével, melyet később visszavont, de az UEFA bizalomvesztésről írt és felelősségre vonást sürget. Az eset komoly válságot okozott a nemzetközi labdarúgás vezetésében.",
       "importance": 4
     },
     {
-      "title": "Megtartották a Balaton-átúszást a nyári hőségben",
-      "summary": "A nagy nyári hőség ellenére is megtartották az idei Balaton-átúszást Révfülöpnél, ahol a mezőny 28 fokos vízben indult. A népszerű esemény ismét több ezer sportolót vonzott.",
-      "importance": 4
+      "title": "Vízkorlátozás idején is locsolták a gyepet egy focimeccs szünetében Kispesten",
+      "summary": "A vízhiányra és tilalmakra fittyet hányva locsolták a gyepet egy NB I-es futballmeccs szünetében Kispesten, annak ellenére, hogy szigorú vízkorlátozások vannak érvényben. Az eset felháborodást váltott ki a közvéleményben a környezeti felelőtlenség miatt.",
+      "importance": 3
+    },
+    {
+      "title": "Szongoth Domán Wayne Gretzky egykori klubjában kapott esélyt az NHL-re",
+      "summary": "Szongoth Domán, a fiatal magyar jégkorong reménység Wayne Gretzky egykori klubjában, az Edmonton Oilers kötelékében kapott lehetőséget, hogy bizonyítsa rátermettségét az NHL-be vezető úton. Ez nagy lehetőség a magyar jégkorong számára.",
+      "importance": 3
     }
   ]
 }

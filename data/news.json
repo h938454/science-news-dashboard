@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "A tanárok értékelésébe a diákokat és a szülőket is be kell vonni",
+      "link": "https://telex.hu/g7/podcast/2026/08/01/teljesitmenyertekeles-tanarok-oktatas-nat-diakok-szuloket-dirik-podcast",
+      "summary": "A megszüntetett teljesítményértékelés helyett olyan rendszerre lenne szükség, amely a saját célok teljesítésén és a vezetői értékelésen túl a diákok és a szülők visszajelzéseit is figyelembe veszi."
+    },
+    {
       "title": "A Ceutát lerohanó több tízezer migráns többsége visszatért Marokkóba",
       "link": "https://telex.hu/kulfold/2026/07/31/ceuta-spanyolorszag-spanyol-enklave-marokko-migransok",
       "summary": "A helyi hatóságok szerint maguktól tettek így, az átkelések során két nap alatt legalább 57 ember halt meg."
@@ -69,11 +74,6 @@
       "title": "Magyar Péter: A Paksi Atomerőmű leállítása semmilyen nukleáris veszélyt nem jelent az országra",
       "link": "https://telex.hu/gazdasag/2026/07/31/magyar-peter-kapitany-istvan-paksi-atomeromu-energiavalsag-hoseg-kanikula",
       "summary": "A legfrissebb számítások szerint kedden vagy szerdán éri el azt a kritikus vízszintet a Duna, amikor le kell állítani a blokkokat."
-    },
-    {
-      "title": "Óvakodj a baglyoktól és a rejtélyes milliárdosoktól!",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/07/31/lichter-peter-a-detektiv-aki-baglyokat-filmezett-kritika",
-      "summary": "Káosz, klausztrofób terek, világítótornyok viharban, holttestek és Twin Peaks-utalások egyaránt előkerülnek Lichter Péter krimijében, ami helyenként annyira meta, hogy az már néha a krimiség rovására megy. Kritika."
     }
   ],
   "Portfolio": [],
@@ -235,7 +235,7 @@
     {
       "title": "Fifa scraps controversial World Cup investment plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-      "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea."
+      "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal."
     },
     {
       "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
@@ -243,24 +243,9 @@
       "summary": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid."
     },
     {
-      "title": "Watch: Moroccan police clash with migrants near border with Spain's Ceuta",
-      "link": "https://www.bbc.co.uk/news/videos/cnvnml1pen6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's North African territory of Ceuta from Morocco, though more than 25,000 have returned voluntarily, officials said."
-    },
-    {
-      "title": "No sentence long enough for jailed funeral director Robert Bush, say families",
-      "link": "https://www.bbc.co.uk/news/articles/cre4nlez9nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Families give their reaction to the 20-year sentence handed to Robert Bush."
-    },
-    {
-      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
-      "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal."
-    },
-    {
-      "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
-      "link": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record."
+      "title": "Labour's Bev Craig elected Greater Manchester mayor, succeeding Andy Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley."
     },
     {
       "title": "Police release Nancy Guthrie ransom notes in latest bid to find kidnappers",
@@ -268,24 +253,44 @@
       "summary": "Investigators hope the notes' \"distinct linguistic characteristics\" may be recognised by a member of the public."
     },
     {
+      "title": "Victims of disgraced funeral boss demand industry regulation",
+      "link": "https://www.bbc.co.uk/news/articles/cr49w13w9d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Campaigners say \"full statutory regulation\" must be brought in following Legacy funerals scandal."
+    },
+    {
+      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+      "link": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
+    },
+    {
+      "title": "How Sam Fender and Olivia Dean's Rein Me In broke the UK's singles chart record",
+      "link": "https://www.bbc.co.uk/news/articles/cly8r2p27lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The duet has spent 19 non-consecutive weeks at the top of the charts, breaking a 73-year-old record."
+    },
+    {
+      "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries."
+    },
+    {
+      "title": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+      "link": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal."
+    },
+    {
+      "title": "Death row inmates desperate to escape execution in Saudi Arabia call the BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c80nkgdnl4no?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of Ethiopians are awaiting execution - some called the BBC to tell their stories."
+    },
+    {
+      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
+      "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage."
+    },
+    {
       "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
       "link": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
       "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content."
-    },
-    {
-      "title": "Two more small boat pilots jailed for Channel crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cq6d8m1y3y9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both men admitted steering overcrowded vessels carrying more than 80 people each to the UK."
-    },
-    {
-      "title": "Puberty blockers trial can start recruiting children after judge rejects legal challenge",
-      "link": "https://www.bbc.co.uk/news/articles/c0jl4np49w1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Campaigners brought the legal action to try and stop the trial going ahead."
-    },
-    {
-      "title": "Massive Attack banned from Singapore after pro-Palestine display at show",
-      "link": "https://www.bbc.co.uk/news/articles/cwyle421806o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK band is told not to return to the city-state after shouting \"free Palestine\" at a gig on Wednesday."
     },
     {
       "title": "Infantino on the brink? Who might replace him if he goes?",
@@ -293,19 +298,14 @@
       "summary": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?"
     },
     {
+      "title": "He bought a fitness supplement online to bulk up, but ended up losing his mind",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd82vvvdno?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Murphy went into psychosis after taking missold drugs which had been mixed with steroids."
+    },
+    {
       "title": "The Papers: 'Spanish border crisis' and 'iron chancellor'",
       "link": "https://www.bbc.co.uk/news/articles/cdrvkzdpynyo?at_medium=RSS&at_campaign=rss",
       "summary": "The crossing of 60,000 migrants into the Spanish North African enclave of Ceuta from Morocco is featured prominently across Saturday's papers."
-    },
-    {
-      "title": "Who is Greater Manchester's new Mayor Bev Craig?",
-      "link": "https://www.bbc.co.uk/news/articles/cly5nvj2d2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bev Craig succeeds Andy Burnham as Greater Manchester's mayor, but what do we know about her?"
-    },
-    {
-      "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-      "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated."
     }
   ],
   "TechCrunch": [

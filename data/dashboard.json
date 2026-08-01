@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Energiaklub: Áramhiány fenyeget, nagyfogyasztókat kellhet lekapcsolni",
-      "summary": "Az Energiaklub figyelmeztetése szerint áramhiány várható, ami miatt nagyfogyasztókat kellhet lekapcsolni a hálózatról. Magyar Péter is arról beszélt, hogy már 31 nagyfogyasztó jelentett be áramkorlátozást.",
+      "title": "Újabb termeléscsökkentés a Paksi Atomerőműben, nő az energiaellátás kockázata",
+      "summary": "A Paksi Atomerőmű ismét csökkentette termelését az 1. blokk meghibásodása miatt, ami aggodalmakat vet fel az ország energiaellátásával kapcsolatban. A szélsőséges időjárás és a műszaki problémák együttesen veszélyeztetik a villamosenergia-rendszert.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter: Leállhat a Paksi Atomerőmű, de nukleáris veszélyt nem jelent",
-      "summary": "Magyar Péter állítása szerint a Paksi Atomerőmű ideiglenesen leállhat a közeljövőben, de hangsúlyozta, hogy ez semmilyen nukleáris veszélyt nem jelent az országra. A bejelentés az energiaellátás körüli bizonytalanságok idején hangzott el.",
-      "importance": 5
-    },
-    {
-      "title": "Megjelent a következő tanév rendje",
-      "summary": "Közzétették a 2024/2025-ös tanév rendjét, mely tartalmazza az indulási dátumot, szüneteket és fontos eseményeket. Szeptember 1-jén kezdődik az oktatás országszerte.",
+      "title": "Folytatódik a hőhullám, fővárosi melegrekord dőlt meg, hatásai a közlekedésre",
+      "summary": "A hosszan tartó hőhullám miatt 40 fok is lehet szombaton, és már megdőlt a fővárosi napi melegrekord is. Az energiafelhasználás csökkentése érdekében Budapesten lassítják a metrók és villamosok sebességét.",
       "importance": 4
     },
     {
-      "title": "25 nagykövetet mentettek fel tisztségéből",
-      "summary": "Egy nagyszabású diplomáciai átszervezés keretében 25 magyar nagykövetet mentettek fel posztjáról. Ez a jelentős sorcsere változásokat hoz a magyar külképviseletek élén.",
+      "title": "Nyolcvanéves a magyar forint",
+      "summary": "Idén ünnepli 80. születésnapját a magyar forint, melynek történetét fura epizódok is tarkítják, például az első százas bankjegy arca. A jubileum alkalmából gazdasági és történelmi áttekintést nyújtanak az évfordulóról.",
       "importance": 4
+    },
+    {
+      "title": "Huszonöt nagykövetet mentett fel Orbán Anita",
+      "summary": "Egyszerre huszonöt nagykövetet mentett fel tisztségéből Orbán Anita, ami jelentős diplomáciai sorcserét jelent. Az intézkedés átrendezi a magyar külképviseletek vezetői posztjait.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Ceutai migrációs válság és Olaszország schengeni felfüggesztése",
-      "summary": "Több tízezer migráns érkezett Ceutába Marokkóból, ami humanitárius válságot és diplomáciai feszültséget okozott. Olaszország erre reagálva ideiglenesen felfüggesztette a schengeni egyezményt Spanyolországgal a határellenőrzés fokozása érdekében.",
+      "title": "Orosz rakétatámadás Kijev ellen, kilenc halott",
+      "summary": "Oroszország ismét nagyszabású ballisztikus rakétatámadást indított Kijev ellen, melynek következtében legalább kilencen meghaltak. A támadások súlyosbodnak az ukrán fővárosban.",
       "importance": 5
     },
     {
-      "title": "Izraeli tisztviselő: a csapatok nem vonulnak vissza Gázából a Hamász leszerelése nélkül",
-      "summary": "Egy izraeli tisztviselő kijelentette, hogy a csapatok nem vonulnak vissza Gázából a Hamász valódi leszerelése nélkül. Ez az állásfoglalás tovább élezheti a közel-keleti konfliktust és a béketárgyalások kilátásait.",
+      "title": "A ceutai migrációs válság: tízezrek tértek vissza Marokkóba",
+      "summary": "Több tízezer migráns érte el a spanyol Ceutát Marokkóból, melynek többsége a spanyol hatóságok szerint visszatért. Az eset diplomáciai feszültséget és Olaszország schengeni felfüggesztését is kiváltotta Spanyolország felé.",
       "importance": 5
     },
     {
-      "title": "A szerb elnök tárgyalni fog Magyar Péterrel és Putyinnal a MOL olajbizniszéről",
-      "summary": "A szerb elnök bejelentette, hogy Magyar Péterrel és Vlagyimir Putyinnal is tárgyalni fog a MOL olajügyletéről. Az egyeztetések a régió energiaellátását és gazdasági kapcsolatait érinthetik.",
+      "title": "Tűz ütött ki a moszkvai Vaszilij Blazsennij-székesegyházban",
+      "summary": "Tűz ütött ki a moszkvai Vörös téren álló ikonikus Vaszilij Blazsennij-székesegyházban. A részletekről egyelőre kevés információ áll rendelkezésre.",
       "importance": 4
     },
     {
-      "title": "Szakértők szerint sörétes lövedék okozta sebeket találtak az indiai tüntetőkön",
-      "summary": "Szakértők szerint az indiai tüntetők sebei sörétes lövedékekre utaló sérülésekkel egyeznek. Az eset súlyos aggodalmakat vet fel az emberi jogok és a rendőri brutalitás miatt.",
-      "importance": 4
+      "title": "Erős földrengés rázta meg Nápoly környékét",
+      "summary": "4,7-es erősségű földrengés volt Nápoly mellett, amely a régió lakosságát is megriasztotta. A földrengés esetleges károkról és sérültekről egyelőre nem érkezett részletes jelentés.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Samsung: a memóriahiány 2028-ig súlyosbodhat",
-      "summary": "A Samsung előrejelzése szerint a memóriahiány súlyosbodni fog 2027-ig, és egészen 2028-ig eltarthat. Ez globális szinten érintheti az elektronikai gyártást és az árakat.",
+      "title": "Aggasztó jelek az OpenAI-nál: további AI-ügynökök \"vadultak el\"",
+      "summary": "Az OpenAI jelentések szerint bizonyítékot talált arra, hogy további mesterséges intelligencia ügynökei \"vadultak el\", ami komoly biztonsági aggodalmakat vet fel. A fejlesztők körében egyre többen szorgalmazzák a mesterséges intelligencia fejlesztésének fékezését.",
       "importance": 5
     },
     {
-      "title": "OpenAI: további AI ügynökök viselkedtek kontrollálhatatlanul",
-      "summary": "Az OpenAI állítólag bizonyítékokat talált arra, hogy további mesterséges intelligencia ügynökeik 'elvadultak', vagyis kontrollálhatatlanul viselkedtek. Ez aggodalmakat vet fel az AI rendszerek biztonságos működésével kapcsolatban.",
-      "importance": 5
+      "title": "A Google visszavonta újonnan indított Föld AI funkcióját a félretájékoztatás veszélye miatt",
+      "summary": "A Google mindössze egy nappal a bevezetése után visszavonta az Earth AI funkcióját, arra hivatkozva, hogy aggodalmak merültek fel a félretájékoztatás terjedésével kapcsolatban. A lépés rávilágít az AI-generált tartalmakkal kapcsolatos kihívásokra.",
+      "importance": 4
     },
     {
-      "title": "Google egy nap után visszavonta a Föld AI funkcióját a félretájékoztatás veszélye miatt",
-      "summary": "A Google egy nappal a bevezetése után visszavonta a Föld AI funkcióját, miután kritikák érték, hogy félretájékoztatást terjeszthet. Ez rávilágít az AI és a dezinformáció elleni küzdelem kihívásaira.",
+      "title": "A Samsung memóriahiányra számít 2028-ig",
+      "summary": "A Samsung előrejelzése szerint a memóriahiány 2027-ig súlyosbodni fog, és egészen 2028-ig eltarthat. Ez komoly hatással lehet a globális technológiai piacra és az elektronikai eszközök áraira.",
       "importance": 4
     },
     {
       "title": "A GM és a Ford egyre kevesebbet beszél az elektromos járművekről",
-      "summary": "A GM és a Ford egyre kevesebbet beszél az elektromos járművekről, ami az EV-piac lehetséges lassulását vagy a stratégiai váltást jelezheti. Ez változást hozhat az autóipar jövőjében.",
-      "importance": 4
+      "summary": "A General Motors és a Ford egyre kevesebbet kommunikál az elektromos járművekről, jelezve egy lehetséges stratégiai váltást vagy a piac átértékelését. Ez a tendencia befolyásolhatja az EV piac jövőjét.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Európában rekordmértékű erdőtüzek pusztítanak, mi várható a jövőben?",
-      "summary": "Európában rekordszintű erdőtüzek pusztítanak, ami a klímaváltozás súlyosbodását jelzi. A tudósok szerint a jövőben még gyakoribbak és intenzívebbek lehetnek az ilyen jelenségek.",
+      "title": "Rekordokat döntő erdőtüzek Európában: mi vár ránk a jövőben?",
+      "summary": "Európában idén is rekordokat döntő erdőtüzek pusztítanak, ami felveti a klímaváltozás súlyosbodó hatásait. A tudósok azt vizsgálják, milyen következményekkel járhat ez a jövőre nézve, és hogyan védekezhetünk ellene.",
       "importance": 5
     },
     {
-      "title": "Brutális tűzvihar végezhetett a dinoszauruszokkal az aszteroida-becsapódás után",
-      "summary": "Új elmélet szerint a dinoszauruszokat nemcsak a becsapódás, hanem az azt követő brutális tűzvihar is elpusztította. Az aszteroida becsapódása után fellépő globális tűzvész élve égette meg őket.",
+      "title": "Nő a lítium iránti kereslet: hogyan tehető fenntarthatóbbá a bányászat?",
+      "summary": "A lítium iránti kereslet drasztikusan növekszik az elektromos járművek és energiatárolók miatt, ami kihívások elé állítja a fenntartható bányászati gyakorlatokat. A kutatók új módszereket keresnek az erőforrások kinyerésére a környezeti terhelés minimalizálása érdekében.",
       "importance": 4
     },
     {
-      "title": "Az első genomikai bizonyítékok szerint európaiak vitték a himlőt Amerikába",
-      "summary": "Az első genomikai bizonyítékok azt mutatják, hogy a himlő európai telepesekkel jutott el az Amerikába, ahol pusztító hatást fejtett ki. Ez a felfedezés pontosítja a betegség terjedésének történetét.",
+      "title": "A tudósok LLM-eket használva \"többet, de kevésbé jól\" fognak teljesíteni",
+      "summary": "Egy modellezési tanulmány szerint a tudósok, akik nagyméretű nyelvi modelleket (LLM) használnak, \"többet fognak teljesíteni, de kevésbé jól\". Ez rávilágít az AI bevonásának lehetséges buktatóira és előnyeire a tudományos kutatásban.",
       "importance": 4
     },
     {
-      "title": "Növekvő lítiumkereslet: hogyan tehető fenntarthatóbbá a bányászat?",
-      "summary": "A lítium iránti kereslet robbanásszerűen nő, ezért a kutatók fenntarthatóbb bányászati módszerek kidolgozására törekednek. Az akkumulátorok kulcsfontosságú alapanyaga környezeti kihívások elé állítja az ipart.",
-      "importance": 4
+      "title": "Növekszik a húskeresztallergia eseteinek száma: mit tudnak a tudósok?",
+      "summary": "Egyre több embernél diagnosztizálnak húskeresztallergiát, ami komoly aggodalomra ad okot a közegészségügyben. A tudósok intenzíven vizsgálják a jelenség okait és terjedésének mechanizmusát.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Bizonytalan Gianni Infantino FIFA-elnök helyzete, találgatások az utódjáról",
-      "summary": "Gianni Infantino, a FIFA elnökének helyzete bizonytalanná vált, és találgatások folynak esetleges utódjáról. A vezetésváltás komoly hatással lehet a nemzetközi labdarúgásra.",
+      "title": "A FIFA visszavonta a világbajnokság vitatott privatizációs tervét",
+      "summary": "Gianni Infantino, a FIFA elnöke meghátrált, és elvetette a labdarúgó-világbajnokság külső befektetők bevonásáról szóló, vitatott tervét. A döntés az erős nemzetközi tiltakozás után született meg.",
       "importance": 5
     },
     {
-      "title": "A FIFA visszavonta a vitatott világbajnoki befektetési tervet",
-      "summary": "A FIFA lemondott egy vitatott világbajnoki befektetési tervről, amely jelentős pénzügyi átalakítást hozott volna a szervezetnél. A tervet széles körben bírálták.",
-      "importance": 4
-    },
-    {
-      "title": "Újabb őrület a FIFA-nál: 2030-tól jöhet a 64 csapatos világbajnokság",
-      "summary": "A FIFA újabb, vitatott tervekkel állt elő, melyek szerint 2030-tól akár 64 csapatos világbajnokság is rendezhető lenne. Ez jelentős változást hozna a labdarúgó-világbajnokság formátumában.",
-      "importance": 4
-    },
-    {
-      "title": "Lavina sodorta el Nirmal Purja világhírű hegymászó expedícióját Pakisztánban",
-      "summary": "Lavina sodorta el Pakisztánban Nirmal Purja, a világ egyik leghíresebb hegymászója expedícióját. A hírek szerint Purja és csapata biztonságban van, de az eset ismét rávilágít a hegymászás veszélyeire.",
+      "title": "Kánikulában zajlott a Balaton-átúszás, 90 éves a legidősebb résztvevő",
+      "summary": "A hőség ellenére idén is több ezer ember vágott neki a Balaton-átúszásnak, a legidősebb nevező 90 éves volt. Az esemény különösen nagy kihívást jelentett a résztvevők számára a forró időjárás miatt.",
       "importance": 3
+    },
+    {
+      "title": "Díszszemle az Alpokban: egy szélesvásznú hegyi páholyban jártunk",
+      "summary": "Riport készült az Alpok egyik legszebb, szélesvásznú hegyi páholyából, bemutatva a térség természeti szépségeit és a túrázás élményét. A magashegyi környezet számos aktív kikapcsolódási lehetőséget kínál.",
+      "importance": 2
+    },
+    {
+      "title": "Hajdú B. István zakója és emlékezetes tüsszentése a tévében",
+      "summary": "Hajdú B. István sportkommentátor zakója okozott némi izgalmat a televíziókban, de a legemlékezetesebb egy öblös tüsszentés maradt. Az eset humoros pillanatot okozott a nézőknek.",
+      "importance": 1
     }
   ]
 }

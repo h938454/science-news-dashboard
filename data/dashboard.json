@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Újabb termeléscsökkentés a Paksi Atomerőműben, nő az energiaellátás kockázata",
-      "summary": "A Paksi Atomerőmű ismét csökkentette termelését az 1. blokk meghibásodása miatt, ami aggodalmakat vet fel az ország energiaellátásával kapcsolatban. A szélsőséges időjárás és a műszaki problémák együttesen veszélyeztetik a villamosenergia-rendszert.",
+      "title": "Magyarország az energiaválság szorításában: korlátozások és paksi leállások",
+      "summary": "A kormány energiafogyasztási korlátozásokat vezet be a nagyfogyasztóknál, és a Paksi Atomerőmű termelése is csökken. Hétfőtől a vasúti teherszállítást is korlátozzák, emellett Budapesten lassul a metró és a villamos is az árammegtakarítás érdekében.",
       "importance": 5
     },
     {
-      "title": "Folytatódik a hőhullám, fővárosi melegrekord dőlt meg, hatásai a közlekedésre",
-      "summary": "A hosszan tartó hőhullám miatt 40 fok is lehet szombaton, és már megdőlt a fővárosi napi melegrekord is. Az energiafelhasználás csökkentése érdekében Budapesten lassítják a metrók és villamosok sebességét.",
+      "title": "Vizsgálat indult a Szalonnára költöztetett szlovákiai roma családok ügyében",
+      "summary": "A Belügyminisztérium vizsgálatot ígér a Szalonnára költöztetett szlovákiai roma családok helyzetével kapcsolatban, akik szociális problémákkal és lakhatási nehézségekkel küzdenek. Az ügy komoly társadalmi és emberi jogi kérdéseket vet fel.",
       "importance": 4
     },
     {
-      "title": "Nyolcvanéves a magyar forint",
-      "summary": "Idén ünnepli 80. születésnapját a magyar forint, melynek történetét fura epizódok is tarkítják, például az első százas bankjegy arca. A jubileum alkalmából gazdasági és történelmi áttekintést nyújtanak az évfordulóról.",
+      "title": "Merre tovább, magyar gazdaság?",
+      "summary": "Egy friss elemzés szerint a jelenlegi magyar gazdasági irány nem vezet sehova, ezért sürgősen új stratégiai lépésekre van szükség a fenntartható növekedés és a versenyképesség biztosításához. A szakértők szerint alapvető változtatásokra van szükség.",
       "importance": 4
     },
     {
-      "title": "Huszonöt nagykövetet mentett fel Orbán Anita",
-      "summary": "Egyszerre huszonöt nagykövetet mentett fel tisztségéből Orbán Anita, ami jelentős diplomáciai sorcserét jelent. Az intézkedés átrendezi a magyar külképviseletek vezetői posztjait.",
-      "importance": 3
+      "title": "Orbán rendszerének tudományos leépülése – FAZ elemzés",
+      "summary": "A német FAZ lap szerint Orbán rendszerének hatása a tudomány területén is megmutatkozik, ami a tudományos szabadság és az akadémiai integritás leépüléséhez vezethet Magyarországon. Az elemzés aggodalmát fejezi ki a kutatás és oktatás jövőjével kapcsolatban.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Orosz rakétatámadás Kijev ellen, kilenc halott",
-      "summary": "Oroszország ismét nagyszabású ballisztikus rakétatámadást indított Kijev ellen, melynek következtében legalább kilencen meghaltak. A támadások súlyosbodnak az ukrán fővárosban.",
+      "title": "Orosz rakétatámadások Kijev ellen, miközben Ukrajna Patriot hiánnyal küzd",
+      "summary": "Oroszország ismét nagyszabású rakétatámadásokat indított Kijev ellen, legalább kilenc halálos áldozatot követelve. Ukrán források szerint az ország kritikus Patriot légvédelmi rendszer hiánnyal néz szembe, ami veszélyezteti a védekezést.",
       "importance": 5
     },
     {
-      "title": "A ceutai migrációs válság: tízezrek tértek vissza Marokkóba",
-      "summary": "Több tízezer migráns érte el a spanyol Ceutát Marokkóból, melynek többsége a spanyol hatóságok szerint visszatért. Az eset diplomáciai feszültséget és Olaszország schengeni felfüggesztését is kiváltotta Spanyolország felé.",
+      "title": "Az ENSZ-főtitkár forró őszre figyelmeztet az El Niño miatt",
+      "summary": "Az ENSZ főtitkára arra figyelmeztet, hogy az El Niño jelenség felerősödése világszerte rendkívül forró őszt hozhat, súlyosbítva az éghajlatváltozás hatásait. Ez aszályokat, áradásokat és extrém időjárási eseményeket okozhat.",
       "importance": 5
     },
     {
-      "title": "Tűz ütött ki a moszkvai Vaszilij Blazsennij-székesegyházban",
-      "summary": "Tűz ütött ki a moszkvai Vörös téren álló ikonikus Vaszilij Blazsennij-székesegyházban. A részletekről egyelőre kevés információ áll rendelkezésre.",
+      "title": "Izraeli telepesek igazoltnak látják a palesztinok elleni támadásokat",
+      "summary": "Egy izraeli ciszjordániai telepes a BBC-nek elmondta, hogy a palesztinok elleni támadásokat bosszúból jogosnak tartja. Ez a nyilatkozat rávilágít a régióban tapasztalható feszültségekre és az erőszakspirálra.",
       "importance": 4
     },
     {
-      "title": "Erős földrengés rázta meg Nápoly környékét",
-      "summary": "4,7-es erősségű földrengés volt Nápoly mellett, amely a régió lakosságát is megriasztotta. A földrengés esetleges károkról és sérültekről egyelőre nem érkezett részletes jelentés.",
-      "importance": 3
+      "title": "Szaúd-arábiai halálraítéltek kérték a BBC segítségét",
+      "summary": "Szaúd-Arábiában halálraítéltek keresték meg a BBC-t, kétségbeesetten remélve, hogy elkerülhetik a kivégzést. Az eset rávilágít az ország emberi jogi helyzetére és a nemzetközi figyelmet igénylő igazságszolgáltatási gyakorlatokra.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Aggasztó jelek az OpenAI-nál: további AI-ügynökök \"vadultak el\"",
-      "summary": "Az OpenAI jelentések szerint bizonyítékot talált arra, hogy további mesterséges intelligencia ügynökei \"vadultak el\", ami komoly biztonsági aggodalmakat vet fel. A fejlesztők körében egyre többen szorgalmazzák a mesterséges intelligencia fejlesztésének fékezését.",
+      "title": "A Google egy nap után visszavonta új Föld AI funkcióját dezinformációs aggályok miatt",
+      "summary": "A Google mindössze egy nappal a bevezetése után törölte a Föld AI funkcióját, miután kritikák érték a lehetséges dezinformáció terjesztése miatt. Ez az eset rávilágít az AI felelős alkalmazásával kapcsolatos kihívásokra és a technológiai óriások szerepére a tartalom ellenőrzésében.",
       "importance": 5
     },
     {
-      "title": "A Google visszavonta újonnan indított Föld AI funkcióját a félretájékoztatás veszélye miatt",
-      "summary": "A Google mindössze egy nappal a bevezetése után visszavonta az Earth AI funkcióját, arra hivatkozva, hogy aggodalmak merültek fel a félretájékoztatás terjedésével kapcsolatban. A lépés rávilágít az AI-generált tartalmakkal kapcsolatos kihívásokra.",
-      "importance": 4
+      "title": "Az OpenAI további 'megszökött' AI ügynökök bizonyítékát találta",
+      "summary": "Az OpenAI állítólag újabb bizonyítékokat talált arra, hogy további AI ügynökeik 'szabadultak el', azaz nem a várt módon működtek. Ez a felfedezés komoly aggodalmakat vet fel az AI rendszerek ellenőrizhetőségével és biztonságával kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "A Samsung memóriahiányra számít 2028-ig",
-      "summary": "A Samsung előrejelzése szerint a memóriahiány 2027-ig súlyosbodni fog, és egészen 2028-ig eltarthat. Ez komoly hatással lehet a globális technológiai piacra és az elektronikai eszközök áraira.",
+      "title": "A Samsung memóriahiányt jósol 2027-ig, ami 2028-ig is eltarthat",
+      "summary": "A Samsung arra számít, hogy a globális memóriahiány egészen 2027-ig súlyosbodni fog, és a probléma akár 2028-ig is elhúzódhat. Ez komoly hatással lehet az elektronikai iparra, a gyártási költségekre és a fogyasztói árakra.",
       "importance": 4
     },
     {
       "title": "A GM és a Ford egyre kevesebbet beszél az elektromos járművekről",
-      "summary": "A General Motors és a Ford egyre kevesebbet kommunikál az elektromos járművekről, jelezve egy lehetséges stratégiai váltást vagy a piac átértékelését. Ez a tendencia befolyásolhatja az EV piac jövőjét.",
-      "importance": 3
+      "summary": "A General Motors és a Ford egyre kevésbé kommunikál az elektromos járművek (EV) fejlesztéséről és terveiről, ami a piaci kihívásokra és a stratégiai átalakulásokra utalhat. Ez a tendencia aggodalmakat vet fel az EV-átállás ütemével kapcsolatban.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rekordokat döntő erdőtüzek Európában: mi vár ránk a jövőben?",
-      "summary": "Európában idén is rekordokat döntő erdőtüzek pusztítanak, ami felveti a klímaváltozás súlyosbodó hatásait. A tudósok azt vizsgálják, milyen következményekkel járhat ez a jövőre nézve, és hogyan védekezhetünk ellene.",
+      "title": "Rekordméretű tüzek Európában: mit hoz a jövő?",
+      "summary": "Az európai erdőtüzek idén rekordokat döntenek, ami súlyos aggodalmakat vet fel az éghajlatváltozás és a szárazság hatásai miatt. A kutatók elemzik, hogy milyen jövő vár ránk, és milyen megelőző intézkedésekre van szükség.",
       "importance": 5
     },
     {
-      "title": "Nő a lítium iránti kereslet: hogyan tehető fenntarthatóbbá a bányászat?",
-      "summary": "A lítium iránti kereslet drasztikusan növekszik az elektromos járművek és energiatárolók miatt, ami kihívások elé állítja a fenntartható bányászati gyakorlatokat. A kutatók új módszereket keresnek az erőforrások kinyerésére a környezeti terhelés minimalizálása érdekében.",
+      "title": "Genomikai bizonyítékok a himlő amerikai terjedéséről: az európaiak a felelősek",
+      "summary": "Az első genomikai bizonyítékok arra utalnak, hogy a himlő betegséget az európaiak hozták be Amerikába, ahol pusztító járványokat okozott az őslakos népesség körében. Ez a felfedezés új megvilágításba helyezi a történelmi járványok eredetét.",
+      "importance": 5
+    },
+    {
+      "title": "A tudósok „többet, de rosszabbul” teljesíthetnek a nagyméretű nyelvi modellek (LLM-ek) használatával",
+      "summary": "Egy modellezési tanulmány szerint a nagyméretű nyelvi modelleket (LLM) használó tudósok hajlamosak lesznek \"többet, de kevésbé jól\" dolgozni. Ez felveti a kérdést az AI kutatásban való alkalmazásának minőségi korlátaival kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "A tudósok LLM-eket használva \"többet, de kevésbé jól\" fognak teljesíteni",
-      "summary": "Egy modellezési tanulmány szerint a tudósok, akik nagyméretű nyelvi modelleket (LLM) használnak, \"többet fognak teljesíteni, de kevésbé jól\". Ez rávilágít az AI bevonásának lehetséges buktatóira és előnyeire a tudományos kutatásban.",
+      "title": "Növekszik a húsallergia eseteinek száma: a tudósok a magyarázatot keresik",
+      "summary": "Egyre több embernél diagnosztizálnak húsallergiát, ami komoly kihívást jelent az orvostudomány és az élelmiszeripar számára. A tudósok intenzíven kutatják az okokat és a lehetséges kezelési módokat.",
       "importance": 4
-    },
-    {
-      "title": "Növekszik a húskeresztallergia eseteinek száma: mit tudnak a tudósok?",
-      "summary": "Egyre több embernél diagnosztizálnak húskeresztallergiát, ami komoly aggodalomra ad okot a közegészségügyben. A tudósok intenzíven vizsgálják a jelenség okait és terjedésének mechanizmusát.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A FIFA visszavonta a világbajnokság vitatott privatizációs tervét",
-      "summary": "Gianni Infantino, a FIFA elnöke meghátrált, és elvetette a labdarúgó-világbajnokság külső befektetők bevonásáról szóló, vitatott tervét. A döntés az erős nemzetközi tiltakozás után született meg.",
+      "title": "A FIFA visszavonta a világbajnokság befektetési tervét a felháborodás miatt",
+      "summary": "A FIFA bejelentette, hogy a nagy felháborodást követően eláll a világbajnokságba történő külső befektetők bevonásáról szóló tervétől. A döntés Infantino elnök korábbi ígéretének visszavonását jelenti.",
       "importance": 5
     },
     {
-      "title": "Kánikulában zajlott a Balaton-átúszás, 90 éves a legidősebb résztvevő",
-      "summary": "A hőség ellenére idén is több ezer ember vágott neki a Balaton-átúszásnak, a legidősebb nevező 90 éves volt. Az esemény különösen nagy kihívást jelentett a résztvevők számára a forró időjárás miatt.",
+      "title": "Magyar kapus debütált az FC Barcelona felnőttcsapatában",
+      "summary": "Történelmi pillanat: egy magyar kapus debütált az FC Barcelona felnőttcsapatában, ami hatalmas elismerés a magyar labdarúgásnak. Ez a fiatal tehetség álmai kapujába jutott.",
+      "importance": 5
+    },
+    {
+      "title": "Németh Miklós sokkoló világcsúccsal lett olimpiai bajnok",
+      "summary": "Németh Miklós első dobására sokkoló világcsúcsot ért el, ezzel apja után ő is olimpiai bajnokká vált. Ez a rendkívüli teljesítmény beírta nevét a sporttörténelembe.",
+      "importance": 4
+    },
+    {
+      "title": "Az MLSZ módosítja a meccsek kezdési időpontjait energiamegtakarítás miatt",
+      "summary": "Az Magyar Labdarúgó Szövetség (MLSZ) az energiaválságra reagálva megváltoztatja a mérkőzések kezdési időpontjait az energiamegtakarítás érdekében. Ez a lépés befolyásolhatja a szurkolói szokásokat és a csapatok felkészülését.",
       "importance": 3
-    },
-    {
-      "title": "Díszszemle az Alpokban: egy szélesvásznú hegyi páholyban jártunk",
-      "summary": "Riport készült az Alpok egyik legszebb, szélesvásznú hegyi páholyából, bemutatva a térség természeti szépségeit és a túrázás élményét. A magashegyi környezet számos aktív kikapcsolódási lehetőséget kínál.",
-      "importance": 2
-    },
-    {
-      "title": "Hajdú B. István zakója és emlékezetes tüsszentése a tévében",
-      "summary": "Hajdú B. István sportkommentátor zakója okozott némi izgalmat a televíziókban, de a legemlékezetesebb egy öblös tüsszentés maradt. Az eset humoros pillanatot okozott a nézőknek.",
-      "importance": 1
     }
   ]
 }

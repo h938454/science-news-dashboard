@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Tények helyett: a TV2 híradója a TV2 Híradó nevet kapta",
+      "link": "https://telex.hu/after/2026/08/02/tv2-tenyek-tv2-hirado-pachmann-peter-szedmak-zita",
+      "summary": "A korábbi műsorvezetők képernyős munkája megszűnik, „szakértelmüknek és képzettségüknek megfelelően más munkaköröket” ajánlott nekik a cég."
+    },
+    {
+      "title": "Lázár János tavaly beismerte, hogy nem készült fel az Orbán-kormány a súlyos vízhiányra",
+      "link": "https://telex.hu/belfold/2026/08/02/lazar-janos-tavaly-beismerte-hogy-nem-keszult-fel-az-orban-kormany-a-sulyos-vizhianyra",
+      "summary": "A kormány hibát követett el, amikor nem épített nagy víztározókat tíz évvel ezelőtt a víz megtartására. „Teljes megsemmisülés felé haladunk” – ismerte el még miniszterként Lázár."
+    },
+    {
       "title": "Kereket oldott a baleset után a 13 éves sofőr, és a még nála is fiatalabb utasa Zuglóban",
       "link": "https://telex.hu/belfold/2026/08/02/13-eves-sofor-nala-is-fiatalabb-utasa-zuglo-baleset",
       "summary": "A rendészek rövid időn belül megtalálták őket."
@@ -64,16 +74,6 @@
       "title": "Tábortűz helyett egy nagy teljesítményű lámpát ültek körbe a Börzsönyben túrázók",
       "link": "https://telex.hu/szepkilatas/2026/08/02/turazas-borzsony-szarazsag-tabortuz-dron",
       "summary": "A Börzsönyi Hegyimentő Szolgálat szerint a túrázók felismerték, hogy a szárazságban egyetlen szikra is súlyos erdőtüzet okozhat."
-    },
-    {
-      "title": "Görögországban még mindig terjednek az erdőtüzek, Athénnál két oltást végző helikopter összeütközött",
-      "link": "https://telex.hu/kulfold/2026/08/02/gorogorszag-erdotuz-helikopter-baleset-tuzolto-franciaorszag",
-      "summary": "Franciaországban és Spanyolországban sikerült megfékezni a több hete égő lángokat, de még tart az oltás."
-    },
-    {
-      "title": "Letartóztatták a drónozó magyart, aki miatt le kellett zárni Split repülőterét",
-      "link": "https://telex.hu/kulfold/2026/08/02/letartoztattak-a-dronozo-magyart-aki-miatt-le-kellett-zarni-split-repuloteret",
-      "summary": "Drónozásnak ugyan nem volt túl nagy az a tíz perc, de az okozott kár annál jelentősebb."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Miután a TV2 lejáratta a „Tények” nevet, hétfőtől Híradó néven indít műsort, újraindul az Aktív is",
+      "link": "https://hvg.hu/elet/20260802_tv2-tenyek-hetfotol-hirado-aktiv",
+      "summary": "A sokáig a Fidesz szekerét toló TV2-nél „a tanulságok levonását követően, az elvárt szakmai sztenderdeknek megfelelő hírszolgáltatásra” készülnek a két új hírműsorral."
+    },
+    {
       "title": "Középkori ágyúgolyó és világháborús robbanótest került elő a Dunából",
       "link": "https://hvg.hu/itthon/20260802_kozepkori-agyugolyo-es-vilaghaborus-robbanotest-kerult-elo-a-dunabol",
       "summary": "Az alacsony vízállás sokmindent a felszínre hoz a folyómederben."
@@ -224,23 +229,23 @@
       "title": "Tizennégy év magány - Az én hetem Lackfi Jánossal",
       "link": "https://hvg.hu/360/20260802_az-en-hetem-lackfi-janos",
       "summary": "Az én hetem című sorozatunkban négy író öt megadott kulcsszót felhasználva ír arról, miként élte meg az elmúlt hetet. Lackfi Jánosnak ezúttal az alábbiakból meríthet ihletet: atomütőerő, meleglelés, szereptévesztés, tömegmozgalom, árulás."
-    },
-    {
-      "title": "A drogosokat elvitték, Csabi maradt egyedül – Rákosrendező razzia után",
-      "link": "https://hvg.hu/itthon/20260802_a-drogosokat-elvittek-csabi-maradt-egyedul-rakosrendezo-razzia-utan",
-      "summary": "Budapest számos kerületében egyre nagyobb problémát jelentenek a drogfogyasztók és házfoglalók. A nagyobb rendőri jelenlét után sokkal kevesebben maradtak, a Rákosrendezőn elterülő szeméttelep közepén már csak Csabi és kutyája, Kristály lakik - de hamarosan nekik is költözniük kell. Videóriport."
     }
   ],
   "BBC": [
+    {
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "link": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "summary": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived."
+    },
     {
       "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
       "link": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
       "summary": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK."
     },
     {
-      "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
-      "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences."
+      "title": "Ariana Grande pulls out of musical for break from 'endless' scrutiny",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour, her representative says."
     },
     {
       "title": "Prolonged drought could cause shortage of some foods, farmers' union head says",
@@ -248,9 +253,19 @@
       "summary": "NFU president Tom Bradshaw calls on the government to take action to prevent extreme weather affecting the UK's food supply."
     },
     {
+      "title": "Man admits transporting Scottish woman's body in suitcase, Greek police say",
+      "link": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The man was arrested on suspicion of manslaughter, as well as robbery and weapons offences."
+    },
+    {
       "title": "Ukraine says major Russian oil refinery and airfield hit, as Moscow reports eight deaths",
       "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
       "summary": "Russia's military says it attacked Ukraine's ports and vessels in the Black Sea overnight."
+    },
+    {
+      "title": "'No guarantees' - joyful Glasgow cannot banish all Commonwealth Games doubts",
+      "link": "https://www.bbc.co.uk/sport/articles/c2k7nn9z0e7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Glasgow 2026 was a joyful success in isolation but questions and doubts remain about the Commonwealth Games' future."
     },
     {
       "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
@@ -268,11 +283,6 @@
       "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there."
     },
     {
-      "title": "Emma Finucane wins four gold medals in Commonwealth Games first",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cy8mrkpd27lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Welsh star Emma Finucane creates history by becoming the first sprint cyclist to win four track gold medals at the same Commonwealth Games."
-    },
-    {
       "title": "Three in hospital after fire and crush at festival in London",
       "link": "https://www.bbc.co.uk/news/articles/c05q964n4llo?at_medium=RSS&at_campaign=rss",
       "summary": "Ghana Party in the Park organisers called the day \"difficult\" and \"deeply upsetting\"."
@@ -283,9 +293,9 @@
       "summary": "Yonatan Netanyahu was the only Israeli soldier to die as he led a mission to free more than 100 hostages."
     },
     {
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries."
+      "title": "How ransom notes could help catch Nancy Guthrie's kidnapper",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkng21dg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A forensic linguist tells the BBC it's possible to glean crucial information about a person from just a few sentences."
     },
     {
       "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
@@ -296,19 +306,19 @@
       "title": "Why I don't regret choosing a vasectomy in my 20s",
       "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
       "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
-    },
-    {
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "summary": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate."
-    },
-    {
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac."
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+    },
     {
       "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
       "link": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
@@ -373,16 +383,6 @@
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
-    },
-    {
-      "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-      "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-      "summary": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon."
-    },
-    {
-      "title": "Silicon Valley loves young founders. Until it doesn’t.",
-      "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-      "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company."
     }
   ],
   "Nature": [

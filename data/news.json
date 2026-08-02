@@ -1,6 +1,31 @@
 {
   "Telex": [
     {
+      "title": "Máris visszasírhatjuk az átlagos júliust",
+      "link": "https://telex.hu/g7/adat/2026/08/02/atlaghomerseklet-julius-nyar-junius-hohullam",
+      "summary": "Bár a napokban újabb hőhullám érte el Magyarországot, július egészében a hazai átlaghőmérséklet az előző néhány évhez viszonyítva nem volt kiugró."
+    },
+    {
+      "title": "A hang, ami a vietnámi háborúban ijesztőbb lehetett, mint a fegyverropogás",
+      "link": "https://telex.hu/eszkombajn/2026/08/02/hanoi-hannah-vietnami-haboru-propaganda-radios-hang",
+      "summary": "„Elvesztettétek ezt a háborút, G. I.” – ezzel a mondattal vált legendává a rádiós propagandista, aki zenével, hírekkel és pszichológiai hadviseléssel próbálta megtörni az amerikai katonákat Vietnámban. De lehet, hogy Hanoi Hannah mégsem volt olyan megsemmisítő hatású, mint amennyire démonizálták."
+    },
+    {
+      "title": "Felrobbantanak egy Duna-parti sziklát, hogy így tereljenek több vizet a csernavodai atomerőműhöz",
+      "link": "https://telex.hu/transtelex/2026/08/02/duna-szikla-robbantas-vizszint-csernavoda",
+      "summary": "Románia párhuzamosan több sürgősségi beavatkozást végez a Duna vízszintjének emelésére, bevonták a hadsereget is."
+    },
+    {
+      "title": "A jövő hét végén kánikula válthatja a forróságot, de mi a különbség a kettő közt?",
+      "link": "https://telex.hu/belfold/2026/08/02/kanikula-forrosag-idojaras-elorejelzes",
+      "summary": "A következő napokban ismét megdőlhet a melegrekord."
+    },
+    {
+      "title": "Mostantól az EU-ban egyértelműen jelölni kell, ha egy kép vagy videó deepfake",
+      "link": "https://telex.hu/techtud/2026/08/02/europai-bizottsag-mesterseges-intelligencia-hivatal-mi-rendelet-deepfake",
+      "summary": "Élesednek az uniós mesterségesintelligencia-szabályok: augusztus 2-től többek között kötelező lesz jelezniük az MI-rendszereknek, ha nem emberrel beszélünk, és címkézni kell az MI-vel készített tartalmakat is."
+    },
+    {
       "title": "Egy centiméterre van a Duna vízszintje attól, hogy le kelljen állítani a Paksi Atomerőművet",
       "link": "https://telex.hu/belfold/2026/08/02/magyar-peter-paksi-atomeromu-leallas-duna-vizszint-energia-krizishelyzet",
       "summary": "Magyar Péter videóban beszélt arról, hogy a legkritikusabb öt nap előtt állunk, mert Paksot ma le kell állítani, a legmelegebb napok jönnek, a villamosrendszer pedig óriási terhelést kap majd."
@@ -36,9 +61,9 @@
       "summary": "Országos hír lett abból, hogy két család költözött a borsodi Szalonnára az egyik kassai cigánytelepről. A helyiek a polgármestert kezdték el hibáztatni, attól félnek, hogy tömegessé válhat a bevándorlás. A beköltözések mögött az egyik kassai kerület vezetője áll, aki a szlovákiai városban található nyomortelepek felszámolásával kampányol. A Belügyminisztérium vizsgálatot ígér."
     },
     {
-      "title": "Változik a NAV ügyfélszolgálata a hőhullám miatt",
+      "title": "Pakson zuhanyzókat biztosítanak az atomerőmű leállása miatt melegvíz nélkül maradó közel hatezer lakosnak",
       "link": "https://telex.hu/belfold/2026/08/02/hoseg-kanikula-idojaras-energia-krizishelyzet-paksi-atomeromu",
-      "summary": "Nem csökken a hőség, 40 fok is lehet, éjszaka is 25-32 fokig hűl csak le a hőmérséklet. Hegedűs Zsolt felhívta a figyelmet arra, hogy a hőség komoly egészségügyi kockázat is."
+      "summary": "Öntözni ilyenkor is kell, de nem úgy, ahogy eddig, mindenkit az alternatív vízforrások felhasználására figyelmeztetett a Főkert vezérigazgatója."
     },
     {
       "title": "Szinte az összes olasz nagyvárosban a legmagasabb fokozatú hőségriasztást rendelték el",
@@ -49,35 +74,25 @@
       "title": "Tizenhárman meghaltak, amikor lezuhant egy turistákat szállító repülőgép a Nazca-vonalaknál Peruban",
       "link": "https://telex.hu/kulfold/2026/08/02/peru-nazca-vonalak-repulogepbaleset-turistak-cessna",
       "summary": "A Cessna utasai között két német, két spanyol és hét olasz turista volt."
-    },
-    {
-      "title": "Rendkívüli belügyminiszteri értekezletet tart kedden az EU a ceutai válság miatt",
-      "link": "https://telex.hu/kulfold/2026/08/02/ceuta-valsag-menekultek-spanyolorszag-europai-unio-kulugyminiszteri-ertekezlet",
-      "summary": "A tanácskozásra az észak-afrikai spanyol területre érkező migránsok tömeges átkelése miatt kerül sor, közben fél kilométeres tengeri akadályt telepítettek a part mentén."
-    },
-    {
-      "title": "40 fok is lehet ma, de északon jöhet egy kis zivatar",
-      "link": "https://telex.hu/belfold/2026/08/02/idojaras-kanikula-meleg-eszakon-zapor",
-      "summary": "A csúcshőmérséklet az országban 34 és 40 fok között alakul, késő estére 25 és 32 fok közé „hűl” le a levegő."
-    },
-    {
-      "title": "„Te nyomorék! Hát a banktól hívlak” – mondta a magát ügyintézőnek kiadó banki csaló, miután az áldozat akadékoskodni kezdett vele",
-      "link": "https://telex.hu/gazdasag/2026/08/02/banki-csalas-telefonos-ugyintezo-atveres-rendorseg",
-      "summary": "Olvasónk küldte el azt a hangfelvételt, amiben rögzítette, hogyan próbáltak pénzt kicsalni tőle, sikertelenül."
-    },
-    {
-      "title": "Meghalt Vincent Pastore, a Maffiózók színésze",
-      "link": "https://telex.hu/after/2026/08/02/vincent-pastore-szinesz-maffiozok-sopranos-meghalt",
-      "summary": "Pastore 80 éves volt, a bronxi otthonában találták meg."
-    },
-    {
-      "title": "Mit csinál egy apa, ha összeomlik az élete? Kinyírja a konkurenciát!",
-      "link": "https://telex.hu/after/2026/08/02/streamingajanlo-drama-lioness-batman",
-      "summary": "Park Chan-wook alulértékelt thrillere, Zendaya és Robert Pattinson drámája és az animációs Batman sorozat folytatása a heti streamingajánlónkban."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Okosan és körültekintően, de azért igenis van, amit locsolni kell most is",
+      "link": "https://444.hu/2026/08/02/okosan-es-korultekintoen-de-azert-igen-is-van-amit-locsolni-kell-most-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Érdemes inkább a FŐKERT-vezér tanácsait megfogadni, mint egy konteózó kommentelőit."
+    },
+    {
+      "title": "Magyar Péter: A legkritikusabb öt nap előtt állunk",
+      "link": "https://444.hu/2026/08/02/magyar-peter-a-legkritikusabb-ot-nap-elott-allunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Holnaptól Paks már egyáltalán nem fog termelni, és pokolian forró, negyven fokos napok következnek."
+    },
+    {
+      "title": "Hatezer paksi marad melegvíz nélkül az atomerőmű leállásával",
+      "link": "https://444.hu/2026/08/02/hatezer-paksi-marad-melegviz-nelkul-az-atomeromu-leallasaval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Zuhanyzókonténereket telepítenek, közintézményeket nyitnak meg."
+    },
     {
       "title": "Meghalt egy amerikai férfi az Ozora fesztiválon",
       "link": "https://444.hu/2026/08/02/meghalt-egy-amerikai-ferfi-az-ozora-fesztivalon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -137,24 +152,29 @@
       "title": "60 km/órás sebességgel érkezik a siker a magyar vasúton",
       "link": "https://444.hu/2026/08/01/60-kmoras-sebesseggel-erkezik-a-siker-a-magyar-vasuton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Újraindult a személyforgalom Komló és Dombóvár között, akár ennyivel is roboghatnak a vonatok. Az új cél a sorompók zárva tartási idejének csökkentése."
-    },
-    {
-      "title": "Zelenszkij: Ukrajna elsüllyesztett egy szankcionált orosz teherhajót és csapást mért három olajfinomítóra",
-      "link": "https://444.hu/2026/08/01/zelenszkij-ukrajna-elsullyesztett-egy-szankcionalt-orosz-teherhajot-es-csapast-mert-harom-olajfinomitora?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A finomítók közel 1600 kilométerre voltak Ukrajnától."
-    },
-    {
-      "title": "„A Tisza nyert kétharmaddal. Akkor mi fáj?” – az NKA-s 17 milliárd kapcsán Pócs János új szintre emelte a „de sikerült?” érvelést",
-      "link": "https://444.hu/2026/08/01/a-tisza-nyert-ketharmaddal-akkor-mi-faj-az-nka-s-17-milliard-kapcsan-pocs-janos-uj-szintre-emelte-a-de-sikerult-ervelest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "De közvetve legalább elismerte, hogy a kulturális pénzek valóban kampánycélokra mentek."
-    },
-    {
-      "title": "A spanyol kormányfő szerint „előítéletek, álhírek, tudatlanság vagy politikai érdek vezérelte” támadás indult ellenük a ceutai eset nyomán",
-      "link": "https://444.hu/2026/08/01/a-spanyol-kormanyfo-szerint-eloiteletek-alhirek-tudatlansag-vagy-politikai-erdek-vezerelte-tamadas-indult-ellenuk-a-ceutai-eset-nyoman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A legfrissebb adatok szerint 67 halálos áldozata volt a menekültek rohamának, de az EU-tagállam afrikai enklávéjába átlépett több tízezer ember mára visszatért Marokkóba."
     }
   ],
   "HVG": [
+    {
+      "title": "Néhány órán belül két ember halt meg az Ozora Fesztiválon",
+      "link": "https://hvg.hu/itthon/20260802_halaleset-ozora-fesztival",
+      "summary": "Egy 39 éves magyar nő és egy 45 éves amerikai férfi az áldozat. A szervezők közölték: vasárnap éjfélkor valamennyi zenei program véget ér a fesztiválon."
+    },
+    {
+      "title": "„Az ukránoknak nincs bajuk a magyarokkal, és amennyire meg tudom ítélni, a magyaroknak sincs bajuk velünk”",
+      "link": "https://hvg.hu/360/20260802_timofij-milovanov-volt-ukran-gazdasagi-miniszter-haboru-eu-interju",
+      "summary": "Mi a magyarázat arra, hogy Ukrajna a pusztítás ellenére is működik? – erről is kérdezte a HVG a Kijevi Gazdasági Egyetem elnökét, Timofij Milovanovot, aki a háború előtt volt gazdasági miniszter. „Az ukrán emberek meghalnak az európai értékekért” – fogalmazott az expolitikus, aki kiszámolta, hogy országa gazdasága 2032-ig életképes. Beszélt a korrupció elleni harcról, az ukrán társadalom lehetséges radikalizálódásáról és arról is, milyennek látja a mostani orosz helyzetet."
+    },
+    {
+      "title": "Magyar Péter az energiaválság-helyzetről: „A legkritikusabb öt nap előtt állunk”",
+      "link": "https://hvg.hu/itthon/20260802_magyar-peter-paksi-atomeromu-leallitas-duna-vizszint-hoseg-energiavalsag",
+      "summary": "A miniszterelnök a Paksi Atomerőmű leállításáról és az energiarendszer stabilitásáról adott tájékoztatást."
+    },
+    {
+      "title": "Ez történt: A Lidl tulajdonosa elhatározta, hogy „visszaállítja Európa cselekvőképességét”",
+      "link": "https://hvg.hu/tudomany/20260802_lidl-felho-revolut-chatgpt-go-szemaglutid-alkoholizmus-jetzero-windows-telepites-felhobol",
+      "summary": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit."
+    },
     {
       "title": "Az államfő egyeztetésre hívja a válsághelyzet miatt Magyar Pétert és a frakcióvezetőket",
       "link": "https://hvg.hu/itthon/20260802_forsthoffer-agnes-egyeztetes-rendkivuli-hoseg-kanikula-kormanyzat-partok-parlament",
@@ -209,26 +229,6 @@
       "title": "Már csak 10 százalékos teljesítményen a paksi atomerőmű, ma teljesen le is kapcsolják",
       "link": "https://hvg.hu/itthon/20260802_10-szazalek-paksi-atomeromu-teljes-lekapcsolas",
       "summary": "Egymás után állnak le a turbinagenerátorok, már csak egy blokk működik, az is csak félgőzzel, és hamarosan azt is leállítják. Ezzel 44 év óta először áll elő olyan helyzet, hogy egyszerre áll le a Paksi Atomerőmű mind a négy blokkja."
-    },
-    {
-      "title": "Az extrém hőség ennyire brutálisan megterheli a szervezetet – halálos vége lehet, ha nem veszi komolyan",
-      "link": "https://hvg.hu/tudomany/20260802_extrem-forrosag-hatasok-emberi-szervezet-veszely",
-      "summary": "A forróság senkit nem kímél. Azt sem, aki mindig rávágja, hogy ő jól bírja – a szervezet ugyanis folyamatosan küzd, és ha túlterhelődik, annak maradandó károsodás lehet a vége. Vagy annál is rosszabb."
-    },
-    {
-      "title": "Világbajnok McLaren díszeleghet a nappalinkban: összeépítettük a Lego hatalmas új F1-autóját",
-      "link": "https://hvg.hu/cegauto/20260802_vilagbajnok-f1-auto-a-nappalinkban-lego-mclaren-mcl39-teszt-velemeny",
-      "summary": "365 oldalnyi dokumentáció jó néhány órán át tartó lapozgatása során 1675 kisebb-nagyobb Lego elemből megépítettük a McLaren MCL39 rendkívül élethű kicsinyített mását, melynek nemcsak a váltója, hanem a DRS-e is működőképes."
-    },
-    {
-      "title": "És akkor a forróság elhozta a Tisza-kormány első igazi erőpróbáját",
-      "link": "https://hvg.hu/gazdasag/20260802_es-akkor-forrosag-aszaly-energia-paks-aram-viz-gdp-novekedes-uzemanyag-ebx",
-      "summary": "Extrém hőség érte el az országot, ami az energiarendszerünket is soha nem látott módon terheli; az energiaválságot a nemzetközi helyzet is súlyosbítja; kiderült, hogy ha nem is parádésan, de egész elfogadhatóan nőtt a magyar GDP. Ez a HVG heti gazdasági összefoglalója."
-    },
-    {
-      "title": "Robert Fico: Szlovákia kész árammal segíteni Magyarországnak",
-      "link": "https://hvg.hu/gazdasag/20260801_robert-fico-szlovakia-kesz-arammal-segiteni-magyarorszagnak",
-      "summary": "A szlovák kormányfő szerint Paks leállítása példatlan energiakrízist eredményezne."
     }
   ],
   "BBC": [
@@ -238,14 +238,19 @@
       "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed."
     },
     {
-      "title": "How a shadowy gang is recruiting teenage hitmen to kill across Europe",
+      "title": "The shadowy gang recruiting teenage hitmen to kill across Europe",
       "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
       "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
     },
     {
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
+      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019."
+    },
+    {
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island."
     },
     {
       "title": "After a bruising 24 hours, what next for Fifa and under-pressure Infantino?",
@@ -253,24 +258,19 @@
       "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
     },
     {
-      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
-    },
-    {
-      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
-      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight."
-    },
-    {
-      "title": "Love Island has a problem, say fans: 'There hasn't been much love'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again."
+      "title": "Runner on smashing Alps ultramarathon record by six days",
+      "link": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "summary": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries."
     },
     {
       "title": "Why I don't regret choosing a vasectomy in my 20s",
       "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
       "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
+    },
+    {
+      "title": "Love Island has a problem, say fans - 'there hasn't been much love'",
+      "link": "https://www.bbc.co.uk/news/articles/cy8edx4dp5qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again."
     },
     {
       "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
@@ -283,29 +283,29 @@
       "summary": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance."
     },
     {
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
-    },
-    {
       "title": "Peak District's rebrand deal brings in cash but also criticism",
       "link": "https://www.bbc.co.uk/news/articles/c235gykvjkjo?at_medium=RSS&at_campaign=rss",
       "summary": "After the Peak District signed a brand deal with Skoda, could other national parks follow suit?"
     },
     {
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
+    },
+    {
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
+    },
+    {
+      "title": "How Spain's migrant crisis created a political storm, whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
+    },
+    {
       "title": "Son of Wicker Man maker dies just weeks before his sequel to film premieres",
       "link": "https://www.bbc.co.uk/news/articles/cvgwj0wnyydo?at_medium=RSS&at_campaign=rss",
       "summary": "The British filmmaker died on Friday after suffering a heart attack, his family said in a statement."
-    },
-    {
-      "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
-      "link": "https://www.bbc.co.uk/news/articles/crk5jd6r1rmo?at_medium=RSS&at_campaign=rss",
-      "summary": "John Healey's vow to crackdown on grocery \"price gouging\" and the Fifa World Cup scandal dominate Sunday's front pages."
-    },
-    {
-      "title": "How Australia combines modern tech and Indigenous knowledge to fight wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness."
     }
   ],
   "TechCrunch": [

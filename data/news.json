@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Hatalmas üzleteket kötnek Ukrajna újjáépítéséről, de a magyarok a kanyarban sincsenek",
+      "link": "https://telex.hu/g7/vilag/2026/08/02/ukrajna-ujjaepites-geopolitika-gdansk-konferencia-energetika-magyar-lehetosegek",
+      "summary": "Az újjáépítés nem a fegyverszüneti remények távoli, ködös mellékterméke, hanem önálló üzleti és geopolitikai folyamat. A gdański konferencián 10 milliárd euró értékben születtek üzletek."
+    },
+    {
       "title": "Magyar Péter: Vasárnap leáll a Paksi Atomerőmű",
       "link": "https://telex.hu/gazdasag/2026/08/01/magyar-peter-vasarnap-leall-a-paksi-atomeromu",
       "summary": "Az utolsó előtti termelő gépegységet hajnali 1:30-kor kapcsolják le."
@@ -69,11 +74,6 @@
       "title": "Majdnem ötvenen jelentkeztek a NAV vezetőjének",
       "link": "https://telex.hu/gazdasag/2026/08/01/nav-vezeto-jelentkezes",
       "summary": "Kármán András pénzügyminiszter közölte, a kormány határozott szándéka, hogy az adóhatóságot ne politikai kinevezettek vezessék."
-    },
-    {
-      "title": "A vendégmunkásvita rossz kérdést tesz fel",
-      "link": "https://telex.hu/g7/vallalat/2026/08/01/vendegmunkasvita-kepzettseg-munkaerohiany-atkepzes-allami-szerep",
-      "summary": "Nem az a kérdés, hogy legyen-e vendégmunkás, hanem hogy Magyarországnak van-e átmeneti foglalkoztatáspolitikája."
     }
   ],
   "Portfolio": [],
@@ -233,14 +233,14 @@
   ],
   "BBC": [
     {
+      "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend."
+    },
+    {
       "title": "EU calls emergency meeting to discuss Ceuta migrant crossings",
       "link": "https://www.bbc.co.uk/news/articles/cz7d17r455go?at_medium=RSS&at_campaign=rss",
       "summary": "There have been tense exchanges between Spain and other EU states over the influx of migrants into the enclave of Ceuta."
-    },
-    {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?"
     },
     {
       "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
@@ -248,39 +248,19 @@
       "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
     },
     {
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pressure is building on Gianni Infantino. Can he survive as Fifa president?"
+    },
+    {
       "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
       "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
       "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard."
     },
     {
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019."
-    },
-    {
-      "title": "Cambridge professor at centre of plagiarism row defends his work",
-      "link": "https://www.bbc.co.uk/news/articles/c78gmp7zylvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prof Jason Arday admitted errors in his work but said he was not a liar after attracting criticism online."
-    },
-    {
-      "title": "William and Kate bring children to Commonwealth Games",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d1xpn5e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spectators at Glasgow's OVO Hydro were treated to exhilarating performances during New Zealand's 61-54 win over England."
-    },
-    {
-      "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
-      "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
-      "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
-    },
-    {
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
-    },
-    {
-      "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeq0wpn0go?at_medium=RSS&at_campaign=rss",
-      "summary": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance."
+      "title": "Emotional Kerr delivers moment Glasgow 2026 has waited for with men's mile gold",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/ckge35ywjvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "There were no pacers and no wave lights. This was a Saturday night scrap - Glasgow rules - and Josh Kerr wasn't going to let anyone beat him in that fight."
     },
     {
       "title": "Does Love Island UK need to pull the US version for a chat?",
@@ -288,14 +268,34 @@
       "summary": "Fans, commentators and an ex-Islander reflect on what the dating series could do to draw in more viewers again."
     },
     {
-      "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-      "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform."
+      "title": "I had a vasectomy in my 20s after the trauma of my sons' births",
+      "link": "https://www.bbc.co.uk/news/articles/c04kdk9v590o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the number of young men having vasectomies rises, BBC News spoke to two about why they chose to have the snip."
     },
     {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
+    },
+    {
+      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
+      "link": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
+      "summary": "A growing number of what the internet has dubbed \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate."
+    },
+    {
+      "title": "Spider-Man fans hail Brand New Day as Holland's best yet",
+      "link": "https://www.bbc.co.uk/news/articles/cwyeq0wpn0go?at_medium=RSS&at_campaign=rss",
+      "summary": "Spider-Man fans are full of praise for Tom Holland's latest web-slinging performance."
+    },
+    {
+      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
+      "link": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more."
+    },
+    {
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports."
     },
     {
       "title": "The Papers: Chancellor 'warns' supermarkets and 'own goal'",
@@ -303,9 +303,9 @@
       "summary": "John Healey's vow to crackdown on grocery \"price gouging\" and the Fifa World Cup scandal dominate Sunday's front pages."
     },
     {
-      "title": "Russian ship defies sanctions to send military vehicles to Mali",
-      "link": "https://www.bbc.co.uk/news/articles/cgk4rdley0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The ship carried armoured personnel carriers and trucks through the English Channel to Africa, satellite images show."
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
     }
   ],
   "TechCrunch": [
@@ -385,5 +385,81 @@
       "summary": "The new funding brings Index's total available investing capital to $3.5 billion."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
+      "link": "https://www.nature.com/articles/s41586-026-10921-w",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10921-w\">doi:10.1038/s41586-026-10921-w</a></p>Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores"
+    },
+    {
+      "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
+      "link": "https://www.nature.com/articles/d41586-026-02419-2",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02419-2\">doi:10.1038/d41586-026-02419-2</a></p>Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video."
+    },
+    {
+      "title": "The physics of fizz: why some bubbles are louder than others",
+      "link": "https://www.nature.com/articles/d41586-026-02334-6",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02334-6\">doi:10.1038/d41586-026-02334-6</a></p>A high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles."
+    },
+    {
+      "title": "The power of ignorance and peering into the Milky Way: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02371-1",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02371-1\">doi:10.1038/d41586-026-02371-1</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Meat allergy is on the rise — what scientists want to know",
+      "link": "https://www.nature.com/articles/d41586-026-02362-2",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02362-2\">doi:10.1038/d41586-026-02362-2</a></p>The allergy is caused by ticks, but researchers have much to learn about it."
+    },
+    {
+      "title": "<b>The forensic traces that can help catch poachers — </b> July’s best science images",
+      "link": "https://www.nature.com/articles/d41586-026-02274-1",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02274-1\">doi:10.1038/d41586-026-02274-1</a></p>The month’s sharpest science shots, selected by Nature’s photo team."
+    },
+    {
+      "title": "How smallpox reached the Americas: first genomic evidence points to Europeans",
+      "link": "https://www.nature.com/articles/d41586-026-02366-y",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02366-y\">doi:10.1038/d41586-026-02366-y</a></p>Viral sequences from Chilean mummies confirm the disease was introduced from Europe."
+    },
+    {
+      "title": "Scientists using LLMs will ‘do more, less well’, modelling study predicts",
+      "link": "https://www.nature.com/articles/d41586-026-02397-5",
+      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02397-5\">doi:10.1038/d41586-026-02397-5</a></p>Research suggests that the combination of incentives to publish and the use of large language models will lead to more papers, but they will be less refined."
+    },
+    {
+      "title": "Somatic mutations reveal the ontogeny of microglia in human aging",
+      "link": "https://www.nature.com/articles/s41586-026-10939-0",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10939-0\">doi:10.1038/s41586-026-10939-0</a></p>Somatic mutations reveal the ontogeny of microglia in human aging"
+    },
+    {
+      "title": "Author Correction: Sleep chart of biological ageing clocks in middle and late life",
+      "link": "https://www.nature.com/articles/s41586-026-10920-x",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10920-x\">doi:10.1038/s41586-026-10920-x</a></p>Author Correction: Sleep chart of biological ageing clocks in middle and late life"
+    },
+    {
+      "title": "Job insecurity is chipping away at me and my cohort. Is it us, or the state of the economy?",
+      "link": "https://www.nature.com/articles/d41586-026-01843-8",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-01843-8\">doi:10.1038/d41586-026-01843-8</a></p>The career market is difficult to navigate — and academic achievements feel like they’re no longer enough, says Daniella Watson."
+    },
+    {
+      "title": "Demand for lithium is surging: here’s how to make mining more sustainable",
+      "link": "https://www.nature.com/articles/d41586-026-02195-z",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02195-z\">doi:10.1038/d41586-026-02195-z</a></p>Researchers are looking for ways to extract the metal from underground reservoirs that use less water."
+    },
+    {
+      "title": "Fires in Europe are breaking records: here’s what the future holds",
+      "link": "https://www.nature.com/articles/d41586-026-02361-3",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02361-3\">doi:10.1038/d41586-026-02361-3</a></p>Countries such as Spain and France can expect fire regimes more like those of California as climate change favours hot, dry conditions, scientists suggest."
+    },
+    {
+      "title": "How I use statistics and my law degree to fight human-rights abuses",
+      "link": "https://www.nature.com/articles/d41586-026-02079-2",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02079-2\">doi:10.1038/d41586-026-02079-2</a></p>Some 50 years after exposing gender discrimination in US academics’ retirement benefits, Mary Gray works as a statistician and social-justice campaigner."
+    },
+    {
+      "title": "Daily briefing: ‘Raygun’ AI can shrink or supersize proteins",
+      "link": "https://www.nature.com/articles/d41586-026-02420-9",
+      "summary": "<p>Nature, Published online: 30 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02420-9\">doi:10.1038/d41586-026-02420-9</a></p>The tool can add, remove or swap protein subunits using similar steps to natural evolution. Plus, spin qubits are back in the quantum race and the drugs that could prevent long COVID."
+    }
+  ]
 }

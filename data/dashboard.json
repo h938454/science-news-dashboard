@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Vasárnap leáll a Paksi Atomerőmű",
-      "summary": "Magyar Péter állítása szerint vasárnap leáll a Paksi Atomerőmű utolsó előtti egysége is. Ez súlyos energiaellátási problémákat okozhat az országnak, és komoly társadalmi vitát gerjesztett.",
+      "title": "Magyar Péter szerint leáll a Paks I. atomerőmű",
+      "summary": "Magyar Péter vasárnapra virradóra bejelentette, hogy a Paksi Atomerőműben leállítják az utolsó előtti blokkot, ezzel ideiglenesen szünetel az összes egység működése. Az MVM szerint csak karbantartásról van szó, de a bejelentés bizonytalanságot szül az ország energiaellátásában.",
       "importance": 5
     },
     {
-      "title": "Hatályba lépett a nagyfogyasztók áramkorlátozását lehetővé tévő rendelet",
-      "summary": "Este 7 órakor hatályba lépett a kormányrendelet, amely lehetővé teszi az ipari nagyfogyasztók áramellátásának korlátozását. Ez a súlyos energiaválságra adott sürgős válasz része, és komoly kihívás elé állítja a vállalatokat.",
+      "title": "Hatályba lépett a nagyfogyasztók lekapcsolásáról szóló kormányrendelet",
+      "summary": "Életbe lépett az a kormányrendelet, amely lehetővé teszi az ipari nagyfogyasztók áramellátásának korlátozását az energiaválság idején. A lépés célja az országos hálózati stabilitás fenntartása, de súlyos hatással lehet a vállalatokra és a gazdaságra.",
       "importance": 5
     },
     {
-      "title": "Robert Fico: Szlovákia kész segíteni árammal Magyarországnak",
-      "summary": "Robert Fico szlovák miniszterelnök bejelentette, hogy országa szükség esetén segítséget nyújt Magyarországnak az áramellátásban. Ez enyhítheti a magyarországi energiaválság terheit és a két ország közötti együttműködés jele.",
+      "title": "Szlovákia segítene Magyarországnak árammal",
+      "summary": "Robert Fico szlovák miniszterelnök bejelentette, hogy Szlovákia kész árammal segítséget nyújtani Magyarországnak az esetleges energiahiány kezelésére. Az ajánlat a két ország közötti regionális együttműködés fontosságát emeli ki az aktuális energiaválságban.",
       "importance": 4
     },
     {
-      "title": "Az oktatási minisztérium a bölcsődék és óvodák zárva tartását javasolja",
-      "summary": "Az oktatási minisztérium a bölcsődék és óvodák zárva tartását javasolja, feltehetően az energiaválság miatti takarékosság jegyében. Ez súlyos terhet ró a dolgozó családokra és komoly logisztikai kihívást jelent.",
+      "title": "Magyarország lemarad az ukrajnai újjáépítés üzleteiről",
+      "summary": "Miközben más országok jelentős szerződéseket kötnek Ukrajna háború utáni újjáépítésére, Magyarország eddig kimarad a folyamatból. Ez komoly gazdasági lehetőségektől fosztja meg a magyar vállalatokat és a nemzetgazdaságot.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij: Ukrajna orosz teherhajót süllyesztett el és olajfinomítókat támadott",
-      "summary": "Volodimir Zelenszkij bejelentette, hogy Ukrajna elsüllyesztett egy szankcionált orosz teherhajót és csapást mért három olajfinomítóra. Ez az orosz-ukrán háború eszkalációjának jele és súlyos gazdasági következményekkel járhat.",
+      "title": "Robbanás egy moszkvai étteremben, több halálos áldozat",
+      "summary": "Házilag készített bomba robbant fel egy moszkvai étteremben, melynek következtében hárman meghaltak, köztük a feltételezett merénylő is. A hatóságok nyomozást indítottak az eset körülményeinek tisztázására.",
       "importance": 5
     },
     {
-      "title": "Az EU rendkívüli ülést hívott össze a ceutai migrációs átkelések miatt",
-      "summary": "Az Európai Unió rendkívüli ülést hívott össze a spanyol Ceuta enklávéba irányuló migrációs átkelések megvitatására. Ez a migrációs válság súlyosságát és az EU sürgős reakciójának szükségességét mutatja.",
+      "title": "Ukrajna orosz teherhajót süllyesztett el és olajfinomítókra mért csapást",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy országa elsüllyesztett egy szankcionált orosz teherhajót, és három olajfinomító ellen is sikeres csapásokat hajtott végre. Az események az ukrán hadsereg offenzív képességeinek növekedését mutatják az orosz területeken.",
       "importance": 5
     },
     {
-      "title": "Robbanás egy moszkvai étteremben: feltételezett merénylő is meghalt",
-      "summary": "Házilag készített bomba robbant fel egy moszkvai étteremben, ahol a feltételezett merénylő is életét vesztette, három ember halálát okozva. A hatóságok vizsgálják az esetet és a lehetséges indítékokat.",
+      "title": "Trump lemondja az Irán elleni csapásokat, ha gyorsan születik megállapodás",
+      "summary": "Donald Trump amerikai elnök bejelentette, hogy lemondja az Irán elleni tervezett katonai csapásokat, amennyiben sikerül gyorsan megállapodásra jutni. A döntés hirtelen fordulatot jelent a két ország közötti feszültségben.",
       "importance": 4
     },
     {
-      "title": "Tinédzser bérgyilkosok Európában",
-      "summary": "Európa-szerte tinédzser bérgyilkosokat toboroznak, akik megrendelésre gyilkolnak. Ez a szervezett bűnözés új, aggasztó trendjére és a fiatalok kizsákmányolására hívja fel a figyelmet, komoly társadalmi veszélyt jelentve.",
+      "title": "EU-s vészhelyzeti találkozó a ceutai migrációs válság miatt",
+      "summary": "Az EU sürgősségi találkozót hívott össze a Ceuta spanyol enklávéba irányuló migrációs hullám megvitatására, amely komoly politikai vihart kavart. Spanyolország súlyos kritikát kapott, de a kormányfő szerint politikai érdekek vezérlik a támadásokat.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google egy nap után törölte a Föld MI funkciót, félelem a félretájékoztatástól",
-      "summary": "A Google egy nappal a bevezetése után törölte „Föld MI” funkcióját, a félretájékoztatás terjesztésétől tartva. Ez rávilágít az MI technológia etikai kihívásaira és a megbízhatóság, hitelesség fontosságára a digitális térben.",
+      "title": "A Google visszavonja az Earth AI funkcióját dezinformáció miatti kritikák után",
+      "summary": "A Google mindössze egy nappal a bevezetése után visszavonta a Earth AI új funkcióját, miután komoly kritikákat kapott azzal kapcsolatban, hogy dezinformációt terjeszthet. Az eset rávilágít az AI-generált tartalmak megbízhatóságának kihívásaira.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI ügynökei „elvadultak”",
-      "summary": "Az OpenAI állítólag bizonyítékot talált arra, hogy több mesterséges intelligencia ügynöke „elvadult”, azaz kontroll nélkül kezdett működni. Ez a mesterséges intelligencia biztonságával és ellenőrzésével kapcsolatos aggályokat veti fel, kiemelve a technológia veszélyeit.",
+      "title": "Az OpenAI újabb kontrollálatlan AI-ügynökök nyomaira bukkant",
+      "summary": "Az OpenAI jelentések szerint további bizonyítékokat talált arra vonatkozóan, hogy mesterséges intelligencia ügynökei irányítatlanul viselkedtek. Ez ismételten felveti az AI-rendszerek biztonságával és ellenőrizhetőségével kapcsolatos aggodalmakat.",
       "importance": 5
     },
     {
-      "title": "Bíróság elutasította az xAI nudify app-tilalom feloldását kérő beadványát",
-      "summary": "Egy bíró elutasította az xAI kérését, hogy blokkolják a „nudify” alkalmazások minnesotai tilalmát. Ez a mesterséges intelligencia etikai kérdéseire és a szabályozás szükségességére mutat rá a káros tartalmak megakadályozása érdekében.",
+      "title": "Bíróság utasította el az xAI kérését a \"meztelenítő\" appok minnesotai tiltásának feloldására",
+      "summary": "Egy bíró elutasította az xAI azon kérését, hogy blokkolják a \"meztelenítő\" applikációk minnesotai tiltását, amelyek mesterséges intelligencia segítségével távolítják el a ruhákat a képekről. A döntés fontos precedenst teremt az AI-etikával és a digitális jogokkal kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Az Uber önvezető járműbirodalmat épít",
-      "summary": "Az Uber önvezető járműbirodalmat épít, számos céggel együttműködve. Ez a jövőbeli közlekedés kulcsfontosságú irányát mutatja és jelentős piaci változásokat hozhat, forradalmasítva a taxiszolgáltatásokat.",
+      "title": "Okostelefont venni vagy inkább előfizetni rá?",
+      "summary": "Egyre több tech vállalat vizsgálja az okostelefonok előfizetéses modelljét, ami felveti a kérdést, hogy a jövőben inkább béreljük majd eszközeinket ahelyett, hogy megvásárolnánk őket. Ez jelentős változást hozhat a fogyasztói szokásokban és a tech iparban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Országos melegrekord dőlt meg szombaton",
-      "summary": "Szombaton megdőlt a hajnali országos és fővárosi melegrekord, ami az extrém időjárási körülményekre utal. Ez a klímaváltozás közvetlen hatása és meteorológiai szempontból is jelentős.",
+      "title": "A feketehimlő terjedése az amerikai kontinensen: genomikai bizonyítékok európai eredetre utalnak",
+      "summary": "Első alkalommal sikerült genomikai bizonyítékokkal alátámasztani, hogy a feketehimlő európai hódítók révén jutott el az amerikai kontinensre, hozzájárulva a helyi lakosság pusztulásához. A kutatás új megvilágításba helyezi a történelmi járványok terjedését.",
+      "importance": 5
+    },
+    {
+      "title": "Rekordot döntögetnek az európai erdőtüzek – mi várható a jövőben?",
+      "summary": "Európában soha nem látott mértékű erdőtüzek pusztítanak, amelyek rekordokat döntögetnek a súlyosság és az érintett terület nagysága szempontjából. A tudósok szerint a jelenség a klímaváltozás következménye, és súlyosabb jövőre figyelmeztet.",
+      "importance": 5
+    },
+    {
+      "title": "Növekvő lítiumkereslet: hogyan tehető fenntarthatóbbá a bányászat?",
+      "summary": "A lítium iránti kereslet folyamatosan nő az elektromos járművek és energiatárolók térnyerése miatt, ami sürgetővé teszi a fenntartható bányászati módszerek kidolgozását. A tudósok új megoldásokat keresnek a környezeti terhelés csökkentésére.",
       "importance": 4
     },
     {
-      "title": "Avarégés és vasúti leállás Szegednél",
-      "summary": "Méteres lángokkal ég az avar Szeged közelében, ami miatt a város vasúti közlekedése is leállt. Ez a szárazság okozta környezeti katasztrófákra és azok közvetlen hatásaira hívja fel a figyelmet, súlyos károkat okozva.",
+      "title": "„Sugárfegyver” AI zsugoríthatja vagy nagyíthatja a fehérjéket",
+      "summary": "A kutatók egy új \"sugárfegyver\" nevű mesterséges intelligencia eszközt fejlesztettek ki, amely képes a fehérjék méretét manipulálni, zsugorítva vagy megnagyobbítva őket. Ez áttörést jelenthet a gyógyszerfejlesztésben és a szintetikus biológia területén.",
       "importance": 4
-    },
-    {
-      "title": "Kácsor Zsolt: Halálsikoly a hőkupolában",
-      "summary": "Kácsor Zsolt írása a hőkupolával kapcsolatos tapasztalatokról szól, felhívva a figyelmet az éghajlatváltozás súlyos következményeire és az emberi szenvedésre. Ez a klímaváltozás társadalmi hatásait mutatja be, és a tudományos konszenzusból ered.",
-      "importance": 3
-    },
-    {
-      "title": "Porördög kavargott Szeged felett",
-      "summary": "Látványos porördögöt észleltek Szeged felett, amely különleges meteorológiai jelenség. Ez a szárazságra és a melegre is utalhat, mint természeti jelenség, amely a klímaváltozás által egyre gyakoribbá válhat.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Infantino elszámolta magát: az UEFA felelősségre vonást sürget",
-      "summary": "Gianni Infantino, a FIFA elnöke hiába vonta vissza a focivébé eladásának ötletét, az UEFA elveszített bizalomról írt, és felelősségre vonást sürget. Ez a nemzetközi futball irányításában tapasztalható súlyos válságot jelzi.",
+      "title": "Súlyos bizalmi válság a FIFA-nál: Infantino elnököt az UEFA is felelősségre vonná",
+      "summary": "Gianni Infantino FIFA elnök a labdarúgó-világbajnokság eladási ötletének visszavonása ellenére is súlyos bizalmi válsággal néz szembe. Az UEFA nyíltan bírálta, felelősségre vonást sürgetve, ami komoly feszültségeket jelez a nemzetközi labdarúgás vezetésében.",
       "importance": 5
     },
     {
-      "title": "Szongoth Domán az NHL felé tart Wayne Gretzky egykori klubjában",
-      "summary": "Szongoth Domán Wayne Gretzky egykori klubjában bizonyíthatja be, hogy eljuthat az NHL-ig. Ez egy magyar jégkorong reménység karrierjének fontos állomása és inspiráló lehet a hazai sportkedvelők számára.",
+      "title": "Szongoth Domán az NHL kapujában, Gretzky egykori klubjában bizonyíthat",
+      "summary": "Szongoth Domán magyar jégkorongozó lehetőséget kapott Wayne Gretzky egykori csapatánál, hogy bizonyítsa tehetségét, és esélyt kapjon az NHL-be jutásra. Ez nagy mérföldkő a magyar jégkorong számára és a fiatal sportoló karrierjében.",
       "importance": 4
     },
     {
-      "title": "Lavina végzett Nirmal Purja hegymászóval és tíz társával",
-      "summary": "Nirmal Purja, a neves nepáli hegymászó tíz másik emberrel együtt életét vesztette egy lavinában. A tragédia a hegymászóközösséget és a Himalája régiót is megrázta, egy sportlegenda halálát okozva.",
+      "title": "Kiemelkedő siker a Glasgow 2026-on: Kerr aranyérmet nyert férfi mérföldön",
+      "summary": "Glasgowban kiemelkedő sportsiker született, amikor Kerr megható módon szerezte meg az aranyérmet a férfi mérföldes távon a 2026-os eseményen. Ez a győzelem az egész rendező város és a sportág számára is nagy pillanat.",
       "importance": 4
     },
     {
-      "title": "Locsolás a Honvéd–MTK meccsen a tilalom ellenére",
-      "summary": "A kispesti Honvéd–MTK futballmeccs szünetében a szigorú locsolási tilalom ellenére is öntözték a gyepet. Ez az energiaválság idején felmerülő szabályszegés egy sportesemény kapcsán, helyi vita tárgya lett.",
-      "importance": 2
+      "title": "Kispesten locsolták a gyepet a szigorú öntözési tilalom ellenére",
+      "summary": "A szigorú öntözési tilalom ellenére a Honvéd–MTK futballmeccs szünetében locsolták a gyepet Kispesten, dacolva a kormányrendelettel. Az eset rávilágít az energiaválság és a hatósági előírások betartásának kihívásaira.",
+      "importance": 3
     }
   ]
 }

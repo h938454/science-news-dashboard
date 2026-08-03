@@ -1,106 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Kibertámadás érte az Államkincstárt",
-      "summary": "Súlyos kibertámadás érhette az Államkincstárt, a közzétett képek alapján a támadók szinte minden adathoz hozzáférhettek. Ez komoly nemzetbiztonsági és pénzügyi kockázatot jelent az állami intézmények számára.",
+      "title": "Többtízezres tömeg vonult, mindenki a pontos okot találgatja",
+      "summary": "Ismeretlen okokból többtízezer ember indult meg egy eseményen, ami találgatásokra ad okot a történtek pontos körülményeiről. A média és a nyilvánosság is próbálja megfejteni az esemény mozgatórugóit.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter üzenete Mészáros Lőrincnek a Mavir vezénylő központjából",
-      "summary": "Magyar Péter a Mavir vezénylő központjából szólította fel Mészáros Lőrinc egyik érdekeltségét, hogy még nem késő visszafogni a fogyasztásukat. Az eset politikai és gazdasági összefonódásokra hívja fel a figyelmet.",
+      "title": "Súlyos kibertámadás érhette az Államkincstárt",
+      "summary": "Az Államkincstárt súlyos kibertámadás érte, a nyilvánosságra került képek alapján a támadók gyakorlatilag korlátlan hozzáférést szerezhettek az adatokhoz. Ez komoly nemzetbiztonsági és pénzügyi kockázatokat vet fel.",
       "importance": 5
     },
     {
-      "title": "A kormány eláll a zuglói irodakomplexum megvételétől és 300 milliárdot követel vissza",
-      "summary": "A kormány nem költözik be a Tiborcz Istvánhoz köthető zuglói irodaházba, és 300 milliárd forintot követel vissza az elállás miatt. Az ügy a kormányzati költekezés és a politikai háttérkapcsolatok miatt is kiemelt jelentőségű.",
+      "title": "Bóvlira minősítették Mészáros Lőrinc cégeinek kötvényeit",
+      "summary": "Mészáros Lőrinc érdekeltségeihez köthető kötvényeket minősítettek bóvlinak, ami negatívan érintheti a cégcsoport pénzügyi stabilitását és a befektetők bizalmát. A lépés rávilágít a gazdasági helyzetük esetleges kihívásaira.",
       "importance": 4
     },
     {
-      "title": "Habony Árpád olaszországi lakcímet jelentett be",
-      "summary": "Habony Árpád, a miniszterelnök nem hivatalos tanácsadója, két céges irat szerint is az olaszországi Varesébe tette át lakcímét. Ez a hír a befolyásos háttérszereplő külföldre költözését jelzi, ami spekulációk tárgyát képezi.",
+      "title": "A kormány visszavonul a Tiborczhoz köthető irodaház megvásárlásától",
+      "summary": "A kormány úgy döntött, eláll egy Tiborcz Istvánhoz köthető irodaház megvásárlásától, mely jelentős közpénzeket mozgathatott volna meg. A lépés valószínűleg a nyilvánosság kritikájára adott válasz.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrán dróntámadás: civilek haltak meg egy forgalmas strandon",
-      "summary": "Oroszország szerint ukrán dróntámadás ért egy forgalmas strandot a Krím-félszigeten, hét ember meghalt és 40 megsérült. Az eset a háború eszkalálódását és a civil áldozatok számának növekedését mutatja.",
+      "title": "Ukrán drón csapódott be egy orosz strandon, heten meghaltak",
+      "summary": "Egy ukrán drón csapódott be egy zsúfolt orosz strandon, ami következtében heten meghaltak és sokan megsebesültek. Az esemény tovább élezi a konfliktust és növeli a civil áldozatok számát.",
       "importance": 5
     },
     {
-      "title": "Trump Iránról: ez az utolsó esély egy jó megállapodásra",
-      "summary": "Donald Trump szerint ez Irán utolsó esélye egy jó megállapodásra, reméli, hogy észhez térnek. Irán közben Ománnal tárgyal, de az USA-val nem, ami a közel-keleti diplomácia bonyolult helyzetére utal.",
+      "title": "Rekord alacsony vízszintre apadt a Rajna folyó az aszály miatt",
+      "summary": "Az Európát sújtó aszály következtében a Rajna folyó vízszintje rekord alacsonyra csökkent, ami súlyos fennakadásokat okoz a hajózásban és az ipari szállításban. Ez rávilágít a klímaváltozás környezeti és gazdasági hatásaira.",
       "importance": 5
     },
     {
-      "title": "Franciaország elítéli a Reform UK migrációs tervét",
-      "summary": "Franciaország élesen bírálja a Reform UK párt tervét, mely szerint a haditengerészetet használnák a migránsok visszaszállítására. Ez az európai országok közötti feszültségeket és a migrációs politika vitatott jellegét tükrözi.",
+      "title": "Donald Trump szerint ez Irán utolsó esélye egy jó megállapodásra",
+      "summary": "Donald Trump kijelentette, hogy ez Irán utolsó esélye egy kedvező megállapodásra, remélve, hogy az ország „észhez tér”. Ez a nyilatkozat újra felkavarja az amerikai-iráni kapcsolatok körüli feszültséget.",
       "importance": 4
     },
     {
-      "title": "Halálos tüntetések pakisztáni Kasmírban",
-      "summary": "Pakisztán-adminisztrálta Kasmírban halálos tüntetések zajlanak, melyek a régóta fennálló politikai és emberi jogi problémák újabb fellángolására utalnak. A helyzet súlyos instabilitást okoz a régióban.",
+      "title": "Halálos tüntetések dúlnak a pakisztáni igazgatású Kasmírban",
+      "summary": "A pakisztáni igazgatású Kasmírban halálos tüntetések zajlanak, melyek miatt a város a konfliktus fogságában vergődik. Az események súlyos emberi jogi aggályokat vetnek fel.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple harcol az iCloud háttérkapu követelése ellen a brit kormánnyal",
-      "summary": "Az Apple ellenáll a brit kormány azon követelésének, hogy hozzáférést biztosítson az iCloud adataihoz, adatvédelmi aggályokra hivatkozva. Az ügy a magánélet védelme és a kormányzati megfigyelés közötti feszültséget mutatja a nagy techcégek és a nemzeti jogalkotók között.",
+      "title": "Ki a felelős az autonóm mesterséges intelligencia által elkövetett hackekért?",
+      "summary": "Jogilag bonyolult kérdés, hogy ki viseli a felelősséget az autonóm mesterséges intelligencia rendszerek által elkövetett esetleges hackelésért, különösen az Anthropic és OpenAI eseteiben. Ez a dilemma az AI-fejlesztés egyik alapvető etikai és jogi problémája.",
       "importance": 5
     },
     {
-      "title": "Az Xbox Series X ára emelkedett a memóriachipköltségek miatt",
-      "summary": "Az Xbox Series X konzol ára 170 fonttal emelkedett a globális memóriachip-hiány és a növekvő gyártási költségek következtében. Ez a globális ellátási lánc problémáinak fogyasztói árra gyakorolt közvetlen hatását jelzi.",
+      "title": "Az Apple szembeszáll az iCloud-hátsóajtót követelő brit kormánnyal",
+      "summary": "Az Apple kihívás elé állítja a brit kormány legújabb követelését, amely hátsóajtót kérne az iCloud szolgáltatásba. Az ügy rávilágít a magánszféra védelme és a kormányzati megfigyelés közötti feszültségre a digitális korban.",
+      "importance": 5
+    },
+    {
+      "title": "A Horizon3 kétmilliárd dolláros értékelést ért el, ahogy az AI-fenyegetések fokozódnak",
+      "summary": "A Horizon3 startup 2 milliárd dolláros értékelést ért el 250 millió dolláros E sorozatú finanszírozással, miközben az AI-alapú kibertámadások egyre komolyabb fenyegetést jelentenek. Ez a befektetés a mesterséges intelligencia által generált biztonsági kihívásokra adott válaszként értelmezhető.",
       "importance": 4
     },
     {
-      "title": "Milliárdos befektetések az energia-technológiai startupokba",
-      "summary": "Két energia-technológiai startup, a Valar Atomics (nukleáris energia) és a Base Power (háztartási akkumulátorok) is milliárd dolláros nagyságrendű befektetést kapott. Ez a tiszta energiaforrások fejlesztésének felgyorsítását célozza az energiaválság enyhítésére.",
+      "title": "Milliárd dolláros befektetés egy nukleáris startupba a Valar Atomics-ba",
+      "summary": "A Sequoia vezetésével 1 milliárd dolláros befektetést kapott a nukleáris energia startup, a Valar Atomics. Ez a jelentős tőkeinjekció új lendületet adhat a nukleáris technológiák fejlesztésének és a klímaváltozás elleni küzdelemnek.",
       "importance": 4
-    },
-    {
-      "title": "A Samsung letiltja az internetmegosztó okostévé-alkalmazásokat",
-      "summary": "A Samsung megtiltja az olyan okostévé-alkalmazásokat, amelyek megosztják a felhasználók internetkapcsolatát idegenekkel. Ez a lépés a felhasználói adatvédelem növelését és a lehetséges biztonsági kockázatok kiküszöbölését szolgálja az IoT eszközök terén.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A Rajna rekord alacsony szinten van az aszály miatt",
-      "summary": "A Rajna folyó vízszintje rekord alacsonyra esett, ahogy az aszály sújtja Európa folyóit. Ez a klímaváltozás közvetlen hatása, mely súlyos gazdasági és ökológiai következményekkel járhat a kontinensen.",
+      "title": "Új ortobunyavírust fedeztek fel tejelő szarvasmarháknál Svájcban",
+      "summary": "Svájcban eddig ismeretlen ortobunyavírust azonosítottak tejelő szarvasmarháknál. A felfedezés aggodalmakat vet fel az állategészségügy és a potenciális zoonózisos kockázatok miatt.",
       "importance": 5
     },
     {
-      "title": "Új rákellenes antitestek célozzák a daganatokat",
-      "summary": "Tudósok olyan rákellenes antitesteket fejlesztettek ki, amelyek 'dupla ütést' mérnek a daganatokra. Ez az orvostudományi áttörés új reményt adhat a rákterápia területén, hatékonyabb kezelési lehetőségeket ígérve.",
+      "title": "Kétlépcsős ráktámadó antitestek a daganatok ellen",
+      "summary": "Kutatók olyan új, kétlépcsős hatásmechanizmusú, rákellenes antitesteket fejlesztenek, amelyek célzottan veszik fel a harcot a daganatokkal. Ez az áttörés új reményt jelenthet a rákterápiában.",
       "importance": 5
     },
     {
-      "title": "A Vénusz repedésvölgyei lehetnek aktivitásának titka",
-      "summary": "A Vénusz felszínén lévő repedésvölgyek titkot rejthetnek a bolygó geológiai aktivitásáról. Ez az új felfedezés segíthet megérteni a Naprendszer bolygóinak fejlődését és a Vénusz hosszú távú történetét.",
+      "title": "A sarlósejtes vérszegénység összefüggésben áll az egerek idő előtt öregedő őssejtjeivel",
+      "summary": "Egy friss kutatás szerint a sarlósejtes vérszegénység kapcsolatban áll az egerek idő előtt öregedő őssejtjeivel, ami új betekintést nyújthat a betegség mechanizmusába. Ez a felfedezés segíthet a hatékonyabb kezelések kidolgozásában.",
       "importance": 4
     },
     {
-      "title": "Fel kell készülni a nukleáris meghajtású kereskedelmi hajók kockázataira",
-      "summary": "A nukleáris meghajtású kereskedelmi hajókra vonatkozó terveknek számolniuk kell a potenciális kockázatokkal. A technológia ígérete mellett a biztonsági és környezetvédelmi aggályokat is alaposan mérlegelni kell.",
+      "title": "A nukleáris meghajtású kereskedelmi hajók kockázataival szembe kell nézni",
+      "summary": "A nukleáris meghajtású kereskedelmi hajók tervezése során alaposan mérlegelni kell a velük járó környezeti és biztonsági kockázatokat. Ez a technológia jelentős előnyökkel járhat, de felelős megközelítést igényel.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Gulácsi Péter a Villarrealba igazolt",
-      "summary": "Gulácsi Péter, a magyar válogatott kapus, topligából topligába igazolt, a spanyol Villarreal csapatához. Ez jelentős lépés a 36 éves játékos karrierjében és a magyar labdarúgás nemzetközi megítélésében.",
+      "title": "Gulácsi Péter a spanyol élvonalba igazolt",
+      "summary": "Gulácsi Péter, a magyar válogatott kapus, a spanyol élvonalbeli Villarreal csapatához igazolt, ami jelentős lépés a karrierjében. Ez a transzfer a magyar labdarúgás számára is kiemelkedő hír.",
       "importance": 5
     },
     {
-      "title": "Feszültségek a FIFA vezetés körül",
-      "summary": "Gianni Infantino FIFA-elnök ellenfelei 'nem együttműködést' ígérnek a szervezettel, ami belső feszültségeket jelez. Ez a nemzetközi labdarúgás irányítását érintő politikai küzdelmeket és esetleges reformok szükségességét vetíti előre.",
+      "title": "Infantino ellenfelei együttműködés megtagadásával fenyegetik a FIFA-t",
+      "summary": "Gianni Infantino FIFA elnök ellenfelei azzal fenyegetőznek, hogy megtagadják az együttműködést a szervezettel, ami komoly belső feszültségekre utal a labdarúgás legfőbb irányító testületén belül. Ez a helyzet befolyásolhatja a jövőbeli futballeseményeket és -döntéseket.",
       "importance": 4
     },
     {
-      "title": "A West Ham társtulajdonosának otthoni meccsektől való távolmaradást tanácsoltak",
-      "summary": "David Sullivan, a West Ham társtulajdonosa tanácsot kapott, hogy maradjon távol a hazai mérkőzésektől. Ez a klub belső feszültségeire utal, és befolyásolhatja a szurkolói hangulatot és a klub megítélését.",
+      "title": "A West Ham társtulajdonosát hazai mérkőzések távoltartására szólították fel",
+      "summary": "A West Ham United társtulajdonosát, David Sullivant azt tanácsolták, hogy maradjon távol a hazai mérkőzésektől, ami a klubon belüli feszültségekre és a szurkolók elégedetlenségére utal. Ez a helyzet rontja a klub megítélését és befolyásolhatja a csapat teljesítményét.",
+      "importance": 3
+    },
+    {
+      "title": "Mi lesz Infantino utódja, ha távozik a FIFA elnöki posztjáról?",
+      "summary": "Felmerül a kérdés, hogy ki lehet Gianni Infantino utódja, ha távozik a FIFA elnöki posztjáról, a szervezet belső feszültségei közepette. A lehetséges utódok körüli spekulációk felerősödtek, ami a futballvilág jövőbeni irányát is meghatározhatja.",
       "importance": 3
     }
   ]

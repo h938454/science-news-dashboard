@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Súlyos kibertámadás érhette az Államkincstárt",
-      "summary": "Az államkincstárt ért kibertámadás súlyos következményekkel járhat, mivel a támadók a közzétett képek szerint szinte bármilyen adathoz hozzáférhettek. Ez komoly biztonsági rést jelent az állami rendszerekben és bizalmas információk veszélyeztetését vetheti fel.",
+      "title": "Súlyos kibertámadás érte az Államkincstárat",
+      "summary": "A közzétett képek alapján a támadók gyakorlatilag ahhoz férhettek hozzá, amihez akartak, ami komoly biztonsági résekre utal az állami rendszerben. A támadás súlyos következményekkel járhat.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter a Mavir központjából üzent Mészáros Lőrinc egyik érdekeltségének",
-      "summary": "Magyar Péter a Mavir vezénylő központjából üzente meg Mészáros Lőrinc egyik cégének, hogy még nem késő visszafogni az energiafogyasztásukat. Ez egy figyelemfelkeltő politikai lépés az energiaszektorral és a kormányközeli üzleti körökkel kapcsolatban.",
+      "title": "Magyar Péter üzent Mészáros Lőrincnek a Mavir központjából",
+      "summary": "Magyar Péter a Mavir vezénylőterméből figyelmeztette Mészáros Lőrinc egyik érdekeltségét, hogy még nem késő visszafogniuk az energiafogyasztásukat. Az üzenet komoly politikai és gazdasági feszültségeket jelez.",
+      "importance": 5
+    },
+    {
+      "title": "Az MVM milliárdjai: szivattyútelep helyett Fradi és Balásy",
+      "summary": "Az RTL riportja szerint az MVM nem költött egy tízmilliárdos szivattyútelepre, de a Fradinak 5 milliárdot, Balásy György cégének pedig 17 milliárd forintot fizetett. Ez felveti a közpénzek elköltésének indokoltságát.",
       "importance": 4
     },
     {
-      "title": "Az MVM milliárdokat fizetett a Fradinak és Balásy cégének, miközben beruházások maradtak el",
-      "summary": "Az RTL értesülései szerint az MVM Zrt. nem ruházott be egy tízmilliárdos szivattyútelepre, de jelentős összegeket, 5 milliárdot a Fradinak, 17 milliárdot pedig egy Balásy-cégnek fizetett. Ez komoly kérdéseket vet fel az állami vállalat pénzügyi gazdálkodásával és prioritásaival kapcsolatban.",
+      "title": "1904 milliárdos beruházások: Mi lett az eredmény?",
+      "summary": "Magyarország 1904 milliárd forintot költött beruházásokra, de felmerül a kérdés, hogy mit is kaptunk cserébe ezért az óriási összegért. A cikk a kiadások hatékonyságát és átláthatóságát firtatja.",
       "importance": 4
-    },
-    {
-      "title": "A kormány elállt a Tiborcz Istvánhoz köthető irodaház megvásárlásától",
-      "summary": "A kormány váratlanul visszalépett egy Tiborcz Istvánhoz köthető irodaház megvásárlásától, mely korábban komoly vitákat váltott ki. A döntés hátterében politikai és gazdasági megfontolások állhatnak.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Orosz strandon zuhant le egy ukrán drón, halálos áldozatokkal",
-      "summary": "Egy ukrán drón csapódott be egy zsúfolt orosz strandon Szevasztopolban, több halálos áldozatot és számos sérültet hagyva maga után. Az incidens tovább növeli a feszültséget az orosz-ukrán háborúban, különösen a civil célpontok elleni támadások miatt.",
+      "title": "Ukrán drón csapódott be egy orosz strandon, halálos áldozatokkal",
+      "summary": "Egy orosz strandnál zuhant le egy ukránnak mondott drón, amely legalább hét ember halálát és számos sérülést okozott. Az incidens tovább élezi a háború civil áldozataival kapcsolatos aggodalmakat.",
       "importance": 5
     },
     {
-      "title": "Rekord alacsony a Rajna vízszintje Európában az aszály miatt",
-      "summary": "A Rajna vízszintje történelmi mélypontra süllyedt az Európát sújtó aszály miatt, súlyosan befolyásolva a folyami hajózást és a gazdaságot. Ez a klímaváltozás hatásainak újabb aggasztó jele, mely komoly gazdasági és környezeti következményekkel járhat.",
+      "title": "Donald Trump üzenete Iránnak: utolsó esély egy megállapodásra",
+      "summary": "Donald Trump szerint ez az Irán számára az utolsó esély egy jó megállapodásra, remélve, hogy az ország \"észhez tér\". Ez a nyilatkozat komoly feszültséget jelez a nemzetközi diplomáciában.",
       "importance": 4
     },
     {
-      "title": "Donald Trump Iránnak üzent: ez az utolsó esély egy jó megállapodásra",
-      "summary": "Donald Trump nyilatkozata szerint ez Irán utolsó esélye egy kedvező megállapodás megkötésére, remélve, hogy Teherán belátja ennek fontosságát. A kijelentés újabb feszültséget gerjeszt az Egyesült Államok és Irán között, és a diplomáciai helyzet alakulásától függően hatással lehet a régióra.",
+      "title": "Az EU szigorítaná határait a ceutai migrációs válság után",
+      "summary": "Az Európai Unió erősebb határvédelmet sürget a spanyol Ceutánál történt tömeges migránsátkelések után. A tagállamok közötti viták ellenére a migrációs nyomás kezelése prioritássá vált.",
       "importance": 4
     },
     {
-      "title": "Erősebb határokat sürget az EU a ceutai migrációs válság után",
-      "summary": "Az Európai Unió erősebb határellenőrzést sürget a Ceutában történt migránsátkelési kísérletek nyomán, hangsúlyozva a külső határok védelmének fontosságát. A válság rávilágított az uniós határvédelem kihívásaira és a migrációs politika vitatott pontjaira.",
-      "importance": 3
+      "title": "Amerikai államok perelik be Trumpot a vámok miatt",
+      "summary": "Az Egyesült Államok több állama is beperelte Donald Trumpot az általa bevezetett, számos országot érintő vámok miatt. Ez egy jelentős jogi és gazdasági összecsapás a szövetségi kormány és az államok között.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple ellenáll a brit kormány iCloud-hátsóajtó követelésének",
-      "summary": "Az Apple a jelentések szerint ellenzi a brit kormány legújabb kérését, amely az iCloudba épített hátsóajtót követelne meg. Ez a lépés komoly vitát vált ki a magánélet védelme és a nemzetbiztonság közötti egyensúlyról a digitális korban.",
+      "title": "Ki a felelős az autonóm AI rendszerek hibáiért?",
+      "summary": "Az Anthropic és az OpenAI autonóm mesterséges intelligencia rendszerei által okozott hibák és hackek jogi felelőssége rendkívül bonyolult kérdés. A probléma az AI fejlődésének etikai és szabályozási dilemmáit hangsúlyozza.",
       "importance": 5
     },
     {
-      "title": "Ki a felelős az autonóm mesterséges intelligencia hackekért?",
-      "summary": "Egyre bonyolultabb kérdés, hogy ki viseli a jogi felelősséget az autonóm mesterséges intelligencia által elkövetett hackekért, például az Anthropic és az OpenAI rendszereiben. A probléma az AI-fejlesztés egyik legnagyobb jogi és etikai kihívása, amelyre még nincs egyértelmű válasz.",
+      "title": "Az Apple szembeszáll a brit kormánnyal az iCloud hátsó kapu ügyében",
+      "summary": "Az Apple ellenzi a brit kormány követelését egy iCloud hátsó kapu beépítésére, ami súlyos adatvédelmi aggályokat vet fel. Az eset kiélezi a magánszféra és a nemzetbiztonság közötti konfliktust.",
+      "importance": 5
+    },
+    {
+      "title": "1 milliárd dolláros befektetés egy nukleáris startupba",
+      "summary": "A Valar Atomics nukleáris startup 1 milliárd dolláros tőkebefektetést kapott a Sequoia Capitaltól, ami óriási lépés a tiszta energiaforrások fejlesztésében. Ez a befektetés az atomenergia reneszánszát jelzi.",
       "importance": 4
     },
     {
-      "title": "Az amerikai Kongresszus kedvenc mesterséges intelligencia eszköze a ChatGPT",
-      "summary": "A jelentések szerint az amerikai Kongresszusban a ChatGPT vált az egyik legkedveltebb mesterséges intelligencia eszközzé a jogalkotók és a munkatársak körében. Ez rávilágít az AI növekvő szerepére a politikai döntéshozatalban és a közigazgatásban.",
-      "importance": 3
-    },
-    {
-      "title": "A Samsung betiltja az adatokat megosztó okostévé alkalmazásokat",
-      "summary": "A Samsung betiltja azokat az okostévé alkalmazásokat, amelyek megosztják a felhasználók internetkapcsolatát idegenekkel, adatvédelmi aggályok miatt. Ez a lépés a felhasználói adatok fokozottabb védelmét célozza, és precedenst teremthet más gyártók számára is.",
-      "importance": 3
+      "title": "Milliárdos befektetés az otthoni akkumulátoros hálózatmentésbe",
+      "summary": "A Base Power további 1 milliárd dolláros befektetést kapott a hálózati stabilitás megőrzésére, kerti akkumulátoros rendszerek segítségével. Ez a fejlesztés kulcsfontosságú lehet az energiaellátás jövőjében.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Ismeretlen ortobunyavírust fedeztek fel svájci tehenekben",
-      "summary": "Svájcban eddig ismeretlen ortobunyavírust azonosítottak tejelő szarvasmarháknál, ami aggodalmat kelt a lehetséges járványügyi és gazdasági következmények miatt. A kutatók vizsgálják a vírus eredetét, terjedését és az emberre való átterjedés kockázatát.",
+      "title": "A mellrákszűrés sok 50 év alatti, veszélyeztetett nőt nem ér el",
+      "summary": "Egy új tanulmány szerint a mellrákszűrések nem érik el az 50 év alatti, de kockázatnak kitett nők többségét. Ez a felfedezés sürgős változtatásokat tesz szükségessé a szűrőprogramokban.",
       "importance": 5
     },
     {
-      "title": "Kettős támadással veszi célba a daganatokat az új rákelhárító antitest-terápia",
-      "summary": "Kutatók olyan új antitesteket fejlesztettek ki, amelyek kettős mechanizmussal képesek megtámadni a rákos daganatokat, hatékonyabban semlegesítve azokat. Ez az ígéretes felfedezés új utakat nyithat a rákterápiában és javíthatja a betegek túlélési esélyeit.",
+      "title": "Vita a Fehér Ház tudományfinanszírozási tervéről",
+      "summary": "A Fehér Ház vitatott terve az amerikai tudományfinanszírozás átalakítására szenátusi ellenállásba ütközött. A terv mélyrehatóan befolyásolhatja a kutatás és fejlesztés jövőjét az USA-ban.",
       "importance": 4
     },
     {
-      "title": "A sarlósejtes vérszegénység összefügg a korán öregedő őssejtekkel egereknél",
-      "summary": "Egérkísérletek kimutatták, hogy a sarlósejtes vérszegénység a korán öregedő őssejtekhez köthető, ami magyarázatot adhat a betegség súlyosságára. Ez a felfedezés hozzájárulhat a betegség mechanizmusának jobb megértéséhez és új terápiás megközelítések kidolgozásához.",
+      "title": "A Vénusz hasadékvölgyei magyarázhatják bolygó aktivitását",
+      "summary": "A Vénusz hasadékvölgyei kulcsot rejthetnek ahhoz, hogy a bolygó miért maradt geológiailag aktív. Ez a felfedezés új megvilágításba helyezi a bolygók fejlődését és belső folyamatait.",
       "importance": 4
     },
     {
-      "title": "A Vénusz hasadékvölgyei rejtik bolygója aktivitásának titkát",
-      "summary": "A Vénusz felszínén található hasadékvölgyek új elméletek szerint kulcsszerepet játszhatnak a bolygó geológiai aktivitásának fenntartásában. Ez a felfedezés új megvilágításba helyezheti a szomszédos bolygó evolúcióját és a bolygók dinamikájának megértését.",
-      "importance": 3
+      "title": "Ismeretlen ortobunyavírust találtak svájci szarvasmarháknál",
+      "summary": "Svájcban egy eddig ismeretlen ortobunyavírust azonosítottak tejelő szarvasmarháknál, ami aggodalmakat vet fel az állategészségügy és a zoonózisok terén. A vírus eredete és terjedése további vizsgálatokat igényel.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Gulácsi Péter a spanyol élvonalba, a Villarrealba igazolt",
-      "summary": "Gulácsi Péter, a magyar válogatott kapus, 36 évesen a spanyol élvonalbeli Villarreal csapatához szerződött, ami komoly előrelépést jelent karrierjében. Ezzel Gulácsi egy topligás csapat meghatározó játékosa maradhat Európa egyik legjobb bajnokságában.",
-      "importance": 5
-    },
-    {
-      "title": "Az Infantino ellenzéke a FIFA-val való együttműködés felfüggesztésével fenyeget",
-      "summary": "Gianni Infantino FIFA elnök ellenzéke azzal fenyegetőzik, hogy felfüggeszti az együttműködést a szervezettel, ami feszültségeket jelez a futballvezetésben. Ez a lépés potenciálisan destabilizálhatja a FIFA vezetését és a nemzetközi futball irányítását.",
+      "title": "Gulácsi Péter a spanyol élvonalba igazolt",
+      "summary": "A 36 éves Gulácsi Péter, a magyar válogatott kapus a spanyol első osztályú Villarreal csapatához igazolt. Ezzel egy újabb topligás kaland várja a tapasztalt játékost.",
       "importance": 4
     },
     {
-      "title": "A West Ham társtulajdonosát, David Sullivant távolmaradásra intették a hazai meccsekről",
-      "summary": "David Sullivant, a West Ham United társtulajdonosát azt tanácsolták, maradjon távol a klub hazai mérkőzéseitől a szurkolók várhatóan ellenséges fogadtatása miatt. Ez valószínűleg a szurkolók elégedetlensége és a klubon belüli feszültségek miatt történt, ami a tulajdonosi viszonyokat érinti.",
-      "importance": 3
-    },
-    {
-      "title": "Az MVM milliárdokat fizetett a Fradinak, miközben beruházások maradtak el",
-      "summary": "Az MVM Zrt. tízmilliárdos beruházások helyett 5 milliárd forintot juttatott a Ferencvárosi TC-nek, valamint 17 milliárdot egy Balásy-cégnek. Bár elsősorban gazdasági hír, a jelentős összegű, állami forrásból származó támogatás közvetlenül érinti Magyarország egyik legnagyobb sportklubját, ezért sport vonatkozása is van.",
-      "importance": 3
+      "title": "A West Ham társtulajdonosának azt tanácsolták, maradjon távol a hazai meccsektől",
+      "summary": "David Sullivan, a West Ham United társtulajdonosa azt a tanácsot kapta, hogy ne látogassa a hazai mérkőzéseket. Az okokról bővebb információ nem derült ki, de ez a klub belső feszültségeire utal.",
+      "importance": 2
     }
   ]
 }

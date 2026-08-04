@@ -1,90 +1,120 @@
 {
   "Telex": [
     {
+      "title": "Mészárosék reagáltak Magyar Péter üzenetére: A válaszlevél bizonyára nem jutott el Miniszterelnök úrhoz",
+      "link": "https://telex.hu/gazdasag/2026/08/04/meszaros-csoport-reakcio-magyar-peter",
+      "summary": "Magyar Péter hétfőn este üzent az egyik Mészáros-cég miatt, mert szerinte még nem válaszoltak arra, hogy vállalják-e a fogyasztás önkéntes visszafogását."
+    },
+    {
+      "title": "Jócskán túlárazva vehetett földeket a Paks II.-t fejlesztő állami cég, Hadházy Ákos feljelentést tesz",
+      "link": "https://telex.hu/gazdasag/2026/08/04/tularazas-paks-2-bovites-foldvasarlas-pip-nonprofit-kft-hadhazy-akos-feljelentes",
+      "summary": "Az állami cég összesen csaknem 32 milliárd forintért vehetett, gyakran rossz minőségű földeket."
+    },
+    {
+      "title": "Tizenkét évnyi tündérmese – így jellemezte a NATO-csatlakozás terveit a londoni ukrán nagykövet",
+      "link": "https://telex.hu/kulfold/2026/08/04/ukrajna-nato-csatlakozas-tundermese-ukran-nagykovet-egyesult-kiralysag",
+      "summary": "Valerij Zaluzsnij volt ukrán főparancsnok szerint Ukrajna soha nem fog csatlakozni a NATO-hoz, ezért inkább más katonai szövetségekkel kellene megerősítenie a viszonyát."
+    },
+    {
+      "title": "Meghalt Tillai Ernő Ybl Miklós-díjas építész",
+      "link": "https://telex.hu/karakter/kultura/2026/08/04/meghalt-tillai-erno-ybl-miklos-dijas-epitesz",
+      "summary": "Az építész összesen negyven középületet és 125 ezer lakást tervezett, az ő tervei alapján épült fel számos panelház a pécsi Uránvárosban és Kertvárosban. 2017-ben lett a város díszpolgára."
+    },
+    {
+      "title": "A sekélyből a hirtelen mélyülő Dunába gyalogolt bele egy társaság Dunakeszinél, egyiküket nem találták meg",
+      "link": "https://telex.hu/belfold/2026/08/04/duna-dunakeszi-elmerult-ember",
+      "summary": "A medertörésnél hirtelen változik a víz alatti talaj, amely mélyülhet vagy emelkedhet is."
+    },
+    {
+      "title": "A Fidesz kifogyott, KDNP nem is volt",
+      "link": "https://telex.hu/belfold/2026/08/04/lajkbajnoksag-136",
+      "summary": "Egyre kevesebb az ötlet, a mondanivaló, és a győzelmi terv, ennek ellenére nagyot futnak a fideszesek a Facebookon azzal, hogy a kormányt a túl sok facebookozás miatt támadják. Aztán jön Magyar Péter, és megeszi őket reggelire."
+    },
+    {
+      "title": "A marokkói király levele is megerősíti, hogy autópályát nevez el Donald Trumpról",
+      "link": "https://telex.hu/kulfold/2026/08/04/marokkoi-kiraly-level-donald-trump-autopalya",
+      "summary": "Az amerikai elnök már múlt héten posztolt róla, marokkói részről azonban nem jött megerősítés – egészen mostanáig."
+    },
+    {
+      "title": "Gajdos László: Országos ellenőrzés indult az akkucégeknél",
+      "link": "https://telex.hu/gazdasag/2026/08/04/gajdos-laszlo-elo-kornyezetert-felelos-miniszter-vizsgalat-ellenorzes-akkumulatoripar-augusztus-1",
+      "summary": "A miniszter szerint a cél a jogsértések feltárása és megszüntetése."
+    },
+    {
+      "title": "Több tízmilliárd forintot költött külföldi ingatlanokra az Orbán-kormány 2010-től",
+      "link": "https://telex.hu/gazdasag/2026/08/04/kulfold-ingatlanvasarlas-allam",
+      "summary": "A Londoni Magyar Ház volt a legdrágább, a második helyen a müncheni főkonzulátus épülete áll."
+    },
+    {
+      "title": "Torlódást okozott a reptéren a taxisokra kiszabott reptéri behajtási díj",
+      "link": "https://telex.hu/belfold/2026/08/04/athaladasi-dij-taxisok-liszt-ferenc-nemzetkozi-repuloter",
+      "summary": "Augusztustól a regisztrált taxisoknak is 800 forintot kell fizetniük a behajtásért, ez korábban öt percig díjmentes volt. A Budapest Airport szerint van olyan megoldás, ami gyorsítja az áthaladást."
+    },
+    {
+      "title": "Egy héten belül három oroszlán pusztult el a tokiói állatkertben, hőgutát kaphattak",
+      "link": "https://telex.hu/kulfold/2026/08/04/harom-oroszlan-elpusztult-tokio-allatkert-hoguta",
+      "summary": "Rajtuk kívül további három oroszlán rosszul van, négyen pedig már a javulás jeleit mutatják."
+    },
+    {
+      "title": "Megint ukrán drónok támadták Moszkva környékét, a kormányzó szerint legalább öten meghaltak",
+      "link": "https://telex.hu/kulfold/2026/08/04/orosz-ukran-haboru-drontamadasok-moszkvai-regio-legalabb-oten-meghaltak-wildberries-raktar",
+      "summary": "A Novoszelki ipari övezetben több helyen tűz ütött ki, a leningrádi régióban a Wildberries egyik raktárát érte találat."
+    },
+    {
       "title": "A NAV négy hónapos türelmi időszakkal segít a vállalkozásoknak a nyugtaadat-szolgáltatásban",
       "link": "https://telex.hu/gazdasag/2026/08/04/kotelezo-nyugtaadat-szolgaltatas-vallalkozasok-nav",
       "summary": "Szeptember 1-jén elindul a kötelező nyugtaadat-szolgáltatás, az év végéig azonban nem bírságol a NAV."
     },
     {
-      "title": "40 fok feletti maximumok és egy-egy futó zápor: erre lehet számítani kedden",
+      "title": "Magyar Péter szerint a legnehezebb éjszakán vagyunk túl, de reggelre emelkedett a Duna",
       "link": "https://telex.hu/belfold/2026/08/04/kanikula-hoseg-aszaly-energiavalsag-paks-vizellatas-korlatozasok",
-      "summary": "Hétfőn újabb fővárosi melegrekord dőlt meg, ismét Újpesten volt a legmelegebb. A kánikula és az energiaválság hírei percről percre."
+      "summary": "Hajnalban pár milliméterre jártunk a Paksi Erőmű teljes lekapcsolásától. Hétfőn újabb fővárosi melegrekord dőlt meg. A kánikula és az energiaválság hírei percről percre."
     },
     {
       "title": "Úgy le voltam törve a bronz után, mint még soha, erre váratlanul megjelent a szerelmem",
       "link": "https://telex.hu/sport/2026/08/04/noi-tor-montreal-peches-elodonto-bobis-ildiko",
       "summary": "Három olimpiai ezüstje már volt Bóbis Ildikónak, Montrealba aranyért ment, de leblokkolt a döntő kapujában, és harmadik lett csapatban."
-    },
-    {
-      "title": "Körbe-körbe túráztatták egy fa körül az őket üldöző rendőröket az ausztrál gyerekek",
-      "link": "https://telex.hu/kulfold/2026/08/04/kununurra-autos-uldozes-ausztralia",
-      "summary": "Kununurrában komoly probléma a fiatalkorú bűnözés."
-    },
-    {
-      "title": "Ezreket betegített meg és most már két halálos áldozata is van az Egyesült Államokban terjedő bélfertőzésnek",
-      "link": "https://telex.hu/kulfold/2026/08/04/halalos-aldozatok-egyesult-allamok-belfertozes",
-      "summary": "Az eddigi vizsgálatok szerint a tömeges fertőzés forrása egy bizonyos típusú fejes saláta lehet, amit a Taco Bell gyorséttermekben szolgáltak fel."
-    },
-    {
-      "title": "Tanácsot kértek az Alpokban elakadt magyar túrázók, mentőhelikopter jött helyette, és még fizetniük is kell",
-      "link": "https://telex.hu/belfold/2026/08/04/alpok-megaradt-patak-turazas-elakadas",
-      "summary": "Enikőék hiába voltak felkészülve az alpesi túrára, egy kiáradt patakra nem számítottak. Arra pedig végképp nem, hogy óriási kavarodás lesz az információkérésükből."
-    },
-    {
-      "title": "Újabban csak az utolsó percben indulunk a Balatonra, és nem kérünk az éttermi mirelitből",
-      "link": "https://telex.hu/g7/vallalat/2026/08/04/balaton-szezon-vendegek-atalakulas",
-      "summary": "Idén nyögvenyelősen, későn indult be a nyár a tónál, a turisztikai szolgáltatóknak sürgősen alkalmazkodniuk kellene a változásokhoz."
-    },
-    {
-      "title": "1904 milliárd forintot költöttünk beruházásokra. De mit kaptunk cserébe?",
-      "link": "https://telex.hu/nevertek/2026/08/04/kulfoldi-beruhazas-gazdasagfejlesztes-export-kkv-k-hozzaadott-ertek",
-      "summary": "Az elmúlt években a kiosztott támogatási összeg nagyobbik része az akkumulátor- és a járműiparhoz kapcsolódott. De mekkora a befektetések támogatására fordított közpénz hatása a magyar gazdaság egészére?"
-    },
-    {
-      "title": "A Feröer szigeteken nincsenek börtönök",
-      "link": "https://telex.hu/eszkombajn/2026/08/04/feroer-szigetek-borton-fogva-tartas-mjorkadalur",
-      "summary": "A Dániához tartozó autonóm terület egyetlen fogvatartási intézménye egy volt katonai bázison működik, amúgy Dániába exportálják a rabokat."
-    },
-    {
-      "title": "Megindult sok tízezer ember, most pedig mindenki azt találgatja, mi történt pontosan",
-      "link": "https://telex.hu/kulfold/2026/08/03/ceuta-spanyolorszag-migransok-marokko-pedro-sanchez-bevandorlas",
-      "summary": "A Ceutába átjutó határsértők közül a spanyolok szerint négy nap alatt közel 70 ezren tértek vissza Marokkóba, 72-en vízbe fulladtak. Sorakoznak a kérdések, de az események megmutatták, mekkorát változott az EU a 2015-ös menekültválság óta. Huszonegy uniós tagország vezetőjével együtt Magyar Péter is bírálta a spanyol kormányfőt a migrációs politikája miatt."
-    },
-    {
-      "title": "A spanyol élvonalba igazolt Gulácsi Péter",
-      "link": "https://telex.hu/sport/2026/08/03/gulacsi-peter-atigazolas-villarreal-hivatalos",
-      "summary": "Az 58-szoros magyar válogatott kapus két évre írt alá a Villarrealhoz."
-    },
-    {
-      "title": "RTL: Egy tízmilliárdos szivattyútelepre nem költött az MVM, de a Fradinak 5 milliárdot, Balásy cégének 17 milliárdot fizetett",
-      "link": "https://telex.hu/belfold/2026/08/03/mvm-paks-szivattyu-balasy-gyula-fradi-kubatov-gabor-szponzoracio-new-land-media",
-      "summary": "Az energetikai cég korábban a békemeneteket szervező CÖF-öt is támogatta."
-    },
-    {
-      "title": "Oroszok által ukránnak mondott drón zuhant le egy strandon, heten meghaltak",
-      "link": "https://telex.hu/kulfold/2026/08/03/orosz-ukran-haboru-dron-tamadas-gelendzsik",
-      "summary": "Tizenheten kórházba kerültek Gelendzsik üdülővárosban. Az orosz szemtanúk lövéseket hallottak a becsapódás előtt."
-    },
-    {
-      "title": "Svájcban eddig ismeretlen ortobunyavírust mutattak ki tejelő szarvasmarháknál",
-      "link": "https://telex.hu/gazdasag/2026/08/03/svajcban-eddig-ismeretlen-ortobunyavirust-mutattak-ki-tejelo-szarvasmarhaknal",
-      "summary": "Az ország több régiójában megszaporodtak az állatokat érintő megbetegedések, amelyek lázzal, hasmenéssel és a tejtermelés jelentős visszaesésével járnak."
-    },
-    {
-      "title": "Habony Árpád lakcíme két céges irat szerint is most már az olaszországi Varesében van",
-      "link": "https://telex.hu/gazdasag/2026/08/03/habony-arpad-varese-villa-olaszorszag",
-      "summary": "Július végén írták át a címet a cégjegyzékben. Ezen az észak-olaszországi településen korábban egy kormányhoz köthető kör vett egy luxusvillát."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "RTL-fricska a Tények utáni TV2-nek: A lényeg az, hogy nekünk továbbra is a tények a legfontosabbak",
+      "link": "https://444.hu/2026/08/04/rtl-fricska-a-tenyek-utani-tv2-nek-a-lenyeg-az-hogy-nekunk-tovabbra-is-a-tenyek-a-legfontosabbak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Odaszúrtak az RTL Híradó műsorvezetői a konkurenciának, miközben a TV2 a „Tények” beszántása után hetekkel újraindította hírszolgáltatását."
+    },
+    {
+      "title": "Így néz ki most a Duna Budapestnél",
+      "link": "https://444.hu/2026/08/04/igy-nez-ki-most-a-duna-budapestnel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Lánchídnál is előbukkant a meder."
+    },
+    {
+      "title": "Traktort lopott a balga bőszénfai belga, azzal akart hazamenni, és el is jutott vele egészen messzire",
+      "link": "https://444.hu/2026/08/04/traktort-lopott-a-balga-boszenfai-belga-azzal-akart-hazamenni-es-el-is-jutott-vele-egeszen-messzire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Persze azért nem Belgiumba."
+    },
+    {
+      "title": "A paksi erőmű bővítésére hivatkozva százszoros áron vehettek legelőket és erdőket a környéken, Hadházy Ákos feljelentést tesz",
+      "link": "https://444.hu/2026/08/04/a-paksi-eromu-bovitesere-hivatkozva-szazszoros-aron-vehettek-legeloket-es-erdoket-a-kornyeken-hadhazy-akos-feljelentest-tesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Volt olyan terület, amelyet hektáronként 150 millió forintért vették meg a tulajdonosoktól."
+    },
+    {
+      "title": "Már csak az amerikaiak 35 százaléka elégedett Donald Trump elnöki produkciójával",
+      "link": "https://444.hu/2026/08/04/mar-csak-az-amerikaiak-35-szazaleka-elegedett-donald-trump-elnoki-produkciojaval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Mérgesek a benzinárak miatt, ezért gazdaságpolitikai kérdésekben hitelesebbnek látják most már a demokratákat."
+    },
+    {
+      "title": "40 milliárd forintot költött az Orbán-kormány külföldi ingatlanok vásárlására 16 év alatt",
+      "link": "https://444.hu/2026/08/04/40-milliard-forintot-koltott-az-orban-kormany-kulfoldi-ingatlanok-vasarlasara-16-ev-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A luxus sokszor fontosabb volt, mint a hasznosság."
+    },
     {
       "title": "Török teherhajót lőhettek ki az ukránok Novorosszijszknál",
       "link": "https://444.hu/2026/08/04/torok-teherhajot-lohettek-ki-az-ukranok-novorosszijszknal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A kameruni zászló alatt hajózó Nadezhda legénységének zöme is török volt."
     },
     {
-      "title": "Újabb melegrekord, de picit emelkedő vízszint Budapestnél",
+      "title": "Magyar Péter szerint pár milliméterre voltunk a Paksi Erőmű teljes lekapcsolásától – Budapestnél picit már emelkedik a vízszint",
       "link": "https://444.hu/2026/08/04/ujabb-melegrekord-de-picit-emelkedo-vizszint-budapestnel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Izzadjon velünk percről percre."
     },
@@ -122,130 +152,95 @@
       "title": "Visszatérő híradók, újabb melegrekordok",
       "link": "https://444.hu/2026/08/04/visszatero-hiradok-ujabb-melegrekordok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Szijjártó Péter és a sajtószabadság. Szakértői kinevezések a külügynél. Minek látszik a ceutai válság? Ekkorát még nem hallgattak az oroszok terrortámadásról. Itt a 444 napindító hírlevele."
-    },
-    {
-      "title": "Bóvlira minősítették Mészáros Lőrincék kötvényeit",
-      "link": "https://444.hu/2026/08/03/bovlira-minositettek-meszaros-lorincek-kotvenyeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A független hitelminősítők számításba vették, hogy a kormányváltás miatt változhat a közbeszerzési gyakorlat."
-    },
-    {
-      "title": "Magyar Péter felszólította Mészáros Lőrincet, hogy tekerje le az egyik gyárát",
-      "link": "https://444.hu/2026/08/03/magyar-peter-felszolitotta-meszaros-lorincet-hogy-tekerje-le-az-egyik-gyarat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Azt üzente az oligarchának, hogy még nem késő önkéntes felajánlást tenni."
-    },
-    {
-      "title": "Sok jel utal arra, hogy a ceutai válság nem egészen az volt, aminek elsőre látszott",
-      "link": "https://444.hu/2026/08/03/sok-jel-utal-arra-hogy-a-ceutai-valsag-nem-egeszen-az-volt-aminek-elsore-latszott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Volt, aki szerint a marokkói rendőrök azt kiabálták nekik: „Most fussatok, rohanjatok Spanyolországba!” Úgy tűnik, mintha a spanyol exklávékba irányuló migráció pont akkor növekedne, amikor a marokkói vezetés fel akarná hívni a figyelmet a jószomszédi viszony fontosságára. Vagy épp arra, hogy Spanyolországnak nem kellene túlságosan közel kerülni Algériához."
-    },
-    {
-      "title": "Visszatér a közmédiához Borsa Miklós, aki elismerte, hogy hazudott az M1 Híradójában",
-      "link": "https://444.hu/2026/08/03/visszater-a-kozmediahoz-borsa-miklos-aki-elismerte-hogy-hazudott-a-kozmediaban-az-m1-hiradojaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Híradó új főszerkesztője pedig az Echo TV-t is megjárta."
-    },
-    {
-      "title": "Topligából topligába 36 évesen: Gulácsi a Villarrealba igazolt",
-      "link": "https://444.hu/2026/08/03/topligabol-topligaba-36-evesen-gulacsi-a-villarealba-igazolt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Új csapata a spanyol bajnokság bronzérmese."
-    },
-    {
-      "title": "A Mandiner felfüggeszti a hetilap kiadását",
-      "link": "https://444.hu/2026/08/03/a-mandiner-felfuggeszti-a-hetilap-kiadasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Büszkék az elmúlt hét évre, köszönik az olvasóknak."
     }
   ],
   "HVG": [
     {
-      "title": "Százszorosan túlárazott földmutyiról ír Hadházy Ákos Paks II. kapcsán",
-      "link": "https://hvg.hu/gazdasag/20260804_foldmutyi-tularazas-paks-ii-ingatlan-hadhazy-akos",
-      "summary": "A paksi projektet vivő cég 2018 óta 32 milliárd forintért vásárolt olyan földeket, amelyek jó részére még csak szükséges sem volt. Volt olyan erdő, amit a piacihoz képest százszor drágábban vettek meg."
+      "title": "Mészáros Lőrinc gyára cáfolta Magyar Péter vádját",
+      "link": "https://hvg.hu/kkv/20260804_meszaros-lorinc-kall-ingredients-opus-titasz-hunguest-magyar-peter-mavir",
+      "summary": "Szerintük rövid időn belül válaszoltak a Mavir kérésére, hogy csökkentsék az áramfogyasztásukat."
     },
     {
-      "title": "Enyhén emelkedett a Duna vízszintje Budapestnél – híreink a rendkívüli hőségről és az energiaválságról",
-      "link": "https://hvg.hu/itthon/20260804_hoseg-kanikula-szarazsag-energiavalsag-percrol-percre-ebx",
-      "summary": "Kedden 41 fokos maximumokat hoz a rendkívüli hőség, amely a munkahét végéig biztosan velünk marad. Percről percre tudósításunk a kritikus hét második napjáról."
+      "title": "Magyar Péter: A legnehezebb és legkritikusabb éjszakán vagyunk túl",
+      "link": "https://hvg.hu/itthon/20260804_energiavalsag-magyar-peter-hoseg-paksi-atomeromu-duna-ebx",
+      "summary": "A miniszterelnök szerint bár már látszik a fény az alagút végén, a következő napok is nehezek lesznek."
     },
     {
-      "title": "Elszabadult kerék csapódott egy terepjáróba az autópályán – videó",
-      "link": "https://hvg.hu/cegauto/20260804_egy-elszabadult-kerek-csapodott-egy-terepjaroba-az-autopalyan",
-      "summary": "Esélytelen volt a vétlen sofőr, hogy elkerülje a balesetet."
+      "title": "Karácsony Gergely: A fiatal fákat és cserjéket locsolni kell, különben nem élik túl a nyarat",
+      "link": "https://hvg.hu/itthon/20260804_karacsony-gergely-locsolas-aszaly-vizhiany-budapest-fokert",
+      "summary": "A főpolgármester szerint van, ahol lehet nélkülözni az öntözést, azonban a fiatal fákra különösen figyelni kell."
     },
     {
-      "title": "Siófokon már home office-olnak az önkormányzati dolgozók",
-      "link": "https://hvg.hu/gazdasag/20260804_siofok-home-office-viztorony-szokokut-vizhiany",
-      "summary": "Leálltak a szökőkutak és bezárt a víztorony is."
+      "title": "Aszpirinnel akarja megelőzni a vastagbéldaganatot? Lehet, hogy rosszul teszi",
+      "link": "https://hvg.hu/tudomany/20260804_aszpirin-vastagbeldaganat-megelozese-kockazatok",
+      "summary": "Egy nagyszabású kutatás annak a kérdésnek a nyomában eredt, hogy vajon tényleg van-e az aszpirinnek vastagbéldaganatot megelőző hatása. A kutatók végül arra az eredményre jutottak, hogy az ilyesfajta előny nem garantált, viszont jóval valószínűbb, hogy a hosszú távú aszpirinszedés súlyos problémákat okoz."
     },
     {
-      "title": "Aknába esett két ló Lothárdon, tűzoltók emelték ki őket – fotók",
-      "link": "https://hvg.hu/elet/20260804_lothard-tuzoltosag-aknaba-esett-lovak-fotok",
-      "summary": "Beszakadt alattuk a beton fedlap."
+      "title": "Előbb a kaput törte le, végül két gyalogost gázolt el egy idős sofőr Debrecenben",
+      "link": "https://hvg.hu/cegauto/20260804_kapubejarobol-kihajtva-okozott-sulyos-balesetet-egy-idos-ferfi",
+      "summary": "Végleg eltilthatják a vezetéstől."
     },
     {
-      "title": "Zelenszkij leváltotta Ukrajna washingtoni nagykövetét, vádat emelhetnek ellene",
-      "link": "https://hvg.hu/vilag/20260804_ukrajna-egyesult-allamok-olha-sztefanisina-levaltas-nagykovet-volodimir-zelenszkij",
-      "summary": "Olha Sztefanisina ügyében esetleges visszalélések miatt vizsgálódik az Ukrajnai Nemzeti Korrupcióellenes Hivatal."
+      "title": "60 éve debütált a legendás Miura, új modellel emlékezik rá a Lamborghini",
+      "link": "https://hvg.hu/cegauto/20260804_60-eve-debutalt-a-legendas-miura-uj-modellel-emlekezik-lamborghini-revuelto",
+      "summary": "A Lamborghini Revuelto Miura 60° Homage közel háromszor erősebb az eredeti Miuránál."
     },
     {
-      "title": "Magyarországon a Skoda rekordnagy aksis villanyautója, a 7 üléses hatalmas Peaq",
-      "link": "https://hvg.hu/cegauto/20260804_magyarorszagon-a-skoda-rekordnagy-aksis-villanyautoja-a-7-uleses-hatalmas-peaq",
-      "summary": "Megkezdődött a még a Kodiaqnál is nagyobb új Skoda, a teljesen elektromos Peaq hazai forgalmazása."
+      "title": "Halálos baleset a körútnál: volt behajtási engedélye a betonkeverőnek",
+      "link": "https://hvg.hu/itthon/20260804_betonkevero-baleset-budapest-behajtasi-engedely",
+      "summary": "A balesetben egy 23 éves kerékpáros vesztette életét. Megszólalt a Budapest Közút és a Strabag is."
     },
     {
-      "title": "Kikértük az adatokat, több tízmilliárdot költött az Orbán-állam külföldi ingatlanokra – a luxus sokszor fontosabb volt, mint a hasznosság",
-      "link": "https://hvg.hu/360/20260804_allami-ingatlan-tulajdon-kulfoldon-orban-kormanyok-kozerdeku-adatigenyles-hvg-ebx",
-      "summary": "Hiába van még Észak-Koreában is ingatlantulajdona Magyarországnak, az Orbán-kormány 16 évében tízmilliárdok mentek el reprezentatív külföldi épületek megvásárlására Washingtontól Teheránig – derült ki a HVG közérdekű adatigénylése nyomán. Mennyibe került a rekorder, a kulturális célokra megvásárolt Magyar Ház a londoni City közepén?"
+      "title": "Szépen megtollasodnak az olajcégek az amerikai-iráni háborún",
+      "link": "https://hvg.hu/kkv/20260804_bp-exxon-shell-aramco-nyereseg-koolaj-irani-haboru-hormuz",
+      "summary": "A BP az elmúlt négy év legerősebb negyedévét produkálta, a szaúd-arábiai állami olajcég profitja is 33 százalékkal emelkedett."
     },
     {
-      "title": "Már halálos áldozatai is vannak az Egyesült Államokban terjedő bélfertőzésnek",
-      "link": "https://hvg.hu/vilag/20260804_egyesult-allamok-cyclosporiasis-belfertozes-halalos-aldozatok",
-      "summary": "Az eddigi vizsgálatok a tömeges fertőzés forrásaként zöld salátákat állapítottak meg."
+      "title": "Minden felhasználót érint: jön a Windows 11 nagy átszabása",
+      "link": "https://hvg.hu/tudomany/20260804_microsoft-windows-11-optimalizalas-ram-memoria",
+      "summary": "A Microsoft optimalizálja a Windows 11-et, hogy az kevesebb memóriával is könnyebben el tudjon futni."
     },
     {
-      "title": "Hivatalos: Gulácsi Péter a Villarrealhoz igazolt",
-      "link": "https://hvg.hu/sport/20260804_labdarugas-gulacsi-peter-atigazolas-rb-leipzig-villarreal",
-      "summary": "A magyar kapus ősztől a Bajnokok Ligája főtábláján szerepelhet a spanyol klubbal."
+      "title": "AI-generált reklámok terjednek Majkáról",
+      "link": "https://hvg.hu/elet/20260804_majka-visszaeles-kamu-posztok-ai-tartalom-hirdetesek",
+      "summary": "Kaszinós hirdetések, kamuoldalak terjednek a népszerű előadó képeit, videóit felhasználva – erre ő maga hívta fel a figyelmet az igazi közösségi oldalán."
     },
     {
-      "title": "Vörösbe borult az ország, több helyen 41 fok is lehet",
-      "link": "https://hvg.hu/itthon/20260804_idojaras-hoseg-kanikula-voros-veszelyjelzes",
-      "summary": "Várhatóan szinte mindenhol 29 fok felett alakul a napi középhőmérséklet kedden."
+      "title": "Öten meghaltak egy moszkvai régiót ért ukrán dróntámadásban",
+      "link": "https://hvg.hu/vilag/20260804_oroszorszag-ukrajna-haboru-drontamadas-moszkvai-regia-halalos-aldozatok",
+      "summary": "Az ukrán haderő a Wildberries raktárait célozta."
     },
     {
-      "title": "Hétvégére talán emelkedhet a Duna vízszintje – Newscast",
-      "link": "https://hvg.hu/itthon/20260804_hetvegere-talan-emelkedhet-a-duna-vizszintje-newscast",
-      "summary": "Változatlanul meleg van, de egy csütörtöki osztrák eső talán segíthet. Megújul a Külügyi Intézet, nagynevű szakértőket igazoltak. Meghalt Szelényi Iván. Kirúgja a FIFA Infantinót? Ez a Newscast, a HVG hétköznapokon jelentkező hírpodcastja."
+      "title": "Se turbó, se hibrid technika, se érintőkijelző: kulisszás kéziváltós új analóg szuperautó érkezett",
+      "link": "https://hvg.hu/cegauto/20260804_se-turbo-se-hibrid-technika-se-erintokijelzo-kulisszas-kezi-valtos-uj-analog-szuperauto-hennessey-blackbird",
+      "summary": "Az őszinte szívómotoros, kéziváltós és hátsókerék-hajtású Hennessey Blackbird sokak számára valódi felüdülést jelent digitális világunkban."
     },
     {
-      "title": "Zsúfolt orosz strandon csapódott be egy ukrán drón – heten meghaltak és sokan megsebesültek",
-      "link": "https://hvg.hu/vilag/20260803_orosz-strand-ukran-dron-tamadas",
-      "summary": "A szakértők szerint a drónt a légvédelem lőhette le, vagy elektronikusan téríthették el."
+      "title": "A Mercedes is elismerte, túlzás volt száműzni a gombokat az autókból",
+      "link": "https://hvg.hu/cegauto/20260804_mercedes-fizikai-gombok-visszaternek-autok-erintokepernyo",
+      "summary": "Visszatérnek a fizikai kapcsolók, de az óriáskijelzők azért maradnak."
     },
     {
-      "title": "Donald Trump: Ez Irán utolsó esélye egy jó megállapodásra, remélhetőleg észhez térnek",
-      "link": "https://hvg.hu/vilag/20260803_donald-trump-usa-iran-hormuzi-szoros-targyalas",
-      "summary": "Az elnök azt állította, a Hormuzi-szoros akár már holnap teljes mértékben megnyílhat."
+      "title": "Négy járművel is próbálkozott, végül traktorral menekült egy belga férfi Bőszénfán",
+      "link": "https://hvg.hu/cegauto/20260804_belga-ferfi-traktort-lopott-hogy-hazajusson",
+      "summary": "Egy kertkaput kitörve hajtott el."
     },
     {
-      "title": "A kormány felülvizsgálja a hiteltámogatásokat és garanciákat",
-      "link": "https://hvg.hu/gazdasag/20260803_hiteltamogatas-garancia-felulvizsgalat",
-      "summary": "Az a cél, hogy csökkenjen az állami kockázatmegosztás."
+      "title": "Gajdos László az akkugyárak körmére néz, elindult a régóta ígért ellenőrzés",
+      "link": "https://hvg.hu/gazdasag/20260804_akkumulatorgyar-ellenorzes-mukodesi-lanc-vizsgalat-gajdos-laszlo",
+      "summary": "A vizsgálat kiterjed az üzemek tényleges kapacitására, anyagfelhasználására, kibocsátására, vízhasználatára és hulladékgazdálkodására is."
     }
   ],
   "BBC": [
-    {
-      "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
-      "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says."
-    },
     {
       "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
       "link": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
       "summary": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn."
     },
     {
-      "title": "EU calls for stronger borders after Ceuta migrant crossings",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
     },
     {
       "title": "There's a reason child vaccination rates are falling - and it's not social media",
@@ -253,9 +248,9 @@
       "summary": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations"
     },
     {
-      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
-      "link": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher."
+      "title": "EU calls for stronger borders after Ceuta migrant crossings",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue."
     },
     {
       "title": "Thunderstorms and flash flood risk on final day of UK heatwave",
@@ -263,22 +258,17 @@
       "summary": "More places in southern and eastern England are expected to reach heatwave criteria on Tuesday but cooler temperatures are on the horizon."
     },
     {
-      "title": "West Ham co-owner David Sullivan advised to stay away from home matches",
-      "link": "https://www.bbc.co.uk/news/articles/c77gzjjmgleo?at_medium=RSS&at_campaign=rss",
-      "summary": "London Stadium recommends West Ham's co-owner stay away amid fears of fan unrest following sexual misconduct claims."
+      "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+      "link": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star told fans at her Chicago show on Monday that \"boundaries need to be set\"."
     },
     {
-      "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "link": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea."
+      "title": "Five dead in Moscow region as Ukraine continues warehouse strikes",
+      "link": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Facilities in St Petersburg and Tver were also hit, while at least one was killed in Russian strikes on Ukraine."
     },
     {
-      "title": "US states sue to block Trump tariffs impacting dozens of countries",
-      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour."
-    },
-    {
-      "title": "Half price rail travel extended to 18-year-olds",
+      "title": "More than 70,000 extra students to get half-price rail travel",
       "link": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
       "summary": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18."
     },
@@ -298,14 +288,24 @@
       "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\"."
     },
     {
-      "title": "What heatwaves mean for summer weddings – and how to plan for one",
+      "title": "Heatwaves are changing summer weddings - here's how to plan for one",
       "link": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
       "summary": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up."
+    },
+    {
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls."
     },
     {
       "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
       "link": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
       "summary": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa."
+    },
+    {
+      "title": "Everything you need to know about Scottish exam results day 2026",
+      "link": "https://www.bbc.co.uk/news/articles/c720948npplo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 148,000 people across Scotland will receive their results on Tuesday."
     }
   ],
   "TechCrunch": [
@@ -385,81 +385,5 @@
       "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing."
     }
   ],
-  "Nature": [
-    {
-      "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
-      "link": "https://www.nature.com/articles/s41586-026-10957-y",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10957-y\">doi:10.1038/s41586-026-10957-y</a></p>Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis"
-    },
-    {
-      "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
-      "link": "https://www.nature.com/articles/s41586-026-10943-4",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10943-4\">doi:10.1038/s41586-026-10943-4</a></p>Author Correction: Maturation and circuit integration of transplanted human cortical organoids"
-    },
-    {
-      "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
-      "link": "https://www.nature.com/articles/d41586-026-02339-1",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02339-1\">doi:10.1038/d41586-026-02339-1</a></p>A combination of drugs restores stem-cell function in mouse models of the blood disorder."
-    },
-    {
-      "title": "Venus’s rift valleys could be its secret to staying active",
-      "link": "https://www.nature.com/articles/d41586-026-02372-0",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02372-0\">doi:10.1038/d41586-026-02372-0</a></p>The nature of geological dynamics on Venus are fiercely debated — the planet’s steep rift valleys could be evidence of ongoing tectonic activity."
-    },
-    {
-      "title": "Plans for nuclear-powered merchant ships must confront risks",
-      "link": "https://www.nature.com/articles/d41586-026-02388-6",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02388-6\">doi:10.1038/d41586-026-02388-6</a></p>Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations."
-    },
-    {
-      "title": "Cancer-fighting antibodies with a one-two punch take aim at tumours",
-      "link": "https://www.nature.com/articles/d41586-026-02398-4",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02398-4\">doi:10.1038/d41586-026-02398-4</a></p>Bispecific antibodies, which bind to two targets, are sweeping into the clinic and are prompting even more elaborate versions."
-    },
-    {
-      "title": "Science-backed tips on how to avoid distractions",
-      "link": "https://www.nature.com/articles/d41586-026-01850-9",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01850-9\">doi:10.1038/d41586-026-01850-9</a></p>Struggling to stay focused in the lab? Attention researchers offer some advice."
-    },
-    {
-      "title": "‘A waste of time for all of us’: caught in the crossfire of the peer-review wars",
-      "link": "https://www.nature.com/articles/d41586-026-01360-8",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01360-8\">doi:10.1038/d41586-026-01360-8</a></p>Review mills — researchers who write fake referee reports with coercive citation requests — are setting off a war in academic publishing. What happens to those caught in the middle?"
-    },
-    {
-      "title": "Controversial White House plan to overhaul US science funding faces Senate opposition",
-      "link": "https://www.nature.com/articles/d41586-026-02436-1",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02436-1\">doi:10.1038/d41586-026-02436-1</a></p>Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful."
-    },
-    {
-      "title": "The secret relationships that govern life on Earth",
-      "link": "https://www.nature.com/articles/d41586-026-02387-7",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02387-7\">doi:10.1038/d41586-026-02387-7</a></p>Books on parasitism and symbiosis inspire wonder at the strange ways in which species’ lives intertwine."
-    },
-    {
-      "title": "Want to get more from AI? Treat every prompt like an experiment",
-      "link": "https://www.nature.com/articles/d41586-026-02083-6",
-      "summary": "<p>Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02083-6\">doi:10.1038/d41586-026-02083-6</a></p>Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right."
-    },
-    {
-      "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
-      "link": "https://www.nature.com/articles/s41586-026-10921-w",
-      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/s41586-026-10921-w\">doi:10.1038/s41586-026-10921-w</a></p>Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores"
-    },
-    {
-      "title": "Briefing Chat: Orcas smashed a sunfish to bits — researchers aren’t sure why",
-      "link": "https://www.nature.com/articles/d41586-026-02419-2",
-      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02419-2\">doi:10.1038/d41586-026-02419-2</a></p>Nature staff discuss a massive survey of insects in the Amazon, and unusual orca behaviour caught on video."
-    },
-    {
-      "title": "The physics of fizz: why some bubbles are louder than others",
-      "link": "https://www.nature.com/articles/d41586-026-02334-6",
-      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02334-6\">doi:10.1038/d41586-026-02334-6</a></p>A high-speed camera and underwater microphones help scientists to investigate a puzzle about bubbles."
-    },
-    {
-      "title": "The power of ignorance and peering into the Milky Way: Books in brief",
-      "link": "https://www.nature.com/articles/d41586-026-02371-1",
-      "summary": "<p>Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02371-1\">doi:10.1038/d41586-026-02371-1</a></p>Andrew Robinson reviews five of the best science picks."
-    }
-  ]
+  "Nature": []
 }

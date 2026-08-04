@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Dunai körkép Európából: felszínre került náci hajóroncs, mamutcsontok, zátonyra futott szállodahajó",
+      "link": "https://telex.hu/kulfold/2026/08/04/duna-alacsony-vizallas-nemetorszag-ausztria-szerbia-romania-bulgaria-hajozas",
+      "summary": "Egyes híresztelésekkel ellentétben a Felső-Dunán sincs elég víz, apad a folyó Németországtól Romániáig, de országoktól függően különböző mértékben súlyos a helyzet. Az eltűnő víz nyomában leálló erőművek, veszteglő hajóflották, a mederből előkerülő világháborús aknák és motorok maradnak."
+    },
+    {
+      "title": "Ejtették a vádat az olimpikon ellen, akit a Lincoln medence rongálásával gyanúsítottak",
+      "link": "https://telex.hu/kulfold/2026/08/04/feher-haz-medence-donald-trump-vandalizmus",
+      "summary": "Most jogi lépéseket fontolgat."
+    },
+    {
       "title": "Paksi energiakrízis: három évtized mulasztásai köszönnek vissza a mostani válságos időszakban",
       "link": "https://telex.hu/gazdasag/2026/08/04/energiakrizis-harom-evtized-mulasztasai-koszonnek-vissza-a-mostani-valsagos-idoszakban",
       "summary": "Rossz energiamix, a klímaváltozás negligálása, hiányzó nagyerőművek – sok minden közrejátszott abban, hogy ennyire más országoktól függ az áramellátásunk. Nagy energetikai fejlesztésekre évtizedek óta nem jutott pénz, de 2010 óta különösen hiányoztak a kedvező lépések."
@@ -64,16 +74,6 @@
       "title": "Budapest történelmének fontos darabját mutatja meg nekünk a rekordalacsony vízállású Duna",
       "link": "https://telex.hu/belfold/2026/08/04/ferenc-jozsef-hid-roncsok-duna-alacsony-vizallas",
       "summary": "A második világháború óta eddig csak egy olyan alkalom volt, amikor a Ferenc József híd Dunába robbantott darabjai szabad szemmel is láthatóvá váltak. Most megint bárki láthatja a Szabadság híd elődjét, amit állítólag a németek, de az is lehet, hogy a szovjetek romboltak le a második világháborúban."
-    },
-    {
-      "title": "Ismerős a horvát tengerpartokról a „private beach” felirat? Ne dőljön be neki!",
-      "link": "https://telex.hu/kulfold/2026/08/04/horvatoszag-strandok-lezaras-magyar-turistak",
-      "summary": "Szinte az összes horvát strandon szabad fürödni, még akkor is, ha a strand egy szálloda, kemping, apartmanház vagy magánvilla előtt van."
-    },
-    {
-      "title": "Vesztegetési ügyben hírbe hozott orvost akart vezetői posztra kinevezni az Egészségügyi Minisztérium",
-      "link": "https://telex.hu/belfold/2026/08/04/soos-zoltan-gaziorvos-egeszsegugyi-miniszterium-vesztegetes",
-      "summary": "A 24.hu cikke szerint Soós Zoltán volt a háziorvos, aki ellen nyomoztak 2023-ban vesztegetés miatt, a tárca szerint már nem őt jelölik az országos kollegiális szakmai vezető háziorvosi posztra."
     }
   ],
   "Portfolio": [],
@@ -94,7 +94,7 @@
       "summary": "A találkozón a tagállamok ugyanakkor elismerték Spanyolország gyors és hatékony fellépését a válság kezelésében. Magyarországot Pósfai Gábor belügyminiszter képviselte."
     },
     {
-      "title": "A Magyar Rádió kedd este bemutatja a 12 éve kicenzúrázott hangjátékot, ami a könyvemből készült. Ez itt a sztorija",
+      "title": "A Kossuth Rádió kedd este bemutatja a 12 éve kicenzúrázott hangjátékot, ami a könyvemből készült. Ez itt a sztorija",
       "link": "https://444.hu/2026/08/04/a-magyar-radio-kedd-este-bemutatja-a-12-eve-kicenzurazott-hangjatekot-ami-a-konyvembol-keszult-ez-itt-a-sztorija?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "2014-ben készült, közpénzből, csodás színészekkel,  szerkesztőkkel, rendezővel és dramaturggal. Már benne volt a print rádióújságban, amikor rájöttek, hogy ki írta."
     },
@@ -258,14 +258,19 @@
       "summary": "Gianni Infantino summons senior leaders to a meeting on Wednesday, after facing more fierce criticism of his plan to sell off Fifa's commercial and event operations."
     },
     {
-      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-      "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
-    },
-    {
       "title": "Princess Eugenie gives birth to baby girl in Portugal",
       "link": "https://www.bbc.co.uk/news/articles/cpq81pxw5gro?at_medium=RSS&at_campaign=rss",
       "summary": "The daughter of Andrew Mountbatten-Windsor and Sarah Ferguson welcomed her third child on Monday."
+    },
+    {
+      "title": "Major search under way for boy, 13, missing at sea",
+      "link": "https://www.bbc.co.uk/news/articles/cy0jy632d2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Emergency services were called to Hornsea, East Yorkshire, at about 18:00 BST."
+    },
+    {
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City."
     },
     {
       "title": "Bono, Eddie Vedder and Hozier among mourners at Glen Hansard's funeral",
@@ -278,19 +283,14 @@
       "summary": "Police Scotland said it had received reports of various athletes \"unaccounted for\" in the aftermath of the Games, which concluded on Sunday."
     },
     {
+      "title": "Care company fined for running illegal children's homes in legal first",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dp559w4no?at_medium=RSS&at_campaign=rss",
+      "summary": "The company pleaded guilty to failing to register three homes after being prosecuted by Ofsted."
+    },
+    {
       "title": "Justice secretary apologises to families affected by early release scheme",
       "link": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
       "summary": "Some offenders will be barred from the scheme, but families say it comes \"at the expense of victims\"."
-    },
-    {
-      "title": "Scottish exam pass rates rise as students find out results",
-      "link": "https://www.bbc.co.uk/news/articles/c8xn11nv12do?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 148,000 learners across the country received their results as details of this year's pass rates were published."
-    },
-    {
-      "title": "Surgeon struck off after wrongly connecting organs",
-      "link": "https://www.bbc.co.uk/news/articles/c20de8z2w2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "An expert witness said the bowel procedure carried out by the surgeon was \"not known to man\"."
     },
     {
       "title": "How Italians are avoiding the worst of the heat this summer",
@@ -309,6 +309,21 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+    },
+    {
+      "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+      "link": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+      "summary": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June."
+    },
+    {
+      "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
+      "link": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
+      "summary": "New findings by the Electronic Frontier Foundation aim to warn app developers that some of the third-party code they place in their apps may also collect their users' location data when they grant permission to the app."
+    },
     {
       "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
       "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
@@ -367,22 +382,7 @@
     {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
-    },
-    {
-      "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-      "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-      "summary": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!"
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
-    },
-    {
-      "title": "Spotify now has over 300M subscribers",
-      "link": "https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/",
-      "summary": "Notably, the company saw its subscriber base swell by 9% in the second quarter despite raising prices in several regions this year."
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
     }
   ],
   "Nature": [

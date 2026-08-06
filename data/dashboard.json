@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Szombaton szavaz a Tisza-frakció az államfőjelöltjéről",
-      "summary": "A Tisza Párt frakciója szombaton ül össze, hogy eldöntse, kit jelöl köztársasági elnöknek. Ez a politikai esemény fontos lépés a párt számára az államfői posztért folytatott versenyben.",
+      "title": "Meghalt egy férfi, amikor egy bozóttűz átterjedt a kiskunfélegyházi tanyájára",
+      "summary": "Egy kiskunfélegyházi férfi tragikusan életét vesztette, amikor tanyájára átterjedt egy bozóttűz. Az eset rávilágít a nyári tűzvészek veszélyeire és a megelőzés fontosságára.",
       "importance": 5
     },
     {
-      "title": "Kiderült, hogy Orbán Gáspár hatszor utazott Csádba és Nigerbe a honvédség valamelyik repülőgépén",
-      "summary": "Orbán Gáspár, a miniszterelnök fia, hatszor utazott Csádba és Nigerbe a Magyar Honvédség repülőgépeivel. Az utazások célja és jellege körül vita alakult ki, ami politikai kérdéseket vet fel.",
-      "importance": 4
+      "title": "Döntött a kormány, uniós pénzből fejlesztik a hálózatot és új szélerőműparkok épülhetnek",
+      "summary": "A kormány uniós forrásokból fejleszti a hálózatot és új szélerőműparkok építését teszi lehetővé. Ez a döntés jelentős lépés az ország energiafüggetlenségének és zöld átállásának előmozdításában.",
+      "importance": 5
     },
     {
-      "title": "A magyar külügyminiszter Szlovákia segítségét kéri Magyarország vízellátásának biztosításához",
-      "summary": "A magyar külügyminiszter Szlovákia segítségét kérte az ország vízellátásának stabilizálásához, különös tekintettel a vízhiányos időszakokra. Ez a diplomáciai lépés rávilágít a regionális vízügyi kihívásokra és az együttműködés fontosságára.",
+      "title": "Bezár az egyik legnagyobb magyar kerékpárgyár, közel 500 dolgozót küldhetnek el",
+      "summary": "Bezár az egyik legnagyobb magyarországi kerékpárgyár, ami közel 500 dolgozó elbocsátásával járhat. Ez súlyos csapás a helyi gazdaságnak és a munkavállalóknak.",
       "importance": 4
     },
     {
       "title": "800 millióért kötött szerződéseket a HM cége a Lounge Eventtel, a miniszter feljelentést tett",
-      "summary": "A Honvédelmi Minisztérium egyik cége 800 millió forint értékben kötött szerződéseket a Lounge Eventtel. A miniszter feljelentést tett az ügyben, amely korrupciógyanút vet fel és vizsgálatot indított.",
+      "summary": "A Honvédelmi Minisztérium cége 800 millió forint értékű szerződéseket kötött egy céggel, ami miatt a miniszter feljelentést tett. Az ügy felveti a közbeszerzések átláthatóságának kérdését és korrupciógyanút vet fel.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Fekete füst gomolyog két eltalált orosz olajfinomító fölött",
-      "summary": "Ukrajna több száz drónnal támadta meg az egyik legnagyobb orosz olajfinomítót, amely súlyosan megsérült. Az incidens tovább fokozza a feszültséget az orosz-ukrán háborúban, és hatással lehet az orosz energiatermelésre.",
+      "title": "Zelenszkij bejelentette, hogy csapást mértek két, Oroszország belsejében működő olajfinomítóra",
+      "summary": "Volodimir Zelenszkij bejelentette, hogy Ukrajna sikeresen csapást mért két oroszországi olajfinomítóra. Ezek a támadások az orosz háborús kapacitások gyengítését célozzák, és a konfliktus eszkalációját jelenthetik.",
       "importance": 5
     },
     {
-      "title": "Fiatal nők számoltak be nemi erőszakról és zaklatásról egy brit katonai akadémián",
-      "summary": "Fiatal nők meséltek a BBC-nek nemi erőszakról, támadásokról és zaklatásról egy tinédzsereknek szóló brit katonai kiképzőiskolában. Az esetek súlyos etikai és biztonsági kérdéseket vetnek fel a katonai intézményekben.",
-      "importance": 5
-    },
-    {
-      "title": "Irán szerint a Hormuzi-szorosra vonatkozó megállapodás Ománnal a végső fázisban van",
-      "summary": "Irán bejelentette, hogy hamarosan véglegesíti az Ománnal kötött megállapodást a Hormuzi-szorosról. Ez a lépés geopolitikai jelentőségű a globális hajózás és energiaellátás szempontjából, és befolyásolhatja a regionális stabilitást.",
+      "title": "Svédország átadja Ukrajnának a lefoglalt orosz árnyékflotta egyik hajóját",
+      "summary": "Svédország átadja Ukrajnának az általa lefoglalt orosz árnyékflotta egyik hajóját. Ez a lépés jelentős diplomáciai üzenetet hordoz, és további támogatást nyújt Ukrajnának.",
       "importance": 4
     },
     {
-      "title": "Anglia folyóinak és tavainak többsége megbukott egy új környezetvédelmi felmérésen",
-      "summary": "Egy friss környezetvédelmi felmérés szerint Anglia folyóinak és tavainak többsége nem felel meg a környezetvédelmi előírásoknak. Ez komoly aggodalmat kelt a vízszennyezés és az ökoszisztémák állapota miatt az országban.",
+      "title": "Korrupciós botrány Ukrajnában: saját barátnője a volt miniszterelnök-helyettes strómanja",
+      "summary": "Korrupciós botrány robbant ki Ukrajnában, miután kiderült, hogy a volt miniszterelnök-helyettes barátnője strómanként működött. Az eset alááshatja a nemzetközi bizalmat és az ország háborús erőfeszítéseit.",
+      "importance": 4
+    },
+    {
+      "title": "Putyin a nyilvánosság előtt nyomasztotta alapkamat-csökkentésért az orosz jegybank elnökét",
+      "summary": "Vlagyimir Putyin nyilvánosan sürgette az orosz jegybank elnökét az alapkamat csökkentésére. Ez a szokatlan beavatkozás rávilágít a politikai nyomásra az orosz gazdaságirányításban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jeff Dean és más vezető AI kutatók elhagyják a Google-t, hogy saját startupot indítsanak",
-      "summary": "Jeff Dean és több más top mesterséges intelligencia kutató elhagyja a Google-t, hogy új startupot alapítsanak. Ez a jelentős talentumáramlás átrendeződést jelez az AI iparágban.",
+      "title": "OpenAI szerint az Apple biztonsági gyakorlata aláássa a kereskedelmi titkokkal kapcsolatos ügyét",
+      "summary": "Az OpenAI állítása szerint az Apple saját biztonsági gyakorlataival gyengíti a kereskedelmi titkokkal kapcsolatos perét. Az ügy rávilágít a mesterséges intelligencia fejlesztés körüli éles versenyre és jogi kihívásokra.",
       "importance": 5
     },
     {
-      "title": "A Meta is bejelentette, hogy a mesterséges intelligenciája feltört egy másik céget",
-      "summary": "A Meta az utolsó vállalat a sorban, amely bejelentette, hogy mesterséges intelligencia rendszere feltört egy másik céget. Ez komoly etikai és biztonsági aggályokat vet fel az AI rendszerek alkalmazásával kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "A Meta elindítja a Muse Code nevű AI ügynökét nagy kódadatbázisokhoz",
-      "summary": "A Meta bevezette a Muse Code nevű mesterséges intelligencia ügynökét, amelyet nagy kódadatbázisok elemzésére és kezelésére terveztek. Ez az eszköz forradalmasíthatja a szoftverfejlesztési folyamatokat és hatékonyságot.",
+      "title": "Lemond a DeepMind vezetéséről a Google Nobel-díjas tudósa",
+      "summary": "Lemondott a DeepMind, a Google egyik vezető mesterséges intelligencia laboratóriumának irányításáról a cég Nobel-díjas tudósa. Ez a vezetői váltás jelentős hatással lehet az AI kutatások irányára és a DeepMind jövőjére.",
       "importance": 4
     },
     {
-      "title": "Trump igazságügyi minisztériuma felügyeletet szerzett az OpenAI zöldkártya szponzorációja felett",
-      "summary": "Trump igazságügyi minisztériuma felügyeleti jogot szerzett az OpenAI által támogatott zöldkártyás munkavállalói kérelmek felett. Ez a lépés az AI-cégek növekvő politikai és szabályozási ellenőrzését tükrözi az Egyesült Államokban.",
+      "title": "A Meta bemutatta a Muse Code-ot, egy AI-ügynököt nagy kódbázisokhoz",
+      "summary": "A Meta bemutatta a Muse Code-ot, egy mesterséges intelligencia alapú ügynököt, amelyet nagy kódbázisok kezelésére terveztek. Ez az eszköz forradalmasíthatja a szoftverfejlesztés hatékonyságát és sebességét.",
+      "importance": 4
+    },
+    {
+      "title": "A Moove 250 millió dolláros befektetést gyűjtött a robotaxi iparág gerincének kiépítéséhez",
+      "summary": "A Moove 250 millió dolláros befektetést kapott, hogy a robotaxi iparág gerincévé váljon. Ez a tőkeinjekció felgyorsíthatja az önvezető járművek elterjedését és a városi közlekedés átalakulását.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A hulladék műanyag nagy értékű áruvá alakítható egy kémiai trükkel",
-      "summary": "Egy új kémiai eljárásnak köszönhetően a nehezen újrahasznosítható hulladék műanyag magas értékű vegyületekké alakítható. Ez a felfedezés jelentős áttörést hozhat a körforgásos gazdaság és a környezetszennyezés elleni küzdelem terén.",
+      "title": "A hulladék műanyag nagy értékű anyaggá alakul egy kémiai trükkel",
+      "summary": "Egy új kémiai eljárással az értéktelen műanyaghulladék nagy értékű anyaggá alakítható. Ez a felfedezés forradalmasíthatja a műanyag-újrahasznosítást és jelentősen hozzájárulhat a környezetszennyezés csökkentéséhez.",
       "importance": 5
     },
     {
-      "title": "A vakcinák fele a kukában végzi – a hűtés nélkül tárolható változatok megoldást hozhatnak",
-      "summary": "Világszerte a vakcinák közel fele a nem megfelelő tárolási körülmények miatt kidobásra kerül, de a hűtés nélkül tárolható új verziók változást hozhatnak. Ez drámaian növelheti az oltóanyagok hozzáférhetőségét és csökkentheti a pazarlást, különösen a fejlődő országokban.",
+      "title": "Az AI-ügynökök ellenőrzik a tudományos irodalmat és évtizedes hibákat is feltárnak",
+      "summary": "Mesterséges intelligencia ügynökök ellenőrzik a tudományos irodalmat, és évtizedes hibákat is feltárnak. Ez a módszer növelheti a kutatások pontosságát és felgyorsíthatja az új felfedezéseket a tudományban.",
       "importance": 5
     },
     {
-      "title": "Polivinil-klorid (PVC) újrahasznosítása polialfaolefin kenőanyaggá",
-      "summary": "Tudósok kidolgoztak egy módszert a PVC-hulladék újrahasznosítására, és abból értékes polialfaolefin kenőanyagokat állítanak elő. Ez az innováció új utat nyit a nehezen kezelhető műanyaghulladék hasznosításában.",
+      "title": "Vízmegőrzésre van szükség a drasztikus korlátozások elkerüléséhez",
+      "summary": "Sürgősen el kell kezdenünk takarékoskodni a vízzel, különben a közeljövőben drasztikus intézkedésekre kényszerülünk. A vízhiány globális probléma, mely sürgős cselekvést igényel a fenntarthatóság érdekében.",
       "importance": 4
     },
     {
-      "title": "A Kelvin–Helmholtz-instabilitások okozzák a plazma keveredését a Napon",
-      "summary": "Új kutatások szerint a Kelvin–Helmholtz-instabilitások kulcsszerepet játszanak a Napon található plazma keveredésében. Ez a felfedezés mélyebb betekintést nyújt csillagunk dinamikájába és az univerzum alapvető fizikai folyamataiba.",
+      "title": "A vakcinák fele a kukában végzi – a hűtésmentes verziók ezen változtathatnak",
+      "summary": "A vakcinák mintegy fele a nem megfelelő tárolás miatt kerül selejtezésre, de a hűtésmentes változatok áttörést hozhatnak. Ez az innováció jelentősen javíthatja az oltóanyagok elérhetőségét, különösen a fejlődő országokban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Vitális Milán az AEK Athénhoz igazolt, Varga Barnabás után már két magyar a görög klubnál",
-      "summary": "Vitális Milán, a magyar válogatott labdarúgó az AEK Athénhoz igazolt, ezzel csatlakozva Varga Barnabásékhoz. Ez a transzfer jelentős esemény a magyar labdarúgás számára, mivel két nemzeti játékos szerepelhet egy görög topklubban.",
+      "title": "Himnuszbotrány után menedékjog: ausztrál állampolgárok lettek az iráni női focisták",
+      "summary": "Az iráni női focisták menedékjogot kaptak és ausztrál állampolgárok lettek egy himnuszbotrányt követően. Az eset rávilágít a sportolók szabadságáért vívott harcra és a politikai nyomásra a sportban.",
       "importance": 5
+    },
+    {
+      "title": "Gyalogosan keltek át a Dunán a Szigetre, veszélyes a szervezők szerint",
+      "summary": "Több ember megpróbált átgyalogolni a Dunán a Szigetre, amit a fesztiválszervezők a folyó veszélyei miatt kifejezetten nem javasolnak. A szakszerűtlen átkelés komoly balesetveszéllyel jár, és súlyos kockázatot jelenthet a résztvevők számára.",
+      "importance": 2
+    },
+    {
+      "title": "Enyhül a hőség, kedvezőbb lesz az idő a szabadtéri sportokhoz",
+      "summary": "Szombattól enyhülni fog a hőség, ami kellemesebb feltételeket teremt a szabadtéri mozgáshoz és sporttevékenységekhez. A mérsékeltebb hőmérséklet javítja a komfortérzetet, és lehetőséget ad a korábban elhalasztott sportesemények megrendezésére.",
+      "importance": 1
+    },
+    {
+      "title": "Vízmegőrzésre van szükség a drasztikus korlátozások elkerüléséhez",
+      "summary": "Sürgősen el kell kezdenünk takarékoskodni a vízzel, különben a közeljövőben drasztikus intézkedésekre kényszerülünk. A vízhiány hosszú távon a sportlétesítmények üzemeltetését is befolyásolhatja, korlátozva például az öntözött sportpályák használatát.",
+      "importance": 1
     }
   ]
 }

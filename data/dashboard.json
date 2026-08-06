@@ -1,101 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Jönnek az első szélerőmű-pályázatok, állami tulajdonrésszel",
-      "summary": "Magyar Péter bejelentette, hogy hamarosan kiírják az első szélerőművi pályázatokat, amelyekben magyar állami tulajdonrészt fognak előírni. Ez a lépés a magyar energiarendszer sebezhetőségének csökkentését és a hazai tulajdon erősítését célozza.",
-      "importance": 4
+      "title": "Magyar Péter: Kiírják az első szélerőművi pályázatokat, a projektekben magyar állami tulajdonrészt fognak előírni",
+      "summary": "Magyar Péter bejelentette, hogy a kormány megkezdi a szélerőművi pályázatok kiírását, előírva az állami tulajdonrészt a projektekben. Szerinte az előző kormányok mulasztásai miatt sebezhető a magyar energiarendszer, ezért átfogó fejlesztési terv szükséges.",
+      "importance": 5
     },
     {
-      "title": "A kormány több vizet kért a Dunából Szlovákiától, de vízhiányt okozna",
-      "summary": "Magyarország több vizet kért a Duna felől Szlovákiától, azonban a szlovák környezetvédelmi miniszter szerint ez vízhiányhoz vezetne náluk. A tárgyalások rávilágítanak a régió vízellátási problémáira és a klímaváltozás hatásaira.",
-      "importance": 4
+      "title": "Rákkeltő méreg csorog a Dunába, szemben nyugágyak sorakoznak a Hajógyári-szigeten",
+      "summary": "A Dunába rákkeltő anyagok kerülnek, miközben a Hajógyári-szigetnél gondtalanul napoznak az emberek. Ez komoly környezetvédelmi aggodalmakat vet fel a főváros ivóvízellátásával és a folyó élővilágával kapcsolatban.",
+      "importance": 5
     },
     {
       "title": "Orbán Gáspár hatszor repült honvédségi gépen Csádba és Nigerbe",
-      "summary": "Orbán Gáspár, a miniszterelnök fia, hatszor utazott honvédségi gépekkel Csádba és Nigerbe, ami kérdéseket vet fel az állami erőforrások felhasználásával kapcsolatban. Az utazások célja és költségei nyilvános vitát generáltak.",
-      "importance": 3
+      "summary": "Orbán Viktor fia, Orbán Gáspár több alkalommal utazott honvédségi géppel afrikai országokba, Csádba és Nigerbe. Az utazások célja és jellege körül számos kérdés merült fel, különösen az állami erőforrások felhasználásával kapcsolatban.",
+      "importance": 4
     },
     {
-      "title": "Rákkeltő méreg csorog a Dunába a Hajógyári-szigetnél",
-      "summary": "Rákkeltő anyagok jutnak a Dunába a Hajógyári-sziget közelében, miközözben a part mentén strandolók pihennek. Ez súlyos környezetvédelmi és közegészségügyi aggodalmakat vet fel, azonnali beavatkozást igényelve.",
-      "importance": 3
+      "title": "Virtuális lincselésről beszél az M1 Híradó éléről fél nap után kirúgott Hajdú Gábor, Mészáros Lőrinc korábbi sajtósa",
+      "summary": "Hajdú Gábor, az M1 Híradó rövid ideig tartó főszerkesztője, akit fél nap után menesztettek, „virtuális lincselésről” beszélt. Az eset rávilágít a közmédia körüli politikai és sajtószabadsági aggodalmakra.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Orosz drónon találtak robbanószert a lipcsei reptéren",
-      "summary": "Robbanószerrel felszerelt drónt találtak a lipcsei repülőtéren, amelyről feltételezik, hogy orosz eredetű. Az eset nemzetközi riadalmat váltott ki, terrorkísérlet gyanúját vetve fel.",
+      "title": "Robbanószer is volt a lipcsei repülőtéren talált, a gyanú szerint orosz drónon",
+      "summary": "Egy lipcsei repülőtéren talált, a gyanú szerint orosz drónon robbanószerkezetet is felfedeztek, ami nemzetközi terrorista cselekmény gyanúját veti fel. Az eset súlyos biztonsági aggodalmakat kelt Németországban és Európában.",
       "importance": 5
     },
     {
-      "title": "A kijevi rakétatámadás rávilágít Ukrajna Patriot-hiányára",
-      "summary": "Egy éjszakai kijevi rakétatámadás rávilágított Ukrajna kritikus Patriot rakétahiányára, amely veszélyezteti a város légvédelmét. Az eset sürgeti a nyugati szövetségeseket a további katonai segítségnyújtásra.",
+      "title": "Elutasítja Netanjahu a Hamász leszerelésének feltételeit, amelyeket Trump Béketanácsa javasol",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök elutasította a Hamász leszerelésére vonatkozó feltételeket, melyeket egy Trump-féle Béketanács javasolt. Ez megnehezíti a közel-keleti konfliktus rendezését és a térség stabilitását.",
       "importance": 5
     },
     {
-      "title": "Netanjahu elutasítja a Hamász leszerelésének feltételeit",
-      "summary": "Benjamin Netanjahu izraeli miniszterelnök elutasította a Hamász leszerelésének feltételeit, melyeket a Trump Béketanács javasolt. Ez a lépés tovább nehezíti a gázai konfliktus békés rendezését, és fenntartja a feszültséget a régióban.",
-      "importance": 4
+      "title": "Hazatérve százakat öltek meg a börtönből toborzott orosz katonák, akiket Putyin az egekig magasztal",
+      "summary": "Oroszországban börtönből toborzott katonák, akiket Putyin magasztalt, hazatérésük után több száz embert gyilkoltak meg. Ez rávilágít a háború társadalmi következményeire és a bűnözési hullámra Oroszországban.",
+      "importance": 5
     },
     {
-      "title": "Börtönből toborzott orosz katonák öltek meg százakat hazatérésük után",
-      "summary": "Oroszországban börtönből toborzott katonák, akiket Putyin magasztalt, hazatérésük után több száz embert öltek meg. Ez rávilágít az orosz igazságszolgáltatás hiányosságaira és a háború társadalmi következményeire.",
+      "title": "Irán és Omán megállapodott a Hormuzi-szoros hajózási útvonaláról",
+      "summary": "Irán és Omán egyezségre jutott a Hormuzi-szorosban található kulcsfontosságú hajózási útvonalról. Ez a megállapodás segíthet a regionális feszültségek csökkentésében és a globális olajszállítás biztonságában.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta bemutatta Muse Code AI ügynökét",
-      "summary": "A Meta bemutatta a Muse Code nevű mesterséges intelligencia ügynökét, amely nagyméretű kódalapok kezelésére és fejlesztésére készült. Ez az eszköz jelentősen felgyorsíthatja a szoftverfejlesztést és javíthatja a kódminőséget.",
+      "title": "A Meta bemutatja a Muse Code-ot, egy AI ügynököt nagy kód bázisokhoz",
+      "summary": "A Meta elindította a Muse Code-ot, egy mesterséges intelligencia (AI) alapú ügynököt, amely nagy kód bázisok kezelésére és fejlesztésére szolgál. Ez a lépés jelentősen megváltoztathatja a szoftverfejlesztési folyamatokat.",
+      "importance": 5
+    },
+    {
+      "title": "Neves AI kutatók hagyják el a Google-t, hogy saját startupot indítsanak",
+      "summary": "Jeff Dean és más vezető mesterséges intelligencia (AI) kutatók elhagyják a Google-t, hogy saját startup vállalkozást alapítsanak. Ez a lépés rávilágít az AI iparág dinamikus fejlődésére és a tehetségekért folyó versenyre.",
+      "importance": 5
+    },
+    {
+      "title": "A Trump-féle Igazságügyi Minisztérium felügyeli az OpenAI zöldkártya szponzorálását",
+      "summary": "Az amerikai Igazságügyi Minisztérium, Trump elnök alatt, felügyeletet gyakorol az OpenAI alkalmazottainak zöldkártya szponzorálása felett. Ez a lépés rávilágít a kormányzat növekvő figyelmére és potenciális szabályozási törekvéseire az AI szektorban.",
       "importance": 4
     },
     {
-      "title": "Vezető AI kutatók hagyják el a Google-t, saját startupot indítanak",
-      "summary": "Jeff Dean és több vezető AI kutató is elhagyja a Google-t, hogy saját startupot indítsanak, ami jelentős tehetségvándorlást jelez az AI szektorban. Ez a lépés új innovációkat hozhat, és megváltoztathatja az iparág dinamikáját.",
+      "title": "Figyelmeztetés: Az Apple Private Relay szolgáltatása felfedheti a valódi IP-címedet",
+      "summary": "Egy biztonsági figyelmeztetés szerint az Apple Private Relay szolgáltatása, amely a felhasználók adatvédelmét hivatott biztosítani, bizonyos körülmények között felfedheti a valódi IP-címet. Ez adatvédelmi aggályokat vet fel a felhasználók számára.",
       "importance": 4
-    },
-    {
-      "title": "250 millió dolláros befektetést kapott a robotaxi-iparág gerincét fejlesztő Moove",
-      "summary": "A Moove 250 millió dolláros befektetést kapott, hogy a robotaxi iparág gerincét adó technológiát fejlessze. Ez a finanszírozás gyorsíthatja az önvezető járművek elterjedését és a mobilitási szolgáltatások átalakulását.",
-      "importance": 3
-    },
-    {
-      "title": "Az Apple Private Relay szolgáltatása kiszivárogtathatja az IP-címet",
-      "summary": "Kiderült, hogy az Apple Private Relay szolgáltatása bizonyos esetekben kiszivárogtathatja a felhasználók valós IP-címét, ami adatvédelmi aggodalmakat vet fel. Az Apple vizsgálja a problémát, és frissítést ígér.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Műanyaghulladékból készítenek magas értékű kenőanyagot kémiai trükkel",
-      "summary": "Tudósok egy kémiai trükkel sikeresen alakítottak át alacsony értékű műanyaghulladékot, például PVC-t, magas értékű kenőanyaggá. Ez az áttörés új lehetőségeket nyithat meg a műanyaghulladék újrahasznosításában és a körforgásos gazdaság kiépítésében.",
+      "title": "A hulladék műanyag értékes áruvá alakul át egy kémiai trükkel",
+      "summary": "Tudósok egy új kémiai eljárással képesek a hulladék műanyagot magas értékű áruvá alakítani. Ez az áttörés jelentős előrelépést jelenthet a műanyaghulladék kezelésében és a körforgásos gazdaság elérésében.",
       "importance": 5
     },
     {
-      "title": "Figyelmeztetés a talaj menti ózonszint emelkedése miatt",
-      "summary": "Figyelmeztetést adtak ki a talaj menti ózonszint emelkedése miatt, ami káros az emberi egészségre és a növényzetre egyaránt. Ez a jelenség a légszennyezés és a klímaváltozás összefüggéseire hívja fel a figyelmet.",
+      "title": "Összefonódó kapu duplasávos radír kvantum bitekhez",
+      "summary": "Kutatók egy új összefonódó kaput fejlesztettek ki duplasávos radír kvantum bitekhez, ami fontos lépés a robusztus kvantumszámítógépek létrehozásában. Ez az innováció hozzájárulhat a kvantumtechnológia fejlődéséhez.",
+      "importance": 5
+    },
+    {
+      "title": "Hővel párologtatott perovszkit/szilícium tandem cellák formamidinium eutektikumon keresztül",
+      "summary": "Új kutatások bemutatnak hővel párologtatott perovszkit/szilícium tandem cellákat, amelyek jelentősen növelhetik a napelemek hatékonyságát. Ez az technológiai áttörés kulcsfontosságú lehet a megújuló energiaforrások fejlesztésében.",
       "importance": 4
     },
     {
-      "title": "Soha nem látott részletességű képek készültek a Napról",
-      "summary": "Soha nem látott részletességű felvételeket készítettek a Napról, amelyek új betekintést nyújtanak csillagunk felszíni jelenségeibe. Ezek az adatok segíthetik a napkitörések és a űridőjárás előrejelzését.",
+      "title": "Fagyasztás nélküli vakcinák hozhatnak változást a világon",
+      "summary": "Félmillió vakcinát dobnak ki évente a hűtési követelmények miatt, de a fagyasztás nélküli vakcinák kifejlesztése megváltoztathatja ezt. Ezek az új típusú oltóanyagok forradalmasíthatják a globális egészségügyi ellátást, különösen a fejlődő országokban.",
       "importance": 4
-    },
-    {
-      "title": "Tudósok izgatottak, hogy egy SpaceX rakéta a Holdba csapódott",
-      "summary": "Bár a SpaceX rakéta véletlenül a Holdba csapódott, egyes tudósok izgatottak az esemény miatt, mert az ütközés értékes adatokat szolgáltathat a Hold belső szerkezetéről. Ez az incidens váratlan lehetőséget teremt a bolygókutatásban.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Győzött a Ferencváros a Górnik Zabrze ellen az Európa-liga selejtezőben",
-      "summary": "A Ferencváros 1-0-ra győzött a Górnik Zabrze ellen az Európa-liga selejtezőjében, így egygólos előnnyel várhatja a lengyelországi visszavágót. A győzelem fontos lépés a főtáblára jutásért.",
+      "title": "Nyert a Ferencváros a Górnik Zabrze ellen, egygólos előnnyel utazhat Lengyelországba",
+      "summary": "A Ferencváros labdarúgócsapata egygólos előnyt szerzett a Górnik Zabrze elleni Európa-liga selejtezőn, így kedvező helyzetből várhatja a visszavágót Lengyelországban. A győzelem fontos lépés a főtáblára jutásért.",
+      "importance": 5
+    },
+    {
+      "title": "Infantino elnézést kér a hibákért, de továbbra is a FIFA elnöke marad",
+      "summary": "Gianni Infantino, a FIFA elnöke elnézést kért a szervezetnél történt hibákért, de továbbra is pozíciójában marad. Ez a hír a nemzetközi labdarúgás irányításával kapcsolatos vitákra és a vezetési kihívásokra utal.",
       "importance": 4
     },
     {
-      "title": "Infantino a FIFA elnöki posztján marad, a kritikák ellenére",
-      "summary": "Gianni Infantino, a FIFA elnöke, az ügyvezetői ülés után kijelentette, hogy továbbra is harcolni fog posztjáért, utalva a kihívásokra és kritikákra. Ez a nyilatkozat a nemzetközi futball vezetői posztja körüli feszültséget tükrözi.",
+      "title": "Hazájukban betiltva: Az afgán női futballcsapat 8000 mérföldre egyesült újra",
+      "summary": "Az afgán női futballcsapat, amelyet hazájukban betiltottak, 8000 mérföldre újraegyesült. Ez a történet a sport erejét és a női jogokért folytatott küzdelmet szimbolizálja, kiemelve a sport társadalmi jelentőségét.",
+      "importance": 4
+    },
+    {
+      "title": "Az M1 Híradó éléről fél nap után kirúgott Hajdú Gábor virtuális lincselésről beszél",
+      "summary": "Hajdú Gábor, korábbi sportkommentátor és az M1 Híradó rövid ideig főszerkesztője, kirúgása után „virtuális lincselésről” beszélt. Az eset rávilágít a médiában dolgozó, korábban sporttal foglalkozó személyek helyzetére a közmédiában.",
       "importance": 3
     }
   ]

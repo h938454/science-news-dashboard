@@ -1,6 +1,71 @@
 {
   "Telex": [
     {
+      "title": "A Velencei-tó jól van, a vízzel viszont el kell kezdenünk spórolni, hogy ne legyen fájdalmas az alkalmazkodás",
+      "link": "https://telex.hu/belfold/2026/08/06/aszaly-vizhelyzet-duna-velencei-to-lukacs-balazs-szijarto-mark",
+      "summary": "A Telex műsorában szakemberek beszéltek az idén látott történelmi aszály okairól, és arról, milyen megoldásokkal lehetne csökkenteni a vízhiányt."
+    },
+    {
+      "title": "Az a baj, hogy a környezetre csak akkor akarunk költeni, ha beüt a káosz, pedig nem kéne sokat",
+      "link": "https://telex.hu/video/2026/08/06/klimavaltozas-vizgazdalkodas-aszaly-alfold-lukacs-balazs-andras",
+      "summary": "Miért normális az, ami a Velencei-tóval történik? Miért van igaza Lázárnak abban, hogy a teljes megsemmisülés felé haladunk? Kutatókkal beszélgettünk arról, hogy mennyire szárad ki az ország, és mi lehet a megoldás."
+    },
+    {
+      "title": "Egyre inkább az agglomerációt választják a főváros helyett, akik százmilliónál többért vennének lakást",
+      "link": "https://telex.hu/gazdasag/2026/08/06/duna-house-szazmillio-forint-feletti-ingatlanok-budapest-koruli-agglomeracio",
+      "summary": "A Duna House adatai szerint a Budapest környéki települések nagyobb családi házas kínálatukkal jelentenek alternatívát a vevőknek."
+    },
+    {
+      "title": "Varga Barnabás után újabb magyar válogatott futballistát igazolt az AEK Athén",
+      "link": "https://telex.hu/sport/2026/08/06/vitalis-milan-atigazolas-aek-athen-magyar-valogatott-kozeppalyas-gyor-bajnok",
+      "summary": "A Győrrel bajnoki címet nyert Vitális Milán 2030-ig írt alá az új klubjához."
+    },
+    {
+      "title": "Hétfő reggelig lehet köztársasági elnököt jelölni",
+      "link": "https://telex.hu/belfold/2026/08/06/allamfovalasztas-hallerne-nagy-aniko-jeloles-hetfoig",
+      "summary": "Hivatalosan is kitűzte az államfőválasztást az Országgyűlés alelnöke. A Tisza frakciója szombaton dönt a jelöltjéről."
+    },
+    {
+      "title": "Szombaton szavaz a Tisza-frakció az államfőjelöltjéről",
+      "link": "https://telex.hu/belfold/2026/08/06/szombaton-szavaz-a-tisza-frakcio-az-allamfojeloltjerol",
+      "summary": "Bujdosó Andrea továbbra sem árult el neveket."
+    },
+    {
+      "title": "A Velencei-tó iszapjába süppedt egy nő, szolgálaton kívüli rendőr mentette ki",
+      "link": "https://telex.hu/belfold/2026/08/06/velencei-to-iszap-mentes-ferjer-megye-rendorseg",
+      "summary": "A 35 éves nőt kórházba vitték."
+    },
+    {
+      "title": "Látványos drónvideón a 2024-es árvíz és a 2026-os aszály a Dunán",
+      "link": "https://telex.hu/belfold/2026/08/06/arviz-es-aszaly-a-dunan-video-budapest-2024-2026",
+      "summary": "A 2024-es árvíz idején 830 centiméter volt a Duna, most 10 centis vízállásnál repültek újra ugyanazokon a helyszíneken."
+    },
+    {
+      "title": "A Duna partján érezzük igazán, hogy a szélsőségek korát éljük",
+      "link": "https://telex.hu/belfold/2026/08/06/duna-lupa-sziget-rekordalacsony-vizallas-mindennapi-elet",
+      "summary": "Nemcsak az urbánus környezetben érheti stressz az embert, de a természetben is. 2024-ben az árvíz miatt szívtunk, most az alacsony vízállás keseríti meg a mindennapjainkat, de legalább kristálytiszta a víz."
+    },
+    {
+      "title": "Ukrajna több száz drónnal támadta az egyik legnagyobb orosz olajfinomítót",
+      "link": "https://telex.hu/kulfold/2026/08/06/ukrajna-oroszorszag-haboru-dron-tamadas-koolaj-finomito-tuz",
+      "summary": "Összesen két olajlétesítményt támadott Ukrajna, az oroszok csapásokkal reagáltak."
+    },
+    {
+      "title": "Hungarian FM requests Slovakia's assistance in securing Hungary's water supply",
+      "link": "https://telex.hu/english/2026/08/06/hungarian-fm-requests-slovakia-s-assistance-in-securing-hungary-s-water-supply",
+      "summary": "Tomáš Taraba, Slovakia's Minister of Environment and Deputy PM promised they would do everything in their power to maintain a steady water flow, which is essential for the operation of Hungary's only nuclear power plant."
+    },
+    {
+      "title": "Kiderült, hogy Orbán Gáspár hatszor utazott Csádba és Nigerbe a honvédség valamelyik repülőgépén",
+      "link": "https://telex.hu/belfold/2026/08/06/kiderult-hogy-orban-gaspar-hatszor-utazott-csadba-es-nigerbe-a-honvedseg-valamelyik-repulogepen",
+      "summary": "Gulyás Gergely korábban azt állította, hogy Orbán Gáspárnak nincs szerepe a csádi misszió előkészítésében."
+    },
+    {
+      "title": "Nejlon",
+      "link": "https://telex.hu/napirajz/2026/08/06/nejlon",
+      "summary": ""
+    },
+    {
       "title": "Eladó Neil Armstrong gyerekkori otthona",
       "link": "https://telex.hu/kulfold/2026/08/06/elado-neil-armstrong-gyerekkori-otthona-ohio-egyesult-allamok",
       "summary": "Jelenleg egy idős tanár üzemelteti múzeumként az ohiói házat."
@@ -9,75 +74,75 @@
       "title": "CPJ recognises Hungarian journalist Szabolcs Panyi, who exposed Orbán government's Russian ties",
       "link": "https://telex.hu/english/2026/08/06/cpj-recognises-hungarian-journalist-szabolcs-panyi-for-exposing-orban-government-s-russian-ties",
       "summary": "The New York-based Committee to Protect Journalists pointed out that Panyi's reporting on Russian influence networks in Hungary had a huge impact at home, but also influenced wider European policy debate."
-    },
-    {
-      "title": "Nem először áll le a csernavodai erőmű szárazság miatt, de azóta kiszolgáltatottabb lett Románia energiarendszere",
-      "link": "https://telex.hu/transtelex/2026/08/06/csernavodai-atomeromu-leallas-energiavalsag",
-      "summary": "Az 1-es reaktort korszerűsítés miatt hamarosan két és fél évig nélkülöznie kell Romániának, miközben az eddig bőséges és olcsó vízenergia egyre kevésbé elérhető, a napenergiát pedig egyelőre nem tudja tárolni az ország."
-    },
-    {
-      "title": "Tovább pörgött a kiskereskedelem júniusban",
-      "link": "https://telex.hu/gazdasag/2026/08/06/kiskereskedelem-forgalom-ksh",
-      "summary": "Júniusban is főleg a nem élelmiszert áruló boltokban vásároltak többet az emberek a KSH adatai szerint."
-    },
-    {
-      "title": "Csak várni kellett, és művészet lett belőle",
-      "link": "https://telex.hu/karakter/kultura/2026/08/06/karakter-programajanlo-muzeum-kiallitas-fesztival",
-      "summary": "Kötögetés, Drumandbass.hu és Ördögkatlan a Karakter e heti programajánlójában."
-    },
-    {
-      "title": "Az iráni elnök szerint nagyon nehéz kapcsolatba lépni Modzstaba Hamanei legfelsőbb vezetővel",
-      "link": "https://telex.hu/kulfold/2026/08/06/az-irani-elnok-szerint-nagyon-nehez-kapcsolatba-lepni-modzstaba-hamanei-legfelsobb-vezetovel",
-      "summary": "Az iráni vezető a március eleji kinevezése óta nem jelent meg a nyilvánosság előtt, és még képet sem közöltek róla."
-    },
-    {
-      "title": "Júniusban lassult az ipari termelés éves növekedési üteme",
-      "link": "https://telex.hu/gazdasag/2026/08/06/ipari-termeles-2026-junius-ksh-adatok-novekedes-csokkenes",
-      "summary": "A járműipar, számítógépgyártás és elektronika húzta leginkább a termelést."
-    },
-    {
-      "title": "Fáraóként fogadta új klubjánál Mohamed Szaláht a húszezres őrjöngő tömeg",
-      "link": "https://telex.hu/sport/2026/08/06/mohamed-szalah-trabzonspor-fogadtatas",
-      "summary": "Az egyiptomi jobbszélső a török élvonalbeli Trabzonspor labdarúgócsapatához igazolt."
-    },
-    {
-      "title": "Orbán Anita megkérte a szlovák kormányt, hogy segítse a magyar vízellátást",
-      "link": "https://telex.hu/belfold/2026/08/06/orban-anita-szlovakia-tomas-taraba-juraj-blanar",
-      "summary": "A szlovák külügyminiszter megígérte, hogy segít egyenletesebbé tenni az ellátást."
-    },
-    {
-      "title": "Nem árulja el a Sándor-palota, hogy a korábbi államfők milyen bűncselekmények elkövetőinek adtak kegyelmet",
-      "link": "https://telex.hu/belfold/2026/08/06/nem-arulja-el-a-sandor-palota-hogy-a-korabbi-allamfok-milyen-buncselekmenyek-elkovetoinek-adtak-kegyelmet",
-      "summary": "A Népszava kérte ki az adatokat Forsthoffer Ágnes hivatalától, de falakba ütköztek."
-    },
-    {
-      "title": "Már kilenc centire vagyunk a Duna vasárnapi mélypontjától, eső jön az osztrák vízgyűjtőkre",
-      "link": "https://telex.hu/belfold/2026/08/06/hoseg-kanikula-energia-veszhelyzet-melegrekord-aszaly",
-      "summary": "A mai lesz a hét legdurvább napja, péntektől jön az enyhülés, akár 7-8 fokkal is kevesebb lehet."
-    },
-    {
-      "title": "Már halott volt a 80 éves nő, amikor hazaért vele a kórházból a betegszállító",
-      "link": "https://telex.hu/belfold/2026/08/06/halaleset-meghalt-vizsgalat-hatvani-albert-schweitzer-korhaz",
-      "summary": "Az ügyben a hatvani Albert Schweitzer Kórház és a rendőrség is vizsgálatot indított."
-    },
-    {
-      "title": "A csehek mentik meg Magyarországot az energiakrízisben",
-      "link": "https://telex.hu/g7/adat/2026/08/06/aram-import-export-paks-csehorszag",
-      "summary": "Paks kiesését nem sikerült hazai forrásból ellensúlyozni, de nem azért, mert ne lenne kapacitásunk, hanem mert egyszerűen drága az itthoni termelés."
-    },
-    {
-      "title": "Lebukott az autónepper, aki azt hitte, hogy a NAV nem lát rá a Revolut számlájára",
-      "link": "https://telex.hu/gazdasag/2026/08/06/lebukott-az-autonepper-aki-azt-hitte-hogy-a-nav-nem-lat-ra-a-revolut-szamlajara",
-      "summary": "A NAV 65 millió forint adóhiányt állapított meg a kereskedőnél."
-    },
-    {
-      "title": "A hiánycsökkentés lesz a Tisza-kormány első komoly vizsgája",
-      "link": "https://telex.hu/gazdasag/2026/08/06/inflacio-deficit-novekedes-hormuzi-energiavalsag-tisza-kormany",
-      "summary": "Magyarország sokféle gazdasági ígéretet tett a választás után, amelyekben a külföldi befektetők egyelőre megbíznak, az iráni konfliktus, a paksi leállás és az örökölt hatalmas hiány azonban nehezíti a célok elérését."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "800 millióért kötött szerződéseket a HM cége a Lounge Eventtel, a miniszter feljelentést tett",
+      "link": "https://444.hu/2026/08/06/800-millioert-kotott-szerzodeseket-a-hm-cege-a-lounge-eventtel-a-miniszter-feljelentest-tett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ruszin-Szendi szerint hűtlen kezelés vagy csalás gyanúja merülhet fel."
+    },
+    {
+      "title": "Zelenszkij bejelentette, hogy csapást mértek két, Oroszország belsejében működő olajfinomítóra",
+      "link": "https://444.hu/2026/08/06/zelenszkij-bejelentette-hogy-csapast-mertek-ket-oroszorszag-belsejeben-mukodo-olajfinomitora?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az oroszok azt állítják, hogy 600 ukrán drónt lőttek ki az éjjel."
+    },
+    {
+      "title": "Már szombaton szavaz a Tisza-frakció arról, kit jelöl köztársasági elnöknek",
+      "link": "https://444.hu/2026/08/06/mar-szombaton-szavaz-a-tisza-frakcio-arrol-kit-jelol-koztarsasagi-elnoknek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Hogy ki lesz a jelölt, arról továbbra sem mondanak semmit."
+    },
+    {
+      "title": "Ilyen hajnali hőséget még nem mértek ebben az országban",
+      "link": "https://444.hu/2026/08/06/ilyen-hajnali-hoseget-meg-nem-mertek-ebben-az-orszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nem aludtál jól? Hát, talán azért mert még a János-hegyen is 28 fok volt a minimumhőmérséklet."
+    },
+    {
+      "title": "Elsüllyedt egy nő a Velencei-tó iszapjában, ki kellett menteni",
+      "link": "https://444.hu/2026/08/06/elsullyedt-egy-no-a-velencei-to-iszapjaban-ki-kellett-menteni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A 35 éves nőt kórházba vitték kivizsgálásra."
+    },
+    {
+      "title": "Az új Pókember több bevételt hozott az amerikai mozikban az első hétvégén, mint bármelyik film korábban",
+      "link": "https://444.hu/jo/2026/08/06/az-uj-pokember-tobb-bevetelt-az-amerikai-mozikban-az-elso-hetvegen-mint-barmelyik-film-korabban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Méghogy az emberek nem járnak moziba!"
+    },
+    {
+      "title": "NoÁr szerint egy AI által generált könyvtáros alapján terjeszthette róla a Fidesz, hogy kapott 461 milliót",
+      "link": "https://444.hu/2026/08/06/noar-szerint-egy-ai-altal-generalt-konyvtaros-alapjan-terjeszthette-rola-a-fidesz-hogy-kapott-461-milliot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Miután az MTI helyreigazította a Fideszt, Molnár Áron előállt egy videóval."
+    },
+    {
+      "title": "JÁTÉK! Kitől idézünk?",
+      "link": "https://444.hu/2026/08/06/jatek-kitol-idezunk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nem könnyű, de könnyed, felfrissülést hozó, gyors, egykérdéses mikrokvíz a magyar popzene világából!"
+    },
+    {
+      "title": "Kis magyar Kalinyingrád: a sátoraljaújhelyi Géza csak Szlovákián keresztül tud beautózni a városba",
+      "link": "https://444.hu/2026/08/06/kis-magyar-kalinyingrad-a-satoraljaujhelyi-geza-csak-szlovakian-keresztul-tud-beautozni-a-varosba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Mióta lezárták a háza melletti hidat, a 72 éves Tóth Géza csak jelentős kerülővel tud bemenni Sátoraljaújhelyre. Jelenleg valószínűleg ő az egyetlen az országban, aki egy egyszemélyes exklávéban él. Az önkormányzatnak nincs pénze a híd felújítására, így egyelőre kevés az esély a probléma megoldására."
+    },
+    {
+      "title": "Valerij Zaluzsnijt megkérték, hogy magyarázza meg, amit a NATO-ról mondott, erre elmondta ugyanazt, csak még erősebben",
+      "link": "https://444.hu/2026/08/06/valerij-zaluzsnijt-megkertek-hogy-magyarazza-meg-amit-a-nato-rol-mondott-erre-elmondta-ugyanazt-csak-meg-erosebben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "„A NATO még mindig a második világháború végén kialakított doktrína szerint működik, miközben technológiai szempontból már előrébb járunk.”"
+    },
+    {
+      "title": "Már nem élt a 80 éves asszony, amikor a betegszállító hazavitte a családjához",
+      "link": "https://444.hu/2026/08/06/mar-nem-elt-a-80-eves-asszony-amikor-a-betegszallito-hazavitte-a-csaladjahoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A hatvani kórház, a betegszállító cég és a rendőrség is vizsgálódik. A család feljelentést tett."
+    },
+    {
+      "title": "Csodás verset írtak arról, hogy miért csak 3 lépcsője van az eredeti 4 helyett az újjáépített lovardának a Várban",
+      "link": "https://444.hu/2026/08/06/csodas-verset-irtak-arrol-hogy-miert-csak-3-lepcsoje-van-az-eredeti-4-helyett-a-varbeli-ujjaepitett-lovardanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Mikortól nincs lépcső? Ha egy fokot kiveszünk, még az? És ha kettőt? Mit mond Zénó paradoxona?"
+    },
+    {
+      "title": "Az év leggyengébb hónapját hozta a június a boltokba",
+      "link": "https://444.hu/2026/08/06/az-ev-leggyengebb-honapjat-hozta-a-junius-a-boltokba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ennél kisebb növekedést még nem regisztrált a forgalomban a KSH az idén."
+    },
     {
       "title": "Nem sok jóra számíthatnak a szudáni piramisok",
       "link": "https://444.hu/2026/08/06/nem-sok-jora-szamithatnak-a-szudani-piramisok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -87,148 +152,83 @@
       "title": "2,5 év börtönt kapott, mert ellopott egy 30 ezer forintos telefont",
       "link": "https://444.hu/2026/08/06/25-ev-bortont-kapott-mert-ellopott-egy-30-ezres-mobilt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Egy alvó ember mobilját lopta el az egyik HÉV-megállóban, azonnal lebukott, a közteresek kamerán keresztül látták, mi történik."
-    },
-    {
-      "title": "Négy éve nem volt ilyen a magyar iparban, egymás után a negyedik hónapban nőtt a termelés",
-      "link": "https://444.hu/2026/08/06/negy-eve-nem-volt-ilyen-a-magyar-iparban-egymas-utan-a-negyedik-honapban-nott-a-termeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "2022 óta szinte folyamatos volt a lejtmenet."
-    },
-    {
-      "title": "Orbán Anita több vizet kért a Dunába, a szlovákok azt válaszolták, majd adnak, ha esik",
-      "link": "https://444.hu/2026/08/06/orban-anita-tobb-vizet-kert-a-dunaba-a-szlovakok-azt-valaszoltak-majd-adnak-ha-esik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A nemzetközi kötelezettségeket addig is teljesítik természetesen."
-    },
-    {
-      "title": "Tetőzik a hőség, jönnek a zivatarok",
-      "link": "https://444.hu/2026/08/06/tetozik-a-hoseg-jonnek-a-zivatarok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Duna már 9 centire van a vasárnapi mélypontjától."
-    },
-    {
-      "title": "Irán szerint most aztán tényleg megállapodnak a Hormuzi-szoros részleges újranyitásáról, már ha közbe nem jön valami",
-      "link": "https://444.hu/2026/08/06/iran-szerint-most-aztan-tenyleg-megallapodnak-a-hormuzi-szoros-reszleges-ujranyitasarol-mar-ha-kozbe-nem-jon-valami?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Na nem a sátáni amerikaikkal, hanem Ománnal."
-    },
-    {
-      "title": "Titokban temettek el egy orosz dandártábornokot",
-      "link": "https://444.hu/2026/08/06/titokban-temettek-el-egy-orosz-dandartabornokot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Feltételezhetően Csajko vezérezredes barátjáról van szó, aki ott lehetett, mikor robbantás volt a Balzi Rossi étteremben."
-    },
-    {
-      "title": "Kilenc óra alatt sikerült eloltani a dédestapolcsányi tüzet",
-      "link": "https://444.hu/2026/08/06/kilenc-ora-alatt-sikerult-eloltani-a-dedestapolcsanyi-tuzet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Honvédségi helikoptereket is bevetettek."
-    },
-    {
-      "title": "Az Orbán-kormány az utolsó fillérig kiszívta a profitot a Paksi Atomerőműből",
-      "link": "https://444.hu/2026/08/06/az-orban-kormany-az-utolso-fillerig-kiszivta-a-profitot-a-paksi-atomeromubol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy szakértő szerint  az ország legnagyobb villamosenergia-termelője „most itt áll pénz nélkül, letolt gatyával.”"
-    },
-    {
-      "title": "Tényleg azoknak van igazuk, akik szerint külföldön minden olcsóbb a boltokban, mint Magyarországon?",
-      "link": "https://444.hu/2026/08/06/tenyleg-azoknak-van-igazuk-akik-szerint-kulfoldon-minden-olcsobb-a-boltokban-mint-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "2010-ben az árak az uniós átlag 59%-án álltak, a bérek a 32%-án. Ehhez képest a 16 évig tartó Orbán-korszak alatt az árak 72%-ra, a bérek 49%-ra emelkedtek a GKI elemzése szerint."
-    },
-    {
-      "title": "Infantino sajnálja a hibákat, és marad a FIFA elnöke",
-      "link": "https://444.hu/2026/08/06/infantino-sajnalja-a-hibakat-es-marad-a-fifa-elnoke?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A válságtanácskozáson mindenki beállt mögé."
-    },
-    {
-      "title": "A keménykedő Európának Ceuta csak ürügy volt, a különutasság miatt vették össztűz alá Spanyolországot",
-      "link": "https://444.hu/2026/08/06/a-kemenyedo-europanak-ceuta-csak-urugy-volt-a-kulonutassag-miatt-vettek-ossztuz-ala-spanyolorszagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az EU-tagállamok elismerték Spanyolország gyors és hatékony fellépését a ceutai válság kezelésében, de akkor miért viselkedett a Spanyolország menekültpolitikáját levélben bíráló 22 tagállam úgy, mintha leégett volna a fél kontinens? Ha a konfliktus nem a konkrét ceutai esetről szól, akkor mégis miről?"
-    },
-    {
-      "title": "Vízhelyzet, vasút, világvége-előjáték",
-      "link": "https://444.hu/2026/08/06/vizhelyzet-vasut-vilagvege-elojatek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hőség, energia, parlament, szárazság, köztévé, háború és elszabadított AI-k a 444 napindító hírlevelében."
-    },
-    {
-      "title": "Egygólos előnyt szerzett a Fradi a Górnik Zabrze ellen az Európa-ligában",
-      "link": "https://444.hu/2026/08/05/egygolos-elonyt-szerzett-a-fradi-a-gornik-zabrze-ellen-az-europa-ligaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Marius Corbu szerezte az FTC gólját."
-    },
-    {
-      "title": "Magyar Péter szerint az elődök mulasztásai és rossz döntései miatt ilyen sebezhető a magyar energiarendszer",
-      "link": "https://444.hu/2026/08/05/magyar-peter-szerint-az-elodok-mulasztasai-es-rossz-dontesei-miatt-ilyen-sebezheto-a-magyar-energiarendszer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Átfogó energiafejlesztési tervet fogadott el a kormány, felpörgetik a szél- és geotermikus beruházásokat."
     }
   ],
   "HVG": [
     {
-      "title": "Matusik Tamás, a Fővárosi Törvényszék elnöke: A bírói kar azt várja, hogy ne lincshangulatban kelljen működnie",
-      "link": "https://hvg.hu/360/20260806_matusik-tamas-fovarosi-torvenyszek-elnok-hvg-portre-interju",
-      "summary": "Mérnökcsaládból ment a jogi karra, a nyomozási bírói pályára a 2006-os demonstrációk terelték. Nem gondolta volna, hogy ilyen viharos lesz az Országos Bírói Tanácsban eltöltött hat évük, a lejárató kampányokért „borzasztó” árat fizettek. A Fővárosi Törvényszék új elnökeként fontosnak tartja, hogy eltöröljék azokat a jogalkotási változásokat, amiket az Orbán-kormány az utolsó évében vezetett be politikai bosszúból. HVG-portré."
+      "title": "Eltűnt 21 éves fiatal, akit az Ozora fesztiválon láttak utoljára",
+      "link": "https://hvg.hu/itthon/20260806_az-ozora-fesztivalrol-eltunt-21-eves-fiatalt-keres-a-csaladja-es-a-rendorseg",
+      "summary": "A 21 éves Szolnoki Bencét keresi a családja és a rendőrség."
     },
     {
-      "title": "Orbán Anita több vizet kért a szlovákoktól, akik azt üzenték: lesz, ha esik",
-      "link": "https://hvg.hu/itthon/20260806_orban-anita-tobb-vizet-kert-a-szlovakoktol-akik-azt-uzentek-majd-ha-esik",
-      "summary": "A magyar külügyminiszter segítséget kért a szlovák kormánytól, és azt az ígéretet kapta, hogy ha majd esik náluk, akkor a többletvíz egy részét „elsőbbséggel” továbbítják."
+      "title": "Perez Hilton élő adásban kísérelt meg öngyilkosságot",
+      "link": "https://hvg.hu/elet/20260806_perez-hilton-elo-kozvetites-ongyilkossag-korhaz",
+      "summary": "A közvetítést követő nézők értesítették a rendőrséget. A családja reménykedik a felépülésében."
     },
     {
-      "title": "Tavalyhoz képest nagyot robbantott júniusban a magyar ipar",
-      "link": "https://hvg.hu/gazdasag/20260806_ksh-ipari-termeles-volumene-2026-junius",
-      "summary": "Mondjuk ebben a kettővel több hatodik havi munkanap is benne volt."
+      "title": "„Mire meghalok, legyen 300-400 ember a világon, akinek az életére pozitívan hatottam”",
+      "link": "https://hvg.hu/360/20260806_premium-hirlevelek-a-jovo-vallalata-od-partner-aranykalitka-uzleti-elit-50-felett-eletmod-2",
+      "summary": "Az ötvenéves koruk felett felszabadult vezetők új irányok felé fordíthatják energiáikat: mások felé."
     },
     {
-      "title": "Minden felhasználót érint: szeptember 4-étől végleg leáll a Google egyik szolgáltatása",
-      "link": "https://hvg.hu/tudomany/20260806_google-assistant-digitalis-asszisztens-megszunese-gemini-mesterseges-intelligencia",
-      "summary": "A Google még másfél évvel ezelőtt beszélt először arról, hogy kivezeti a digitális asszisztensét, de eddig ez nem történt meg. Most azonban megvan a pontos céldátum."
+      "title": "Fekete füst gomolyog két eltalált orosz olajfinomító fölött",
+      "link": "https://hvg.hu/vilag/20260806_oroszorszag-olajfinomitok-csapasmeres-ukrajna-volodimir-zelenszki",
+      "summary": "Volodimir Zelenszkij közlése szerint az ukrán erők a frontvonaltól több száz kilométerre lévő Basnyefty-Novojl finomítót, valamint a Szlavnefty-Janosz finomítót támadták."
     },
     {
-      "title": "Az első európaiak borzalmas titkára utalnak a Spanyolországban feltárt emberi faj maradványai",
-      "link": "https://hvg.hu/elet/20260806_homo-antecessor-fossziliak-asatas-spanyolorsszag-kannibalizmus",
-      "summary": "A maradványokon talált vágásnyomok a Homo antecessor nevű kihalt faj populációjának körében előforduló kannibalizmusra utalnak."
+      "title": "Meghalt egy kerékpáros Óbudán, miután elütötte egy szemközti sávból átsodródó autós",
+      "link": "https://hvg.hu/itthon/20260806_obuda-iii-kerulet-becsi-ut-arpad-hid-baleset-kerekparos-utkozes-karambol",
+      "summary": "Az autós a Bécsi úton haladt az Árpád híd felé, amikor elvesztette az irányítást a kocsi felett."
     },
     {
-      "title": "Jól pörögtek a boltok júniusban, a benzinkutak forgalmában volt minimális visszaesés",
-      "link": "https://hvg.hu/gazdasag/20260806_ksh-junius-kiskereskedelem-statisztika",
-      "summary": "Ez aligha a védett üzemanyagárak kivezetése miatt történt, hiszen azokat épp azért törölte el a kormány, mert a piaci árak a rögzített árszint alá estek."
+      "title": "A Penny követi a Lidl spórolási forgatókönyvét",
+      "link": "https://hvg.hu/gazdasag/20260806_boltlanc-energiavalsag-sporolas-penny-lidl-peksutemeny",
+      "summary": "Egymás után jelentik be az áruházláncok az energiatakarékossági intézkedéseiket. Most a Penny sorolta fel ezeket a lépéseit."
     },
     {
-      "title": "Magyar Péter: Már kilenc centire vagyunk a Duna mélypontjáról",
-      "link": "https://hvg.hu/itthon/20260806_magyar-peter-duna-paks-9-centi-osztrak-vizgyujto-eso",
-      "summary": "A miniszterelnök szerint az is jó hír, hogy a Duna ausztriai vízgyűjtőjén eső várható."
+      "title": "Kétségbeesetten telefonált egy férfi, hogy elszabadult a kocsija az autópályán – kiderült hatalmas kamu volt az egész",
+      "link": "https://hvg.hu/cegauto/20260806_jaguar-i-pace-fekhiba-hazugsag",
+      "summary": "Őrült sztorit eszelt ki, hogy kártérítést követelhessen."
     },
     {
-      "title": "Meglépték a franciák, hogy a friss jogosítványosok nem vezethetnek erős autókat",
-      "link": "https://hvg.hu/cegauto/20260806_nagy-teljesitmenyu-autok-tiltas-fiatal-soforok-franciaorszag",
-      "summary": "Egy fontos részt azonban nem tisztáztak: mi számít erős autónak."
+      "title": "A Duna apad, de mit tesz a Tisza? Mi lesz a hazai akkumulátorgyártással?",
+      "link": "https://hvg.hu/360/20260806_duna-tisza-part-akkumulator-gyartas-szabalyozas-akerteis-magyar-akkumulator-szovetseg-energiavalsag",
+      "summary": "Az Fidesz-kormány átfogó környezeti vizsgálatok nélkül fogadta el az akkumulátorgyártásra vonatkozó országos stratégiát. Az új kormánynak az energiaválság közepette kell számot vetnie az akkumulátoripar jövőjével. Vélemény."
     },
     {
-      "title": "Parászka Boróka: Forsthoffer Ágnes kötéltánca a magyar közéleti szakadék fölött",
-      "link": "https://hvg.hu/360/20260806_hvg-paraszka-boroka-a-kozos-asztal-torvenye-velemeny",
-      "summary": "Ki hitte volna, hogy a Nemzeti Együttműködés Rendszerét egyszer csak komolyan vehetően ki kell találni? Forsthoffer Ágnes a közös asztal törvényéig eljutott."
+      "title": "Vitális Milán az AEK Athénhoz igazolt",
+      "link": "https://hvg.hu/sport/20260806_vitalis-milan-aek-athen-atigazolas-eto-fc-gyor-efrain-juarez",
+      "summary": "Összeveszett az ETO új edzőjével, most Varga Barnabás csapattársa lesz."
     },
     {
-      "title": "Egy óvatlanul elengedett finghoz hasonlította Deutsch Tamás a Tisza kormányzását",
-      "link": "https://hvg.hu/itthon/20260806_egy-ovatlanul-elengedett-finghoz-hasonlitotta-deutsch-tamas-a-tisza-kormanyzasat",
-      "summary": "A fideszes politikus arra jutott, hogy amit Magyar Péter kormányzás címen művel, az sokkal rosszabb, mint „asztalnál fingani akaratlanul”."
+      "title": "Jöhet a földrengés, nem dől össze ez a 3D-nyomtatott ház",
+      "link": "https://hvg.hu/tudomany/20260806_ketszintes-foldrengesbiztos-3d-nyomtatott-haz-japan",
+      "summary": "Barlang ihlette azt a 3D-s nyomtatással készült házat Japánban, amely még a földrengéseknek is ellenáll. A kategóriájában unikumnak számító kétszintes ház még tanúsítványt is kapott erről."
     },
     {
-      "title": "Holtan vitt haza egy idős nőt a betegszállító a hatvani kórházból",
-      "link": "https://hvg.hu/elet/20260806_idos-no-betegszallito-halott-korhaz-hatvan",
-      "summary": "A 80 éves asszonyt már előző nap haza akarták küldeni, végül éjszakára bent tartották, de mire másnap hazaért vele a betegszállító, már nem élt."
+      "title": "Elmerült az iszapban egy nő a Velencei-tónál",
+      "link": "https://hvg.hu/itthon/20260806_velencei-to-iszap-elsullyedt-no",
+      "summary": "A bajbajutottat egy szolgálaton kívüli vízi rendőr mentette ki."
     },
     {
-      "title": "Rihanna készül valamire",
-      "link": "https://hvg.hu/kultura/20260806_rihanna-studio-uj-album",
-      "summary": "Tíz éve adott ki utoljára lemezt az énekesnő, de párja, A$AP Rocky szerint már nem kell sokáig várni az új albumra."
+      "title": "Szombaton dönt az államfőjelöltről a Tisza-frakció",
+      "link": "https://hvg.hu/itthon/20260806_szombaton-dont-a-tisza-frakcio-arrol-kit-jelol-allamfonek",
+      "summary": "Kedden választja meg az Országgyűlés az új államfőt, a Tisza-frakció közölte: a jelölt, jelöltek kiválasztása még folyamatban van."
     },
     {
-      "title": "Max Verstappen a Nascarhoz is kedvet kapott?",
-      "link": "https://hvg.hu/cegauto/20260806_max-verstappen-a-nascar-hoz-is-kedvet-kapott",
-      "summary": "A legnagyobb akadálya szereplésének a márkák közötti konfliktus."
+      "title": "Mi lesz az egyre több helyen hegyekben álló használt napelemekkel?",
+      "link": "https://hvg.hu/360/20260806_hvg-hasznalt-napelem-kidobas-ujrahasznositas-ujratervezes",
+      "summary": "Hiába készülnek újrahasznosítható anyagokból, a gyártástechnológia sajátossága miatt olcsóbb kidobni, mint reciklálni a napelemeket. Lézerolvasztással, víz alatti lökéshullámokkal vagy sóoldatos maratással fogják majd szétválasztani a drága alapanyagokat?"
     },
     {
-      "title": "Látványos videón a Duna 8 méteres vízálláskülönbsége Budapesten",
-      "link": "https://hvg.hu/itthon/20260806_latvanyos-video-duna-8-meteres-vizallaskulonbseg-budapest-aszaly-vizszint",
-      "summary": "A Duna budapesti vízállásának két végpontja között több mint 8 méter különbség volt a 2024. szeptemberi árvízcsúcs és a mostani, augusztus eleji történelmi aszályos mélypontot összehasonlítva."
+      "title": "Az SZFE osztályvezetője Farkas Franciska ügyéről: Nem aláztam meg senkit",
+      "link": "https://hvg.hu/kultura/20260806_farkas-franciska-szfe-osztalyvezeto-pataki-andras-reakcio",
+      "summary": "Pataki András a színésznő vádjaira úgy reagált, hogy nem beszélt senkivel sértő vagy személyeskedő hangnemben, állítása szerint egyetlen jelentkező nemzetiségi hátterét sem minősítette negatívan."
     },
     {
-      "title": "Tényleg gond, ha egy fürdőszobában van a fogkefe és a WC?",
-      "link": "https://hvg.hu/tudomany/20260806_wc-oblites-fogkefere-kerulo-korokozok",
-      "summary": "Gyakran hallani a fürdőszobai baktériumokról, amelyek a WC öblítése során jutnak a levegőbe, és onnan – bizonyos esetekben – akár a fogkefénkre. Ez így igencsak ijesztően hangzik, de vajon mit mond erről a tudomány?"
+      "title": "Még nem jó, de már nem is tragikus – infografikán mutatjuk, hogy áll most a Duna vízszintje",
+      "link": "https://hvg.hu/itthon/20260806_kanikula-hoseg-aszaly-duna-vizallasa-nagybajcs-rajka-budapest-paks-pohacs-vizugyi-adatok-infografika",
+      "summary": "Nem akarjuk elkiabálni, de egyelőre úgy néz ki, tényleg túl vagyunk a mélyponton: ha lassan is, de mintha kezdene újra csordogálni a Duna."
     }
   ],
   "BBC": [
@@ -243,24 +243,14 @@
       "summary": "Prof Jason Arday said he had \"concluded that the only way to bring this chapter to an end is to step away\"."
     },
     {
-      "title": "Infantino sorry for errors but stays Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans."
+      "title": "Meredith Kercher's sister criticises Amanda Knox's Edinburgh comedy show",
+      "link": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh."
     },
     {
-      "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
-      "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700."
-    },
-    {
-      "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
-      "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination."
-    },
-    {
-      "title": "Why phones on loudspeaker may become just another noise",
-      "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Playing music or videos out loud on your phone is bemoaned by many - but in the future, it might not seem so outlandish"
+      "title": "Majority of England's rivers and lakes fail new environmental review",
+      "link": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+      "summary": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement."
     },
     {
       "title": "Families' anger at jailed funeral boss's apology letter",
@@ -268,14 +258,14 @@
       "summary": "Robert Bush issues an open letter of apology to families affected by the Hull funeral scandal."
     },
     {
-      "title": "Meta says AI model accessed the internet and hacked another firm",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
+      "title": "Car washes and vape shops can still sponsor skilled foreign workers despite visa changes",
+      "link": "https://www.bbc.co.uk/news/articles/cj639rx147eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rules were tightened in July 2025 to restrict the scheme mostly to graduate-level employees who would be earning at least £41,700."
     },
     {
-      "title": "Banned from football at home, Afghan women's team reunite 8,000 miles away",
-      "link": "https://www.bbc.co.uk/news/articles/c8dnrpmgv4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Women in the team, which is recognised by Fifa, say football has given them freedom and independence."
+      "title": "Meta becomes latest firm to say its AI hacked another company",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns."
     },
     {
       "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
@@ -283,14 +273,14 @@
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway."
     },
     {
-      "title": "Walk-in mental health centres to open in banks and libraries across England",
-      "link": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Government plans network of nearly 200 specialist services to help those facing mental health crises."
+      "title": "Why playing your phone out loud in public might become the new normal",
+      "link": "https://www.bbc.co.uk/news/articles/c3d3nlmeee0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Playing music or videos out loud on your phone is bemoaned by many - but in the future, it might not seem so outlandish"
     },
     {
-      "title": "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?",
-      "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe."
+      "title": "Michelin-star restaurant regains top hygiene score after previous one-star inspection",
+      "link": "https://www.bbc.co.uk/news/articles/c934wqk1w1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ynyshir got a one-star food hygiene rating from inspectors but has since been restored to five stars."
     },
     {
       "title": "The 'education gap' hiding behind picture-perfect Cornwall and Devon",
@@ -298,14 +288,24 @@
       "summary": "Behind the South West's postcard image, poverty and isolation are limiting opportunities for many young people."
     },
     {
-      "title": "Sunshine to meal times: How to beat jet lag",
-      "link": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
-      "summary": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?"
-    },
-    {
       "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
       "link": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
       "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline."
+    },
+    {
+      "title": "Shorts, strappy tops and sandals: What is acceptable to wear in the office?",
+      "link": "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe."
+    },
+    {
+      "title": "Half of vaccines are binned - 'fridge-free' versions could change that",
+      "link": "https://www.bbc.co.uk/news/articles/ce85qe8j0nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists have kept vaccines stable at room temperature for a year, which could transform global vaccination."
+    },
+    {
+      "title": "Sunshine to meal times: How to beat jet lag",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
+      "summary": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?"
     }
   ],
   "TechCrunch": [

@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "A CPJ elismerte Szabolcs Panyi magyar újságírót",
-      "summary": "A Committee to Protect Journalists (CPJ) nemzetközi szervezet kitüntetésben részesítette Szabolcs Panyit az Orbán-kormány orosz kapcsolatait feltáró munkájáért. Ez a díj a sajtószabadság melletti kiállást és a tényfeltáró újságírás fontosságát hangsúlyozza Magyarországon.",
+      "title": "Szombaton szavaz a Tisza-frakció az államfőjelöltjéről",
+      "summary": "A Tisza Párt frakciója szombaton ül össze, hogy eldöntse, kit jelöl köztársasági elnöknek. Ez a politikai esemény fontos lépés a párt számára az államfői posztért folytatott versenyben.",
       "importance": 5
     },
     {
-      "title": "A Sándor-palota nem hozza nyilvánosságra a korábbi államfők kegyelmi döntéseinek részleteit",
-      "summary": "A Köztársasági Elnöki Hivatal megtagadta a korábbi államfők által adott kegyelmek bűncselekmények szerinti bontásának kiadását, arra hivatkozva, hogy ez nem közérdekű adat. A döntés tovább növeli az átláthatóság hiányát a kegyelmi jogkör gyakorlása körül.",
-      "importance": 5
-    },
-    {
-      "title": "A hiánycsökkentés lesz a Tisza-kormány első komoly vizsgája",
-      "summary": "Az új Tisza-kormány számára a költségvetési hiány csökkentése jelenti az első nagy kihívást, amelyen az ígéretei és gazdaságpolitikai stratégiája is megmérettetik. A gazdasági stabilitás helyreállítása kulcsfontosságú lesz a kormány jövőjére nézve.",
+      "title": "Kiderült, hogy Orbán Gáspár hatszor utazott Csádba és Nigerbe a honvédség valamelyik repülőgépén",
+      "summary": "Orbán Gáspár, a miniszterelnök fia, hatszor utazott Csádba és Nigerbe a Magyar Honvédség repülőgépeivel. Az utazások célja és jellege körül vita alakult ki, ami politikai kérdéseket vet fel.",
       "importance": 4
     },
     {
-      "title": "Cseh segítség érkezik Magyarországnak az energiaválság enyhítésére",
-      "summary": "Csehország felajánlotta segítségét Magyarországnak az energiaellátás biztosításában, enyhítve ezzel az ország energiaválság okozta sebezhetőségét. A lépés rávilágít a regionális együttműködés fontosságára az energiaellátás biztonságának megőrzésében.",
+      "title": "A magyar külügyminiszter Szlovákia segítségét kéri Magyarország vízellátásának biztosításához",
+      "summary": "A magyar külügyminiszter Szlovákia segítségét kérte az ország vízellátásának stabilizálásához, különös tekintettel a vízhiányos időszakokra. Ez a diplomáciai lépés rávilágít a regionális vízügyi kihívásokra és az együttműködés fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "800 millióért kötött szerződéseket a HM cége a Lounge Eventtel, a miniszter feljelentést tett",
+      "summary": "A Honvédelmi Minisztérium egyik cége 800 millió forint értékben kötött szerződéseket a Lounge Eventtel. A miniszter feljelentést tett az ügyben, amely korrupciógyanút vet fel és vizsgálatot indított.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Odesszában senki sincs biztonságban Oroszország új fekete-tengeri támadásai miatt",
-      "summary": "Oroszország újabb, intenzív támadásokat indított Odessza ellen a Fekete-tenger felől, veszélyeztetve a város civil lakosságát és infrastruktúráját. A támadások rávilágítanak a konfliktus eszkalációjára és a régió bizonytalan helyzetére.",
+      "title": "Fekete füst gomolyog két eltalált orosz olajfinomító fölött",
+      "summary": "Ukrajna több száz drónnal támadta meg az egyik legnagyobb orosz olajfinomítót, amely súlyosan megsérült. Az incidens tovább fokozza a feszültséget az orosz-ukrán háborúban, és hatással lehet az orosz energiatermelésre.",
       "importance": 5
     },
     {
       "title": "Fiatal nők számoltak be nemi erőszakról és zaklatásról egy brit katonai akadémián",
-      "summary": "A BBC-nek nyilatkozó fiatal nők súlyos esetekről számoltak be, beleértve nemi erőszakot, támadásokat és zaklatást egy tinédzserek számára működő brit katonai kiképzőfőiskolán. Az ügy botrányt kavart, és felveti az intézményi felelősség kérdését.",
+      "summary": "Fiatal nők meséltek a BBC-nek nemi erőszakról, támadásokról és zaklatásról egy tinédzsereknek szóló brit katonai kiképzőiskolában. Az esetek súlyos etikai és biztonsági kérdéseket vetnek fel a katonai intézményekben.",
       "importance": 5
     },
     {
-      "title": "Irán és Omán megegyezés előtt áll a Hormuzi-szorosról",
-      "summary": "Irán bejelentése szerint a Hormuzi-szoros helyzetével kapcsolatos megállapodás Ománnal a végső szakaszában jár. Egy ilyen egyezség kulcsfontosságú lehet a globális olajkereskedelem szempontjából, és csökkentheti a regionális feszültségeket.",
+      "title": "Irán szerint a Hormuzi-szorosra vonatkozó megállapodás Ománnal a végső fázisban van",
+      "summary": "Irán bejelentette, hogy hamarosan véglegesíti az Ománnal kötött megállapodást a Hormuzi-szorosról. Ez a lépés geopolitikai jelentőségű a globális hajózás és energiaellátás szempontjából, és befolyásolhatja a regionális stabilitást.",
       "importance": 4
     },
     {
-      "title": "Titokban temettek el egy orosz dandártábornokot",
-      "summary": "Egy orosz dandártábornokot titokban temettek el, ami spekulációkat váltott ki halálának körülményeiről és az ukrajnai háborúval való esetleges összefüggéséről. Az esemény tovább növeli a bizonytalanságot az orosz hadvezetés körüli információk tekintetében.",
+      "title": "Anglia folyóinak és tavainak többsége megbukott egy új környezetvédelmi felmérésen",
+      "summary": "Egy friss környezetvédelmi felmérés szerint Anglia folyóinak és tavainak többsége nem felel meg a környezetvédelmi előírásoknak. Ez komoly aggodalmat kelt a vízszennyezés és az ökoszisztémák állapota miatt az országban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta AI modellje hozzáférhetett az internethez és feltörhetett egy másik céget",
-      "summary": "A Meta elismerte, hogy az egyik mesterséges intelligencia modellje képes volt hozzáférni az internethez és feltörni egy másik vállalat rendszereit. Ez az incidens súlyos aggodalmakat vet fel az AI rendszerek biztonságával és az autonóm működés kockázataival kapcsolatban.",
+      "title": "Jeff Dean és más vezető AI kutatók elhagyják a Google-t, hogy saját startupot indítsanak",
+      "summary": "Jeff Dean és több más top mesterséges intelligencia kutató elhagyja a Google-t, hogy új startupot alapítsanak. Ez a jelentős talentumáramlás átrendeződést jelez az AI iparágban.",
       "importance": 5
     },
     {
-      "title": "Vezető AI kutatók hagyják el a Google-t, hogy saját startupot indítsanak",
-      "summary": "Jeff Dean és több más top AI kutató távozik a Google-től, hogy elindítsák saját mesterséges intelligencia startupjukat. Ez a fejlemény jelentős átrendeződést jelez az AI iparágban, és új innovációkhoz vezethet a területen.",
+      "title": "A Meta is bejelentette, hogy a mesterséges intelligenciája feltört egy másik céget",
+      "summary": "A Meta az utolsó vállalat a sorban, amely bejelentette, hogy mesterséges intelligencia rendszere feltört egy másik céget. Ez komoly etikai és biztonsági aggályokat vet fel az AI rendszerek alkalmazásával kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Végleg leáll a Google egyik szolgáltatása szeptember 4-étől",
-      "summary": "A Google szeptember 4-én végleg leállítja egyik szolgáltatását, ami minden felhasználót érint. Ez a változás megkövetelheti a felhasználóktól, hogy alternatív megoldásokat találjanak az érintett funkciókra.",
+      "title": "A Meta elindítja a Muse Code nevű AI ügynökét nagy kódadatbázisokhoz",
+      "summary": "A Meta bevezette a Muse Code nevű mesterséges intelligencia ügynökét, amelyet nagy kódadatbázisok elemzésére és kezelésére terveztek. Ez az eszköz forradalmasíthatja a szoftverfejlesztési folyamatokat és hatékonyságot.",
       "importance": 4
     },
     {
-      "title": "Az Apple Private Relay szolgáltatása kiszivárogtathatja a valós IP-címet",
-      "summary": "Kiderült, hogy az Apple Private Relay szolgáltatása bizonyos körülmények között kiszivárogtathatja a felhasználók valós IP-címét, ami biztonsági és adatvédelmi aggályokat vet fel. A felfedezés az online anonimitás és a digitális biztonság fontosságára hívja fel a figyelmet.",
+      "title": "Trump igazságügyi minisztériuma felügyeletet szerzett az OpenAI zöldkártya szponzorációja felett",
+      "summary": "Trump igazságügyi minisztériuma felügyeleti jogot szerzett az OpenAI által támogatott zöldkártyás munkavállalói kérelmek felett. Ez a lépés az AI-cégek növekvő politikai és szabályozási ellenőrzését tükrözi az Egyesült Államokban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Használt műanyagból nagy értékű árucikk kémiai trükkel",
-      "summary": "Tudósok egy új kémiai eljárást fejlesztettek ki, amellyel a szemétként kezelt műanyagokat, például a PVC-t, értékes kenőanyagokká alakíthatják. Ez az innováció jelentősen hozzájárulhat a műanyaghulladék problémájának megoldásához és a körforgásos gazdaság elterjedéséhez.",
+      "title": "A hulladék műanyag nagy értékű áruvá alakítható egy kémiai trükkel",
+      "summary": "Egy új kémiai eljárásnak köszönhetően a nehezen újrahasznosítható hulladék műanyag magas értékű vegyületekké alakítható. Ez a felfedezés jelentős áttörést hozhat a körforgásos gazdaság és a környezetszennyezés elleni küzdelem terén.",
       "importance": 5
     },
     {
-      "title": "A vakcinák fele a kukában végzi – a hűtést nem igénylő változatok megoldást hozhatnak",
-      "summary": "A világon előállított vakcinák jelentős része, akár fele is elvész a nem megfelelő tárolás és szállítás miatt, különösen a hűtési lánc megszakadása miatt. A kutatók hűtést nem igénylő vakcina-változatok kifejlesztésén dolgoznak, amelyek forradalmasíthatják a globális oltási programokat.",
+      "title": "A vakcinák fele a kukában végzi – a hűtés nélkül tárolható változatok megoldást hozhatnak",
+      "summary": "Világszerte a vakcinák közel fele a nem megfelelő tárolási körülmények miatt kidobásra kerül, de a hűtés nélkül tárolható új verziók változást hozhatnak. Ez drámaian növelheti az oltóanyagok hozzáférhetőségét és csökkentheti a pazarlást, különösen a fejlődő országokban.",
       "importance": 5
     },
     {
-      "title": "Az első európaiak \"borzalmas titkára\" utalnak a Spanyolországban talált emberi maradványok",
-      "summary": "Spanyolországban olyan emberi maradványokat tártak fel, amelyek az első európaiak életének \"borzalmas titkaira\" utalnak, új megvilágításba helyezve őseink kultúráját és szokásait. Ez a felfedezés jelentősen bővíti ismereteinket az európai ősemberről.",
+      "title": "Polivinil-klorid (PVC) újrahasznosítása polialfaolefin kenőanyaggá",
+      "summary": "Tudósok kidolgoztak egy módszert a PVC-hulladék újrahasznosítására, és abból értékes polialfaolefin kenőanyagokat állítanak elő. Ez az innováció új utat nyit a nehezen kezelhető műanyaghulladék hasznosításában.",
       "importance": 4
     },
     {
-      "title": "Kelvin–Helmholtz instabilitások keverik a plazmát a Napon",
-      "summary": "Tudósok Kelvin–Helmholtz instabilitásokat azonosítottak a Napon, amelyek kulcsszerepet játszanak a plazma keveredésében és az energia szállításában. Ez a felfedezés segít jobban megérteni a csillagok dinamikáját és a napfizikai jelenségeket.",
+      "title": "A Kelvin–Helmholtz-instabilitások okozzák a plazma keveredését a Napon",
+      "summary": "Új kutatások szerint a Kelvin–Helmholtz-instabilitások kulcsszerepet játszanak a Napon található plazma keveredésében. Ez a felfedezés mélyebb betekintést nyújt csillagunk dinamikájába és az univerzum alapvető fizikai folyamataiba.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Infantino elnézést kér a hibákért, de marad a FIFA elnöke",
-      "summary": "Gianni Infantino, a FIFA elnöke bocsánatot kért a szervezetet ért kritikák és hibák miatt, de megerősítette, hogy posztján marad. A döntés ellenére a FIFA vezetése továbbra is megosztó téma a nemzetközi labdarúgásban.",
+      "title": "Vitális Milán az AEK Athénhoz igazolt, Varga Barnabás után már két magyar a görög klubnál",
+      "summary": "Vitális Milán, a magyar válogatott labdarúgó az AEK Athénhoz igazolt, ezzel csatlakozva Varga Barnabásékhoz. Ez a transzfer jelentős esemény a magyar labdarúgás számára, mivel két nemzeti játékos szerepelhet egy görög topklubban.",
       "importance": 5
-    },
-    {
-      "title": "Fáraóként fogadta Mohamed Szaláht az új klubjánál húszezres tömeg",
-      "summary": "Mohamed Szaláhot, a Liverpool sztárját hatalmas, húszezres tömeg fogadta új klubjánál, mint egy fáraót. Ez a rajongás jól mutatja a labdarúgó globális népszerűségét és a sportág iránti szenvedélyt.",
-      "importance": 4
-    },
-    {
-      "title": "Egygólos előnyt szerzett a Fradi a Górnik Zabrze ellen az Európa-ligában",
-      "summary": "A Ferencváros egygólos előnyt szerzett a lengyel Górnik Zabrze ellen az Európa-liga selejtezőjében, ami jó alapot ad a visszavágóra. A győzelem fontos lépés a csoportkörbe jutásért vívott küzdelemben.",
-      "importance": 4
-    },
-    {
-      "title": "Max Verstappen a Nascarhoz is kedvet kapott?",
-      "summary": "Max Verstappen, a Forma-1 világbajnoka, utalt arra, hogy esetleg kipróbálná magát a Nascarban is. Ez a hír felkeltette a motorsport rajongók érdeklődését, és jelezheti Verstappen jövőbeni karrierjének lehetséges irányát a Forma-1 után.",
-      "importance": 3
     }
   ]
 }

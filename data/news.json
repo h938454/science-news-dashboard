@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Éveken át nyilvános profillal használta a Stravát a holland katonai hírszerzés igazgatója",
+      "link": "https://telex.hu/kulfold/2026/08/07/eveken-at-nyilvanos-profillal-hasznalta-a-stravat-a-holland-katonai-hirszerzes-igazgatoja",
+      "summary": "Bárki láthatta, hogy Peter Reesink milyen útvonalon biciklizett a munkahelyére, és mikor ment el nyaralni."
+    },
+    {
       "title": "Egyre élesedik a vita Spanyolország és Olaszország között a ceutai válság miatt",
       "link": "https://telex.hu/kulfold/2026/08/07/olaszorszag-spanyolorszag-ceuta-migranskrizis-schengeni-ovezet-hatarellenorzes",
       "summary": "A spanyol kormány a határellenőrzések felfüggesztését követeli, de az olaszok ragaszkodnak a schengeni szabályok felfüggesztéséhez."
@@ -69,11 +74,6 @@
       "title": "Vinícius Júnior és Arda Güler is ott lesz Fradi–Real Madrid-meccsen",
       "link": "https://telex.hu/sport/2026/08/07/real-madrid-kerethirdetes-ferencvaros-felkeszulesi-merkozes-vinicius-junior-trent-alexander-arnold-arda-guler",
       "summary": "Keretet hirdetett a 15-szörös BEK-, illetve Bajnokok Ligája-győztes spanyol csapat."
-    },
-    {
-      "title": "Hideg sört és csevapot kért Orbán egy szerbiai szálloda kerthelyiségében",
-      "link": "https://telex.hu/kulfold/2026/08/07/szerbia-orban-viktor-guca-sor-trombita",
-      "summary": "Egy helyi lap írt arról, hogy a korábbi magyar miniszterelnök megjelent a gučai trombitafesztiválon."
     }
   ],
   "Portfolio": [],
@@ -233,7 +233,7 @@
   ],
   "BBC": [
     {
-      "title": "How police left a registered sex offender free to murder and attack women",
+      "title": "Police failings revealed as sex offender left free to murder and attack women",
       "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
       "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits."
     },
@@ -248,14 +248,9 @@
       "summary": "No arrests were made at the time and the investigation was closed."
     },
     {
-      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\"."
-    },
-    {
-      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
-      "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said."
+      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
     },
     {
       "title": "Streeting 'sickened' by sex abuse claims at Army college",
@@ -263,34 +258,9 @@
       "summary": "The defence secretary promises to look into what went wrong at the college in North Yorkshire."
     },
     {
-      "title": "Politicians, private jets and power - the life of a Fifa president",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy."
-    },
-    {
-      "title": "Watch: BBC questions Infantino over backing as Fifa president",
+      "title": "Watch: BBC asks Infantino if he will resign as Fifa president",
       "link": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
       "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup."
-    },
-    {
-      "title": "Seven killed after Thai student opens fire at home and school",
-      "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school."
-    },
-    {
-      "title": "How a 90-second power outage sparked chaos for rail commuters",
-      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact."
-    },
-    {
-      "title": "Madonna and Blur producer William Orbit dies aged 69",
-      "link": "https://www.bbc.co.uk/news/articles/cp9ej0el7veo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tributes are paid to the musical \"genius and pioneer\", who also worked with All Saints, Pink and U2."
-    },
-    {
-      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
     },
     {
       "title": "Obesity rates have doubled in England since 1993 - what's going on?",
@@ -298,21 +268,66 @@
       "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993."
     },
     {
+      "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish exclave of Ceuta."
+    },
+    {
+      "title": "US appeals court halts Trump ballroom project paving way for Supreme Court showdown",
+      "link": "https://www.bbc.co.uk/news/articles/cwyq80jqqleo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Whether or not a ⁠massive ballroom should be constructed is for Congress to decide,\" the appeals panel's ​majority said."
+    },
+    {
+      "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
+      "link": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and spoke frankly on his father's declining health."
+    },
+    {
+      "title": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c05q0nznq24o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prof Priyamvada Gopal, who is part of the group, says Cambridge should not be \"marking its own homework\"."
+    },
+    {
+      "title": "Madonna and Blur producer William Orbit dies aged 69",
+      "link": "https://www.bbc.co.uk/news/articles/cp9ej0el7veo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tributes are paid to the musical \"genius and pioneer\", who also worked with All Saints, Pink and U2."
+    },
+    {
+      "title": "How a 90-second power outage sparked chaos for rail commuters",
+      "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact."
+    },
+    {
+      "title": "Politicians, private jets and power - the life of a Fifa president",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy."
+    },
+    {
       "title": "Prisoner release row proving to be Burnham's first big test as PM",
       "link": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
       "summary": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices."
-    },
-    {
-      "title": "Why there's a row about standing up while drinking in central London",
-      "link": "https://www.bbc.co.uk/news/articles/c86nvjxlg9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Westminster Council has more licensed venues than anywhere else in the UK - and it thinks 'vertical drinking' should be curbed."
     }
   ],
   "TechCrunch": [
     {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+    },
+    {
+      "title": "Wacom’s Movinkpad 11 is a fun and mid-priced entry point for digital artists",
+      "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+      "summary": "The Movinkpad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true."
+    },
+    {
+      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites."
+    },
+    {
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
+      "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently."
     },
     {
       "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
@@ -368,21 +383,6 @@
       "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
       "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
       "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our Exhibit Program offers, and it’s still open to showcase your startup.  Here&#8217;s&#160;what $12,500&#160;buys&#160;you:&#160; Joining fellow exhibitors is the fastest, lowest-lift way for a [&#8230;]"
-    },
-    {
-      "title": "Vogue just gave another nod of approval to the tech world",
-      "link": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-      "summary": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist."
-    },
-    {
-      "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-      "link": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-      "summary": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report."
-    },
-    {
-      "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-      "link": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-      "summary": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address."
     }
   ],
   "Nature": [

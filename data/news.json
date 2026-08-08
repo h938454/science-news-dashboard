@@ -1,6 +1,31 @@
 {
   "Telex": [
     {
+      "title": "Azonosítatlan drón repült be Bulgária légterébe, majd felrobbant",
+      "link": "https://telex.hu/kulfold/2026/08/08/azonositatlan-dron-bulgaria-romania-felrobbant",
+      "summary": "A bolgár kormányfő szerint a drón Románia felől lépett be a légtérbe, majd ezer méterre a transzbalkáni gázvezeték kompresszorállomásától robbant fel Kardamnál."
+    },
+    {
+      "title": "A Fidesz frakcióvezetője szerint Baka András addig lesz államfő, míg Magyar Péter egy kommenttel le nem váltja",
+      "link": "https://telex.hu/belfold/2026/08/08/fidesz-boka-janos-baka-andras-illegitim-magyar-peter-komment",
+      "summary": "Bóka János úgy látja, mivel a Tisza illegitim módon menesztette Sulyok Tamást, Bakát is illegitim elnöknek tartják."
+    },
+    {
+      "title": "Molnár T. Eszter: Megérkezni valahová",
+      "link": "https://telex.hu/karakter/telextarcak/2026/08/08/molnar-t-eszter-megerkezni-valahova-tarcanovella-irodalom",
+      "summary": "„Már közel vannak a kijárat boltívei. Azon túl várják azok, akiket ma még szintén alig ismer, de akikkel mától élni fog. Különösen az anyósát kell kitanulnia.” E heti novellánk egy berlini pályaudvaron játszódik."
+    },
+    {
+      "title": "Rugalmas iskolakezdést, 35 perces tanórákat, kevesebb leckét javasol az alsósoknak az Oktatási Minisztérium új javaslatcsomagja",
+      "link": "https://telex.hu/belfold/2026/08/08/lannert-judit-oktatas-altalanos-iskola-also-tagozat-javaslatcsomag-gyermekkozpontu",
+      "summary": "Nem törölnék el a mindennapos testnevelést, de több értelmezési lehetőséget adnak rá. Ezen kívül is több mozgásos szünetet, nyugodt ebédidőt és pihenőidőt biztosítanának a gyerekeknek."
+    },
+    {
+      "title": "Meghalt Lionel Messi apja, Jorge",
+      "link": "https://telex.hu/sport/2026/08/08/lionel-messi-apja-meghalt-jorge-messi",
+      "summary": "Jorge Messi menedzserként is irányította a fia karrierjét. 68 éves volt."
+    },
+    {
       "title": "Baka Andrást jelöli köztársasági elnöknek a Tisza",
       "link": "https://telex.hu/belfold/2026/08/08/koztarsasagi-elnok-jelolt-tisza-part-frakcio-bejelentes",
       "summary": "Az Országgyűlés Baka Andrást kedden már meg is választja köztársasági elnöknek, augusztus 20-án pedig már ő adhatja át az állami kitüntetéseket és díjakat."
@@ -23,7 +48,7 @@
     {
       "title": "Vaddisznó szaladt le a Kossuth téri metróba",
       "link": "https://telex.hu/belfold/2026/08/08/baleset-m2-metro-potlobusz",
-      "summary": "Kilőtték a rendőrök."
+      "summary": "Amikor a katasztrófavédelem állatorvosa megvizsgálta, már sérült volt, ki kellett lőni."
     },
     {
       "title": "Borbás Marcsi beperelte Kocsis Mátét",
@@ -49,35 +74,30 @@
       "title": "Katasztrófavédelem: Ez már nekünk is sok! És sajnos nem látjuk a végét",
       "link": "https://telex.hu/belfold/2026/08/08/katasztrofavedelem-tuz-tuzgyujtasi-tilalom-nyar-forrosag",
       "summary": "Miközben másfél hónapja az egész országban tűzgyújtási tilalom van érvényben, szabadtéri tüzek tombolnak országszerte, a tűzoltók pedig nem győzik oltani."
-    },
-    {
-      "title": "Kolozsvári MI-alkalmazás segítene a pároknak megszabadulni a visszatérő konfliktusaiktól",
-      "link": "https://telex.hu/transtelex/2026/08/08/nabu-projekt-kolozsvari-egyetemistak-parkapcsolat-kommunikacio-mi",
-      "summary": "Több százan tesztelték már az elmúlt fél évben azt a mesterségesintelligencia-alapú alkalmazást, amely személyre szabott kérdésekkel és akár biometrikus adatokkal segíti a párokat az egészséges beszélgetésben. A Nabu nevű appot kolozsvári egyetemisták fejlesztették."
-    },
-    {
-      "title": "Engedély nélkül kezdene kutat fúrni egy Trumphoz köthető amerikai olajvállalat, nő a feszültség Grönlandon",
-      "link": "https://telex.hu/kulfold/2026/08/08/gronland-olajfuras-engedely-donald-trump-greenland-energy",
-      "summary": "A grönlandi kormány „határozott figyelmeztetést” adott ki az ügyben."
-    },
-    {
-      "title": "Kaptunk pár nap pihenőt a kibírhatatlan hőhullámban",
-      "link": "https://telex.hu/belfold/2026/08/08/hidegfront-lehules-hohullam-idojaras-elorejelzes",
-      "summary": "Hétvégén hajnalban végre ismét érdemes lesz átszellőztetni a lakásokat, a nappali hőmérséklet is „csak” maximum 35-36 lesz."
-    },
-    {
-      "title": "2,3 milliárd forintot fizetett vissza az államnak az egyik Mészáros Lőrinchez köthető magántőkealap",
-      "link": "https://telex.hu/belfold/2026/08/08/vagyonvisszaszerzes-2-3-milliard-meszaros-lorinv-magantokealap-vitezy-david",
-      "summary": "Vitézy Dávid szerint jól halad a vagyonvisszaszerzés."
-    },
-    {
-      "title": "A paksi leállás csak válságtünet, a teljes elavult áramrendszert át kell alakítani",
-      "link": "https://telex.hu/nevertek/2026/08/08/paks-leallas-aramrendszer-atalakitasa",
-      "summary": "A mostani energiakrízis jóval túlmutat a Duna aktuális vízszintjén. Paradigmaváltásra van szükség, az elavult villamosenergia-rendszerünket beláthatatlan átalakulásokra kell felkészíteni."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Közös drónügylet is lehet Vučić fordulata mögött: a szerb elnök Zelenszkijjel barátkozik",
+      "link": "https://444.hu/2026/08/08/kozos-dronugylet-is-lehet-vucic-fordulata-mogott-a-szerb-elnok-zelenszkijjel-baratkozik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nemrég még Orbán Viktor volt a legjobb barátja."
+    },
+    {
+      "title": "Borízű hang #282 [H]: Fentanil, zombiapokalipszis, lakhatási válság – miért ne akarnál idejönni?",
+      "link": "https://444.hu/2026/08/08/borizu-hang-282-h-fentanil-zombiapokalipszis-lakhatasi-valsag-miert-ne-akarnal-idejonni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Bede Márton zombiapokalipszisba látogat. Indián felhőkarcolók, szikh hadügyminiszter. Fásy Zsülike filmje. I. Kínai Néni Kamuközmondás Kihívás! Hegxyi zsidók. Schicklgruber nagy hadvezéri ötletei. Szórásos temetés kuttyogatással."
+    },
+    {
+      "title": "Fontos gázvezeték közelében robbant fel egy Romániából Bulgáriába berepülő, azonosítatlan eredetű drón",
+      "link": "https://444.hu/2026/08/08/fontos-gazvezetek-kozeleben-robbant-fel-egy-romaniabol-bulgariaba-berepulo-azonositatlan-eredetu-dron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A robbanás a Törökországot Ukrajnával összekötő Transz-Balkán gázvezeték kompresszorállomásától egy kilométerre történt."
+    },
+    {
+      "title": "Frontálisan ütközött egy személy- és egy tehervonat Horvátországban, az utasok többsége megsérült a balesetben",
+      "link": "https://444.hu/2026/08/08/frontalisan-utkozott-egy-szemely-es-egy-tehervonat-horvatorszagban-az-utasok-tobbsege-megserult-a-balesetben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A tehervonat mozdonyvezetője nem állt meg a tilos jelzésnél az első információk szerint."
+    },
     {
       "title": "Tömeges halpusztulás a rétszilasi halastavakban a hőség és és a vízhiány miatt",
       "link": "https://444.hu/2026/08/08/tomeges-halpusztulas-a-retszilasi-halastavakban-a-hoseg-es-es-a-vizhiany-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -96,7 +116,7 @@
     {
       "title": "Vaddisznó jutott le a Kossuth téri metróállomásra, leállt a metróközlekedés",
       "link": "https://444.hu/2026/08/08/vaddiszno-jutott-le-a-kossuth-teri-metroallomasra-leallt-a-metrokozlekedes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A 60 kilogrammos állat beszorult egy érkező metró vezetőfülkéje alá, ám az ütközést túlélte, végül egy vadász lelőtte."
+      "summary": "A 60 kilogrammos állat rövid időre az egyik szerelvénybe is bejutott, közölte a BKV. Később egy várakozó metró alatt húzta meg magát, és mivel sérült volt, állatorvos döntött a kilövéséről."
     },
     {
       "title": "Lemond és az egyetemről is távozik az Ádám Zoltánt kirúgó corvinusos rektorhelyettes",
@@ -132,29 +152,39 @@
       "title": "Infantino UEFA-pénzből fizette ki a szeretőjét a friss leleplezés szerint",
       "link": "https://444.hu/2026/08/08/infantino-uefa-penzbol-fizette-ki-a-szeretojet-egy-friss-leleplezes-szerint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A FIFA-elnök lemondását követelik."
-    },
-    {
-      "title": "2,3 milliárdot fizettetett vissza Mészáros Lőrincékkel Vitézy egy Lázárral kötött szerződésből",
-      "link": "https://444.hu/2026/08/08/23-milliardot-fizettetett-vissza-meszaros-lorincekkel-vitezy-egy-lazarral-kotott-szerzodesbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kormány ennyit szerzett vissza egy 64 milliárdos szerződésből, de azt ígérik, folytatják."
-    },
-    {
-      "title": "Borbás Marcsi tényleg beperelte az őt a Fidesz kis árulói közé soroló Kocsis Mátét",
-      "link": "https://444.hu/2026/08/08/borbas-marcsi-tenyleg-beperelte-az-ot-a-fidesz-kis-aruloi-koze-sorolo-kocsis-matet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "„Kocsis szerint áruló vagyok, hiszen ha cégünk dolgozott a köztévének, akkor engem valami furcsa omerta kötelez arra, hogy… mire is?” - reagált a Fidesz frakcióvezetőjére a műsorvezető."
-    },
-    {
-      "title": "Három év börtönre ítéltek egy férfit, aki terrorizálta az élettársát és annak gyerekeit",
-      "link": "https://444.hu/2026/08/08/harom-ev-bortonre-iteltek-egy-ferfit-aki-terrorizalta-az-elettarsat-es-annak-gyerekeit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ittasan rendszeresen bántalmazta a nőt a két kiskorú gyerek előtt, előfordult, hogy késsel fenyegette őket."
-    },
-    {
-      "title": "Megszavazta az amerikai szenátus a szankciós csomagot, ami alapján 100%-os vámmal sújthatnák Magyarországot is",
-      "link": "https://444.hu/2026/08/08/megszavazta-az-amerikai-szenatus-a-szankcios-csomagot-ami-alapjan-100-os-vammal-sujthatnak-magyarorszagot-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az orosz energia vásárlói elleni törvényt főleg Kína és India ellen vethetik majd be, de elvileg minket is érinthet."
     }
   ],
   "HVG": [
+    {
+      "title": "Meghalt Lionel Messi édesapja",
+      "link": "https://hvg.hu/sport/20260808_meghalt-lionel-messi-edesapja",
+      "summary": "A fia ügynökeként és tanácsadójaként is ismert volt."
+    },
+    {
+      "title": "Jókora drágulás után beütött a készlethiány, elfogyóban a MacBook Air az Apple-nél",
+      "link": "https://hvg.hu/tudomany/20260808_apple-macbook-air-keszlet-hiany",
+      "summary": "A mesterséges intelligencia és az adatközpontok által generált memóriahiány számos elektronikai eszköz árát, majd elérhetőségét érintette. A MacBook Air egy darabig sebezhetetlennek tűnt, azonban mostanra elérkeztünk oda, hogy az alkatrészhiány ennek a modellnek a készleteit sem hagyta érintetlenül."
+    },
+    {
+      "title": "Fidesz: Baka András a funkcióját csak addig fogja betölteni, amíg Magyar Péter egy kommenttel le nem váltja",
+      "link": "https://hvg.hu/itthon/20260808_fidesz-baka-andras-reakcio",
+      "summary": "Politikai ellenállást is hirdetett a párt, amely az 16 évben vezette az országot."
+    },
+    {
+      "title": "Vonatbaleset történt Horvátországban, tehervonat ütközött egy személyvonattal",
+      "link": "https://hvg.hu/vilag/20260808_vonatbaleset-tortent-horvatorszagban-tehervonat-utkozott-egy-szemelyvonattal",
+      "summary": "A mentést nehezíti, hogy a szerelvények meredek, sűrű növényzettel borított területen álltak meg."
+    },
+    {
+      "title": "„Nem vagyok politikusalkat” – mondta Baka András 2009-ben, amikor a HVG portrét készítette róla",
+      "link": "https://hvg.hu/itthon/20260808_baka-andras-2009-hvg-portre-koztarsasagi-elnok",
+      "summary": "„Mindig csodáltam azokat, akik kis koruktól tudják, milyen pályára akarnak lépni” – mondta akkor Baka András a HVG-nek, aki arról is beszélt, hogy mi a véleménye a halálbüntetésről, hogyan neveli a gyerekeit és, hogy sosem félt nehéz döntéseket hozni."
+    },
+    {
+      "title": "Most akkor mi is történt Ceutában, ahol tízezrek rohamozták meg az EU kapuját?",
+      "link": "https://hvg.hu/360/20260808_migransroham-ceuta-spanyolorszag-marokko-eu",
+      "summary": "Pánikot keltett Madridban és több európai fővárosban, hogy a múlt héten afrikai migránsok tízezrei ostromolták meg Észak-Afrikában a Spanyolországhoz tartozó Ceutát, hogy bejussanak az EU-ba. De miért spanyol terület Ceuta és mi jöhet most?"
+    },
     {
       "title": "Baka Andrást javasolja a Tisza-frakció köztársasági elnöknek",
       "link": "https://hvg.hu/itthon/20260808_tisza-frakcio-koztarsasagi-elnok-ebx",
@@ -199,36 +229,6 @@
       "title": "Romániában uszályokat süllyesztenek el, hogy az atomerőmű felé tereljék a Dunát",
       "link": "https://hvg.hu/vilag/20260808_romaniaban-uszalyokat-sullyesztenek-el-hogy-az-atomeromu-fele-tereljek-a-dunat",
       "summary": "Mesterséges, víz alatti akadályt alakítanak ki."
-    },
-    {
-      "title": "Ceuta: a Meta és a TikTok felelősségét is megvizsgálná az EU",
-      "link": "https://hvg.hu/vilag/20260808_ceuta-a-meta-es-a-tiktok-felelosseget-is-megvizsgalna-az-eu",
-      "summary": "Nem azt mondják, hogy ők is tehetnek a menekültválságról, de azért megnéznék, milyen szerepük volt benne."
-    },
-    {
-      "title": "Ez már nekünk is sok! És sajnos nem látjuk a végét – másfél hónapja tűzgyújtási tilalom van, mégis országszerte pusztítanak a tüzek",
-      "link": "https://hvg.hu/itthon/20260808_szabadteri-tuzek-magyarorszag-tuzgyujtasi-tilalom-katasztrofavedelem",
-      "summary": "Felhívást tett közzé a Katasztrófavédelem."
-    },
-    {
-      "title": "Visszakapják korábbi nevüket a honvédségi alakulatok",
-      "link": "https://hvg.hu/itthon/20260808_visszakapjak-korabbi-nevuket-a-honvedsegi-alakulatok",
-      "summary": "A lista még nem teljes."
-    },
-    {
-      "title": "Megkezdődött a Tisza-frakció ülése, ahol eldől, ki lesz a következő köztársasági elnök",
-      "link": "https://hvg.hu/itthon/20260808_tisza-frakcio-ules-kovetkezo-koztarsasagi-elnok",
-      "summary": "Még ma kiderül, hogyan döntöttek."
-    },
-    {
-      "title": "Visszaadja a főváros kezelésébe az állam az Orbán-kormány által elvett belvárosi közterületeket",
-      "link": "https://hvg.hu/itthon/20260808_budapest-kozteruletek-fovaros-vagyonkezeles-varosliget-budai-var-alkotmanybirosag-torvenymodositas",
-      "summary": "A bíróság már évekkel ezelőtt kimondta, hogy alkotmánysértő volt több tér állami tulajdonba vonása."
-    },
-    {
-      "title": "Ilyen egyszerűen lehet okosóra a hagyományos órájából",
-      "link": "https://hvg.hu/tudomany/20260808_hagyomanyos-ora-kiegeszitese-okosorava",
-      "summary": "Az okosórák előnyei vitathatatlanok, azonban sajnos nem olyan elegánsak, mint a hagyományos időmérők. Egy chicagói startup ötletesen próbálja feloldani ezt az ellentmondást."
     }
   ],
   "BBC": [
@@ -238,9 +238,9 @@
       "summary": "Counter-terror police investigating the ex-MP's death say they are looking into an \"attempted burglary\" last year."
     },
     {
-      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
-      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation."
+      "title": "Victims urged to come forward as police accused of 'failures' over murderer and rapist",
+      "link": "https://www.bbc.co.uk/news/articles/cewr8egkelwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Met and British Transport Police say the sex offender may have more victims, while criticism of investigators continues."
     },
     {
       "title": "Chasing a ghost: how BBC tracked a fugitive spy chief after months-long hunt",
@@ -248,9 +248,9 @@
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
     },
     {
-      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
+      "title": "Infantino denies claims Uefa paid off alleged 'lover' when he was general secretary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2vw5z0q7no?at_medium=RSS&at_campaign=rss",
+      "summary": "Gianni Infantino's alleged lover was given a severance payment over the affair by Uefa while he was its general secretary, according to a Daily Telegraph investigation."
     },
     {
       "title": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
@@ -258,9 +258,9 @@
       "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
     },
     {
-      "title": "Police officers investigated over handling of sex offender who murdered two women",
-      "link": "https://www.bbc.co.uk/news/articles/c70g18vpwxvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Simon Levy was a serial sex offender who was being monitored by police when he killed two women."
+      "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
     },
     {
       "title": "Fifth heatwave of the year likely next week as temperatures could hit 35C",
@@ -288,24 +288,24 @@
       "summary": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help."
     },
     {
+      "title": "Woman attacked by bed bugs during Travelodge stay",
+      "link": "https://www.bbc.co.uk/news/articles/cgewxl759r5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hannah Stephenson says the red bites have left her feeling self-conscious and embarrassed."
+    },
+    {
       "title": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
       "link": "https://www.bbc.co.uk/news/articles/cy9wyzrn57wo?at_medium=RSS&at_campaign=rss",
       "summary": "The professional dancers, who married in 2003, both spent several series on the BBC programme."
     },
     {
+      "title": "Trump's ex-lawyer Todd Blanche confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off."
+    },
+    {
       "title": "Bristol Airport disruption a 'shambles' as flights restart",
       "link": "https://www.bbc.co.uk/news/articles/c1k1lyg94w9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flights are restarting with delays and diversions after 14 hours of cancellations."
-    },
-    {
-      "title": "Police failings revealed as sex offender left free to murder and attack women",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnrk4xlvdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Simon Levy’s second murder victim, Sheryl Wilkins, could have been saved, senior Met officer admits."
-    },
-    {
-      "title": "Farage and Tice sue NCA over alleged leaks of financial information",
-      "link": "https://www.bbc.co.uk/news/articles/cpvw7xyjz8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Reform leaders claim the National Crime Agency supplied details about party donations to the media."
+      "summary": "The airport says flights are restarting with delays and diversions after 14 hours of cancellations."
     }
   ],
   "TechCrunch": [

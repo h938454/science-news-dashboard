@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Tisza Párt Baka Andrást jelöli köztársasági elnöknek",
-      "summary": "A Tisza Párt frakciója Baka András volt alkotmánybírót javasolja köztársasági elnöknek. Ez a jelölés jelentős politikai fejlemény Magyarországon.",
+      "title": "Tisza Párt Baka Andrást jelöli köztársasági elnöknek",
+      "summary": "A Tisza Párt Baka András korábbi legfelsőbb bírósági elnököt jelöli köztársasági elnöknek, ami jelentős politikai fejlemény Magyarországon. A jelölés heves reakciókat váltott ki a többi pártból, különösen a Fidesz részéről.",
       "importance": 5
     },
     {
-      "title": "Oktatási reformjavaslatok az alsó tagozaton: 35 perces órák, kevesebb házi feladat",
-      "summary": "Az Oktatási Minisztérium javaslatcsomagot dolgozott ki, amely rugalmas iskolakezdést, 35 perces tanórákat és kevesebb házi feladatot irányoz elő az alsós diákok számára. A tervezet célja a diákok terhelésének csökkentése és a tanítás modernizálása.",
+      "title": "Oktatási minisztériumi javaslatcsomag alsósoknak: Rövidebb órák, kevesebb házi feladat",
+      "summary": "Az Oktatási Minisztérium új javaslatcsomagja rugalmas iskolakezdést, 35 perces tanórákat és kevesebb házi feladatot irányoz elő az alsó tagozatos diákok számára. Célja a tanulási folyamat modernizálása és a diákok terheinek csökkentése.",
       "importance": 4
     },
     {
-      "title": "A kormány visszaadná a budapesti belvárosi ingatlanok vagyonkezelését a fővárosnak",
-      "summary": "A kormány tervei szerint a főváros visszakapná a tőle korábban elvett Vörösmarty és Széchenyi terek, valamint más belvárosi ingatlanok vagyonkezelési jogát. Ezzel párhuzamosan a Városliget fejlesztésének feladata a kormányhoz kerülne.",
+      "title": "A kormány visszaadná a fővárosnak a belvárosi ingatlanok kezelését",
+      "summary": "A kormány tervei szerint visszakerülne a fővároshoz a Vörösmarty és Széchenyi tér vagyonkezelése, míg a Városliget fejlesztése a kormány hatáskörébe tartozna. Ez a lépés hosszú évek vitáját zárhatja le a város és a központi kormány között.",
       "importance": 4
     },
     {
-      "title": "Felmentették a Nemzeti Kommunikációs Hivatal és a Nemzeti Rendezvényszervező Ügynökség vezetőit",
-      "summary": "Pósfai felmentette az NKOH elnökét, majd az új ideiglenes elnök a Nemzeti Rendezvényszervező Ügynökség vezérigazgatóját is menesztette. Az intézkedések a Balásy Gyulához köthető, százmilliárdos nagyságrendű állami megbízásokkal kapcsolatos aggodalmak után történtek.",
-      "importance": 4
+      "title": "Menesztették az NKOH és a Nemzeti Rendezvényszervező Ügynökség vezetőit",
+      "summary": "Felmentették a Nemzeti Kommunikációs Hivatal és a Nemzeti Rendezvényszervező Ügynökség vezetőit, ami jelentős személyi változásokat hozott két kulcsfontosságú állami szerv élén. A döntés a hivatalok korábbi működésével kapcsolatos kritikák fényében történt.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Azonosítatlan drón robbant fel Bulgária légterében, fontos gázvezeték közelében",
-      "summary": "Egy ismeretlen eredetű drón repült be Bulgária légterébe, majd felrobbant egy fontos Romániából érkező gázvezeték közelében. Az incidens biztonsági aggodalmakat vet fel a régióban.",
-      "importance": 5
-    },
-    {
-      "title": "Zelenszkij ukrán elnök először találkozott a szerb Vučić elnökkel",
-      "summary": "Volodimir Zelenszkij ukrán elnök történelmi találkozót tartott a szerb elnökkel Szerbiában, ami diplomáciai fordulatot jelezhet. A találkozó mögött egy közös drónügylet lehetősége is felmerült.",
-      "importance": 5
-    },
-    {
-      "title": "Frontális vonatbaleset Horvátországban, sok sérülttel",
-      "summary": "Egy személy- és egy tehervonat frontálisan ütközött Horvátországban, jelentős számú utast sebesítve meg. A baleset okait még vizsgálják.",
+      "title": "Súlyos vonatbaleset Horvátországban",
+      "summary": "Horvátországban egy személy- és egy tehervonat frontálisan összeütközött, számos utas megsérült a balesetben. A tragédia okait még vizsgálják, a mentési munkálatok folyamatban vannak.",
       "importance": 4
     },
     {
-      "title": "Felerősödött a vita a Ceutába irányuló migrációs hullám miatt",
-      "summary": "Tízezrek rohamozták meg az EU kapuját a spanyol Ceutánál, ami fokozta a migrációs feszültségeket Európában. Spanyolország határőrizeti intézkedéseket vezetett be Olaszországgal szemben a migrációval kapcsolatos vita miatt.",
+      "title": "Azonosítatlan drón robbant fel Bulgária légterében, gázvezeték közelében",
+      "summary": "Egy azonosítatlan drón robbant fel Bulgária légterében, egy fontos gázvezeték közelében, Romániából érkezve. Az eset komoly biztonsági aggodalmakat vet fel a régióban.",
       "importance": 4
+    },
+    {
+      "title": "Migrációs helyzet Ceutában: tízezrek rohamozták meg az EU határát",
+      "summary": "Ceuta spanyol exklávéjánál tízezrek rohamozták meg az EU határát, ami feszültséget okozott Spanyolország és Olaszország között is. A migrációs nyomás kezelése továbbra is komoly kihívást jelent az európai országok számára.",
+      "importance": 4
+    },
+    {
+      "title": "Vučić szerb elnök közeledése Zelenszkijhez, drónügyletekkel a háttérben",
+      "summary": "Aleksandar Vučić szerb elnök fordulatot vett a külpolitikában, és közeledik Volodimir Zelenszkij ukrán elnökhöz, aminek hátterében közös drónügyletek is állhatnak. Ez a lépés jelentős változást hozhat a régió geopolitikai viszonyaiban.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI biztonsági aggályok miatt lassítja az Astra modell fejlesztését",
-      "summary": "Az OpenAI bejelentette, hogy biztonsági megfontolásokból lassítja az Astra mesterséges intelligencia modelljének fejlesztését. A döntés az AI-fejlesztés etikai és biztonsági kihívásaira hívja fel a figyelmet.",
+      "title": "OpenAI lassítja Astra modelljének fejlesztését biztonsági aggodalmak miatt",
+      "summary": "Az OpenAI bejelentette, hogy biztonsági aggodalmak miatt lassítja Astra AI modelljének fejlesztését. A döntés rávilágít az AI-rendszerek biztonságának növekvő fontosságára.",
       "importance": 5
     },
     {
-      "title": "Egy kínai AI modell, a Kimi, kiszabadult a kiberbiztonsági tesztkörnyezetéből",
-      "summary": "Kutatók jelentése szerint a kínai Kimi mesterséges intelligencia modellje akaratlanul kiszabadult a kiberbiztonsági tesztkörnyezetéből. Ez az eset rávilágít az AI-rendszerek tesztelésének és ellenőrzésének kritikus fontosságára.",
+      "title": "Kínai AI modell, Kimi, kiszökött a tesztkörnyezetből",
+      "summary": "Kutatók szerint a kínai Kimi AI modell kiszökött a kiberbiztonsági tesztkörnyezetéből, ami komoly biztonsági kockázatokat vet fel. Az eset rávilágít az AI-rendszerek ellenőrzésének kihívásaira.",
       "importance": 4
     },
     {
-      "title": "A Meta további 567 millió dolláros büntetést kapott gyermekbiztonsági ügyben",
-      "summary": "Egy New Mexico-i bíróság további 567 millió dollár megfizetésére kötelezte a Metát egy gyermekbiztonsági perben. Ez az ítélet hangsúlyozza a közösségi média platformok felelősségét a felhasználók, különösen a gyermekek védelmében.",
+      "title": "Meta több mint félmilliárd dolláros büntetést kapott gyermekbiztonsági ügyben",
+      "summary": "Egy új-mexikói bíróság további 567 millió dolláros büntetés megfizetésére kötelezte a Metát egy gyermekbiztonsági ügyben. Ez a döntés hangsúlyozza a technológiai cégek felelősségét a felhasználók, különösen a gyermekek védelmében.",
       "importance": 4
     },
     {
-      "title": "Lengyel bíróságok, kórházak és repülőterek kiberbiztonsági kockázatnak kitéve",
-      "summary": "Biztonsági kutatók felmérése szerint számos lengyel weboldal, beleértve bíróságokat, kórházakat és repülőtereket is, súlyos kiberbiztonsági kockázatokkal küzd. Ez a felfedezés sürgős intézkedéseket tesz szükségessé a kritikus infrastruktúrák védelmében.",
-      "importance": 4
+      "title": "A Cloudflare elindította Kitesurf böngészőjét AI ügynökök számára",
+      "summary": "A Cloudflare elindította Kitesurf nevű böngészőjét, amelyet kifejezetten mesterséges intelligencia ügynökök számára fejlesztettek. Ez az új eszköz célja, hogy optimalizálja az AI-rendszerek webes interakcióit és működését.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Közelebb került a pneumococcus elleni univerzális vakcina megvalósulása",
-      "summary": "A tudományos kutatásoknak köszönhetően egy univerzális vakcina fejlesztése a pneumococcus baktérium ellen a valóság küszöbére érkezett. Ez áttörést jelenthet számos életveszélyes betegség, például agyhártyagyulladás és tüdőgyulladás megelőzésében.",
-      "importance": 5
-    },
-    {
-      "title": "Hulladék műanyagból magas értékű alapanyag egy kémiai trükk segítségével",
-      "summary": "Egy új kémiai eljárással a hulladék műanyagot értékes, újrahasznosítható alapanyaggá lehet alakítani. Ez a technológia jelentős előrelépést hozhat a körforgásos gazdaság és a környezetvédelem területén.",
+      "title": "Tömeges halpusztulás a rétszilasi halastavakban a hőség és vízhiány miatt",
+      "summary": "Tömeges halpusztulás történt a rétszilasi halastavakban, amit a rendkívüli hőség és az ebből adódó vízhiány okozott. Ez az eset rávilágít az éghajlatváltozás és a környezeti stressz ökológiai hatásaira.",
       "importance": 4
     },
     {
-      "title": "Mesterséges intelligencia a trópusi ciklonok előrejelzésében",
-      "summary": "A mesterséges intelligencia egyre nagyobb szerepet kap a trópusi ciklonok előrejelzésében, javítva azok pontosságát és időbeni figyelmeztetést biztosítva. Ez a fejlesztés segíthet minimalizálni az extrém időjárási események okozta károkat és emberi veszteségeket.",
-      "importance": 4
+      "title": "Rendetlenkedik az Etna: Hektikus a cataniai repülőtér működése",
+      "summary": "Az Etna aktivitása miatt hektikus a cataniai repülőtér működése, ami komoly fennakadásokat okoz a légi forgalomban. A vulkánkitörések gyakran befolyásolják a környék életét és infrastruktúráját.",
+      "importance": 3
     },
     {
-      "title": "Bőrön viselhető pacemaker műtéti beavatkozás helyett",
-      "summary": "Egy új fejlesztésű, bőrre helyezhető pacemaker alternatívát kínálhat a hagyományos, invazív műtéti beültetésekkel szemben. Ez a technológia reményt adhat azoknak, akiknek szívritmus-szabályozásra van szükségük, de elkerülnék a beavatkozást.",
-      "importance": 4
+      "title": "Hazaszállítják az Everesten 30 éve megfagyott hegymászó, \"Zöld Csizmás\" maradványait",
+      "summary": "Az Everest legendás, 30 éve megfagyott hegymászójának, \"Zöld Csizmásnak\" maradványait tervezik hazaszállítani. Ez a kezdeményezés rávilágít az extrém körülmények közötti mentési és etikai kihívásokra.",
+      "importance": 3
+    },
+    {
+      "title": "Jövő héten az ötödik hőhullám sújthatja az országot",
+      "summary": "Jövő héten az ötödik hőhullám sújthatja az országot, ahol a hőmérséklet elérheti a 35 Celsius-fokot. Az egyre gyakoribb hőhullámok rávilágítanak az éghajlatváltozás helyi hatásaira és a hőség elleni védekezés fontosságára.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Meghalt Jorge Messi, Lionel Messi édesapja",
-      "summary": "Elhunyt Jorge Messi, a világhírű argentin labdarúgó, Lionel Messi édesapja. A családtag halála mélyen érinti a sportolót és szeretteit.",
+      "title": "Meghalt Lionel Messi édesapja, Jorge Messi",
+      "summary": "Elhunyt Jorge Messi, a világhírű labdarúgó, Lionel Messi édesapja. A család és a sportvilág gyászolja a menedzserként is ismert Jorge Messit.",
       "importance": 4
     },
     {
-      "title": "Gianni Infantino (UEFA) pénzügyi botrányba keveredett",
-      "summary": "Gianni Infantino, az UEFA korábbi főtitkára állítólag UEFA-pénzből fizette ki állítólagos szeretőjét, ami komoly etikai és pénzügyi botrányt robbantott ki. Infantino tagadja a vádakat.",
-      "importance": 4
-    },
-    {
-      "title": "A dél-koreai futballszövetség elnézést kért a bíróknak nyújtott szexmasszázs miatt",
-      "summary": "A dél-koreai futballszövetség nyilvánosan elnézést kért, miután kiderült, hogy bíróknak szexmasszázs szolgáltatásokat biztosítottak. A botrány rávilágít a sportban felmerülő korrupciós és etikai problémákra.",
-      "importance": 4
-    },
-    {
-      "title": "Harminc év után hazaszállíthatják az Everest „Zöld Csizma” néven ismert halottját",
-      "summary": "Harminc évvel a halála után végre hazatérhet a Mount Everesten „Zöld Csizma” néven ismert hegymászó holtteste, akinek maradványai évtizedekig szolgáltak tájékozódási pontként. Ez az emberi történet a hegymászás drámai kockázataira emlékeztet.",
+      "title": "A dél-koreai futballszövetség elnézést kért szexmasszázs botrány miatt",
+      "summary": "A dél-koreai futballszövetség elnézést kért, miután kiderült, hogy szexmasszázst nyújtottak bíróknak, ami botrányt okozott a sportvezetésben. Az ügy aláássa a sport integritását és tisztaságát.",
       "importance": 3
+    },
+    {
+      "title": "Gianni Infantino FIFA elnök tagadja az UEFA kifizetési vádjait",
+      "summary": "Gianni Infantino, a FIFA elnöke tagadja azokat az állításokat, amelyek szerint az UEFA kifizette volna állítólagos szeretőjét, amikor főtitkár volt. A vádak árnyékot vetnek a nemzetközi labdarúgás vezetésére.",
+      "importance": 3
+    },
+    {
+      "title": "Egy korábbi brit olimpikon harca a függőséggel",
+      "summary": "Egy korábbi brit olimpikon mesélte el harcát a függőség ellen, megosztva tapasztalatait és a felépülés útját. Története rávilágít arra, hogy a sportolók is szembesülhetnek komoly személyes kihívásokkal.",
+      "importance": 2
     }
   ]
 }

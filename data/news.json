@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "A fekete autók utastere tényleg sokkal jobban felforrósodik a napon parkolva, mint a fehéreké?",
+      "link": "https://telex.hu/ellenorzo/2026/08/08/auto-utaster-forrosag-napsutes-autofenyezes-sotet-vilagos-szin",
+      "summary": "Több tényező is szerepet játszik abban, mennyire forrósodik fel az autó, és meglepő módon nem a szín a legfontosabb ezek közül."
+    },
+    {
+      "title": "Ha tesszük a dolgunkat, és tényleg bevezetjük az eurót, azzal sokat lehet keresni",
+      "link": "https://telex.hu/g7/penz/2026/08/08/euro-bevezetes-kotveny-hozam-konvergencia",
+      "summary": "Ha a nemzetközi piacokon nem lesz pánik, akkor a magyar kötvények várható konvergenciája szinte túl szép folyamat ahhoz, hogy igaz legyen."
+    },
+    {
       "title": "Éveken át nyilvános profillal használta a Stravát a holland katonai hírszerzés igazgatója",
       "link": "https://telex.hu/kulfold/2026/08/07/eveken-at-nyilvanos-profillal-hasznalta-a-stravat-a-holland-katonai-hirszerzes-igazgatoja",
       "summary": "Bárki láthatta, hogy Peter Reesink milyen útvonalon biciklizett a munkahelyére, és mikor ment el nyaralni."
@@ -64,16 +74,6 @@
       "title": "A Miniszterelnökség is szakít a Balásy Gyula-féle rendezvényszervező céggel",
       "link": "https://telex.hu/gazdasag/2026/08/07/miniszterelnokseg-lounge-event-balasy-gyula",
       "summary": "A Lounge Event nem tájékoztatta hivatalosan a Miniszterelnökséget, hogy végrehajtási eljárás indult az állami milliárdokat bezsákoló cég ellen, ezért nem lehet fenntartani a szerződést."
-    },
-    {
-      "title": "Több mint nyolcvan év után kinyitották a Dunából kihalászott második világháborús motor oldaldobozát",
-      "link": "https://telex.hu/belfold/2026/08/07/duna-aszaly-masodik-vilaghaborus-nemet-motorkerekpar-oldaldoboz-kinyitas-mutargyak",
-      "summary": "Egy Bosch gyertya és több szerszám is előkerült belőle."
-    },
-    {
-      "title": "Vinícius Júnior és Arda Güler is ott lesz Fradi–Real Madrid-meccsen",
-      "link": "https://telex.hu/sport/2026/08/07/real-madrid-kerethirdetes-ferencvaros-felkeszulesi-merkozes-vinicius-junior-trent-alexander-arnold-arda-guler",
-      "summary": "Keretet hirdetett a 15-szörös BEK-, illetve Bajnokok Ligája-győztes spanyol csapat."
     }
   ],
   "Portfolio": [],
@@ -263,6 +263,11 @@
       "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread."
     },
     {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
+    },
+    {
       "title": "Obesity rates have doubled in England since 1993 - what's going on?",
       "link": "https://www.bbc.co.uk/news/articles/cd0xyl3yp2jo?at_medium=RSS&at_campaign=rss",
       "summary": "Around seven million more adults are living with obesity than would have been if obesity rates had stayed the same as 1993."
@@ -273,19 +278,14 @@
       "summary": "As temperatures start to rise again over the weekend, many parts of England and Wales will enter into the fifth heatwave of the year, as Simon King explains"
     },
     {
-      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
-    },
-    {
       "title": "Streeting 'sickened' by sex abuse claims at Army college",
       "link": "https://www.bbc.co.uk/news/articles/c8en51le9e1o?at_medium=RSS&at_campaign=rss",
       "summary": "The defence secretary promises to look into what went wrong at the college in North Yorkshire."
     },
     {
-      "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead."
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances."
     },
     {
       "title": "Book hidden in fireplace returned to Australian library 150 years overdue",

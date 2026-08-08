@@ -1,6 +1,21 @@
 {
   "Telex": [
     {
+      "title": "Orosz beavatkozás gyanúja miatt jogi panaszt tett a francia elnökválasztás egyik indulója",
+      "link": "https://telex.hu/kulfold/2026/08/08/gabriel-attal-francia-miniszterelnok-elnokvalasztas-orosz-beavatkozas-jogi-panasz",
+      "summary": "Azután tette ezt, hogy a héten több deepfake-videóban is megjelenítették, álhíreket terjesztő oldalakon írtak róla."
+    },
+    {
+      "title": "Tojással dobálták meg a koszovói miniszterelnököt a parlamentben",
+      "link": "https://telex.hu/kulfold/2026/08/08/tojassal-dobaltak-meg-albin-kurti-koszovoi-miniszterelnokot-parlamentben",
+      "summary": "Nem sikerült megállapodni, ez lett a vége. Az ülést félbe kellett szakítani."
+    },
+    {
+      "title": "Új világcsúcsot állított fel Törőcsik Zsófia, 107 méter mélyre merült oxigénpalack nélkül",
+      "link": "https://telex.hu/sport/2026/08/08/torocsik-zsofia-vilagcsucs-107-meter-szabadtudos-merules",
+      "summary": "„Tudtam, hogy fizikailag képes vagyok rá, és erőben nagyon jó állapotban vagyok” – nyilatkozta a merülés után a búvár."
+    },
+    {
       "title": "Biztonsági okokból szünetelteti az OpenAI az egyik mesterségesintelligencia-modellje fejlesztésének egy részét",
       "link": "https://telex.hu/techtud/2026/08/08/openai-astra-modell-mesterseges-intelligencia-biztonsagi-kockazat-chatgpt",
       "summary": "A cég szerint a rendszer emberi beavatkozás nélkül is képes kibertámadásokat megtervezni és végrehajtani."
@@ -59,21 +74,6 @@
       "title": "Magyar Péter: Baka András a nemzet iránti szolgálatból elfogadta a felkérést",
       "link": "https://telex.hu/belfold/2026/08/08/baka-andras-magyar-peter-felkeres-elfogadva",
       "summary": "Az új köztársasági elnököt kedd délelőtt választja meg az Országgyűlés."
-    },
-    {
-      "title": "Rosszul lettek a strandolók az Igali Gyógyfürdőben, túl sok vegyszer került a medencébe",
-      "link": "https://telex.hu/belfold/2026/08/08/vegyszeradagolasi-problema-miatt-korhazba-kerult-az-igali-gyogyfurdo-tobb-vendege",
-      "summary": "Hat embert kellett kórházba vinni, a medencét lezárták."
-    },
-    {
-      "title": "Megszavazta az amerikai szenátus a javaslatot, ami százszázalékos vámot vethet ki Magyarországra is, mert orosz olajat és gázt veszünk",
-      "link": "https://telex.hu/kulfold/2026/08/08/orosz-ukran-haboru-raketatamadas-aldozat-gyerek-amerikai-szankcios-csomag-foldgaz-olaj",
-      "summary": "A törvényt még meg kell szavaznia a képviselőháznak is. Közben Ukrajnában meghaltak 13-an orosz rakétatámadásokban, Ukrajna orosz olajfinomítókra mért csapásokat."
-    },
-    {
-      "title": "Kövekkel megpakolt uszályokat süllyesztettek el Romániában, hogy tovább működhessen az atomerőmű",
-      "link": "https://telex.hu/kulfold/2026/08/08/romania-uszaly-duna-atomeromu-alacsony-vizszint",
-      "summary": "Ezzel 3-4 nappal elodázhatják a cernavodai atomerőmű teljes lekapcsolását."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,16 @@
   ],
   "HVG": [
     {
+      "title": "Tűz ütött ki a nyugat-szlovákiai Szenice közelében lévő katonai támaszponton",
+      "link": "https://hvg.hu/vilag/20260808_tuz-kiut-nyugat-szlovakia-szenice-kozel-katonasag-tamaszpont",
+      "summary": "Több tucat járművel, köztük helikopterekkel dolgoztak a lángok megfékezésén."
+    },
+    {
+      "title": "Túlságosan kitanulta a kibervédelmet az OpenAI egyik modellje, felfüggesztik a fejlesztését",
+      "link": "https://hvg.hu/kkv/20260808_tul-fejlett-kiberbiztonsag-openai-modell-felfuggesztes-fejlesztes-astra",
+      "summary": "A rendszer képesség vált emberi beavatkozás nélkül más rendszerekben sebezhetőségeket felderíteni és kihasználni, illetve akár kibertámadásokat megtervezni és végrehajtani pusztán egy „magas szintű célkitűzés” alapján."
+    },
+    {
       "title": "30 százalékos költségcsökkentést jelentett be zárt körben Kubatov Gábor a Fradinál",
       "link": "https://hvg.hu/sport/20260808_30-szazalek-koltsegcsokkentes-bejelent-zart-kor-kubatov-gabor-fradi",
       "summary": "Kubatov Gábor zárt körben arról is beszámolt, hogy mire költötték a meg nem valósult Fradivárosra kapott 25 milliárd forint állami támogatást."
@@ -219,16 +229,6 @@
       "title": "Fizetni fognak a felhasználók a Spotifyon az AI-zenékért is, állítja a cég, de a befektetők nem igazán boldogok",
       "link": "https://hvg.hu/tudomany/20260808_uj-ai-funkciok-spotify",
       "summary": "Egyre nagyobb szerepet szánna a platformján a mesterséges intelligenciának a Spotify. A cél, hogy növelje előfizetéses felhasználói táborát. Többen viszont attól tartanak, hogy a mesterséges intelligencia bevonása olyan változásokat indít majd el, amelyek esetleg kezelhetetlenek lesznek."
-    },
-    {
-      "title": "A hírek szerint ugyancsak jelölt Vidéki prókátor gratulált Baka Andrásnak",
-      "link": "https://hvg.hu/itthon/20260808_videki-prokator-gratulalt-baka-andras-koztarsasagi-elnok",
-      "summary": "A kegyelmi ügyből egyelőre nem lett köztársasági elnöki cím."
-    },
-    {
-      "title": "Magyar nemzeti bajuszkenőcs, avagy Budapest története egy illatszerbolt kirakatából",
-      "link": "https://hvg.hu/360/20260808_kiallitas-akiscelliben-csalad-es-varostortenet-parfumuzlet-magyar-nemzeti-bajuszkenocs-hvg",
-      "summary": "Több generáció őrizte gondosan a hagyatékot a Vértessi családban, ennek köszönhetően most kiállításon tárulhat fel Budapest egykori luxusillatszerboltjának története. De az Illatszilánkok: A Vértessi család hagyatéka című tárlat több ennél: a polgárosodó főváros története is egyben."
     }
   ],
   "BBC": [
@@ -248,9 +248,9 @@
       "summary": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria."
     },
     {
-      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
     },
     {
       "title": "Sturgeon hasn't spoken to Murrell since he was jailed for embezzling SNP funds",
@@ -293,14 +293,14 @@
       "summary": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta."
     },
     {
+      "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
+      "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "summary": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans."
+    },
+    {
       "title": "Messi's father Jorge dies aged 68 after illness",
       "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
       "summary": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness."
-    },
-    {
-      "title": "Child among three killed in Russian missile attacks near Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors."
     },
     {
       "title": "Strictly dancers Ola and James Jordan separate after 23 years of marriage",
@@ -309,6 +309,11 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT."
+    },
     {
       "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
       "link": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
@@ -378,11 +383,6 @@
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle."
-    },
-    {
-      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
-      "link": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-      "summary": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary."
     }
   ],
   "Nature": [

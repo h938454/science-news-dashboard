@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Mire Orbán nemzeti ellenállást hirdetett, Apátiék mozgalmába már 2,7 milliárdot pakoltak",
-      "summary": "Miközben a miniszterelnök nemzeti ellenállásról beszélt, egy kapcsolódó mozgalomba már több milliárd forint érkezett. A pénzügyi támogatás és a politikai retorika közötti összefüggések kérdéseket vetnek fel.",
+      "title": "Egy fiatal szerint bedrogozták a húgát DJ Oti showján a Szigeten, az OMSZ is reagált",
+      "summary": "Egy fiatal posztolta, hogy a húgát bedrogozhatták a Sziget fesztiválon egy DJ Oti show alatt. Az eset aggodalmat keltett a közösségi médiában, az Országos Mentőszolgálat (OMSZ) is megerősítette, hogy több, drogos gyanús esethez riasztották őket a fesztiválra.",
+      "importance": 4
+    },
+    {
+      "title": "A jegybank alelnöke szerint sok előnnyel járna az euró bevezetése Magyarországon",
+      "summary": "A Magyar Nemzeti Bank alelnöke úgy nyilatkozott, hogy az euró bevezetése számos előnnyel járna Magyarország számára, például növelné a gazdasági stabilitást és a befektetői bizalmat. Ugyanakkor kiemelte a szükséges előfeltételek, mint a fenntartható költségvetési politika meglétének fontosságát.",
       "importance": 5
     },
     {
-      "title": "Luxusfürdőszoba Novák Katalin egykori kormányzati irodájában",
-      "summary": "Kiderült, hogy Novák Katalin korábbi kormányzati irodájában egy rendkívül drága luxusfürdőszoba épült. Az eset nagy felháborodást váltott ki a közvéleményben és a politikában.",
+      "title": "Hideg számítások a kánikulától szenvedő Dunáról: mi érné meg és mi nem?",
+      "summary": "A Duna alacsony vízszintje miatt gazdasági és környezetvédelmi szempontból is kritikussá vált a helyzet Magyarországon. Szakértők vizsgálják, milyen hosszú távú intézkedések lennének szükségesek és gazdaságosak az éghajlatváltozás okozta hatások kezelésére, különös tekintettel a vízellátásra és a hajózásra.",
       "importance": 4
     },
     {
-      "title": "Sikeres endoszkópos gerincműtéteket végeznek Szegeden",
-      "summary": "Szegeden sikeresen alkalmazzák az endoszkópos gerincműtéti eljárást, melynek köszönhetően a betegek gyorsabban felépülnek. A modern technika jelentősen javítja a gerincbetegségben szenvedők életminőségét.",
+      "title": "Nagyon leegyszerűsítő azt gondolni, hogy csak a jobb fizetésért és munkáért vándorolnak el az emberek",
+      "summary": "Egy elemzés rámutat, hogy a magyarok elvándorlása nem csupán a magasabb fizetések és jobb munkalehetőségek miatt történik. A társadalmi légkör, az életminőség, a korrupció és a jövőkép is jelentős szerepet játszik a döntésekben, komplexebbé téve a jelenséget.",
       "importance": 4
-    },
-    {
-      "title": "Náci hajóroncsok bukkannak elő a Dunából",
-      "summary": "A Duna alacsony vízállása miatt több, a második világháborúból származó náci hajóroncs került felszínre. Ezek a leletek fontos történelmi emlékek, de környezetvédelmi és hajózási kihívásokat is jelentenek.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Netanjahu elutasítja Trump gázai rendezési tervét",
-      "summary": "Benjámin Netanjahu izraeli miniszterelnök kijelentette, hogy elutasítja Donald Trump gázai rendezési tervét. A terv szerint Palesztin Állam sehol sem jöhetne létre, amíg ő a kormányfő.",
+      "title": "Zelenszkij szerint hamarosan 50 ezer észak-koreai szállhat harcba az orosz-ukrán fronton",
+      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki, miszerint akár 50 ezer észak-koreai katona is csatlakozhat az orosz erőkhöz az ukrán fronton. Ez a fejlemény jelentősen befolyásolhatja a háború menetét és a nemzetközi erőviszonyokat.",
       "importance": 5
     },
     {
-      "title": "Ukrajna régebbi amerikai rakétákat vásárol Törökországtól",
-      "summary": "Ukrajna régebbi típusú amerikai rakétákat szerez be Törökországtól a folyamatos harcokhoz. Ez a lépés rávilágít a háború elhúzódására és az ukrán hadsereg folyamatos utánpótlás-igényére.",
+      "title": "Izrael elutasítja Trump 15 pontos gázai tervét, mondja Netanjahu",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök bejelentette, hogy Izrael elutasítja Donald Trump korábbi elnök Gázára vonatkozó 15 pontos tervét. Az elutasítás tovább bonyolítja a régióban a béketárgyalások kilátásait és a feszültséget növelheti.",
       "importance": 5
     },
     {
-      "title": "Kanadában szükségállapotot hirdettek az erdőtüzek miatt",
-      "summary": "Kanada egyes részein szükségállapotot vezettek be a pusztító erdőtüzek miatt. A tűzvész hatalmas területeket emészt fel, komoly környezeti és gazdasági károkat okozva.",
+      "title": "Az apadó Rajna megmutatja, mennyire kiszolgáltatott a német gazdaság egyetlen folyónak",
+      "summary": "A Rajna folyó történelmi mélypontra apadt vízszintje súlyosan befolyásolja a német gazdaságot, akadályozva a hajózást és az ipari ellátási láncokat. Ez rávilágít az ország gazdaságának folyóktól való függőségére és az éghajlatváltozás hatásaira.",
       "importance": 4
     },
     {
-      "title": "Az apadó Rajna kiszolgáltatottá teszi a német gazdaságot",
-      "summary": "A Rajna folyó alacsony vízállása súlyosan érinti Németország gazdaságát, rávilágítva az ország folyami szállítási függőségére. A jelenség az éghajlatváltozás gazdasági következményeire is figyelmeztet.",
+      "title": "Kanadában szükségállapotot hirdettek az erdőtüzek miatt",
+      "summary": "Kanada több tartományában szükségállapotot hirdettek az elszabadult erdőtüzek miatt, amelyek hatalmas területeket pusztítanak és lakosság evakuálását teszik szükségessé. Az eset rávilágít az éghajlatváltozás okozta extrém időjárási jelenségekre és azok pusztító következményeire.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI biztonsági tesztjei maguk is biztonsági kockázattá válnak",
-      "summary": "Az mesterséges intelligencia rendszerek biztonsági tesztelése, bár elengedhetetlen, egyre inkább önmagában is kockázatokat hordoz. A komplex rendszerek sebezhetőségeinek azonosítása új kihívásokat teremt.",
+      "title": "Az OpenAI lassította az Astra modell fejlesztését biztonsági aggodalmak miatt",
+      "summary": "Az OpenAI bejelentette, hogy biztonsági aggályok miatt lassította az Astra nevű AI modelljének fejlesztését. Ez a lépés rávilágít a mesterséges intelligencia gyors fejlődésével járó potenciális kockázatokra és a biztonsági protokollok fontosságára a technológiai szektorban.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI lelassította az Astra modell fejlesztését biztonsági aggodalmak miatt",
-      "summary": "Az OpenAI bejelentette, hogy biztonsági aggodalmak miatt lassította az Astra nevű mesterséges intelligencia modelljének fejlesztését. Ez a lépés rávilágít az AI-fejlesztés etikai és biztonsági kihívásaira.",
-      "importance": 5
-    },
-    {
-      "title": "Az Amazon tervezett adatközpontja lehet az USA legnagyobb klímaszennyezője",
-      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb klímaszennyezője lehet, aggályokat vetve fel a technológiai szektor környezeti lábnyomával kapcsolatban. A digitális infrastruktúra növekedése jelentős energiaigénnyel jár.",
+      "title": "Egy tervezett Amazon adatközpont lehetne az Egyesült Államok legnagyobb klímaszennyezője",
+      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb egyéni klímaszennyezőjévé válhat, jelentős aggodalmakat keltve a techipar ökológiai lábnyoma miatt. A beruházás környezeti hatásai vita tárgyát képezik a fenntarthatósági célok fényében.",
       "importance": 4
     },
     {
-      "title": "Lengyel weboldalak sebezhetőségei: bíróságok, kórházak és repülőterek is veszélyben",
-      "summary": "Biztonsági kutatók súlyos sebezhetőségeket találtak a lengyel weboldalakon, amelyek bíróságokat, kórházakat és repülőtereket is érintenek. Ez rávilágít a kritikus infrastruktúrák digitális védelmének fontosságára.",
+      "title": "Kiberbiztonsági kutatók lengyel kórházakat, bíróságokat és repülőtereket találtak hackertámadás veszélyének kitéve",
+      "summary": "Biztonsági kutatók átvizsgálták a lengyel webet, és számos intézményt, köztük kórházakat, bíróságokat és repülőtereket azonosítottak, amelyek ki vannak téve hackertámadások veszélyének. Ez rávilágít a kritikus infrastruktúrák digitális védelmének sürgősségére és a széles körű sebezhetőségre.",
       "importance": 4
+    },
+    {
+      "title": "Az AI biztonsági tesztje maga is biztonsági kockázattá válik",
+      "summary": "A mesterséges intelligencia rendszerek biztonsági tesztelése során felmerült, hogy maga a tesztelési folyamat is kockázatot jelenthet. Ez kihívás elé állítja az AI fejlesztőket abban, hogyan biztosítsák a rendszerek megbízhatóságát és biztonságát anélkül, hogy új veszélyeket teremtenének.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Egyetemes vakcina a pneumococcus betegség ellen a valóság küszöbén",
-      "summary": "Közelebb került a valósághoz egy egyetemes vakcina a pneumococcus betegség ellen, amely globálisan számos életet menthet meg. A fejlesztés áttörést jelent a fertőző betegségek elleni védekezésben.",
+      "title": "Kémiai trükkel alakítható át a műanyaghulladék nagy értékű anyaggá",
+      "summary": "Tudósok egy kémiai eljárást fejlesztettek ki, amellyel a hulladék műanyagot értékes alapanyaggá alakíthatják. Ez a felfedezés forradalmasíthatja a műanyag újrahasznosítást és jelentősen hozzájárulhat a környezetszennyezés csökkentéséhez a bolygón.",
       "importance": 5
     },
     {
-      "title": "A hőhullámok milliókat öltek meg: hogyan számlálják a tudósok az áldozatokat",
-      "summary": "A tudósok új módszereket dolgoztak ki annak felmérésére, hogy a hőhullámok hány millió ember haláláért felelősek világszerte. Ez az adatgyűjtés kulcsfontosságú az éghajlatváltozás emberi egészségre gyakorolt hatásainak megértésében.",
+      "title": "Közelebb került a pneumococcus elleni univerzális vakcina",
+      "summary": "A kutatók áttörést értek el a pneumococcus okozta betegségek elleni univerzális vakcina fejlesztésében. Ez a vakcina szélesebb körű védelmet nyújthat a bakteriális fertőzések ellen, jelentősen javítva a globális közegészségügyet és megmentve életeket.",
       "importance": 5
     },
     {
-      "title": "A hulladék műanyag értékes áruvá alakul át egy kémiai trükkel",
-      "summary": "Kémiai eljárással a hulladék műanyag magas értékű alapanyaggá alakítható, ígéretes megoldást kínálva a globális műanyagszennyezésre. Ez az innováció jelentős lépést jelent a körforgásos gazdaság felé.",
+      "title": "AI ügynökök ellenőrzik a tudományos irodalmat és évtizedes hibákat találnak",
+      "summary": "Mesterséges intelligencia alapú ügynökök kezdik átvizsgálni a tudományos szakirodalmat, és meglepő módon évtizedes hibákat és pontatlanságokat tárnak fel. Ez az új módszer javíthatja a tudományos kutatások pontosságát és megbízhatóságát, felgyorsítva a tudományos fejlődést.",
       "importance": 4
     },
     {
-      "title": "A DNS-javítás a hosszú élet titka lehet? Bálnák és vakondpatkányok adnak tippeket",
-      "summary": "A DNS-javító mechanizmusok mélyebb megértése kulcsot rejthet a hosszú élet titkához, amire bálnák és vakondpatkányok vizsgálata ad reményt. A kutatás új utakat nyithat az öregedés elleni küzdelemben.",
+      "title": "A DNS-javítás a hosszú élet titka? Bálnák és csupasz turkálók adnak nyomokat",
+      "summary": "A tudósok azt vizsgálják, hogy a DNS-javítás mechanizmusai lehetnek-e a hosszú élet kulcsa, figyelembe véve olyan hosszú életű állatokat, mint a bálnák és a csupasz turkálók. Az eredmények új betekintést nyújthatnak az öregedés folyamatába és az emberi élettartam meghosszabbításába.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A magyar öttusa válogatott volt a legeredményesebb az isztambuli Európa-bajnokságon",
-      "summary": "A magyar öttusa válogatott kiemelkedően szerepelt az isztambuli Európa-bajnokságon, a mezőny legeredményesebb csapatává válva. A sportolók számos érmet szereztek, ezzel öregbítve hazánk hírnevét.",
-      "importance": 5
-    },
-    {
-      "title": "Tragédia a nagyatádi triatlonversenyen: meghalt egy versenyző",
-      "summary": "Halálos baleset történt a nagyatádi triatlonversenyen, egy sportoló életét vesztette. A tragédia mélyen megrázta a sportközösséget és felhívja a figyelmet a versenyek biztonságára.",
-      "importance": 5
-    },
-    {
-      "title": "Szoboszlaiék 2-0-s vezetésről kaptak ki a Monaco elleni edzőmeccsen",
-      "summary": "Szoboszlai Dominik csapata, a Liverpool 2-0-s előnyből veszített a Monaco elleni felkészülési mérkőzésen. A vereség ellenére a magyar játékos teljesítménye továbbra is kiemelt figyelmet kap.",
+      "title": "A magyar válogatott szerepelt a legeredményesebben az isztambuli öttusa Európa-bajnokságon",
+      "summary": "A magyar öttusa válogatott rendkívül sikeresen szerepelt az isztambuli Európa-bajnokságon, a mezőny legeredményesebb csapataként számos érmet szerezve. Ezzel a teljesítménnyel megerősítették vezető pozíciójukat a sportágban és büszkeséggel töltötték el a nemzetet.",
       "importance": 4
     },
     {
-      "title": "Győzelemmel felérő vereség: belépés a Fradi-szentélybe a Real Madrid ellen",
-      "summary": "Hosszú évek tiltása után a Fradi szurkolói ismét bemehettek a stadionba, hogy megnézzék a Real Madrid elleni mérkőzést. A „győzelemmel felérő vereség” érzése felejthetetlen élményt nyújtott a drukkereknek.",
-      "importance": 4
+      "title": "Meghalt egy versenyző a nagyatádi triatlonversenyen",
+      "summary": "Egy sportoló tragikus körülmények között elhunyt a nagyatádi triatlonverseny során, ami mélyen megrázta a sportközösséget. Az eset felhívja a figyelmet a sportesemények biztonsági előírásainak fontosságára és a résztvevők egészségi állapotának monitorozására.",
+      "importance": 3
+    },
+    {
+      "title": "2-0-ról bukták el a Monaco elleni edzőmeccsüket Szoboszlaiék",
+      "summary": "Szoboszlai Dominik csapata, az RB Leipzig 2-0-s előnyről vesztette el a Monaco elleni felkészülési mérkőzését. A magyar sztárjátékos teljesítményére és a csapat felkészülésére sokan figyelnek a közelgő szezon előtt.",
+      "importance": 3
+    },
+    {
+      "title": "„Győzelemmel felérő vereség” – hosszú évek tiltása után bemehettünk a Fradi-szentélybe, hogy megnézzük a Real Madrid elleni meccset",
+      "summary": "Hosszú évek tiltása után a Fradi-szurkolók ismét bemehettek a stadionba, hogy élőben tekintsék meg a Real Madrid elleni mérkőzést. Az eseményt sokan „győzelemmel felérő vereségként” értékelték, kiemelt jelentőséggel bírt a klub és a szurkolótábor számára.",
+      "importance": 3
     }
   ]
 }

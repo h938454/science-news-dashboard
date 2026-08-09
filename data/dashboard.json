@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Elhunyt Janza Benedek, minisztériumi főosztályvezető egy balesetben",
-      "summary": "A Bécsi úton történt tragikus balesetben életét vesztette Janza Benedek, Gajdos László minisztériumának főosztályvezetője. Halála mélyen megrendítette a közösséget és a minisztérium munkatársait.",
-      "importance": 5
-    },
-    {
-      "title": "Az euró bevezetése sok előnnyel járna Magyarországon a jegybank szerint",
-      "summary": "A jegybank alelnöke szerint Magyarország számára számos előnnyel járna az euró bevezetése. A közös valuta erősíthetné a gazdaságot és növelhetné a stabilitást.",
-      "importance": 5
-    },
-    {
-      "title": "Bedrogozhattak nőket a Szigeten egy Oti-bulin",
-      "summary": "Két nő rosszul lett a Sziget fesztiválon egy Oti-bulin, és gyanítják, hogy bedrogozhatták őket. Bár hivatalos megerősítés még nincs, az eset aggodalmat kelt a fesztivál biztonságával kapcsolatban.",
+      "title": "Meghalt Janza Benedek, a Minisztérium főosztályvezetője",
+      "summary": "Janza Benedek, a Gajdos László vezette minisztérium főosztályvezetője halálos balesetet szenvedett a Bécsi úton. Az eset súlyos veszteséget jelent a minisztériumnak és a közigazgatásnak.",
       "importance": 4
     },
     {
-      "title": "Milliárdos támogatás Apátiék mozgalmának, miközben Orbán nemzeti ellenállást hirdet",
-      "summary": "Apátiék mozgalmába már 2,7 milliárd forintot pakoltak be, miközben Orbán Viktor nemzeti ellenállást hirdetett. A finanszírozás részletei és a mozgalom céljai a politikai diskurzus középpontjába kerültek.",
+      "title": "A jegybank alelnöke szerint sok előnnyel járna az euró bevezetése Magyarországon",
+      "summary": "A Magyar Nemzeti Bank alelnöke, Virág Barnabás kiemelte, hogy az euró bevezetése számos előnnyel járna Magyarország számára, stabilitást és gazdasági fejlődést ígérve. Ez a nyilatkozat újraindította a nyilvános vitát a közös valuta adaptálásáról.",
+      "importance": 5
+    },
+    {
+      "title": "Sziget fesztivál: Droggyanús esetek és áremelések",
+      "summary": "A Sziget fesztiválon droggyanús esetekre derült fény, miután többen rosszul lettek egy DJ Oti show alatt, és bedrogozást feltételeznek. Emellett a fesztiválon a 18 óra utáni italáremelések is kritikát váltottak ki a látogatókból.",
       "importance": 4
+    },
+    {
+      "title": "Orbán Viktor Boban Markoviccsal rakijázott Szerbiában",
+      "summary": "Orbán Viktor miniszterelnök részt vett egy szerb trombitafesztiválon, ahol Boban Marković zenéjére rakizott, amit videón is megörökítettek. A miniszterelnök informális megjelenése széles körű figyelmet kapott.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij szerint 50 ezer észak-koreai katona érkezhet Oroszországba",
-      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki, miszerint akár 50 ezer észak-koreai katona is csatlakozhat az orosz erőkhöz Ukrajnában. Ez jelentős eszkalációt jelentene a háborúban.",
+      "title": "Zelenszkij szerint akár 50 ezer észak-koreai katona érkezhet Oroszországba",
+      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki, hogy akár 50 ezer észak-koreai katona is harcba szállhat az orosz erők oldalán Ukrajnában. Ez a fejlemény jelentősen befolyásolhatja a háború menetét és a geopolitikai helyzetet.",
       "importance": 5
     },
     {
-      "title": "Szükségállapotot hirdettek Kanadában az erdőtüzek miatt",
-      "summary": "Kanada egyes részein szükségállapotot hirdettek a terjedő erdőtüzek miatt, amelyek súlyos környezeti károkat és evakuációkat okoznak. A hatóságok a helyzet súlyosságára hívják fel a figyelmet.",
-      "importance": 5
+      "title": "Izrael elutasítja Trump 15 pontos gázai tervét",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök kategorikusan elutasította Donald Trump korábbi amerikai elnök Gázára vonatkozó 15 pontos tervét. Az elutasítás tovább mélyíti a békés rendezés körüli bizonytalanságot a régióban.",
+      "importance": 4
     },
     {
-      "title": "Oroszország Ukrajna élhető infrastruktúráját támadja",
-      "summary": "Oroszország célzottan támadja Ukrajna kulcsfontosságú infrastruktúráját, beleértve a benzinkutakat és csomagterminálokat, amelyek az ország élhető állapotát biztosítják. Ezek a támadások súlyosbítják a humanitárius válságot és megnehezítik a mindennapi életet.",
-      "importance": 5
+      "title": "Kanadában szükségállapotot hirdettek az erdőtüzek miatt",
+      "summary": "Kanada több tartományában súlyos erdőtüzek miatt hirdettek szükségállapotot, amelyek hatalmas területeket emésztenek fel és lakosság evakuálását teszik szükségessé. Az extrém szárazság és a magas hőmérséklet tovább rontja a helyzetet.",
+      "importance": 4
     },
     {
-      "title": "Izrael elutasította Trump gázai tervét",
-      "summary": "Izrael elutasította Donald Trump 15 pontos gázai tervét, amit Benjamin Netanjahu miniszterelnök jelentett be. Ez a döntés tovább bonyolítja a közel-keleti békefolyamatot és a régió diplomáciai erőfeszítéseit.",
+      "title": "Az apadó Rajna megmutatja a német gazdaság kiszolgáltatottságát",
+      "summary": "Az extrém szárazság következtében apadó Rajna folyó rávilágít arra, mennyire kiszolgáltatott a német gazdaság ezen kulcsfontosságú vízi útnak. Az alacsony vízszint akadályozza a hajózást, ami súlyos gazdasági következményekkel járhat.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI biztonsági tesztjei maguk is biztonsági kockázatot jelentenek",
-      "summary": "Az AI rendszerek biztonsági tesztelése során felmerült, hogy maguk a tesztek is új biztonsági kockázatokat teremthetnek. Ez felveti a kérdést az AI fejlesztésének etikai és gyakorlati kihívásaival kapcsolatban.",
+      "title": "OpenAI biztonsági aggályok miatt lassítja az Astra modell fejlesztését",
+      "summary": "Az OpenAI bejelentette, hogy biztonsági aggályok miatt lassította az Astra AI modell fejlesztését, hangsúlyozva a mesterséges intelligencia felelős és etikus fejlesztésének fontosságát. Ez a döntés kiemeli az MI-rendszerekkel kapcsolatos növekvő biztonsági kihívásokat.",
       "importance": 5
     },
     {
-      "title": "Az Amazon tervezett adatközpontja lehet az USA legnagyobb klímetszennyezője",
-      "summary": "Az Amazon egyik tervezett adatközpontja az Egyesült Államok legnagyobb klímetszennyezőjévé válhat, ami súlyos aggodalmakat vet fel a technológiai óriások környezeti hatásaival kapcsolatban. A beruházás jelentős szén-dioxid-kibocsátással járna.",
-      "importance": 5
-    },
-    {
-      "title": "Az X lecseréli a bevételmegosztó programját új tartalomjutalmakkal",
-      "summary": "Az X (korábban Twitter) felülvizsgálja és lecseréli a korábbi bevételmegosztó programját egy új, \"eredeti tartalom jutalmak\" rendszerre. Ez a lépés alapvetően változtathatja meg a tartalomkészítők motivációit és a platform dinamikáját.",
+      "title": "Egy tervezett Amazon adatközpont lehet az USA legnagyobb klímaszennyezője",
+      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb klímaszennyezőjévé válhat, jelentős környezeti terhelést róva a térségre. Ez a hír felhívja a figyelmet a technológiai óriások energiafogyasztására és ökológiai lábnyomára.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI lassította az Astra modell fejlesztését biztonsági aggodalmak miatt",
-      "summary": "Az OpenAI bejelentette, hogy biztonsági aggodalmak miatt lassította Astra nevű mesterséges intelligencia modelljének fejlesztését. Ez a döntés rávilágít az AI-fejlesztésben a biztonság és az etika prioritására.",
+      "title": "MI ügynökök fedeznek fel évtizedes hibákat a tudományos irodalomban",
+      "summary": "Mesterséges intelligencia ügynökök immár képesek átvizsgálni a tudományos irodalmat és évtizedes hibákat is felfedezni. Ez a fejlesztés forradalmasíthatja a kutatások pontosságát és a tudományos publikációk megbízhatóságát.",
       "importance": 4
+    },
+    {
+      "title": "Új 'adversarial' minta akadályozhatja a térfigyelő kamerákat",
+      "summary": "Kifejlesztettek egy 'adversarial' mintázatot, amely képes megakadályozni, hogy a térfigyelő kamerák észleljenek embereket, növelve ezzel a magánélet védelmét. Ez a technológia új lehetőségeket nyit a személyes adatok védelmében a megfigyeléssel szemben.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Közelebb került a tüdőgyulladás elleni univerzális vakcina",
-      "summary": "A kutatók áttörést értek el a tüdőgyulladás (pneumococcus betegség) elleni univerzális vakcina kifejlesztésében, ami globálisan sok életet menthet meg. Ez a fejlesztés jelentős lépés a közegészségügyben.",
+      "title": "Univerzális tüdőgyulladás elleni vakcina fejlesztése ígéretesen halad",
+      "summary": "Egy univerzális tüdőgyulladás elleni vakcina fejlesztése ígéretesen halad, jelentősen hozzájárulva a pneumococcus okozta fertőzések elleni globális védekezéshez. Ez az áttörés nagy hatással lehet a közegészségügyre világszerte.",
       "importance": 5
     },
     {
-      "title": "Hőhullámok milliókat öltek meg: a tudósok módszere az áldozatok számlálására",
-      "summary": "A tudósok új módszert dolgoztak ki arra, hogy pontosabban megbecsüljék a hőhullámok által okozott halálesetek számát, amelyek világszerte már milliókat követeltek. Ez segít jobban megérteni a klímaváltozás halálos hatásait.",
+      "title": "Hulladék műanyagból értékes alapanyag egy kémiai trükkel",
+      "summary": "Tudósok egy új kémiai eljárással képesek a hulladék műanyagot magas értékű alapanyaggá alakítani, ami jelentős előrelépés a környezetvédelem és a körforgásos gazdaság terén. Ez a módszer csökkentheti a műanyagszennyezést és új ipari lehetőségeket teremthet.",
       "importance": 5
     },
     {
-      "title": "Hulladék műanyagból értékes alapanyag kémiai trükkel",
-      "summary": "Egy új kémiai eljárással a hulladék műanyagokat magas értékű alapanyaggá alakítják, ami forradalmasíthatja az újrahasznosítást és csökkentheti a környezeti terhelést. Ez ígéretes megoldást kínál a műanyagválságra.",
-      "importance": 5
-    },
-    {
-      "title": "A DNS-javítás a hosszú élet titka? Bálnák és csupasz turkálópatkányok adnak tippeket",
-      "summary": "A tudósok azt vizsgálják, hogy a DNS-javítás hatékonysága lehet-e a hosszú élet titka, bálnák és csupasz turkálópatkányok példáját elemezve. Ezek az állatok különleges hosszú élettartamukkal és betegségekkel szembeni ellenállásukkal szolgálnak tanulságokkal.",
+      "title": "Tudósok számszerűsítik a hőhullámok milliókat követelő áldozatait",
+      "summary": "Kutatók új módszereket dolgoztak ki a hőhullámok által okozott halálesetek számszerűsítésére, rávilágítva a klímaváltozás súlyos egészségügyi következményeire. Ez a munka kulcsfontosságú a jövőbeli hőség okozta katasztrófák megelőzésében.",
       "importance": 4
+    },
+    {
+      "title": "Éjszakai illatosítás javíthatja az idősebb felnőttek memóriáját",
+      "summary": "Egy tanulmány szerint az éjszakai alvás közbeni illatosítás jelentősen javíthatja az idősebb felnőttek memóriafunkcióit. Ez az egyszerű beavatkozás új lehetőségeket kínálhat a kognitív hanyatlás lassítására.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Tragédia a nagyatádi triatlonversenyen: elhunyt egy versenyző",
-      "summary": "A nagyatádi triatlonversenyen tragikus baleset történt, melynek során egy versenyző életét vesztette. Az eset mélyen megrázta a sportközösséget.",
-      "importance": 5
+      "title": "Szoboszlaiék 2-0-s előnyről bukták el a Monaco elleni edzőmeccsüket",
+      "summary": "Szoboszlai Dominik csapata, a Liverpool, egy edzőmeccsen 2-0-s előnyről kapott ki a Monacótól, ami aggodalomra ad okot a szezon előtti felkészülésükkel kapcsolatban. A szurkolók élénken vitatják a csapat teljesítményét.",
+      "importance": 3
     },
     {
-      "title": "Szoboszlaiék 2-0-ról kaptak ki a Monaco elleni edzőmeccsen",
-      "summary": "Szoboszlai Dominik csapata, a Liverpool 2-0-s vezetésről szenvedett vereséget a Monaco elleni felkészülési mérkőzésen. A csapatnak még van min javítania a szezon előtt.",
+      "title": "Tragikus haláleset a nagyatádi triatlonversenyen",
+      "summary": "Tragikus baleset történt a nagyatádi triatlonversenyen, ahol az egyik résztvevő életét vesztette. Az eset rávilágít a sportesemények biztonsági előírásainak fontosságára és a sportolással járó kockázatokra.",
       "importance": 4
     },
     {
-      "title": "Jó hír a Zuckerberg-pofonra vágyóknak",
-      "summary": "Jó hír érkezett azoknak, akik Mark Zuckerberg esetleges küzdelmét várják, ugyanis egyre reálisabbnak tűnik egy MMA-mérkőzés lehetősége. Az üzleti és technológiai világ nagyjai közötti összecsapás nagy figyelmet kapna.",
+      "title": "Mark Zuckerberg és Elon Musk MMA-meccse körül pörög a hír",
+      "summary": "Felröppent a hír, miszerint Mark Zuckerberg és Elon Musk MMA-meccset tervez egymás ellen, ami hatalmas érdeklődést váltott ki a nyilvánosság és a harcművészetek rajongói körében. Bár hivatalos bejelentés még nincs, a pletykák szerint a küzdelemre sor kerülhet.",
       "importance": 3
+    },
+    {
+      "title": "Dunát átúszó vaddisznó keltett riadalmat a Kossuth téren",
+      "summary": "Egy vaddisznó úszta át a Dunát, és a budapesti Kossuth térnél kötött ki, ami kisebb riadalmat keltett a járókelők körében. Az állat különleges úszóteljesítménye és váratlan megjelenése széles körben beszédtémává vált.",
+      "importance": 2
     }
   ]
 }

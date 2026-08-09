@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Ugyanaz a probléma az áramtermelésünkkel, mint a rendszerváltáskor, elment 40 év",
+      "link": "https://telex.hu/g7/kozelet/2026/08/09/arampiac-paks-kieses-szamolas-problema-rendszervaltas",
+      "summary": "Nincs megfelelő rugalmasság a kezünkben, ezért nagy árat fizetünk, és most ki is lehet számolni, hogy mennyit."
+    },
+    {
       "title": "Orosz beavatkozás gyanúja miatt jogi panaszt tett a francia elnökválasztás egyik indulója",
       "link": "https://telex.hu/kulfold/2026/08/08/gabriel-attal-francia-miniszterelnok-elnokvalasztas-orosz-beavatkozas-jogi-panasz",
       "summary": "Azután tette ezt, hogy a héten több deepfake-videóban is megjelenítették, álhíreket terjesztő oldalakon írtak róla."
@@ -69,11 +74,6 @@
       "title": "A KDNP szerint Baka András Magyar Péterhez hasonlóan bosszút akar állni a Fideszen",
       "link": "https://telex.hu/belfold/2026/08/08/kdnp-retvari-bence-bosszu-baka-andras-koztarsasagi-elnok-jeloles",
       "summary": "„Baka András perben és haragban állt az előző kormánnyal” – írta Rétvári Bence, a párt frakcióvezetője. Azt nem írta le, hogy pontosan miért állt haragban az előző kormánnyal Baka."
-    },
-    {
-      "title": "Magyar Péter: Baka András a nemzet iránti szolgálatból elfogadta a felkérést",
-      "link": "https://telex.hu/belfold/2026/08/08/baka-andras-magyar-peter-felkeres-elfogadva",
-      "summary": "Az új köztársasági elnököt kedd délelőtt választja meg az Országgyűlés."
     }
   ],
   "Portfolio": [],
@@ -253,14 +253,14 @@
       "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
     },
     {
-      "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear."
-    },
-    {
       "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
       "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
       "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
+    },
+    {
+      "title": "More areas of UK likely to move into drought as fifth heatwave builds",
+      "link": "https://www.bbc.co.uk/weather/articles/c9d8vwg0197o?at_medium=RSS&at_campaign=rss",
+      "summary": "With no significant rain forecast in the coming week, more areas of England could move into drought status, as Simon King explains."
     },
     {
       "title": "Kellie Bright to leave EastEnders after 13 years",

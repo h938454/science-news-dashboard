@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Janza Benedek, Gajdos László minisztériumának főosztályvezetője halt meg a Bécsi úton történt balesetben",
+      "link": "https://telex.hu/belfold/2026/08/09/gajdos-laszlo-halalhir-janza-benedek",
+      "summary": "A minisztérium saját halottjának tekinti a főosztályvezetőt, akit kerékpározás közben elütött egy autós."
+    },
+    {
+      "title": "Ha mindig is látni akarta, hogy Mark Zuckerberg kap néhány pofont, akkor van egy jó hírünk",
+      "link": "https://telex.hu/zacc/2026/08/09/mark-zuckerberg-bunyo-ufc-merab-dvalisvili",
+      "summary": "Most megnézheti, ahogy egy UFC-bajnok egy kicsit elagyabugyálja."
+    },
+    {
       "title": "Megvan a Tisza Szigetek országos találkozójának helyszíne",
       "link": "https://telex.hu/belfold/2026/08/09/magyar-peter-tisza-szigetek-orszagos-talalkozo-margitsziget",
       "summary": "Augusztus 20-án lesz a találkozó."
@@ -22,7 +32,7 @@
     },
     {
       "title": "A Dunát átúszva köthetett ki a Kossuth térnél a szombaton riadalmat keltő vaddisznó",
-      "link": "https://telex.hu/kulfold/2026/08/09/vaddiszno-dunan-uszott-at-metro-budapest",
+      "link": "https://telex.hu/belfold/2026/08/09/vaddiszno-dunan-uszott-at-metro-budapest",
       "summary": "Aznap a 2-es metrót is le kellett miatta állítani."
     },
     {
@@ -64,16 +74,6 @@
       "title": "A KDNP pályázaton keresztül keresi a leendő delegáltját a Médiatanácsba",
       "link": "https://telex.hu/belfold/2026/08/09/palyazat-kdnp-mediatanacs-mtva-tag",
       "summary": "Nem akarnak úgy eljárni, mint a Tisza Párt a köztársasági elnökjelölt ügyében – írták a közleményükben."
-    },
-    {
-      "title": "Egy fiatal arról posztolt, hogy bedrogozhatták a húgát a Hajógyárin Sebestyén Balázs DJ-show-ja alatt",
-      "link": "https://telex.hu/belfold/2026/08/09/sziget-dj-oti-mentoszolgalat-drog",
-      "summary": "Elmondása szerint a testvérét ellátó mentősök lekezelően beszéltek velük, a Mentőszolgálat vizsgálatot ígért."
-    },
-    {
-      "title": "A Szociális és Családügyi Minisztérium szerint nem volt szükség engedélyre, hogy emléktáblát rakjanak Rogán régi minisztériumának épületére",
-      "link": "https://telex.hu/belfold/2026/08/09/retvari-bence-szocialis-es-csaladugyi-miniszterium-emlektabla-engedely-muemleki-vedelem",
-      "summary": "Rétvári Bence szerint nem mutatták be neki az ehhez szükséges engedélyeket, a tárca szerint nem is kellett."
     }
   ],
   "Portfolio": [],
@@ -233,6 +233,11 @@
   ],
   "BBC": [
     {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+    },
+    {
       "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
@@ -301,14 +306,14 @@
       "title": "Killed a month after his wedding - why PC Andrew Harper's story touched so many",
       "link": "https://www.bbc.co.uk/news/articles/c4gvrnyrjn0o?at_medium=RSS&at_campaign=rss",
       "summary": "The early release of two of his killers has brought a case which still resonates with the public back into the spotlight."
-    },
-    {
-      "title": "What is clearing and what do I need to know ahead of results day?",
-      "link": "https://www.bbc.co.uk/news/articles/c20dpj3peglo?at_medium=RSS&at_campaign=rss",
-      "summary": "From listing your potential outcomes to picking up the phone, this is how to get the most out of clearing."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "The AI-focused hedge fund is still making some big bets."
+    },
     {
       "title": "Anthropic is turning Claude Code’s auto mode on by default",
       "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -378,12 +383,83 @@
       "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
       "link": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
       "summary": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true."
-    },
-    {
-      "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-      "link": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-      "summary": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+      "link": "https://www.nature.com/articles/d41586-026-02488-3",
+      "summary": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02488-3\">doi:10.1038/d41586-026-02488-3</a></p>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses."
+    },
+    {
+      "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+      "link": "https://www.nature.com/articles/d41586-026-02462-z",
+      "summary": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02462-z\">doi:10.1038/d41586-026-02462-z</a></p>Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against."
+    },
+    {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "link": "https://www.nature.com/articles/s41586-026-10953-2",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10953-2\">doi:10.1038/s41586-026-10953-2</a></p>Operational Tropical Cyclone Forecasting with AI"
+    },
+    {
+      "title": "Pumas are drivers’ guardian angels",
+      "link": "https://www.nature.com/articles/d41586-026-02429-0",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02429-0\">doi:10.1038/d41586-026-02429-0</a></p>Vehicles are less likely to smash into deer on the road where the big cats are on patrol."
+    },
+    {
+      "title": "How a steady drip-drip can erode the hardest stone",
+      "link": "https://www.nature.com/articles/d41586-026-02360-4",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02360-4\">doi:10.1038/d41586-026-02360-4</a></p>Measuring the deformation of a surface hit by a falling droplet offers insights into water’s erosive power."
+    },
+    {
+      "title": "Heatwaves have killed millions. Here’s how scientists tally lives lost",
+      "link": "https://www.nature.com/articles/d41586-026-02430-7",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02430-7\">doi:10.1038/d41586-026-02430-7</a></p>Two very different methods are used to estimate the human toll of heatwaves such as those now hitting parts of Asia and Europe."
+    },
+    {
+      "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
+      "link": "https://www.nature.com/articles/d41586-026-02235-8",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02235-8\">doi:10.1038/d41586-026-02235-8</a></p>The technology is proving adept at finding faults in decades-old papers and reference databases."
+    },
+    {
+      "title": "Scientists up in arms about cuts to UK physics and astronomy",
+      "link": "https://www.nature.com/articles/d41586-026-02460-1",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02460-1\">doi:10.1038/d41586-026-02460-1</a></p>Funding is being terminated for projects including a future CERN experiment and the iconic Lovell Telescope."
+    },
+    {
+      "title": "Levitating sensor for magnetic fields could detect ultrafaint brain activity",
+      "link": "https://www.nature.com/articles/d41586-026-02458-9",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02458-9\">doi:10.1038/d41586-026-02458-9</a></p>The device’s simple design could rival much more complex alternatives in biophysics research — and could even be used to search for dark matter."
+    },
+    {
+      "title": "Thermally evaporated perovskite/silicon tandems via formamidinium eutectic",
+      "link": "https://www.nature.com/articles/s41586-026-10970-1",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10970-1\">doi:10.1038/s41586-026-10970-1</a></p>Thermally evaporated perovskite/silicon tandems via formamidinium eutectic"
+    },
+    {
+      "title": "Publisher Correction: Progressive plasticity during colorectal cancer metastasis",
+      "link": "https://www.nature.com/articles/s41586-026-10963-0",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10963-0\">doi:10.1038/s41586-026-10963-0</a></p>Publisher Correction: Progressive plasticity during colorectal cancer metastasis"
+    },
+    {
+      "title": "Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis",
+      "link": "https://www.nature.com/articles/s41586-026-10977-8",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10977-8\">doi:10.1038/s41586-026-10977-8</a></p>Editorial Expression of Concern: Tumour exosome integrins determine organotropic metastasis"
+    },
+    {
+      "title": "<b>Junk plastic turns into high-value commodity with chemistry trick</b>",
+      "link": "https://www.nature.com/articles/d41586-026-02445-0",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02445-0\">doi:10.1038/d41586-026-02445-0</a></p>Researchers untangle the chemistry behind turning PVC into high-grade motor lubricant — plus, how engineered yeast can help make a cancer drug."
+    },
+    {
+      "title": "An expanded codebook of human transcription factor DNA-binding specificity",
+      "link": "https://www.nature.com/articles/s41586-026-10798-9",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10798-9\">doi:10.1038/s41586-026-10798-9</a></p>Results from a panel of assays that analyse different aspects of DNA sequence specificity reveal more than 100 new motifs to aid the characterization of putative human transcription factors."
+    },
+    {
+      "title": "Ubiquitous Kelvin–Helmholtz instabilities driving plasma mixing on the Sun",
+      "link": "https://www.nature.com/articles/s41586-026-10871-3",
+      "summary": "<p>Nature, Published online: 05 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10871-3\">doi:10.1038/s41586-026-10871-3</a></p>High-spatial-resolution observations of the solar photosphere reveal a far more complex and dynamic solar scene than previously observed and show that ubiquitous Kelvin–Helmholtz instabilities drive plasma mixing on the Sun."
+    }
+  ]
 }

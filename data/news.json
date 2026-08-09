@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Botokkal és fejszékkel támadtak mentősökre egy erdélyi faluban, mert azt hitték, szervkereskedők",
+      "link": "https://telex.hu/kulfold/2026/08/09/erdely-recekeresztur-mentoauto-tamadas-szervkereskedok-pletyka",
+      "summary": "A falubeliek olyan rémhíreket hallhattak, amelyek szerint szervkereskedők mentőautókkal járják Románia településeit, hogy gyerekeket raboljanak el."
+    },
+    {
+      "title": "Látványos képeken a felszínre bukkant bajai hajóroncs",
+      "link": "https://telex.hu/belfold/2026/08/09/baja-duna-aszaly-hajoroncs-kepek",
+      "summary": "Az egykori személyszállító hajót 1944-ben robbantották fel a város partjainál, idén nyáron teljesen körbejárható lett a maradványa."
+    },
+    {
       "title": "420 embert tartóztattak le a franciaországi erdőtüzek miatt",
       "link": "https://telex.hu/kulfold/2026/08/09/420-embert-tartoztattak-le-a-franciaorszagi-erdotuzek-miatt",
       "summary": "300 ezer hektáron pusztítottak eddig a lángok, amelyek csak részben köthetők a súlyos gondokat okozó klímaváltozáshoz."
@@ -64,16 +74,6 @@
       "title": "Lakótelepi ház romjai alól mentik a túlélőket az orosz támadás után Harkivban",
       "link": "https://telex.hu/kulfold/2026/08/09/harkiv-lakohaz-orosz-tamadas-orosz-ukran-haboru",
       "summary": "Két ember meghalt, többen megsebesültek a vasárnap reggeli orosz támadásban."
-    },
-    {
-      "title": "Forró vasárnap után még forróbb hét jön",
-      "link": "https://telex.hu/belfold/2026/08/09/idojaras-nagy-meleg-utan-forrosag-kanikula-augusztus",
-      "summary": "Derült ég, napsütés, csapadék semmi. De már az is valami, hogy a csúcs nem lesz 40 fokos."
-    },
-    {
-      "title": "Ann Patchett: Whistler (részlet)",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/08/09/ann-patchett-whistler-reszlet",
-      "summary": "A Whistler a bátorságról, az emlékezetről és azokról a látszólag apró, mégis sorsdöntő pillanatokról mesél, amelyek kijelölik az életünk irányát. Olvasson bele!"
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,16 @@
   ],
   "HVG": [
     {
+      "title": "Luxusfürdőszoba, sminktükrök és hajszárító – Lannert Judit megmutatta, hol dolgozott Novák Katalin",
+      "link": "https://hvg.hu/itthon/20260809_luxusfurdoszoba-sminktukrok-es-hajszarito-lannert-judit-megmutatta-hol-dolgozott-novak-katalin",
+      "summary": "Az oktatási miniszter videón keresztül mutatta meg, hogy a Családokért Felelős Államtitkárság nem egy munkahelyre emlékeztetett, inkább egy négycsillagos szállodára."
+    },
+    {
+      "title": "Mentősöket támadtak meg egy erdélyi faluban, mert egy TikTok-poszt miatt szervkerekedőknek hitték őket, ezért",
+      "link": "https://hvg.hu/vilag/20260809_tamadas-remhir-romania-mento",
+      "summary": "Súlyos szemsérülést okoztak a fejszével és botokkal érkezők a jármű vezetőjének, a mentőorvos szerint csak azért úszták meg a lincselést, mert sikerült elmenekülniük."
+    },
+    {
       "title": "„Amikor a régi világ haldoklik, és az új még meg sem született, elérkezik az az idő, amikor felbukkanhatnak a szörnyetegek”",
       "link": "https://hvg.hu/360/20260809_hvg-paul-polman-unilever-interju-fenntarthatosag-klimavaltozas-politika-tamogatasok-bolygohatarok",
       "summary": "Lassú az átmenet a fenntarthatóság felé, de lehet gyorsan változtatni, a politikában példa erre az idei magyarországi választás – mondja Paul Polman, az Unilever korábbi első embere."
@@ -219,16 +229,6 @@
       "title": "Elmerült a Tiszában egy gépkocsi",
       "link": "https://hvg.hu/cegauto/20260809_elmerult-a-tiszaban-egy-gepkocsi",
       "summary": "Személyi sérülés nem történt."
-    },
-    {
-      "title": "Rosszabbodott Joe Biden állapota, a volt elnöknél az áttét már a csontokon túlra is átterjedt",
-      "link": "https://hvg.hu/elet/20260809_joe-biden-rak-attet-prosztatarak",
-      "summary": "A családja azt közölte, hogy a volt amerikai elnöknek nagy fájdalmai vannak."
-    },
-    {
-      "title": "Csak tiszta forrásból? Hogyan érdemes elegyíteni az analóg és a digitális tudást?",
-      "link": "https://hvg.hu/360/20260809_ai-oktatas-hiteles-forrasok-onallo-problemamegoldas-tudaskenyszer-hvg",
-      "summary": "Miközben az AI-t egyrészt a chipek, a modellek és a szabályok alakítják, legalább ennyire meghatározó, milyen forrásokból merítenek a rendszerek, és milyen intézmények garantálják a tudás hitelességét."
     }
   ],
   "BBC": [
@@ -253,29 +253,24 @@
       "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
     },
     {
-      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
-      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
-    },
-    {
       "title": "Fifa criticises campaign to oust president Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
       "summary": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino."
     },
     {
-      "title": "Kellie Bright to leave EastEnders after 13 years",
-      "link": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Old Vic landlady Linda Carter is set to leave Walford."
-    },
-    {
-      "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
-      "link": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "TikTok creator Zainab Jiwa seems to be giving Hollywood A-listers on the red carpet a run for their money."
+      "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family."
     },
     {
       "title": "How weight-loss medication is changing relationships with alcohol",
       "link": "https://www.bbc.co.uk/news/articles/cr7kmlg0lxpo?at_medium=RSS&at_campaign=rss",
       "summary": "Some people using weight-loss drugs say their cravings for alcohol disappeared or they felt nauseous when they drank."
+    },
+    {
+      "title": "Zendaya saw me on the red carpet and her jaw dropped - I'm still in shock",
+      "link": "https://www.bbc.co.uk/news/articles/cq56j53g9yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "TikTok creator Zainab Jiwa seems to be giving Hollywood A-listers on the red carpet a run for their money."
     },
     {
       "title": "Why eclipse chasers are crossing continents for solar spectacle: 'It's like the World Cup'",
@@ -296,6 +291,11 @@
       "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
       "link": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
       "summary": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank."
+    },
+    {
+      "title": "Kellie Bright to leave EastEnders after 13 years",
+      "link": "https://www.bbc.co.uk/news/articles/cre40875r9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Old Vic landlady Linda Carter is set to leave Walford."
     },
     {
       "title": "More areas of UK likely to move into drought as fifth heatwave builds",

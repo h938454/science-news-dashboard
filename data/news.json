@@ -1,7 +1,27 @@
 {
   "Telex": [
     {
-      "title": "Meghalt Velkey Gábor, korábbi országgyűlési képviselő",
+      "title": "Elhalasztják a Dunamenti Erőmű karbantartását",
+      "link": "https://telex.hu/gazdasag/2026/08/10/elhalasztjak-a-dunamenti-eromu-karbantartasat",
+      "summary": "A biztonságos ellátás érdekében ütemezik át a feladatot."
+    },
+    {
+      "title": "Orosz kémakciót fülelt le Svédország, három diplomatát szervezett be az orosz hírszerzés",
+      "link": "https://telex.hu/kulfold/2026/08/10/orosz-kemakcio-felszamolas-svedorszag",
+      "summary": "Az akció célja Svédország, az EU és a NATO hiteltelenítése, az ország döntéshozatalának megakasztása volt."
+    },
+    {
+      "title": "5,7 milliós bírságot szabtak ki Orbánék hatvanpusztai műemlékrombolása miatt",
+      "link": "https://telex.hu/belfold/2026/08/10/hatvanpuszta-muemlek-bontas-birsag",
+      "summary": "Engedély nélkül bontották el az istállókat, de bejelentés nélkül építettek díszmedencét."
+    },
+    {
+      "title": "Ha az italba kevert drogot nem bizonyítják laborvizsgálattal, marad a bizonytalanság, ami a legrosszabb",
+      "link": "https://telex.hu/belfold/2026/08/10/drog-nyomozas-sziget-dj-oti-zacher-gabor-laborvizsgalat-bizonytalansag-drogriporter-spronz-julia",
+      "summary": "Zacher Gábor szerint nem kizárt, hogy Sebestyén Balázs DJ Oti show-ja közben voltak visszaélések drogokkal, de mivel a mentősök nincsenek felkészülve vér- és vizeletvizsgálatra, és a GHB vegyülete nagyon gyorsan kiürül a szervezetből, erre egyelőre nincs bizonyíték. A szombati buli egyik, eszméletét vesztő érintettje viszont biztos benne, hogy nem az alkoholtól lett ennyire rosszul."
+    },
+    {
+      "title": "Triatlonversenyen lett rosszul, meghalt Velkey Gábor korábbi országgyűlési képviselő",
       "link": "https://telex.hu/belfold/2026/08/10/meghalt-velkey-gabor-korabbi-orszaggyulesi-kepviselo",
       "summary": "A korábbi SZDSZ-es politikus versenyzés közben halt meg."
     },
@@ -54,26 +74,6 @@
       "title": "Súlyos földrengés sújtotta Kolumbiát, számos épület összedőlt",
       "link": "https://telex.hu/kulfold/2026/08/10/kolumbia-foldrenges-termeszeti-katasztrofa",
       "summary": "Már több tucatnyi halálos áldozatról lehet tudni, a rengés az egész országban érezhető volt."
-    },
-    {
-      "title": "230 migráns szuszakolódott össze egyetlen kis hajón, sikeresen átkeltek a La Manche csatornán",
-      "link": "https://telex.hu/kulfold/2026/08/10/hajo-rekordszamu-migrans-egyesult-kiralysag",
-      "summary": "A hétfő hajnalban az Egyesült Királyságba érkezett hajó rekordot döntött."
-    },
-    {
-      "title": "Orbán Viktor ezúttal egy szerb bulvárhőssel mutatkozott",
-      "link": "https://telex.hu/belfold/2026/08/10/orban-viktor-szerbia-taki-marinkovic",
-      "summary": "Csevapozás és pálinkázás után újabb helyszínen tűnt fel a volt miniszterelnök."
-    },
-    {
-      "title": "Róna Dániel: Olyan gödörben van a Fidesz, amiből bizonyos értelemben nincs kiút",
-      "link": "https://telex.hu/video/2026/08/10/rona-daniel-elemzes-sulyok-tamas-baka-andras-koztarsasagi-elnok-hiba-fidesz-godor-orban-viktor",
-      "summary": "Orbán Viktor jelenleg nem tud olyat mondani, ami visszaszerezné a Fidesz népszerűségét, de ha ő nincs, a pártot sem tartja egyben senki. De milyen hibákat követett el a Tisza a köztársasági elnök castingja során? Videós elemzés Róna Dániellel."
-    },
-    {
-      "title": "Bőröndbe tett holttestről kapott bejelentést az ausztrál rendőrség, de csak egy élethű bábut találtak",
-      "link": "https://telex.hu/kulfold/2026/08/10/ausztralia-borond-babu-rendorseg-helyszineles",
-      "summary": "A bábu nagyon élethű volt a rendőrség szerint."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,31 @@
   ],
   "HVG": [
     {
+      "title": "Elnöki megemlékezés lesz a roma holokausztról",
+      "link": "https://hvg.hu/itthon/20260810_elnoki-megemlekezes-roma-holokauszt",
+      "summary": "Hallerné Nagy Anikó szerint a téma mélysége és komolysága megkívánja, hogy egységes megemlékezés legyen."
+    },
+    {
+      "title": "Repülővel ütközött egy autó a milánói repülőtéren",
+      "link": "https://hvg.hu/cegauto/20260810_repulo-auto-milanoi-repuloter-baleset",
+      "summary": "A Fiat Panda kiütötte a magánrepülőt."
+    },
+    {
+      "title": "Elkezdték növelni a paksi atomerőmű kettes blokkjának teljesítményét",
+      "link": "https://hvg.hu/itthon/20260810_paksi-atomeromu-kettes-blokk-duna-vizszint",
+      "summary": "Kedvezően alakul a Duna vízállása, de az MVM szerint az aszály miatt nem árt óvatosnak lenni."
+    },
+    {
+      "title": "Ettől a szemcsepptől 8-10 órára megjavul a látás",
+      "link": "https://hvg.hu/tudomany/20260810_oregszemuseg-javitasa-szemcseppel",
+      "summary": "Biohacként is emlegetik azt a szemcseppet, pontosabban a vele végrehajtott folyamatot, ami tíz órára visszaadja az éleslátást az időseknek, és nem jár az eddigi kellemetlen mellékhatásokkal."
+    },
+    {
+      "title": "Hatvanpuszta: csaknem 6 milliós büntetés engedély nélküli bontás és építés miatt",
+      "link": "https://hvg.hu/itthon/20260810_hatvanpuszta-6-millios-buntetes-engedely-nelkuli-bontas-epites",
+      "summary": "A Fejér megyei kormányhivatal szabott ki több bírságot is."
+    },
+    {
       "title": "Benyó Rita búcsúzik a Válasz Online-tól, a közmédiánál folytatja tovább",
       "link": "https://hvg.hu/itthon/20260810_benyo-rita-valasz-kozmedia",
       "summary": "Magyari Péter után újabb ember távozik, Benyó Rita mellett ugyanis Sashegyi Zsófia is a közrádióhoz igazolt."
@@ -204,31 +229,6 @@
       "title": "51 milliárd forintos ivóvízhálózat-fejlesztési programot hirdetett a kormány",
       "link": "https://hvg.hu/itthon/20260810_ivovizhalozat-fejlesztesi-program-tisza-kormany-gajdos-laszlo",
       "summary": "Gajdos László élő környezetért felelős miniszter szerint különösen fontos, hogy a források jelentős része a leghátrányosabb helyzetű térségekbe érkezzen."
-    },
-    {
-      "title": "Videó: nem tudta elmondani az eskü szövegét a két új fideszes képviselő",
-      "link": "https://hvg.hu/itthon/20260810_esku-szoveg-fideszes-kepviselo-hortay-oliver-paloc-andre",
-      "summary": "Az utolsó mondat kifogott Palóc Andrén és Hortay Olivéren."
-    },
-    {
-      "title": "Aggódnak az ukránok: a vártnál gyorsabban jöhet az orosz Starlink, ami a háborúra is hatással lehet",
-      "link": "https://hvg.hu/vilag/20260810_orosz-starlink-muholdas-internet-ukran-hirszerzes-haboru",
-      "summary": "Az ukrán hírszerzés szerint rohamtempóban építi saját műholdas internetszolgáltatást épít Moszkva, egy éven belül közel 300 műholdat állítanának pályára."
-    },
-    {
-      "title": "Jövőre már eltűnhetnek a fizetőkapuk a horvát autópályákról, teljesen új rendszer jön",
-      "link": "https://hvg.hu/cegauto/20260810_jovore-mar-eltunhetnek-a-fizetokapuk-a-horvat-autopalyakrol-teljesen-uj-rendszer-jon",
-      "summary": "Ha minden jól megy, vége az idegőrlő toporgásnak."
-    },
-    {
-      "title": "Hűtlen kezelés miatt feljelentést tettek a Gondosóra program ügyében, kirúgták a Kormányzati Szolgáltató Központ ügyvezetőjét",
-      "link": "https://hvg.hu/itthon/20260810_100-milliardos-hutlen-kezeles-miatt-feljelentest-tettek-a-gondosora-program-ugyeben-felmentettek-az-uzemelteteseert-felelos-kszk-vezetojet",
-      "summary": "A tárca piaci becslése szerint féláron, de lehet, hogy negyedáron is nyújthatta volna a 4iG a 100 milliárd forintos szolgáltatást."
-    },
-    {
-      "title": "Hankó Balázs lepedofilozott egy bábelőadást, ami éppen a felnőttek szexuális zaklatása elleni védekezésre tanítja a gyerekeket",
-      "link": "https://hvg.hu/itthon/20260810_hanko-balazs-pedofil-babeloadas-nka-tamogatas-visszavonasa",
-      "summary": "Többek közt a Lili és a bátorság című, 2017-es könyvből adaptált bábelőadásra hivatkozva állítja Hankó Balázs, hogy koncepciós eljárás zajlik ellene az NKA-ügyben."
     }
   ],
   "BBC": [
@@ -238,14 +238,19 @@
       "summary": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status."
     },
     {
+      "title": "30 years later, a former rival will stand trial for Tupac's murder",
+      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+    },
+    {
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "summary": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\"."
     },
     {
-      "title": "30 years later, a former rival will stand trial for Tupac's murder",
-      "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-      "summary": "It’s been three decades since Tupac was killed, and since then, his reputation has only grown."
+      "title": "New weight loss pill approved for use in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
     },
     {
       "title": "Consortium including Jeff Bezos advances talks for stake in Liverpool FC",
@@ -253,24 +258,19 @@
       "summary": "A group including Amazon founder Jeff Bezos advances its talks to buy about a 30% stake in Liverpool, BBC Sport has been told."
     },
     {
-      "title": "Ex-Cambridge professor Jason Arday cancels live event after plagiarism row",
-      "link": "https://www.bbc.co.uk/news/articles/cd7lj3703epo?at_medium=RSS&at_campaign=rss",
-      "summary": "One talk by Arday is \"cancelled at the request of the speaker\" and others are removed from listings."
+      "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Infection rates are high, adding to concern that authorities are struggling to get to grips with the disease."
+    },
+    {
+      "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow court rules."
     },
     {
       "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
       "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion."
-    },
-    {
-      "title": "Nigel Farage says incident at his home 'directly linked' to Ann Widdecombe murder",
-      "link": "https://www.bbc.co.uk/news/articles/c3v06k2qk1qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Counter-terrorism police have reopened an inquiry into an incident at the Reform UK's leader's house."
-    },
-    {
-      "title": "New weight loss pill approved for use in UK",
-      "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
     },
     {
       "title": "MSP apologises for hurt caused by rape 'demonisation' comments",
@@ -310,6 +310,26 @@
   ],
   "TechCrunch": [
     {
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores."
+    },
+    {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "link": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "summary": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation."
+    },
+    {
+      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+      "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days."
+    },
+    {
+      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
+      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
+      "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use."
+    },
+    {
       "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
       "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
       "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
@@ -317,7 +337,7 @@
     {
       "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
       "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington State."
+      "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state."
     },
     {
       "title": "Archer buys former rival Wisk Aero",
@@ -363,26 +383,6 @@
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
       "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
-    },
-    {
-      "title": "The AI safety test is becoming a safety risk",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models."
-    },
-    {
-      "title": "This ‘adversarial’ pattern can prevent surveillance cameras from detecting you",
-      "link": "https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/",
-      "summary": "A security researcher has designed an algorithm that can create computer-generated patterns capable of hiding people, faces, and vehicles from detection by surveillance cameras."
-    },
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "summary": "More than 20 years ago, King's Cross was one of the seediest area's in London. Now it's sprouting something new."
-    },
-    {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040."
     }
   ],
   "Nature": [

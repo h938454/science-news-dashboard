@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Meghalt egy minisztériumi főosztályvezető balesetben",
-      "summary": "Halálos balesetben elhunyt Janza Benedek, az Élő Környezetért Felelős Minisztérium főosztályvezetője. A tragédia a Bécsi úton történt, nagy megdöbbenést keltve a politikai körökben.",
-      "importance": 4
-    },
-    {
-      "title": "Az euró bevezetése számos előnnyel járna Magyarországon a jegybank szerint",
-      "summary": "A Magyar Nemzeti Bank alelnöke szerint az euró bevezetése jelentős előnyökkel járna az ország számára, különösen a gazdasági stabilitás és a befektetések szempontjából. Ez a téma újraéledő vita tárgya a hazai gazdaságpolitikában.",
+      "title": "Meghalt Janza Benedek, a minisztérium egyik főosztályvezetője",
+      "summary": "A Bécsi úton történt balesetben életét vesztette Janza Benedek, az Élő Környezetért Felelős Minisztérium főosztályvezetője. Tragikus hirtelenséggel hunyt el, kollégái és a közvélemény is gyászolja.",
       "importance": 5
     },
     {
-      "title": "Luxusfürdőszoba a volt kormányzati irodában botrányba fulladó találat",
-      "summary": "Lannert Judit felháborodva számolt be egy luxusfürdőszoba felfedezéséről Novák Katalin egykori kormányzati irodájában. Az eset a közpénzek pazarlása kapcsán vet fel súlyos kérdéseket és nagy felháborodást okozott.",
+      "title": "A jegybank alelnöke szerint sok előnnyel járna az euró bevezetése Magyarországon",
+      "summary": "A Magyar Nemzeti Bank alelnöke szerint az euró bevezetése számos gazdasági előnnyel járna Magyarország számára, például növelné a stabilitást és a befektetői bizalmat. Ugyanakkor kiemelte a bevezetéshez szükséges felkészülést és feltételeket is.",
+      "importance": 5
+    },
+    {
+      "title": "Luxusfürdőszobát találtak Novák Katalin egykori kormányzati irodájában",
+      "summary": "Lannert Judit közgazdász és kutató egy luxus kivitelezésű fürdőszobára bukkant Novák Katalin egykori kormányzati irodájában, ami felveti a közpénzek pazarlásának kérdését. Az eset széles körű kritikát váltott ki a közösségi médiában.",
       "importance": 4
     },
     {
-      "title": "Korszerű endoszkópos gerincműtétek Szegeden, rövid gyógyulási idővel",
-      "summary": "Szegeden egyre több beteg eshet át gyors és hatékony endoszkópos gerincműtéten, melynek köszönhetően már másnap elhagyhatják a kórházat. A beavatkozásokat rövid várakozási idővel végzik, jelentősen javítva a páciensek életminőségét.",
+      "title": "Sziget fesztivál: Droggyanú a DJ Oti showján",
+      "summary": "Két nő rosszul lett a Sziget fesztivál egyik buliján, és attól tartanak, hogy bedrogozhatták őket. Az eset kapcsán vizsgálat indult, de hivatalos információ még nem erősítette meg a drogok jelenlétét.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij szerint 50 ezer észak-koreai katona érkezhet az orosz-ukrán frontra",
-      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki amiatt, hogy akár 50 ezer észak-koreai katona is csatlakozhat az orosz erőkhöz a háborúban. Ez a fejlemény jelentősen befolyásolhatja a konfliktus kimenetelét és a geopolitikai helyzetet.",
+      "title": "Leállhat az áruszállítás a Rajnán az alacsony vízszint miatt",
+      "summary": "Az extrém alacsony vízállás miatt a héten akár teljesen leállhat a teherhajók forgalma a Rajna egyik kulcsfontosságú szakaszán. Ez súlyos gazdasági következményekkel járhat Németország és az európai ipar számára.",
       "importance": 5
     },
     {
-      "title": "Izrael elutasítja Trump gázai béketervét",
-      "summary": "Izrael elutasította Donald Trump 15 pontos gázai béketervét, Benjamin Netanjahu miniszterelnök szerint az nem szolgálja az ország érdekeit. Ez újabb akadályt jelent a közel-keleti békefolyamatban és fokozza a feszültséget a régióban.",
+      "title": "Zelenszkij szerint 50 ezer észak-koreai katona érkezhet Oroszországba",
+      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki amiatt, hogy akár 50 ezer észak-koreai katona is harcba szállhat Oroszország oldalán az ukrajnai fronton. Ez jelentősen eszkalálhatja a konfliktust.",
       "importance": 5
     },
     {
-      "title": "Az apadó Rajna súlyos gazdasági sebezhetőséget mutat Németországban",
-      "summary": "Az alacsony vízállású Rajna folyó rávilágít Németország gazdasági sebezhetőségére, mivel kulcsfontosságú szállítási útvonalként szolgál. A helyzet hosszú távú hatással lehet az iparra és ellátási láncokra, komoly kihívások elé állítva Európa gazdasági motorját.",
+      "title": "Izrael elutasítja Trump gázai tervét",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök bejelentette, hogy Izrael elutasítja Donald Trump volt amerikai elnök 15 pontos gázai béketervét. Ez tovább bonyolítja a közel-keleti békefolyamatot.",
       "importance": 4
     },
     {
-      "title": "Kanadában szükségállapotot hirdettek a pusztító erdőtüzek miatt",
-      "summary": "Kanada szerte súlyos erdőtüzek pusztítanak, melyek miatt több régióban is szükségállapotot hirdettek. Az evakuálások és a hatalmas kiterjedésű lángok komoly környezeti és emberi kihívást jelentenek, tovább súlyosbítva a klímaváltozás hatásait.",
+      "title": "Oroszország az ukrán infrastruktúrát támadja",
+      "summary": "Oroszország célzottan támadja Ukrajna civil infrastruktúráját, beleértve benzinkutakat és csomagterminálokat, hogy aláássa az ország működőképességét és az emberek életminőségét. Ez a taktika súlyos humanitárius következményekkel jár.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI biztonsági tesztek önmagukban is biztonsági kockázattá válnak",
-      "summary": "Az AI rendszerek biztonságának tesztelésére használt módszerek paradox módon maguk is új biztonsági kockázatokat generálhatnak. A szakértők szerint a komplex tesztelési folyamatok potenciális sebezhetőségeket rejthetnek, amelyekre figyelni kell.",
+      "title": "Az AI biztonsági tesztje maga is kockázattá válhat",
+      "summary": "Szakértők figyelmeztetnek, hogy az mesterséges intelligencia rendszerek biztonsági tesztelése, amelyet a sebezhetőségek feltárására terveztek, akaratlanul is biztonsági kockázatok forrásává válhat. Ez új kihívásokat jelent az AI fejlesztők számára.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI biztonsági aggodalmak miatt lassítja az Astra modell fejlesztését",
-      "summary": "Az OpenAI bejelentette, hogy biztonsági aggályok miatt lassítja az Astra modelljének fejlesztését, kiemelve az AI-fejlesztés során felmerülő etikai és biztonsági kihívásokat. Ez a döntés rávilágít az iparág felelősségteljes megközelítésének fontosságára.",
+      "title": "Az OpenAI biztonsági aggodalmak miatt lassította az Astra modell fejlesztését",
+      "summary": "Az OpenAI bejelentette, hogy biztonsági aggodalmak miatt lassította az Astra nevű AI modelljének fejlesztését. Ez a döntés rávilágít az AI fejlesztésében rejlő potenciális kockázatokra és a vállalat felelősségvállalására.",
       "importance": 5
     },
     {
-      "title": "Az Amazon új adatközpontja lehet az USA legnagyobb klímaszennyezője",
-      "summary": "Az Amazon tervezett új adatközpontja az Egyesült Államok legnagyobb klímaszennyező létesítményévé válhat, jelentős környezeti aggodalmakat vetve fel. Ez kihívást jelent a technológiai óriások karbonsemlegességi törekvései számára, és felhívja a figyelmet az IT-infrastruktúra ökológiai lábnyomára.",
+      "title": "Az Amazon tervezett adatközpontja lehet az USA legnagyobb klímaszennyezője",
+      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb klímaszennyezőjévé válhat, ami komoly kritikát váltott ki a környezetvédőktől. Ez az eset rávilágít a technológiai ipar növekvő energiaigényének környezeti hatásaira.",
       "importance": 4
     },
     {
-      "title": "Az X (korábbi Twitter) új bevételmegosztási programot vezet be",
-      "summary": "Az X platform (korábbi Twitter) lecseréli korábbi bevételmegosztási programját egy új \"Original Content Rewards\" rendszerre. Ez a változás alapvetően befolyásolhatja a tartalomgyártók jutalmazását és a platformon való részvételét, átalakítva a közösségi média monetizációs modelljét.",
+      "title": "Az OpenAI felvásárolta a NextSlide prezentációs startupot",
+      "summary": "Az OpenAI felvásárolta a NextSlide nevű prezentációs startupot, ezzel bővítve képességeit a mesterséges intelligencia alapú tartalomkészítés és vizualizáció terén. Ez a lépés további innovációt ígér az AI alkalmazásokban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Vegyszeres trükkel alakítanak értékes termékké hulladék műanyagot",
-      "summary": "Kémikusok kifejlesztettek egy innovatív módszert, amellyel a szemét műanyagot magas értékű anyaggá alakíthatják át. Ez az áttörés jelentős lépést jelent a műanyagszennyezés elleni küzdelemben és a körforgásos gazdaság megvalósításában.",
+      "title": "Hulladék műanyagból értékes alapanyag kémiai trükkel",
+      "summary": "Tudósok egy új kémiai eljárást fejlesztettek ki, amellyel a hulladék műanyagot magas értékű alapanyaggá alakíthatják át. Ez az áttörés jelentős lépést jelenthet a műanyagszennyezés elleni küzdelemben és a körforgásos gazdaság felé.",
       "importance": 5
     },
     {
-      "title": "Közelebb kerül az univerzális tüdőgyulladás elleni vakcina valósága",
-      "summary": "A tudósok jelentős előrelépést tettek egy univerzális tüdőgyulladás elleni vakcina kifejlesztésében, amely potenciálisan életeket menthet meg világszerte. Ez az áttörés új reményt ad a betegség elleni hatékonyabb védekezésre, különösen a gyermekek és idősek körében.",
+      "title": "Az AI évtizedes hibákat talál a tudományos irodalomban",
+      "summary": "Mesterséges intelligencia alapú rendszerek képesek arra, hogy átfésüljék a tudományos irodalmat és évtizedes hibákat tárjanak fel. Ez a képesség forradalmasíthatja a tudományos kutatás ellenőrzését és pontosságát.",
       "importance": 5
     },
     {
-      "title": "Hogyan mérik a tudósok a hőhullámok milliókat kitevő halálos áldozatait?",
-      "summary": "Tudósok részletezik, hogyan számszerűsítik a hőhullámok által okozott, milliókat érintő haláleseteket globálisan. A pontosabb módszerek kulcsfontosságúak a klímaváltozás egészségügyi hatásainak megértéséhez és a hatékonyabb közegészségügyi stratégiák kidolgozásához.",
+      "title": "Közelebb került a pneumococcus elleni univerzális vakcina",
+      "summary": "A kutatók jelentős előrelépést tettek egy pneumococcus betegségek elleni univerzális vakcina kifejlesztésében, amely számos baktériumtörzs ellen nyújthatna védelmet. Ez a felfedezés globális közegészségügyi előnyökkel járna.",
       "importance": 4
     },
     {
-      "title": "Mesterséges intelligencia segíti a trópusi ciklonok előrejelzését",
-      "summary": "Új mesterséges intelligencia alapú módszereket vezetnek be a trópusi ciklonok pontosabb és gyorsabb előrejelzésére. Ez jelentősen javíthatja a katasztrófavédelmet és az életek mentését a veszélyeztetett régiókban, csökkentve a természeti katasztrófák okozta károkat.",
+      "title": "Hőhullámok okozta halálesetek: Hogyan számolják a tudósok az áldozatokat?",
+      "summary": "A tudósok módszereket dolgoztak ki arra, hogy pontosabban megbecsüljék a hőhullámok által okozott halálesetek számát, amelyek milliókat érintenek világszerte. Ez a kutatás segít jobban megérteni a klímaváltozás emberi egészségre gyakorolt hatásait.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Szoboszlaiék vereséget szenvedtek a Monaco ellen a felkészülési mérkőzésen",
-      "summary": "Szoboszlai Dominik csapata, a Liverpool 2-0-s előnyről kapott ki a Monaco elleni felkészülési mérkőzésen. A vereség ellenére a csapat folytatja a felkészülést a közelgő szezonra, finomítva taktikáját és formáját.",
-      "importance": 3
-    },
-    {
-      "title": "Halálos tragédia a nagyatádi triatlonversenyen",
-      "summary": "Tragikus baleset történt a nagyatádi triatlonversenyen, ahol egy versenyző életét vesztette. A sportközösség megdöbbenéssel fogadta a hírt, és együttérzését fejezte ki az elhunyt családjának.",
-      "importance": 4
-    },
-    {
-      "title": "Mark Zuckerberg és Elon Musk küzdelme egyre valószínűbb",
-      "summary": "Egyre több jel utal arra, hogy Mark Zuckerberg és Elon Musk között valóban sor kerülhet egy ketrecharcra, miután mindketten edzésbe álltak. A két techóriás közötti párbaj a sportvilágot és a médiát is lázban tartja.",
-      "importance": 4
-    },
-    {
-      "title": "Vaddisznó úszott át a Dunán, riadalmat keltve a Kossuth téren",
-      "summary": "Egy vaddisznó a Dunát átúszva érte el a budapesti Kossuth teret, ahol rövid ideig pánikot okozott a járókelők körében. Az állatot végül befogták, az eset nagy figyelmet kapott a helyi médiában a szokatlan jelenség miatt.",
-      "importance": 2
+      "title": "Meghalt egy versenyző a nagyatádi triatlonversenyen",
+      "summary": "Tragikus baleset történt a nagyatádi IronMenen, ahol egy triatlonversenyző életét vesztette. A sportközösség mély megdöbbenéssel fogadta a hírt, és együttérzését fejezte ki az elhunyt családjának.",
+      "importance": 5
     }
   ]
 }

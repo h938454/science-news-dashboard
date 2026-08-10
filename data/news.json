@@ -1,6 +1,21 @@
 {
   "Telex": [
     {
+      "title": "Kivezényelt külügyesekkel töltötték fel Szijjártó sajtótájékoztatóinak üres székeit",
+      "link": "https://telex.hu/belfold/2026/08/10/kivezenyelt-kulugyesekkel-toltottek-fel-szijjarto-sajtotajekoztatoinak-ures-szekeit",
+      "summary": "A 444 kiderítette, hogy minisztériumi dolgozókat köteleztek arra, hogy beüljenek Szijjártó sajtóeseményeire, miközben a valódi sajtót meg sem hívták."
+    },
+    {
+      "title": "Az esőre még várni kell, marad a 30 fok feletti meleg",
+      "link": "https://telex.hu/belfold/2026/08/10/idojaras-meleg-kanikula",
+      "summary": "Hétfőn délután 37 fokig melegszik a levegő, alig fúj majd a szél."
+    },
+    {
+      "title": "Már több mint egymillió embert evakuáltak Kínában a Delfin tájfun miatt",
+      "link": "https://telex.hu/kulfold/2026/08/10/mar-tobb-mint-egymillio-embert-evakualtak-kinaban-a-delfin-tajfun-miatt",
+      "summary": "Sanghajban közel 1400 repülőjáratot kellett törölni."
+    },
+    {
       "title": "A héten akár teljesen leállhat az áruszállítás a Rajna egyik legfontosabb szakaszán az alacsony vízszint miatt",
       "link": "https://telex.hu/gazdasag/2026/08/10/a-heten-akar-teljesen-leallhat-az-aruszallitas-a-rajna-egyik-legfontosabb-szakaszan-az-alacsony-vizszint-miatt",
       "summary": "Az alacsony vízállás miatt már több német tartományban is enyhítettek a teherautó-forgalom korlátozásain."
@@ -59,25 +74,45 @@
       "title": "Nagyon leegyszerűsítő azt gondolni, hogy csak a jobb fizetésért és munkáért vándorolnak el az emberek",
       "link": "https://telex.hu/defacto/2026/08/09/kivandorlas-penz-jovedelem-szegenyseg-politika-intezmenyek",
       "summary": "A migrációs szándékokat a jövedelmi szempontok mellett világszerte legalább ilyen fontos mértékben alakítják a politikai intézmények, az infrastruktúra és a társadalmi kapcsolatok."
-    },
-    {
-      "title": "A fekete bárány és a szétrohadt ország",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/08/09/danyi-zoltan-a-dogeltakarito-the-carcass-remover",
-      "summary": "Hamarosan angolul is megjelenik Danyi Zoltán háborús regénye, A dögeltakarító."
-    },
-    {
-      "title": "Zelenszkij szerint akár 50 ezer észak-koreai katona érkezhet Oroszországba",
-      "link": "https://telex.hu/kulfold/2026/08/09/zelenszkij-oroszorszag-eszak-korea-katonak-raketa",
-      "summary": "„Teljesen egyértelmű, hogy Észak-Korea továbbra is gyűjti tapasztalatokat a modern hadviselésről” – véli."
-    },
-    {
-      "title": "Az apadó Rajna megmutatja, mennyire kiszolgáltatott a német gazdaság egyetlen folyónak",
-      "link": "https://telex.hu/gazdasag/2026/08/09/nemetorszag-rajna-aszaly-hoseg-negativ-gazdasagi-hatasok-kereskedelem",
-      "summary": "A legnagyobb német cégek elképesztően függenek a rajnai folyami kereskedelemtől, de ha nincs víz, akkor szállítás sincs. A német vállalatok már felkészültebbek, mint korábban, de a termelést így is visszafogja az aszály."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "50 ezer észak-koreai katona segíthet be Putyinnak",
+      "link": "https://444.hu/2026/08/10/50-ezer-eszak-koreai-katona-segithet-be-putyinnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Zelenszkij legalábbis ekkora mozgósításról tud."
+    },
+    {
+      "title": "Soha ilyen forróak nem voltak még a tengereink júliusban",
+      "link": "https://444.hu/2026/08/10/soha-ilyen-forroak-nem-voltak-meg-a-tengereink-juliusban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A mérések kezdete óta ez volt a második legforróbb július, 0,01 fokkal maradtunk el a 2024-es rekordtól."
+    },
+    {
+      "title": "Az alacsony vízállás miatt megszakadhat a rajnai hajózási útvonal",
+      "link": "https://444.hu/2026/08/10/az-alacsony-vizallas-miatt-megszakadhat-a-rajnai-hajozasi-utvonal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A német közlekedési minisztérium a közutakon és vasúttal pótolná a kieső szállítást."
+    },
+    {
+      "title": "Szifilisz és sztrájk a parlamentben",
+      "link": "https://444.hu/2026/08/10/szifilisz-es-sztrajk-a-parlamentben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Mármint ezekről is szó lesz a hétfői ülésen, ahol két új fideszes képviselő tesz esküt és Magyar Péter kezdi a műsort."
+    },
+    {
+      "title": "Rakijás jó reggelt, borízű kombuchát!",
+      "link": "https://444.hu/2026/08/10/rakijas-jo-reggelt-borizu-kombuchat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Baka Andrást jelöli a Tisza köztársasági elnöknek, Friedrich Merzet a saját pártja buktatja meg, vaddisznó tartotta terrorban a metrózókat, a Mandinernek pedig nem sok köze volt az újságíráshoz. Itt a 444 napindító hírlevele!"
+    },
+    {
+      "title": "Feljelentést kellett tennünk, hogy kiderüljön, hogyan kezelte valójában a sajtót a Szijjártó-féle külügy",
+      "link": "https://444.hu/2026/08/10/feljelentest-kellett-tennunk-hogy-kideruljon-hogyan-kezelte-valojaban-a-sajtot-a-szijjarto-fele-kulugy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Szijjártó Péter egészen abszurd dolgokat állított a sajtószabadságról. Nem hagytuk annyiban, és három év után ennek meg is lett az eredménye."
+    },
+    {
+      "title": "Független újságírók helyett a Külügyminisztérium odavezényelt munkatársait ültették be Szijjártó Péter sajtótájékoztatóira",
+      "link": "https://444.hu/2026/08/10/fuggetlen-ujsagirok-helyett-a-kulugyminiszterium-odavezenyelt-munkatarsait-ultettek-be-szijjarto-peter-sajtotajekoztatoira?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ki volt adva, hogy a minisztérium különböző szervezeti egységeitől hány főnek kellett statisztálni a miniszteri szerepléseken. A vendégek meg csak ámulhattak, hogy milyen sok újságíró kíváncsi Szijjártóra."
+    },
     {
       "title": "Orbán lehúzott egy rakiját",
       "link": "https://444.hu/2026/08/09/orban-lehuzott-egy-rakijat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -117,44 +152,29 @@
       "title": "Lannert Judit luxusfürdőszobát talált Novák Katalin egykori kormányzati irodájában",
       "link": "https://444.hu/2026/08/09/lannert-judit-luxusfurdoszobat-talalt-novak-katalin-egykori-allamtitkari-irodajaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A helyiségben rendes íróasztal helyett egy recepciós pultra hasonlító dolgozóasztal van."
-    },
-    {
-      "title": "„Túl akarunk élni, és magunk előtt nem akarunk rossz emberként mutatkozni”",
-      "link": "https://444.hu/jo/2026/08/09/tul-akarunk-elni-es-magunk-elott-nem-akarunk-rossz-emberkent-mutatkozni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hogyan ítéljük meg azt, aki elfogadhatóvá tette az elfogadhatatlant, de elviselhetővé tette az elviselhetetlent? Tompa Andreát kérdeztük új regényéről, diktatúráról és táncról, felelősségről és örömről."
-    },
-    {
-      "title": "Izrael elutasítja Trump 15 pontos gázai tervét",
-      "link": "https://444.hu/2026/08/09/izrael-elutasitja-trump-15-pontos-gazai-tervet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Netanjahu azt mondta, addig nem vonulnak ki a Gázai övezetből, ameddig a Hamászt „valóban” le nem szerelik."
-    },
-    {
-      "title": "Meghalt egy versenyző a nagyatádi triatlonversenyen",
-      "link": "https://444.hu/2026/08/09/meghalt-egy-versenyzo-a-nagyatadi-triatlonversenyen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Miután rosszul lett úszás közben."
-    },
-    {
-      "title": "Irán szerint közel a megállapodás a Hormuzi-szoros megnyitásáról, de ez még nem a vége",
-      "link": "https://444.hu/2026/08/09/iran-szerint-kozel-a-megallapodas-a-hormuzi-szoros-megnyitasarol-de-ez-meg-nem-a-vege?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Irán és Omán hamarosan megállapodhat egymással a szorosról. Amerika szerint hamarosan újraindulhat a forgalom, de Iránnak még vannak feltételei."
-    },
-    {
-      "title": "Szervkereskedőkről szóló rémhírek miatt támadtak mentősökre egy erdélyi faluban",
-      "link": "https://444.hu/2026/08/09/szervkereskedokrol-szolo-remhirek-miatt-tamadtak-mentosokre-egy-erdelyi-faluban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A mentő útját próbálták elállni a feldühödött falusiak, a mentőorvos szerint csak azért úszták meg a lincselést, mert a sofőrnek sikerült megfordítani az autót, és el tudtak menekülni."
-    },
-    {
-      "title": "Főtájépítészt keresnek a MÁV-hoz",
-      "link": "https://444.hu/2026/08/09/fotajepiteszt-keresnek-a-mav-hoz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Máshogy kezelik majd a vasúthoz tartozó zöldfelületeket."
-    },
-    {
-      "title": "Orbán Viktor a Mol vezérigazgató-helyettesével és Hatvanpuszta főépítészével bukkant fel egy szerb fesztiválon",
-      "link": "https://444.hu/2026/08/09/orban-viktor-a-mol-vezerigazgato-helyettesevel-es-hatvanpuszta-foepiteszevel-bukkant-fel-egy-szerb-fesztivalon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Panyi Szabolcs beazonosította a két embert."
     }
   ],
   "HVG": [
+    {
+      "title": "Lecsapott Kínára a Delfin tájfun, több mint egymillió embert evakuáltak",
+      "link": "https://hvg.hu/vilag/20260810_lecsapott-kinara-a-delfin-tajfun-tobb-mint-egymillio-embert-evakualtak",
+      "summary": "A vihar korábban a Fülöp-szigeteken, Tajvanon és Japánban is pusztított."
+    },
+    {
+      "title": "3,5 milliárd forintos, lényegében új Ferrari 288 GTO vár új gazdára",
+      "link": "https://hvg.hu/cegauto/20260810_3-5-milliard-forintos-lenyegeben-uj-ferrari-288-gto-var-uj-gazdara",
+      "summary": "Nem véletlenül kerül ilyen sokba ez a 80-as évekbeli 400 lóerős elképesztő olasz sportkocsi."
+    },
+    {
+      "title": "Tiborczcal repült kötelékben, vajon Ausztráliában már magának fejleszt milliárdos ingatlant?",
+      "link": "https://hvg.hu/360/20260810_komonczi-zsolt-ingatlan-ausztralia-tiborcz-ebx",
+      "summary": "Sydney előkelő negyedében készül luxuslakások építésére Komonczi Zsolt, aki eredetileg közösen birtokolta és fejlesztette a Hotel Dorotheát Tiborcz Istvánnal a pesti belvárosban. Ahogy az itthon már megszokott, az üzletember ausztráliai cégeinél sem mindig látszik, hogy ki a végső tulajdonos."
+    },
+    {
+      "title": "Az alacsony vízállás miatt leállhat az áruszállítás a Rajnán",
+      "link": "https://hvg.hu/gazdasag/20260810_az-alacsony-vizallas-miatt-leallhat-az-aruszallitas-a-rajnan",
+      "summary": "A hőség miatt visszahúzódó folyó egyik szakasza olyan sekéllyé válhat, hogy nem tudnak rajta átjutni a hajók, amivel kettéválhat a fontos nemzetközi vízi útvonal."
+    },
     {
       "title": "A zajszintmérések szerint vasárnap nem volt túl hangos a Sziget",
       "link": "https://hvg.hu/elet/20260810_a-zajszintmeresek-szerint-vasarnap-az-eloirt-szint-alatt-maradt-a-sziget",
@@ -209,33 +229,13 @@
       "title": "2-3 hét alatt kiírják a műtétet, másnap már hazamehet a beteg: sorra végzik az endoszkópos gerincműtéteket Szegeden",
       "link": "https://hvg.hu/tudomany/20260809_endoszkopos-gerincmutet-szeged-szte",
       "summary": "Magyarországon elsőként vált rutinszerű eljárássá az endoszkópos gerincműtét a porckorongsérvben szenvedő pácienseknél a Szegedi Tudományegyetem (SZTE) Idegsebészeti Klinikáján, a betegek többsége már az eljárást követő első nap hazatérhet."
-    },
-    {
-      "title": "Mire Orbán nemzeti ellenállást hirdetett, Apátiék mozgalmába már 2,7 milliárdot pakoltak",
-      "link": "https://hvg.hu/itthon/20260809_nemzeti-ellenallas-mozgalom-szucs-gabor-apati-bence-milliardos-bevetel-ebx",
-      "summary": "A parlamentben Szűcs Gábort kérdeztük arról, vajon az ő a mozgalmukra gondolt-e Orbán, és mi lett a céggel."
-    },
-    {
-      "title": "Egy fiatal szerint bedrogozták a húgát DJ Oti showján, az OMSZ és a Sziget is reagált",
-      "link": "https://hvg.hu/itthon/20260809_orszagos-mentoszolgalat-hajogyari-sziget-sebestyen-balazs-dj-oti-drog-mentosok",
-      "summary": "A fiatal arról írt, hogy a mentősök lekezelően bántak velük, miután testvére hirtelen összeesett."
-    },
-    {
-      "title": "Péterfy Gergely: Itt van csőstül a nyár, amennyit csak akarok",
-      "link": "https://hvg.hu/360/20260809_az-en-hetem-peterfy-gergely",
-      "summary": "Az én hetem című sorozatunkhoz négy írót kértünk fel, hogy öt kulcsszót felhasználva írjanak arról, miként élték meg az elmúlt hetet. Péterfy Gergelynek ezúttal ezeket a szavakat kellett felhasználnia: kicentizik, vetélkedő, hitkérdés, állásfoglalás, Bródy-nap."
-    },
-    {
-      "title": "Mágikus gyíkok és félelmetes fehér vadkan: magyarul is olvasható a baszk irodalom csúcsműve",
-      "link": "https://hvg.hu/360/20260809_hvg-bernardo-atxaga-baszkfold-nyelvi-identitas-legendak",
-      "summary": "A baszk irodalom hírvivőjének tartják Bernardo Atxagát, aki jóval Spanyolországon túl is ismertté tette a varázslatos és egyedi Baszkföld egyszerre mitikus és reális világát."
     }
   ],
   "BBC": [
     {
-      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+      "title": "Travelodge staff gave domestic abuser key to his victim's room",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx1v922p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A woman tells the BBC her attacker kicked her hotel room door \"off its hinges\" after reception gave him the key."
     },
     {
       "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
@@ -243,14 +243,19 @@
       "summary": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs."
     },
     {
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai."
+    },
+    {
       "title": "Evidence that South African special forces murdered top detective shared with BBC",
       "link": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
       "summary": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men."
     },
     {
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
     },
     {
       "title": "Brief relief ahead of fifth heatwave - as more areas could move into drought",
@@ -258,7 +263,7 @@
       "summary": "While Monday won't be quite as hot as the weekend, temperatures will ramp up ahead of the fifth widespread heatwave of the year."
     },
     {
-      "title": "Alexandria Ocasio-Cortez freezing her eggs and hasn't 'ruled out' presidential run",
+      "title": "Ocasio-Cortez freezing her eggs and says she hasn't ruled out presidential run",
       "link": "https://www.bbc.co.uk/news/articles/cewrzrekwv5o?at_medium=RSS&at_campaign=rss",
       "summary": "The popular Democratic congresswoman also said \"anything was possible\" when asked about a possible Senate bid."
     },
@@ -266,6 +271,16 @@
       "title": "How much parents could save from September's new school uniform rules",
       "link": "https://www.bbc.co.uk/news/articles/crrvq1y442vo?at_medium=RSS&at_campaign=rss",
       "summary": "Parents should not have to buy more than three branded items, plus a tie for secondary schools."
+    },
+    {
+      "title": "Risk of patient safety 'bonfire' with Health Bill changes, Lib Dems say",
+      "link": "https://www.bbc.co.uk/news/articles/c62e60m1jygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The party says the government's plans to modernise the NHS risk another major  hospital scandal."
+    },
+    {
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed."
     },
     {
       "title": "'Spectacular' Game of Thrones stage spin-off opens at home of Shakespeare",
@@ -278,21 +293,6 @@
       "summary": "Some people need to ensure they are named on their energy bill before the deadline to qualify for help."
     },
     {
-      "title": "Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave'",
-      "link": "https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview."
-    },
-    {
-      "title": "Drones spotted over German base days after Leipzig bomb incident",
-      "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police are investigating a drone sighting over a miltary base reportedly used for housing Patriot missile system parts."
-    },
-    {
-      "title": "Man arrested after boat capsizes near Statue of Liberty killing woman and infant",
-      "link": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Twelve other people initially rescued from the water are all reported to be in stable condition."
-    },
-    {
       "title": "Could your tattoo stop you from getting a job?",
       "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
       "summary": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace."
@@ -303,9 +303,9 @@
       "summary": "The Sun says \"jet bomb plotters\" are launching parole bids, as the Mirror carries a heatwave \"open water swimming\" warning."
     },
     {
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "link": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
+      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
+      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tech companies are not modelling their own claims of the technology giving people more free time."
     }
   ],
   "TechCrunch": [

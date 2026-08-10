@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Sebestyén Balázs: Az emberélet az első",
+      "link": "https://telex.hu/belfold/2026/08/10/sebestyen-balazs-dj-oti-sziget",
+      "summary": "A műsorvezető azt írta, őszintén sajnálják, ha bárkivel baj történt a szombati koncerten."
+    },
+    {
       "title": "Már száznál is több halálos áldozata van a kolumbiai földrengésnek, szükségállapotot hirdettek az országban",
       "link": "https://telex.hu/kulfold/2026/08/10/kolumbia-foldrenges-halalos-aldozatok-szuksegallapot",
       "summary": "Több tucat sebesültről lehet tudni, továbbra is folynak a mentési munkálatok, hogy kiszabadítsák a romok alá szorult embereket."
@@ -69,11 +74,6 @@
       "title": "Hűtlen kezelés miatt nyomoz az NNI a végleges adattörlések ügyében",
       "link": "https://telex.hu/belfold/2026/08/10/vegleges-torles-adattorles-miniszterelnokseg-nyomozas",
       "summary": "Bruttó 40 milliárd ment el, nem tudni mire, ezért a Miniszterelnökség feljelentést tett."
-    },
-    {
-      "title": "Súlyos szabálytalanságokat tárt fel, feljelentést tett Gondosóra-ügyben Tanács Zoltán minisztériuma",
-      "link": "https://telex.hu/gazdasag/2026/08/10/tudomanyos-es-technologiai-miniszterium-feljelentes-gondosora-program-ugyvezeto-felmentes",
-      "summary": "A visszásságok miatt azonnali hatállyal felmentették a programot irányító cég ügyvezetőjét."
     }
   ],
   "Portfolio": [],
@@ -238,9 +238,19 @@
       "summary": "The East Midlands, Lincolnshire and Northamptonshire, Kent and East Sussex, and Solent and the South Downs have moved into drought status."
     },
     {
+      "title": "New Forest firefighting to continue overnight as cars abandoned",
+      "link": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+      "summary": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday."
+    },
+    {
       "title": "Record 230 people cross Channel in one small boat",
       "link": "https://www.bbc.co.uk/news/articles/c4g4vxjg2yno?at_medium=RSS&at_campaign=rss",
       "summary": "The Home Office says it shows the \"reckless and dangerous tactics\" used by gangs \"cramming ever greater numbers on to unseaworthy vessels\"."
+    },
+    {
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits."
     },
     {
       "title": "30 years later, a former gang member will stand trial for Tupac's murder",
@@ -251,11 +261,6 @@
       "title": "New weight-loss pill approved for use in UK",
       "link": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
       "summary": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab."
-    },
-    {
-      "title": "Trump signs order to limit and split childhood vaccines",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has long pushed a discredited link between vaccines and autism."
     },
     {
       "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
@@ -301,14 +306,14 @@
       "title": "Could your tattoo stop you from getting a job?",
       "link": "https://www.bbc.co.uk/news/articles/cpq81y7x1yeo?at_medium=RSS&at_campaign=rss",
       "summary": "A quarter of the UK population – including the new prime minister – have at least one tattoo, but they still divide opinion in the workplace."
-    },
-    {
-      "title": "Tech leaders say AI means less work - their staff say they work up to 90 hours a week",
-      "link": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tech companies are not modelling their own claims of the technology giving people more free time."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+    },
     {
       "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
       "link": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
@@ -378,12 +383,83 @@
       "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
       "link": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-    },
-    {
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+      "link": "https://www.nature.com/articles/s41586-026-10984-9",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10984-9\">doi:10.1038/s41586-026-10984-9</a></p>Author Correction: Durable all-inorganic perovskite tandem photovoltaics"
+    },
+    {
+      "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+      "link": "https://www.nature.com/articles/s41586-026-10973-y",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10973-y\">doi:10.1038/s41586-026-10973-y</a></p>Author Correction: Cooperation conflicts with equality when allocating public goods"
+    },
+    {
+      "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+      "link": "https://www.nature.com/articles/s41586-026-10989-4",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10989-4\">doi:10.1038/s41586-026-10989-4</a></p>Learning millisecond protein dynamics from what is missing in NMR spectra"
+    },
+    {
+      "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+      "link": "https://www.nature.com/articles/s41586-026-10978-7",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10978-7\">doi:10.1038/s41586-026-10978-7</a></p>Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance"
+    },
+    {
+      "title": "How and when to use artificial intelligence in your science job application",
+      "link": "https://www.nature.com/articles/d41586-026-02435-2",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02435-2\">doi:10.1038/d41586-026-02435-2</a></p>A webinar offers advice to hiring managers and jobseekers."
+    },
+    {
+      "title": "Where are you ticklish? Researchers map the sensation across cultures",
+      "link": "https://www.nature.com/articles/d41586-026-02493-6",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02493-6\">doi:10.1038/d41586-026-02493-6</a></p>People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas."
+    },
+    {
+      "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+      "link": "https://www.nature.com/articles/d41586-026-02447-y",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02447-y\">doi:10.1038/d41586-026-02447-y</a></p>Without strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education."
+    },
+    {
+      "title": "What to do when you have too many PhD projects on the go",
+      "link": "https://www.nature.com/articles/d41586-026-01681-8",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01681-8\">doi:10.1038/d41586-026-01681-8</a></p>By ruthlessly narrowing down his priorities, Zachary Sentell managed to publish several papers in the final year of his PhD and graduate on time."
+    },
+    {
+      "title": "Why environmental treaties must also address mental health",
+      "link": "https://www.nature.com/articles/d41586-026-02450-3",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02450-3\">doi:10.1038/d41586-026-02450-3</a></p>Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that."
+    },
+    {
+      "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
+      "link": "https://www.nature.com/articles/d41586-026-02276-z",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02276-z\">doi:10.1038/d41586-026-02276-z</a></p>QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity."
+    },
+    {
+      "title": "Despite global turmoil, Gen Z researchers are not giving up",
+      "link": "https://www.nature.com/articles/d41586-026-02453-0",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02453-0\">doi:10.1038/d41586-026-02453-0</a></p>Four researchers born after 1997 describe how they stay motivated and cultivate resilience during difficult times."
+    },
+    {
+      "title": "Turning the tide: restoring Mozambican mangroves — in photos",
+      "link": "https://www.nature.com/articles/d41586-026-02199-9",
+      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02199-9\">doi:10.1038/d41586-026-02199-9</a></p>As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them."
+    },
+    {
+      "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+      "link": "https://www.nature.com/articles/d41586-026-02488-3",
+      "summary": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02488-3\">doi:10.1038/d41586-026-02488-3</a></p>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses."
+    },
+    {
+      "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+      "link": "https://www.nature.com/articles/d41586-026-02462-z",
+      "summary": "<p>Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02462-z\">doi:10.1038/d41586-026-02462-z</a></p>Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against."
+    },
+    {
+      "title": "Operational Tropical Cyclone Forecasting with AI",
+      "link": "https://www.nature.com/articles/s41586-026-10953-2",
+      "summary": "<p>Nature, Published online: 06 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10953-2\">doi:10.1038/s41586-026-10953-2</a></p>Operational Tropical Cyclone Forecasting with AI"
+    }
+  ]
 }

@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Paks: újra két blokk termel áramot",
-      "summary": "A paksi atomerőmű kettes blokkja ismét üzemel, így két turbina termel áramot. A teljesítmény növelése hozzájárul az ország energiaellátásának stabilitásához.",
-      "importance": 5
-    },
-    {
-      "title": "Feljelentés a Gondosóra-ügyben súlyos szabálytalanságok miatt",
-      "summary": "Tanács Zoltán minisztériuma súlyos szabálytalanságokat tárt fel a Gondosóra program működésében, ezért feljelentést tett. Az ügy a közpénzek felhasználásának átláthatatlanságát feszegeti.",
+      "title": "Újra két turbina termel áramot Pakson",
+      "summary": "A paksi atomerőmű kettes blokkjában is elkezdték növelni a teljesítményt, így már két turbina termel áramot. Ezzel a blokk üzembe helyezése sikeresen lezárul.",
       "importance": 4
     },
     {
-      "title": "Nyomozás az NMHH 40 milliárdos adattörlési ügyében",
-      "summary": "A Nemzeti Nyomozó Iroda hűtlen kezelés gyanúja miatt nyomoz az NMHH által adattörlési kódokért kifizetett 40 milliárd forintos ügyben. Az eset felveti a közpénzek célszerű felhasználásának kérdését.",
+      "title": "Súlyos szabálytalanságok a Gondosóra-ügyben, feljelentés történt",
+      "summary": "A minisztérium vizsgálata súlyos szabálytalanságokat tárt fel a Gondosóra programmal kapcsolatban, ezért feljelentést tettek. Az ügyben eljárás indulhat.",
       "importance": 4
     },
     {
-      "title": "Közel 6 milliós bírság Hatvanpuszta műemlékrombolásáért",
-      "summary": "Engedély nélküli bontás és építés miatt csaknem 6 millió forintos bírságot szabtak ki a hatvanpusztai birtokra. Az eset rávilágít a műemlékvédelem hiányosságaira és a szabályok betartatásának fontosságára.",
+      "title": "Bírságot szabtak ki Orbánék hatvanpusztai műemlékrombolása miatt",
+      "summary": "Közel 6 milliós büntetést szabtak ki engedély nélküli bontás és építés miatt Orbán Viktor miniszterelnök családjának hatvanpusztai birtokán. Az ügy a műemlékvédelemre vonatkozó szabályok megsértését jelzi.",
       "importance": 4
+    },
+    {
+      "title": "Szeptembertől áfamentesek lesznek a receptköteles gyógyszerek",
+      "summary": "Szeptember 1-jétől csak a receptköteles gyógyszerek válnak áfamentessé, ami közvetlenül érinti a betegek költségeit. A változás célja a gyógyszerek elérhetőbbé tétele.",
+      "importance": 3
     }
   ],
   "world": [
     {
       "title": "Száznál is több halálos áldozata van a kolumbiai földrengésnek",
-      "summary": "Pusztító földrengés rázta meg Kolumbiát, több mint 100 ember halálát okozva, és szükségállapotot hirdettek az országban. A mentőalakulatok folyamatosan dolgoznak a túlélők felkutatásán és a károk felmérésén.",
+      "summary": "Pusztító földrengés rázta meg Kolumbiát, több mint száz ember halálát okozva, és szükségállapotot hirdettek az országban. A mentőalakulatok folyamatosan dolgoznak a túlélők felkutatásán.",
       "importance": 5
     },
     {
-      "title": "Betiltották az egyetlen orosz békepárt indulását a választáson",
-      "summary": "Egy orosz bíróság eltiltotta az egyetlen ukrajnai háborút ellenző pártot a választáson való indulástól. Ez a lépés tovább szűkíti a politikai pluralizmust és a háborúellenes hangok megjelenési lehetőségét Oroszországban.",
-      "importance": 5
+      "title": "Nem indulhat a választáson az egyetlen békepárti orosz erő",
+      "summary": "Az orosz bíróság eltiltotta a választáson való indulástól az egyetlen olyan pártot, amely nyíltan ellenzi az ukrajnai háborút. Ez a lépés tovább korlátozza a politikai pluralizmust Oroszországban.",
+      "importance": 4
     },
     {
-      "title": "A WHO figyelmeztet: az Ebola-vírus előttünk jár",
-      "summary": "Az Egészségügyi Világszervezet (WHO) aggodalmát fejezte ki az Ebola-vírus terjedése miatt, kijelentve, hogy a vírus megelőzi az ellene tett erőfeszítéseket. A helyzet újabb globális egészségügyi kihívásokra utal.",
-      "importance": 5
+      "title": "Orosz kémakciót fülelt le Svédország, diplomaták érintettek",
+      "summary": "Svédország orosz kémakciót derített fel, amelynek során az orosz hírszerzés három diplomatát próbált meg beszervezni. Az eset komoly diplomáciai feszültségeket okozhat Svédország és Oroszország között.",
+      "importance": 4
     },
     {
-      "title": "Orosz kémakciót lepleztek le Svédországban",
-      "summary": "Svédország orosz kémakciót leplezett le, melynek során az orosz hírszerzés három diplomatát szervezett be. Az eset feszültséget okozhat a két ország közötti kapcsolatokban és rávilágít a regionális biztonsági kockázatokra.",
+      "title": "Az Egészségügyi Világszervezet (WHO) az Ebola terjedésére figyelmeztet",
+      "summary": "A WHO aggodalmát fejezte ki az Ebola vírus terjedési sebessége miatt, jelezve, hogy a szervezet lemaradásban van a járvány kezelésében. A gyors cselekvés elengedhetetlen a további terjedés megfékezéséhez.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Zuckerberg szuperintelligens mesterséges intelligenciát ígér mindenki számára",
-      "summary": "Mark Zuckerberg bejelentette, hogy a Meta célja egy \"szuperintelligens\" mesterséges intelligencia fejlesztése, amelyet mindenki számára elérhetővé tennének. Ez a vízió alapvetően formálhatja a jövő technológiai tájképét és az AI szerepét a mindennapi életben.",
+      "title": "Zuckerberg mindenki számára elérhetővé tenné a „szuperintelligens” mesterséges intelligenciát",
+      "summary": "Mark Zuckerberg, a Meta vezérigazgatója azt tervezi, hogy a vállalat a jövőben mindenki számára elérhetővé teszi a „szuperintelligens” mesterséges intelligenciát. Ez a lépés jelentős hatással lehet a technológia jövőjére és az AI hozzáférésére.",
       "importance": 5
     },
     {
-      "title": "Kiterjedt adatlopás a Ceva Logistics-nél",
-      "summary": "A szállítmányozási óriás Ceva Logisticsnél történt adatlopás bankokat, kiskereskedőket és Steam játékosokat is érint, széles körű következményekkel járva. Az incidens rávilágít a kibervédelem kritikus fontosságára a globális ellátási láncokban.",
-      "importance": 5
-    },
-    {
-      "title": "Felhasználói függőségi perek ezrei a közösségi média ellen",
-      "summary": "A közösségi média platformok továbbra is felhasználói függőség miatt indított perek ezreivel néznek szembe, miután fellebbezéseik kudarcot vallottak. Az ügyek rávilágítanak a platformok mentális egészségre gyakorolt hatására és a technológiai vállalatok felelősségére.",
+      "title": "Közösségi média platformok ezernyi függőségi perrel néznek szembe",
+      "summary": "A közösségi média platformok továbbra is felhasználók ezreinek függőségi pereivel küzdenek, miután fellebbezéseiket elutasították. Ez rávilágít a platformok mentális egészségre gyakorolt hatására és jogi felelősségére.",
       "importance": 4
     },
     {
-      "title": "1,4 milliárd dolláros Pentagon hitelt kapott a Sila akkumulátorgyártó",
-      "summary": "A Sila cég 1,4 milliárd dolláros hitelt kapott a Pentagontól, mivel a hadseregek megnövekedett igényt mutatnak az akkumulátorok iránt. Ez a beruházás a védelmi szektorban a fejlett akkumulátor-technológiák stratégiai fontosságát jelzi.",
+      "title": "Adatvédelmi incidens érinti a Ceva Logistics-t és partnereit",
+      "summary": "A Ceva Logistics szállítmányozási óriáscég adatvédelmi incidenst szenvedett, melynek következményei bankokra, kiskereskedőkre és Steam-játékosokra is kiterjednek. A támadás széles körű adatbiztonsági aggodalmakat vet fel.",
+      "importance": 4
+    },
+    {
+      "title": "A Pentagon 1,4 milliárd dolláros hitelt ad az akkumulátorgyártó Silának",
+      "summary": "A Sila nevű vállalat 1,4 milliárd dolláros hitelt kapott a Pentagontól, mivel a hadseregek egyre nagyobb igényt támasztanak a fejlett akkumulátorokra. Ez a beruházás a védelmi technológia és az energiaellátás jövőjét formálhatja.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Új fogyókúrás tabletta engedélyezve az Egyesült Királyságban",
-      "summary": "Egy új, ígéretes fogyókúrás tablettát engedélyeztek az Egyesült Királyságban, amely jelentős előrelépést jelenthet az elhízás kezelésében. Ez az orvosi innováció milliók életminőségén javíthat.",
+      "title": "Új súlycsökkentő gyógyszert engedélyeztek az Egyesült Királyságban",
+      "summary": "Egy új, ígéretes súlycsökkentő tablettát hagytak jóvá az Egyesült Királyságban, ami segíthet a túlsúly elleni küzdelemben. Ez a fejlesztés új reményt adhat a krónikus elhízásban szenvedőknek.",
+      "importance": 4
+    },
+    {
+      "title": "Közelebb került az egyetemes pneumococcus vakcina",
+      "summary": "Egy egyetemes pneumococcus betegség elleni vakcina fejlesztése jelentős előrelépést tett, közelebb hozva a betegség globális visszaszorítását. Ez a potenciális áttörés életek millióit mentheti meg világszerte.",
       "importance": 5
     },
     {
-      "title": "Látásjavító szemcsepp ígér 8-10 órás éles látást",
-      "summary": "Egy új fejlesztésű szemcsepp a hírek szerint 8-10 órára képes javítani a látást, jelentős kényelmet biztosítva azoknak, akik rövidlátással élnek. Ez az innováció forradalmasíthatja a látáskorrekció módszereit.",
+      "title": "A környezetvédelmi szerződéseknek a mentális egészséggel is foglalkozniuk kell",
+      "summary": "Egy új kutatás szerint a környezetvédelmi egyezményeknek nemcsak a fizikai környezetre, hanem az emberi mentális egészségre gyakorolt hatásokra is ki kell terjedniük. A természeti katasztrófák és az éghajlatváltozás jelentős pszichológiai terhet rónak az emberekre.",
       "importance": 4
     },
     {
-      "title": "Az Amazon új gigaprojektje 33 millió tonna CO2-t bocsáthat ki évente",
-      "summary": "Az Amazon új óriásprojektje évente 33 millió tonna szén-dioxid kibocsátásáért felelhet, ami jelentős környezeti terhelést jelent. Ez a hír rávilágít a nagyvállalatok környezeti felelősségére és a fenntarthatósági célok kihívásaira.",
-      "importance": 4
-    },
-    {
-      "title": "Az ultratávoli repülés küszöbén: 17 időzóna leszállás nélkül",
-      "summary": "Az ultratávoli repülés technológiailag már megvalósítható, akár 17 időzónát átívelő, leszállás nélküli járatokkal. A megvalósítást már csak az anyagiak akadályozzák, ami új távlatokat nyithat a globális közlekedésben és az emberi tűrőképesség vizsgálatában.",
-      "importance": 4
+      "title": "Műholdfelvételek mutatják az angliai aszály pusztító hatását",
+      "summary": "Műholdfelvételek tanúskodnak az Angliai hosszú, forró és száraz nyár drámai hatásairól, Stonehenge-től a Serpentine-ig. A képek jól illusztrálják az éghajlatváltozás vizuális következményeit.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Három fociszövetség Infantino eltávolítását követeli a FIFA éléről",
-      "summary": "Három jelentős kontinentális fociszövetség hivatalosan is kezdeményezte Gianni Infantino, a FIFA elnökének leváltását, új jelöltet is állítva. Ez a lépés komoly hatalmi harcot jelez a nemzetközi labdarúgás irányításában.",
-      "importance": 5
-    },
-    {
-      "title": "Elhunyt Velkey Gábor triatlonversenyen",
-      "summary": "Triatlonverseny közben lett rosszul és meghalt Velkey Gábor, korábbi országgyűlési képviselő és békéscsabai alpolgármester. A tragédia rávilágít a sportolás kockázataira, még tapasztalt résztvevők esetében is.",
+      "title": "Három fociszövetség Infantino azonnali menesztését követeli",
+      "summary": "Három jelentős kontinentális labdarúgó-szövetség azonnali hatállyal leváltaná Gianni Infantino FIFA-elnököt. Levelet is írtak erről, és a kanadai Montaglianit jelölnék a posztra, ami komoly változásokat hozhat a nemzetközi foci vezetésében.",
       "importance": 4
     },
     {
-      "title": "Jeff Bezos érdeklődik a Liverpool FC tulajdonrészének megszerzése iránt",
-      "summary": "Egy konzorcium, amelyben Jeff Bezos is érintett, előrehaladott tárgyalásokat folytat a Liverpool FC-ben való tulajdonrész megszerzéséről. Ez a potenciális befektetés jelentős változásokat hozhat a klub jövőjébe.",
+      "title": "Jeff Bezos konzorciuma a Liverpool FC-be fektetne",
+      "summary": "Egy Jeff Bezos által is támogatott konzorcium előrehaladott tárgyalásokat folytat a Liverpool FC labdarúgóklubban való részesedés megvásárlásáról. Ez az ügylet jelentős pénzügyi befektetést hozhat a klub számára.",
       "importance": 4
     },
     {
-      "title": "A Baby Shark egykori kisfiúja K-pop énekessé vált",
-      "summary": "A népszerű Baby Shark videóból ismert kisfiú felnőve K-pop énekesként debütált. Ez a hír rávilágít a K-pop zene fizikai megterhelésére és az előadók atletikus képességeire, melyek a sporttal is rokoníthatóak.",
-      "importance": 1
+      "title": "Triatlonversenyen hunyt el Velkey Gábor korábbi országgyűlési képviselő",
+      "summary": "Velkey Gábor, korábbi országgyűlési képviselő és békéscsabai alpolgármester rosszul lett egy triatlonversenyen, majd elhunyt. A sportesemény tragikus kimenetelű halálesete mély megrendülést okozott.",
+      "importance": 3
+    },
+    {
+      "title": "Küszöbön az ultratávú, leszállás nélküli repülés kora",
+      "summary": "Két napkelte és napnyugta, valamint 17 időzóna átrepülése leszállás nélkül: az ultratávú repülés lehetősége már csak az anyagiakon múlik. Ez a technikai és emberi teljesítmény a modern aviatika egyik legnagyobb kihívása.",
+      "importance": 2
     }
   ]
 }

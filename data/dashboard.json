@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Baka András köztársaságielnök-jelölésének benyújtása",
-      "summary": "Bujdosó Andrea benyújtotta a szükséges képviselői ajánlásokat Baka András köztársaságielnök-jelöléséhez, ami a Tisza Párt választási ígéreteit hitelesítheti. Ezzel hivatalosan megkezdődik a parlamenti folyamat az új államfő megválasztására.",
+      "title": "Visszatér a parlament, Magyar Péter beszédet mond Baka András államfőjelölése kapcsán.",
+      "summary": "Az energiaválság miatti szünet után újra ülésezik a parlament, ahol Magyar Péter első alkalommal szólal fel az Országgyűlésben Baka András köztársasági elnökjelölését követően. A Tisza Párt benyújtotta a jelöltséghez szükséges ajánlásokat.",
       "importance": 5
     },
     {
-      "title": "Paksi turbina visszakapcsolása: Jelentős lépés az energiaellátásban",
-      "summary": "Magyar Péter bejelentette, hogy megkezdődött a paksi atomerőmű második blokkjának 3-as turbinájának visszakapcsolási folyamata, amely hétfő estétől újra termelni fog. Ez fontos fejlemény az ország energiaellátása szempontjából.",
+      "title": "Jelentősen csökkent a költségvetési hiány, a Tisza-kormány 1000 milliárd forintot faragott le.",
+      "summary": "Három hónap alatt mintegy 1000 milliárd forinttal sikerült csökkenteni a költségvetési hiányt, ami komoly gazdasági fordulatot jelez. Ez a lépés enyhítheti a korábbi brutális hiány okozta terheket.",
+      "importance": 5
+    },
+    {
+      "title": "Vádat emeltek a Budapesten meggyilkolt japán nő ügyében.",
+      "summary": "Az ügyészség vádat emelt az ellen az ír férfi ellen, aki a vád szerint Budapesten meggyilkolta japán feleségét. Az ügyészség 17 év fegyházzal büntetné a férfit.",
       "importance": 4
     },
     {
-      "title": "Költségvetési hiány csökkenése és forint erősödése",
-      "summary": "A Tisza-kormány három hónap alatt 1000 milliárd forinttal csökkentette a költségvetési hiányt, az állam pedig 1500 milliárd forintot spórolt a forint erősödésén. Ezek a gazdasági adatok pozitív trendeket mutatnak.",
+      "title": "A Szegedi Tudományegyetem ellenőrzi a BYD-gyár környezetszennyezését.",
+      "summary": "A Szegeden épülő BYD-gyár környezetszennyezésének ellenőrzése a Szegedi Tudományegyetem feladata lesz. Ez fontos lépés a nagyméretű beruházás környezeti hatásainak felügyeletében.",
       "importance": 4
-    },
-    {
-      "title": "Fogyasztóvédelem: minden harmadik játszótéren hiányosság",
-      "summary": "A fogyasztóvédelmi hatóság ellenőrzései során minden harmadik játszótéren hiányosságokat tárt fel, amelyek potenciálisan veszélyeztethetik a gyermekek biztonságát. A hatóság fellépést ígér a jogsértésekkel szemben.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Ukrán dróntámadás orosz olajfinomító ellen, több halálos áldozat",
-      "summary": "Ukrán dróntámadás érte Oroszország tatárföldi régióját, ahol egy olajfinomítót is eltaláltak. A támadásban legalább 12 ember meghalt, ami tovább súlyosbítja a háborús helyzetet.",
+      "title": "Rekord meleg július és óceáni hőmérsékletek.",
+      "summary": "A világon rekordot döntött a júliusi átlaghőmérséklet, ezzel a legmelegebb júliust produkálva. Az óceánok hőmérséklete is példátlanul magas szinteket ért el, ami globális éghajlati aggodalmakat vet fel.",
       "importance": 5
     },
     {
-      "title": "Húti támadások veszélyeztetik a Közel-Kelet olajszállítási útvonalait",
-      "summary": "A húti felkelők támadásai miatt veszélybe került a Közel-Kelet egy másik kulcsfontosságú olajszállítási útvonala. Ez globális gazdasági és geopolitikai feszültségeket okozhat.",
+      "title": "Ukrán dróntámadás orosz olajfinomító ellen, sok halálos áldozattal.",
+      "summary": "Ukrán drónok támadtak meg egy orosz olajfinomítót Tatárföldön, a hatóságok szerint legalább 13 ember meghalt. A támadás az orosz energiainfrastruktúra elleni ukrán műveletek részeként történt.",
       "importance": 5
     },
     {
-      "title": "Kínai tájfun: több mint egymillió embert evakuáltak",
-      "summary": "A Delfin tájfun elérte Kína keleti partvidékét, ami miatt több mint egymillió embert kellett evakuálni otthonából. A hatalmas vihar jelentős károkat és áradásokat okozhat.",
+      "title": "A húti támadások veszélyeztetik a közel-keleti olajszállítási útvonalakat.",
+      "summary": "A húti lázadók támadásai egyre inkább fenyegetik a Közel-Kelet kulcsfontosságú olajszállítási útvonalait, ami globális gazdasági és energetikai következményekkel járhat. Ez a helyzet növeli a feszültséget a régióban.",
       "importance": 4
     },
     {
-      "title": "50 ezer észak-koreai katona segíthet be Oroszországnak",
-      "summary": "Jelentések szerint Észak-Korea 50 ezer katonával támogathatja Oroszországot az ukrajnai háborúban. Ez a lépés jelentősen befolyásolhatja a konfliktus dinamikáját és a nemzetközi erőviszonyokat.",
+      "title": "Rémhír miatt támadtak mentősökre Erdélyben.",
+      "summary": "Egy TikTokon terjedő rémhír miatt, miszerint szervkereskedők lennének, mentősökre támadtak Erdélyben. Az ügyben hét embert vettek őrizetbe, kiemelve a dezinformáció veszélyeit.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic Claude AI-modelljének auto módja alapértelmezetté válik",
-      "summary": "Az Anthropic mesterséges intelligencia fejlesztő cég alapértelmezetté teszi Claude Code AI-modelljének auto módját. Ez a lépés jelentősen befolyásolhatja az AI interakciók jövőjét és a fejlesztők munkáját.",
-      "importance": 4
-    },
-    {
-      "title": "Növekvő aggodalmak az AI-modellek biztonsági kockázatai miatt",
-      "summary": "Az AI-modellek biztonsági tesztelése maga is biztonsági kockázatot jelent, és az OpenAI is lassította Astra modelljének fejlesztését biztonsági aggodalmak miatt. Ez rávilágít az AI felelős fejlesztésének kihívásaira.",
+      "title": "Az OpenAI lassítja az Astra modell fejlesztését biztonsági aggályok miatt.",
+      "summary": "Az OpenAI bejelentette, hogy biztonsági aggályok miatt lassította az Astra mesterséges intelligencia modell fejlesztését. A döntés rávilágít az AI biztonsági tesztelésének kritikus fontosságára és kockázataira.",
       "importance": 5
     },
     {
-      "title": "Az Amazon adatközpontja lehet az USA legnagyobb klímetszennyezője",
-      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb klímaszennyezőjévé válhat, ami súlyos környezeti aggodalmakat vet fel. Ez rávilágít a technológiai ipar hatalmas energiaigényére és ökológiai lábnyomára.",
+      "title": "Az Amazon új adatközpontja lehet az USA legnagyobb klímaszennyezője.",
+      "summary": "Egy tervezett Amazon adatközpont az Egyesült Államok legnagyobb klímaszennyezőjévé válhat, jelentős környezeti aggodalmakat vetve fel. Ez a hír rávilágít a technológiai infrastruktúra ökológiai lábnyomára.",
       "importance": 4
     },
     {
-      "title": "Böngészők szigorítása: változások a reklámblokkolók terén",
-      "summary": "Fontos változások jönnek a böngészők világában, mivel a Chrome után más böngészők is szigorítanak a reklámblokkolók használatán. Ez befolyásolhatja a felhasználói élményt és a webes hirdetési piacot.",
+      "title": "AI és munkaidő: a techvezetők ígéretei és a dolgozók valósága.",
+      "summary": "Míg a techvezetők azt állítják, az AI kevesebb munkát jelent, alkalmazottaik akár heti 90 órát is dolgoznak. Ez az ellentmondás rávilágít a mesterséges intelligencia munkaerőpiacra gyakorolt komplex hatásaira.",
+      "importance": 4
+    },
+    {
+      "title": "Az X (korábban Twitter) megváltoztatja a bevételmegosztási programját.",
+      "summary": "Az X felváltotta \"nem illeszkedő\" bevételmegosztási programját egy új, Eredeti Tartalom Díjakra keresztelt rendszerrel. Ez a változás jelentősen befolyásolhatja a platform tartalomgyártóit.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Közelebb a pneumococcus elleni univerzális vakcina",
-      "summary": "A kutatók egy lépéssel közelebb kerültek a pneumococcus betegség elleni univerzális vakcina kifejlesztéséhez. Ez áttörést jelenthet a globális közegészségügyben, különösen a gyermekek védelmében.",
+      "title": "Univerzális vakcina a pneumococcus betegségek ellen.",
+      "summary": "Egy univerzális vakcina fejlesztése, amely a pneumococcus betegségek széles skálája ellen nyújt védelmet, közelebb került a megvalósuláshoz. Ez áttörést jelenthet a globális egészségügyben.",
       "importance": 5
     },
     {
-      "title": "Hulladék műanyagból értékes alapanyag kémiai trükkel",
-      "summary": "Egy új kémiai eljárással a hulladék műanyagot magas értékű áruvá alakíthatják át, ami forradalmasíthatja az újrahasznosítást és csökkentheti a környezeti terhelést. Ez ígéretes megoldás a műanyagválságra.",
+      "title": "Hőhullámok és az elvesztett életek száma.",
+      "summary": "A tudósok módszert dolgoztak ki arra, hogyan becsüljék fel pontosabban a hőhullámok által okozott halálesetek számát, melyek már milliókat követeltek. Ez segít megérteni az éghajlatváltozás halálos hatásait.",
       "importance": 5
     },
     {
-      "title": "Soha nem látott meleg a tengerekben júliusban",
-      "summary": "A tengerek hőmérséklete soha nem volt még ilyen magas júliusban, ami súlyos aggodalmakat vet fel az éghajlatváltozás felgyorsulásával kapcsolatban. Ez hatással van a tengeri élővilágra és az időjárási rendszerekre.",
+      "title": "Mesterséges intelligencia az évtizedes tudományos hibák feltárásában.",
+      "summary": "Az AI-ügynökök képesek átvizsgálni a tudományos szakirodalmat, és évtizedes hibákat is felfedezni. Ez forradalmasíthatja a tudományos kutatás minőségbiztosítását és a publikált adatok pontosságát.",
       "importance": 4
     },
     {
-      "title": "Egyszerű vérnyomásmérés jelezheti a rák kockázatát",
-      "summary": "Egy egyszerű vérnyomásmérés is jelezheti a rák kockázatát, ami új lehetőségeket nyithat a betegség korai felismerésére és megelőzésére. Ez a felfedezés segíthet a célzott szűrővizsgálatokban.",
+      "title": "A DNS-javítás a hosszú élet titka?",
+      "summary": "A bálnák és a csupasz turkálópatkányok tanulmányozása izgalmas nyomokat szolgáltat a DNS-javítás és a hosszú élettartam közötti összefüggésről. Ez a kutatás mélyebb betekintést nyújthat az öregedési folyamatokba.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Hodgkinson csúcstámadása és a világbajnoki felkészülés",
-      "summary": "Keely Hodgkinson atléta csapata a világbajnoki rekord megdöntésére készül, ami egy ígéretes sportoló kiemelkedő teljesítményét és felkészülését mutatja be. A cél egy aranyérem megszerzése.",
+      "title": "Takács Boglárka történelmi futása az atlétikai Eb-n.",
+      "summary": "Takács Boglárka 11 másodpercen belül futotta le a 100 métert az atlétikai Európa-bajnokságon, ezzel kiemelkedő magyar eredményt ért el. Ez a teljesítmény új fejezetet nyit a magyar atlétika történetében.",
+      "importance": 5
+    },
+    {
+      "title": "A FIFA és Infantino elnök elleni \"megtévesztés\" vádja.",
+      "summary": "A futballkonföderációk nyílt levélben vádolták meg a FIFA-t és elnökét, Gianni Infantinót \"megtévesztéssel\". Ez a vád komoly etikai és átláthatósági aggályokat vet fel a szervezet működésével kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "FIFA-botrány: Infantino elnök bizalomvesztése",
-      "summary": "A konföderációk elnökei szerint Gianni Infantino FIFA elnök \"megtévesztéssel\" megsértette a bizalmat. Ez a hír a FIFA vezetésének integritását és a nemzetközi labdarúgás irányítását kérdőjelezi meg.",
+      "title": "Hodgkinson aranyútja és a világrekord hajszolása.",
+      "summary": "Bemutatjuk a csapatot, amely Hodgkinson aranyérmes pályafutása mögött áll, és a világrekord megdöntésére irányuló törekvéseit. Ez a cikk rávilágít az élsportolók felkészülésének mélységeire.",
       "importance": 4
+    },
+    {
+      "title": "Orbán Viktor jövője: az ENSZ vagy a FIFA?",
+      "summary": "Panyi Szabolcs szerint Orbán Viktor fontolgatja, hogy elhagyja Magyarországot, és új munkát keres az ENSZ-nél vagy a FIFA-nál. Ez a spekuláció politikai és sportvezetői körökben is jelentős visszhangot válthat ki.",
+      "importance": 3
     }
   ]
 }

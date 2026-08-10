@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Újra megjelent az afrikai sertéspestis egy magyar állományban",
-      "summary": "Az afrikai sertéspestis ismét felbukkant egy magyar gazdaságban, ami komoly gazdasági és állategészségügyi aggályokat vet fel. A hatóságok azonnali intézkedéseket tettek a járvány terjedésének megakadályozására.",
-      "importance": 4
+      "title": "Súlyos szabálytalanságok és feljelentés a Gondosóra program ügyében",
+      "summary": "Tanács Zoltán minisztériuma súlyos szabálytalanságokat tárt fel a Gondosóra program működésében, feljelentést téve hűtlen kezelés gyanújával. Az ügyben kirúgták a Kormányzati Szolgáltató Központ ügyvezetőjét.",
+      "importance": 5
     },
     {
-      "title": "Hűtlen kezelés miatt feljelentést tettek a Gondosóra program ügyében, kirúgták a Kormányzati Szolgáltató Központ ügyvezetőjét",
-      "summary": "Feljelentés érkezett a Gondosóra programot érintő hűtlen kezelés gyanúja miatt, melynek következtében a Kormányzati Szolgáltató Központ ügyvezetőjét elbocsátották. Az ügy korrupciós vádakat vet fel egy fontos állami kezdeményezéssel kapcsolatban.",
-      "importance": 4
+      "title": "Nyomozás indult az NMHH 40 milliárdos adattörlési kódjai miatt",
+      "summary": "Az NNI hűtlen kezelés gyanúja miatt nyomozást indított az NMHH-nál, miután 40 milliárd forintot fizettek ki adattörlési kódokért. A rendőrség vizsgálja a kifizetések jogszerűségét és célját.",
+      "importance": 5
     },
     {
       "title": "Matolcsy Ádám vezérigazgató lett az MNB-botrány egyik kulcscégénél",
-      "summary": "Matolcsy Ádámot, az MNB korábbi elnökének fiát nevezték ki az MNB-botrányban érintett egyik cég vezérigazgatójává. Ez a lépés további kérdéseket vet fel az ügylet átláthatóságával és a befolyásos családi kapcsolatokkal kapcsolatban.",
+      "summary": "A G7 információi szerint Matolcsy Ádám, Matolcsy György MNB-elnök fia, vezérigazgatói pozíciót kapott egy, az MNB-botrányban érintett kulcscégnél. Ez újabb kérdéseket vet fel a jegybank körüli gazdasági ügyletekkel kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Hangos vitatkozás és rendkívüli házbizottsági ülés lett abból, hogy egy képviselő meg akart emlékezni a roma holokausztról",
-      "summary": "Élénk vita és rendkívüli házbizottsági ülés alakult ki a parlamentben, miután egy képviselő a roma holokausztra emlékezett, amit a Mi Hazánk képviselői ülve hallgattak végig. Az esemény éles politikai és társadalmi feszültségeket tárt fel a holokauszt emlékezetével kapcsolatban.",
+      "title": "Hangos vita a parlamentben a roma holokauszt megemlékezéséről",
+      "summary": "A parlamentben hangos vitába torkollott egy képviselő kísérlete a roma holokauszt megemlékezésére, rendkívüli házbizottsági üléshez vezetve. A történtek rávilágítanak a téma körüli feszültségekre.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Legalább 13 halott egy ukrán dróntámadásban mélyen Oroszországban",
-      "summary": "Az ukrán erők mélyen orosz területen hajtottak végre dróntámadást, melynek következtében legalább 13 ember életét vesztette. Ez a súlyos incidens jelzi a konfliktus eszkalálódását és a háború kiterjedését.",
+      "title": "Halálos földrengés sújtotta Kolumbiát",
+      "summary": "Súlyos, halálos áldozatokat követelő földrengés rázta meg Kolumbiát, számos épület összeomlott. A katasztrófa következtében legalább 26 ember vesztette életét.",
       "importance": 5
     },
     {
-      "title": "Netanyahu elutasította Trump 15 pontos gázai tervét",
-      "summary": "Benjamin Netanyahu izraeli miniszterelnök elutasította Donald Trump korábbi amerikai elnök 15 pontos gázai tervét, ami tovább bonyolítja a közel-keleti béketárgyalások kilátásait. A lépés diplomáciai feszültséget okozhat és befolyásolhatja a régió stabilitását.",
+      "title": "Rekordszámú migráns kelt át a La Manche csatornán egyetlen hajóval",
+      "summary": "Rekordmennyiségű, 230 migráns zsúfolódott össze egyetlen kis hajón, és sikeresen átkeltek a La Manche csatornán. Az eset rávilágít a migrációs válság súlyosságára a térségben.",
       "importance": 5
     },
     {
-      "title": "Súlyos földrengés sújtotta Kolumbiát, számos épület összedőlt",
-      "summary": "Komoly földrengés rázta meg Kolumbiát, amely több épület összedőlését és emberi életek elvesztését okozta. A természeti katasztrófa jelentős károkat hagyott maga után, és nemzetközi segítséget igényelhet.",
-      "importance": 4
+      "title": "Ukrán dróntámadás Oroszország mélyén, halottak is vannak",
+      "summary": "Ukrán dróntámadás ért Oroszország belsejében fekvő területeket, melynek során legalább 13 ember életét vesztette. A támadás az orosz-ukrán háború eszkalációját jelzi.",
+      "importance": 5
     },
     {
-      "title": "Rekordot jelentő 230 ember kelt át a Csatornán egyetlen kis hajóval",
-      "summary": "Rekordszámú, 230 migráns jutott át a La Manche csatornán egyetlen kis hajóval, rávilágítva az illegális migráció fokozódó kockázataira és mértékére. Az eset újabb kihívás elé állítja az Egyesült Királyságot és Franciaországot a határellenőrzés terén.",
+      "title": "Netanjahu elutasította Trump gázai béketervét",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök elutasította Donald Trump korábbi amerikai elnök 15 pontos gázai béketervét. Ez a lépés tovább bonyolítja a közel-keleti békefolyamatot.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Zuckerberg mindenki számára elérhetővé tenné a „szuperintelligens” mesterséges intelligenciát",
-      "summary": "Mark Zuckerberg, a Meta vezérigazgatója kijelentette, hogy a \"szuperintelligens\" mesterséges intelligenciát mindenki számára hozzáférhetővé tenné. Ez a bejelentés komoly vitát indíthat az AI etikai és biztonsági vonatkozásairól.",
+      "title": "Zuckerberg „szuperintelligens” mesterséges intelligenciát tenne elérhetővé",
+      "summary": "Mark Zuckerberg, a Meta vezérigazgatója szerint a vállalat azon dolgozik, hogy a „szuperintelligens” mesterséges intelligencia mindenki számára elérhető legyen. Ez a Meta új Glimmer AI modelljén keresztül valósulhat meg.",
       "importance": 5
     },
     {
-      "title": "Adatszivárgás a Ceva Logistics-nél: bankokra, kiskereskedőkre és játékosokra is hatással van",
-      "summary": "Egy kiterjedt adatszivárgás történt a Ceva Logistics hajózási óriáscégnél, amely bankokra, kiskereskedőkre és Steam-játékosokra is kiterjedő hatással van. Az eset rávilágít a digitális biztonság sebezhetőségére és a vállalatok közötti adatmegosztás kockázataira.",
+      "title": "Óriási adatlopás érinti a Ceva Logistics-t, bankokat és gamereket",
+      "summary": "A Ceva Logistics szállítmányozási óriáscéget érintő adatlopás bankokat, kiskereskedőket és Steam-felhasználókat is érint. Emellett a Klaviyo felhasználói jelszavai is veszélybe kerülhettek.",
+      "importance": 5
+    },
+    {
+      "title": "Az Amazon új adatközpontja lehet az USA legnagyobb klímaszennyezője",
+      "summary": "Az Amazon tervezett gigantikus adatközpontja az Egyesült Államok legnagyobb szén-dioxid-kibocsátójává válhat, éves szinten 33 millió tonna szennyezéssel. Ez súlyos aggodalmakat vet fel a technológiai szektor környezeti lábnyoma miatt.",
       "importance": 4
     },
     {
-      "title": "Az AI biztonsági tesztjei maguk is biztonsági kockázattá válnak",
-      "summary": "Aggodalomra ad okot, hogy a mesterséges intelligencia biztonsági tesztjei önmagukban is biztonsági kockázatot jelenthetnek. Ez a felismerés megkérdőjelezi a jelenlegi tesztelési módszerek hatékonyságát és az AI fejlesztésének irányát.",
-      "importance": 4
-    },
-    {
-      "title": "Az Amazon tervezett adatközpontja lehet az Egyesült Államok legnagyobb klímaszennyezője",
-      "summary": "Az Amazon egy tervezett adatközpontja potenciálisan az Egyesült Államok legnagyobb klímaszennyezőjévé válhat, ami komoly környezetvédelmi aggályokat vet fel. A technológiai fejlődés és a környezeti fenntarthatóság közötti feszültséget mutatja.",
+      "title": "Aggodalmak az AI biztonsági tesztjei és az automatizált modellek körül",
+      "summary": "Egyre növekszik az aggodalom, hogy az AI biztonsági tesztjei maguk is biztonsági kockázattá válnak, miközben az Anthropic a Claude Code auto módját alapértelmezetté teszi. A mesterséges intelligencia autonóm működése új kihívásokat támaszt.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Közelebb került a pneumococcus betegség elleni univerzális vakcina",
-      "summary": "A kutatók áttörést értek el a pneumococcus betegség elleni univerzális vakcina fejlesztésében, amely potenciálisan életeket menthet meg világszerte. Ez a felfedezés jelentős előrelépést jelenthet a közegészségügyben és a fertőző betegségek elleni küzdelemben.",
+      "title": "Közelebb került a pneumococcus elleni univerzális vakcina",
+      "summary": "A pneumococcus okozta betegségek elleni univerzális vakcina fejlesztése ígéretes fázisba lépett, közelebb hozva egy széles körben alkalmazható megoldást. Ez jelentős áttörést hozhat a közegészségügyben.",
       "importance": 5
     },
     {
-      "title": "Új fogyókúrás tabletta engedélyezve az Egyesült Királyságban",
-      "summary": "Új fogyókúrás tablettát engedélyeztek az Egyesült Királyságban, ami reményt adhat azoknak, akik súlyproblémákkal küzdenek. A gyógyszer bevezetése jelentős hatással lehet az elhízás kezelésére és a közegészségügyre.",
+      "title": "A DNS-javítás a hosszú élet titka? Bálnák és csupasz turkálók adnak támpontot",
+      "summary": "A tudósok azt vizsgálják, hogy a DNS-javítás kulcsfontosságú lehet-e a hosszú élethez, a bálnák és a csupasz turkálók különleges mechanizmusai nyújtanak új betekintést. Ez a kutatás izgalmas lehetőségeket rejt az öregedés megértésében.",
+      "importance": 5
+    },
+    {
+      "title": "Mesterséges intelligencia a trópusi ciklonok előrejelzésében",
+      "summary": "Új kutatások szerint a mesterséges intelligencia forradalmasíthatja a trópusi ciklonok előrejelzését, pontosabb és gyorsabb előrejelzéseket téve lehetővé. Ez segíthet a katasztrófavédelem hatékonyságának növelésében.",
       "importance": 4
     },
     {
-      "title": "Működési trópusi ciklon előrejelzés mesterséges intelligencia segítségével",
-      "summary": "A mesterséges intelligencia segítségével egyre pontosabbá válik a trópusi ciklonok előrejelzése, ami segíthet a katasztrófák megelőzésében és az életek mentésében. Az AI alkalmazása forradalmasíthatja az időjárás-előrejelzést és a klímaváltozással kapcsolatos kockázatkezelést.",
-      "importance": 4
-    },
-    {
-      "title": "A DNS-javítás a hosszú élet titka? Bálnák és vakondpatkányok adnak utalásokat",
-      "summary": "A DNS-javítás mechanizmusa lehet a hosszú élet egyik kulcsa, amire bálnák és csupasz vakondpatkányok tanulmányozása utal. Ez az alapkutatás új perspektívákat nyit a sejtöregedés és az élettartam megértésében.",
+      "title": "A környezetvédelmi egyezményeknek a mentális egészséggel is foglalkozniuk kell",
+      "summary": "A Nature szerint a környezetvédelmi egyezményeknek túl kell lépniük a fizikai környezet védelmén, és foglalkozniuk kell a klímaváltozás és környezeti problémák okozta mentális egészségügyi hatásokkal is. Az ökológiai válság egyre inkább befolyásolja az emberi pszichét.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Jeff Bezos konzorciuma a Liverpool FC tulajdonrészének megszerzéséről tárgyal",
-      "summary": "Jeff Bezos vezette konzorcium előrehaladott tárgyalásokat folytat a Liverpool FC labdarúgóklub tulajdonrészének megvásárlásáról. Ez az üzlet jelentős változásokat hozhat a klub vezetésében és pénzügyeiben, valamint hatással lehet a globális futballpiacra.",
+      "title": "Három fociszövetség Infantino FIFA elnök leváltását sürgeti",
+      "summary": "Három nagy kontinentális labdarúgó-szövetség levelet írt, amelyben Gianni Infantino FIFA elnök azonnali leváltását szorgalmazzák. A kanadai Victor Montagliani lehet a jelöltjük a posztra.",
       "importance": 5
     },
     {
-      "title": "Békéscsaba korábbi alpolgármestere halt meg az eXtremeMan versenyen",
-      "summary": "Tragikus módon életét vesztette Békéscsaba korábbi alpolgármestere az eXtremeMan versenyen. Az eset rávilágít az extrém sportok veszélyeire és felveti a biztonsági előírások felülvizsgálatának szükségességét.",
+      "title": "Jeff Bezos konzorciuma a Liverpool FC megvásárlásáról tárgyal",
+      "summary": "Egy Jeff Bezos érdekeltségébe tartozó konzorcium előrehaladott tárgyalásokat folytat a Liverpool FC labdarúgóklub megvásárlásáról. Ez hatalmas üzleti ügylet lenne a sportvilágban.",
+      "importance": 5
+    },
+    {
+      "title": "Elhunyt Velkey Gábor, volt országgyűlési képviselő egy sportversenyen",
+      "summary": "Velkey Gábor, korábbi országgyűlési képviselő és békéscsabai alpolgármester az eXtremeMan versenyen vesztette életét. A tragikus eset rávilágít a sporteseményekkel járó kockázatokra.",
       "importance": 4
     },
     {
-      "title": "Alsó hangon 1,5 milliárd folyhatott be Sebestyén Balázs DJ-szettjének jegyeiből",
-      "summary": "Sebestyén Balázs DJ-fellépésének jegyeiből alsó hangon 1,5 milliárd forint bevétel származhatott, ami hatalmas érdeklődésre és gazdasági sikerre utal. Bár nem sportesemény, a nagyszabású rendezvények gazdasági és szervezési aspektusai gyakran hasonlóak a sporteseményekéhez.",
-      "importance": 2
-    },
-    {
-      "title": "Külön bringasáv épül a Rudas mellett",
-      "summary": "Külön kerékpársáv épül a Rudas Gyógyfürdő mellett, ami javítja a városi kerékpáros infrastruktúrát és a sportolási lehetőségeket. Ez a fejlesztés hozzájárul az aktív életmód népszerűsítéséhez és a városi mobilitás megkönnyítéséhez.",
-      "importance": 2
+      "title": "Ultrahosszú repülési útvonal indulása előtt: 17 időzóna leszállás nélkül",
+      "summary": "Már csak az anyagiakon múlik az ultratávú repülés elindulása, amely két-két napkelte és napnyugta, valamint 17 időzóna átrepülését jelenti leszállás nélkül. Ez a mérföldkő az emberi kitartás és a technológiai határok feszegetését jelenti.",
+      "importance": 3
     }
   ]
 }

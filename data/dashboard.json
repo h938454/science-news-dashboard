@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Új köztársasági elnöke van Magyarországnak",
-      "summary": "A Magyar Közlönyben megjelent, hogy augusztus 19-től Baka András tölti be a köztársasági elnöki posztot. Ez egy jelentős politikai változás, melynek következtében az ország új vezetőt kap.",
+      "title": "Baka András köztársasági elnökké választása és a reakciók",
+      "summary": "A közlönyben megjelent, hogy augusztus 19-től Baka András lesz Magyarország új köztársasági elnöke. Az eseményre Volodimir Zelenszkij és más nemzetközi vezetők is gratuláltak, kiemelve azt, mint fontos lépést Magyarország megújulásában.",
       "importance": 5
     },
     {
-      "title": "Vizsgálat indul politikusok állítólagos érdemtelen doktori fokozatai ügyében",
-      "summary": "A Pécsi Tudományegyetem vizsgálatot indít, miután egy oktató szerint több fideszes és KDNP-s politikus érdemtelenül szerzett doktori fokozatot. Az ügy komoly etikai és oktatási visszhangot váltott ki.",
+      "title": "Korrupciós vádak a PTE-n doktori fokozatot szerzett politikusok ellen",
+      "summary": "A Pécsi Tudományegyetem egyik oktatója szerint több fideszes és KDNP-s politikus érdemtelenül szerzett doktori fokozatot, mely ügyben az egyetem vizsgálatot indított. Az eset rávilágít az oktatási intézmények integritásának kérdésére.",
       "importance": 4
     },
     {
-      "title": "Mészáros Lőrincék kizárása az állami átláthatósági törekvések kapcsán",
-      "summary": "Az állami tenderekből való kizárásuk jelzi, hogy a kormány komolyabban veszi az átláthatóságot, ami súlyos következményekkel járhat más érintettek számára is. Ez változást hozhat az üzleti és politikai körökben.",
+      "title": "Mészáros Lőrinc érdekeltségű cégek kizárása közbeszerzésekből",
+      "summary": "Az állam állítólagosan komolyan veszi az átláthatóságot, ami Mészáros Lőrinc érdekeltségű cégek közbeszerzésekből való kizárásához vezetett. Ez súlyos következményekkel járhat több érintett számára és befolyásolhatja a gazdasági erőviszonyokat.",
       "importance": 4
     },
     {
-      "title": "Zelenszkij gratulált Baka Andrásnak, reménykedve Magyarország megújulásában",
-      "summary": "Volodimir Zelenszkij ukrán elnök gratulált Baka Andrásnak megválasztásához, üdvözölve azt mint \"újabb fontos lépést Magyarország megújulásában\". Ez a gratuláció diplomáciai jelentőséggel bír a két ország között.",
+      "title": "Veszélyes hulladék csempészése Lengyelországba magyar állampolgárok által",
+      "summary": "Két magyar állampolgárt vettek őrizetbe Lengyelországban, miután kilenc tonna veszélyes hulladékot csempésztek az országba. A lengyel bíróság előzetes letartóztatásba helyezte őket, súlyos környezeti és jogi következményekkel.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij szerint Putyin észak-koreai rakétákkal támadja Ukrajnát",
-      "summary": "Volodimir Zelenszkij ukrán elnök azt állítja, hogy Oroszország észak-koreai rakétákat használ Ukrajna elleni támadásokhoz. Ez komoly geopolitikai feszültséget jelent, és új fejezetet nyithat a háborúban.",
+      "title": "Ukrajna: Oroszország észak-koreai rakétákkal támad",
+      "summary": "Volodimir Zelenszkij ukrán elnök szerint Oroszország már észak-koreai rakétákat vet be az Ukrajna elleni támadásaiban. Ez a lépés jelentős eszkalációt jelenthet a háborúban, és új szintre emeli a nemzetközi aggodalmakat.",
       "importance": 5
     },
     {
-      "title": "Oroszország hazaengedett egy négy éve fogva tartott amerikai veteránt",
-      "summary": "Oroszország humanitárius okokból engedett szabadon egy amerikai veteránt, akit több mint négy éve tartottak fogva. A lépés enyhítheti a két ország közötti feszültséget, de az okokról keveset tudni.",
+      "title": "Halálos földrengés Kolumbiában",
+      "summary": "Kolumbiában pusztító földrengés rázta meg az országot, melynek következtében mintegy 180 ember vesztette életét. A mentőalakulatok azonnal megkezdték a túlélők utáni kutatást a romok között.",
+      "importance": 5
+    },
+    {
+      "title": "Oroszország elengedett egy négy éve fogva tartott amerikai veteránt",
+      "summary": "Oroszország humanitárius okokra hivatkozva szabadon engedett egy több mint négy éve fogva tartott amerikai veteránt. Az ügy javíthatja a két ország közötti feszült kapcsolatokat.",
       "importance": 4
     },
     {
-      "title": "Kolumbiai földrengés: 180 halott, a mentők túlélőkért küzdenek",
-      "summary": "Kolumbiát pusztító földrengés rázta meg, melynek következtében eddig 180 ember vesztette életét. A mentőcsapatok kétségbeesetten keresik a túlélőket a romok alatt.",
+      "title": "Az Etna kitörése megbénította Szicília légi közlekedését",
+      "summary": "Az Etna újabb kitörése hamut szórt szét, ami miatt Szicília légi közlekedése akadozott, turisták ezrei rekedtek a szigeten. A vulkáni tevékenység súlyos fennakadásokat okozott a régióban.",
       "importance": 4
-    },
-    {
-      "title": "Az Etna kitörése miatt turisták ezrei rekedtek Szicílián",
-      "summary": "Az Etna vulkán kitörése hamut szórt szét, ami súlyosan megzavarta Szicília légi közlekedését. Ennek következtében turisták ezrei rekedtek a szigeten, várva a helyzet normalizálódását.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Súlyos biztonsági rés a SIM-kártyákban, minden érintett eszköz feltörhető",
-      "summary": "Felfedeztek egy kritikus biztonsági rést a SIM-kártyákban, amely lehetővé teszi a bennük lévő eszközök feltörését. Ez potenciálisan milliónyi felhasználót érinthet világszerte.",
+      "title": "A Google Gemini alkalmazás felhasználói száma elérte az 1 milliárdot",
+      "summary": "A Google Gemini mesterséges intelligencia alkalmazása hatalmas növekedést mutatva átlépte az 1 milliárd felhasználó határát. Ez a mérföldkő aláhúzza az AI-alapú eszközök növekvő népszerűségét és elterjedését.",
       "importance": 5
     },
     {
-      "title": "Elindult a ChatGPT asztali alkalmazása Linuxra",
-      "summary": "Az OpenAI kiadta a ChatGPT asztali alkalmazását Linux operációs rendszerre, ami újabb platformon teszi elérhetővé a népszerű mesterséges intelligencia chatrobotot. Ez növeli a hozzáférhetőséget és a felhasználói bázist.",
+      "title": "Az Anthropic AI modellje áttörést ért el egy matematikai problémában",
+      "summary": "Az Anthropic egy még kiadatlan mesterséges intelligencia modellje jelentős előrelépést tett az egyik legnagyobb megoldatlan matematikai probléma terén. Ez az eredmény rávilágít az AI tudományos kutatásban rejlő potenciáljára.",
+      "importance": 5
+    },
+    {
+      "title": "Kiberbűnözők feltörik online fiókokat intim képek lopására",
+      "summary": "Az FBI figyelmeztetése szerint kiberbűnözők feltörik az áldozatok online fiókjait, hogy intim képeket lopjanak. Ez a fenyegetés súlyos magánéleti sérelmeket okoz, és növeli az online biztonság fontosságát.",
       "importance": 4
     },
     {
-      "title": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót",
-      "summary": "A Google mesterséges intelligencia alapú Gemini alkalmazása rövid időn belül elérte az 1 milliárd felhasználót. Ez a gyors növekedés kiemeli az AI-eszközök iránti óriási érdeklődést.",
+      "title": "Az OpenAI elindította ChatGPT asztali alkalmazását Linuxra",
+      "summary": "Az OpenAI kiadta a ChatGPT asztali alkalmazását Linux operációs rendszerre, bővítve ezzel az AI-asszisztens elérhetőségét. A lépés lehetővé teszi a Linux felhasználók számára, hogy kényelmesebben használhassák a ChatGPT funkcióit.",
       "importance": 4
-    },
-    {
-      "title": "Az Anthropic egy kiadatlan AI modellje áttörést ért el egy matematikai problémában",
-      "summary": "Az Anthropic egyik még be nem mutatott mesterséges intelligencia modellje előrelépést tett a matematika egyik legnagyobb megoldatlan problémájának megfejtésében. Ez az AI tudományos kutatásban betöltött egyre növekvő szerepét mutatja.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Egy „szuper” El Niño átalakíthatja az Amazóniai esőerdőt",
-      "summary": "A tudósok szerint egy közelgő „szuper” El Niño esemény drasztikus változásokat hozhat az Amazóniai esőerdő ökoszisztémájában. Felmerül a kérdés, hogy a világ legnagyobb esőerdeje végleg károsodhat-e.",
+      "title": "A 'szuper' El Niño potenciális hatása az Amazonasra",
+      "summary": "Egy 'szuper' El Niño jelenség drámaian megváltoztathatja az Amazonas esőerdőjét, potenciálisan súlyos és visszafordíthatatlan károkat okozva a világ legnagyobb erdőjében. A tudósok aggódnak a régió ökológiai jövőjéért.",
       "importance": 5
     },
     {
-      "title": "HIV vakcinák fejlesztésében áttörés: ritka immunsejtek a célkeresztben",
-      "summary": "Az új kutatások szerint a HIV vakcinák képesek a ritka immunsejteket arra ösztönözni, hogy széles spektrumú neutralizáló antitesteket termeljenek. Ez jelentős előrelépést jelenthet a HIV elleni küzdelemben.",
+      "title": "Új remény a HIV vakcinák fejlesztésében",
+      "summary": "Kutatók felfedezték, hogy a HIV vakcinák ritka immunsejteket irányítanak a széleskörűen semlegesítő antitestek létrehozására. Ez az áttörés új utakat nyithat a HIV elleni hatékony vakcina kifejlesztésében.",
+      "importance": 5
+    },
+    {
+      "title": "A Napfogyatkozás egyedülálló lehetőséget kínál a Nap titkainak feltárására",
+      "summary": "A közelgő napfogyatkozás ritka alkalmat biztosít a tudósoknak, hogy tanulmányozzák a Nap mágneses mezejének rejtélyeit. Az esemény segítségével jobban megérthetjük a csillagunk működését és annak földi hatásait.",
       "importance": 4
     },
     {
-      "title": "A napfogyatkozás ritka alkalmat kínál a Nap mágneses mezejének rejtélyeire",
-      "summary": "A közelgő napfogyatkozás kivételes lehetőséget biztosít a tudósoknak, hogy alaposabban tanulmányozzák és megfejtsék a Nap mágneses mezejével kapcsolatos rejtélyeket. Ez kulcsfontosságú lehet a csillagászati kutatásokban.",
+      "title": "A folyami hajózás meglepően nagy éghajlati lábnyoma",
+      "summary": "Egy új kutatás szerint a folyami hajózás sokkal nagyobb klímahatással jár, mint azt korábban gondolták. Ez a felfedezés arra ösztönözheti a szakembereket, hogy újragondolják a vízi szállítás környezeti fenntarthatóságát.",
       "importance": 4
-    },
-    {
-      "title": "A folyami hajózás meglepően nagy éghajlati hatással bír",
-      "summary": "Egy új tanulmány szerint a folyami hajózás, bár gyakran alábecsülik, jelentős mértékben hozzájárul az éghajlatváltozáshoz. Eredményei felhívják a figyelmet a közlekedési szektor rejtett környezeti terheire.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Halász Bence országos csúccsal Európa-bajnok kalapácsvetésben",
-      "summary": "Halász Bence fantasztikus teljesítménnyel, élete legjobbjával és új országos csúccsal nyert Európa-bajnoki aranyérmet kalapácsvetésben. Ez kiemelkedő magyar sportsiker.",
+      "title": "Halász Bence Európa-bajnok és országos csúcstartó kalapácsvetésben",
+      "summary": "Halász Bence élete legjobb teljesítményével, országos csúcsot dobva lett Európa-bajnok kalapácsvetésben. Ezzel a kiváló eredménnyel Magyarország egyik legsikeresebb sportolójává vált.",
       "importance": 5
     },
     {
-      "title": "Kós Hubert majdnem világcsúcsot úszott az Eb-n, utána rosszul lett",
-      "summary": "Kós Hubert kiválóan szerepelt az Európa-bajnokságon, majdnem világcsúcsot úszott, ám a futam után rosszul lett. Teljesítménye rendkívüli volt.",
+      "title": "Kós Hubert majdnem világcsúcsot úszott az Európa-bajnokságon",
+      "summary": "Kós Hubert bravúros teljesítménnyel, alig maradva el a világcsúcstól, úszott az Európa-bajnokságon. A verseny után rosszul lett, de teljesítménye így is kiemelkedő.",
       "importance": 4
     },
     {
-      "title": "Két magyar futó is Eb-döntőbe jutott 400 méteren – történelmi pillanat",
-      "summary": "Történelmi eseményként két magyar futó is kvalifikálta magát a 400 méteres Európa-bajnoki döntőbe. Ez példátlan siker a magyar atlétika történetében.",
+      "title": "Történelmi siker: két magyar futó az Eb 400 méteres döntőjében",
+      "summary": "Történelmi eseményként két magyar futó is bejutott a 400 méteres síkfutás Európa-bajnoki döntőjébe. Ilyenre korábban még nem volt példa, ami a magyar atlétika számára jelentős eredmény.",
       "importance": 4
     },
     {
-      "title": "Célfotóval dőlt el a női 100 méteres gátfutás az Eb-n",
-      "summary": "Az Európa-bajnokság női 100 méteres gátfutó döntőjét csak célfotóval lehetett eldönteni, olyan szoros volt a verseny. Az izgalmas futam a sportág csúcsát mutatta be.",
+      "title": "Célfotós döntő a női 100 gáton az atlétikai Eb-n",
+      "summary": "Rendkívül szoros küzdelemben, csak célfotóval lehetett eldönteni a női 100 méteres gátfutás Európa-bajnoki címének sorsát. Az izgalmas verseny a nézők számára felejthetetlen pillanatokat szerzett.",
       "importance": 3
     }
   ]

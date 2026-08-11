@@ -1,83 +1,128 @@
 {
   "Telex": [
     {
-      "title": "Elnököt választ a parlament – élőben az Országházból és a stúdióból",
+      "title": "Olyan adatot talált a Mi Hazánk, amiben köröket vernek a Tiszára és a Fideszre, csak az egésznek semmi értelme",
+      "link": "https://telex.hu/zacc/2026/08/11/mi-hazank-javaslatok-grafikon-adatok",
+      "summary": "Mi az a mutató, amiben a kormánypárt alig látszik ki a földből, de Toroczkaiék szárnyalnak?"
+    },
+    {
+      "title": "Nem a Dunát kell Pakshoz igazítani, hanem az atomerőművet a folyó korlátaihoz",
+      "link": "https://telex.hu/g7/kozelet/2026/08/11/duna-atomeromu-vizlepcso-hutotorony-paks-vita",
+      "summary": "Egy vízlépcső a folyó működését változtatná meg az erőmű igényeihez szabva, míg a sok országban alkalmazott hűtőtornyok az erőművet igazítanák hozzá a folyó természetes korlátaihoz."
+    },
+    {
+      "title": "Hungarian Parliament elects András Baka, former head of supreme court as president",
+      "link": "https://telex.hu/english/2026/08/11/andras-baka-elected-as-hungary-s-new-president",
+      "summary": "In his first speech, András Baka said that he believes the president is to be the guardian who ensures that the country can never be taken hostage by its government again, like it was during the past sixteen years."
+    },
+    {
+      "title": "Kaminski Fanny a kormány feljelentéséről: Büszkeség a meghurcoltak közt az elsők között lenni",
+      "link": "https://telex.hu/belfold/2026/08/11/kaminski-fanny-reakcio-feljelentes-4-milliard-forint-orban-viktor-kozossegi-media",
+      "summary": "„Köszi, Bálint! 🫶” – üzente a kancelláriaminiszternek Orbán Viktor korábbi munkatársa."
+    },
+    {
+      "title": "A PTE oktatója szerint fideszes és KDNP-s politikusok jutottak érdemtelenül doktori fokozathoz az egyetemen",
+      "link": "https://telex.hu/belfold/2026/08/11/pte-pecsi-tudomanyegyetem-filozofia-doktori-iskola-fdi-vizsgalat-barcsi-tamas-vad-phd-gyar-fideszes-es-kdnp-s-politikusok",
+      "summary": "A Pécsi Tudományegyetem vizsgálja a Filozófia Doktori Iskola akkreditációját és működését."
+    },
+    {
+      "title": "Az Óbudai Gázgyár rákkeltő anyagokkal szennyezett partszakaszával szemben alakították ki a Sziget strandját, de a fesztiválozók nem mehetnek bele a vízbe",
+      "link": "https://telex.hu/after/2026/08/11/obudai-gazgyar-rakkelto-anyagok-partszakasz-sziget-fesztival-strand",
+      "summary": "A Sziget korábban azt közölte, hogy egy távolabbi területen lenne a fesztivál strandja, ahol térdig akarták beengedni az embereket a vízbe."
+    },
+    {
+      "title": "Baka András az új köztársasági elnök",
+      "link": "https://telex.hu/belfold/2026/08/11/orszaggyules-valasztas-baka-andras-koztarsasagi-elnok-szavazas",
+      "summary": "Hosszas huzavona és konfliktusok előzték meg ezt a pillanatot: Sulyok lemondatása, alkotmánymódosítás, Polgár Judit felbukkanása és jogi kritikák."
+    },
+    {
+      "title": "Nagy füsttel égett a növényzet és egy romos épület Tapolcánál",
+      "link": "https://telex.hu/belfold/2026/08/11/tapolca-tuz-katasztrofavedelem",
+      "summary": "Több városból riasztották a tűzoltókat."
+    },
+    {
+      "title": "Brad Pitt hét év józanság után megint iszik",
+      "link": "https://telex.hu/after/2026/08/11/brad-pitt-het-ev-jozansag-utan-megint-iszik",
+      "summary": "A 62 éves színész egy interjúban arról beszélt, hogy néhány pohár belefér, de sokkal több nem."
+    },
+    {
+      "title": "Elárulta a Magyar Államkincstár, hozzáfértek-e állampolgári adatokhoz a hekkerek",
+      "link": "https://telex.hu/techtud/2026/08/11/magyar-allamkincstar-hekkertamadas-adatok-szivargas-feljelentes",
+      "summary": "A MÁK informatikai hálózatát augusztus elején érte kibertámadás."
+    },
+    {
+      "title": "Tanács Zoltán: Végre kiderül, mennyit ér Tusványos közpénz nélkül",
+      "link": "https://telex.hu/belfold/2026/08/11/tanacs-zoltan-orban-viktor-nemeth-zsolt-tusvanyos-poloska-beszed",
+      "summary": "A miniszter reagált a fideszes képviselő szavaira, aki Tusványos fontosságáról beszélt."
+    },
+    {
+      "title": "Baka András: Egy választási eredmény önmagában nem állítja helyre a jogállamot",
+      "link": "https://telex.hu/belfold/2026/08/11/koztarsasagielnok-valasztas-a-parlamentben",
+      "summary": "Az új köztársasági elnök szerint egy generációnyi időt vesztegetett el az ország. Azt is mondta, hogy nem tud úgy közös jövőt építeni az ország, hogy a polgárok egymásban ellenséget látnak. Szeretne hangot adni azoknak, akiknek nincs hangjuk."
+    },
+    {
+      "title": "Amíg az Országgyűlés az új köztársasági elnökről szavaz, a Fidesz frakciója Tatán koszorúz meg egy '56-os emlékművet",
+      "link": "https://telex.hu/belfold/2026/08/11/fidesz-frakcio-tata-koszoruzas-56-os-emlekmu-parlament-koztarsasagi-elnok-szavazas",
+      "summary": "A Fidesz és a KDNP már korábban közölte, hogy nem vesz részt az új államfő megválasztásában."
+    },
+    {
+      "title": "Nem önszántából ült a kristállyal megpakolt autóban, állítja a drogkereskedelemmel gyanúsított volt MKKP-s pécsi politikus",
+      "link": "https://telex.hu/belfold/2026/08/11/kabitoszer-kereskedelem-pecs-onkormanyzati-kepviselo-hanko-viktoria",
+      "summary": "A Magyar Kétfarkú Kutya Párt volt politikusa, Hankó Viktória ügyvédje szerint a képviselő a bűncselekmény elkövetését nem ismerte el, a gyanúsítás ellen panasszal élt."
+    },
+    {
+      "title": "Baka András: Nem kerülhetjük el a szembenézést – a köztársasági elnök megszavazását közvetítettük",
       "link": "https://telex.hu/video/2026/08/11/koztarsasagi-elnok-valasztas-parlament-elo-baka-andras-tisza-kormany-mi-hazank-roma-holokauszt",
-      "summary": "Baka András, a Legfelsőbb Bíróság korábbi elnöke lehet a rendszerváltás utáni Magyarország nyolcadik köztársasági elnöke. A történelmi napot a Parlamentben követjük és a Telex stúdiójából elemezzük élő adásban."
-    },
-    {
-      "title": "Hungarian government files complaint against company of Orbán's former press advisor",
-      "link": "https://telex.hu/english/2026/08/11/hungarian-government-files-complaint-against-company-of-orban-s-former-press-advisor",
-      "summary": "The prime minister's office paid out nearly 11 million euros to a company owned by Fanny Kaminski in the past few years, documents show."
-    },
-    {
-      "title": "Reagált Orbán sajtófőnöke a kormány Kaminski Fanny cégével kapcsolatos feljelentésére",
-      "link": "https://telex.hu/belfold/2026/08/11/havasi-bertalan-reakcio-feljelentes-kaminski-fanny-ceg-orban-kozossegi-medias-szerzodesek",
-      "summary": "Havasi Bertalan szerint Ruff Bálinték csúsztatnak."
-    },
-    {
-      "title": "Szerdán a paksi erőműben ülésezik a kormány",
-      "link": "https://telex.hu/belfold/2026/08/11/szerdan-a-paksi-eromuben-ulesezik-a-kormany",
-      "summary": "Magyar Péter azt írta, olyan beruházásról döntenek majd, amely hosszú távon kezeli az alacsony dunai vízszint okozta fennakadásokat."
-    },
-    {
-      "title": "Letartóztatták a férfit, aki Magyarországra csalt egy 15 éves dán lányt, hogy szexuális bűncselekményt kövessen el ellene",
-      "link": "https://telex.hu/belfold/2026/08/11/magyarorszag-dania-15-eves-lany-szexualis-bunycselekmeny-letartoztatas",
-      "summary": "A 22 éves magyar férfit átadhatják a dán hatóságoknak."
-    },
-    {
-      "title": "500 milliárd dollárt kalapozott össze az Nvidia az MI-infrastruktúra fejlesztésére",
-      "link": "https://telex.hu/gazdasag/2026/08/11/nvidia-goldman-sachs-black-rock-mesterseges-intelligencia-finanszirozas-500-milliard-dollar",
-      "summary": "Mindezt úgy, hogy a saját termékeit mostantól megvásárolható termék helyett befektetési eszközként kezelik, ezzel teljesen újragondolva a mesterséges intelligencia finanszírozását. Vagy tovább fújva az MI-lufit."
-    },
-    {
-      "title": "Feljelentést tesz a kormány Orbán Viktor közösségi médiás szerződései miatt, 4 milliárd landolt Kaminski Fanny cégénél",
-      "link": "https://telex.hu/belfold/2026/08/11/feljelentes-orban-viktor-kozossegi-media-miniszterelnokseg",
-      "summary": "A Rogán Antal vezette Miniszterelnöki Kabinetiroda olyan céggel kötött szerződést 4 milliárd forint értékben, aminek Orbán Viktor sajtósa a tulajdonosa."
-    },
-    {
-      "title": "Szerdán a Nap több mint felét ki fogja takarni a Hold, a szeme világa érdekében szerezzen be addig egy védőszemüveget",
-      "link": "https://telex.hu/techtud/2026/08/11/reszleges-napfogyatkozas-csillagaszat-napsarlos-naplemente-perseidak-meteorraj",
-      "summary": "Bár Magyarországról nem lesz teljes a napfogyatkozás, így is nagyon látványosnak ígérkezik az éppen naplementekor érkező csillagászati jelenség. Fotózáshoz is egyedülálló alkalom, de az sem jó ötlet védőfelszerelés nélkül."
-    },
-    {
-      "title": "Az óbudai polgármester szerint ki kell mondani: DJ Oti bulija nem volt rendben",
-      "link": "https://telex.hu/belfold/2026/08/11/kiss-laszlo-obuda-polgarmester-dj-oti-buli-sziget",
-      "summary": "Kiss László azt írta, „nincs rendben az, hogy a kerület egy giga buliján bedrogoznak embereket”, az érintettek pedig „csak pingvineznek”."
-    },
-    {
-      "title": "Széchenyi family launches battle for its name",
-      "link": "https://telex.hu/english/2026/08/11/szechenyi-family-launches-battle-for-its-name",
-      "summary": "The name of one of Hungary's most renowned noble families has been used to name several major state-funded economic development programs in recent years, without first obtaining permission from the owners of the trademark."
-    },
-    {
-      "title": "Módosították a köznevelési törvényt: könnyebb lesz sztrájkolni, nagyobb önállósága lesz az iskolaigazgatóknak",
-      "link": "https://telex.hu/belfold/2026/08/11/koznevelesi-torveny-sztrajk-iskolak-igazgato-tantestulet",
-      "summary": "Fontos változás még, hogy a tanárok ezentúl jobban beleszólhatnak az iskola működésébe és az igazgató kinevezésébe."
-    },
-    {
-      "title": "Csökken a Duna vízszintje a következő napokban, és alacsony is marad",
-      "link": "https://telex.hu/belfold/2026/08/11/csokken-a-duna-vizszintje-a-kovetkezo-napokban-es-alacsony-is-marad",
-      "summary": "Nem várható számottevő csapadék a Duna vízgyűjtőjén. Paksnál közel 30 centit is csökkenhet a vízszint a következő napokban."
-    },
-    {
-      "title": "Távollétében halálra ítélték Bassár el-Aszad bukott szíriai diktátort",
-      "link": "https://telex.hu/kulfold/2026/08/11/tavolleteben-halalra-iteltek-a-bukott-sziriai-diktatort",
-      "summary": "Aszad uralma 2024-ben kevesebb mint két hét alatt omlott össze Szíriában."
-    },
-    {
-      "title": "Mészáros Lőrinc áramszolgáltató cégét több mint 500 milliárd forintnyi pályázatból zárja ki a Magyar Fejlesztési Bank",
-      "link": "https://telex.hu/gazdasag/2026/08/11/magyar-fejlesztesi-bank-kizaras-opus-titasz-rrf-meszaros-lorinc",
-      "summary": "Az MFB igazgatósága szerint az Opus Titász nem teljesítette az átláthatósági követelményeket."
-    },
-    {
-      "title": "Annyira kiszáradt a Kolon-tó, hogy védett halakat kellett kimenteni belőle",
-      "link": "https://telex.hu/techtud/2026/08/11/kolon-to-kiszaradas-vedett-halak-kimentes",
-      "summary": "A tó vízszintje az elmúlt hetekben 2-4 centiméterrel csökkent az extrém hőség és a gyakori szél miatt."
+      "summary": "Baka András, a Legfelsőbb Bíróság korábbi elnöke a rendszerváltás utáni Magyarország nyolcadik köztársasági elnöke. A történelmi napot a Parlamentben követtük és a Telex stúdiójából elemeztük élő adásban."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Putyin már észak-koreai rakétákkal támadja Ukrajnát Zelenszkij szerint",
+      "link": "https://444.hu/2026/08/11/putyin-mar-eszak-koreai-raketakkal-tamadja-ukrajnat-zelenszkij-szerint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az ukrán elnök szerint Oroszország minél többször vet be észak-koreai rakétákat, annál inkább kompenzálja a hiányosságait, ez pedig a világ többi részére is veszélyes."
+    },
+    {
+      "title": "Orbán rendszerének páriája volt, most köztársasági elnök lett",
+      "link": "https://444.hu/2026/08/11/orban-rendszerenek-pariaja-volt-most-koztarsasagi-elnok-lett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Fidesz ellenzékben még támogatta, hogy Baka András legyen a Legfelsőbb Bíróság elnöke, hatalmon már nem bírták elviselni a kritikáit, és rövid úton megszabadultak tőle. De ez nem volt elég, meg is alázták. Létezik annál nagyobb elégtétel, hogy most ő a köztársasági elnök?"
+    },
+    {
+      "title": "Baka András: Nem építhetjük az új Magyarországot a bosszúra",
+      "link": "https://444.hu/2026/08/11/baka-andras-nem-epithetjuk-az-uj-magyarorszagot-a-bosszura?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "„Egy generációnyi időt vesztegetett el ez a nemzet” – mondta első beszédében Baka, aki szerint ugyan a társadalom többsége most felszabadulást érez azoknak, akik csalódtak, ugyanannyi hely jut a jövő Magyarországán."
+    },
+    {
+      "title": "Tényleg műemlékeket romboltak le Hatvanpusztán, hatmilliós bírságot szabtak ki rájuk",
+      "link": "https://444.hu/2026/08/11/tenyleg-muemlekeket-romboltak-le-hatvanpusztan-hatmillios-birsagot-szabtak-ki-rajuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Műemlék istállókat dózeroltak el, cserébe engedély nélkül építettek fel sokmindent, közte a főkaput, a kőkerítést és a díszmedencéket is."
+    },
+    {
+      "title": "A tóba gurult a golfozó labdája a versenyen, de egyből rárabolt egy hal és elvitte",
+      "link": "https://444.hu/2026/08/11/a-toba-gurult-a-golfozo-labdaja-a-versenyen-de-egybol-rarabolt-egy-hal-es-elvitte?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Trump pályáján bármi megtörténhet!"
+    },
+    {
+      "title": "Nem önszántából ült a droggal megpakolt autóban, állítja a Kutya Párt volt pécsi politikusa, akit most kábítószer-kereskedelemmel vádolnak",
+      "link": "https://444.hu/2026/08/11/nem-onszantabol-ult-a-droggal-megpakolt-autoban-allitja-a-kutya-part-volt-pecsi-politika-akit-most-kabitoszer-kereskedelemmel-vadolnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Amikor elfogták a rendőrök, ő és utastársa is menekülni próbált, Hankó Viktória drogtesztje pedig pozitív lett."
+    },
+    {
+      "title": "Reagált az Orbán fb-oldalát 4 milliárdért szerkesztő Kaminski: 24 órában rendelkezésre kellett állnom",
+      "link": "https://444.hu/2026/08/11/reagalt-az-orban-fb-oldalat-4-milliardert-szerkeszto-kaminsky-24-oraban-rendelkezesre-kellett-allnom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "24 teljes órában. 44 hónap alatt 4 milliárd 229 milliót kapott a cége."
+    },
+    {
+      "title": "Drograktárnak használják az Airbnb-lakásokat a belga bűnbandák",
+      "link": "https://444.hu/2026/08/11/drograktarnak-hasznaljak-az-airbnb-lakasokat-a-belga-bunbandak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Drogok mellett pénz, fegyverek és emberek rejtekhelyeként is igénybe veszik a bűnözők az Airbnb-s lakásokat."
+    },
+    {
+      "title": "Megválasztották Baka Andrást köztársasági elnöknek",
+      "link": "https://444.hu/2026/08/11/koztarsasagi-elnokot-valaszt-a-parlament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Baka Andrást titkos szavazással választja meg a parlament, a Fidesz és a Mi Hazánk nem vesz részt a beiktatáson."
+    },
     {
       "title": "Havasi Bertalan Kaminskiről: Ruff Bálinték csúsztatnak",
       "link": "https://444.hu/2026/08/11/havasi-bertalan-kaminskirol-ruff-balintek-csusztatnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -107,145 +152,100 @@
       "title": "Kit akarnak ezek átverni már megint? Azt állítják a meteorológusok, hogy csodálatos idő lesz",
       "link": "https://444.hu/2026/08/11/kit-akarnak-ezek-atverni-mar-megint-azt-allitjak-a-meteorologusok-hogy-csodalatos-ido-lesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Nyári, de kellemes, és még frissítő éjszakákat is kapunk úgyszólván ingyen."
-    },
-    {
-      "title": "Megint betonkeverő okozott balesetet Budapesten",
-      "link": "https://444.hu/2026/08/11/megint-egy-betonkevero-okozott-balesetet-budapesten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az 50-es villamosba hajtott bele az Üllői út kispesti szakaszán."
-    },
-    {
-      "title": "Szíriában halálra ítélték Bassár el-Aszadot és unokatestvérét",
-      "link": "https://444.hu/2026/08/11/sziriaban-halalra-iteltek-bassar-el-aszadot-es-unokatestveret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Aszad a hatalomátvételkor elmenekült az országból, Átef Nadzsíb viszont kivégzőosztag elé kerülhet."
-    },
-    {
-      "title": "Mérgező gázgyári mocsok Óbudán – az MVM Next belekezd a kárelhárításba, és állítja, hogy a fesztiválozók nincsenek veszélyben a Szigeten",
-      "link": "https://444.hu/2026/08/11/mergezo-gazgyari-mocsok-obudan-az-mvm-next-belekezd-a-karelharitasba-es-allitja-hogy-a-fesztivalozok-nincsenek-veszelyben-a-szigeten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A hosszú távú megoldásról gondolkodás folyik. Továbbra is."
-    },
-    {
-      "title": "Hardcore politikai kvíz: felismered-e a tiszás képviselőket?",
-      "link": "https://444.hu/2026/08/11/hardcore-politikai-kviz-felismered-e-a-tiszas-kepviseloket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Mármint név szerint."
-    },
-    {
-      "title": "Felfüggesztette a parlament az ittasan vezető fiatal tiszás képviselő mentelmi jogát, Takács Péterét és Toroczkai Lászlóét viszont nem",
-      "link": "https://444.hu/2026/08/11/felfuggesztette-a-parlament-az-ittasan-vezeto-fiatal-tiszas-kepviselo-mentelmi-jogat-takacs-peteret-es-toroczkai-laszloet-viszont-nem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Toroczkait és Takácsot is rágalmazással vádolták – egyiküket egy jobbikos jelölt, másikukat Dobrev Klára. Mivel magánvádas eljárásokról van szó, szokás szerint fenntartották a képviselők mentelmi jogát."
-    },
-    {
-      "title": "Kizárták Mészáros Lőrinc cégét, az Opus Titász nem kap semmit a hazahozott RRF-pénzekből",
-      "link": "https://444.hu/2026/08/11/kizartak-meszaros-lorinc-ceget-az-opus-titasz-nem-kap-semmit-a-hazahozott-rrf-penzekbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az átláthatósági követelmények nem teljesítése miatt. Ez lehet az első komolyabb eset, amikor Mészáros-érdekeltség jár pórul."
-    },
-    {
-      "title": "A részleges napfogyatkozást naplementekor lehet majd látni Magyarországon",
-      "link": "https://444.hu/2026/08/11/a-reszleges-napfogyatkozast-naplementekor-lehet-majd-latni-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hazánkban is különleges lesz a szerda este."
-    },
-    {
-      "title": "Az Országos Mentőszolgálat reagált a „beginázós” balhéra: Toxikológiai ellátás céljából kórházi szállításra nem került sor",
-      "link": "https://444.hu/2026/08/11/az-orszagos-mentoszolgalat-reagalt-a-beginazos-balhera-toxikologiai-ellatas-celjabol-korhazi-szallitasra-nem-kerult-sor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "„Felhívtuk bajtársaink figyelmét, hogy a kiszolgáltatott helyzetben lévő betegek és aggódó hozzátartozóik felé tanúsított empatikus, tiszteletteljes kommunikáció az ellátás fontos része.”"
-    },
-    {
-      "title": "Újabb Wildberries raktárházat ért ukrán találat",
-      "link": "https://444.hu/2026/08/11/ujabb-wildberries-raktarhazat-ert-ukran-talalat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az „orosz Amazon” voronyezsi egységénél egy ember meghalt, ketten megsebesültek."
     }
   ],
   "HVG": [
     {
-      "title": "Egy 22 éves férfi Magyarországra csalt egy 15 éves dán lányt, hogy szexuális bűncselekményeket kövessen el ellene",
-      "link": "https://hvg.hu/itthon/20260811_kiadatasi-orizet-szexualis-buncselekmeny-emberrablas-jogtalan-fogvatartas-magyar-ferfi-dan-lany",
-      "summary": "A férfi a keddi tárgyaláson hozzájárult ahhoz, hogy átadják a dán hatóságoknak."
+      "title": "A Faithless, a Morcheeba és Korda György rúgta be a Sziget nosztalgivonatát - fotógaléria",
+      "link": "https://hvg.hu/kultura/20260811_a-faithlessel-a-morcheeba-val-es-korda-gyorgyekkel-ult-fel-a-sziget-a-nosztalgivonatra",
+      "summary": "Lassan teljesen felpörög az idei Sziget Fesztivál, de hétfőn még egy nulladik napi visszatekintéssel hangolódhattak a szigetlekók a keddi igazi beindulásra. Goran Bregovic balkáni őrülete, a Morcheeba és a Faithless zenei varázslata, valamint a hazai noszatalgiakirályi pár, a Korda-Balázs-házaspár fellpése - így látta a hétfőt a HVG fotóriportere."
     },
     {
-      "title": "Havasi a Tisza-kormány feljelentésére: Kaminski Fannyt és a cégét politikai okokból támadják",
-      "link": "https://hvg.hu/itthon/20260811_havasi-bertalan-fidesz-reakcio-tisza-kormany-feljelentes-kaminski-fanny-orban-viktor",
-      "summary": "A Fidesz szerint a „Facebook-kormány” újabb öngólt lőtt, és ez „kevés lesz Ruff Bálintéktól, kormányozni kellene”."
+      "title": "Heves viták és az ellenzék kivonulása után iktatták be az új köztársasági elnököt – videó",
+      "link": "https://hvg.hu/itthon/20260811_baka-andras-koztarsasagi-elnok-valasztas-parlament",
+      "summary": "Baka András megválasztása és beszéde előtt még a poloskázás is előkerült a parlamentben."
     },
     {
-      "title": "Kéthetes újszülöttet mentettek meg az OMSZ munkatársai Pest megyében",
-      "link": "https://hvg.hu/itthon/20260811_orszagos-mentoszolgalat-kethetes-kisfiu-mentok-peter-cerny-alapitvanyi-mentoszolgalat",
-      "summary": "A szülők azt követően hívtak mentőt, hogy riasztott a légzésfigyelő, kisfiuk pedig elvesztette az eszméletét."
+      "title": "A táplálékhiány miatt Szlovákiában már elindultak délre a vándormadarak",
+      "link": "https://hvg.hu/elet/20260811_golya-vandorlas-nyar-szlovakia-szarazsag-taplalek-hiany",
+      "summary": "Az első gólyák már a múlt hétvégén útnak indultak, de helyenként a nádirigók, a poszáták és a fecskék is felkerekedtek."
     },
     {
-      "title": "Úgy üti az orosz Amazont Ukrajna, hogy attól az ország kisvállalkozói jajgatnak a leghangosabban",
-      "link": "https://hvg.hu/360/20260811_orosz-amazon-wildberries-ukran-drontamadas-kiskereskedelem-kkvk-rozetka-ebx",
-      "summary": "Kijev azért indított dróntámadásokat a Wildberries raktárai ellen, mert a háborút támogató orosz lakosság az ott megrendelt árukkal az ukrajnai megszállásban résztvevő katonákat látja el. Ezzel viszont nem csak az orosz bakák csomagjai semmisülnek meg: kis cégek százezrei kerülnek csődközelbe."
+      "title": "Megrepedt a pilótafülke ablaka a levegőben, kényszerleszállást hajtott végre egy Münchenbe tartó gép",
+      "link": "https://hvg.hu/vilag/20260811_repulo-kenyszerleszallas-megrepedt-szelvedo-pilotafulke-united-airlines-munchen",
+      "summary": "Alig több mint két órája voltak a levegőben, amikor a repülő útját megszakították."
     },
     {
-      "title": "Feljelentést tett a Tisza-kormány Orbán Viktor közösségi médiás videói miatt",
-      "link": "https://hvg.hu/itthon/20260811_miniszterelnokseg-feljelentes-orban-viktor-kozossegi-media-triton-communications-kaminsky-fanny",
-      "summary": "Az előző ciklusban a Rogán Antal-féle Kabinetiroda 4,2 milliárd forintért szerződött Kaminski Fanny cégével. A kormány szerint a szerződést közbeszerzés nélkül, háromszoros túlárazás mellett kötötték."
+      "title": "Azahriah, Carson Coma, Deák Bill: idén is Zamárdiban lesz a Balaton legnagyobb bulija",
+      "link": "https://hvg.hu/elet/20260811_azahriah-carson-coma-deak-bill-iden-is-zamardiban-lesz-a-balaton-legnagyobb-bulija",
+      "summary": "Augusztus 19-től 22-ig újra a STRAND fesztivál."
     },
     {
-      "title": "Felfüggesztették az ittasan vezető tiszás képviselő mentelmi jogát",
-      "link": "https://hvg.hu/itthon/20260811_orszaggyules-mentelmi-jog-felfuggesztes-varga-lorinc-mihaly-tisza-part-toroczkai-laszlo-takacs-peter",
-      "summary": "Toroczkai László és Takács Péter esetében viszont a mentelmi jog fenntartása mellett döntöttek a képviselők az Országgyűlésben."
+      "title": "Nézze meg Baka András első államfői beszédét – videó",
+      "link": "https://hvg.hu/itthon/20260811_nezze-meg-baka-andras-elso-allamfoi-beszedet-video",
+      "summary": "A kedden köztársasági elnökké választott Baka András parlamenti beszédében részletes diagnózist adott a magunk mögött hagyott évekről, a társadalom állapotáról, és beszélt az előttünk álló feladatokról is."
     },
     {
-      "title": "Videó: 58 tűzoltó küzdött meg a 25 hektáros tűzzel Felsőpakonynál",
-      "link": "https://hvg.hu/itthon/20260811_tuz-felsopakony-katasztrofavedelem-oltas-video",
-      "summary": "A hivatásos tűzoltók mellett önkéntesek és a Pest Vármegyei Kutató-Mentő Szolgálat munkatársai is részt vettek az oltásban."
+      "title": "Ruff Bálintnak üzent Orbán videósa: Büszkeség a meghurcoltak közt az elsők között lenni",
+      "link": "https://hvg.hu/itthon/20260811_kaminsky-fanni-triton-communications-kozossegi-media-orban-viktor",
+      "summary": "Kaminski Fanny elfogadja, hogy egy új kormány felülvizsgálja elődje szerződéseit, azt viszont nem, hogy „egy tisztességesen működő magyar vállalkozást kiragadott számokkal, elhallgatott tényekkel és félrevezető sugalmazásokkal próbáljanak gyanúba keverni.”"
     },
     {
-      "title": "Nem tetszik az V. kerület fideszes polgármesterének, hogy több köztér vagyonkezelését megkaphatja Budapest",
-      "link": "https://hvg.hu/itthon/20260811_szentgyorgyvolgyi-peter-belvaros-vorosmarty-ter-kozterulet-budapest",
-      "summary": "Szerinte az ebből származó bevételeket a főváros semmiképpen nem tudná jobban és igazságosabban felhasználni, mint az V. kerületi önkormányzat teszi."
+      "title": "Kínai RAM kerülhet az iPhone-okba, de van egy csavar a történetben",
+      "link": "https://hvg.hu/tudomany/20260811_apple-memoriavalsag-iphone-kinai-memoria-cxmt-teszt",
+      "summary": "Egy friss jelentés szerint már teszteli az Apple a kínai CXMT által gyártott memóriát."
     },
     {
-      "title": "Matthäus a távozó német szövetségi kapitánynak: Külföldön lenne érdemes munkát keresnie",
-      "link": "https://hvg.hu/sport/20260811_lothar-matthaus-julian-nagelsmann-nemet-valogatott-kulfoldi-munka-foci",
-      "summary": "A korábban a magyar válogatottat is irányító Matthäus szerint Nagelsmann túl érzékenyen reagált a kritikákra, és néha nagyon megsértődött, ezért jobban járna, ha kicsit lekerülne róla a reflektorfény."
+      "title": "Hadházy Ákos: Amíg Hatvanpuszta Orbánéké, a magyarok nem nagyon nézhetnek nyugodtan tükörbe",
+      "link": "https://hvg.hu/itthon/20260811_hatvanpuszta-hadhazy-akos-kormanyhivatal-buntetes-orban-viktor",
+      "summary": "A volt miniszterelnök édesapjának hatvanpusztai birtokán végzett engedély nélküli munkák miatt 5,7 millió forintos bírságot szabott ki a kormányhivatal. Hadházy Ákos hivatali visszaélést emleget, szerinte a büntetés célja „saját maguk és Orbánék mosdatása”."
     },
     {
-      "title": "A 81 éves Szirtes Tamás ismét megpályázza a Madách Színház igazgatói posztját",
-      "link": "https://hvg.hu/kultura/20260811_szirtes-tamas-ismet-megpalyazza-madach-szinhaz-igazgato",
-      "summary": "A Kossuth-díjas rendező 22 éve igazgatja a Madách Színházat, és több mint fél évszázada rendez az intézményben."
+      "title": "Ócskavas lesz az árnyékflottás orosz tankerből",
+      "link": "https://hvg.hu/gazdasag/20260811_marinera-orosz-tanker-eladas-usa-ocskavas",
+      "summary": "A Bella I nevű hajót egy indiai bontódokkban fogják szétszedni."
     },
     {
-      "title": "DJ Oti bulija nem volt rendben, állítja az óbudai polgármester",
-      "link": "https://hvg.hu/itthon/20260811_kiss-laszlo-obudai-polgarmester-sziget-fesztival-dj-oti-buli-sebestyen-balazs-vizsgalat",
-      "summary": "Kiss László szerint a Fidesz annyira kiüresítette a jogköreiket, hogy meg se tilthatják az ilyen rendezvényeket."
+      "title": "Szikrázó autót vettek észre a rendőrök Nagyberkiben, felnin csúsztatta vezetője, aki még csak meg sem állt nekik",
+      "link": "https://hvg.hu/cegauto/20260811_felnin-rendszam-nelkul-menekult-a-rendorok-elol-egy-ittas-sofor",
+      "summary": "Egyébként is halmozta a szabálysértéseket."
     },
     {
-      "title": "Nem fantázia, valóság: gondolatolvasó sapkát fejleszt egy vállalat",
-      "link": "https://hvg.hu/tudomany/20260811_gondolatolvaso-sapka-eeg-elektrodokkal",
-      "summary": "Sci-fibe illő jelenet: csak ülünk a számítógép kijelzője előtt, a begépelendő szövegre gondolunk, és az azonnal megjelenik a kijelzőn. Mindez már nem csupán a fantázia szüleménye, egy kaliforniai neurotechnológiai startup ugyanis egy olyan „gondolatolvasó” sapkán dolgozik, amelyik mindezt lehetővé teszi."
+      "title": "Ukrajna csapást mért egy orosz finomítóra, 1500 kilométerre a frontvonaltól",
+      "link": "https://hvg.hu/vilag/20260811_oroszorszag-olajfinomito-csapasmeres-ukrajna",
+      "summary": "Ez a térség egyik legnagyobb olajfinomítója."
     },
     {
-      "title": "Távollétében halálra ítélték Szíriában Bassár el-Aszadot",
-      "link": "https://hvg.hu/vilag/20260811_bassar-el-haszad-sziria-halalos-itelet",
-      "summary": "Az elűzött diktátort emberiség elleni és háborús bűnökért ítélték el."
+      "title": "Brad Pitt hét év absztinencia után újra iszik alkoholt",
+      "link": "https://hvg.hu/elet/20260811_brad-pitt-alkohol-fuggoseg-ivas-absztinencia",
+      "summary": "A sztár, akinek korábban komoly problémái voltak a függőségével, saját bevallása szerint már jóval kontrolláltabb módon iszik, mint annak idején."
     },
     {
-      "title": "Csúszik lefelé a forint",
-      "link": "https://hvg.hu/gazdasag/20260811_forintarfolyam-euro-dollar",
-      "summary": "Az okokat most nem Magyarországon kell keresni."
+      "title": "Megújul a Google kereső, mutatjuk, mi változik",
+      "link": "https://hvg.hu/tudomany/20260811_google-kereso-uj-gombok-funkciok-valtozas",
+      "summary": "Hamarosan sokan találkozhatnak a Google kereső megújított, több funkciót tartalmazó kezdőlapjával."
     },
     {
-      "title": "„Nem akartam kockáztatni” – Szörényi Levente elárulta, miért nem volt ott a Bródy-dalok napján a Szigeten",
-      "link": "https://hvg.hu/kultura/20260811_szorenyi-levente-elarulta-miert-nem-volt-ott-brody-dalok-napja",
-      "summary": "Bródy János régi harcostársa csak egy rövid videóüzenetben jelentkezett be."
+      "title": "Vízszállításban kérik a vállalkozások segítségét, tűz ütött ki Tapolcánál",
+      "link": "https://hvg.hu/itthon/20260811_tapolca-tuz-diszel-eg-a-haraszt",
+      "summary": "A lángok az erdőt és a közeli házsort is veszélyeztetik."
     }
   ],
   "BBC": [
+    {
+      "title": "Summer 2026 on course to be UK's hottest on record, says Met Office",
+      "link": "https://www.bbc.co.uk/weather/articles/cn8n9pg54m1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Only average conditions are needed for the remainder of August to break the record, which was set just last year."
+    },
     {
       "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "link": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
       "summary": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey."
     },
     {
-      "title": "Amber Met Office extreme heat warning issued as temperatures could reach 38C",
-      "link": "https://www.bbc.co.uk/weather/articles/ce8ljn1ngg2o?at_medium=RSS&at_campaign=rss",
-      "summary": "An amber weather warning for extreme heat has been issued for Thursday, when extreme temperatures are expected to peak."
-    },
-    {
-      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline."
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "link": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "summary": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999."
     },
     {
       "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
@@ -255,12 +255,17 @@
     {
       "title": "Watch: Family narrowly escapes home during Colombia earthquake",
       "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 132 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
+      "summary": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest earthquakes in years."
     },
     {
       "title": "Anne Hathaway pokes fun at 'fake baby bump' theories",
       "link": "https://www.bbc.co.uk/news/articles/ce8ljew9rnjo?at_medium=RSS&at_campaign=rss",
       "summary": "The actress responds to social media critics who suggested her bump didn't look real at a premiere."
+    },
+    {
+      "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+      "link": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Andy Burnham says town centres have been \"hollowed out\" by decades of decline."
     },
     {
       "title": "Call with No 10 gives us hope, PC Harper's mother says",
@@ -273,14 +278,9 @@
       "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war."
     },
     {
-      "title": "England set to eliminate hepatitis C",
+      "title": "England set to be one of the first countries to eliminate hepatitis C",
       "link": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
       "summary": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show."
-    },
-    {
-      "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-      "link": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men."
     },
     {
       "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
@@ -288,9 +288,14 @@
       "summary": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'."
     },
     {
-      "title": "The lonely Chinese men being conned by fake brides",
-      "link": "https://www.bbc.co.uk/news/articles/cn9n8pqglg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"Flash marriage\" scams are an extreme symptom of a demographic crisis long in the making in China."
+      "title": "The map showing world's division over Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0l5e18063lo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport uses visuals to explore the support and opposition to Gianni Infantino's leadership of Fifa from its members."
+    },
+    {
+      "title": "Amanda Knox comedy show 'sincere' but 'just not very funny'",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nwz5v1lzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Edinburgh Fringe show received a mixed response, with many reviewers saying typical stand-up fare."
     },
     {
       "title": "Gap between children's swimming skills revealed. Search for your school",
@@ -298,17 +303,37 @@
       "summary": "How is your school doing on teaching pupils life-saving swimming skills in the English curriculum?"
     },
     {
-      "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-      "link": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales."
-    },
-    {
-      "title": "Disabled in a heatwave: 'We're talking about survival'",
-      "link": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger."
+      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Bumble ditches its rule that kept men from making the first move",
+      "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
+      "summary": "Bumble is ditching the rule that it has enforced since launching in 2024. Men can finally message first."
+    },
+    {
+      "title": "North Korean remote IT staffer worked for US government agency, says FBI",
+      "link": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
+      "summary": "The investigation shows that North Koreans are able to infiltrate government agencies, as well as private organizations and crypto exchanges."
+    },
+    {
+      "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
+      "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default."
+    },
+    {
+      "title": "What comes after the smartphone? Amazon’s Panos Panay will make his case at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/",
+      "summary": "At Disrupt 2026, Amazon's Panos Panay will provide an exclusive vision for what's in store for us beyond the smartphone."
+    },
+    {
+      "title": "Anthropic says it will watermark text generated by its AI models",
+      "link": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "summary": "Anthropic will extend support for watermarking AI generations for older models as well."
+    },
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
       "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
@@ -358,31 +383,6 @@
       "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
       "link": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
       "summary": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days."
-    },
-    {
-      "title": "Clicks’ Power Keyboard brings BlackBerry-style typing to any phone — with some compromises",
-      "link": "https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/",
-      "summary": "Clicks’ $99 Power Keyboard brings a customizable, slide-out physical keyboard to MagSafe and Qi2 smartphones, but its added heft can make larger phones awkward to use."
-    },
-    {
-      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-      "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-      "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
-    },
-    {
-      "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries",
-      "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-      "summary": "Battery materials startup Sila will use a $1.4 billion loan from the U.S. Department of Defense to scale production at its factory in Washington state."
-    },
-    {
-      "title": "Archer buys former rival Wisk Aero",
-      "link": "https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/",
-      "summary": "The two companies were once embroiled in a trade secret theft lawsuit. Now, Wisk is being absorbed into Archer."
-    },
-    {
-      "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-      "link": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
-      "summary": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack."
     }
   ],
   "Nature": [
@@ -407,14 +407,34 @@
       "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02490-9\">doi:10.1038/d41586-026-02490-9</a></p>AI tools speed up analysis, but scientific truths must be grounded in reality"
     },
     {
+      "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
+      "link": "https://www.nature.com/articles/d41586-026-02380-0",
+      "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02380-0\">doi:10.1038/d41586-026-02380-0</a></p>Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive."
+    },
+    {
       "title": "Will AI make our dreams all look the same?",
       "link": "https://www.nature.com/articles/d41586-026-02491-8",
       "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02491-8\">doi:10.1038/d41586-026-02491-8</a></p>Will AI make our dreams all look the same?"
     },
     {
+      "title": "The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?",
+      "link": "https://www.nature.com/articles/d41586-026-02454-z",
+      "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02454-z\">doi:10.1038/d41586-026-02454-z</a></p>It is shameful that half the country’s population continues to be overlooked by the international community."
+    },
+    {
+      "title": "Seven tips for a graceful lab exit",
+      "link": "https://www.nature.com/articles/d41586-026-02452-1",
+      "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02452-1\">doi:10.1038/d41586-026-02452-1</a></p>Job transitions are challenging, but good communication and planning will help."
+    },
+    {
       "title": "When the best decision is no decision: the rise of randomization in grant funding",
       "link": "https://www.nature.com/articles/d41586-026-02082-7",
       "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02082-7\">doi:10.1038/d41586-026-02082-7</a></p>If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie."
+    },
+    {
+      "title": "Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries",
+      "link": "https://www.nature.com/articles/d41586-026-02142-y",
+      "summary": "<p>Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02142-y\">doi:10.1038/d41586-026-02142-y</a></p>Researchers will travel to Spain and Iceland to observe the solar eclipse on 12 August, hoping to answer questions about the solar corona."
     },
     {
       "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
@@ -440,26 +460,6 @@
       "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
       "link": "https://www.nature.com/articles/s41586-026-10989-4",
       "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10989-4\">doi:10.1038/s41586-026-10989-4</a></p>Learning millisecond protein dynamics from what is missing in NMR spectra"
-    },
-    {
-      "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
-      "link": "https://www.nature.com/articles/s41586-026-10978-7",
-      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10978-7\">doi:10.1038/s41586-026-10978-7</a></p>Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance"
-    },
-    {
-      "title": "How and when to use artificial intelligence in your science job application",
-      "link": "https://www.nature.com/articles/d41586-026-02435-2",
-      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02435-2\">doi:10.1038/d41586-026-02435-2</a></p>A webinar offers advice to hiring managers and jobseekers."
-    },
-    {
-      "title": "Where are you ticklish? Researchers map the sensation across cultures",
-      "link": "https://www.nature.com/articles/d41586-026-02493-6",
-      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02493-6\">doi:10.1038/d41586-026-02493-6</a></p>People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas."
-    },
-    {
-      "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
-      "link": "https://www.nature.com/articles/d41586-026-02447-y",
-      "summary": "<p>Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02447-y\">doi:10.1038/d41586-026-02447-y</a></p>Without strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education."
     }
   ]
 }

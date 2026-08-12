@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Augusztus 19-től új köztársasági elnöke van Magyarországnak",
-      "summary": "A legfrissebb közlöny szerint augusztus 19-én lép hivatalba Magyarország új köztársasági elnöke. Az esemény jelentős változást hoz a hazai politikai életbe.",
+      "title": "Magyar Péter honvédségi helikopterrel utazott Paksra",
+      "summary": "Magyar Péter állami helikopterrel utazott Paksra egy kormányülésre, ami kérdéseket vet fel a közpénzek felhasználásával kapcsolatban. Az eset rávilágít az állami erőforrások politikai célú felhasználásának problémájára.",
+      "importance": 4
+    },
+    {
+      "title": "Az Alkotmánybíróság vizsgálja Sulyok Tamás elmozdítását",
+      "summary": "Az Alkotmánybíróság csütörtökön tárgyalja Sulyok Tamás köztársasági elnök esetleges elmozdításának alkotmányos lehetőségeit. Ez a fejlemény súlyos politikai feszültséget és alkotmányos bizonytalanságot jelez az országban.",
       "importance": 5
     },
     {
-      "title": "Az MNB továbbra sem tud túladni luxusingatlanjain",
-      "summary": "A Magyar Nemzeti Bank Matolcsy György elnöksége alatt szerzett, veszteséges luxusingatlanjain évek óta nem sikerül túladnia. Ez továbbra is pénzügyi terhet jelent az intézménynek.",
+      "title": "Az állam veszi át Krausz Ferenc Nobel-díjas kutatóközpontját",
+      "summary": "Az állam veszi át Krausz Ferenc Nobel-díjas fizikus kutatóközpontját, mely korábban 45 milliárd forint közpénzt kapott. Az akvizíció kérdéseket vet fel a tudományos függetlenség és a kutatásfinanszírozás átláthatósága körül.",
       "importance": 4
     },
     {
-      "title": "Leállt a NER-pénzcsap a Szerencsejáték-cégnél a választások után",
-      "summary": "A választásokat követően a Szerencsejáték Zrt.-nél tapasztalható a korábbi, stabilan működő pénzcsap leállása. Ez változásokat jelezhet a hatalom közelében lévő cégek finanszírozásában.",
+      "title": "Kritikus pénzügyi helyzetben Budapest",
+      "summary": "Budapest kritikus pénzügyi helyzetben van, 125 milliárd forintos hitelt kellene törlesztenie, miközben folyószámlája mínusz 65 milliárd forinton áll. Ez jelentős kihívást jelent a főváros gazdálkodása és a jövőbeni fejlesztései számára.",
       "importance": 4
-    },
-    {
-      "title": "Doktori fokozatok körüli visszaélések gyanúja fideszes és KDNP-s politikusoknál",
-      "summary": "A Pécsi Tudományegyetem egyik oktatója szerint több fideszes és KDNP-s politikus érdemtelenül szerzett doktori fokozatot. Az egyetem vizsgálatot indított az ügyben.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Tragikus földrengés Kolumbiában, több mint 180 halottal",
-      "summary": "Kolumbiában súlyos földrengés pusztított, melynek következtében legalább 180 ember életét vesztette. A mentőalakulatok folyamatosan kutatnak a túlélők után a romok alatt.",
+      "title": "Trump elismerte, hogy repülőgépet cserélt iráni fenyegetés miatt",
+      "summary": "Donald Trump megerősítette, hogy egy lehetséges iráni fenyegetés miatt titokban repülőgépet cserélt a NATO-csúcs után. Az eset rávilágít a Közel-Keleti feszültségekre és az amerikai elnök biztonsági protokolljaira.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij szerint Putyin észak-koreai rakétákkal támadja Ukrajnát",
-      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki, miszerint Oroszország már Észak-Koreából származó rakétákkal hajt végre támadásokat Ukrajnában. Ez újabb dimenziót adhat a nemzetközi konfliktusnak.",
-      "importance": 5
-    },
-    {
-      "title": "Az Etna ismét kitört, turisták ezrei rekedtek Szicíliában",
-      "summary": "Szicílián ismét kitört az Etna vulkán, hamut szórva a környező területekre és súlyosan megzavarva a légi közlekedést. Turisták ezrei rekedtek a szigeten a járatok törlése miatt.",
+      "title": "Alagutat találtak a lett-belarusz határon",
+      "summary": "Lettország alagutat fedezett fel a belarusz határon épített kerítés alatt, amely illegális határátlépésekre utal. Ez a felfedezés tovább élezi a feszültséget a két ország között és aggályokat vet fel a határvédelem hatékonyságával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Oroszország humanitárius okokból elengedett egy négy éve fogva tartott amerikai veteránt",
-      "summary": "Oroszország több mint négy év fogva tartás után humanitárius okokra hivatkozva elengedett egy amerikai veteránt. A lépés némi enyhülést hozhat a két ország feszült viszonyában.",
+      "title": "A világ elhanyagolja Afganisztán lányait és nőit",
+      "summary": "Egy jelentés szerint a világ továbbra is elhanyagolja Afganisztán lányait és nőit, akiknek száma eléri a 20 milliót. A nemzetközi közösség passzivitása mélyreható humanitárius és társadalmi válságot okoz az országban.",
+      "importance": 4
+    },
+    {
+      "title": "Ukrajna felfüggesztette egy orosz kikötő elleni dróntámadását J. D. Vance kérésére",
+      "summary": "J. D. Vance amerikai szenátor kérésére Ukrajna felfüggesztette az egyik orosz kikötő elleni dróntámadásait. Ez a lépés rávilágít az amerikai politikai befolyásra a háború alakulásában és a stratégiai döntésekre.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót",
-      "summary": "A Google mesterséges intelligencia alapú Gemini alkalmazása rendkívül gyorsan, mindössze rövid idő alatt meghódította az 1 milliárd felhasználót. Ez a mérföldkő az AI technológiák tömeges elterjedését jelzi.",
-      "importance": 5
-    },
-    {
-      "title": "Az FBI figyelmeztet: kibertámadók lopnak intim képeket online fiókokból",
-      "summary": "Az FBI figyelmeztetést adott ki, miszerint kibertámadók egyre gyakrabban hatolnak be áldozatok online fiókjaiba, hogy onnan intim képeket tulajdonítsanak el. Fontos a fokozott adatbiztonság és az erős jelszavak használata.",
-      "importance": 5
-    },
-    {
-      "title": "Az OpenAI ChatGPT asztali alkalmazást ad ki Linuxra",
-      "summary": "Az OpenAI elérhetővé tette a ChatGPT asztali alkalmazását Linux operációs rendszerekre is, kiterjesztve ezzel a mesterséges intelligencia alapú chatrobot használati lehetőségeit. Ez jelentős lépés a platformfüggetlen hozzáférés felé.",
+      "title": "Az OpenAI elindította a ChatGPT asztali alkalmazását Linuxra",
+      "summary": "Az OpenAI kiadta a ChatGPT asztali alkalmazását Linux operációs rendszerre, ezzel tovább szélesítve a mesterséges intelligencia elérhetőségét. A lépés hozzájárul a ChatGPT ökoszisztémájának bővítéséhez és a Linux felhasználók számára is natív élményt nyújt.",
       "importance": 4
     },
     {
-      "title": "Egyre több országban szűnik meg a hagyományos telefonálás",
-      "summary": "Világszerte egyre több országban szüntetik meg a vezetékes telefonálást, a mobilhálózatokra és az IP-alapú kommunikációra való átállás miatt. Magyarországon a vonalak kétharmada máris néma.",
+      "title": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót",
+      "summary": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót, ami hatalmas növekedést jelent a mesterséges intelligencia területén. Ez a mérföldkő kiemeli a Google AI stratégiájának sikerét és a Gemini népszerűségét globálisan.",
+      "importance": 5
+    },
+    {
+      "title": "Sürgős Windows-frissítés jött 400 hiba javítására",
+      "summary": "A Microsoft sürgős Windows-frissítést adott ki, amely mintegy 400 hibát orvosol, azonnali javításuk elengedhetetlen. A frissítés célja a rendszer biztonságának és stabilitásának növelése a felhasználók számára.",
+      "importance": 4
+    },
+    {
+      "title": "Egy Anthropic AI modell áttörést ért el egy matematikai problémában",
+      "summary": "Egy még kiadatlan Anthropic mesterséges intelligencia modell áttörést ért el a matematika egyik legnagyobb megoldatlan problémájának megközelítésében. Ez a fejlemény rávilágít az AI-ban rejlő hatalmas potenciálra a tudományos felfedezések területén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Ritka napfogyatkozás Európában, esélyt adva a Nap mágneses terének rejtélyeinek megoldására",
-      "summary": "Európa hamarosan egy ritka napfogyatkozásnak lehet tanúja, mely a kontinens egyes részein a legjobb, 1999 óta tapasztalt jelenség lesz. A tudósok ezt az alkalmat a Nap mágneses terének kutatására is kihasználják.",
+      "title": "A napfogyatkozás ritka esélyt kínál a Nap mágneses mezejének megfejtésére",
+      "summary": "A közelgő napfogyatkozás ritka lehetőséget kínál a tudósoknak, hogy megoldják a Nap mágneses mezejének rejtélyeit. Az esemény különleges betekintést enged majd csillagunk működésébe és a heliophysics kutatásba.",
       "importance": 5
     },
     {
-      "title": "Egy „szuper” El Niño fenyegeti az Amazóniai esőerdőt",
-      "summary": "A tudósok aggódnak, hogy egy különösen erős El Niño jelenség drasztikusan átalakíthatja a világ legnagyobb esőerdőjét, az Amazóniát. Ez potenciálisan súlyos ökológiai következményekkel járhat.",
+      "title": "Egy \"szuper\" El Niño átalakíthatja az Amazonast",
+      "summary": "Egy \"szuper\" El Niño jelenség átalakíthatja az Amazonasi esőerdőt, ami súlyos kérdéseket vet fel annak jövőjével kapcsolatban. A klímaváltozás hatásai és az extrém időjárási jelenségek komoly veszélyt jelentenek a világ legnagyobb esőerdőjére.",
       "importance": 5
     },
     {
-      "title": "Az AI eszközök felgyorsítják az elemzést, de a tudományos igazságoknak a valóságban kell gyökerezniük",
-      "summary": "A mesterséges intelligencia (AI) eszközök forradalmasítják a tudományos adatok elemzését, jelentősen felgyorsítva a kutatási folyamatokat. Azonban kulcsfontosságú, hogy a tudományos megállapítások továbbra is a valóságon alapuljanak.",
+      "title": "HIV vakcinák fejlesztése: áttörés a széles spektrumú antitestek terén",
+      "summary": "HIV vakcinák fejlesztése során sikerült olyan ritka immunsejteket irányítani, amelyek széles spektrumú neutralizáló antitesteket termelnek. Ez az áttörés új reményt ad a HIV elleni hatékony védőoltás kifejlesztésére.",
       "importance": 4
     },
     {
-      "title": "Új megközelítés a HIV vakcinák fejlesztésében",
-      "summary": "A HIV elleni vakcinák fejlesztése során új utat találtak a kutatók, amelyek ritka immunsejtek irányításával széles spektrumú neutralizáló antitesteket termeltetnének. Ez az áttörés reményt adhat a hatékony HIV elleni védekezés kidolgozására.",
+      "title": "A folyami hajózás meglepően nagy éghajlati hatással jár",
+      "summary": "A folyami hajózás meglepően nagy éghajlati hatással jár, jelentősen hozzájárulva a környezeti terheléshez. Ez az új felismerés fontossá teszi a belvízi szállítás környezetbarátabbá tételét és a fenntarthatóbb megoldások keresését.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Halász Bence országos csúccsal Európa-bajnok kalapácsvetésben",
-      "summary": "Halász Bence élete legjobb teljesítményével, új országos csúccsal nyerte meg a kalapácsvetés Európa-bajnoki címét. Ezzel a magyar sportolók egyik kiemelkedő sikerét érte el.",
+      "title": "Halász Bence hatalmas rekorddal lett Európa-bajnok",
+      "summary": "Halász Bence kalapácsvetésben hatalmas rekordot dobva lett Európa-bajnok, ezzel kiemelkedő teljesítményt nyújtva a sportágban. Eredménye jelentős sikert hozott Magyarországnak és a sportolónak is.",
       "importance": 5
     },
     {
-      "title": "Kós Hubert Európa-csúccsal jutott döntőbe 200 méteres hátúszásban",
-      "summary": "Kós Hubert fantasztikus teljesítménnyel, új Európa-csúccsal jutott be a 200 méteres hátúszás döntőjébe. Ezzel bebiztosította helyét a kontinens legjobbjai között.",
-      "importance": 4
-    },
-    {
-      "title": "Két magyar futó is Eb-döntőt futhat 400 méteren",
-      "summary": "Ritka és történelmi pillanat a magyar atlétikában, hogy egyszerre két magyar futó is kvalifikálta magát a 400 méteres síkfutás Európa-bajnoki döntőjébe. Nagy reményekkel várhatjuk a finálét.",
-      "importance": 4
-    },
-    {
-      "title": "Célfotóval döntöttek a női 100 gát Eb-döntőjében",
-      "summary": "Rendkívül szoros küzdelemben, célfotóval kellett eldönteni a női 100 méteres gátfutás Európa-bajnoki döntőjének győztesét. Az esemény drámai végkifejlete felejthetetlen pillanatokat szerzett a sportrajongóknak.",
+      "title": "Cristiano Ronaldo feleségül vette Georgina Rodríguezt",
+      "summary": "Cristiano Ronaldo, a világhírű labdarúgó, tíz év együttélés után feleségül vette élettársát, Georgina Rodríguezt. Az esemény nagy médiafigyelmet kapott a sportoló magánéletével kapcsolatban, túlszárnyalva a sportteljesítményeket.",
       "importance": 3
+    },
+    {
+      "title": "Brit pilóta új sebességi világrekordot állított fel",
+      "summary": "Egy brit pilóta új sebességi világrekordot állított fel, áttörve a hanghatárt egy speciális járművel. Ez a technikai és emberi teljesítmény a mérnöki tudomány és a sebességi sport határát feszegeti.",
+      "importance": 4
+    },
+    {
+      "title": "Egyre több az e-roller baleset, gyerekek is megsérülnek",
+      "summary": "Egyre több a baleset az e-rollerekkel, melyekben már kilenc éves gyerekek is megsérültek. A hír felhívja a figyelmet az urbanizált sporttevékenységek biztonsági kockázataira és a szabályozás szükségességére.",
+      "importance": 2
     }
   ]
 }

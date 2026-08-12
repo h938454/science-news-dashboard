@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Kijött a közlöny: augusztus 19-től új köztársasági elnöke van Magyarországnak",
-      "summary": "A Magyar Közlönyben megjelent, hogy augusztus 19-től Baka András tölti be a köztársasági elnöki tisztséget. Ezzel hivatalosan is új államfője lett az országnak.",
+      "title": "Baka András az új köztársasági elnök",
+      "summary": "A Magyar Közlönyben megjelent, hogy augusztus 19-től Baka András tölti be a köztársasági elnöki posztot. A megválasztásához többek között Volodimir Zelenszkij és más európai vezetők is gratuláltak, hangsúlyozva Magyarország megújulását.",
       "importance": 5
     },
     {
-      "title": "Mészáros Lőrincék kizárása: ha az állam tényleg elkezdte komolyan venni az átláthatóságot, az többeket súlyosan érinthet",
-      "summary": "Mészáros Lőrinc cégeit kizárták egy tenderről az átláthatósági szabályok megsértése miatt, ami arra utal, hogy az állam komolyabban veszi a korrupcióellenes intézkedéseket. Ez a lépés jelentős hatással lehet a közbeszerzési piacra és az érintett üzleti körökre.",
+      "title": "Vizsgálat indult politikusok doktori fokozataival kapcsolatban",
+      "summary": "A Pécsi Tudományegyetem egyik oktatója szerint fideszes és KDNP-s politikusok érdemtelenül szereztek doktori fokozatot. Az egyetem vizsgálatot indított az ügyben, amely potenciálisan komoly politikai és akadémiai botrányt jelez.",
       "importance": 4
     },
     {
-      "title": "Érdemtelenül szereztek doktori fokozatot fideszes és KDNP-s politikusok a PTE egyik oktatója szerint, az egyetem vizsgálatot folytat",
-      "summary": "A Pécsi Tudományegyetem egyik oktatója szerint több fideszes és KDNP-s politikus érdemtelenül szerzett doktori fokozatot, ami miatt az egyetem belső vizsgálatot indított. Az ügy potenciálisan befolyásos személyeket érint és súlyos etikai kérdéseket vet fel.",
+      "title": "Nyomozók az Országos Mentőszolgálatnál",
+      "summary": "Nyomozók jelentek meg az Országos Mentőszolgálat (OMSZ) két budapesti telephelyén. Az ügy részletei egyelőre nem nyilvánosak, de az állami intézmény elleni vizsgálat jelentős figyelmet kap.",
       "importance": 4
     },
     {
-      "title": "Zelenszkij Baka András megválasztásáról: Újabb fontos lépés Magyarország megújulásában",
-      "summary": "Volodimir Zelenszkij ukrán elnök gratulált Baka Andrásnak megválasztásához, és üdvözölte az eseményt mint Magyarország megújulásának fontos lépését. Ez a nemzetközi reakció kiemelt figyelmet kapott.",
-      "importance": 3
+      "title": "Mészáros Lőrinc cégeit kizárták egy közbeszerzésből",
+      "summary": "Mészáros Lőrinc érdekeltségeit kizárták egy közbeszerzési eljárásból, ami arra utalhat, hogy az állam komolyabban veszi az átláthatóságot. Ez a lépés súlyosan érintheti a korábban kiemelten sikeres vállalkozásokat.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Putyin már észak-koreai rakétákkal támadja Ukrajnát Zelenszkij szerint",
-      "summary": "Volodimir Zelenszkij ukrán elnök szerint Oroszország már észak-koreai rakétákat vet be Ukrajna ellen. Ez a fejlemény súlyosbítja a háború nemzetközi vonatkozásait és a fegyverszállítások körüli feszültségeket.",
+      "title": "Oroszország hazaengedett egy amerikai veteránt",
+      "summary": "Négy évnyi fogva tartás után Oroszország humanitárius okokból szabadon engedett egy amerikai veteránt, akit korábban tíz év börtönre ítéltek. Az esemény enyhülést hozhat az orosz-amerikai kapcsolatokban.",
       "importance": 5
     },
     {
-      "title": "Oroszország hazaengedett egy több mint négy éve fogva tartott amerikai veteránt",
-      "summary": "Oroszország humanitárius okokra hivatkozva szabadon engedett egy több mint négy éve fogságban tartott amerikai veteránt. A lépés enyhe enyhülést hozhat az orosz-amerikai kapcsolatokban.",
-      "importance": 4
+      "title": "Pusztító földrengés Kolumbiában, több mint 180 halott",
+      "summary": "Kolumbiát hatalmas erejű földrengés sújtotta, melynek következtében több mint 180 ember életét vesztette. A mentőalakulatok kétségbeesetten keresik a túlélőket a romok alatt.",
+      "importance": 5
     },
     {
-      "title": "180 halottat követelő kolumbiai földrengés után kutatnak a túlélők után a mentők",
-      "summary": "Kolumbiában pusztító földrengés rázta meg a régiót, amelyben eddig 180 ember vesztette életét, a mentőcsapatok pedig kétségbeesetten kutatnak a túlélők után. A természeti katasztrófa hatalmas pusztítást végzett, és humanitárius válságot okozott.",
-      "importance": 4
+      "title": "Zelenszkij szerint Putyin észak-koreai rakétákat vet be Ukrajnában",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentése szerint Vlagyimir Putyin orosz elnök már észak-koreai rakétákkal támadja Ukrajnát. Ez a fejlemény új dimenziót adhat az orosz-ukrán háborúnak és a nemzetközi feszültségeknek.",
+      "importance": 5
     },
     {
-      "title": "Megzavarta Szicília légi közlekedését az Etna kitörése, turisták ezrei rekedtek a szigeten",
-      "summary": "Az Etna vulkán kitörése hamut szórt, ami súlyosan megzavarta Szicília légi közlekedését. Ennek következtében turisták ezrei rekedtek a szigeten, jelentős fennakadásokat okozva.",
-      "importance": 3
+      "title": "Az Etna kitörése miatt turisták ezrei rekedtek Szicílián",
+      "summary": "Az Etna vulkán ismét hamut szórt, megzavarva Szicília légi közlekedését és turisták ezreit rekesztve a szigeten. A hatóságok a helyzet kezelésén dolgoznak, míg a vulkáni tevékenység továbbra is aktív.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót",
-      "summary": "A Google mesterséges intelligencia alapú Gemini alkalmazása rövid időn belül elérte az 1 milliárd felhasználót, ezzel is mutatva a mesterséges intelligencia gyors térnyerését. Ez a mérföldkő jelentős sikert jelent a Google számára az AI piacon.",
+      "title": "Súlyos biztonsági rések a SIM-kártyákban",
+      "summary": "Kiderült, hogy hatalmas biztonsági rések vannak a SIM-kártyákban, melyek lehetővé teszik minden olyan eszköz feltörését, amiben benne vannak. Ez a felfedezés globális kiberbiztonsági aggodalmakat vet fel.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI kiadta a ChatGPT asztali alkalmazását Linuxra",
-      "summary": "Az OpenAI elérhetővé tette népszerű ChatGPT mesterséges intelligencia chatbotjának asztali alkalmazását Linux operációs rendszerre. Ez a lépés tovább szélesíti az AI eszközök hozzáférhetőségét a fejlesztők és felhasználók körében.",
+      "title": "Áttörés az AI-kutatásban: Anthropic modell oldott meg egy matematikai problémát",
+      "summary": "Egy még be nem mutatott Anthropic AI modell jelentős előrelépést ért el az egyik legnagyobb megoldatlan matematikai probléma megoldásában. Ez az eredmény új távlatokat nyithat az AI képességeinek és a tudományos kutatásnak.",
+      "importance": 5
+    },
+    {
+      "title": "Az FBI figyelmeztet a kibertámadásokra, intim képeket lopnak",
+      "summary": "Az FBI figyelmeztetést adott ki, miszerint kiberbűnözők áldozatok online fiókjait feltörve intimitást sértő képeket lopnak el. Ez a fenyegetés sürgős intézkedéseket tesz szükségessé az online biztonság és adatvédelem terén.",
       "importance": 4
     },
     {
-      "title": "Súlyos biztonsági résekre derült fény a SIM-kártyákban, minden érintett eszköz feltörhető",
-      "summary": "Jelentős biztonsági problémát fedeztek fel a SIM-kártyákban, ami potenciálisan lehetővé teszi minden olyan eszköz feltörését, amelyben ilyen kártya található. Ez komoly fenyegetést jelent a felhasználók adatainak biztonságára.",
+      "title": "A Google Gemini alkalmazása elérte az 1 milliárd felhasználót",
+      "summary": "A Google mesterséges intelligencia alapú Gemini alkalmazása rövid időn belül elérte az 1 milliárd felhasználót. Ez a gyors terjedés a mesterséges intelligencia növekvő népszerűségét és integrációját mutatja a mindennapi életben.",
       "importance": 4
-    },
-    {
-      "title": "A Delta vizsgálatot indított, miután valaki hamis Wi-Fi hálózatot hozott létre repülés közben",
-      "summary": "A Delta légitársaság vizsgálja azt az esetet, amikor valaki egy repülőjárat fedélzetén hamis Wi-Fi hálózatot telepített. Az incidens biztonsági és adatvédelmi aggályokat vet fel.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Egy még be nem mutatott Anthropic modell áttörést ért el a matematika egyik legnagyobb megoldatlan problémáján",
-      "summary": "Az Anthropic egy még publikálatlan mesterséges intelligencia modellje jelentős előrelépést tett a matematika egyik régóta megoldatlan problémájának kezelésében. Ez az eredmény rávilágít az AI kutatásban rejlő hatalmas potenciálra és a tudományos felfedezésekre gyakorolt hatására.",
+      "title": "Napfogyatkozás kínál ritka lehetőséget a Nap mágneses mezejének tanulmányozására",
+      "summary": "Egy közelgő teljes napfogyatkozás ritka alkalmat kínál a tudósoknak a Nap mágneses mezejének és a korona rejtélyeinek tanulmányozására. Az esemény Európa-szerte megfigyelhető lesz, és jelentős tudományos adatokat szolgáltathat.",
       "importance": 5
     },
     {
-      "title": "A Met Office szerint 2026 nyara lehet a valaha volt legmelegebb az Egyesült Királyságban",
-      "summary": "Az Egyesült Királyság meteorológiai hivatala (Met Office) előrejelzése szerint 2026 nyara lehet az ország történetének legmelegebbje. Ez az előrejelzés rávilágít az éghajlatváltozás folyamatos hatásaira és a szélsőséges időjárási jelenségek várható gyakoriságára.",
+      "title": "„Szuper” El Niño fenyegeti az Amazóniai esőerdőt",
+      "summary": "Egy rendkívül erős, „szuper” El Niño jelenség drámai módon átalakíthatja az Amazóniai esőerdőt. A kutatók aggódnak, hogy a jelenség hosszú távú károkat okozhat a világ legnagyobb esőerdőjében.",
+      "importance": 5
+    },
+    {
+      "title": "Áttörés a HIV vakcinák fejlesztésében",
+      "summary": "A kutatók olyan HIV vakcinák fejlesztésén dolgoznak, amelyek ritka immunsejteket irányítanak széles körben neutralizáló antitestek előállítására. Ez a felfedezés új reményt ad a HIV elleni hatékony védekezés kidolgozásában.",
       "importance": 4
     },
     {
-      "title": "Európa felett látható a legjobb napfogyatkozás 1999 óta, az Egyesült Királyságban is megfigyelhető",
-      "summary": "Európában, különösen az Egyesült Királyságban, az 1999 óta legjobb napfogyatkozás lesz megfigyelhető, ahogy a Hold eltakarja a Napot. Az esemény jelentős érdeklődésre tarthat számot az asztronómia kedvelői körében.",
+      "title": "AI eszközök és a tudományos igazság alapjai",
+      "summary": "Bár az AI eszközök felgyorsítják az elemzést, a tudományos igazságokat továbbra is a valóságon kell alapulniuk. A cikk a mesterséges intelligencia tudományos kutatásban való felelős alkalmazásának fontosságára hívja fel a figyelmet.",
       "importance": 4
-    },
-    {
-      "title": "Medúzák állítottak le egy francia atomerőművet, egy évvel az előző incidens után",
-      "summary": "Franciaországban medúzák okoztak üzemzavart egy atomerőműben, pontosan egy évvel azután, hogy hasonló okból le kellett állítani egy másikat. Ez a szokatlan jelenség felveti a klímaváltozás és a tengeri élővilág hatását az emberi infrastruktúrára.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Halász Bence élete legjobbjával, országos csúccsal lett Európa-bajnok kalapácsvetésben",
-      "summary": "Halász Bence fantasztikus teljesítménnyel, élete legjobbjával és új országos csúccsal nyerte meg az Európa-bajnokságot kalapácsvetésben. Ez a magyar atlétika kiemelkedő sikere.",
+      "title": "Halász Bence országos csúccsal Európa-bajnok kalapácsvetésben",
+      "summary": "Halász Bence élete legjobbjával, új országos csúccsal lett Európa-bajnok kalapácsvetésben. Ezzel a kiváló teljesítménnyel ismét a dobogó tetejére állt, hatalmas sikert aratva Magyarországnak.",
       "importance": 5
     },
     {
-      "title": "Kós Hubert majdnem világcsúcsot úszott az Európa-bajnokságon, a futam után rosszul lett",
-      "summary": "Kós Hubert közel világcsúcs idővel úszott az Európa-bajnokságon, ám a rendkívüli erőfeszítés után rosszul lett. Teljesítménye figyelemre méltó, még ha a győzelem elmaradt is.",
+      "title": "Kós Hubert majdnem világcsúccsal úszott az Eb-n",
+      "summary": "Kós Hubert az Európa-bajnokságon közel világcsúcsot úszott 200 méteres hátúszásban, majd a futam után rosszul lett. Teljesítménye rendkívüli volt, Európa-csúccsal jutott döntőbe.",
+      "importance": 5
+    },
+    {
+      "title": "Történelmi siker: két magyar futó is Eb-döntőt fut 400 méteren",
+      "summary": "Először fordul elő a magyar atlétika történetében, hogy két magyar futó is indulhat a 400 méteres síkfutás Európa-bajnoki döntőjében. Ez a rendkívüli eredmény hatalmas büszkeség az országnak.",
       "importance": 4
     },
     {
-      "title": "Sosem volt még ilyen, két magyar futó is Eb-döntőt futhat 400 méteren",
-      "summary": "Történelmi eseményként két magyar futó is kvalifikálta magát a 400 méteres síkfutás Európa-bajnoki döntőjébe. Ez páratlan siker a magyar atlétika történetében.",
+      "title": "Célfotóval dőlt el a női 100 gát az Eb-n",
+      "summary": "Drámai körülmények között, mindössze célfotóval lehetett eldönteni a női 100 méteres gátfutás Európa-bajnoki döntőjét. A futam rendkívül szoros volt, izgalmas pillanatokat szerezve a nézőknek.",
       "importance": 4
-    },
-    {
-      "title": "Az Egyesült Királyság atlétái, Glave és Azu szerezték meg az első és második helyet a férfi 100 méteres síkfutásban az Eb-n",
-      "summary": "Az európai atlétikai bajnokságon az Egyesült Királyság két versenyzője, Glave és Azu nyerték az első és második helyet a rendkívül izgalmas férfi 100 méteres síkfutás döntőjében. Ezzel ők lettek az esemény kiemelkedő alakjai.",
-      "importance": 3
     }
   ]
 }

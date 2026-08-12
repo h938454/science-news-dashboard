@@ -1,101 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Kiemelt beruházássá nyilvánította a kormány a paksi atomerőmű miatt szükséges dunai munkálatokat",
-      "summary": "A kormány kiemelt beruházássá minősítette a Duna medrében szükséges munkálatokat a paksi atomerőmű környékén. A cél, hogy alacsony vízállás esetén is biztosított legyen az atomerőmű hűtővízellátása.",
+      "title": "A magyar családok az EU legszegényebbjei közé kerültek Orbán hatalmának végére",
+      "summary": "A magyar családok az Európai Unió legszegényebbjei közé kerültek a jelenlegi kormányzati ciklus végére, annak ellenére, hogy Orbán Viktor a családtámogatásokat hangsúlyozta. Ez a kritikus értékelés rávilágít a gazdasági egyenlőtlenségekre.",
       "importance": 5
     },
     {
-      "title": "Legfőbb Ügyészség: Szabálytalanul foglaltak le adathordozókat a Fidesz szerverparkjában az NKA-ügyben, az eljárás megismétlését kérik",
-      "summary": "A Legfőbb Ügyészség szerint szabálytalanul történt a Fidesz szerverparkjában adathordozók lefoglalása az NKA-ügyben, ezért az eljárás megismétlését kérik. Ez politikai és jogi szempontból is jelentős fejlemény.",
-      "importance": 5
-    },
-    {
-      "title": "Hűtlen kezelés miatt indult nyomozás az OMSZ mentőautó-beszerzései ügyében",
-      "summary": "Hűtlen kezelés gyanújával indult nyomozás az Országos Mentőszolgálat (OMSZ) mentőautó-beszerzései ügyében. A vizsgálat a közpénzek felhasználásának szabályosságát ellenőrzi.",
+      "title": "Szeptembertől nyilvánossá válnak a kórházi fertőzések adatai",
+      "summary": "Szeptembertől kötelezően nyilvánossá teszik a kórházi fertőzések intézményi adatait, ami nagyobb átláthatóságot biztosít a közegészségügyben. A lépés célja a betegek tájékoztatása és a fertőzések megelőzése.",
       "importance": 4
     },
     {
-      "title": "A 4iG eladta egy cseh védelmi ipari vállalatnak a Rába Nyrt. harmadát, így a cég beszállhat a Gidránok gyártásába is",
-      "summary": "A 4iG eladta a Rába Nyrt. egyharmadát egy cseh védelmi ipari cégnek, ami lehetővé teszi a Rába számára, hogy bekapcsolódjon a Gidrán páncélozott járművek gyártásába. Ez stratégiai jelentőségű a magyar védelmi ipar számára.",
+      "title": "Több mint 6 milliárd forintot fordít a kormány az aszálykár kezelésére",
+      "summary": "A kormány több mint 6 milliárd forintos összeget különített el az aszálykárok kezelésére, segítve ezzel a mezőgazdasági szektorban a gazdákat. Az intézkedés az éghajlatváltozás okozta kihívásokra ad választ.",
+      "importance": 4
+    },
+    {
+      "title": "Barnás anyag szivárog a Dunába Almásfüzitőnél, vizsgálódik a hatóság",
+      "summary": "Barnás színű, ismeretlen anyag szivárog a Dunába az almásfüzitői vörösiszap-tározó alatti szakaszon, ami miatt a hatóságok vizsgálatot indítottak. A környezetszennyezés potenciális veszélyt jelent a folyó élővilágára és a vízellátásra.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Trumpot csaliként használták fel az iráni fenyegetés miatt, miniszterek maradtak a csalirepülőn",
-      "summary": "Iráni fenyegetés miatt az amerikai elnököt biztonsági okokból egy másik géppel szállították, miközben különgépét több miniszterrel és újságíróval csaliként használták. Az eset rávilágít a magas szintű biztonsági intézkedésekre.",
+      "title": "Putyin európai hajók elfoglalásával fenyegetőzik",
+      "summary": "Vlagyimir Putyin orosz elnök azzal fenyegetőzött, hogy elfoglalja az európai hajókat, ami jelentősen fokozza a geopolitikai feszültségeket. Ez a bejelentés a nemzetközi közösség aggodalmait növeli a tengeri biztonság és a szállítás szabadsága kapcsán.",
       "importance": 5
     },
     {
-      "title": "Izraeli telepesek palesztin családokat ostromolnak egy ciszjordániai faluban",
-      "summary": "Izraeli telepesek ostromolnak palesztin családokat egy ciszjordániai faluban, feszült helyzetet teremtve a térségben. A konfliktusok kiéleződése aggodalomra ad okot a régióban.",
-      "importance": 5
-    },
-    {
-      "title": "Csütörtökön 16 óráig biztosan zárva marad a cataniai reptér az Etna-kitörések miatt",
-      "summary": "Az Etna újabb kitörései miatt a szicíliai Catania repülőterét lezárták, jelentős fennakadásokat okozva a légi közlekedésben. A hatóságok a biztonságra hívják fel a figyelmet.",
+      "title": "Ukrán dróncsapás ért két gabonaterminált egy orosz kikötővárosban",
+      "summary": "Két nagy gabonaterminált ért ukrán dróncsapás egy fekete-tengeri orosz kikötővárosban, ami súlyos károkat okozott az infrastruktúrában. Az incidens tovább élezi az orosz-ukrán háború gazdasági és élelmiszerellátási következményeit.",
       "importance": 4
     },
     {
-      "title": "Videó: csecsemőt mentettek ki a romok alól a kolumbiai földrengés után",
-      "summary": "Egy kolumbiai földrengés utáni mentőakció során egy csecsemőt emeltek ki élve a romok alól. A videó bemutatja a mentők heroikus erőfeszítéseit és a túlélés reményét.",
+      "title": "Trumpot biztonsági okokból másik gépre csempészték iráni fenyegetés miatt",
+      "summary": "Az amerikai kormány minisztereit és újságírókat használták csaliként az elnöki különgépen, miközben Donald Trumpot biztonsági okokból egy másik repülőre helyezték át iráni fenyegetések miatt. Az eset rávilágít az elnöki biztonság és a geopolitikai feszültségek komplexitására.",
+      "importance": 4
+    },
+    {
+      "title": "Izraeli telepesek ostromolják palesztin családokat egy ciszjordániai faluban",
+      "summary": "Izraeli telepesek ostromolnak palesztin családokat egy ciszjordániai faluban, tovább mélyítve ezzel az Izrael és Palesztina közötti konfliktust. Az események rávilágítanak a régióban fennálló feszültségekre és a humanitárius helyzetre.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Megjöttek a Google új mobiljai: őőő-mentesítő funkció, villogó Gemini-lámpa, 120-szoros zoom is van bennük",
-      "summary": "A Google bemutatta új Pixel okostelefonjait, okosóráját és nyomkövetőjét, melyek számos innovatív funkcióval és mélyebb Gemini AI integrációval érkeznek. Az új modellek a mesterséges intelligencia erejét a mindennapi használatba hozzák.",
+      "title": "A Google bemutatta új termékeit: Pixel 11, Pixel Watch 5 és Gemini funkciók",
+      "summary": "A Google bejelentette számos új termékét és funkcióját, köztük a Pixel 11 okostelefont, a Pixel Watch 5 okosórát és számos Gemini AI-alapú fejlesztést. Ezek a fejlesztések jelentősen befolyásolhatják a jövőbeli felhasználói élményt és az MI térnyerését.",
       "importance": 5
     },
     {
-      "title": "Microsoft fenyegetés ellenére publikáltak egy új Windows zero-day hibát",
-      "summary": "Egy biztonsági kutató közzétett egy új, kritikus zero-day sebezhetőséget a Windowsban, miután a Microsoft jogi lépésekkel fenyegette. Ez komoly biztonsági kockázatot jelent a felhasználók számára.",
+      "title": "Egyre nagyobb aggodalom az MI biztonsága miatt, a szakértők nyitottságot szorgalmaznak",
+      "summary": "Növekszik az aggodalom a mesterséges intelligencia (MI) biztonsága körül, miközben három vezető szakértő érvel a nyílt fejlesztési megközelítés mellett. Ez a vita alapvető fontosságú az MI jövőjének és társadalmi hatásainak szempontjából.",
+      "importance": 5
+    },
+    {
+      "title": "A Tesla 10 milliárd dolláros napenergia-gyárat tervez Texasban",
+      "summary": "A Tesla egy 10 milliárd dolláros napenergia-gyár építését tervezi Texasban, ami óriási beruházás a megújuló energia szektorban. Ez a projekt hozzájárulhat a tiszta energia termelésének felgyorsításához és a gazdasági fejlődéshez.",
       "importance": 4
     },
     {
-      "title": "A Facebook hivatalosan is elindította önálló Creator Studio alkalmazását AI-eszközökkel",
-      "summary": "A Facebook (Meta) elindította megújult Creator Studio alkalmazását, mely mesterséges intelligencia alapú eszközökkel segíti a tartalomkészítőket. Az új funkciók célja a kreatív munkafolyamatok optimalizálása és a tartalomgyártás fellendítése.",
+      "title": "Egy biztonsági kutató nyilvánosságra hozott egy Windows nulladik napi hibát a Microsoft fenyegetése ellenére",
+      "summary": "Egy biztonsági kutató nyilvánosságra hozott egy kritikus Windows nulladik napi sebezhetőséget, annak ellenére, hogy a Microsoft jogi lépésekkel fenyegette meg. Ez az esemény kiemeli a szoftverbiztonság és a sebezhetőségek felelős közzétételének fontosságát.",
       "importance": 4
-    },
-    {
-      "title": "Bélyeget kapnak a Spotify-on az AI-előadók",
-      "summary": "A Spotify bevezeti a mesterséges intelligencia által generált zenék és előadók megjelölését, hogy átláthatóságot biztosítson a felhasználóknak. Ez a lépés rávilágít az AI növekvő szerepére a zeneiparban és a szerzői jogi kihívásokra.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Az AI integrálása az orvosi döntéshozatalba",
-      "summary": "A mesterséges intelligencia egyre nagyobb szerepet kap az orvosi diagnózisok és kezelési tervek kidolgozásában, ígéretes jövőt vetítve előre a precíziós orvoslásban. Az AI segíthet az adatok elemzésében és a hatékonyabb ellátásban.",
+      "title": "Gázzal burkolt, elvörösödött fekete lyukat fedeztek fel a kozmikus hajnal idején",
+      "summary": "Csillagászok egy gázzal burkolt és vöröses színű fekete lyukat fedeztek fel a kozmikus hajnal, az univerzum korai szakaszából. Ez a felfedezés segíthet megérteni a galaxisok és a szupermasszív fekete lyukak kialakulását a korai univerzumban.",
       "importance": 5
     },
     {
-      "title": "AlzheiNN: konvolúciós neurális hálózaton alapuló modell az Alzheimer-kór osztályozására",
-      "summary": "Kutatók egy új, konvolúciós neurális hálózaton alapuló modellt fejlesztettek ki (AlzheiNN) az Alzheimer-kór pontosabb osztályozására. Ez áttörést hozhat a betegség korai felismerésében és kezelésében.",
+      "title": "Génmódosított probiotikumok a cukorbetegség kezelésére",
+      "summary": "Tudósok olyan génmódosított probiotikus baktériumokat fejlesztettek ki, amelyek képesek lehetnek a cukorbetegség kezelésére. Ez az áttörés új utakat nyithat a diabétesz terápiájában egerekben és majmokban végzett sikeres kísérletek után.",
+      "importance": 5
+    },
+    {
+      "title": "A neurofejlődési rendellenességek kezelésében segíthet a PV neuron plaszticitásának helyreállítása",
+      "summary": "Kutatók sikeresen helyreállították a PV neuronok plaszticitását neurofejlődési rendellenességekben, ami új terápiás lehetőségeket nyithat. Ez a felfedezés reményt adhat olyan betegségek kezelésében, mint az autizmus vagy a skizofrénia.",
       "importance": 4
     },
     {
-      "title": "Adaptív, általános regressziós mély konvolúciós megerősítő tanulás a terméshozam előrejelzésére okos precíziós gazdálkodásban",
-      "summary": "Egy új mesterséges intelligencia alapú módszer teszi lehetővé a terméshozam pontosabb előrejelzését az okos precíziós gazdálkodásban. Ez segíthet a mezőgazdasági termelés optimalizálásában és az élelmiszerbiztonság növelésében.",
-      "importance": 4
-    },
-    {
-      "title": "Ólom-karboxilát passziválás méteres méretű perovszkit napelem modulokhoz",
-      "summary": "Új módszert dolgoztak ki a perovszkit napelem modulok hatékonyságának és stabilitásának javítására ólom-karboxilát passziválással. Ez jelentős lépés a perovszkit technológia szélesebb körű alkalmazása felé a megújuló energiaforrások területén.",
+      "title": "A globális fotovoltaikus hulladék újrahasznosításának jövője a fenntarthatóságért",
+      "summary": "A tudományos kutatás a globális fotovoltaikus (napelem) hulladék újrahasznosításának egyenlőbb és fenntarthatóbb jövőjére összpontosít. Ez a munka kulcsfontosságú a napelemek térnyerésével járó környezeti kihívások kezeléséhez.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Távozik a Barcelonától a magyar válogatott kapusa",
-      "summary": "A magyar válogatott kapusa távozik a Barcelona csapatától. Ez jelentős változást jelent karrierjében és befolyásolhatja a magyar labdarúgást is.",
+      "title": "Kós Hubert aranyérmet szerzett 200 méteres hátúszásban az Európa-bajnokságon",
+      "summary": "Kós Hubert történelmi aranyérmet szerzett 200 méteres hátúszásban az Európa-bajnokságon, ezzel kiemelkedő magyar sportsikert ért el. Teljesítménye rendkívül fontos a magyar úszósport számára.",
       "importance": 5
     },
     {
-      "title": "Lemond a Magyar Sportújságírók Szövetségének teljes elnöksége, Szöllősi György is távozik",
-      "summary": "Lemondott a Magyar Sportújságírók Szövetségének (MSÚSZ) teljes elnöksége, beleértve Szöllősi György elnököt is. A döntés komoly átszervezést jelenthet a hazai sportújságírásban.",
+      "title": "Rekordösszegért, 12,5 milliárd dollárért adták el a Los Angeles Lakerst",
+      "summary": "A Los Angeles Lakers kosárlabdacsapatot rekordösszegért, 12,5 milliárd dollárért adták el, ami a sporttörténelem egyik legnagyobb üzlete. Ez az esemény jelentős hatással van a profi sport pénzügyi világára és a NBA-re.",
+      "importance": 5
+    },
+    {
+      "title": "Lemondott a Magyar Sportújságírók Szövetségének teljes elnöksége",
+      "summary": "Lemondott a Magyar Sportújságírók Szövetségének (MSÚSZ) teljes elnöksége, beleértve Szöllősi György elnököt is. Ez a lépés jelentős változásokat hozhat a magyar sportújságírásban.",
+      "importance": 4
+    },
+    {
+      "title": "Életveszélyes sérülést szenvedett egy spanyol kerékpáros a Budapest Grand Prix-n",
+      "summary": "Életveszélyes sérülést szenvedett egy spanyol kerékpáros a Budapest Grand Prix-n, ami miatt a döntőt félbe kellett szakítani. Az eset rávilágít a versenysport veszélyeire és a biztonsági protokollok fontosságára.",
       "importance": 4
     }
   ]

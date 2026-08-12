@@ -233,6 +233,11 @@
   ],
   "BBC": [
     {
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "link": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse."
+    },
+    {
       "title": "Watch: Solar eclipse seen over UK skies",
       "link": "https://www.bbc.co.uk/news/videos/cwym2w32rn0o?at_medium=RSS&at_campaign=rss",
       "summary": "Millions of people in the UK and Europe have been wowed by a once-in-a-generation solar eclipse."
@@ -301,14 +306,19 @@
       "title": "'Rot in prison', relatives tell double murderer and rapist",
       "link": "https://www.bbc.co.uk/news/articles/cwyj27e4xlwo?at_medium=RSS&at_campaign=rss",
       "summary": "Simon Levy is jailed for life after murdering two women and raping another."
-    },
-    {
-      "title": "These seaside apartments were a ghost city - then police say scammers moved in",
-      "link": "https://www.bbc.co.uk/news/articles/cx2kvlye1k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Malaysia's Forest City was pitched as \"paradise\" but last month police raided it over alleged scam operations."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
+    },
+    {
+      "title": "AI nuclear power firm Fermi finally has a new CEO",
+      "link": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+      "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post."
+    },
     {
       "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
       "link": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
@@ -373,17 +383,83 @@
       "title": "Facebook officially rolls out its stand-alone Creator Studio app with AI tools for creators",
       "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
       "summary": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals."
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "link": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-    },
-    {
-      "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-      "link": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-      "summary": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "link": "https://www.nature.com/articles/s41586-026-10994-7",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a></p>Lead carboxylates passivation for meter-scale perovskite solar modules"
+    },
+    {
+      "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10773-4",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10773-4\">doi:10.1038/s41586-026-10773-4</a></p>Reply to: Pre-clinical data interpretation requires clinical context"
+    },
+    {
+      "title": "Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10774-3",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10774-3\">doi:10.1038/s41586-026-10774-3</a></p>Pre-clinical data interpretation requires clinical context"
+    },
+    {
+      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+      "link": "https://www.nature.com/articles/d41586-026-02463-y",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02463-y\">doi:10.1038/d41586-026-02463-y</a></p>Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy."
+    },
+    {
+      "title": "Rattlesnakes’ own anti-venom could protect humans too",
+      "link": "https://www.nature.com/articles/d41586-026-02461-0",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02461-0\">doi:10.1038/d41586-026-02461-0</a></p>A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom."
+    },
+    {
+      "title": "The probiotic bacteria engineered to treat diabetes",
+      "link": "https://www.nature.com/articles/d41586-026-02521-5",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02521-5\">doi:10.1038/d41586-026-02521-5</a></p>Genetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely."
+    },
+    {
+      "title": "Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10787-y",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10787-y\">doi:10.1038/s41586-026-10787-y</a></p>Dataset artefacts can partially drive the measured decline in disruption"
+    },
+    {
+      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10788-x",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10788-x\">doi:10.1038/s41586-026-10788-x</a></p>Reply to: Dataset artefacts can partially drive the measured decline in disruption"
+    },
+    {
+      "title": "Agentic profiles for effective AI governance",
+      "link": "https://www.nature.com/articles/s41586-026-10805-z",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10805-z\">doi:10.1038/s41586-026-10805-z</a></p>A framework comprising four dimensions—autonomy, efficacy, goal complexity and generality—is proposed for characterizing AI agents, supporting the construction of agentic profiles for the effective governance of different AI agents."
+    },
+    {
+      "title": "Glucose-responsive probiotics for glycaemic modulation in mice and monkeys",
+      "link": "https://www.nature.com/articles/s41586-026-10909-6",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10909-6\">doi:10.1038/s41586-026-10909-6</a></p>Engineered probiotics equipped with a synthetic glucose-responsive circuit transiently colonize the gut and secrete therapeutic factors when glucose levels increase, enabling safe, oral, sense-and-respond control of diabetes in mouse and primate models."
+    },
+    {
+      "title": "Temporal uncoupling of radial glia lineage progression in cortical organoids",
+      "link": "https://www.nature.com/articles/s41586-026-10916-7",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10916-7\">doi:10.1038/s41586-026-10916-7</a></p>RGP lineage tracing in stem-cell-derived organoids shows highly plastic proliferation and reduced clonal neuronal diversity, indicating that missing non-cell-autonomous niche cues are essential for faithful temporal control of cortical lineage progression."
+    },
+    {
+      "title": "Shared principles of human and bacterial antiviral immunity",
+      "link": "https://www.nature.com/articles/s41586-026-10756-5",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10756-5\">doi:10.1038/s41586-026-10756-5</a></p>The Review describes shared ancient, conserved mechanisms between human antiviral immunity and bacterial anti-phage systems, outlining universal principles of pathogen sensing, signalling and effector function that reveal common rules governing host–virus interactions across life."
+    },
+    {
+      "title": "Cascading continental-scale floods across Europe in 1342–1343",
+      "link": "https://www.nature.com/articles/s41586-026-10888-8",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10888-8\">doi:10.1038/s41586-026-10888-8</a></p>Tracing cascading continental-scale medieval megafloods across Europe indicates that current flood management is unprepared for such sequences, highlighting the urgent need for proactive flood risk management strategies that account for unusual series of extreme flood events."
+    },
+    {
+      "title": "Rb-driven transcription limits its tumour-suppressive effects in breast cancer",
+      "link": "https://www.nature.com/articles/s41586-026-10886-w",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10886-w\">doi:10.1038/s41586-026-10886-w</a></p>CDK4/6 inhibition redirects Rb chromatin occupancy to activate oestrogen-responsive genes, counteracting its own ability to maintain therapeutic cell-cycle arrest."
+    },
+    {
+      "title": "Procognitive restoration of PV neuron plasticity in neurodevelopmental disorders",
+      "link": "https://www.nature.com/articles/s41586-026-10907-8",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10907-8\">doi:10.1038/s41586-026-10907-8</a></p>Expression of Meis2 in hippocampal parvalbumin-expressing interneurons in an adult mouse model of neurodevelopmental disorders rescues experience-dependent plasticity, improves memory and network function and suppresses seizures."
+    }
+  ]
 }

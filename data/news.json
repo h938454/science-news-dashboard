@@ -79,6 +79,11 @@
   "Portfolio": [],
   "444": [
     {
+      "title": "Dunába vizet",
+      "link": "https://444.hu/2026/08/14/dunaba-vizet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A paksi akció, a fideszesek kálváriái, a Németország elleni drónháború és Kína hőstette a 444 reggeli hírlevelében."
+    },
+    {
       "title": "Vidnyánszky Attila azt mondja, péntek reggel menesztik a Nemzeti éléről",
       "link": "https://444.hu/2026/08/13/vidnyanszky-szerint-pentek-reggel-menesztik-a-nemzeti-elerol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Az ATV-ben arról beszélt, közös megegyezést csak akkor ír alá, ha szakmai okokból kell távoznia. Ha nem írja alá, felmentik. Tarr Zoltán is reagált, a posztjában azt írta, valótlanságokat állított az igazgató, de magát a menesztést konkrétan nem cáfolta."
@@ -147,11 +152,6 @@
       "title": "Baranyában is megjelent a sertéspestis",
       "link": "https://444.hu/2026/08/13/baranyaban-is-megjelent-a-sertespestis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A vírus emberre nem veszélyes, az állatokra viszont igen."
-    },
-    {
-      "title": "Három hektáron főzött",
-      "link": "https://444.hu/2026/08/13/harom-hektaron-fozott?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy összetákolt tűzrakóhelyen próbált főzni egy nő, három hektár gyulladt ki."
     }
   ],
   "HVG": [
@@ -233,14 +233,14 @@
   ],
   "BBC": [
     {
-      "title": "Two seriously hurt as passenger train derails in East Sussex",
-      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter."
-    },
-    {
       "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
       "summary": "Multiple fires burned across the West Midlands and destroyed homes."
+    },
+    {
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter."
     },
     {
       "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
@@ -258,9 +258,9 @@
       "summary": "Phillip Ormerod was taken to hospital in critical condition and later died, police have confirmed."
     },
     {
-      "title": "The key signs you may have damaged your eyes by looking at the eclipse",
-      "link": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision"
+      "title": "'Two out of four, baby' - Hunt wins 200m as she eyes historic quadruple",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/c1e1ype5q0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Britain's Amy Hunt charges to 200m glory to secure her second European Championships gold medal - but the sprinter has her sights set on a historic quadruple in Birmingham."
     },
     {
       "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
@@ -268,9 +268,9 @@
       "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks."
     },
     {
-      "title": "Honeytrap thieves jailed for killing men they had drugged",
-      "link": "https://www.bbc.co.uk/news/articles/cz972klkpkxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Adina Mihai and Madalin Dumitru gave their victims the drug GBL to render them unconscious."
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany."
     },
     {
       "title": "Mangione lawyers to meet federal prosecutors amid reports of plea deal",
@@ -309,6 +309,21 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+      "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+      "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup."
+    },
+    {
+      "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+      "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+      "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness."
+    },
+    {
+      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
+    },
     {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
@@ -368,21 +383,6 @@
       "title": "Who really needs a cocktail robot?",
       "link": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
       "summary": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks."
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-    },
-    {
-      "title": "In a first, US will allow some private firms to carry out cyberattacks",
-      "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-      "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations."
-    },
-    {
-      "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-      "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot."
     }
   ],
   "Nature": [
@@ -415,6 +415,11 @@
       "title": "Why China should reassess how it rewards young scientists",
       "link": "https://www.nature.com/articles/d41586-026-02525-1",
       "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02525-1\">doi:10.1038/d41586-026-02525-1</a></p>Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers."
+    },
+    {
+      "title": "Ancient rise in CO<sub>2</sub> was catastrophic for forests: what that means for today’s plants",
+      "link": "https://www.nature.com/articles/d41586-026-02544-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02544-y\">doi:10.1038/d41586-026-02544-y</a></p>A widespread dieback of forests due to climate change 56 million years ago has parallels with today."
     },
     {
       "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
@@ -455,11 +460,6 @@
       "title": "Dataset artefacts can partially drive the measured decline in disruption",
       "link": "https://www.nature.com/articles/s41586-026-10787-y",
       "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10787-y\">doi:10.1038/s41586-026-10787-y</a></p>Dataset artefacts can partially drive the measured decline in disruption"
-    },
-    {
-      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
-      "link": "https://www.nature.com/articles/s41586-026-10788-x",
-      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10788-x\">doi:10.1038/s41586-026-10788-x</a></p>Reply to: Dataset artefacts can partially drive the measured decline in disruption"
     }
   ]
 }

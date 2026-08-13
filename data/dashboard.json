@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Késhet a Paks II. beruházás, a Roszatom a lakosság jólétére gyakorolt hatásokra figyelmeztet",
-      "summary": "A kormány tájékoztatót tart a paksi beruházásról, miközben a Roszatom vezetője szerint a projekt késése hátrányosan befolyásolná a lakosság jólétét. Magyar Péter is ismerteti a helyzetet.",
+      "title": "Katasztrófális termést jósolnak az országos aszály miatt, Szegednél négyzetméterenként 200 liter víz hiányzik a talaj felső rétegéből",
+      "summary": "Az országos aszályhelyzet miatt katasztrofális termésátlagokra számítanak Magyarországon. Különösen súlyos a helyzet Szeged környékén, ahol a talaj felső rétegéből négyzetméterenként 200 liter víz hiányzik, súlyos gazdasági következményekkel járva.",
       "importance": 5
     },
     {
-      "title": "MNB-botrány: Dokumentumokat adott át a jegybank az ügyészségnek az alapítványi ügyben",
-      "summary": "A Magyar Nemzeti Bank átadta az ügyészségnek a Matolcsy-féle jegybanki alapítványok ügyével kapcsolatos dokumentumokat. A botrány pénzügyi és politikai vonatkozásai miatt is kiemelten fontos.",
-      "importance": 4
-    },
-    {
-      "title": "Jogsértőnek ítélték Rogánék vakcinainfós propagandáját",
-      "summary": "Az Orbán-kormány jogsértően spammelte propagandával az oltásregisztrációs oldalra regisztráltakat. A döntés rávilágít a kormányzati kommunikáció és az adatkezelés etikai kérdéseire.",
-      "importance": 4
-    },
-    {
-      "title": "Gyerekvédelmi intézmény otthonvezetője fogdosott kislányokat egy balatoni táborban",
-      "summary": "Egy gyerekvédelmi intézmény otthonvezetője gyanúsítható azzal, hogy a rábízott kislányokat fogdosta egy balatoni táborban. Az eset súlyos kérdéseket vet fel a gyermekvédelem hatékonyságáról és biztonságáról.",
+      "title": "MNB-botrány: dokumentumokat adott át az ügyészségnek a Magyar Nemzeti Bank",
+      "summary": "A Magyar Nemzeti Bank átadta az ügyészségnek azokat az iratokat, amelyek a jegybanki alapítványi vagyon Matolcsy Györgyhöz közel álló köröknek való átjátszásával kapcsolatosak. Ez a lépés előremozdíthatja a botrány kivizsgálását és a felelősségre vonást.",
       "importance": 5
+    },
+    {
+      "title": "A Roszatom Paks II.-ről: Tartjuk magunkat az egyeztetett tervhez. Magyar Péter: Azért vannak kétségeim",
+      "summary": "A Roszatom megerősítette, hogy tartja magát a Paks II. bővítésére vonatkozó egyeztetett tervhez, míg Magyar Péter kétségeit fejezte ki a projekt megvalósíthatóságával és átláthatóságával kapcsolatban. A projekt sorsa továbbra is kiemelt politikai és gazdasági vita tárgya.",
+      "importance": 5
+    },
+    {
+      "title": "Nagy mozgás jön az Alkotmánybíróságon, pár hónapra új elnökhelyettest választottak",
+      "summary": "Jelentős személyi változások várhatók az Alkotmánybíróságon, mivel az intézmény pár hónapra új elnökhelyettest választott. Ez a döntés befolyásolhatja az Alkotmánybíróság jövőbeli működését és az alkotmányos joggyakorlatot.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Dróntámadások és diplomáciai feszültségek árnyékolják be az ukrajnai háborút",
-      "summary": "Oroszország ukrán személyvonatot lőtt ki Odesszában, miközben egy orosz finomító is leállhat ukrán dróntámadás után. Eközben Nobel-békedíjas bírálja Putyin győzelmi állításait, és a britek orosz tankert foglaltak le.",
+      "title": "Oroszország drónnal lőtt ki egy ukrán személyvonatot Odesszában",
+      "summary": "Oroszország dróntámadást hajtott végre egy ukrán személyvonat ellen Odesszában, amely jelentős károkat okozott. A támadás tovább fokozza a polgári infrastruktúra elleni agressziót az orosz-ukrán háborúban.",
       "importance": 5
     },
     {
-      "title": "Fokozódik a feszültség a Közel-Keleten, amerikai nagykövet terroristának nevezte a telepeseket",
-      "summary": "Egy amerikai nagykövet terroristának nevezte a palesztinokat blokád alatt tartó zsidó telepeseket. Eközben több katonát küldenek a Jordán-parti faluba, amelyet izraeli telepesek ostromoltak.",
-      "importance": 4
+      "title": "Már az év ötödik hőkupolája terpeszkedik Európára, 135 millióan szenvednek a 35 fokban",
+      "summary": "Idén már az ötödik hőkupola sújtja Európát, ami miatt mintegy 135 millió ember szenved a 35 fokos hőségben. Az extrém időjárási jelenség komoly egészségügyi és környezeti kihívásokat jelent a kontinensen.",
+      "importance": 5
     },
     {
       "title": "Az afgán nők fele szinte már el sem hagyja otthonát",
-      "summary": "Az afganisztáni nők helyzete drámaian romlott, felük már alig hagyja el az otthonát a tálibok szigorú korlátozásai miatt. Ez súlyos humanitárius és emberi jogi válságra utal.",
-      "importance": 4
+      "summary": "Az afgán nők helyzete drámaian romlott, felük szinte már egyáltalán nem hagyja el otthonát a tálibok által bevezetett korlátozások miatt. Ez súlyos emberi jogi aggályokat vet fel és elszigeteli a nőket a társadalmi élettől.",
+      "importance": 5
     },
     {
-      "title": "Robbanás történt a rotterdami kikötőben, egy halálos áldozat",
-      "summary": "Halálos áldozatot követelt egy robbanás Európa egyik legnagyobb kikötőjében, Rotterdamban. Az eset kivizsgálása folyamatban van, a biztonsági protokollok felülvizsgálata várható.",
-      "importance": 3
+      "title": "Több katonát vezényelnek egy izraeli telepesek által ostromolt ciszjordániai faluba",
+      "summary": "További katonákat vezényelnek egy ciszjordániai faluba, amelyet izraeli telepesek ostromoltak, növelve a feszültséget a régióban. A lépés célja a helyi palesztin lakosság védelme és a további konfliktusok megelőzése.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI kódoló startup, a Cognition 40 milliárd dolláros értékelés mellett tárgyal befektetőkkel",
-      "summary": "A Cognition nevű AI kódoló startup a hírek szerint már 40 milliárd dolláros értékelés mellett tárgyal befektetőkkel. Ez jól mutatja a mesterséges intelligencia szektorba áramló hatalmas tőkét és a piaci optimizmust.",
-      "importance": 4
-    },
-    {
-      "title": "Az AI biztonsági aggodalmak erősödésével a pionírok az „nyitott” megközelítés mellett érvelnek",
-      "summary": "Mivel egyre több aggodalom merül fel az AI biztonságával kapcsolatban, három úttörő kutató amellett érvel, hogy a technológiának nyitottnak és hozzáférhetőnek kell maradnia. Ez a vita alapvető a mesterséges intelligencia jövőjére nézve.",
+      "title": "Az Egyesült Államok először engedélyezi magáncégeknek kibertámadások végrehajtását",
+      "summary": "Az Egyesült Államok története során először engedélyezi egyes magáncégeknek, hogy kibertámadásokat hajtsanak végre. Ez a döntés jelentős változást hoz a kiberbiztonsági stratégiában és a nemzetközi kiberhadviselésben.",
       "importance": 5
     },
     {
-      "title": "Az Amazon alapértelmezetten használja a Twitch streamerek tartalmát AI-tanításhoz, hacsak nem tiltják le",
-      "summary": "Az Amazon a Twitch streamerek tartalmát alapértelmezetten felhasználja AI-modelljeinek képzésére, hacsak a felhasználók nem kapcsolják ki ezt a funkciót. Ez adatvédelmi aggodalmakat vet fel a felhasználói tartalmak kezelésével kapcsolatban.",
+      "title": "Az Amazon alapértelmezetten felhasználja a Twitch streamerek tartalmát AI-képzésre, hacsak nem tiltakoznak",
+      "summary": "Az Amazon alapértelmezetten felhasználja a Twitch streamerek tartalmát mesterséges intelligencia modellek képzésére, kivéve, ha a streamerek külön tiltják ezt. Ez a lépés adatvédelmi aggályokat vet fel, és befolyásolhatja a tartalomkészítők jogait.",
       "importance": 4
     },
     {
-      "title": "Néhány Claude felhasználó elégedetlen az Anthropic új vízjelezésével, ami leleplezheti őket",
-      "summary": "Az Anthropic új vízjelezése a Claude AI-ban felháborodást váltott ki a felhasználók körében, mivel az leleplezheti őket munkahelyi vagy iskolai használat közben. Ez adatvédelmi és etikai kérdéseket vet fel az AI-eszközök használatával kapcsolatban.",
-      "importance": 3
+      "title": "Az Apple tárgyal a kiadókkal, hogy fizessen nekik a Siri számára nyújtott hírekért",
+      "summary": "Az Apple tárgyalásokat folytat kiadókkal arról, hogy fizessen nekik, ha friss híreket szolgáltatnak a Siri számára. Ez a lépés jelezheti az Apple azon szándékát, hogy bővítse az AI-asszisztensének tartalmát és növelje a hírmédiával való együttműködést.",
+      "importance": 4
+    },
+    {
+      "title": "A Tesla 10 milliárd dolláros napenergia gyárat építene Texasban",
+      "summary": "A Tesla állítólag egy 10 milliárd dolláros napenergia gyárat tervez építeni Texasban. Ez a nagyszabású beruházás jelentős lendületet adhat a megújuló energia szektornak és új munkahelyeket teremthet az államban.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Gépi úton módosított probiotikus baktériumok ígéretesek a cukorbetegség kezelésében",
-      "summary": "Kutatók gépi úton módosított probiotikus baktériumokat fejlesztenek, amelyek képesek lehetnek a cukorbetegség kezelésére. Az egereken és majmokon végzett vizsgálatok ígéretes eredményeket hoztak a glikémiás kontroll javításában.",
-      "importance": 5
-    },
-    {
-      "title": "Csörgőkígyók saját méreganyagai segíthetnek az emberek mérgezés elleni védelmében",
-      "summary": "A kutatók felfedezték, hogy a csörgőkígyók saját méregellenes anyagai védelmet nyújthatnak az emberek számára is a kígyómarások ellen. Ez új utakat nyithat meg a hatékonyabb ellenszerek kifejlesztésében.",
+      "title": "Szegedi kutatók felfedeztek valamit a bélrendszerben, megoldást jöhet a gyakori emésztőrendszeri gondokra",
+      "summary": "Szegedi kutatók áttörő felfedezést tettek a bélrendszer működésével kapcsolatban, ami új megoldásokat kínálhat a gyakori emésztőrendszeri problémákra. Ez a tudományos áttörés javíthatja sok ember életminőségét.",
       "importance": 4
     },
     {
-      "title": "Óriási ballonnal nyílik új perspektíva a Tejútrendszer középpontjára",
-      "summary": "Egy óriási ballon segítségével új és részletesebb képet kaphatunk a Tejútrendszer középpontjáról. Ez a megfigyelés hozzájárulhat a galaxisunk szerkezetének és fejlődésének jobb megértéséhez.",
+      "title": "Mi lehet az, ami hatásosabban véd a malária ellen, mint az oltás?",
+      "summary": "Kutatók egy új megközelítést vizsgálnak, amely hatékonyabb védelmet nyújthat a malária ellen, mint a jelenlegi oltások. Ez a potenciális áttörés milliárdok életét menthetné meg világszerte.",
       "importance": 4
     },
     {
-      "title": "Ólom-karboxilát passziválás méteres méretű perovskit napelem modulokhoz",
-      "summary": "A kutatók új eljárást fejlesztettek ki, amely ólom-karboxilát passziválással javítja a méteres méretű perovskit napelem modulok hatékonyságát. Ez áttörést jelenthet a hatékonyabb és olcsóbb napenergia-technológiák fejlesztésében.",
-      "importance": 4
+      "title": "A fő jelek, amelyek arra utalhatnak, hogy megsérült a szeme a napfogyatkozás nézésekor",
+      "summary": "Szakértők figyelmeztetnek azokra a kulcsfontosságú jelekre, amelyek arra utalhatnak, hogy valaki szemsérülést szenvedett a napfogyatkozás megfigyelése közben. Fontos tudni, milyen tünetekre kell figyelni a látáskárosodás elkerülése érdekében.",
+      "importance": 3
+    },
+    {
+      "title": "Durván megbírságoltak a Spitzbergákon egy turistát, mert felébresztett egy jegesmedvét",
+      "summary": "Egy turistát súlyosan megbírságoltak a Spitzbergákon, amiért felébresztett egy jegesmedvét, megsértve ezzel a vadon élő állatok védelmére vonatkozó szabályokat. Az eset rávilágít a természetvédelem fontosságára és a szabályok betartásának szükségességére.",
+      "importance": 2
     }
   ],
   "sports": [
     {
       "title": "Lengyel ultrák támadták meg a Ferencváros szurkolóit Zabrzében, egy magyar férfi lába eltört",
-      "summary": "Lengyel futball ultrák támadták meg a Ferencváros szurkolóit a lengyelországi Zabrzében, melynek során egy magyar férfi lába eltört és kórházba került. Az eset a sporttal összefüggő erőszak aggasztó példája.",
-      "importance": 3
+      "summary": "Lengyel ultrák támadták meg a Ferencváros szurkolóit egy Európa-liga mérkőzés előtt Zabrzében, amelynek során egy magyar férfi lába is eltört. A támadás beárnyékolta a sporteseményt és feszültséget okozott a szurkolók között.",
+      "importance": 4
+    },
+    {
+      "title": "A Sports Direct tulajdonosa felvásárolta a Harvey Nichols-t",
+      "summary": "A Sports Direct tulajdonosa felvásárolta a luxusáruházlánc Harvey Nichols-t, ezzel tovább bővítve kiskereskedelmi portfólióját. Ez az üzleti tranzakció jelentős átrendeződést hoz a kiskereskedelmi szektorban.",
+      "importance": 2
+    },
+    {
+      "title": "Nincs menekvés: hétvégére visszatér a kánikula",
+      "summary": "A hétvégén ismét visszatér a kánikula, amely magas hőmérsékletekkel sújtja az országot. Az időjárás hatással lehet a szabadtéri tevékenységekre és a sporteseményekre is, óvatosságra intve a lakosságot.",
+      "importance": 1
+    },
+    {
+      "title": "Büntetőeljárás indult a Sebestyén Balázs DJ Oti-buliján történt rosszullétek miatt",
+      "summary": "Büntetőeljárás indult egy Sebestyén Balázs és DJ Oti által szervezett rendezvényen történt tömeges rosszullétek ügyében. Az eset a nagyszabású nyilvános események, így a sportrendezvények biztonságának fontosságára hívja fel a figyelmet.",
+      "importance": 1
     }
   ]
 }

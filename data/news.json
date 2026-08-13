@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Az izlandi és a lett bajnok írta ki a Győrt a nemzetközi kupából",
+      "link": "https://telex.hu/sport/2026/08/13/gyor-nemzetkozi-kupaszereples-izland-lett",
+      "summary": "A magyar bajnok sem a Víkingur Reykjavikot, sem a lett FC Rigát nem tudta hazai pályán legyőzni."
+    },
+    {
+      "title": "Függetlenebbé teszik az agrárkamarát, megjelentek az új összeférhetetlenségi szabályok",
+      "link": "https://telex.hu/gazdasag/2026/08/13/agrarkamara-fuggetlenedes-magyar-kozlony",
+      "summary": "Megjelent a törvény a részletekről."
+    },
+    {
       "title": "Milák: Azon gondolkodtam, mi lenne, ha edzenék is",
       "link": "https://telex.hu/sport/2026/08/13/milak-nyilatkozat-4x100-gyozelem-mi-lenne-ha-edzene",
       "summary": "Milák Kristóf bő egy órán belül kétszer kápráztatta el a világot, előbb 100 pillangón, aztán a 4x100-as gyorsváltóban. Mindkétszer aranyat ünnepelhetett."
@@ -64,16 +74,6 @@
       "title": "A Nemzeti Színház korábbi operatív vezetője veheti át a soproni színház váratlanul távozó igazgatójának helyét",
       "link": "https://telex.hu/belfold/2026/08/13/soproni-petofi-szinhaz-kiss-jozsef-tavozik-fulop-peter-nemzeti-szinhaz",
       "summary": "A Fidesz–KDNP többségű önkormányzat elégedetlen volt a színház nézőszámával és műsorpolitikájával."
-    },
-    {
-      "title": "Milák Kristóf szenzációs hajrával nyerte meg a 100 pillangó Európa-bajnoki aranyát",
-      "link": "https://telex.hu/sport/2026/08/13/milak-kristof-kos-hubert-europa-bajnoksag-100-pillango-donto",
-      "summary": "Mindössze három századdal maradt el a világcsúcstól, Kós Hubert a negyedik."
-    },
-    {
-      "title": "Nem adja vissza a mandátumát a Fidesz-frakcióból kizárt újbudai önkormányzati képviselő",
-      "link": "https://telex.hu/belfold/2026/08/13/fidesz-ujbuda-kizaras-balogh-peter-kiraly-nora",
-      "summary": "Balogh Péter szerint ő már azelőtt kilépett, hogy kizárását bejelentették."
     }
   ],
   "Portfolio": [],
@@ -233,9 +233,14 @@
   ],
   "BBC": [
     {
-      "title": "Watch: Houses engulfed in flames across Stourbridge",
+      "title": "Two seriously hurt as passenger train derails in East Sussex",
+      "link": "https://www.bbc.co.uk/news/articles/cz972d30l30o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"It was pandemonium... I could feel the carriage rocking,\" says one passenger who was on the train with his six-year-old daughter."
+    },
+    {
+      "title": "Watch: Aerial footage shows homes engulfed in flames in Stourbridge",
       "link": "https://www.bbc.co.uk/news/videos/c3v0ykk4lplo?at_medium=RSS&at_campaign=rss",
-      "summary": "Multiple fires burned across the West Midlands and destroyed homes there."
+      "summary": "Multiple fires burned across the West Midlands and destroyed homes."
     },
     {
       "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
@@ -273,9 +278,9 @@
       "summary": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison."
     },
     {
-      "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
-      "link": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea."
+      "title": "BBC Verify speaks to woman who filmed ICE agent pointing gun at her",
+      "link": "https://www.bbc.co.uk/news/videos/c1m12m12nzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has examined footage shared by a Virginia woman in which an ICE agent points his gun at her."
     },
     {
       "title": "How to get a good night's sleep during hot weather",
@@ -298,17 +303,17 @@
       "summary": "From what to wear to getting a restful night's sleep, you share your tips for beating the heat."
     },
     {
-      "title": "Are the UK's top universities really 'hoovering up' students?",
-      "link": "https://www.bbc.co.uk/news/articles/cddjp8gq0njo?at_medium=RSS&at_campaign=rss",
-      "summary": "The most selective universities have seen the biggest rise in students accepted onto their courses for 2026."
-    },
-    {
-      "title": "'I worked really hard and it paid off': Elation, nerves and proud parents as students get results",
-      "link": "https://www.bbc.co.uk/news/articles/c4gd47j24wyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Ukrainian refugee, a firefighter and triplets are among the students reacting to their results."
+      "title": "Count Binface has taken on three PMs and lost - but could this be his best ever performance?",
+      "link": "https://www.bbc.co.uk/news/articles/ce97mm3vvemo?at_medium=RSS&at_campaign=rss",
+      "summary": "The self-styled intergalactic space warrior wears a giant silver bin on his head and a silver cloak."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+    },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -332,7 +337,7 @@
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
       "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "Dali Rajic will take over as OpenAI's top salesperson."
+      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
     },
     {
       "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
@@ -378,12 +383,83 @@
       "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
       "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot."
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10959-w\">doi:10.1038/s41586-026-10959-w</a></p>Author Correction: Structural mechanism of cGAS inhibition by the nucleosome"
+    },
+    {
+      "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+      "link": "https://www.nature.com/articles/s41586-026-10960-3",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10960-3\">doi:10.1038/s41586-026-10960-3</a></p>Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain"
+    },
+    {
+      "title": "How to make your science business succeed when you’re a female founder",
+      "link": "https://www.nature.com/articles/d41586-026-01904-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01904-y\">doi:10.1038/d41586-026-01904-y</a></p>Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up."
+    },
+    {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "link": "https://www.nature.com/articles/d41586-026-02503-7",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02503-7\">doi:10.1038/d41586-026-02503-7</a></p>New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations."
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02494-5\">doi:10.1038/d41586-026-02494-5</a></p>An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed."
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "link": "https://www.nature.com/articles/d41586-026-02525-1",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02525-1\">doi:10.1038/d41586-026-02525-1</a></p>Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers."
+    },
+    {
+      "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "link": "https://www.nature.com/articles/d41586-026-02502-8",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02502-8\">doi:10.1038/d41586-026-02502-8</a></p>Moderna’s newly approved vaccine could allow manufacturers to respond more rapidly to changing influenza strains."
+    },
+    {
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "link": "https://www.nature.com/articles/s41586-026-10994-7",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a></p>Lead carboxylates passivation for meter-scale perovskite solar modules"
+    },
+    {
+      "title": "Reply to: Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10773-4",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10773-4\">doi:10.1038/s41586-026-10773-4</a></p>Reply to: Pre-clinical data interpretation requires clinical context"
+    },
+    {
+      "title": "Pre-clinical data interpretation requires clinical context",
+      "link": "https://www.nature.com/articles/s41586-026-10774-3",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10774-3\">doi:10.1038/s41586-026-10774-3</a></p>Pre-clinical data interpretation requires clinical context"
+    },
+    {
+      "title": "Giant balloon gives rise to new view of the Milky Way’s centre",
+      "link": "https://www.nature.com/articles/d41586-026-02463-y",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02463-y\">doi:10.1038/d41586-026-02463-y</a></p>Airborne camera gathers data about the high-energy particles emanating from the core of our Galaxy."
+    },
+    {
+      "title": "Rattlesnakes’ own antivenom could protect humans too",
+      "link": "https://www.nature.com/articles/d41586-026-02461-0",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02461-0\">doi:10.1038/d41586-026-02461-0</a></p>A mixture of proteins in snake blood can prevent the death of mice injected with an otherwise lethal dose of venom."
+    },
+    {
+      "title": "The probiotic bacteria engineered to treat diabetes",
+      "link": "https://www.nature.com/articles/d41586-026-02521-5",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02521-5\">doi:10.1038/d41586-026-02521-5</a></p>Genetically modified bacteria lower high blood-sugar in animal trials — plus, how to watch a solar eclipse safely."
+    },
+    {
+      "title": "Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10787-y",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10787-y\">doi:10.1038/s41586-026-10787-y</a></p>Dataset artefacts can partially drive the measured decline in disruption"
+    },
+    {
+      "title": "Reply to: Dataset artefacts can partially drive the measured decline in disruption",
+      "link": "https://www.nature.com/articles/s41586-026-10788-x",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10788-x\">doi:10.1038/s41586-026-10788-x</a></p>Reply to: Dataset artefacts can partially drive the measured decline in disruption"
+    }
+  ]
 }

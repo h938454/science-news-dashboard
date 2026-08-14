@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "A FIFA elnöke kirobbantotta a futball-polgárháborút, és lehet, hogy bele is fog bukni",
+      "link": "https://telex.hu/sport/2026/08/14/fifa-uefa-gianni-infantino-futball-foci-vb-bojkott-botrany",
+      "summary": "A rekordbevételt hozó vb után Gianni Infantino a botrányok ellenére is készülhetett a harmadik elnöki ciklusára a nemzetközi szövetség élén. Aztán kiderült, hogy befektetőknek árusítaná ki a futballt, és ebből akkora felháborodás lett, hogy elképzelhető, a következő választásig sem fogja húzni."
+    },
+    {
+      "title": "A Magyar Színházi Társaság elfogadhatatlannak tartja Vidnyánszky valótlan állításait, gyalázkodó hangnemét",
+      "link": "https://telex.hu/belfold/2026/08/14/magyar-szinhazi-tarsasag-vidnyanszky-lekezelo-banto-hangnem-1",
+      "summary": "A Nemzeti Színház igazgatója többekbe is beleszállt egy ATV-s interjúban, erre reagált most az egyik szakmai szervezet."
+    },
+    {
       "title": "A statisztikák kezdete óta nem termett olyan kevés alma Magyarországon, mint amennyi idénre várható",
       "link": "https://telex.hu/gazdasag/2026/08/14/alma-termektanacs-almatermes-aszaly",
       "summary": "A tavalyi szüret volt az addigi legrosszabb, az idei még 20 százalékkal rosszabbra sikerülhet."
@@ -64,16 +74,6 @@
       "title": "Minden magyar jól van a külügy szerint az erdőtűz által érintett horvát térségben",
       "link": "https://telex.hu/kulfold/2026/08/14/orban-anita-omisi-erdotuz-minden-magyar-jol-van",
       "summary": "Orbán Anita külügyminiszter azt mondta, hogy senki sem kért a konzuli szolgálat segítségét a hazajutásban."
-    },
-    {
-      "title": "Milák edzője: Egy kiégés szélén álló sportoló megtalálta önmagát",
-      "link": "https://telex.hu/sport/2026/08/14/milak-kristof-edzo-szabo-almos-kieges",
-      "summary": "Milák Kristóf a pillangó mellett gyorson is hatalmas tempóban úszott, két arany lett a jutalma."
-    },
-    {
-      "title": "Egy uniós eljárás és a magántőkealapos háttér vezetett Mészárosék pályázati kizárásához",
-      "link": "https://telex.hu/gazdasag/2026/08/14/eu-helyreallitasi-alap-energia-palyazat-mfb-opus-titasz",
-      "summary": "Pár nappal a hirtelen kizárása előtt az Opus Titász még tízmilliárdokat nyert el az uniós helyreállítási alapból kiírt pályázatokon. A helyreállítási terv módosításában a kormány vállalta a magántőkealapok átláthatóvá tételét, a cég ennek nem felelt meg, de szerintük csak adatfeltöltési hibák miatt."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,16 @@
   ],
   "HVG": [
     {
+      "title": "Magyar Péter: szombat hajnalban kezdődik a bárkák elsüllyesztése Paksnál",
+      "link": "https://hvg.hu/itthon/20260814_magyar-peter-barkak-elsullyesztese-paks",
+      "summary": "Szombat reggel hat mérőhajó érkezik Bajáról a helyszínre, hogy segítsék a süllyesztést."
+    },
+    {
+      "title": "Még mindig zárva a cataniai repülőtér, több ezren rekedtek Szicíliában",
+      "link": "https://hvg.hu/vilag/20260814_cataniai-repuloter-szicilia",
+      "summary": "Az Etna kitörése miatt nem tud fogadni és indítani járatokat a reptér."
+    },
+    {
       "title": "Egy 19 éves versenyző veszítette életét egy kerékpárversenyen Portugáliában",
       "link": "https://hvg.hu/vilag/20260814_finlay-tarling-bicikliversenyzo-haleset-baleset",
       "summary": "Meg nem erősített hírek szerint egy autó ütötte el."
@@ -211,7 +221,7 @@
       "summary": "Az olasz rendőrség videót is közzétett a több hónapja történt rablásról. A három ellopott műremek értéke több mint hárommilliárd forint."
     },
     {
-      "title": "Videón látszik, ahogy a holdba csapódik a a SpaceX hordozórakétájának 4000 kg-os darabja",
+      "title": "Videón látszik, ahogy a holdba csapódik a SpaceX hordozórakétájának 4000 kg-os darabja",
       "link": "https://hvg.hu/tudomany/20260814_holdba-csapodo-spacex-raketa-nasa-video",
       "summary": "Nagyjából 8690 km/h-val száguldott a Holdnak a SpaceX egyik rakétadarabka. Most kikerült róla egy tudományos videó, sőt, fény derült egy fontos kérdésre is."
     },
@@ -219,23 +229,13 @@
       "title": "Három forró nap áll előttünk, de van, ahol hajnalban csak 7 fok lesz",
       "link": "https://hvg.hu/elet/20260814_hoseg-hidegfront-idojaras-elorejelzes",
       "summary": "Kedden jön egy hidegfront, és végre harminc fok alatt lesz a hőmérséklet."
-    },
-    {
-      "title": "Külügy: Már minden magyar biztonságban van Horvátországban",
-      "link": "https://hvg.hu/vilag/20260814_horvatorszagi-tuzek-a-kulugyminiszterium-szerint-minden-magyar-jol-van",
-      "summary": "Orbán Anita tájékoztatása szerint egyetlen magyar sem szenvedett súlyosabb sérülést, van, aki már el is hagyta az érintett térséget."
-    },
-    {
-      "title": "Kiderült, kiké volt a Dunából kihalászott világháborús motor",
-      "link": "https://hvg.hu/cegauto/20260814_duna-vilaghaborus-motor-feldherrnhalle",
-      "summary": "A motoron található jelzések árulkodók voltak."
     }
   ],
   "BBC": [
     {
-      "title": "Ex-Cambridge professor at centre of plagiarism row found dead",
+      "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
       "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-      "summary": "He was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon, officials said."
+      "summary": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon."
     },
     {
       "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -250,7 +250,7 @@
     {
       "title": "Derailed Essex to London train leads to travel chaos",
       "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It has happened less than 24 hours after a train came off the tracks in East Sussex."
+      "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
     },
     {
       "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
@@ -315,7 +315,7 @@
       "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
     },
     {
-      "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+      "title": "What we know about the alleged Iranian hacks on US water utilities",
       "link": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
       "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about this wave of attacks allegedly carried out by the Iranian government."
     },

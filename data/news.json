@@ -248,6 +248,11 @@
       "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
     },
     {
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+    },
+    {
       "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
       "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
       "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
@@ -288,11 +293,6 @@
       "summary": "Liverpool's owners agree to sell about a third of the club to a consortium including billionaire Amazon founder Jeff Bezos - in a deal that values the Reds at more than £5bn."
     },
     {
-      "title": "Stephen Bear jailed over sex offender breaches",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears."
-    },
-    {
       "title": "'Glam helps mentality' says sprinter Amy Hunt, but can it give you that winning edge?",
       "link": "https://www.bbc.co.uk/news/articles/cd9wp32dgxxo?at_medium=RSS&at_campaign=rss",
       "summary": "Sprinter Amy Hunt has been showing off her nails at the European Athletics Championships in Birmingham."
@@ -309,6 +309,11 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+      "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+      "summary": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around."
+    },
     {
       "title": "Self-driving trucks are officially testing on California highways",
       "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
@@ -378,12 +383,83 @@
       "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
       "link": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
       "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness."
-    },
-    {
-      "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-      "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-      "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "link": "https://www.nature.com/articles/s41586-026-11023-3",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11023-3\">doi:10.1038/s41586-026-11023-3</a></p>Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP"
+    },
+    {
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "link": "https://www.nature.com/articles/s41586-026-11022-4",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11022-4\">doi:10.1038/s41586-026-11022-4</a></p>Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "link": "https://www.nature.com/articles/d41586-026-02562-w",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02562-w\">doi:10.1038/d41586-026-02562-w</a></p>Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body."
+    },
+    {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02504-6",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02504-6\">doi:10.1038/d41586-026-02504-6</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "link": "https://www.nature.com/articles/d41586-026-02542-0",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02542-0\">doi:10.1038/d41586-026-02542-0</a></p>Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime."
+    },
+    {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10959-w\">doi:10.1038/s41586-026-10959-w</a></p>Author Correction: Structural mechanism of cGAS inhibition by the nucleosome"
+    },
+    {
+      "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+      "link": "https://www.nature.com/articles/s41586-026-10960-3",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10960-3\">doi:10.1038/s41586-026-10960-3</a></p>Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain"
+    },
+    {
+      "title": "How to make your science business succeed when you’re a female founder",
+      "link": "https://www.nature.com/articles/d41586-026-01904-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01904-y\">doi:10.1038/d41586-026-01904-y</a></p>Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up."
+    },
+    {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "link": "https://www.nature.com/articles/d41586-026-02503-7",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02503-7\">doi:10.1038/d41586-026-02503-7</a></p>New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations."
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02494-5\">doi:10.1038/d41586-026-02494-5</a></p>An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed."
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "link": "https://www.nature.com/articles/d41586-026-02525-1",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02525-1\">doi:10.1038/d41586-026-02525-1</a></p>Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers."
+    },
+    {
+      "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+      "link": "https://www.nature.com/articles/d41586-026-02558-6",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02558-6\">doi:10.1038/d41586-026-02558-6</a></p>Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate."
+    },
+    {
+      "title": "Ancient rise in CO<sub>2</sub> was catastrophic for forests: what that means for today’s plants",
+      "link": "https://www.nature.com/articles/d41586-026-02544-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02544-y\">doi:10.1038/d41586-026-02544-y</a></p>A widespread dieback of forests due to climate change 56 million years ago has parallels with today."
+    },
+    {
+      "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "link": "https://www.nature.com/articles/d41586-026-02502-8",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02502-8\">doi:10.1038/d41586-026-02502-8</a></p>Moderna’s newly approved vaccine could allow manufacturers to respond more rapidly to changing influenza strains."
+    },
+    {
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "link": "https://www.nature.com/articles/s41586-026-10994-7",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a></p>Lead carboxylates passivation for meter-scale perovskite solar modules"
+    }
+  ]
 }

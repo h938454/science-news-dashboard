@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Vidnyánszky Attila menesztésének ügye a Nemzeti Színházban",
-      "summary": "Vidnyánszky Attila szerint pénteken menesztik a Nemzeti Színház éléről, míg Tarr Zoltán, korábbi igazgatóhelyettes, valótlanságnak nevezi az állításait és hisztériakeltéssel vádolja. A konfliktus a színház vezetésének jövőjét érinti.",
+      "title": "Vidnyánszky Attila menesztése a Nemzeti Színház éléről",
+      "summary": "A Nemzeti Színház igazgatója, Vidnyánszky Attila állítása szerint pénteken menesztik posztjáról, amire Tarr Zoltán szerint valótlanságokkal és hisztériakeltéssel reagált. A hír jelentős kulturális és politikai visszhangot váltott ki.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter Paks 2-es kritikái és Garancsi cégének kőfelajánlása",
-      "summary": "Magyar Péter felhívta a figyelmet a Paks 2-es építkezéshez szükséges kő hiányára és a környezetvédelmi engedélyekkel kapcsolatos problémákra. Ezt követően Garancsi István cége 10 ezer tonna követ ajánlott fel.",
+      "title": "Aggodalmak Paks 2 környezetvédelmi engedélyével kapcsolatban a Duna alacsony vízállása miatt",
+      "summary": "Miközben az orosz fél szerint Paks 2 építése jól halad, Magyar Péter kétségbe vonta a kiadott környezetvédelmi engedélyt az alacsony Duna-vízállásra hivatkozva. A kritika rávilágít az energetikai beruházások és a környezetvédelmi szempontok közötti feszültségre.",
       "importance": 4
     },
     {
-      "title": "Vita a zebegényi vadkilövés körül",
-      "summary": "Zebegény polgármestere állítása szerint megállapodott egy mezőőrrel a faluba húzódó szomjazó vadak kilövéséről, ám a mezőőr cáfolja, hogy aláírtak volna bármilyen megállapodást. Az ügy felháborodást váltott ki.",
-      "importance": 3
+      "title": "Garancsi cége felajánlott 10 ezer tonna követ Magyar Péter kritikája után",
+      "summary": "Magyar Péter kritikája szerint a nemzeti nagytőkések nem tettek felajánlásokat, amire Garancsi István cége 10 ezer tonna követ ajánlott fel. Az eset rávilágít a hazai üzleti körök és a közélet közötti kapcsolatra.",
+      "importance": 4
     },
     {
       "title": "Függetlenebbé válik az agrárkamara, új összeférhetetlenségi szabályokkal",
-      "summary": "Megjelentek az agrárkamara függetlenségét és átláthatóságát növelő új összeférhetetlenségi szabályok, amelyek célja a testület működésének reformja. Az intézkedések az agrárszektorban zajló változásokat tükrözik.",
+      "summary": "Az agrárkamara függetlenebbé tételét célozzák az újonnan megjelent összeférhetetlenségi szabályok, amelyek a szervezet működésének átláthatóságát és hatékonyságát hivatottak növelni. Ez a lépés jelentős változást hozhat a magyar agrárium irányításában.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Súlyos olajszennyezés Mexikó partjainál, versenyfutás az idővel",
-      "summary": "Több hetes késlekedés után versenyt futnak az idővel, hogy megfékezzenek egy, az elmúlt évtizedek legsúlyosabbjai közé tartozó olajszennyezést. Az esemény jelentős környezeti károkat okoz.",
+      "title": "Kína megmentette a világgazdaságot az összeomlástól",
+      "summary": "A jelentések szerint Kína csendben beavatkozott, ezzel megakadályozva a világgazdaság összeomlását. Ez a fejlemény rávilágít Kína növekvő globális gazdasági befolyására és stabilitásmegőrző szerepére.",
       "importance": 5
     },
     {
-      "title": "Kína a világgazdaság összeomlását akadályozta meg",
-      "summary": "Egy elemzés szerint Kína csendben, de jelentősen hozzájárult a világgazdaság stabilitásához, megakadályozva annak összeomlását. Az ország gazdasági lépéseinek globális hatása volt.",
+      "title": "Egy 12 éve átállt ukrán parancsnokot robbanthattak fel Szevasztopolban",
+      "summary": "Szevasztopolban felrobbantottak egy ukrán parancsnokot, aki 12 éve átállt az oroszok oldalára, ami újabb súlyos incidens az orosz-ukrán konfliktusban. Az esemény a hírszerzési és szabotázsakciók eszkalálódására utal.",
+      "importance": 5
+    },
+    {
+      "title": "Versenyt futnak az idővel az egyik legsúlyosabb olajszennyezés felszámolásával",
+      "summary": "Az elmúlt évtizedek egyik legsúlyosabb olajszennyezésénél hetekig tartó tétlenség után most versenyt futnak az idővel a szakemberek a katasztrófa felszámolásával. A környezeti pusztítás hatalmas, és a helyreállítás sürgető feladat.",
       "importance": 4
     },
     {
-      "title": "Átállt ukrán parancsnokot robbanthattak fel Szevasztopolban",
-      "summary": "Jelentések szerint egy olyan ukrán parancsnokot robbanthattak fel Szevasztopolban, aki 12 éve állt át az oroszokhoz. Az esemény az orosz-ukrán háborúval kapcsolatos.",
+      "title": "Visszakerül Donald Trump neve a washingtoni Kennedy Center épületére",
+      "summary": "Donald Trump neve ismét megjelenik a washingtoni Kennedy Center épületén, jelezve egy korábbi döntés felülbírálását vagy szimbolikus jelentőségét. Az esemény politikai és kulturális körökben is figyelmet kelthet.",
       "importance": 4
-    },
-    {
-      "title": "Vonat kisiklott Angliában, súlyosan megsérültek",
-      "summary": "Egy személyvonat siklott ki Londontól 80 kilométerre, Kelet-Sussexben, melynek következtében ketten súlyosan megsérültek. A baleset okait vizsgálják.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI bemutatta a GPT-5.6 Sol „Ultrafast” módját",
-      "summary": "Az OpenAI bevezette a GPT-5.6 Sol modell új, „Ultrafast” módját, amely a korábbiaknál 14-szer gyorsabb működést tesz lehetővé. Ez a fejlesztés jelentősen növelheti a mesterséges intelligencia alkalmazások hatékonyságát.",
+      "title": "Az OpenAI bevezeti az „Ultrafast” módot, 14x gyorsabbá téve a GPT-5.6 Sol modellt",
+      "summary": "Az OpenAI bemutatta az „Ultrafast” módot, amely 14-szeresére gyorsítja a GPT-5.6 Sol működését, forradalmasítva a mesterséges intelligencia sebességét és hatékonyságát. Ez a fejlesztés jelentős hatással lehet az AI-alkalmazások jövőjére.",
       "importance": 5
     },
     {
-      "title": "Az Apple figyelmeztet kémprogram-támadásokra",
-      "summary": "Az Apple push értesítésekkel figyelmezteti felhasználóit a potenciális kémprogram-támadásokra, hangsúlyozva az ilyen fenyegetések komolyságát. Ez az intézkedés a digitális biztonság fokozását célozza.",
+      "title": "A Microsoft leállítja a sikertelen AI funkciókat és egyesíti Copilot alkalmazásait",
+      "summary": "A Microsoft kivonja a forgalomból a sikertelen mesterséges intelligencia funkcióit és egyesíti különálló Copilot alkalmazásait. Ez a stratégiai lépés a hatékonyság növelésére és a jövőbeli AI-fejlesztések optimalizálására irányul.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia 500 milliárd dolláros terve a GPU-piacon",
-      "summary": "Az Nvidia egy kockázatos, de zseniális, 500 milliárd dolláros tervvel készül a GPU-piacon, különös tekintettel az \"öregedő\" grafikus processzorokra. A stratégia hosszú távon meghatározhatja a cég és az iparág jövőjét.",
+      "title": "Az X (korábban Twitter) nyílt forráskódúvá teszi rangsoroló algoritmusát",
+      "summary": "Az X (korábban Twitter) nyílt forráskódúvá tette rangsoroló algoritmusát, lehetővé téve a felhasználók számára, hogy betekintést nyerjenek abba, hogyan jelennek meg a tartalmaik. Ez a lépés növelheti az átláthatóságot és csökkentheti az „árnyékban tiltás” vádját.",
       "importance": 4
     },
     {
-      "title": "Az X (korábbi Twitter) nyilvánossá teszi rangsorolási algoritmusát",
-      "summary": "Az X nyílt forráskódúvá tette rangsorolási algoritmusát, lehetővé téve a felhasználók számára, hogy ellenőrizzék, nem voltak-e „shadowbannolva”. Ez a lépés a platform átláthatóságát hivatott növelni.",
+      "title": "Az Nvidia 500 milliárd dolláros terve az elöregedő GPU-k újrahasznosítására",
+      "summary": "Az Nvidia egy ambiciózus, 500 milliárd dolláros tervet dolgozott ki, amely az elöregedő GPU-k újrahasznosítására fókuszál. Ez a stratégia egyszerre kockázatos és briliáns, különösen a gyorsan fejlődő technológiai piacon.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A NASA szondája megmenthet egy űrteleszkópot",
-      "summary": "A NASA egyik szondája sikeresen végrehajtott egy manővert, amelynek célja egy másik űrteleszkóp megmentése volt. Ez a küldetés demonstrálja az űrtechnológia fejlettségét és a tudományos eszközök értékét.",
+      "title": "Az mRNS influenza elleni védőoltás hatékonyabb lehet-e, mint a hagyományos?",
+      "summary": "A tudományos kutatások azt vizsgálják, hogy az mRNS alapú influenza elleni védőoltás vajon hatékonyabb védelmet nyújthat-e, mint a hagyományos szezonális oltások. Ez a kérdés kulcsfontosságú lehet a jövőbeli járványok kezelésében és a vakcinafejlesztésben.",
       "importance": 5
     },
     {
-      "title": "Az ősi CO2-emelkedés katasztrofális hatása az erdőkre",
-      "summary": "Kutatások szerint a szén-dioxid szint ősi emelkedése katasztrofális következményekkel járt az erdőkre nézve, ami komoly figyelmeztetésként szolgál a mai növényvilágra nézve. Ez rávilágít a klímaváltozás potenciális veszélyeire.",
+      "title": "Az ősi CO2 emelkedés katasztrofális hatása az erdőkre: tanulságok a mai növények számára",
+      "summary": "Az ősi időkben bekövetkezett CO2-szint emelkedés katasztrofális következményekkel járt az erdők számára, ami fontos tanulságokkal szolgálhat a mai növényvilág jövőjére nézve. Ez a kutatás segít megérteni a klímaváltozás ökológiai hatásait.",
       "importance": 4
     },
     {
-      "title": "Az mRNS-alapú influenza elleni oltás várható hatékonysága",
-      "summary": "Tudományos vizsgálatok folynak arról, hogy az mRNS technológián alapuló influenza elleni oltás hatékonyabb lehet-e, mint a hagyományos szezonális vakcinák. Ez a kutatás új távlatokat nyithat a járványok elleni védekezésben.",
+      "title": "Csörgőkígyók saját méreganyaga lehet az ellenszer az ember számára is",
+      "summary": "Felfedezték, hogy a csörgőkígyók saját méreganyaga potenciálisan ellenszerként funkcionálhat az ember számára is, ami új lehetőségeket nyithat a kígyómarások kezelésében. Ez a biológiai áttörés reményt adhat a mérgeskígyók áldozatainak.",
       "importance": 4
     },
     {
-      "title": "Cukorbetegség kezelésére tervezett probiotikus baktériumok",
-      "summary": "Mérnökien tervezett probiotikus baktériumokat fejlesztenek a cukorbetegség kezelésére, ami ígéretes új terápiás utat jelenthet. Ez a biotechnológiai áttörés új reményt adhat a betegeknek.",
-      "importance": 4
+      "title": "Óriás ballonnal új nézőpontból tanulmányozzák a Tejút központját",
+      "summary": "Egy óriás ballon segítségével a tudósok új nézőpontból vizsgálják a Tejút központját, remélve, hogy friss betekintést nyerhetnek galaxisunk titkaiba. Ez az innovatív megközelítés mélyebb megértést hozhat a kozmoszról.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Ferencváros továbbjutott az Európa-liga főtáblájára",
-      "summary": "A Ferencváros öngóllal, de továbbjutott az Európa-liga selejtezőjéből, ezzel biztosítva helyét a főtáblán az idei szezonban is. A csapat sikere magyar futballban kiemelkedő.",
+      "title": "Milák Kristóf kétszeres Eb-aranyérmet nyert, majd viccelődött edzési szokásain",
+      "summary": "Milák Kristóf rövid időn belül két Európa-bajnoki aranyérmet is szerzett, többek között 100 méteres pillangóúszásban Európa-csúccsal verte a mezőnyt. A győzelmek után humorosan megjegyezte, hogy elgondolkodott, mi lenne, ha edzene is.",
       "importance": 5
     },
     {
-      "title": "Milák Kristóf több Eb-aranyat nyert, Európa-csúccsal is",
-      "summary": "Milák Kristóf kiemelkedő teljesítményt nyújtott az úszó Európa-bajnokságon, ahol több aranyérmet, köztük egy 100 méteres pillangó Európa-csúcsot is szerzett. Ezzel megerősítette helyét a világ élmezőnyében.",
-      "importance": 5
+      "title": "A Ferencváros továbbjutott az Európa-liga rájátszásába",
+      "summary": "A Ferencváros a lengyel Górnik Zabrze elleni döntetlennel jutott be az Európa-liga rájátszásába, ezzel biztosítva helyét a főtáblán. A csapat sikere jelentős a magyar klubfutball számára.",
+      "importance": 4
     },
     {
-      "title": "A Győr kiesett a nemzetközi kupából",
-      "summary": "Az izlandi és a lett bajnok is legyőzte a Győrt, aminek következtében a magyar csapat kiesett a nemzetközi kupasorozatból. A kiesés csalódást jelent a klub és a szurkolók számára.",
-      "importance": 3
+      "title": "Európa-bajnok a 4x100 méteres férfi gyorsváltó",
+      "summary": "A magyar férfi 4x100 méteres gyorsváltó Európa-bajnoki címet szerzett, kiváló teljesítményt nyújtva a versenyen. Ez a kollektív siker tovább növeli a magyar úszósport nemzetközi elismertségét.",
+      "importance": 4
     },
     {
-      "title": "Hunt atléta Eb-aranyat nyert, történelmi négyszerezésre készül",
-      "summary": "Hunt atléta Európa-bajnoki aranyérmet szerzett 200 méteren, és célul tűzte ki a történelmi négyszeres győzelmet. Ezzel a figyelem középpontjába került a nemzetközi atlétikában.",
+      "title": "A Győr kiesett a Konferencia-ligából egy kései góllal",
+      "summary": "A Győri ETO FC egy kései góllal szenvedett vereséget az izlandi és a lett bajnoktól, így kiesett a Konferencia-ligából. A csapat nemzetközi szereplése ezzel véget ért.",
       "importance": 3
     }
   ]

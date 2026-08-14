@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Orbán Viktor nem fogadja el Magyar Péter paksi meghívását, Toroczkai László mást küld maga helyett",
-      "summary": "Magyar Péter hiába invitálta Orbán Viktort és Toroczkai Lászlót a paksi atomerőműbe, mindketten elutasították a meghívást. A történtek rávilágítanak a magyar politikai élet megosztottságára és a kulcsfontosságú projektek körüli feszültségekre.",
+      "title": "Viták és felajánlások a paksi bővítés körül",
+      "summary": "Magyar Péter vitára hívta a miniszterelnököt és más vezető politikusokat a paksi atomerőmű építkezésével kapcsolatban. Eközben Mészáros Lőrinc és Szíjj László cégei is felajánlottak segítséget a munkálatokhoz, de Magyar szerint más nevek nem tettek hasonló lépést.",
       "importance": 5
     },
     {
-      "title": "Kifizettek 315 milliárdot nyolc épületért, az utolsó pillanatban mentették volna meg a szerződést, és most egy banánhéjon csúszhat el az egész",
-      "summary": "Kormányzati körökben 315 milliárd forint kifizetésére került sor nyolc épületért, azonban a szerződés körüli vita miatt a projekt meghiúsulhat. A Bayer Construct egy e-mailre hivatkozva próbálja megtartani a visszakövetelt összeget.",
-      "importance": 5
-    },
-    {
-      "title": "Kapitány István leváltotta a Magyar Posta éléről Nagy Márton volt helyettes államtitkárát",
-      "summary": "Kapitány István menesztette a Magyar Posta vezérigazgatóját, Nagy Mártont, aki korábban helyettes államtitkárként tevékenykedett. A lépés az igazgatósági elnöki tisztségből való visszahívását is jelenti, komoly változásokat jelezve a cég vezetésében.",
+      "title": "Jelentősen drágulnak az üzemanyagok",
+      "summary": "Szombattól ismét emelkednek az üzemanyagárak Magyarországon, jelentős költségnövekedést okozva az autósoknak és hatással lesz a szállítási költségekre is. Ez az emelkedés tovább terheli a háztartások és vállalkozások költségvetését.",
       "importance": 4
     },
     {
-      "title": "Naponta kétezer szerződés: csúcson a személyi kölcsönök",
-      "summary": "Rekordot döntött a személyi kölcsönök száma júniusban, átlagosan napi kétezer szerződést kötöttek az emberek. Ez a növekedés a háztartások hitelfelvételi hajlandóságának erősödését mutatja a jelenlegi gazdasági környezetben.",
+      "title": "Csúcson a személyi kölcsönök igénylése",
+      "summary": "Rekordot döntött a személyi kölcsönök iránti kereslet Magyarországon, naponta mintegy kétezer szerződést kötnek. Ez a trend a lakosság növekvő hiteligényére és a pénzügyi helyzetükre utal.",
+      "importance": 4
+    },
+    {
+      "title": "NER szállodabirodalom tervei romos műemlékekből",
+      "summary": "A tervek szerint a Kárpát-medence-szerte épült volna ki egy szállodabirodalom romos műemlékek felhasználásával, amely a NER-hez köthető körök érdekeltségébe tartozott volna. A leleplezés rávilágít az állami vagyonkezelés és beruházások hátterére.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Trump fokozza a nyomást Kínán: 100 százalékos vámot vet ki a drónok importjára",
-      "summary": "Donald Trump bejelentette, hogy 100 százalékos vámot vet ki a Kínából érkező drónok importjára, tovább fokozva a kereskedelmi feszültségeket. Ez a lépés jelentős hatással lehet a globális kereskedelemre és a technológiai piacra.",
+      "title": "Civilek haltak meg az orosz éjszakai támadásokban Ukrajnában",
+      "summary": "Az orosz hadsereg éjszakai támadásai során több ukrán civil vesztette életét, köztük egy 29 éves nő és 9 éves fia. A tragikus események rávilágítanak a folyamatos konfliktus emberi áldozataira és a civil lakosság szenvedésére.",
       "importance": 5
     },
     {
-      "title": "Az orosz hadsereg éjszakai támadásaiban több ukrán meghalt, köztük egy 29 éves nő és a 9 éves fia",
-      "summary": "Az orosz hadsereg éjszakai támadásai következtében több ukrán állampolgár vesztette életét, köztük egy fiatal anya és kilencéves fia. A tragikus események rávilágítanak a konfliktus civil lakosságra gyakorolt pusztító hatására.",
+      "title": "Trump 100 százalékos vámot vet ki a kínai drónokra",
+      "summary": "Donald Trump bejelentette, hogy 100 százalékos vámot vetne ki a Kínából importált drónokra és drónalkatrészekre, ezzel is fokozva a nyomást Pekingre. Ez a lépés jelentős hatással lehet a globális kereskedelemre és a technológiai iparra.",
       "importance": 5
     },
     {
-      "title": "Tusk szerint az orosz titkosszolgálat meg akart ölni egy ukrán származású amerikai állampolgárt Varsóban",
-      "summary": "Donald Tusk lengyel miniszterelnök szerint az orosz titkosszolgálat egy ukrán származású amerikai állampolgár meggyilkolását tervezte Varsóban. Az eset súlyos diplomáciai és biztonsági feszültségeket okozhat Kelet-Európában.",
-      "importance": 5
+      "title": "Súlyos erdőtüzek Horvátországban és Németországban, magyar sérültekkel",
+      "summary": "Horvátországban hatalmas erdőtüzek pusztítanak, ahol már négy magyar sérültről tud a külügyminisztérium, több magyar turista pedig életveszélyes helyzetekről számolt be. Eközben Németországban is evakuáltak egy teljes falut a lángok miatt, 1800 embert érintve.",
+      "importance": 4
     },
     {
-      "title": "Példátlan esőzések Japánban hat ember halálát okozták",
-      "summary": "Japánban példátlan mennyiségű eső esett, ami hat ember halálához vezetett. Az extrém időjárás okozta áradások és földcsuszamlások súlyos károkat okoztak a térségben.",
+      "title": "Lezuhant egy drón a Duna-deltában, a román radarok nem észlelték",
+      "summary": "Egy drón zuhant le és robbant fel a Duna-deltában, amit a román katonai radarok nem észleltek. Az eset komoly aggodalmakat vet fel a légtérvédelemmel és a regionális biztonsággal kapcsolatban, különösen az ukrán háború közelsége miatt.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Ha az Apple kémprogram támadásról értesít, vegye komolyan",
-      "summary": "Ha az Apple push értesítést küld kémprogram-támadásról, azt komolyan kell venni, mivel ez a legmagasabb szintű riasztás. Az ilyen figyelmeztetések arra utalnak, hogy célzott támadás érheti az eszköz felhasználóját.",
+      "title": "Az OpenAI bemutatta az „Ultrafast” módot, 14-szer gyorsabb a GPT-5.6 Sol",
+      "summary": "Az OpenAI bevezette az „Ultrafast” módot a GPT-5.6 Sol modelljéhez, ami 14-szeres sebességnövekedést eredményez a korábbi verziókhoz képest. Ez a fejlesztés jelentősen felgyorsíthatja az AI-alapú alkalmazásokat és tovább forradalmasíthatja a mesterséges intelligencia felhasználását.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI bemutatja az „Ultrafast” módot, ami 14-szeresére gyorsítja a GPT-5.6 Sol-t",
-      "summary": "Az OpenAI bevezette az \"Ultrafast\" módot, amely 14-szeresére gyorsítja a GPT-5.6 Sol működését. Ez a fejlesztés jelentősen növelheti az AI alkalmazások hatékonyságát és felhasználási lehetőségeit.",
+      "title": "Az Uber és a Pony.ai 2000 robotaxit hozna Európába",
+      "summary": "Az Uber és a Pony.ai együttműködésében 2000 robotaxi bevezetését tervezik Európába, ami hatalmas lépés az önvezető járművek elterjedése felé. Ez a fejlesztés átalakíthatja a városi közlekedést és a logisztikát a kontinensen.",
       "importance": 5
     },
     {
-      "title": "A Microsoft megszünteti a sikertelen AI funkciókat és egyesíti a Copilot alkalmazásait",
-      "summary": "A Microsoft megszünteti a sikertelen AI funkciókat, miközben egyesíti különálló Copilot alkalmazásait. Ez a lépés a vállalat AI stratégiájának finomhangolását jelzi, a jövőben a koherensebb termékfejlesztésre fókuszálva.",
+      "title": "Az Apple kémprogram-támadásokra figyelmezteti a felhasználókat",
+      "summary": "Az Apple figyelmezteti felhasználóit, hogy vegyék komolyan a kémprogram-támadásokra figyelmeztető értesítéseket, melyeket push üzenetben küldhet. Ez a lépés rávilágít a kifinomult kiberfenyegetésekre és az adatbiztonság fontosságára.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia új 500 milliárd dolláros terve kockázatos, de zseniális, különösen az elöregedő GPU-k számára",
-      "summary": "Az Nvidia új, 500 milliárd dolláros terve kockázatos, de zseniális, különösen az elöregedő GPU-k piacát célozva. A befektetés a vállalat pozíciójának megerősítését szolgálja a gyorsan fejlődő technológiai szektorban.",
+      "title": "Az X (Twitter) nyílt forráskódúvá tette rangsorolási algoritmusát",
+      "summary": "Az X (korábban Twitter) nyílt forráskódúvá tette rangsorolási algoritmusát, lehetővé téve a felhasználók számára, hogy betekintsenek, hogyan jelennek meg posztjaik. Ez a lépés növeli az átláthatóságot és segít ellenőrizni, hogy valaki \"shadowban\" alá esett-e.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az ősi CO<sub>2</sub>-emelkedés katasztrofális volt az erdőkre: mit jelent ez a mai növények számára",
-      "summary": "Egy ősi CO<sub>2</sub>-szint emelkedés katasztrofális hatással volt az erdőkre, ami fontos tanulságokkal szolgálhat a mai növényvilág számára. A kutatás rávilágít a szén-dioxid koncentráció növekedésének hosszú távú ökológiai következményeire.",
+      "title": "Az ősi CO₂-emelkedés katasztrofális hatása az erdőkre – tanulságok a mának",
+      "summary": "Egy tanulmány szerint az ősi időkben bekövetkezett szén-dioxid-szint emelkedés katasztrofális hatással volt az erdőkre, ami komoly tanulságokkal szolgálhat a mai növényvilágra nézve. Ez az összefüggés rávilágít a jelenlegi klímaváltozás potenciális veszélyeire és hosszú távú ökológiai következményeire.",
       "importance": 5
     },
     {
-      "title": "Hatékonyabb lesz-e az mRNS influenzaoltás a hagyományosnál? Amit a tudomány mond",
-      "summary": "A tudomány a kérdésre keresi a választ, hogy az mRNS alapú influenzaoltás hatékonyabb lesz-e a hagyományos szezonális vakcináknál. Ez a technológia forradalmasíthatja az oltóanyag-fejlesztést és a közegészségügyet.",
-      "importance": 5
-    },
-    {
-      "title": "Óriási ballon révén új látkép a Tejút középpontjáról",
-      "summary": "Egy óriási ballon segítségével új nézőpontból tanulmányozható a Tejút középpontja, eddig nem látott részleteket tárva fel. Ez az innovatív megfigyelési módszer hozzájárul a galaxisunk szerkezetének jobb megértéséhez.",
+      "title": "Hatékonyabb-e az mRNS alapú influenza oltás a hagyományosnál?",
+      "summary": "A tudományos közösség azt vizsgálja, hogy az mRNS alapú influenza elleni oltás hatékonyabb védelmet nyújthat-e, mint a hagyományos szezonális vakcinák. Az ígéretes kutatások új távlatokat nyithatnak meg a járványok elleni védekezésben és a közegészségügyben.",
       "importance": 4
     },
     {
-      "title": "Probiotikus baktériumokat fejlesztettek ki a cukorbetegség kezelésére",
-      "summary": "Tudósok olyan probiotikus baktériumokat terveztek, amelyek képesek lehetnek a cukorbetegség kezelésére. Ez az ígéretes kutatás új terápiás lehetőségeket kínálhat a betegségben szenvedők számára.",
+      "title": "A dokumentálatlan bevándorlás nem növeli a bűnözési rátát – óriási tanulmány eredményei",
+      "summary": "Egy nagyszabású tanulmány szerint a dokumentálatlan bevándorlás nem okoz bűnözési ráta emelkedést, cáfolva ezzel a gyakori feltételezéseket. Az eredmények fontosak a társadalmi vita és a bevándorláspolitika szempontjából.",
+      "importance": 4
+    },
+    {
+      "title": "Új bizonyítékok a titokzatos „ragasztógolyók” létezésére",
+      "summary": "Újabb bizonyítékok kerültek elő a titokzatos „ragasztógolyók” (glueball-ok) létezésére, amelyek a kvantumkromodinamika elméletében szereplő, csak gluonokból álló részecskék. Ez a felfedezés alapjaiban változtathatja meg a részecskefizikáról alkotott képünket.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Gruber Zsombor Belgiumba igazolt",
-      "summary": "Gruber Zsombor magyar labdarúgó Belgiumba igazolt, ami fontos lépést jelent karrierjében. Ez a transzfer hozzájárulhat a magyar játékos nemzetközi szintű fejlődéséhez.",
+      "title": "Erling Haaland Guinness-rekorder lett",
+      "summary": "Erling Haaland, a Manchester City sztárcsatára Guinness-rekorder lett kivételes teljesítményének köszönhetően. A rekordja tovább erősíti helyét a világfutball elitjében, és rávilágít rendkívüli gólszerző képességeire.",
+      "importance": 5
+    },
+    {
+      "title": "Döntőben a férfi 4x400-as futóváltó, éremeséllyel",
+      "summary": "Az ötödik legjobb idővel jutott be a döntőbe a férfi 4x400 méteres futóváltó, így komoly esélyük van éremért küzdeni. A magyar csapat kiemelkedő teljesítményt nyújtott a nemzetközi versenyen.",
+      "importance": 4
+    },
+    {
+      "title": "Négy év börtönt kapott a száguldozó focista",
+      "summary": "Egy focistát négy év börtönbüntetésre ítéltek, miután 307 km/h-val száguldozott az úton, majd a tettét kiposztolta a közösségi médiában. Az eset rávilágít a sportolók felelősségére és a szabálysértések súlyos következményeire.",
       "importance": 3
     },
     {
-      "title": "Kikre érdemes fogadni és kiket érdemes kerülni a Fantasy Premier League-ben?",
-      "summary": "A Fantasy Premier League játékosok számára készült elemzés segít kiválasztani a legjobb játékosokat és elkerülni a rossz döntéseket. Ez a cikk kulcsfontosságú útmutató lehet a pontgyűjtés maximalizálásához a fantasy bajnokságban.",
-      "importance": 2
+      "title": "Az MTK sportiskola költöztetése egy régi kertésziskolába",
+      "summary": "Bóna Szabolcs szerint az MTK azt tervezi, hogy sportiskoláját egy több mint százéves kertésziskola területére költözteti. Ez a lépés jelentős változást hozhat az MTK sportinfrastruktúrájában és a magyar sportnevelésben.",
+      "importance": 3
     }
   ]
 }

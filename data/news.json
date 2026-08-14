@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Erdoğan legfontosabb kihívója új politikai párthoz csatlakozik",
+      "link": "https://telex.hu/kulfold/2026/08/14/torokorszag-ekrem-imamoglu-koztarsasagi-neppart-uj-part",
+      "summary": "Ekrem İmamoğlu isztambuli főpolgármester kilép abból a Köztársasági Néppártból, amelynek tavaly elnökjelöltjévé választották."
+    },
+    {
       "title": "A FIFA elnöke kirobbantotta a futball-polgárháborút, és lehet, hogy bele is fog bukni",
       "link": "https://telex.hu/sport/2026/08/14/fifa-uefa-gianni-infantino-futball-foci-vb-bojkott-botrany",
       "summary": "A rekordbevételt hozó vb után Gianni Infantino a botrányok ellenére is készülhetett a harmadik elnöki ciklusára a nemzetközi szövetség élén. Aztán kiderült, hogy befektetőknek árusítaná ki a futballt, és ebből akkora felháborodás lett, hogy elképzelhető, a következő választásig sem fogja húzni."
@@ -51,9 +56,9 @@
       "summary": "Ewan McGregor folyton kisgatyában rohangál, Anne Hathaway puskával lövöldözik őslényekre Az Oak Street vége című filmben. A háztartásbeli Jurassic Parkban mintha egy gyerekkori fantázia elevenedne meg, és erre meg is van a magyarázat."
     },
     {
-      "title": "Meghalt egy walesi bringás a Portugál körversenyen",
+      "title": "Meghalt egy walesi bringás a Portugál körversenyen, miután a mezőnnyel szemben hajtott egy teherautó",
       "link": "https://telex.hu/sport/2026/08/14/finlay-tarley-meghalt-19-kerekparos-volta-a-portugal",
-      "summary": "A 19 éves Finlay Tarling egy részleteiben egyelőre nem ismertetett balesetben vesztette életét."
+      "summary": "Finlay Tarling 19 éves volt."
     },
     {
       "title": "Nem minden NATO-ország fölé berepülő drón érkezik rossz szándékkal, de Lipcse kemény üzenet volt",
@@ -69,11 +74,6 @@
       "title": "A román csendőrökkel kezdtek balhézni a turisták, miután kisodródott drónroncsok miatt lezárták a tengerpartot",
       "link": "https://telex.hu/transtelex/2026/08/14/roman-tengerpart-strand-drondarabok-csendorok-lezaras",
       "summary": "Alig néhány óra leforgása alatt két fekete-tengeri strand kiürítését is elrendelték, ami kisebb káoszhoz vezetett."
-    },
-    {
-      "title": "Minden magyar jól van a külügy szerint az erdőtűz által érintett horvát térségben",
-      "link": "https://telex.hu/kulfold/2026/08/14/orban-anita-omisi-erdotuz-minden-magyar-jol-van",
-      "summary": "Orbán Anita külügyminiszter azt mondta, hogy senki sem kért a konzuli szolgálat segítségét a hazajutásban."
     }
   ],
   "Portfolio": [],
@@ -235,7 +235,12 @@
     {
       "title": "Jason Arday, ex-Cambridge professor at centre of plagiarism row, found dead",
       "link": "https://www.bbc.co.uk/news/articles/c1j1ye6n30no?at_medium=RSS&at_campaign=rss",
-      "summary": "Emergency services said a man was found \"unresponsive\" at an address in Battersea, south London, on Friday afternoon."
+      "summary": "His family said it was \"in shock to have lost this amazing father, partner, brother, uncle and son\" after the academic was found dead in London on Friday."
+    },
+    {
+      "title": "Fires prompt national alert as 19 homes destroyed",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7y4k98x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister said 37 fires were currently burning across England and Wales"
     },
     {
       "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
@@ -253,14 +258,14 @@
       "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
     },
     {
-      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result."
-    },
-    {
       "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
       "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives."
+    },
+    {
+      "title": "Chris Mason: Where does this unorthodox by-election victory leave Nigel Farage?",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvjnyz8k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "As expected, the Reform UK leader easily won the Clacton by-election but was nowhere to be seen after the result."
     },
     {
       "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
@@ -301,18 +306,18 @@
       "title": "Instagram accounts fuelling Ceuta migrant crisis with paid advice for help to cross",
       "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
       "summary": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence."
-    },
-    {
-      "title": "Weekly quiz: What was used to smuggle Donald Trump off Air Force One?",
-      "link": "https://www.bbc.co.uk/news/articles/c2lq28xvw8po?at_medium=RSS&at_campaign=rss",
-      "summary": "How much attention did you pay to what happened in the world over the past seven days?"
     }
   ],
   "TechCrunch": [
     {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "link": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "summary": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles."
+    },
+    {
       "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
       "link": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
-      "summary": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
+      "summary": "The AI opportunity is huge, but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter."
     },
     {
       "title": "What we know about the alleged Iranian hacks on US water utilities",
@@ -378,11 +383,6 @@
       "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
       "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
       "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices."
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
     }
   ],
   "Nature": [

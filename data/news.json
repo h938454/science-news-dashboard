@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Az indiai munkások képzik ki azt a mesterséges intelligenciát, ami pont őket válthatja le",
+      "link": "https://telex.hu/techtud/2026/08/15/deutsche-welle-india-mesterseges-intelligencia-ai-mi",
+      "summary": "Sokan az állásukat féltik. A Deutsche Welle riportja."
+    },
+    {
+      "title": "Átfogó vizsgálatban tárják fel a 4iG és a magyar állam kapcsolatát",
+      "link": "https://telex.hu/gazdasag/2026/08/15/magyar-kozlony-4ig-magyar-allam-atvilagitas",
+      "summary": "Hogy ez pontosan mit jelent, azt nem tudni, de a miniszterelnök minden releváns minisztertől részletes tájékoztatást kért."
+    },
+    {
       "title": "Súlyos földrengés volt Indonéziában, legalább húszan meghaltak",
       "link": "https://telex.hu/kulfold/2026/08/15/foldrenges-indonezia-sulyos-halalos-aldozatok-flores",
       "summary": "Sok épület megrongálódott, és mintegy 2000 embert evakuáltak."
@@ -64,16 +74,6 @@
       "title": "Beismerte tettét és elárulta indítékát az a 28 éves férfi, aki két éve New York belvárosában agyonlőtte egy biztosítótársaság vezérigazgatóját",
       "link": "https://telex.hu/kulfold/2026/08/14/luigi-mangione-new-york-manhattan-biztositotarsasag-gyilkossag-beismero-vallomas",
       "summary": "Luigi Mangione egészen eddig ártatlannak vallotta magát, most taktikát változtatott."
-    },
-    {
-      "title": "Azonosították, hogy kikhez tartozott a Dunából előkerült második világháborús motorkerékpár",
-      "link": "https://telex.hu/karakter/kultura/2026/08/14/azonositottak-hogy-kikhez-tartozott-a-dunabol-elokerult-masodik-vilaghaborus-motorkerekpar",
-      "summary": "A tárolódoboz jelzéseiből tudták beazonosítani a német alakulatot."
-    },
-    {
-      "title": "Az internetet miért nem hagyja nyugodni ez a has?",
-      "link": "https://telex.hu/after/2026/08/14/anne-hathaway-terheshas-terhesdivat-kozossegi-media-kritika",
-      "summary": "Anne Hathaway 43 éves filmsztár és kétgyerekes anya gyereket vár. Pár napja egy olyan ruhát vett fel, ami részben szabadon hagyta kerekedő hasát. Az internet pedig felrobbant. A színésznő ruhaválasztása sokakat annyira kiakasztott, hogy azzal vádolták meg, nem is igazi a hasa. De miért tartunk még mindig itt?"
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,41 @@
   ],
   "HVG": [
     {
+      "title": "Nyilatkozatstopot rendelt el a kormány a 4iG-vel kapcsolatban",
+      "link": "https://hvg.hu/kkv/20260815_4ig-kormany-atvilagitas-nyilatkozat-stop",
+      "summary": "Határozatban kéri a minisztereket: addig ne vonjanak le következtetéseket, amíg a kormány és a cég kapcsolatainak vizsgálatát le nem zárják."
+    },
+    {
+      "title": "Elindult a bárkák elsüllyesztése Pakson",
+      "link": "https://hvg.hu/itthon/20260815_paks-fenekkuszob-betonkocka-beemeles-szivattyu-barka-elsullyesztes",
+      "summary": "Magyar Péter is a helyszínen tartózkodik, eközben a honvédségi helikopterek is megkezdték a beton"
+    },
+    {
+      "title": "Baka András szálka volt Orbánék szemében │Elvitelre",
+      "link": "https://hvg.hu/itthon/20260815_baka-andras-szalka-volt-orbanek-szemeben-elvitelre",
+      "summary": "Elvitelre – a podcast, amelyben a hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk. A héten: a „lex Baka” és NER-szerzemények."
+    },
+    {
+      "title": "Pirosban hajtottak át a vasúti átkelőn, a rendőrség csekkel díjazta a mutatványt",
+      "link": "https://hvg.hu/cegauto/20260815_vasuti-atkelo-kereszturi-ut-piros-jelzes-athajtas-rendorseg-birsag",
+      "summary": "A BRFK gyűjtést tett közzé a szabályszegő sofőrökről."
+    },
+    {
+      "title": "Hárommilliárdos azbesztmentesítési alapot hoz létre a kormány",
+      "link": "https://hvg.hu/itthon/20260815_azbesztmentesitesi-alap-kormany-magyar-kozlony",
+      "summary": "Átalakítják a kormány iratkezelési és az uniós agráralap kockázatkezelési rendszerét is."
+    },
+    {
+      "title": "Erős földrengés sújtotta Indonéziát, legkevesebb húszan meghaltak",
+      "link": "https://hvg.hu/vilag/20260815_indonezia-foldrenges-77-erosseg-halalos-aldozat",
+      "summary": "Több ezer embert telepítettek ki."
+    },
+    {
+      "title": "Újabb tűz ütött ki Horvátországban, Dugi Otok házai vannak veszélyben",
+      "link": "https://hvg.hu/vilag/20260815_ujabb-tuz-horvatorszag-dugi-otok-tuzoltosag",
+      "summary": "A nehezen megközelíthető terep jelentősen megnehezíti az oltást."
+    },
+    {
       "title": "Trump: A Hormuzi-szorost az USA részének fogom nyilvánítani",
       "link": "https://hvg.hu/vilag/20260815_trump-a-hormuzi-szorost-az-usa-reszenek-fogom-nyilvanitani",
       "summary": "Az amerikai elnök vélhetően viccelt, de Irán ezt nem vette jó néven, az ország külügyminisztere szerint jelenleg nincs szó a szoros megnyitásáról."
@@ -194,41 +229,6 @@
       "title": "Még mindig zárva a cataniai repülőtér, több ezren rekedtek Szicíliában",
       "link": "https://hvg.hu/vilag/20260814_cataniai-repuloter-szicilia",
       "summary": "Az Etna kitörése miatt nem tud fogadni és indítani járatokat a reptér."
-    },
-    {
-      "title": "Egy 19 éves versenyző veszítette életét egy kerékpárversenyen Portugáliában",
-      "link": "https://hvg.hu/vilag/20260814_finlay-tarling-bicikliversenyzo-haleset-baleset",
-      "summary": "Meg nem erősített hírek szerint egy autó ütötte el."
-    },
-    {
-      "title": "Ausztriában is erdőtűz pusztít, százötven embert evakuálni kellett",
-      "link": "https://hvg.hu/vilag/20260814_ausztria-erdotuz-evakualas",
-      "summary": "Több helikopter is részt vesz az oltásban, amit az erős szél akadályoz."
-    },
-    {
-      "title": "Mészáros Lőrinc a Monacói Hercegségben bukkant fel",
-      "link": "https://hvg.hu/vilag/20260814_meszaros-lorinc-monacoi-hercegseg",
-      "summary": "A Rose d'Or luxusjacht sincs onnan messze."
-    },
-    {
-      "title": "A Magyar Színházi Társaság elfogadhatatlannak tartja Vidnyánszky Attila legutóbbi megnyilvánulását",
-      "link": "https://hvg.hu/kultura/20260814_vidnyanszky-attila-magyar-szinhazi-tarsasag-nemzeti-szinhaz-tarr-zoltan",
-      "summary": "Van, aki azért védelmébe vette a Nemzeti Színház igazgatóját."
-    },
-    {
-      "title": "Kinevezték az Agrárkamara miniszteri biztosát",
-      "link": "https://hvg.hu/gazdasag/20260814_agrarkamara-miniszteri-biztos-zoltan-peter",
-      "summary": "Zoltán Péternek ez már a második ilyen tisztsége."
-    },
-    {
-      "title": "Nem volt elég feltűnő az ötmillió eurós Bugatti, jött a Mansory",
-      "link": "https://hvg.hu/cegauto/20260814_nem-volt-eleg-feltuno-az-otmillio-euros-bugatti-jott-a-mansory",
-      "summary": "Még a Bugatti emblémáját is levették."
-    },
-    {
-      "title": "Csaknem kétszáz kiskorút vettek őrizetbe gyújtogatás miatt Franciaországban",
-      "link": "https://hvg.hu/vilag/20260814_franciaorszag-erdotuz-gyujtogatas-letartoztatas",
-      "summary": "Egy 15 éves fiú lehet annak a tűznek az okozója, ami két tűzoltó életét követelte. Európa-szerte tüzek tombolnak."
     }
   ],
   "BBC": [
@@ -268,29 +268,19 @@
       "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
     },
     {
-      "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains."
     },
     {
-      "title": "Derailed Essex to London train leads to travel chaos",
-      "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
+      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president."
     },
     {
-      "title": "Hodgkinson beaten to European gold by rival Werro",
-      "link": "https://www.bbc.co.uk/sport/athletics/articles/cyvl05g8g4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Keely Hodgkinson is forced to settle for European silver as Switzerland's Audrey Werro denies the Briton a third consecutive title in a thrilling 800m final."
-    },
-    {
-      "title": "Britain's Finlay Tarling dies in Volta a Portugal accident",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/ceqed1g3j48o?at_medium=RSS&at_campaign=rss",
-      "summary": "British cyclist Finlay Tarling dies at the age of 19 in a serious accident during the eighth stage of the Volta a Portugal."
-    },
-    {
-      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days."
+      "title": "Like Greg James, I lost my dog and my grief was overwhelming and complicated",
+      "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
+      "summary": "The grief of losing a pet is complicated and often comes with guilt, writes Helena Wilkinson."
     },
     {
       "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
@@ -298,14 +288,24 @@
       "summary": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom."
     },
     {
+      "title": "How is parkour helping these seniors avoid injuries?",
+      "link": "https://www.bbc.co.uk/news/videos/c7vg06pjdmqo?at_medium=RSS&at_campaign=rss",
+      "summary": "In one of the world's fastest aging countries, older people are finding creative ways to stay healthy."
+    },
+    {
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marked the first time a court had heard Mangione describe how he committed a crime that garnered worldwide attention."
+    },
+    {
       "title": "The Papers: 'Row professor found dead' and 'barbecue ban'",
       "link": "https://www.bbc.co.uk/news/articles/c141y5zk4yko?at_medium=RSS&at_campaign=rss",
       "summary": "Former Cambridge Professor Jason Arday's death and the ban on barbecues in Britain lead Saturday's papers."
     },
     {
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains."
+      "title": "Air India pilot's reported cannabis test: What it can and can't tell investigators",
+      "link": "https://www.bbc.co.uk/news/articles/c74gdgly3g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A reported cannabis-positive test involving an Air India pilot raises questions about what such a result can actually tell investigators."
     }
   ],
   "TechCrunch": [

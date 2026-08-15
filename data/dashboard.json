@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Megkezdődött a bárkák süllyesztése Paksnál, Magyar Péter jó híreket kapott",
-      "summary": "Megindult a Paks II. projekt részeként a bárkák elsüllyesztése a Dunában, a munkálatok felgyorsultak. Ezzel párhuzamosan Magyar Péter is kedvező információkat kapott a helyszínről, jelezve a fejlesztések előrehaladását.",
+      "title": "Megkezdődött a bárkák süllyesztése Paksnál, emelkedik a vízszint",
+      "summary": "Elindult a Duna vízszintjének emelését célzó bárkák süllyesztése Paksnál, ami kedvező fejlemény Magyar Péter számára is. A munkálatok felgyorsultak a Duna medrében.",
       "importance": 5
     },
     {
-      "title": "Vizsgálat indul a 4iG és az állam kapcsolatairól, nyilatkozatstopot rendeltek el",
-      "summary": "Átfogó vizsgálatot kezdeményeztek a 4iG telekommunikációs cég és a magyar állam közötti üzleti kapcsolatok átvilágítására. A kormány emiatt nyilatkozatstopot rendelt el a céggel kapcsolatos ügyekben.",
-      "importance": 5
-    },
-    {
-      "title": "Lázár János felméri a Fidesz állapotát országszerte",
-      "summary": "Lázár János az országot járja, hogy felmérje a Fidesz helyi szervezeteinek és az alulról jövő támogatottságnak az aktuális állapotát. A cél a párt belső erőviszonyainak és jövőbeni mozgásterének elemzése egy esetleges megújulás előtt.",
+      "title": "Átfogó vizsgálat indul a 4iG és a magyar állam kapcsolatáról",
+      "summary": "Átvilágítják a 4iG technológiai cég és a magyar állam közötti üzleti kapcsolatokat. A kormány nyilatkozatstopot rendelt el az ügyben.",
       "importance": 4
     },
     {
-      "title": "Mészáros Lőrinc érdekeltségétől elvették az M6-os autópálya koncesszióját",
-      "summary": "Reagált Mészáros Lőrinc és Szíjj László érdekeltsége a hírre, miszerint az állam visszaveszi tőlük az M6-os autópálya üzemeltetési koncesszióját. A lépés jelentős gazdasági és politikai visszhangot váltott ki.",
+      "title": "Lázár János a Fidesz helyzetének felmérésén és rendbetételén dolgozik",
+      "summary": "Lázár János az országot járja, hogy felmérje a Fidesz aktuális állapotát és gatyába rázza a pártot. Ez kulcsfontosságú feladat a belső megújuláshoz.",
+      "importance": 4
+    },
+    {
+      "title": "Vitézy Dávid vitatja az M6-os autópálya túlárazását és feljelentések lehetőségét emlegeti",
+      "summary": "Vitézy Dávid szerint az M6-os autópálya koncessziós vállalatának túlárazása miatt tucatjával indíthatók eljárások. Mészáros Lőrinc és Szíjj László érdekeltségei reagáltak a koncesszió elvételére.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Súlyos földrengés sújtotta Indonéziát, legalább 38 halálos áldozattal",
-      "summary": "Erős, 7,7-es erősségű földrengés rázta meg Indonéziát, amelyben legalább 38 ember vesztette életét. A katasztrófa jelentős pusztítást okozott a térségben.",
+      "title": "Súlyos, 7.7-es erősségű földrengés rázta meg Indonéziát, legalább 38 halott",
+      "summary": "Egy pusztító, 7.7-es erősségű földrengés sújtott Indonéziában, melynek következtében legalább 38 ember vesztette életét. A katasztrófa jelentős károkat okozott.",
       "importance": 5
     },
     {
-      "title": "Erdőtüzek pusztítanak Horvátországban és Európa több pontján",
-      "summary": "Horvátországban, Dugi Otok szigetén is erdőtűz ütött ki, míg Európa-szerte több helyen tombolnak a lángok. A hatóságok ideiglenes grillezési tilalmat vezettek be, és a katonaságot is bevetették az oltásba.",
+      "title": "Ukrajna több száz drónnal támadta Oroszország belsejét",
+      "summary": "Az ukrán erők nagyszabású dróntámadást hajtottak végre Oroszország belső területei ellen, több száz pilóta nélküli eszközt bevetve. Ez az egyik legnagyobb ilyen jellegű akció a háború kezdete óta.",
+      "importance": 5
+    },
+    {
+      "title": "Erdőtüzek pusztítanak Horvátországban és Európa-szerte",
+      "summary": "Folyamatosan tombolnak az erdőtüzek Horvátországban, különösen Dugi Otok szigetén, és más európai országokban is. A hatóságok óvintézkedéseket vezetnek be, többek között megtiltották az eldobható grillek használatát.",
       "importance": 4
     },
     {
-      "title": "Trump a Hormuzi-szoros amerikai területté nyilvánításáról beszélt",
-      "summary": "Donald Trump azzal viccelődött, vagy komolyan fontolóra vette, hogy az Egyesült Államok területévé nyilvánítsa a stratégiailag fontos Hormuzi-szorost. Az eset komoly geopolitikai feszültségeket okozhat.",
-      "importance": 4
-    },
-    {
-      "title": "Izraeli légicsapások több emberrel végeztek Dél-Libanonban",
-      "summary": "Izraeli légicsapások értek célpontokat Dél-Libanonban, amelyek következtében több ember életét vesztette. A régióban továbbra is feszült a katonai helyzet.",
+      "title": "Trump azzal viccelt, hogy amerikai területnek nyilvánítaná a Hormuzi-szorost",
+      "summary": "Donald Trump volt elnök egy rendezvényen azzal viccelt – vagy gondolta komolyan –, hogy az Egyesült Államok területévé nyilvánítaná a stratégiai fontosságú Hormuzi-szorost. A kijelentés értelmezése egyelőre nem egyértelmű.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Indiai munkások képzik ki azt a mesterséges intelligenciát, amely leválthatja őket",
-      "summary": "Indiában emberi munkaerő képzi azt a mesterséges intelligenciát, amelynek célja, hogy automatizálja a jövőben az ehhez hasonló feladatokat. Ez felveti az AI munkaerőpiacra gyakorolt etikai és gazdasági hatásait.",
+      "title": "Az MI-generációk vízjelezése és hatékonysága kérdéses",
+      "summary": "Az mesterséges intelligencia által generált tartalmak vízjelezése kulcsfontosságú, de a Google engedi eltávolítani a látható vízjeleket, miközben a kutatók szkeptikusak az Anthropic által bevezetett megoldások hatékonyságával kapcsolatban. A technológia integritása továbbra is vita tárgya.",
+      "importance": 5
+    },
+    {
+      "title": "Önállóan vezető járművek terjedése: teherautók és robotaxik",
+      "summary": "Az önvezető teherautók hivatalosan is tesztelési fázisba léptek Kalifornia autópályáin, miközben az Uber és a Pony.ai 2000 robotaxit tervez bevezetni Európában. A technológia jelentősen átalakíthatja a közlekedést és a logisztikát.",
       "importance": 4
     },
     {
-      "title": "Az önvezető kamionokat hivatalosan is tesztelik Kalifornia autópályáin",
-      "summary": "Kaliforniában megkezdődött az önvezető teherautók hivatalos tesztelése az autópályákon, ami jelentős előrelépés az autonóm járművek technológiájában. Ez forradalmasíthatja a logisztikai iparágat.",
+      "title": "Indiai munkások képzik azt az MI-t, ami felválthatja őket",
+      "summary": "Az indiai munkások aktívan részt vesznek olyan mesterséges intelligencia rendszerek kiképzésében, amelyek hosszú távon akár az ő munkahelyüket is veszélyeztethetik. Ez rávilágít az automatizálás munkaerőpiaci dilemmáira.",
       "importance": 4
     },
     {
-      "title": "Állítólagos iráni hackertámadások amerikai vízművek ellen",
-      "summary": "Információk szerint iráni hackertámadások célpontjává váltak amerikai vízművek, ami aggodalmat kelt a kritikus infrastruktúra biztonsága miatt. A támadások részleteit még vizsgálják.",
-      "importance": 4
-    },
-    {
-      "title": "Felgyorsultak a tárgyalások a PayPal eladásáról a Stripe és az Advent között",
-      "summary": "Egyre intenzívebbé válnak a tárgyalások a PayPal esetleges eladásáról a Stripe és az Advent befektetési csoport számára. Ez a tranzakció jelentős változásokat hozhat a fintech szektorban.",
+      "title": "Az Apple 15%-os részesedést javasol az App Store-on kívüli vásárlásokból",
+      "summary": "Az Apple egy új javaslatot terjesztett elő, miszerint 15%-os részesedést venne el az App Store-on kívül bonyolított alkalmazáson belüli vásárlásokból. Ez jelentős változást jelentene az alkalmazásfejlesztők számára.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Nagy tanulmány szerint a bevándorlás nem növeli a bűnözési rátát",
-      "summary": "Egy átfogó tanulmány kimutatta, hogy az illegális bevándorlás nem eredményezi a bűnözési ráta emelkedését. Ez az eredmény ellentmond a közkeletű feltételezéseknek és fontos adalék a társadalmi vitákhoz.",
+      "title": "Hatékonyabb lehet-e az mRNS alapú influenza elleni oltás a hagyományosnál?",
+      "summary": "A kutatók azt vizsgálják, hogy az új, mRNS technológián alapuló influenza elleni vakcina felülmúlja-e hatékonyságában a hagyományos szezonális oltásokat. Ez a közegészségügyi stratégiákra is hatással lehet.",
+      "importance": 5
+    },
+    {
+      "title": "Az ősi CO2-szint emelkedés katasztrofális hatással volt az erdőkre",
+      "summary": "Az elmúlt korok CO2-szintjének drámai emelkedése katasztrofális következményekkel járt az erdők számára, ami aggasztó figyelmeztetés a mai növényvilág és éghajlatváltozás szempontjából. A múltbeli adatok segítenek megérteni a jelenlegi kihívásokat.",
+      "importance": 5
+    },
+    {
+      "title": "Az illegális bevándorlás nem növeli a bűnözési rátát – derül ki egy nagyszabású tanulmányból",
+      "summary": "Egy hatalmas, átfogó kutatás eredményei szerint az illegális bevándorlásnak nincs kimutatható hatása a bűnözési ráták emelkedésére. Ez a szociológiai felfedezés ellentmondhat a közhiedelemnek és befolyásolhatja a migrációs vitákat.",
       "importance": 4
     },
     {
-      "title": "Az ősi CO2-szint emelkedés pusztító hatása az erdőkre, tanulságok a jelen számára",
-      "summary": "Az ókori CO2-szint drasztikus emelkedése katasztrofális következményekkel járt az erdőkre nézve, súlyos ökológiai változásokat idézve elő. Ez a történelmi minta fontos tanulságokkal szolgál a mai klímaváltozás és az erdők védelme szempontjából.",
+      "title": "Új bizonyítékok a rejtélyes „ragasztógömbökre” a részecskefizikában",
+      "summary": "A részecskefizikusok új bizonyítékokra bukkantak a sokáig csak feltételezett, rejtélyes „ragasztógömbök” létezésére. Ez az felfedezés mélyebb betekintést nyújthat az anyag alapvető szerkezetébe és az erős kölcsönhatás működésébe.",
       "importance": 4
-    },
-    {
-      "title": "Az mRNA influenza elleni vakcina hatékonyabb lehet-e a hagyományosnál?",
-      "summary": "A tudományos kutatások vizsgálják, hogy az mRNA-alapú influenza elleni vakcina hatékonyabb védelmet nyújthat-e, mint a hagyományos szezonális oltások. Az eredmények áttörést hozhatnak a közegészségügyben.",
-      "importance": 4
-    },
-    {
-      "title": "Újabb bizonyítékok a rejtélyes „ragasztógömbökről”",
-      "summary": "A kutatók új bizonyítékokat fedeztek fel a titokzatos „ragasztógömbök” létezésére vonatkozóan, amelyek a kvantumkromodinamika elméletében szereplő elemi részecskék. Ez a felfedezés segíthet jobban megérteni az univerzum alapvető építőköveit.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Halálos baleset a portugál kerékpáros körversenyen: walesi versenyző vesztette életét",
-      "summary": "Egy walesi kerékpáros életét vesztette, miután autóval ütközött a portugál körversenyen. A tragikus baleset beárnyékolta a sporteseményt.",
+      "title": "Halálos kerékpáros baleset történt a portugál körversenyen",
+      "summary": "Egy walesi kerékpáros életét vesztette, miután autóval ütközött a portugál körverseny során. A tragédia beárnyékolta a rangos sporteseményt.",
       "importance": 5
     },
     {
-      "title": "A női kosárlabda lett az amerikai kultúrharc új színtere",
-      "summary": "Az amerikai női kosárlabda egyre inkább a nemzeti kultúrharc középpontjába kerül, politikai és társadalmi feszültségeket tükrözve. A sportágon keresztül zajló viták a nemi szerepekről és identitásról mélyebb társadalmi problémákra mutatnak rá.",
+      "title": "A női kosárlabda az amerikai kultúrharc legújabb színtere",
+      "summary": "Az amerikai női kosárlabda egyre inkább a nemzeti kultúrharc frontvonalává válik, ahol politikai és társadalmi feszültségek nyilvánulnak meg a sporton keresztül. Ez rávilágít a sport társadalmi szerepére.",
+      "importance": 4
+    },
+    {
+      "title": "Hogyan segít a parkour az időseknek elkerülni a sérüléseket?",
+      "summary": "A parkour edzés meglepő módon segíthet az idősebb korosztálynak a sérülések elkerülésében és az egyensúly javításában. A mozgásforma adaptált változatai pozitív egészségügyi hatásokkal járhatnak.",
       "importance": 3
     },
     {
-      "title": "Hogyan segít a parkour az időseknek a sérülések elkerülésében?",
-      "summary": "A parkour edzések meglepő módon segítenek az idősebb korosztálynak abban, hogy elkerüljék a sérüléseket és megőrizzék mozgékonyságukat. Az aktivitás javítja az egyensúlyt és a koordinációt.",
-      "importance": 3
-    },
-    {
-      "title": "Így ad elő egy igazi rapper: a színpad mögötti kulisszák",
-      "summary": "Bepillantás egy igazi rapper előadásmódjába, bemutatva a színpadi jelenlétet és a produkció kulisszatitkait. Az előadás a rap kultúra dinamikáját és autentikusságát tükrözi.",
+      "title": "Hétvégi olvasnivalók extrém Szigetezésről",
+      "summary": "Az ajánlott hétvégi olvasnivalók között szerepel az „extrém Szigetezés” témája, ami a Sziget Fesztiválon való fizikai és mentális kihívásokra, az extrém körülmények közötti helytállásra utal.",
       "importance": 1
     }
   ]

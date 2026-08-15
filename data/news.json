@@ -1,11 +1,6 @@
 {
   "Telex": [
     {
-      "title": "Talán pont a mostani krízis kell ahhoz, hogy szemléletváltás legyen idehaza",
-      "link": "https://telex.hu/g7/elet/2026/08/15/kanikulakrizis-sokk-gazdasagpolitika-szemleletvaltas-beruhazasok-elekrtifikacio",
-      "summary": "Ha az idei tapasztalatok alapján észbe kapunk, alaposan és körültekintően tervezzük meg és indítjuk el a szükséges beruházásokat, akkor talán már jövőre is elkerülhető lehet a mai károk egy része."
-    },
-    {
       "title": "Azbeszt-mentesítési Alapot hoz létre a kormány",
       "link": "https://telex.hu/gazdasag/2026/08/14/azbeszt-mentesitesi-alap-3-milliard-forint",
       "summary": "Azonnali hatállyal csoportosítanak át hárommilliárd forintot."
@@ -74,6 +69,11 @@
       "title": "Nem minden NATO-ország fölé berepülő drón érkezik rossz szándékkal, de Lipcse kemény üzenet volt",
       "link": "https://telex.hu/kulfold/2026/08/14/dronok-berepules-lipcse-repuloter-robbanoanyag-oroszorszag-ukrajna-haboru-szabotazs",
       "summary": "A különböző területekre berepülő, azonosítatlan drónok nyarát éli Európa. A kedden Hannovernél történt eset körül még vannak kérdőjelek, de a lipcsei reptéren nem egy eltévedt drón járt, ott a károkozás volt a cél. Jójárt Krisztián biztonságpolitikai szakértő szerint az oroszoknak kettős céljuk van a műveleteikkel."
+    },
+    {
+      "title": "Egyetemi campustól artistaképzőn át kastélyszállóig – ezektől a beruházásoktól veszi el a kormány a kiemelt státuszukat",
+      "link": "https://telex.hu/gazdasag/2026/08/14/kiemelt-beruhazasok-visszavonasa-pazmany-campus-lang-gyar-sukoro-vitezy-david",
+      "summary": "Kilenc különböző beruházás kiemelt státuszának megvonásáról döntött a kormány, mutatjuk, mit kell róluk tudni."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Marabu Féknyúz: Illegalitásban",
+      "link": "https://hvg.hu/itthon/20260815_marabu-feknyuz-illegalitasban",
+      "summary": "A sok harcban megfárad az ember."
+    },
+    {
       "title": "Magyar Péter: szombat hajnalban kezdődik a bárkák elsüllyesztése Paksnál",
       "link": "https://hvg.hu/itthon/20260814_magyar-peter-barkak-elsullyesztese-paks",
       "summary": "Szombat reggel hat mérőhajó érkezik Bajáról a helyszínre, hogy segítsék a süllyesztést."
@@ -224,11 +229,6 @@
       "title": "Videón látszik, ahogy a holdba csapódik a SpaceX hordozórakétájának 4000 kg-os darabja",
       "link": "https://hvg.hu/tudomany/20260814_holdba-csapodo-spacex-raketa-nasa-video",
       "summary": "Nagyjából 8690 km/h-val száguldott a Holdnak a SpaceX egyik rakétadarabka. Most kikerült róla egy tudományos videó, sőt, fény derült egy fontos kérdésre is."
-    },
-    {
-      "title": "Három forró nap áll előttünk, de van, ahol hajnalban csak 7 fok lesz",
-      "link": "https://hvg.hu/elet/20260814_hoseg-hidegfront-idojaras-elorejelzes",
-      "summary": "Kedden jön egy hidegfront, és végre harminc fok alatt lesz a hőmérséklet."
     }
   ],
   "BBC": [
@@ -243,7 +243,7 @@
       "summary": "The prime minister said 37 fires were currently burning across England and Wales"
     },
     {
-      "title": "Temporary ban on sale of disposable BBQs over wildfire risk",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
       "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
       "summary": "Single-use grills pose a \"significant risk to the public\" in current drought and heatwave conditions, the government warns."
     },
@@ -263,14 +263,14 @@
       "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death."
     },
     {
+      "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
+    },
+    {
       "title": "Derailed Essex to London train leads to travel chaos",
       "link": "https://www.bbc.co.uk/news/articles/cq561qvg7qgo?at_medium=RSS&at_campaign=rss",
       "summary": "More than 60 patients were checked over by ambulance crews but all were discharged at the scene."
-    },
-    {
-      "title": "One dead after 7.7 magnitude earthquake strikes Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "summary": "The earthquake struck off Flores island in the country's east early on Saturday morning."
     },
     {
       "title": "Hodgkinson beaten to European gold by rival Werro",

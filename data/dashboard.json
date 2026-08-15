@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Órák óta döcög az OTP-nél a kártyás fizetés",
-      "summary": "Jelentős fennakadások tapasztalhatók az OTP Bank kártyás fizetési rendszereiben, ami órák óta érinti az ügyfeleket. A bank dolgozik a probléma elhárításán, ám a kártyás tranzakciók továbbra is akadoznak országszerte.",
+      "title": "Nem jött össze a nullszaldó az idei Szigeten",
+      "summary": "Az idei Sziget Fesztivál kevesebb látogatóval és a vártnál nagyobb veszteséggel zárult, ami komoly pénzügyi kihívás elé állítja a szervezőket. Gerendai Károly szerint a számok nem úgy alakultak, ahogy szerették volna.",
       "importance": 5
     },
     {
+      "title": "Órák óta döcög az OTP-nél a kártyás fizetés",
+      "summary": "Az OTP Bank rendszerében akadoztak a kártyás fizetések, ami órákig fennakadást okozott az ügyfelek számára országszerte. A bank a hiba kijavításán dolgozott.",
+      "importance": 4
+    },
+    {
       "title": "Újra a szülők és az óvodapedagógusok dönthetnének a gyerek iskolaérettségéről az Oktatási Hivatal helyett",
-      "summary": "Várhatóan ismét a szülők és az óvodapedagógusok hatáskörébe kerül az iskolaérettségi megállapítása az Oktatási Hivatal helyett. Ez a változás jelentősen befolyásolhatja a gyermekek iskolakezdését és a családok döntési szabadságát.",
+      "summary": "Javaslat született arra, hogy az iskolaérettségi döntés joga visszakerüljön a szülőkhöz és az óvodapedagógusokhoz, elvéve azt az Oktatási Hivataltól. Ez jelentős változást hozhat az oktatási rendszerben.",
       "importance": 4
     },
     {
-      "title": "Kevesebben voltak az idei Szigeten, a veszteség is nagyobb lett a vártnál",
-      "summary": "Az idei Sziget Fesztivál a vártnál kevesebb látogatóval és nagyobb pénzügyi veszteséggel zárult, nem sikerült elérni a nullszaldót. A szervezők csalódottan nyilatkoztak az idei rendezvény számadatairól.",
-      "importance": 4
-    },
-    {
-      "title": "Mészáros cége visszautasítja, hogy jogellenesen kapta volna meg a tegnap visszavont autópályakoncessziót",
-      "summary": "Mészáros Lőrinc cége, a Koncessziós Infrastruktúra Fejlesztő Zrt. visszautasítja a vádakat, miszerint jogellenesen jutott volna az időközben visszavont autópálya-koncesszióhoz. A vállalat állítja, a pályázat minden jogi feltételnek megfelelt.",
+      "title": "Közhang néven indít új platformot a Tisza Párt a társadalmi egyeztetésre",
+      "summary": "A Tisza Párt \"Közhang\" néven új online felületet indít, ahol bárki elmondhatja véleményét a kormány döntéseiről és a társadalmi kérdésekről. A platform célja a szélesebb körű társadalmi párbeszéd ösztönzése.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Pusztító, 7.7-es erősségű földrengés sújtott Indonéziában, legalább 47 halott",
-      "summary": "Egy hatalmas, 7.7-es erősségű földrengés rázta meg Indonéziát, melynek következtében legalább 47 ember életét vesztette. A rengés jelentős károkat okozott, és a mentőalakulatok folyamatosan dolgoznak a túlélők felkutatásán.",
+      "title": "Hatalmas, 7,7-es erősségű földrengés sújtott Indonéziában, legalább 47 halott",
+      "summary": "Erős, 7,7-es erősségű földrengés rázta meg Indonéziát, amelyben legalább 47 ember vesztette életét. A katasztrófa jelentős pusztítást és károkat okozott a térségben.",
       "importance": 5
     },
     {
-      "title": "Tizenegy halott az izraeli légicsapásokban Libanon déli részén",
-      "summary": "Izraeli légicsapások értek Libanon déli részét, melyekben a helyi hatóságok szerint tizenegy ember vesztette életét. Az esemény tovább növeli a feszültséget a régióban.",
+      "title": "Tizenegy ember halt meg izraeli légicsapásokban Libanon déli részén",
+      "summary": "Izraeli légicsapásokban legalább tizenegy ember vesztette életét Libanon déli részén, ami tovább élezi a feszültséget a régióban. A hatóságok azonnal elítélték a támadásokat.",
       "importance": 5
     },
     {
-      "title": "Példátlan drónhullám volt Románia határánál, több mint száz eszközt észleltek a radarok",
-      "summary": "A román határnál, közel Ukrajnához, példátlan drónaktivitást észleltek: 96 óra alatt több mint száz eszközt azonosítottak a radarok. Ez a fokozott tevékenység aggodalmat kelt a régió biztonsága miatt.",
-      "importance": 5
+      "title": "16 órán át kapaszkodott a felborult jet-skibe két kisfiával a nyílt vízen egy apa Thaiföld partjainál",
+      "summary": "Egy apa és két kisgyermeke 16 órán át sodródott a nyílt tengeren egy felborult jet-ski után Thaiföld partjainál, míg végül kimentették őket. Az eset jól mutatja a tenger veszélyeit.",
+      "importance": 4
     },
     {
-      "title": "Öt évvel a tálib hatalomátvétel után: Van-e még befolyása a Nyugatnak Afganisztánra?",
-      "summary": "Öt év telt el azóta, hogy a tálibok visszavették a hatalmat Afganisztánban, és elemzők azt vizsgálják, milyen befolyása maradt a nyugati országoknak az országra. A humanitárius és emberi jogi helyzet továbbra is kritikus.",
+      "title": "Példátlan drónhullám Románia határánál, 96 óra alatt több mint száz eszközt észleltek a radarok",
+      "summary": "A román határnál példátlanul nagy számú drónaktivitást észleltek, 96 óra alatt több mint száz eszközt regisztráltak a radarok. Az eset biztonsági aggályokat vet fel a térségben, különösen az ukrajnai háború árnyékában.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jelentések szerint iráni hackerek támadták meg amerikai vízműveket",
-      "summary": "Információk szerint iráni hackerek célpontjává váltak amerikai vízművek, ami aggodalmakat vet fel a kritikus infrastruktúrák kibervédelmével kapcsolatban. A támadások potenciálisan súlyos következményekkel járhatnak a közellátásra.",
+      "title": "Anyja és öccse megölésével vádolják azt az amerikai tinédzsert, aki a ChatGPT-t kérdezgette családi gyilkosságokról",
+      "summary": "Egy amerikai tinédzsert vádolnak anyja és öccse meggyilkolásával, miután kiderült, hogy a ChatGPT-t használta családi gyilkosságokkal kapcsolatos kérdésekre. Az eset felveti a mesterséges intelligencia etikai határainak és a technológia felelős használatának kérdését.",
       "importance": 5
     },
     {
-      "title": "Az Apple 15%-os részesedést kérhet az App Store-on kívüli vásárlásokból",
-      "summary": "Az Apple azt javasolja, hogy 15%-os részesedést kapjon az App Store-on kívüli, de az alkalmazásokon keresztül kezdeményezett vásárlásokból. Ez a lépés jelentős változást hozhat az alkalmazásfejlesztők és a digitális piactér számára.",
-      "importance": 5
-    },
-    {
-      "title": "Önvezető kamionok tesztelése folyik Kalifornia autópályáin",
-      "summary": "Önvezető kamionok hivatalos tesztelése zajlik Kalifornia autópályáin, jelezve az autonóm járművek fejlődését a teherszállításban. Ez a technológia forradalmasíthatja a logisztikai iparágat a közeljövőben.",
+      "title": "Olyan, mint a cigi, szándékosan függővé tesz: sok milliárd dolláros biznisz lett a TikTok mini-szappanoperája",
+      "summary": "A TikTokon népszerűvé vált mini-szappanoperák üzleti modellje tudatosan épít a függőségre, hasonlóan a dohányzáshoz, és mára dollármilliárdos iparággá nőtte ki magát. Ez a trend aggályokat vet fel a platformok pszichológiai hatásaival kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Aggodalmak merültek fel az AI képzéséhez használt könyvek megsemmisítése miatt",
-      "summary": "Könyvkereskedők gyanítják, hogy nagy mennyiségű használt könyvet semmisítenek meg, hogy azokat mesterséges intelligencia modellek képzésére használhassák fel. Ez a gyakorlat etikai kérdéseket vet fel az adatgyűjtés és a szellemi tulajdonjogok kapcsán.",
+      "title": "Az Anthropic bemutatta, hogyan működnek a Claude AI új vízjelei",
+      "summary": "Az Anthropic további részleteket osztott meg arról, hogyan fognak működni a Claude mesterséges intelligencia által generált tartalmak új, láthatatlan vízjelei. Ezzel az AI által készített anyagok eredetiségét és hitelességét igyekeznek biztosítani.",
+      "importance": 4
+    },
+    {
+      "title": "Az Apple 15%-os részesedést javasol az App Store-on kívüli vásárlásokból",
+      "summary": "Az Apple azt javasolja, hogy 15%-os részesedést kapjon az App Store-on kívül, de az alkalmazásokon keresztül lebonyolított vásárlásokból. Ez a lépés jelentős vitát váltott ki a fejlesztők körében és hatással lehet az alkalmazás-ökoszisztémára.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az ősi CO2-szint-emelkedés katasztrofális volt az erdőkre nézve – tanulság a mai növények számára",
-      "summary": "Egy tanulmány szerint a Föld történetének ősi CO2-szint-emelkedése rendkívül pusztító hatással volt az erdőkre. Ez az eredmény fontos tanulságokkal szolgálhat a jelenlegi klímaváltozás és annak a növényvilágra gyakorolt hatásainak megértéséhez.",
+      "title": "Működik-e jobban az mRNS influenzaoltás, mint egy hagyományos szezonális? A tudomány válaszol",
+      "summary": "Kutatók vizsgálják, hogy az új generációs mRNS-alapú influenzaoltások hatékonyabbak-e, mint a hagyományos szezonális vakcinák. Az eredmények alapvető változást hozhatnak a jövőbeli oltási stratégiákban és a közegészségügyben.",
       "importance": 5
     },
     {
-      "title": "Hatékonyabb lehet-e az mRNS-alapú influenzaoltás a hagyományosnál? A tudomány válaszol",
-      "summary": "Kutatók vizsgálják, hogy az mRNS-alapú influenzaoltás jobb védelmet nyújthat-e, mint a hagyományos szezonális vakcinák. Az előzetes eredmények és a tudományos konszenzus ígéretesnek mutatja az új technológia lehetőségeit.",
+      "title": "Az ősi CO2-szint emelkedés katasztrofális hatással volt az erdőkre: mit jelent ez a mai növényekre?",
+      "summary": "Egy tanulmány kimutatta, hogy a szén-dioxid szintjének ősi emelkedése pusztító hatással volt a bolygó erdőire. Ez a felfedezés komoly tanulsággal szolgálhat a mai klímaváltozás és annak növényvilágra gyakorolt lehetséges következményeire nézve.",
       "importance": 5
     },
     {
       "title": "Robot segíti a legbonyolultabb szívritmuszavarok kezelését Szegeden",
-      "summary": "Szegeden egy robotizált rendszer segíti a legkomplexebb szívritmuszavarok precíz és hatékony kezelését, jelentősen növelve a beavatkozások sikerességét. Ez az orvosi technológiai fejlesztés reményt ad a betegeket számára.",
+      "summary": "Szegeden robottechnológiát alkalmaznak a legkomplexebb szívritmuszavarok precíziós kezelésére, ami jelentős előrelépést jelent a kardiológiában. Ez a technológia javíthatja a betegek gyógyulási esélyeit és életminőségét.",
       "importance": 4
     },
     {
-      "title": "A nagyszabású tanulmány szerint az illegális migráció nem növeli a bűnözési rátát",
-      "summary": "Egy nagyszabású tanulmány arra a következtetésre jutott, hogy az illegális migráció nem vezet a bűnözési ráták emelkedéséhez. Az eredmények rávilágítanak a bevándorlással kapcsolatos tévhitekre és társadalmi diskurzusra.",
+      "title": "A mesterséges intelligencia még nem áll készen önmaga kutatására",
+      "summary": "Szakértők szerint a mesterséges intelligencia jelenlegi fejlettségi szintjén még nem képes önállóan, hatékonyan kutatni saját működését vagy új tudást generálni. Ez a korlát rávilágít az emberi intelligencia továbbra is alapvető szerepére a tudományos felfedezésekben.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Két magyar ezüst az úszó Európa-bajnokságon szombaton",
-      "summary": "A magyar úszók két ezüstérmet szereztek az Európa-bajnokság szombati napján, Sárkány Zalán és Márton Richárd révén. Ez a kiemelkedő teljesítmény újabb sikert jelent a magyar sport számára.",
+      "title": "Sárkány Zalán ezüstérmet nyert a vizes Eb-n",
+      "summary": "Sárkány Zalán nagyszerű teljesítményt nyújtva ezüstérmet szerzett a vizes Európa-bajnokságon, országos csúcsot úszva a döntőben. Ezzel a magyar úszósport egyik kiemelkedő tehetségének bizonyult.",
       "importance": 5
     },
     {
-      "title": "Megváltoztatták a Premier League-be jutás szabályait 36 év után",
-      "summary": "36 év után módosították az angol Premier League-be feljutás szabályait, ami jelentős hatással lehet az alsóbb osztályú csapatokra. Ez a változás új dinamikát hozhat a világ egyik legnézettebb futballligájába.",
+      "title": "Márton Richárd ezüstérmes lett 200 méter pillangón a vizes Eb-n",
+      "summary": "Márton Richárd is ezüstérmet szerzett a vizes Európa-bajnokságon 200 méter pillangón, hozzájárulva a magyar csapat sikereihez. Ezzel a teljesítménnyel megerősítette helyét a világ élmezőnyében.",
+      "importance": 5
+    },
+    {
+      "title": "Még 4 év: Kubatov Gábor ősszel ismét indul a Ferencváros elnöki posztjáért",
+      "summary": "Kubatov Gábor bejelentette, hogy idén ősszel ismét indul a Ferencvárosi Torna Club elnöki posztjáért, célja a klub további sikereinek biztosítása. Ez fontos hír a magyar sportélet egyik legmeghatározóbb egyesületének.",
       "importance": 4
     },
     {
-      "title": "Kubatov Gábor ősszel ismét indul a Ferencváros elnöki posztjáért",
-      "summary": "Kubatov Gábor bejelentette, hogy ősszel ismét indul a Ferencvárosi Torna Club elnöki posztjáért, ezzel további négy évre tervezve a klub élén. Döntése a Fradi jövőjét érintő fontos kérdés.",
-      "importance": 3
-    },
-    {
-      "title": "Finlay Tarling családja összetört, a kerékpáros társak megemlékeznek a brit sportolóról",
-      "summary": "Gyászolja a kerékpáros világ Finlay Tarling brit sportolót, akinek halála mélyen megrendítette családját és társait. A sportközösség számos megemlékezéssel tiszteleg az elhunyt versenyző emléke előtt.",
-      "importance": 3
+      "title": "36 év után változtatták meg, kik juthatnak fel a Premier League-be",
+      "summary": "Az angol labdarúgó Premier League feljutási szabályait 36 év után módosították, ami jelentős hatással lehet az alsóbb ligás csapatokra és a bajnokság dinamikájára. Ez a változás nagy figyelmet kapott a futballvilágban.",
+      "importance": 4
     }
   ]
 }

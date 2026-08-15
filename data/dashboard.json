@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Súlyos talajszennyezés az Óbudai Gázgyárnál: Az MVM megoldást ígér",
-      "summary": "A Duna alacsony vízállása miatt 200 ezer tonna súlyosan mérgezett talaj került elő az Óbudai Gázgyár egykori területén. Az MVM ígéri a hosszú és költséges kárelhárítás megkezdését.",
+      "title": "Az MVM bemutatja az óbudai gázgyári szennyezett talaj remediációs tervét",
+      "summary": "Az MVM megosztotta tervét a Duna visszahúzódása miatt láthatóvá vált 200 ezer tonna súlyosan mérgezett talaj kezelésére az Óbudai Gázgyár területén. Cél a káros anyagok eltávolítása és a terület megtisztítása.",
       "importance": 5
     },
     {
-      "title": "Vizsgálják a 4iG és az állam közötti kapcsolatokat",
-      "summary": "Átfogó vizsgálat indult a 4iG technológiai vállalat és a magyar állam közötti üzleti kapcsolatok felderítésére. A vizsgálat a cég állami megrendelésekhez és koncessziókhoz való viszonyát elemzi.",
-      "importance": 5
-    },
-    {
-      "title": "Vita az autópálya-koncessziókról: A cég vitatja a túlárazást",
-      "summary": "Az M6-os autópálya üzemeltetője, egy Mészáros Lőrinc-közeli cég visszautasította Vitézy Dávid túlárazási vádjait, miután visszavonták egy másik autópálya-koncessziójukat. A cég szerint a vádak alaptalanok.",
+      "title": "Politikai vihar Magyar Péter paksi eseménye körül, a pártok reakciói",
+      "summary": "A Fidesz \"politikai őrjöngésnek\", Toroczkai László pedig \"önfényező show-nak\" nevezte Magyar Péter paksi tájékoztatóját. A Duna-parti esemény, ahol a Paks II. építkezés bárkáinak süllyesztése is zajlik, éles politikai vitákat váltott ki.",
       "importance": 4
     },
     {
-      "title": "Felpörgött a munka Paksnál: Bárkák süllyesztése és politikai csatározás",
-      "summary": "Megkezdődött a paksi atomerőműnél a Duna vízszintjét szabályozó fenékküszöb építése, bárkák süllyesztésével és betontömbök elhelyezésével. Az eseményt Magyar Péter politikai aktivitása és a Fidesz kritikája kísérte.",
+      "title": "Az autópálya-koncessziós vállalat vitatja az M6-os autópálya túlárazását",
+      "summary": "Az autópálya-koncessziós vállalat válaszolt Vitézy Dávid kritikáira, és vitatja az M6-os autópálya üzemeltetési díjainak túlárazását. A cég visszautasítja a jogellenes koncesszió vádját.",
+      "importance": 4
+    },
+    {
+      "title": "Alkotmánybírósági vizsgálat Sulyok Tamás elmozdításának jogosságáról",
+      "summary": "Az Alkotmánybíróság hétfőn tárgyalja, hogy a parlament jogosan mozdította-e el Sulyok Tamást elnöki pozíciójából. A döntés fontos precedenst teremthet a politikai kinevezések és elmozdítások alkotmányossági kérdésében.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Pusztító földrengés Indonéziában: Legalább 38 halott",
-      "summary": "Egy erős, 7,7-es magnitúdójú földrengés rázta meg Indonéziát, legalább 38 ember halálát okozva. A mentési munkálatok folyamatosan zajlanak, a térségben jelentős károk keletkeztek.",
+      "title": "Pusztító földrengés Indonéziában: Legalább 38 halálos áldozat",
+      "summary": "Hatalmas, 7.7-es erősségű földrengés rázta meg Indonéziát, amely legalább 38 ember életét oltotta ki. A természeti katasztrófa súlyos károkat okozott a térségben, és mentőcsapatok dolgoznak a túlélők felkutatásán.",
       "importance": 5
     },
     {
-      "title": "Az ukrán Patriot rakéták fogyatkozóban, dróntámadások Oroszország ellen",
-      "summary": "Kijev sürgős segítségre szorul, mivel a Patriot légvédelmi rendszerek készletei megfogyatkoztak. Eközben Ukrajna több száz drónnal támadta Oroszország belsejét, fokozva a háború intenzitását.",
+      "title": "Kijev sürgős Patriot légvédelmi segítséget kér a készletek apadása miatt",
+      "summary": "Ukrajna egyre sürgősebben kéri nyugati szövetségeseitől a Patriot légvédelmi rendszerek pótlását, mivel készleteik fogytán vannak. A hatékony légvédelem kritikus az orosz rakéta- és dróntámadásokkal szemben.",
       "importance": 5
     },
     {
-      "title": "Trump ellentmondásos kijelentései és szövetségesei hűségének tesztelése",
-      "summary": "Donald Trump újabb vitatott kijelentésekkel borzolja a kedélyeket, miközben európai szövetségesei hűségét szondázzák az amerikai politikához. Korábban a Hormuzi-szoros Egyesült Államokhoz csatolását is felvetette.",
+      "title": "Az Egyesült Államok felméri európai szövetségeseinek lojalitását",
+      "summary": "Donald Trump kampánya és az amerikai diplomácia is felméri az európai szövetségesek lojalitását, különös tekintettel a jövőbeni geopolitikai kihívásokra. Ez rávilágít az USA külpolitikai prioritásainak esetleges változásaira egy új elnöki ciklus esetén.",
       "importance": 4
     },
     {
-      "title": "Iránra lesújt a közel-keleti NATO?",
-      "summary": "Amerika és Izrael után Irán a közel-keleti \"NATO\" fenyegetésével néz szembe, ami egyre nagyobb regionális feszültséghez vezethet. A térségben növekszik a katonai és politikai konfrontáció veszélye.",
+      "title": "Öt évvel a tálib hatalomátvétel után megkérdőjeleződik a Nyugat befolyása Afganisztánban",
+      "summary": "Öt év telt el azóta, hogy a tálibok visszaszerezték a hatalmat Afganisztánban, és a nyugati országok befolyása továbbra is csekély. A régió stabilitása és emberi jogi helyzete továbbra is aggodalomra ad okot a nemzetközi közösség számára.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Indiában képzik ki az AI-t, ami felválthatja az ottani munkaerőt",
-      "summary": "Indiában humán munkások ezrei képzik a mesterséges intelligenciát, amely paradox módon éppen az ő munkájukat veszélyezteti hosszú távon. Ez a jelenség etikai és munkaerő-piaci kérdéseket vet fel az AI fejlődésével kapcsolatban.",
+      "title": "Felpöröghetnek a PayPal felvásárlásáról szóló tárgyalások a Stripe-pal és az Adventtel",
+      "summary": "A hírek szerint felgyorsultak a tárgyalások a PayPal eladásáról a Stripe és az Advent vállalatok felé. Egy ilyen akvizíció jelentősen átrendezné a fintech piacot, és komoly piaci hatásokkal járhat.",
       "importance": 5
     },
     {
-      "title": "Önjáró kamionok tesztelése Kalifornia autópályáin",
-      "summary": "Kaliforniában hivatalosan is megkezdődött az önvezető kamionok tesztelése az autópályákon, ami áttörést jelenthet a logisztika és a közlekedés jövőjében. A technológia ígéretes, de biztonsági és szabályozási kihívásokkal is jár.",
+      "title": "Önvezető kamionok tesztelése kezdődik Kalifornia autópályáin",
+      "summary": "Hivatalosan is megkezdődött az önvezető kamionok tesztelése Kalifornia autópályáin, jelentős mérföldkő az autonóm járművek fejlesztésében. Ez a lépés előkészíti a terepet a technológia szélesebb körű kereskedelmi alkalmazására.",
+      "importance": 5
+    },
+    {
+      "title": "Az Apple 15%-os jutalékot javasol az App Store-on kívüli vásárlásokra",
+      "summary": "Az Apple azt javasolja, hogy 15%-os jutalékot szedjen az App Store-on kívülről indított alkalmazáson belüli vásárlások után. Ez a lépés komoly hatással lehet a fejlesztők bevételeire és az alkalmazás-ökoszisztémára, különösen az EU-s digitális piaci törvények fényében.",
       "importance": 4
     },
     {
-      "title": "Az Apple 15%-os részesedést kér az App Store-on kívüli vásárlásokból",
-      "summary": "Az Apple azt javasolja, hogy 15%-os jutalékot vonjon le az App Store-on kívül, de az iOS-en keresztül történő vásárlásokból is. Ez a lépés jelentős hatással lehet az alkalmazásfejlesztőkre és a digitális piactérre.",
-      "importance": 4
-    },
-    {
-      "title": "Iráni hackertámadások amerikai vízművek ellen",
-      "summary": "Részletek derültek ki az iráni hackertámadásokról, amelyek amerikai vízműveket céloztak meg, rávilágítva a kritikus infrastruktúrák kibervédelmének fontosságára. Az eset rávilágít az állami támogatású kibertámadások növekvő veszélyére.",
+      "title": "Az X (Twitter) módosítja a posztokért járó bevételi modelljét",
+      "summary": "Az X platform (korábban Twitter) bejelentette, hogy megváltoztatja, milyen alapon fizet pénzt azoknak a felhasználóknak, akik posztolnak. Ez a változás befolyásolhatja a tartalomgyártók motivációját és a platformon megjelenő tartalmak jellegét.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Európa felperzselt tájai űrfelvételeken a hőhullámok után",
-      "summary": "Az űrből készült felvételek drámai képet festenek Európa hőhullámoktól sújtott, felperzselt tájairól. A képek a klímaváltozás hatásait és a kontinens szárazsági problémáit illusztrálják.",
+      "title": "A múltbeli CO2-emelkedés katasztrofális hatása az erdőkre, tanulságok a jelennek",
+      "summary": "Kutatások kimutatták, hogy a földtörténeti múltban bekövetkezett jelentős CO2-emelkedés katasztrofális következményekkel járt az erdőkre nézve. Ez fontos figyelmeztetés a mai, gyorsan változó klímájú világ számára a növényzet jövőjét illetően.",
       "importance": 5
     },
     {
-      "title": "Áttörés a flash memóriákban: 332 réteg egy chipben",
-      "summary": "A flash memória technológiában jelentős áttörést értek el, lehetővé téve 332 réteg elhelyezését egyetlen chipben. Ez hatalmas kapacitásnövekedést és sebességet ígér az adattárolásban.",
+      "title": "Nagyszabású tanulmány cáfolja: Az illegális bevándorlás nem növeli a bűnözési arányokat",
+      "summary": "Egy kiterjedt kutatás szerint az illegális bevándorlás nem okoz bűnözési ráták emelkedését az érintett országokban. Ez a tudományos eredmény ellentmond a gyakori társadalmi és politikai diskurzusban megjelenő feltételezéseknek.",
       "importance": 4
     },
     {
-      "title": "Kockázatos lehet a földgázra támaszkodás a nagy adatközpontok számára",
-      "summary": "Az új előrejelzések szerint a nagy adatközpont-üzemeltetők megbánhatják, ha földgázra építik energiaellátásukat. A klímacélok és a fenntarthatóság szempontjából kockázatos stratégia lehet a fosszilis energiahordozókkal való hosszú távú elkötelezettség.",
+      "title": "Az mRNA alapú influenza elleni védőoltás ígéretesebb lehet a hagyományosnál",
+      "summary": "A tudományos vizsgálatok azt sugallják, hogy az mRNA technológián alapuló influenza elleni védőoltások hatékonyabbak lehetnek, mint a jelenleg elérhető hagyományos vakcinák. Ez új távlatokat nyithat a szezonális betegségek elleni védekezésben és a közegészségügyben.",
       "importance": 4
     },
     {
-      "title": "A mezőgazdaság szektorának fontossága és kihívásai",
-      "summary": "Fontos odafigyelni a mezőgazdasági szektorra, amely globális élelmezési kihívásokkal és környezeti változásokkal néz szembe. A modern technológiák és fenntartható módszerek bevezetése elengedhetetlen a jövőbeni biztonságos élelmiszerellátáshoz.",
-      "importance": 3
+      "title": "Az MI még nem képes önmaga kutatására, a korlátok továbbra is fennállnak",
+      "summary": "A Nature által közölt elemzések szerint a mesterséges intelligencia jelenlegi fejlettségi szintjén még nem képes önállóan kutatásokat végezni vagy új tudományos felfedezéseket tenni. Ez rávilágít az AI képességeinek jelenlegi korlátaira és a jövőbeli fejlesztések kihívásaira.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Változások a Premier League feljutási szabályaiban 36 év után",
-      "summary": "36 év után megváltoztatták az angol Premier League-be való feljutás szabályait, ami jelentős hatással lesz az angol fociligákra. A módosítások új izgalmakat hozhatnak a bajnokságba.",
+      "title": "Jelentős változások a Premier League feljutási rendszerében 36 év után",
+      "summary": "36 év után módosították az angol Premier League-be való feljutás szabályait, ami jelentősen befolyásolhatja az alsóbb ligás csapatok esélyeit. A változások célja a bajnokság kiegyenlítettebbé tétele és új dinamikák bevezetése.",
       "importance": 5
     },
     {
-      "title": "Tragikus baleset a portugál körversenyen: Elhunyt egy kerékpáros",
-      "summary": "Egy walesi kerékpáros, Finlay Tarling halálos balesetet szenvedett a portugál körversenyen, miután autójával ütközött. Csapata visszalépett a versenyből a tragédia miatt.",
+      "title": "Tragikus baleset a portugál kerékpáros körversenyen: halálos áldozat",
+      "summary": "Egy walesi kerékpáros életét vesztette, miután autóval ütközött a portugál körversenyen. A tragédia beárnyékolta a sporteseményt, és felhívja a figyelmet a versenyzők biztonságára, valamint a közlekedésbiztonsági intézkedések fontosságára.",
       "importance": 5
-    },
-    {
-      "title": "Parkour segíti az időseket a sérülések megelőzésében",
-      "summary": "A parkour edzés meglepő módon segíthet az időseknek elkerülni a sérüléseket és megőrizni fizikai képességeiket. Az extrém mozgásforma adaptált változatai javítják az egyensúlyt és a koordinációt.",
-      "importance": 3
-    },
-    {
-      "title": "Hétvégi olvasnivalók: Szó esik az 'extrém Szigetezésről' is",
-      "summary": "A hétvégi olvasnivalók között szerepel egy cikk az 'extrém Szigetezésről', amely valószínűleg a fesztivál különleges vagy kihívást jelentő oldalait boncolgatja. Bár nem klasszikus sportesemény, a 'extrém' jelző valamilyen fizikai vagy mentális teljesítményre utalhat.",
-      "importance": 2
     }
   ]
 }

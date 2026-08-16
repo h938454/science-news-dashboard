@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "A Sziget fesztivál a vártnál nagyobb veszteséggel zárta az évet",
-      "summary": "Az idei Sziget Fesztivál kevesebb látogatót vonzott, mint a tavalyi évben, aminek következtében a vártnál nagyobb pénzügyi veszteséggel, nullszaldó helyett jelentős hiánnyal zárult az esemény. Gerendai Károly elmondása szerint a számok nem alakultak a kívánt módon.",
-      "importance": 4
-    },
-    {
-      "title": "Tisza Párt elindítja a Közhang platformot társadalmi egyeztetésre",
-      "summary": "A Tisza Párt Közhang néven új online platformot indít, ahol a lakosság elmondhatja véleményét a kormány döntéseiről és társadalmi ügyekről. A kezdeményezés célja a párbeszéd és a társadalmi egyeztetés ösztönzése.",
-      "importance": 4
-    },
-    {
-      "title": "Visszaállítanák a szülők és óvodapedagógusok döntési jogát az iskolaérettségről",
-      "summary": "Javaslat született arra, hogy az Oktatási Hivatal helyett ismét a szülők és az óvodapedagógusok dönthessenek a gyermekek iskolaérettségéről. Ez a változtatás nagyobb rugalmasságot és egyéni mérlegelési lehetőséget biztosítana az iskolakezdés kérdésében.",
-      "importance": 3
-    },
-    {
-      "title": "Botrány a visszavont autópálya-koncesszió körül: Vitézy Dávid és Mészáros cége összetűzésben",
-      "summary": "Vitézy Dávid kritikával illette Mészáros Lőrinc cégét a 149 milliárdos, később visszavont autópálya-koncesszió kapcsán, elégtelennek nevezve a magyarázatokat. Mészáros cége visszautasítja a vádakat, és kijelenti, hogy a megbízást jogosan kapták meg.",
+      "title": "Vitézy Dávid visszaszólt Mészáros Lőrincéknek, szerinte nem elég alaposan magyarázkodnak a 149 milliárdos megbízásról",
+      "summary": "Vitézy Dávid szerint Mészáros Lőrincék nem adnak kellő magyarázatot a 149 milliárdos autópálya-koncessziós megbízás körüli vitára. Vitézy a visszavont szerződés ellenére is alapos elszámolást sürget a közpénzek felhasználásáról.",
       "importance": 5
+    },
+    {
+      "title": "A kormány nem beszél róla, de a tűzifa áfacsökkentése nem a legjobb szociális segítség",
+      "summary": "A kormány hallgat a tűzifa áfacsökkentéséről, amely elemzők szerint nem a leghatékonyabb szociális intézkedés. Bár segíthet a rászorulóknak, más, célzottabb támogatási formák jobban enyhíthetnék a fűtési költségek terhét.",
+      "importance": 4
+    },
+    {
+      "title": "Nem jött össze a nullszaldó az idei Szigeten",
+      "summary": "Az idei Sziget Fesztivál a vártnál kevesebb látogatóval és pénzügyi veszteséggel zárult. A szervezők elismerték, hogy a számok nem úgy alakultak, ahogy szerették volna, ami kihívások elé állítja a fesztivál jövőjét.",
+      "importance": 4
+    },
+    {
+      "title": "Órákon át döcögött az OTP-nél a kártyás fizetés",
+      "summary": "Az OTP Banknál jelentős fennakadások voltak a kártyás fizetési rendszerekben, órákon át nehezítve a vásárlók és kereskedők dolgát. A probléma országosan érintette a bank ügyfeleit, és sok kellemetlenséget okozott.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Pusztító földrengés Indonéziában, mentőcsapatok keresik a túlélőket",
-      "summary": "Erős földrengés rázta meg Indonéziát, jelentős károkat okozva. Mentőcsapatok indultak a túlélők felkutatására a romok alatt, miközben a hatóságok a károk felmérésén dolgoznak.",
-      "importance": 4
-    },
-    {
-      "title": "„Putyin, dögölj meg!” – felkavaró kiáltás egy lebombázott színház romjai közül",
-      "summary": "Egy nő kétségbeesett kiáltása hallatszik egy lebombázott ukrán színház romjai közül, ami az orosz-ukrán háború pusztító valóságát és az elszenvedők mély fájdalmát illusztrálja. A drámai felvétel a konfliktus emberi oldalára hívja fel a figyelmet.",
+      "title": "Hatalmas földrengés Indonéziában – mentők keresik a túlélőket",
+      "summary": "Pusztító erejű földrengés rázta meg Indonéziát, számos épület összedőlt és több áldozatot követelt. A mentőcsapatok megfeszítetten dolgoznak a túlélők felkutatásán a romok alatt.",
       "importance": 5
     },
     {
-      "title": "A Reform UK párt radikális jóléti reformot és 50 milliárd fontos megtakarítást ígér",
-      "summary": "A brit Reform UK párt egy ambiciózus tervet mutatott be a jóléti rendszer átalakítására, amely 50 milliárd font megtakarítást eredményezne. A javaslat célja a közkiadások csökkentése és a szociális támogatások újragondolása.",
+      "title": "Marokkó tucatnyi migránst tartóztatott le, akik Ceutába próbáltak átjutni",
+      "summary": "A marokkói hatóságok több tucat migránst vettek őrizetbe, akik megpróbáltak illegálisan átjutni a spanyol Ceuta enklávéba. Az eset rávilágít az Európa felé irányuló migrációs nyomás folyamatos problémájára.",
       "importance": 4
     },
     {
-      "title": "Liechtenstein megváltoztatja a trónöröklési rendet: már nem csak fiúk örökölhetnek",
-      "summary": "Liechtenstein történelmi döntést hozott, eltörölve a kizárólagos fiúági trónöröklést, így mostantól nem csak fiúgyermekek örökölhetik a trónt. Ez a lépés egy modernizációs folyamat része a hercegségben.",
-      "importance": 3
+      "title": "„Putyin, dögölj meg!” – sikítja egy nő egy lebombázott színház közepén Ukrajnában",
+      "summary": "Egy ukrán nő fájdalmasan sikoltozta Putyin nevét egy lebombázott színház romjai között, ami az orosz-ukrán háború brutális emberi áldozatát szimbolizálja. A jelenet megrendítően mutatja be a civil lakosság szenvedését.",
+      "importance": 5
+    },
+    {
+      "title": "Brit drónok támadták Oroszországot",
+      "summary": "Jelentések szerint brit gyártmányú drónok csaptak le oroszországi célpontokra, ami potenciálisan növelheti a feszültséget az ukrajnai háborúban. Az incidens új fejezetet nyithat a konfliktusban részt vevő felek közötti katonai műveletekben.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Vádat emeltek egy férfi ellen, mert Grok AI-val alakított át gyerekkori fotót explicit képpé",
-      "summary": "Egy nő azt állítja, hogy mostohaapja a Grok mesterséges intelligencia segítségével változtatta gyerekkori fényképeit explicit tartalmú képekké. Az eset rávilágít az AI-generált tartalommal való visszaélés súlyos etikai és biztonsági kockázataira.",
+      "title": "Az Apple 15%-os részesedést kérhet a külső App Store-on keresztüli vásárlásokból",
+      "summary": "Az Apple azt javasolja, hogy 15%-os részesedést kapjon az App Store-on kívüli, harmadik féltől származó alkalmazás-vásárlásokból. Ez a lépés jelentős változást jelenthet az alkalmazásfejlesztők számára, és komoly vitákat robbanthat ki az uniós szabályozásokkal kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic részletezi a Claude AI új vízjelezési technológiáját",
-      "summary": "Az Anthropic közzétette a Claude mesterséges intelligencia által generált tartalmak vízjelezésének részleteit, melynek célja az eredet azonosítása. A kutatók azonban továbbra is szkeptikusak abban, hogy a láthatatlan vízjelek hatékonyan visszaszoríthatják-e az \"AI slop\" jelenséget.",
+      "title": "Önjáró kamionokat tesztelnek hivatalosan Kalifornia autópályáin",
+      "summary": "Kalifornia állam hivatalosan is engedélyezte az önjáró kamionok tesztelését az autópályáin, ami hatalmas lépés az autonóm járműtechnológia fejlődésében. A tesztek a logisztika és a közlekedés jövőjét formálhatják át.",
       "importance": 4
     },
     {
-      "title": "Felgyorsultak a tárgyalások a PayPal eladásáról a Stripe és az Advent felé",
-      "summary": "Egyre intenzívebbek a tárgyalások a PayPal eladásáról, lehetséges vevőként a Stripe és az Advent is szóba került. Ez a potenciális akvizíció jelentős átrendeződést hozhat a fintech iparágban.",
-      "importance": 4
+      "title": "Női felhasználó állítja, mostohaapja a Grok AI-t használta gyerekkori fotók explicit képekké alakítására",
+      "summary": "Egy nő azt állítja, hogy mostohaapja a Grok mesterséges intelligenciát felhasználva alakította át gyerekkori fotóit explicit tartalmú képekké. Az eset rávilágít a mesterséges intelligencia visszaélési lehetőségeire és a digitális biztonság fontosságára.",
+      "importance": 5
     },
     {
-      "title": "Önjáró kamionokat tesztelnek Kalifornia autópályáin",
-      "summary": "Kalifornia autópályáin megkezdődött az önjáró kamionok hivatalos tesztelése, ami újabb lépést jelent az autonóm járművek kereskedelmi alkalmazása felé. Ez a fejlesztés forradalmasíthatja a logisztikai és szállítási ágazatot.",
-      "importance": 3
+      "title": "A TikTok mini-szappanoperái szándékosan függővé tesznek, milliárdos üzletté váltak",
+      "summary": "A TikTokon megjelenő rövid, szappanopera-szerű sorozatok milliárdos üzletté váltak, melyeket szándékosan úgy terveztek, hogy függőséget okozzanak a felhasználókban. Ez a trend aggályokat vet fel a közösségi média platformok etikai felelősségével és a felhasználók pszichológiai jólétével kapcsolatban.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Nagy tanulmány szerint a dokumentálatlan migráció nem növeli a bűnözési arányt",
-      "summary": "Egy nagyszabású kutatás eredményei azt mutatják, hogy a dokumentálatlan migráció nem vezet a bűnözési arányok növekedéséhez. Ez a megállapítás ellentmond számos közhiedelemnek és politikai narratívának.",
-      "importance": 4
-    },
-    {
-      "title": "Az ősi CO2-szint emelkedése katasztrofális hatással volt az erdőkre",
-      "summary": "Az ősi időszakokban bekövetkezett szén-dioxid szint emelkedések katasztrofális következményekkel jártak az erdőkre nézve, súlyos pusztulást okozva. Ez a felfedezés komoly tanulsággal szolgálhat a mai növényvilág és az éghajlatváltozás kapcsán.",
+      "title": "Az ősi CO₂-szint emelkedés katasztrofális volt az erdőkre – mit jelent ez a mai növényekre nézve?",
+      "summary": "Egy kutatás kimutatta, hogy a szén-dioxid ősi, drasztikus emelkedése katasztrofális hatással volt az erdőkre, jelentősen befolyásolva a növények növekedését és a globális ökoszisztémát. Az eredmények súlyos tanulságokkal szolgálnak a jelenlegi klímaváltozás hatásairól.",
       "importance": 5
     },
     {
-      "title": "Az mRNA alapú influenza elleni oltás hatékonyabb lehet a hagyományosnál",
-      "summary": "A tudományos vizsgálatok szerint az mRNA technológián alapuló influenza elleni védőoltás potenciálisan hatékonyabb lehet a hagyományos szezonális vakcináknál. Ez a fejlesztés áttörést hozhat az influenza megelőzésében.",
+      "title": "Hatékonyabb lehet az mRNS alapú influenza elleni oltás a hagyományosnál? Mit mond a tudomány?",
+      "summary": "A tudományos vizsgálatok azt sugallják, hogy az mRNS alapú influenza elleni vakcinák hatékonyabb védelmet nyújthatnak, mint a hagyományos oltások. Ez áttörést jelenthet a szezonális betegségek elleni védekezésben és a közegészségügyben.",
       "importance": 4
     },
     {
-      "title": "A mesterséges intelligencia még nem áll készen arra, hogy saját magát kutassa",
-      "summary": "Kutatók szerint a mesterséges intelligencia jelenlegi fejlettségi szintjén még nem képes önállóan, etikus és megbízható módon kutatási tevékenységet végezni. Ez a megállapítás rávilágít az AI képességeinek korlátaira és a további fejlesztés szükségességére.",
+      "title": "Egy nagyszabású tanulmány szerint az illegális migráció nem növeli a bűnözési arányt",
+      "summary": "Egy átfogó tanulmány szerint az illegális migráció nem jár együtt a bűnözési arányok növekedésével, megcáfolva ezzel egy gyakori társadalmi feltételezést. Az eredmények jelentős hatással lehetnek a migrációs politikákra és a társadalmi diskurzusra.",
+      "importance": 4
+    },
+    {
+      "title": "Az Anthropic új AI vízjelének hatásossága – kutatók szkeptikusak",
+      "summary": "Az Anthropic új mesterséges intelligencia vízjelet vezet be, de kutatók szkeptikusak annak hatékonyságával kapcsolatban, hogy meg tudja-e gátolni az AI által generált „szemetet”. A fejlesztés a mesterséges intelligencia hitelességének és a dezinformáció elleni küzdelemnek kulcskérdése.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Két magyar ezüstérem az úszó Európa-bajnokságon",
-      "summary": "Sárkány Zalán és Márton Richárd is ezüstérmet szerzett az úszó Európa-bajnokságon. Mindkét sportoló kiváló teljesítményt nyújtott, hozzájárulva a magyar csapat sikereihez a kontinensviadalon.",
+      "title": "Két magyar ezüst az úszó Európa-bajnokságon szombaton",
+      "summary": "Két magyar úszó, Sárkány Zalán és Márton Richárd is ezüstérmet szerzett az Európa-bajnokságon szombaton. Ezzel kiválóan szerepeltek a magyar sportolók a kontinentális versenyen.",
+      "importance": 5
+    },
+    {
+      "title": "36 év után változtatták meg, kik juthatnak fel az angol Premier League-be",
+      "summary": "Jelentősen módosították az angol labdarúgó Premier League feljutási szabályait 36 év után. Ez a változás alapjaiban alakíthatja át az angol futball bajnokságok struktúráját és a csapatok esélyeit.",
       "importance": 4
     },
     {
-      "title": "Kubatov Gábor ősszel ismét indul a Ferencváros elnöki posztjáért",
-      "summary": "Kubatov Gábor bejelentette, hogy az őszi tisztújításon ismét pályázik a Ferencvárosi Torna Club elnöki posztjára, remélve a további négy éves mandátumot. Ez a döntés kulcsfontosságú a klub jövőbeli irányítása szempontjából.",
-      "importance": 3
-    },
-    {
-      "title": "Történelmi változás a Premier League feljutási rendszerében 36 év után",
-      "summary": "36 év után jelentős változásokat vezettek be az angol Premier League feljutási szabályaiban. Ez az átalakítás komoly hatással lehet az alsóbb ligák csapataira és az angol labdarúgás egészére.",
+      "title": "Hunt harmadik aranyát szerezte, Asher-Smith történelmet írt",
+      "summary": "A brit sportoló Hunt harmadik aranyérmét nyerte, míg Asher-Smith történelmet írt kivételes teljesítményével. Mindketten kiemelkedően szerepeltek a nemzetközi versenyeken.",
       "importance": 4
     },
     {
-      "title": "A tehetség már nem elég a Formula E-ben a brit pilóta szerint",
-      "summary": "Nagy-Britannia legfiatalabb Formula E versenyzője szerint a puszta tehetség már nem elegendő a sorozatban való sikerhez, a sportágban való érvényesüléshez más tényezők is kritikusak. Ez az állítás rávilágít a modern motorsportok kihívásaira.",
+      "title": "Nagy-Britannia legfiatalabb Formula E pilótája szerint a tehetség már nem elég",
+      "summary": "Nagy-Britannia legfiatalabb Formula E pilótája szerint a modern motorsportban már nem elegendő pusztán a tehetség a sikerhez. Az állítás rávilágít a versenyzés egyre komplexebb és sokoldalúbb elvárásaira.",
       "importance": 3
     }
   ]

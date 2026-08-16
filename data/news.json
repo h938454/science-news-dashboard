@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "A kormány nem beszél róla, de a tűzifa áfacsökkentése nem a legjobb szociális segítség",
+      "link": "https://telex.hu/g7/elet/2026/08/16/tuzifa-afacsokkentes-hatranyok-szennyezes-kibocsatas-szegenyek",
+      "summary": "Érthető, hogy a kormány gyorsan akar segíteni a szegényeken, de lennének ennél jobb módszerek is, ráadásul a lépésnek hosszabb távon több a kára, mint a haszna."
+    },
+    {
       "title": "Selena Gomez ügyvédje szerint a színésznő nem csalt a startupjára adott 1,2 millió dollárral",
       "link": "https://telex.hu/after/2026/08/15/selena-gomez-szerint-alaptalanok-a-csalasrol-szolo-vadak",
       "summary": "A színésznő jogi csapata szerint teljesen alaptalanok a befektetői csoport vádjai."
@@ -69,11 +74,6 @@
       "title": "Márton Richárd ezüstérmes lett 200 méter pillangón a vizes Eb-n",
       "link": "https://telex.hu/sport/2026/08/15/kos-hubert-marton-richard-uszas-eb-200-m-pillango-donto",
       "summary": "Márton egyéni csúccsal lett második. Kós Hubert hatodik helyen végzett a döntőben, az aranyat Léon Marchand nyerte."
-    },
-    {
-      "title": "Orbán Anita a szlovák miniszterelnök-helyettessel egyeztetett arról, hogy tartsák fenn a stabil vízszintet",
-      "link": "https://telex.hu/belfold/2026/08/15/orban-anita-szlovakia-vizugy-egyeztetes",
-      "summary": "A magyar külügyminiszter szerint Nagybajcsnál biztosított az a vízhozam, amelyre szükségünk van."
     }
   ],
   "Portfolio": [],
@@ -233,9 +233,24 @@
   ],
   "BBC": [
     {
+      "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+      "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
+    },
+    {
       "title": "Major incidents across UK putting firefighters under 'incredible pressure', fire chief says",
       "link": "https://www.bbc.co.uk/news/articles/cwyjjvd4g0qo?at_medium=RSS&at_campaign=rss",
       "summary": "Major incidents declared across England and Wales with blazes in Stourbridge, Sandwell and Pershore."
+    },
+    {
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday."
+    },
+    {
+      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+      "link": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life."
     },
     {
       "title": "Jason Arday death 'tragedy on so many levels' says PM",
@@ -243,24 +258,9 @@
       "summary": "Andy Burnham says the former Cambridge professor's death is a \"really sad, sad and sorry state of affairs\"."
     },
     {
-      "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia."
-    },
-    {
-      "title": "Met Police apologises for data breach involving alleged Al Fayed victims",
-      "link": "https://www.bbc.co.uk/news/articles/c1w1yv987jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland Yard copied in all those who had signed up to receive a monthly update."
-    },
-    {
-      "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
-      "link": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power."
-    },
-    {
-      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
-      "link": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal."
+      "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way."
     },
     {
       "title": "Hunt wins third gold as Asher-Smith makes history",
@@ -268,34 +268,34 @@
       "summary": "Amy Hunt claims the third gold medal of her bid for a historic quadruple and Dina Asher-Smith makes history as Great Britain win two relay golds at the European Athletics Championships."
     },
     {
-      "title": "Analysis: Arday's death will send shockwaves through a divided academia",
-      "link": "https://www.bbc.co.uk/news/articles/cr59jg1ypd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Barely 1% of professors at UK universities are black, so he was joining a small and highly visible minority in academia, writes Education Editor Branwen Jeffreys."
+      "title": "What's driving men to get penis fillers, despite the risks?",
+      "link": "https://www.bbc.co.uk/news/articles/c626d3xqd83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Men who have had the procedure can expect 10-20% more girth for the next six to nine months - but it can go wrong."
     },
     {
-      "title": "Sellers puzzled by bulk orders suspect secondhand books being destroyed to train AI",
-      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Independent booksellers have seen scores of their novels being shipped to far-off warehouses."
+      "title": "From making friends to managing money: Students' advice for this year's freshers",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "BC News asked current students about the worries they had before arriving at university how they overcame them."
     },
     {
-      "title": "When my dog died, my grief was overwhelming and complicated",
-      "link": "https://www.bbc.co.uk/news/articles/c4gx8ljyn0po?at_medium=RSS&at_campaign=rss",
-      "summary": "The death of a much-loved pet can lead to a flood of emotions - including guilt, writes Helena Wilkinson."
+      "title": "The influencers getting bitten while chasing the perfect shark shot",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked."
     },
     {
-      "title": "Many Canadians are boycotting the US - here's where they're travelling instead",
-      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president."
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mobile game No 10: Full Confidence recently ranked above Minecraft on the UK App Store paid games chart"
     },
     {
-      "title": "Five years after the Taliban swept to power, does the West have any influence?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five years after the Taliban swept to power, many are asking whether the West has any bargaining chips left"
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC’s Katy Watson explains why triple-murder Erin Patterson is back in court this week trying to overturn her conviction."
     },
     {
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers."
+      "title": "Unauthorised sites are growing but travellers say they are forced to break the law",
+      "link": "https://www.bbc.co.uk/news/articles/cpq3w8q0j9go?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says such developments are unacceptable – so why do they keep springing up?"
     },
     {
       "title": "The Papers: UK-made drones 'strike Russia' and 'phone theft Britain'",
@@ -303,9 +303,9 @@
       "summary": "Ukraine uses UK British-made drones to strike Russia and 230 phones a day stolen in the UK lead the Sunday papers."
     },
     {
-      "title": "'Fury' at Tarling death as cycling union calls for better helmets",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cyclists' union expresses \"fury\" over the death of British rider Fin Tarling during Friday's stage of the Volta a Portugal."
+      "title": "Britain's youngest Formula E driver says talent isn't enough anymore",
+      "link": "https://www.bbc.co.uk/news/articles/ckg40e24wnpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Taylor Barnard, 22, says talented young drivers often get shut out because of financial issues."
     }
   ],
   "TechCrunch": [

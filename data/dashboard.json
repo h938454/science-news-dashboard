@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Halálos busztragédia az M3-ason, Donald Tusk különgépet küld",
-      "summary": "12 lengyel zarándok vesztette életét az M3-ason történt buszbalesetben Mezőkeresztesnél. Donald Tusk lengyel miniszterelnök különgépet küld Magyarországra a sérültek és áldozatok hazaszállítására.",
+      "title": "Halálos buszbaleset az M3-ason: Tusk különgépet küldött, a sofőrt őrizetbe vették",
+      "summary": "Lengyel zarándokok busza borult árokba az M3-as autópályán, többen meghaltak és megsérültek. Donald Tusk lengyel miniszterelnök különgépet küldött a sérültek hazaszállítására, a busz sofőrjét őrizetbe vették.",
       "importance": 5
     },
     {
-      "title": "Tíz hektáron ég a tűz Szeged határában, autókereskedés is kigyulladt",
-      "summary": "Hatalmas tűz pusztít Szeged közelében, tíz hektáron ég a tarló és egy autókereskedés is lángra kapott, több autó kiégett. A tűzoltók nagy erőkkel dolgoznak az oltáson.",
+      "title": "Kulturális államtitkár Vidnyánszkyékhoz: Menesszék a Színháztörténeti Múzeum igazgatóját",
+      "summary": "A kulturális államtitkár felszólította Vidnyánszky Attilát és társait, hogy bocsássák el az Országos Színháztörténeti Múzeum és Intézet igazgatóját. Ez egy magas szintű politikai beavatkozás a kulturális intézmények működésébe.",
       "importance": 4
     },
     {
-      "title": "Dönt az Alkotmánybíróság a Tisza-párttal kapcsolatos alapvető kérdésekről",
-      "summary": "Az Alkotmánybíróság hétfőn hoz ítéletet a Tisza-párthoz kapcsolódó rendszerváltás alapvető döntéseiről. A döntés fontos politikai precedenst teremthet a jövőre nézve.",
+      "title": "Az Alkotmánybíróság dönt a Tisza-párt „rendszerváltó” határozatairól",
+      "summary": "Az Alkotmánybíróság hétfőn vizsgálja meg a Tisza mozgalomhoz köthető, állítólagos rendszerváltó döntések alapvető kérdéseit. Ez a fejlemény jelentős politikai és jogi következményekkel járhat Magyarországon.",
       "importance": 4
     },
     {
-      "title": "Visszaadják a szülőknek és óvodapedagógusoknak az iskolaérettségi döntést",
-      "summary": "Újra a szülők és az óvodapedagógusok hatáskörébe kerül, hogy eldöntsék, egy gyermek iskolaérett-e. Ez a változás jelentős mértékben érinti az oktatási rendszert.",
+      "title": "Tűzvész pusztított Szeged határában, autókereskedés is lángra kapott",
+      "summary": "Tíz hektáron égett a tarló Szegednél, a lángok elértek egy autókereskedést is, ahol több autó kigyulladt. A tűz jelentős anyagi károkat okozott.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Soha nem látott esőzések és áradások Japánban, több halálos áldozat",
-      "summary": "Rekordmennyiségű eső zúdult Japánra, utak áztak el és autók kerültek víz alá, többen életüket vesztették. Az ország küzd az extrém időjárás okozta károkkal.",
+      "title": "Dróntámadások Oroszország és Ukrajna ellen, raktárakat és piacokat ért találat",
+      "summary": "Éjszaka több támadás érte Oroszországot és Ukrajnát: egy Wildberries raktár és rakétaüzemanyag-gyár Oroszországban, valamint egy kijevi piac vált célponttá. A harcok intenzitása továbbra is magas.",
       "importance": 5
     },
     {
-      "title": "Izrael Libanonra mért csapást a Hezbollah támadására válaszul, 11 halott",
-      "summary": "Izrael légicsapásokat hajtott végre Libanonban, válaszul a Hezbollah támadásaira, melyek következtében 11 ember meghalt. A konfliktus eszkalálódik a térségben.",
+      "title": "Halálos földrengés Indonéziában, több ezer ember hajléktalanná vált",
+      "summary": "Indonéziát súlyos földrengés rázta meg, melynek következtében több ezer ember kényszerült elhagyni otthonát. A mentési munkálatok folyamatosan zajlanak a túlélők felkutatására és a károk felmérésére.",
       "importance": 5
     },
     {
-      "title": "Ukrán támadások orosz és kijevi célpontok ellen az éjszaka",
-      "summary": "Oroszországban egy Wildberries-raktárat, Kijevben pedig egy piacot ért éjszakai támadás. A légicsapások kölcsönösen súlyos károkat okoztak mindkét félnek.",
+      "title": "Soha nem látott esőzés Japánban, utak kerültek víz alá, halálos áldozatok",
+      "summary": "Extrém mennyiségű eső zúdult Japánra, ami utakat öntött el és autókat sodort el, több ember halálát okozva. Az ország az éghajlatváltozás okozta időjárási szélsőségekkel küzd.",
       "importance": 4
     },
     {
-      "title": "Donald Trump 2028-ban újra indulna az amerikai elnökválasztáson",
-      "summary": "Donald Trump volt amerikai elnök bejelentette, hogy a 2028-as elnökválasztáson ismét indulni kíván. Ez jelentős fejlemény az amerikai és globális politikai életben.",
+      "title": "Orosz drónt lőttek le Románia felett a hajnali órákban",
+      "summary": "Románia bejelentette, hogy hajnalban egy orosz drónt lőttek le az ország légterében. Az incidens rávilágít a regionális biztonsági feszültségekre és az ukrajnai háború határokon átnyúló hatásaira.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Grok AI-t használtak gyermekfotó obszcén képpé alakítására",
-      "summary": "Egy nő azt állítja, mostohaapja a Grok mesterséges intelligenciát használta gyermekkori fényképeinek explicit tartalmú képekké alakítására. Az eset súlyos etikai kérdéseket vet fel az AI-val való visszaélés kapcsán.",
+      "title": "Grok AI-t használtak gyermekfotó explicit képpé alakítására",
+      "summary": "Egy nő azt állítja, mostohaapja a Grok AI segítségével alakított át gyermekkori fotót explicit tartalmú képpé. Az eset komoly aggodalmakat vet fel az AI etikai felhasználásával és a gyermekvédelemmel kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Apple: 15%-os díjat kérne az App Store-on kívüli vásárlásokért",
-      "summary": "Az Apple azt javasolja, hogy az App Store-on kívülről történő vásárlások után is szedjen be 15%-os jutalékot. Ez a lépés komoly hatással lehet a fejlesztőkre és az alkalmazáspiacra.",
+      "title": "Az Apple 15%-os részesedést javasol az App Store-on kívüli vásárlásokból",
+      "summary": "Az Apple azt tervezi, hogy 15%-os részesedést von le az alkalmazáson kívüli vásárlásokból, még akkor is, ha azok az App Store-on kívül, alternatív fizetési módokon keresztül történnek. Ez a javaslat jelentős változásokat hozhat a fejlesztők és a felhasználók számára.",
+      "importance": 5
+    },
+    {
+      "title": "Az Anthropic új vízjeleket vezet be az AI generált tartalmak hitelességéért",
+      "summary": "Az Anthropic, a Claude AI fejlesztője, új, láthatatlan vízjeleket vezet be mesterséges intelligencia által generált tartalmainak hitelességének biztosítására. A kutatók azonban szkeptikusak a vízjelek hatékonyságával kapcsolatban az AI által gyártott \"szemét\" megfékezésében.",
       "importance": 4
     },
     {
-      "title": "Önvezető teherautók hivatalos tesztelése Kalifornia autópályáin",
-      "summary": "Az önvezető teherautók hivatalosan is megkezdték a tesztelésüket Kalifornia autópályáin. Ez fontos lépés az autonóm járműtechnológia fejlődésében és szélesebb körű elterjedésében.",
-      "importance": 4
-    },
-    {
-      "title": "Felpörögnek a tárgyalások a PayPal eladásáról a Stripe-nak és Adventnek",
-      "summary": "Egyre intenzívebbé válnak a tárgyalások a PayPal esetleges eladásáról a Stripe és az Advent befektetési csoport számára. Ez hatalmas felvásárlás lehet a fintech szektorban.",
+      "title": "Iráni hackerek támadhatták meg amerikai vízműveket",
+      "summary": "Információk szerint iráni hackerek amerikai vízműveket céloztak meg kibertámadásokkal. Ez a jelentés kritikus nemzetbiztonsági aggályokat vet fel a kulcsfontosságú infrastruktúra védelmével kapcsolatban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Kiszáradóban egy ősi tó a Kiskunságban az éghajlatváltozás miatt",
-      "summary": "Egy valaha hatalmas, nedves rétekkel körülvett ősi tó szárad ki a Kiskunságban. Ez a jelenség az éghajlatváltozás helyi hatásaira utal.",
+      "title": "Új bizonyítékok a rejtélyes „ragasztógömbökről” a fizikában",
+      "summary": "A legújabb kutatások újabb bizonyítékokat tártak fel a feltételezett \"ragasztógömbök\" létezésére vonatkozóan a fizikában. Ez a felfedezés alapvető jelentőségű lehet a kvantum-színdinamika és az elemi részecskék megértésében.",
+      "importance": 5
+    },
+    {
+      "title": "Az ősi CO2-szint emelkedés katasztrofális volt az erdőkre",
+      "summary": "Egy tanulmány szerint az ősi időkben bekövetkezett CO2-szint emelkedés katasztrofális hatással volt a bolygó erdőire. Ez a történelmi minta fontos tanulságokkal szolgálhat a mai klímaváltozás és annak növényvilágra gyakorolt hatásai megértéséhez.",
       "importance": 4
     },
     {
-      "title": "Százmillió dollár feletti finanszírozás fúziós startupoknak",
-      "summary": "Számos fúziós startup gyűjtött már 100 millió dollárnál is több befektetést, jelezve a fúziós energia ígéretét. Ez komoly előrelépést jelenthet a tiszta energia kutatásában.",
+      "title": "Az mRNA alapú influenza elleni oltás hatékonyabb lehet a hagyományosnál",
+      "summary": "A tudományos kutatások szerint az mRNA technológián alapuló influenza elleni oltás hatékonyabb védelmet nyújthat, mint a hagyományos szezonális vakcinák. Ez áttörést jelenthet a közegészségügyben és a vakcinafejlesztésben.",
       "importance": 4
     },
     {
-      "title": "Adatközpontok szélturbinákba integrálása a problémák megoldására",
-      "summary": "Egy innovatív megoldás szerint adatközpontokat helyeznének el szélturbinákba, ami több környezeti és technológiai problémát is orvosolhatna. Ezáltal javulhatna az energiahatékonyság és a hűtés.",
-      "importance": 3
-    },
-    {
-      "title": "A hadihajón lévő katonák mentális terhei és a megkönnyebbülés vágya",
-      "summary": "Nehéz hallani a hadihajókon szolgáló személyzet mentális terheiről, akik megkönnyebbülést jelentő leugrásról gondolkodnak. Ez rávilágít a szélsőséges körülmények között élők pszichológiai kihívásaira.",
-      "importance": 2
+      "title": "A nagyszabású kutatás szerint az illegális migráció nem növeli a bűnözési rátát",
+      "summary": "Egy nagyszabású tanulmány kimutatta, hogy a dokumentumok nélküli migráció nem jár együtt a bűnözési ráták emelkedésével. Ez a kutatás fontos társadalmi és politikai vitákba hozhat új perspektívákat.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Szenzációs magyar siker az Eb maratonfutásban: Vindics-Tóth és Szabó dobogón",
-      "summary": "Vindics-Tóth Lili Anna ezüstérmet szerzett, Szabó Nóra pedig negyedik lett a maratonfutásban az Európa-bajnokságon. Ez kiemelkedő magyar atlétikai teljesítmény.",
+      "title": "Szenzációs magyar maratoni siker az Eb-n: Vindics-Tóth ezüst-, Szabó negyedik",
+      "summary": "Vindics-Tóth Lili Anna ezüstérmet szerzett, Szabó Nóra pedig negyedik lett a maratonfutásban az Európa-bajnokságon. Ez kiemelkedő magyar eredmény a nemzetközi atlétikai színtéren.",
       "importance": 5
     },
     {
-      "title": "Szurkolói hatalom a német fociban: bajban a Lipcse és a Leverkusen",
-      "summary": "A német futballban a szurkolók szava súlyos, ami miatt a Lipcse és a Leverkusen klubok is bajba kerülhetnek. Ez a hír rávilágít a szurkolói kultúra erejére és a klubok vezetése közötti feszültségre.",
+      "title": "A német fociban a szurkolóké a végső szó, bajban lehet a Lipcse és a Leverkusen",
+      "summary": "A német labdarúgásban a szurkolói tulajdonjogok erősek, ami befolyásolja a klubok működését. Ez a modell kihívások elé állíthatja az olyan befektetői hátterű csapatokat, mint az RB Leipzig és a Bayer Leverkusen.",
+      "importance": 4
+    },
+    {
+      "title": "Influenszerek életveszélyes cápafotózása: harapások a tökéletes képért",
+      "summary": "Influenszerek hajlandók kockáztatni, hogy tökéletes cápafotókat készítsenek, ami harapásokat és sérüléseket eredményez. Ez a trend rávilágít az extrém tartalomgyártás veszélyeire és az állatvédelem fontosságára.",
       "importance": 2
+    },
+    {
+      "title": "Fejjel játszott és vesztett",
+      "summary": "Egy meg nem nevezett sporteseményen vagy versenyen valaki kockáztatott, de végül vesztesként fejezte be a küzdelmet. A döntés rosszul sült el.",
+      "importance": 1
     }
   ]
 }

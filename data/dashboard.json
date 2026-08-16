@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Busztragédia az M3-ason Mezőkeresztesnél",
-      "summary": "Halálos buszbaleset történt az M3-as autópályán Mezőkeresztes közelében, ahol több utas életét vesztette és sokan megsérültek. A jármű alá szorult embereket a tűzoltók szabadították ki.",
+      "title": "Tizenketten haltak meg az M3-ason történt buszbalesetben",
+      "summary": "Súlyos buszbaleset történt az M3-as autópályán, Mezőkeresztes közelében, ahol tizenketten vesztették életüket. A baleset számos sérültet is eredményezett, több utas a jármű alá szorult.",
       "importance": 5
     },
     {
-      "title": "Paks körüli politikai viták és Magyar Péter állításai",
-      "summary": "A paksi események körül forognak a politikai viták, a Fidesz Magyar Péter \"politikai őrjöngéséről\" beszélt, míg Orbán Viktor \"új szavakat tanított\" Paksról. Magyar Péter konkrét állításokat is tett, például 5 ezer tonna kő érkezéséről.",
+      "title": "A Tisza Párt elindítja a Közhang platformot",
+      "summary": "A Tisza Párt Közhang néven új digitális platformot indít, ahol bárki elmondhatja véleményét társadalmi kérdésekről. Ezzel a párt a szélesebb nyilvánosság bevonását célozza a politikai diskurzusba.",
+      "importance": 4
+    },
+    {
+      "title": "Kevesebben voltak az idei Szigeten, a fesztivál a vártnál nagyobb veszteséggel zárt",
+      "summary": "Az idei Sziget fesztivál látogatottsága elmaradt a várttól, ami a szervezők szerint nagyobb pénzügyi veszteséget eredményezett a tervezettnél. Gerendai Károly elmondta, a számok nem úgy alakultak, ahogy szerették volna.",
       "importance": 4
     },
     {
       "title": "Milliárdok csorogtak fideszes érdekeltségekbe a kekva-rendszeren keresztül",
-      "summary": "Kiderült, hogy a \"kekva-rendszer\" keretében hatalmas összegek, milliárdok áramlottak fideszes érdekeltségekhez, amelyek kapcsán Vitézy Dávid is elégtelennek találta a magyarázatokat. Ez felveti a közpénzek elosztásának átláthatatlanságát.",
-      "importance": 4
-    },
-    {
-      "title": "A magyar energiabiztonság kulcsa a megújulókban rejlik",
-      "summary": "Az energiabiztonság erősítése érdekében Magyarország a tetőkre telepített napelemek mellett a szél-, geotermikus energiát és a tárolási kapacitások fejlesztését is tervezi. Ez kritikus lépés az ország energiafüggetlenségének megteremtésében.",
+      "summary": "A kekva-rendszer működése során jelentős, milliárdos összegek jutottak fideszes érdekeltségekhez. A rendszer céljaival ellentétben inkább politikai haszonszerzésre használták.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Túlélőket keresnek az indonéziai földrengés után",
-      "summary": "Erős földrengés rázta meg Indonéziát, mely után a mentőcsapatok azonnal megkezdték a túlélők utáni kutatást a romok között. A természeti katasztrófa jelentős károkat okozott.",
+      "title": "Mentőcsapatok keresik a túlélőket egy pusztító indonéz földrengés után",
+      "summary": "Hatalmas erejű földrengés rázta meg Indonéziát, amely után mentőcsapatok indultak a túlélők felkutatására. A természeti katasztrófa jelentős károkat okozott, és a mentési munkálatok nagy erőkkel folynak.",
       "importance": 5
     },
     {
-      "title": "Ukrán nő sikolya egy lebombázott színház közepén: „Putyin, dögölj meg!”",
-      "summary": "Egy ukrán nő kétségbeesett kiáltásai visszhangzanak egy lebombázott színház romjai között, egyértelműen az orosz elnöknek üzenve. A jelenet rávilágít a háború okozta emberi tragédiákra és szenvedésekre.",
+      "title": "Orosz drónt lőttek le Románia felett",
+      "summary": "Orosz drónt semmisítettek meg Románia légterében hajnalban, ami újabb feszültséget okozhat a térségben. Az incidens rávilágít a háború hatásaira a szomszédos országokban is, és a NATO keleti szárnyának biztonságára.",
       "importance": 4
     },
     {
-      "title": "Brit gyártmányú drónok csaptak le Oroszországra",
-      "summary": "Hírek szerint brit gyártmányú drónok hajtottak végre támadásokat oroszországi célpontok ellen, ami a háború eszkalációját jelenti. Ez a fejlemény a nemzetközi konfliktus újabb rétegét mutatja be.",
+      "title": "Apa és két kisfia 16 órán át kapaszkodott egy felborult jet-skibe Thaiföldnél",
+      "summary": "Egy apa két kisfiával együtt 16 órát töltött a nyílt tengeren, egy felborult jet-skibe kapaszkodva Thaiföld partjainál. Sikerült túlélniük a megpróbáltatásokat, miután a tengeri mentőszolgálatok rátaláltak rájuk.",
       "importance": 4
     },
     {
-      "title": "Amerikai kasszásnők harca az ülőmunka jogáért",
-      "summary": "Az amerikai szupermarketek kasszásainak bíróságon kell megküzdeniük azért a jogért, hogy munkájuk során leülhessenek. Ez a küzdelem a munkahelyi körülmények javításáért folytatott globális erőfeszítésekre hívja fel a figyelmet.",
+      "title": "Az amerikai szupermarketek kasszásai bíróságon harcolnak az üléshez való jogukért",
+      "summary": "Az Egyesült Államokban a szupermarketek kasszásainak jogi úton kell küzdeniük azért, hogy munka közben ülhessenek. Az ügy felhívja a figyelmet a munkahelyi körülményekre és az alapvető munkavállalói jogokra az országban.",
       "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Állítólagos iráni hackertámadások amerikai vízügyi rendszerek ellen",
-      "summary": "Jelentések szerint iráni hackerek próbáltak behatolni amerikai vízügyi rendszerekbe, ami komoly aggodalmakat vet fel a kritikus infrastruktúrák kiberbiztonságával kapcsolatban. A támadások potenciális veszélyt jelentenek a lakosság vízellátására.",
+      "title": "Grok AI-val alakított át gyermekfotót explicit képpé egy férfi",
+      "summary": "Egy nő azt állítja, mostohaapja a Grok mesterséges intelligencia segítségével alakított át gyermekkoráról készült fotókat explicit tartalmú képekké. Az eset rávilágít az AI-technológia visszaélési potenciáljára és etikai kérdéseire.",
       "importance": 5
     },
     {
+      "title": "Az Anthropic részleteket oszt meg a Claude AI új vízjeleiről",
+      "summary": "Az Anthropic bemutatta, hogyan működnek a Claude mesterséges intelligencia által generált tartalmak új vízjelei. Ez a technológia segít az AI által készített képek és szövegek azonosításában, növelve az átláthatóságot és a bizalmat.",
+      "importance": 4
+    },
+    {
+      "title": "Önjáró kamionokat tesztelnek Kalifornia autópályáin",
+      "summary": "Hivatalosan is megkezdődtek az önjáró kamionok tesztjei Kalifornia állam autópályáin. Ez a lépés mérföldkövet jelent az autonóm járműtechnológia fejlődésében és a logisztikai ipar átalakulásában.",
+      "importance": 4
+    },
+    {
       "title": "Az Apple 15%-os részesedést kér az App Store-on kívüli vásárlásokból",
-      "summary": "Az Apple javaslatot tett arra, hogy az App Store-on kívül, de az alkalmazásokon keresztül lebonyolított vásárlásokból is 15%-os részesedést kapjon. Ez a lépés jelentős vitákat válthat ki a fejlesztők és a szabályozó hatóságok körében.",
-      "importance": 4
-    },
-    {
-      "title": "Önvezető kamionok tesztelése Kalifornia autópályáin",
-      "summary": "Kaliforniában megkezdődött az önvezető kamionok hivatalos tesztelése az autópályákon, ami áttörést jelent az autonóm járművek kereskedelmi alkalmazásában. Ez a technológia forradalmasíthatja a logisztikát és a szállítmányozást.",
-      "importance": 4
-    },
-    {
-      "title": "Grok AI visszaélése gyermekfotókkal: etikai aggályok az AI használata körül",
-      "summary": "Egy nő azt állítja, hogy mostohaapja a Grok mesterséges intelligencia segítségével gyermekfotókat alakított át explicit tartalmú képekké. Az eset komoly etikai és biztonsági aggályokat vet fel az AI technológiák visszaéléseivel kapcsolatban.",
+      "summary": "Az Apple javaslatot tett arra, hogy 15%-os részesedést kapjon azokból a vásárlásokból is, amelyeket az alkalmazásokon keresztül, de az App Store fizetési rendszerén kívül bonyolítanak le. Ez a lépés komoly vitákat válthat ki a fejlesztők körében a platform díjairól.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az ősi CO2-szint emelkedés katasztrofális hatásai az erdőkre – figyelmeztetés a jelenre",
-      "summary": "A kutatások kimutatták, hogy a CO2-szint ősi emelkedése katasztrofális következményekkel járt az erdőkre nézve, súlyosan károsítva a növényeket. Ez a történelmi adat fontos tanulságokat hordoz a mai klímaváltozással kapcsolatban.",
+      "title": "Több mint 100 millió dolláros tőkét gyűjtött fúziós energia startupok",
+      "summary": "Számos fúziós energia startup gyűjtött már több mint 100 millió dolláros befektetést, jelezve a szektor iránti növekvő érdeklődést. A magfúzió ígéretes, tiszta energiaforrást jelenthet a jövőben, forradalmasítva az energiatermelést.",
+      "importance": 5
+    },
+    {
+      "title": "Videó mutatja, mit láttak a Wizz Air pilótái a napfogyatkozás zónájában",
+      "summary": "Egy videófelvétel örökítette meg, milyen különleges látványban volt részük a Wizz Air pilótáinak, amikor átrepültek a napfogyatkozás zónáján. Az egyedülálló felvételek különleges perspektívából mutatják be az égi jelenséget.",
       "importance": 4
     },
     {
-      "title": "Az mRNA-alapú influenzaoltás hatékonysága a hagyományos ellen",
-      "summary": "A tudósok vizsgálják, hogy az új mRNA-alapú influenzaoltás hatékonyabb lehet-e a szezonális oltásoknál. Az eredmények alapvetően változtathatják meg az influenza elleni védekezést.",
-      "importance": 4
+      "title": "A Kog mélyebben optimalizálja a GPU-k teljesítményét az AI inferencia számára",
+      "summary": "A Kog nevű vállalat új módszereket fejleszt a GPU-k (grafikus feldolgozó egységek) még hatékonyabb kihasználására az AI inferencia feladatokhoz. Céljuk, hogy jelentősen növeljék a mesterséges intelligencia számítási teljesítményét, optimalizálva a hardveres erőforrásokat.",
+      "importance": 3
     },
     {
-      "title": "Nagy tanulmány szerint az illegális migráció nem növeli a bűnözési arányokat",
-      "summary": "Egy kiterjedt kutatás megállapította, hogy a dokumentumok nélküli migráció nem jár együtt a bűnözési arányok emelkedésével. Ez az eredmény jelentősen befolyásolhatja a migrációs politikáról szóló vitákat.",
-      "importance": 4
-    },
-    {
-      "title": "Szkeptikusak a kutatók az AI vízjelek hatékonyságával kapcsolatban",
-      "summary": "Az Anthropic által bevezetett új, láthatatlan AI vízjelek célja a mesterséges intelligencia által generált tartalmak hitelességének biztosítása, de a kutatók továbbra is szkeptikusak azok valós hatékonyságával szemben. Félő, hogy az \"AI slop\" jelenséget nem tudja megfékezni.",
+      "title": "A TikTok mini-szappanoperái szándékosan okoznak függőséget, milliárdos üzletté válva",
+      "summary": "A TikTok platformon megjelenő rövid, szappanopera-szerű videók szándékosan úgy vannak kialakítva, hogy függőséget okozzanak a nézőkben. Ez a jelenség egy több milliárd dolláros üzleti modell alapjává vált, és rávilágít a digitális tartalomfogyasztás pszichológiai hatásaira.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Sárkány Zalán ezüstérmet nyert a vizes Európa-bajnokságon",
-      "summary": "Sárkány Zalán kiváló teljesítménnyel, országos csúccsal szerzett ezüstérmet a vizes Európa-bajnokságon. Ezzel a magyar úszósport egyik kiemelkedő alakjává vált a versenyen.",
+      "title": "Sárkány Zalán országos csúccsal ezüstérmes a vizes Eb-n",
+      "summary": "Sárkány Zalán úszó országos csúccsal szerzett ezüstérmet a vizes Európa-bajnokságon, ezzel legyőzve személyes kihívásait. Ezzel a kiváló teljesítménnyel felhívta magára a figyelmet a nemzetközi mezőnyben.",
+      "importance": 5
+    },
+    {
+      "title": "Hunt harmadik aranyát nyeri, Asher-Smith történelmet ír",
+      "summary": "Egy nemzetközi sporteseményen Hunt megszerezte harmadik aranyérmét, míg Asher-Smith történelmet írt kivételes teljesítményével. Mindkét sportoló kiemelkedő eredményeket ért el, melyekre a sportvilág felfigyelt.",
       "importance": 4
     },
     {
-      "title": "Márton Richárd Eb-ezüstérmes 200 méter pillangón",
-      "summary": "Márton Richárd a 200 méteres pillangóúszás döntőjében szerzett ezüstérmet az Európa-bajnokságon. Ez a siker tovább erősíti a magyar úszók nemzetközi pozícióját.",
+      "title": "Kubatov Gábor indul a Fradi elnöki tisztéért az októberi tisztújításon",
+      "summary": "Kubatov Gábor bejelentette, hogy indul az októberi tisztújításon, és szeretné a Ferencvárosi Torna Club elnöke maradni. Ez a döntés befolyásolhatja a klub jövőbeli stratégiáját és vezetését a sportágban.",
       "importance": 4
     },
     {
-      "title": "Kubatov Gábor marad a Fradi élén, indul a tisztújításon",
-      "summary": "Kubatov Gábor bejelentette, hogy indul az októberi tisztújításon, és továbbra is ő vezetné a Ferencvárosi Torna Clubot. Ez a döntés befolyásolja a klub jövőbeli stratégiáját és vezetését.",
-      "importance": 3
-    },
-    {
-      "title": "Változások a Premier League feljutási rendszerében 36 év után",
-      "summary": "36 év után módosították az angol Premier League feljutási rendszerét, ami jelentős hatással lesz a Championship és az alacsonyabb osztályú csapatokra. A változás új dinamikát hoz az angol labdarúgásba.",
+      "title": "Nagy-Britannia legfiatalabb Formula E pilótája szerint már nem elég a tehetség",
+      "summary": "Nagy-Britannia legfiatalabb Formula E versenyzője szerint a modern motorsportban már önmagában a tehetség nem elegendő a sikerhez. A technológia, a finanszírozás és a csapatmunka is kritikus tényezővé vált a csúcson.",
       "importance": 3
     }
   ]

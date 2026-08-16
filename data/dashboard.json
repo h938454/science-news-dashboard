@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Halálos buszbaleset az M3-ason: Tusk különgépet küldött, a sofőrt őrizetbe vették",
-      "summary": "Lengyel zarándokok busza borult árokba az M3-as autópályán, többen meghaltak és megsérültek. Donald Tusk lengyel miniszterelnök különgépet küldött a sérültek hazaszállítására, a busz sofőrjét őrizetbe vették.",
+      "title": "Súlyos buszbaleset az M3-ason; lengyel zarándokok tragédiája",
+      "summary": "Halálos buszbaleset történt az M3-as autópályán, melyben lengyel zarándokok utaztak hazafelé. Az incidens után Donald Tusk lengyel miniszterelnök különgépet küldött Magyarországra, a sofőrt pedig őrizetbe vették.",
       "importance": 5
     },
     {
-      "title": "Kulturális államtitkár Vidnyánszkyékhoz: Menesszék a Színháztörténeti Múzeum igazgatóját",
-      "summary": "A kulturális államtitkár felszólította Vidnyánszky Attilát és társait, hogy bocsássák el az Országos Színháztörténeti Múzeum és Intézet igazgatóját. Ez egy magas szintű politikai beavatkozás a kulturális intézmények működésébe.",
+      "title": "Kulturális államtitkár Vidnyánszky Attiláékat szólította fel a színházi múzeum igazgatójának felmentésére",
+      "summary": "Minisztériumi vizsgálat súlyos hiányosságokat tárt fel az Országos Színháztörténeti Múzeum és Intézetben. Ennek nyomán a kulturális államtitkár Vidnyánszky Attiláékat szólította fel az intézmény igazgatójának felmentésére.",
       "importance": 4
     },
     {
-      "title": "Az Alkotmánybíróság dönt a Tisza-párt „rendszerváltó” határozatairól",
-      "summary": "Az Alkotmánybíróság hétfőn vizsgálja meg a Tisza mozgalomhoz köthető, állítólagos rendszerváltó döntések alapvető kérdéseit. Ez a fejlemény jelentős politikai és jogi következményekkel járhat Magyarországon.",
+      "title": "Hatalmas tűz pusztított Szeged határában, autókereskedést is érintve",
+      "summary": "Tíz hektáron égett a tűz Szeged határában, a lángok egy autókereskedést is elértek, ahol több autó kigyulladt. A tűzoltók nagy erőkkel vonultak ki a helyszínre, hogy megfékezzék a terjedő tarló- és épülettüzet.",
       "importance": 4
     },
     {
-      "title": "Tűzvész pusztított Szeged határában, autókereskedés is lángra kapott",
-      "summary": "Tíz hektáron égett a tarló Szegednél, a lángok elértek egy autókereskedést is, ahol több autó kigyulladt. A tűz jelentős anyagi károkat okozott.",
-      "importance": 3
+      "title": "Az Alkotmánybíróság ítélete a \"tiszás rendszerváltás\" alapvető döntéseiről",
+      "summary": "Az Alkotmánybíróság hétfőn hoz döntést a \"tiszás rendszerváltás\" alapvető döntéseivel kapcsolatban. Az ítélet komoly politikai és jogi következményekkel járhat az országban.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Dróntámadások Oroszország és Ukrajna ellen, raktárakat és piacokat ért találat",
-      "summary": "Éjszaka több támadás érte Oroszországot és Ukrajnát: egy Wildberries raktár és rakétaüzemanyag-gyár Oroszországban, valamint egy kijevi piac vált célponttá. A harcok intenzitása továbbra is magas.",
+      "title": "Orosz drónt lőtt le a spanyol légierő Romániában, Bukarest erősebb NATO-légvédelmet kér",
+      "summary": "Spanyol harci gépek lőhettek le egy feltételezhetően orosz drónt Románia felett, mire Bukarest erősebb NATO-légvédelmet kért. Az incidens rávilágít a térség biztonsági feszültségeire és a légvédelem megerősítésének szükségességére.",
       "importance": 5
     },
     {
-      "title": "Halálos földrengés Indonéziában, több ezer ember hajléktalanná vált",
-      "summary": "Indonéziát súlyos földrengés rázta meg, melynek következtében több ezer ember kényszerült elhagyni otthonát. A mentési munkálatok folyamatosan zajlanak a túlélők felkutatására és a károk felmérésére.",
+      "title": "Ukrajna célzott dróntámadásokat hajtott végre orosz területen, Kijevet is találat érte",
+      "summary": "Ukrajna heves dróntámadásokat hajtott végre Oroszország ellen, eltalálva többek között egy rakétaüzemanyag-gyárat és egy Wildberries-raktárat. Kijevben eközben egy piacot ért támadás az éjszaka folyamán, ami további károkat okozott.",
       "importance": 5
     },
     {
-      "title": "Soha nem látott esőzés Japánban, utak kerültek víz alá, halálos áldozatok",
-      "summary": "Extrém mennyiségű eső zúdult Japánra, ami utakat öntött el és autókat sodort el, több ember halálát okozva. Az ország az éghajlatváltozás okozta időjárási szélsőségekkel küzd.",
+      "title": "Súlyos áradások Japánban: rekordmennyiségű eső pusztított, többen meghaltak",
+      "summary": "Soha nem látott mennyiségű eső zúdult Japánra, elöntve utakat és házakat, több halálos áldozatot követelve. Az áradások súlyos károkat okoztak országszerte, és ezrek kényszerültek elhagyni otthonaikat.",
       "importance": 4
     },
     {
-      "title": "Orosz drónt lőttek le Románia felett a hajnali órákban",
-      "summary": "Románia bejelentette, hogy hajnalban egy orosz drónt lőttek le az ország légterében. Az incidens rávilágít a regionális biztonsági feszültségekre és az ukrajnai háború határokon átnyúló hatásaira.",
+      "title": "Az Egyesült Királyságban 50 milliárd fontos jóléti reformot javasolnak, amely milliókat érint",
+      "summary": "Az Egyesült Királyságban reformot javasoltak, amely 50 milliárd fonttal csökkentené a jóléti kiadásokat, több millió fogyatékossági ellátásban részesülő embert érintve. A tervezet jelentős társadalmi vitát válthat ki a megszorító intézkedések miatt.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Grok AI-t használtak gyermekfotó explicit képpé alakítására",
-      "summary": "Egy nő azt állítja, mostohaapja a Grok AI segítségével alakított át gyermekkori fotót explicit tartalmú képpé. Az eset komoly aggodalmakat vet fel az AI etikai felhasználásával és a gyermekvédelemmel kapcsolatban.",
+      "title": "SpaceX és Tesla építi a világ legnagyobb gyárát, 9,3 millió négyzetméteren",
+      "summary": "A SpaceX és a Tesla megépíti a világ legnagyobb gyárát, melynek területe eléri a 9,3 millió négyzetmétert. Az óriási létesítmény kulcsszerepet játszhat a vállalatok jövőbeli fejlesztéseiben, különösen a gyártási kapacitás növelésében.",
       "importance": 5
     },
     {
       "title": "Az Apple 15%-os részesedést javasol az App Store-on kívüli vásárlásokból",
-      "summary": "Az Apple azt tervezi, hogy 15%-os részesedést von le az alkalmazáson kívüli vásárlásokból, még akkor is, ha azok az App Store-on kívül, alternatív fizetési módokon keresztül történnek. Ez a javaslat jelentős változásokat hozhat a fejlesztők és a felhasználók számára.",
+      "summary": "Az Apple azt javasolja, hogy az App Store-on kívül, de az iOS ökoszisztémán belül megvalósuló vásárlásokból is vegyen el 15%-os részesedést. Ez a lépés felháborodást váltott ki a fejlesztők körében, újabb vitát generálva a platform monopolhelyzetéről.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic új vízjeleket vezet be az AI generált tartalmak hitelességéért",
-      "summary": "Az Anthropic, a Claude AI fejlesztője, új, láthatatlan vízjeleket vezet be mesterséges intelligencia által generált tartalmainak hitelességének biztosítására. A kutatók azonban szkeptikusak a vízjelek hatékonyságával kapcsolatban az AI által gyártott \"szemét\" megfékezésében.",
+      "title": "Női panasz Grok AI-val manipulált gyerekkori fotó miatt, etikai aggodalmakat vet fel",
+      "summary": "Egy nő azt állítja, hogy mostohaapja a Grok mesterséges intelligencia segítségével alakította át gyerekkori fotóját explicit tartalmú képekké. Az eset rávilágít az AI-etika és a generatív AI-val való visszaélések súlyos problémáira.",
       "importance": 4
     },
     {
-      "title": "Iráni hackerek támadhatták meg amerikai vízműveket",
-      "summary": "Információk szerint iráni hackerek amerikai vízműveket céloztak meg kibertámadásokkal. Ez a jelentés kritikus nemzetbiztonsági aggályokat vet fel a kulcsfontosságú infrastruktúra védelmével kapcsolatban.",
+      "title": "Önjáró kamionokat tesztelnek Kalifornia autópályáin",
+      "summary": "Önjáró kamionokat tesztelnek hivatalosan Kalifornia autópályáin, ami a fuvarozás jövőjének fontos lépcsője lehet. Ez a technológia hosszú távon hatással lehet a logisztikára, a munkaerőpiacra és a közlekedésbiztonságra.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Új bizonyítékok a rejtélyes „ragasztógömbökről” a fizikában",
-      "summary": "A legújabb kutatások újabb bizonyítékokat tártak fel a feltételezett \"ragasztógömbök\" létezésére vonatkozóan a fizikában. Ez a felfedezés alapvető jelentőségű lehet a kvantum-színdinamika és az elemi részecskék megértésében.",
+      "title": "Kiszáradóban egy hatalmas ősi tó a Kiskunságban, súlyos ökológiai problémát okozva",
+      "summary": "A Kiskunságban egy valaha hatalmas, nedves rétekkel körbevett ősi tó kiszáradóban van, ami komoly ökológiai problémát jelent. A jelenség a klímaváltozás és az emberi beavatkozás súlyos hatásait mutatja a régióban.",
       "importance": 5
     },
     {
-      "title": "Az ősi CO2-szint emelkedés katasztrofális volt az erdőkre",
-      "summary": "Egy tanulmány szerint az ősi időkben bekövetkezett CO2-szint emelkedés katasztrofális hatással volt a bolygó erdőire. Ez a történelmi minta fontos tanulságokkal szolgálhat a mai klímaváltozás és annak növényvilágra gyakorolt hatásai megértéséhez.",
+      "title": "Innovatív javaslat: adatközpontok szélturbinákba integrálva a hatékonyabb működésért",
+      "summary": "Új koncepció szerint szélturbinákba integrálnák az adatközpontokat, ami egyszerre oldana meg energiaellátási és hűtési problémákat. Ez a megközelítés jelentősen hozzájárulhat a zöld technológiák fejlődéséhez és az energiahatékonyság növeléséhez.",
       "importance": 4
     },
     {
-      "title": "Az mRNA alapú influenza elleni oltás hatékonyabb lehet a hagyományosnál",
-      "summary": "A tudományos kutatások szerint az mRNA technológián alapuló influenza elleni oltás hatékonyabb védelmet nyújthat, mint a hagyományos szezonális vakcinák. Ez áttörést jelenthet a közegészségügyben és a vakcinafejlesztésben.",
+      "title": "Több mint 100 millió dolláros tőkét gyűjtöttek a fúziós energia startupjai",
+      "summary": "Egy áttekintés bemutatja azokat a fúziós startupokat, amelyek már több mint 100 millió dolláros tőkét vontak be befektetőktől. Ez a jelentős befektetés a fúziós energia ígéretes jövőjére utal, mint tiszta energiaforrásra.",
       "importance": 4
     },
     {
-      "title": "A nagyszabású kutatás szerint az illegális migráció nem növeli a bűnözési rátát",
-      "summary": "Egy nagyszabású tanulmány kimutatta, hogy a dokumentumok nélküli migráció nem jár együtt a bűnözési ráták emelkedésével. Ez a kutatás fontos társadalmi és politikai vitákba hozhat új perspektívákat.",
-      "importance": 4
+      "title": "Növekszik a péniszfeltöltések népszerűsége a férfiak körében, kockázatok ellenére",
+      "summary": "A férfiak körében növekszik a péniszfeltöltések népszerűsége, annak ellenére, hogy a beavatkozás jelentős kockázatokkal jár. A jelenség mögött társadalmi és pszichológiai tényezők, valamint a testképhez való viszony állhat.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Szenzációs magyar maratoni siker az Eb-n: Vindics-Tóth ezüst-, Szabó negyedik",
-      "summary": "Vindics-Tóth Lili Anna ezüstérmet szerzett, Szabó Nóra pedig negyedik lett a maratonfutásban az Európa-bajnokságon. Ez kiemelkedő magyar eredmény a nemzetközi atlétikai színtéren.",
-      "importance": 5
-    },
-    {
-      "title": "A német fociban a szurkolóké a végső szó, bajban lehet a Lipcse és a Leverkusen",
-      "summary": "A német labdarúgásban a szurkolói tulajdonjogok erősek, ami befolyásolja a klubok működését. Ez a modell kihívások elé állíthatja az olyan befektetői hátterű csapatokat, mint az RB Leipzig és a Bayer Leverkusen.",
+      "title": "Vindics-Tóth Lili ezüstérmes, Szabó Nóra negyedik maratonon",
+      "summary": "Vindics-Tóth Lili ezüstérmet szerzett egy jelentős maratonon, míg Szabó Nóra a negyedik helyen végzett. Kiváló teljesítményt nyújtottak a magyar atléták a nemzetközi megmérettetésen, erősítve az ország hírnevét.",
       "importance": 4
     },
     {
-      "title": "Influenszerek életveszélyes cápafotózása: harapások a tökéletes képért",
-      "summary": "Influenszerek hajlandók kockáztatni, hogy tökéletes cápafotókat készítsenek, ami harapásokat és sérüléseket eredményez. Ez a trend rávilágít az extrém tartalomgyártás veszélyeire és az állatvédelem fontosságára.",
-      "importance": 2
-    },
-    {
-      "title": "Fejjel játszott és vesztett",
-      "summary": "Egy meg nem nevezett sporteseményen vagy versenyen valaki kockáztatott, de végül vesztesként fejezte be a küzdelmet. A döntés rosszul sült el.",
-      "importance": 1
+      "title": "A fejével játszott és vesztett",
+      "summary": "Egy sportoló kockázatos döntése végül vereséghez vezetett, miután rosszul mérte fel a helyzetet a mérkőzés kritikus pillanatában. A taktikai hiba súlyos következményekkel járt a csapat számára.",
+      "importance": 3
     }
   ]
 }

@@ -1,9 +1,14 @@
 {
   "Telex": [
     {
-      "title": "XIII. Leó pápa: Felszólítok mindenkit arra, hogy vessenek véget a ciszjordániai palesztinokat érő erőszaknak",
-      "link": "https://telex.hu/kulfold/2026/08/16/xiii-leo-papa-ciszjordania-palesztinok-eroszak",
-      "summary": "Palesztin családokat ostromolnak izraeli telepesek a ciszjordániai Qusrában, miközben egyre több támadás éri a palesztinokat a térségben."
+      "title": "Ez még nem az a Sziget",
+      "link": "https://telex.hu/after/2026/08/16/sziget-fesztival-tomeg-magyar-kozonseg-por-k-hid-lineup",
+      "summary": "Kevesebben voltak, mint várták, de így volt élhetőbb az idei Sziget. A legnagyobb újdonság, hogy a magyarok voltak többségben, a hazai közönségnek szánt gesztusok működtek, de az új tulajdonosi vízió még csak nyomokban jelent meg."
+    },
+    {
+      "title": "Jogosítvány nélkül, ittasan gyakorolta a váltást egy somogyi nő, baleset lett a vége",
+      "link": "https://telex.hu/belfold/2026/08/16/jogositvany-nelkul-ittasan-gyakorolta-a-valtast-egy-somogyi-no-baleset-lett-a-vege",
+      "summary": "Az autó a nyitott ajtóval magával sodorta a mellette álló nőt, majd egy hulladékgyűjtőnek és egy kerítésoszlopnak ütközött."
     },
     {
       "title": "Két erdőtűz közelít egymáshoz egy görög szigeten, ketten meghaltak",
@@ -69,11 +74,6 @@
       "title": "Magyar Péter: Megnyitják a Ráckevei-Soroksári Duna-ág zsilipjét, hogy több víz jusson a Paksi Atomerőműhöz",
       "link": "https://telex.hu/belfold/2026/08/16/paks-atomeromu-mukodo-turbinak-munka-rackevei-soroksari-duna-ag-zsilip-magyar-peter",
       "summary": "A miniszterelnök szerint a keddi és szerdai nap lesz a kritikus, csak akkor nem kell leállítani a működő két turbina egyikét, ha a bárkák süllyesztése meghozza a várt eredményt."
-    },
-    {
-      "title": "Az Alkotmánybíróság elé kerül a Tisza-kormány három fontos közjogi intézkedése",
-      "link": "https://telex.hu/belfold/2026/08/16/alkotmanybirosag-ules-koztarsasagi-elnok-menesztes-sulyok-tamas-alkotmanybirak-orszaggyulesi-kepviselok-megvalasztasa-korhatarok",
-      "summary": "Hétfőn Sulyok Tamás leváltásáról, az alkotmánybírák korhatárának bevezetéséről és az országgyűlési képviselők mandátumkorlátozásáról is dönthetnek."
     }
   ],
   "Portfolio": [],
@@ -243,14 +243,14 @@
       "summary": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv."
     },
     {
-      "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
-      "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk."
-    },
-    {
       "title": "Five teenagers dead and four injured after car drives on wrong side of motorway",
       "link": "https://www.bbc.co.uk/news/articles/cwyqq52xkypo?at_medium=RSS&at_campaign=rss",
       "summary": "The collision occurred on on the M9 Northbound at about 03:00 local time on Sunday in County Kildare."
+    },
+    {
+      "title": "Emergency phone alert put domestic abuse victims at risk, campaigners say",
+      "link": "https://www.bbc.co.uk/news/articles/cwyllkz80dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The alert took many by surprise when it was sent to millions of phones on Friday night - but it may have also put vulnerable people at risk."
     },
     {
       "title": "Murder inquiry after man bitten by dog dies",
@@ -288,11 +288,6 @@
       "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
     },
     {
-      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
-    },
-    {
       "title": "US women in politics spark conversation on motherhood",
       "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
       "summary": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs."
@@ -306,9 +301,24 @@
       "title": "Friends, finances and finding your feet - advice for this year's freshers",
       "link": "https://www.bbc.co.uk/news/articles/cx2kw0yek2yo?at_medium=RSS&at_campaign=rss",
       "summary": "BC News asked current students about the worries they had before arriving at university how they overcame them."
+    },
+    {
+      "title": "The influencers getting bitten while chasing the perfect shark shot",
+      "link": "https://www.bbc.co.uk/news/articles/c5yvrn7rpqpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tayane Dalazen was on a shark-diving trip in Brazil when she was attacked."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+    },
     {
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
@@ -373,16 +383,6 @@
       "title": "Unforgetful is a new reminders app for people who can’t stop hitting snooze",
       "link": "https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/",
       "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss."
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]"
     }
   ],
   "Nature": [

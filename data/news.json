@@ -1,6 +1,26 @@
 {
   "Telex": [
     {
+      "title": "Sokatmondó, hogy előbb startvonalhoz állhattak, majd mégis elkaszálta őket a Kreml",
+      "link": "https://telex.hu/kulfold/2026/08/16/orosz-parlamenti-valasztas-haboruellenes-jabloko-kizarasa",
+      "summary": "A választási bizottság engedélyezte, de aztán a legfelsőbb bíróság mégis kizárta az orosz parlamenti választás indulói közül a liberális Jablokót. A Kremlnek érdeke lett volna látványosan legyőzni a háborút végig ellenző pártot, de tarthattak attól, milyen üzenete lesz, ha mégis bejut a parlamentbe. A fellebbezésről hétfőn döntenek."
+    },
+    {
+      "title": "Ugyanazzal a hívójellel repült egymás közelében két gép Amerikában, az irányító szerint katasztrófa is lehetett volna",
+      "link": "https://telex.hu/kulfold/2026/08/16/ugyanazzal-a-hivojellel-repult-ket-gep-phoenix-felett-a-legiforgalmi-iranyito-szerint-katasztrofa-is-lehetett-volna",
+      "summary": "A hibát észlelő légiforgalmi irányító 25 éves karrierje alatt sosem látott hasonlót. Az esetet vizsgálják."
+    },
+    {
+      "title": "Őrizetbe vettek egy férfit, aki a gyanú szerint a távoltartási végzés ellenére fojtogatott egy nőt a Lehel téren",
+      "link": "https://telex.hu/belfold/2026/08/16/orizetbe-vettek-lehel-teri-ferfit-tavoltartasi-vegzes-baratno",
+      "summary": "A férfival szemben zaklatás minősített esete merült fel."
+    },
+    {
+      "title": "Saját magát, húgát és egy férfit is kihúzott a felborult busz roncsai alól egy lengyel nő",
+      "link": "https://telex.hu/belfold/2026/08/16/lengyel-buszbaleset-m3-tulelo-beszamolo",
+      "summary": "Egyre többen szólalnak meg a vasárnap hajnali buszbaleset túlélői közül. Magyarországon utoljára 2003-ban történt hasonlóan súlyos buszbaleset."
+    },
+    {
       "title": "A 16 éves Pápai Olivér országos csúccsal lett Eb-ezüstérmes 400 méteres gyorsúszásban",
       "link": "https://telex.hu/sport/2026/08/16/a-16-eves-papai-oliver-orszagos-csuccsal-lett-eb-ezustermes-400-meteres-gyorsuszasban",
       "summary": "A fiatal úszó 300 méternél még csak hatodik volt a 400 gyors Eb-döntőjében, az utolsó százon azonban sorra előzte riválisait a második helyig."
@@ -54,26 +74,6 @@
       "title": "Djoković térdre rogyott, a törölközőjébe hányt, majd kiesett a cincinnati tenisztornáról",
       "link": "https://telex.hu/sport/2026/08/16/djokovic-a-torolkozojebe-hanyt-majd-kiesett-a-cincinnati-tenisztornarol-1",
       "summary": "Nem bírta tovább a hőséget."
-    },
-    {
-      "title": "Az utolsó klasszikus Alfa Romeo használtan a BMW-knél is vonzóbb lehet",
-      "link": "https://telex.hu/techtud/2026/08/16/hasznalt-auto-alfa-romeo-giulia-benzinmotor-dizelmotor-quadrifoglio",
-      "summary": "A Giulia sok szempontból visszatért a márka hagyományaihoz, hátsó- és összkerékhajtással is gyártották, és manapság már 5 millió forint körül is találunk eladó használt példányokat a magyar piacon. Szakértőt kérdeztünk a legfontosabb kockázatokról."
-    },
-    {
-      "title": "Egy túlélő szerint másodpercek alatt történt a lengyel buszbaleset az M3-ason",
-      "link": "https://telex.hu/belfold/2026/08/16/lengyel-buszbaleset-arokba-borult-m3-vizsgalat-utas-beszamolo",
-      "summary": "A lengyelek is vizsgálatot indítanak, arra várnak, hogy a magyar hatóságok odaengedjék őket a helyszínre. Egy férfi az utolsó pillanatban mondta le az utazást."
-    },
-    {
-      "title": "Gyurcsány Ferenc: A bosszúvágy emberi érzés",
-      "link": "https://telex.hu/zacc/2026/08/16/gyurcsany-ferenc-a-bosszuvagy-emberi-erzes",
-      "summary": "Vasárnapi bölcseletet tett közzé a volt miniszterelnök. A tanulság: a demokratikus államnak fel kell ismernie, majd jóvátétellé változtatva meg kell szelídítenie a bosszúvágyat."
-    },
-    {
-      "title": "Feltehetően orosz drónt lőtt le a spanyol légierő Romániában, Bukarest erősebb NATO-légvédelmet kér",
-      "link": "https://telex.hu/transtelex/2026/08/16/orosz-dron-spanyol-legiero-romania-nato-megerosites",
-      "summary": "A drónra spanyol F–18-asok nyitottak tüzet. Az egyre gyakoribb drónincidensek miatt Bukarest most a NATO keleti szárnyának további megerősítését kéri."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Busztragédia: tizenkilenc perccel a segélyhívás után a tűzoltók a lengyel busz roncsánál voltak",
+      "link": "https://hvg.hu/cegauto/20260816_m3-buszbaleset-tuzoltok-riasztas-daru-mentes-hogyan",
+      "summary": "A 24 tonnás busz kiemeléséhez két külső cég nagy teljesítményű daruját is be kellett vonni, mert a járművet 10-15 méteres távolságból kellett megemelni. A mentési munkálatokban összesen 32 tűzoltó vett részt."
+    },
+    {
       "title": "Megöltek egy férfit Erzsébetvárosban",
       "link": "https://hvg.hu/itthon/20260816_emberoles-budapest-erzsebetvaros",
       "summary": "Vasárnap nem sokkal délután egy óra után kapott bejelentést a rendőrség."
@@ -224,11 +229,6 @@
       "title": "Karafiáth Orsolya: Nem azért kell a számonkérés, mert az olyan jól esne",
       "link": "https://hvg.hu/360/20260816_az-en-hetem-karafiath-orsolya-sziget-kozmedia-elszamoltatas",
       "summary": "Az én hetem című sorozatunkhoz négy írót kértünk fel, hogy öt kulcsszót felhasználva írjanak arról, miként élték meg az elmúlt hetet. Karafiáth Orsolyának a kánikulában ezeket a szavak jutottak: fenékkormány, palotaforradalom, katonadolog, kekvaháború, bulihegyek."
-    },
-    {
-      "title": "Videó: Ruszin-Szendi Romulusz elmagyarázta, hogyan dobták a Dunába a betonkockákat",
-      "link": "https://hvg.hu/itthon/20260816_ruszin-szendi-romulusz-duna-paks-betonkocka-video",
-      "summary": "A honvédelmi miniszter szerint hajóval nem lehetett volna a Duna kijelölt pontjára eljuttatni a betonelemeket Paksnál."
     }
   ],
   "BBC": [
@@ -268,9 +268,9 @@
       "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report."
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+      "title": "Watch moment police arrest wanted man while he slept on roof",
+      "link": "https://www.bbc.co.uk/news/articles/cwyll2p1r68o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two police officers suffered minor injuries during the incident, Greater Manchester Police say."
     },
     {
       "title": "People who fled Stourbridge fires start to return home",
@@ -278,17 +278,17 @@
       "summary": "Many families are only just discovering the extent of damage to their homes for the first time."
     },
     {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
+    },
+    {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed."
     },
     {
-      "title": "Canadian pipe band crowned world champions after 'thrilling' contest",
-      "link": "https://www.bbc.co.uk/news/articles/cqx77qenx0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Simon Fraser University Pipe Band from Canada took the coveted title following the two-day event at Glasgow Green, in which 211 bands competed."
-    },
-    {
-      "title": "'I can't be the best mum': US women in politics spark conversation on motherhood",
+      "title": "US women in politics spark conversation on motherhood",
       "link": "https://www.bbc.co.uk/news/articles/cjwxgz95jvgo?at_medium=RSS&at_campaign=rss",
       "summary": "The White House press secretary quit this week to be with her children, while Democrat Alexandra Ocasio-Cortez said she was freezing her eggs."
     },
@@ -385,5 +385,81 @@
       "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [&#8230;]"
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
+      "link": "https://www.nature.com/articles/s41586-026-11023-3",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11023-3\">doi:10.1038/s41586-026-11023-3</a></p>Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP"
+    },
+    {
+      "title": "Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding",
+      "link": "https://www.nature.com/articles/s41586-026-11022-4",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11022-4\">doi:10.1038/s41586-026-11022-4</a></p>Publisher Correction: Targeting cancer-specific mutations with RNA-triggered chromatin shredding"
+    },
+    {
+      "title": "Briefing Chat: Anthropic rolls out new AI watermark — will it make a difference?",
+      "link": "https://www.nature.com/articles/d41586-026-02562-w",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02562-w\">doi:10.1038/d41586-026-02562-w</a></p>Nature staff discuss what flagging AI content may mean for research integrity — plus, how people from different cultural backgrounds have the same ‘tickle hotspots’ on the body."
+    },
+    {
+      "title": "Einstein the musician, AI prophets and more: Books in brief",
+      "link": "https://www.nature.com/articles/d41586-026-02504-6",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02504-6\">doi:10.1038/d41586-026-02504-6</a></p>Andrew Robinson reviews five of the best science picks."
+    },
+    {
+      "title": "Undocumented migration does not raise crime rates, huge study finds",
+      "link": "https://www.nature.com/articles/d41586-026-02542-0",
+      "summary": "<p>Nature, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02542-0\">doi:10.1038/d41586-026-02542-0</a></p>Analysis of neighbourhoods in more than 100 US cities finds no evidence that rising numbers of undocumented immigrants are linked with violent crime."
+    },
+    {
+      "title": "Author Correction: Structural mechanism of cGAS inhibition by the nucleosome",
+      "link": "https://www.nature.com/articles/s41586-026-10959-w",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10959-w\">doi:10.1038/s41586-026-10959-w</a></p>Author Correction: Structural mechanism of cGAS inhibition by the nucleosome"
+    },
+    {
+      "title": "Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain",
+      "link": "https://www.nature.com/articles/s41586-026-10960-3",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10960-3\">doi:10.1038/s41586-026-10960-3</a></p>Author Correction: Cretaceous bird from Brazil informs the evolution of the avian skull and brain"
+    },
+    {
+      "title": "How to make your science business succeed when you’re a female founder",
+      "link": "https://www.nature.com/articles/d41586-026-01904-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01904-y\">doi:10.1038/d41586-026-01904-y</a></p>Sexist assumptions and a male-dominated culture can make it harder for women to attract investment for the companies they set up."
+    },
+    {
+      "title": "Can Anthropic’s invisible watermarks curb ‘AI slop’? Researchers remain sceptical",
+      "link": "https://www.nature.com/articles/d41586-026-02503-7",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02503-7\">doi:10.1038/d41586-026-02503-7</a></p>New Claude models will watermark text and tag images as AI-generated, as Anthropic responds to EU AI regulations."
+    },
+    {
+      "title": "AI isn’t ready to research itself",
+      "link": "https://www.nature.com/articles/d41586-026-02494-5",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02494-5\">doi:10.1038/d41586-026-02494-5</a></p>An agentic system successfully developed concepts from two computer-science papers — but the original authors were not impressed."
+    },
+    {
+      "title": "Why China should reassess how it rewards young scientists",
+      "link": "https://www.nature.com/articles/d41586-026-02525-1",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02525-1\">doi:10.1038/d41586-026-02525-1</a></p>Talent schemes helped to propel China to the forefront of global science. But the system places undue emphasis on prestigious titles as a means to secure career prospects, putting pressure on young researchers."
+    },
+    {
+      "title": "Daily briefing: New evidence of the mysterious ‘glueballs’",
+      "link": "https://www.nature.com/articles/d41586-026-02558-6",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02558-6\">doi:10.1038/d41586-026-02558-6</a></p>Physicists have found evidence of a particle made entirely of force-carrying gluons. Plus, what changes to US vaccine recommendations mean for children and the ways food scientists are improving chocolate."
+    },
+    {
+      "title": "Ancient rise in CO<sub>2</sub> was catastrophic for forests: what that means for today’s plants",
+      "link": "https://www.nature.com/articles/d41586-026-02544-y",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02544-y\">doi:10.1038/d41586-026-02544-y</a></p>A widespread dieback of forests due to climate change 56 million years ago has parallels with today."
+    },
+    {
+      "title": "Will the mRNA flu shot work better than a regular seasonal one? What the science says",
+      "link": "https://www.nature.com/articles/d41586-026-02502-8",
+      "summary": "<p>Nature, Published online: 13 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02502-8\">doi:10.1038/d41586-026-02502-8</a></p>Moderna’s newly approved vaccine could allow manufacturers to respond more rapidly to changing influenza strains."
+    },
+    {
+      "title": "Lead carboxylates passivation for meter-scale perovskite solar modules",
+      "link": "https://www.nature.com/articles/s41586-026-10994-7",
+      "summary": "<p>Nature, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10994-7\">doi:10.1038/s41586-026-10994-7</a></p>Lead carboxylates passivation for meter-scale perovskite solar modules"
+    }
+  ]
 }

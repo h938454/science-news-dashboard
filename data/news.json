@@ -1,6 +1,21 @@
 {
   "Telex": [
     {
+      "title": "Meghalt Hayden Panettiere",
+      "link": "https://telex.hu/after/2026/08/17/hayden-panettiere-szinesz-meghalt",
+      "summary": "A Hősök színésznője 36 éves volt."
+    },
+    {
+      "title": "Az amerikai hadsereg egyszer a saját lakosságán tesztelte, hogyan működne egy biofegyver, egy ember bele is halt",
+      "link": "https://telex.hu/eszkombajn/2026/08/17/sea-spray-hadmuvelet-serratia-marcescens-biofegyver-teszt-amerikai-haditengereszet",
+      "summary": "A Seaspray hadműveletben egy ártalmatlannak hitt baktériumot engedtek szabadjára San Franciscóban, kisebb járványt és egy ember halálát okozva. Több mint 25 évig sikerült teljes titokban tartani a kísérletet."
+    },
+    {
+      "title": "Tényleg három hónapig dolgoznak, aztán pihennek a balatoni vendéglátósok?",
+      "link": "https://telex.hu/g7/elet/2026/08/17/balaton-munka-vendeglatas-szezon-dolgozok",
+      "summary": "A helyi vállalkozók közül is sokan hallottak vagy mesélnek történeteket csak a szezonban dolgozó vendéglátósokról, de ezek a sztorik ritkán zárulnak happy enddel."
+    },
+    {
       "title": "Országos csúccsal ötödik a magyar férfi 4x400-as váltó",
       "link": "https://telex.hu/sport/2026/08/16/magyar-ferfi-4x400-as-valto-otodik-hely-europa-bajnoksag",
       "summary": "A csapat harcban volt az éremért, s végül három percen belüli eredménnyel ért be az ötödik pozícióban."
@@ -59,21 +74,6 @@
       "title": "Kós Hubert Európa-bajnoki csúccsal nyert 200 méter vegyesen",
       "link": "https://telex.hu/sport/2026/08/16/kos-hubert-europa-bajnok-lett-200-meter-vegyesen",
       "summary": "Megvédte Európa-bajnoki címét, és új csúcsot állított fel."
-    },
-    {
-      "title": "Pénzért vásárolja vissza a fegyvereket egy ausztrál állam a Bondi Beach-en történt terrortámadás után",
-      "link": "https://telex.hu/kulfold/2026/08/16/bondi-beach-ausztralia-fegyvervisszavasarlas-uj-del-wales",
-      "summary": "Az országban eredetileg országos visszavásárlási kampányt akartak bevezetni, de ez finanszírozási problémák miatt késik. Új-Dél-Wales most magától kezdett bele a projektbe."
-    },
-    {
-      "title": "Négy darab, több mint ötszáz éves reneszánsz remekművet loptak el egy szicíliai múzeumból",
-      "link": "https://telex.hu/kulfold/2026/08/16/szicilia-reneszansz-festmeny-lopas-antonello-da-messina-muzeum",
-      "summary": "A tolvajok kijátszották a riasztórendszert, majd hat festményt vittek el, de kettőt végül hátrahagytak. Pedig Antonello da Messina képei több évszázadot és egy pusztító földrengést is túléltek."
-    },
-    {
-      "title": "Kipróbáltuk a másnaposság elleni infúziót",
-      "link": "https://telex.hu/video/2026/08/16/masnapossag-infuzio-koktel-alkohol-detox-sziget",
-      "summary": "A Sziget apropóján a szerkesztőség két tagja bevállalta a macskajajt, hogy kiderüljön, valóban hat-e a detoxikáló koktél. Meglepődtünk, amikor kiderült, hogy nem is a fesztiválozók a célközönség."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,21 @@
   ],
   "HVG": [
     {
+      "title": "Trump bejelentette: Kim Dzsongun miatt mérsékli az amerikai részvételt a Dél-Koreával közös hadgyakorlaton",
+      "link": "https://hvg.hu/vilag/20260817_egyesult-allamok-del-korea-hadgyakorlat-donald-trump-eszak-korea-kim-dzsongun",
+      "summary": "Az amerikai elnök állítása szerint nagyon jó kapcsolatban van az észak-koreai diktátorral."
+    },
+    {
+      "title": "Északnyugat felől érkezik az enyhülés, zivatarok miatt adtak ki veszélyjelzést",
+      "link": "https://hvg.hu/itthon/20260817_idojaras-enyhules-zivatar-veszelyjelzes",
+      "summary": "Késő délutántól mindenhol erősen megnövekszik a felhőzet."
+    },
+    {
+      "title": "Busztragédia az M3-as autópályán, nőtt a vízszint a paksi erőműnél – Newscast",
+      "link": "https://hvg.hu/itthon/20260817_busztragedia-az-m3-as-autopalyan-nott-a-vizszint-a-paksi-eromunel-newscast",
+      "summary": "Tizenkét ember életét vesztette szombatról vasárnapra virradó éjszaka, amikor egy lengyel zarándokokat szállító busz lesodródott az M3-as autópályáról. Ütemezetten halad a vízszint emelése Paksnál. Feljelentést tesznek az M6-os autópálya-koncesszió ügyében – közölte Vitézy Dávid közlekedési és beruházási miniszter. Kezdje a napot a HVG hírpodcastjával!"
+    },
+    {
       "title": "Német lap: Putyin újabb modern hadihajót vezényelt a Balti-tengerre",
       "link": "https://hvg.hu/vilag/20260816_putyin-orosz-hadihajo-balti-tenger",
       "summary": "Moszkva nem közölte az átcsoportosítás okát, Putyin azonban nemrég ellenlépésekkel fenyegette meg az orosz árnyékflotta ellen fellépő európai országokat."
@@ -214,21 +229,6 @@
       "title": "Az Arsenal nyerte az angol labdarúgó Szuperkupát",
       "link": "https://hvg.hu/sport/20260816_arsenal-manchester-city-community-shield-ango-szuperkupa",
       "summary": "A bajnok Arsenal nyerte az angol labdarúgó Szuperkupát (Community Shield), miután a vasárnapi, cardiffi mérkőzésen magabiztosan, 3-0-ra legyőzte a Manchester Cityt."
-    },
-    {
-      "title": "Két repülőgép is ugyanazt a hívójelet kapta az amerikai repülőtéren, de sikerült megelőzni a balesetet",
-      "link": "https://hvg.hu/tudomany/20260816_american-airlines-repulogep-hivojel",
-      "summary": "A légiforgalmi irányító éberségének hála nem történt baleset a phoenixi repülőtéren, amikor az American Airlines két repülőgépe is ugyanazzal a hívójellel közlekedett."
-    },
-    {
-      "title": "Magyarországot is figyelik, és nem hajlandók együttműködni az „óellenzékkel” a Vucicot leváltani akaró szerb diákok",
-      "link": "https://hvg.hu/360/20260816_szerbia-valasztasok-elott-ellenzek-vegso-harc-hvg",
-      "summary": "Várhatóan október 18-án tartják Szerbiában az előrehozott parlamenti választásokat, s már maga az a tény, hogy Vucic elnök kiírta a szavazást, arra utal, lát esélyt a győzelmére. Előfordulhat, hogy a kormánypárt a magyar kisebbség támogatásával marad hatalomban. Miért fogyott el az ellenzéki diákok lendülete, és hogyan lavíroz Vucic?"
-    },
-    {
-      "title": "Kihúzták a hatos lottó nyerőszámait",
-      "link": "https://hvg.hu/itthon/20260816_hatos-lotto-szerencsejatek-nyeroszamok",
-      "summary": "A legnagyobb nyeremény a héten 2 044 335 forint volt."
     }
   ],
   "BBC": [

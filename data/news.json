@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Kirúgták a FIFA egyik magas rangú vezetőjét, miután nyíltan kritizálta Infantinót",
+      "link": "https://telex.hu/sport/2026/08/18/fifa-kirugas-kevin-lamour-gianni-infantino-botrany-foci",
+      "summary": "Tovább dagad a FIFA körüli botrány."
+    },
+    {
+      "title": "2008-as válság óta nem volt ilyen magas szinten a vezető gazdaságok államadósságának finanszírozása",
+      "link": "https://telex.hu/gazdasag/2026/08/17/inflacio-jegybank-allampapir-hitel-finanszirozas-allamadossag",
+      "summary": "A befektetők világszerte attól tartanak, hogy a közel-keleti válság tartósan magasan fogja tartani az inflációt."
+    },
+    {
       "title": "Láttam, ahogy levegőért kapkod, aztán hallottam a reccsenést",
       "link": "https://telex.hu/kulfold/2026/08/17/idegen-legios-tengeresz-haditengereszet-katona-eltunt-toulon-varos-gyilkossag-csalad-rendorseg-nyomozas",
       "summary": "A dél-franciaországi Toulon városa haditengerészeti központ. Itt veszett nyoma évekkel ezelőtt egy idegenlégiósnak és egy tengerészgyalogosnak. Bár eleinte dezertőrnek hitték őket, nemrég kiderült, hogy egy helyi család ölte meg őket. Ráadásul szabályosan vadásztak a tengerentúli katonákra, akiket aztán kiraboltak."
@@ -64,16 +74,6 @@
       "title": "Trump azzal fenyegetőzött, hogy szétbombázná Ománt, ha az ország az iráni háború befejezésének útjába állna",
       "link": "https://telex.hu/kulfold/2026/08/17/donald-trump-oman-bombazas-irani-haboru",
       "summary": "A Fox Newsnak adott interjúban Trump azt is kijelentette, hogy szerinte Iránnak meg kellene adnia magát."
-    },
-    {
-      "title": "Nyílt pályázaton keresnek új vezetőt a Hungary Helps Ügynökség élére",
-      "link": "https://telex.hu/belfold/2026/08/17/nyilt-palyazat-hungary-helps-ugynokseg-humanitarius",
-      "summary": "Velkey György László, a Külgazdasági és Külügyminisztérium parlamenti államtitkára szerint a kormány továbbra is segítséget akar nyújtani a világ válságban lévő, szegénységgel, természeti katasztrófákkal vagy más problémákkal küzdő közösségeinek."
-    },
-    {
-      "title": "A Transparency International jogi igazgatója is jelentkezett a vagyonvisszaszerzési hivatal élére",
-      "link": "https://telex.hu/belfold/2026/08/17/ligeti-miklos-transparency-international-nvvh",
-      "summary": "96-an jelentkeztek az NVVH elnöki posztjára, eddig csak hármuk neve ismert."
     }
   ],
   "Portfolio": [],
@@ -245,7 +245,7 @@
     {
       "title": "Fifa executive leaves job three weeks after speaking out against Infantino plan",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn7n4d6vy03o?at_medium=RSS&at_campaign=rss",
-      "summary": "Senior Fifa figure Kevin Lamour is sacked football's world governing body three weeks after criticising its president Gianni Infantino."
+      "summary": "Senior Fifa figure Kevin Lamour is sacked by football's world governing body three weeks after criticising its president Gianni Infantino."
     },
     {
       "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
@@ -309,6 +309,11 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said."
+    },
     {
       "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
       "link": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
@@ -378,11 +383,6 @@
       "title": "Uber adds Zipline drones to its Eats delivery network",
       "link": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
       "summary": "Uber is also making investing in Zipline a part of the tie-up."
-    },
-    {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
     }
   ],
   "Nature": [

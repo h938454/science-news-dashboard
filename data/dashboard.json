@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Megjelent az MTI manipulációiról szóló 482 oldalas dokumentum",
-      "summary": "Nyilvánosságra hozták azt a 482 oldalas dokumentumot, amely részletesen bemutatja, hogyan manipulálták és hallgatták el a híreket az MTI-nél az Orbán-kormányok idején. A jelentés rávilágít a közmédia működésére és függetlenségének hiányára.",
+      "title": "Megjelent a teljes, 482 oldalas dokumentum arról, hogyan manipulálták az Orbán-kormányok idején a híreket az MTI-nél",
+      "summary": "Nyilvánosságra hozták azt a 482 oldalas dokumentumot, amely részletesen bemutatja, hogyan manipulálták és hallgatták el a híreket az MTI-nél tíz éven át az Orbán-kormányok idején. Ez a riport súlyos kérdéseket vet fel a közmédia függetlenségével és a sajtószabadsággal kapcsolatban Magyarországon.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter Paksról: Hamarosan visszakapcsolhatók a turbinák",
-      "summary": "Magyar Péter szerint vasárnaptól megkezdődhet a paksi atomerőmű jelenleg álló turbináinak visszakapcsolása. Ez a bejelentés a hazai energiapolitika és ellátás szempontjából jelentős.",
+      "title": "RTL: A választások óta 29 település vonta vissza a beköltözést korlátozó önazonossági rendeletét",
+      "summary": "Az RTL beszámolója szerint a legutóbbi választások óta már 29 magyar település vonta vissza azokat a helyi rendeleteket, amelyek a letelepedést korlátozták az önazonosságra hivatkozva. Ezek a rendeletek korábban komoly vitákat váltottak ki a helyi autonómia és a diszkrimináció kérdéseiről.",
       "importance": 4
     },
     {
-      "title": "Kormányzati döntés: Több lakásépítés leáll, mint amennyit tavaly átadtak",
-      "summary": "A kormány felfüggeszti több lakás megvalósítását, melynek száma meghaladja a tavaly átadott összes lakásét. Ez komoly hatással lehet az építőiparra és a lakáspiacra.",
+      "title": "Több lakás megvalósítását függeszti fel a kormány, mint amennyit tavaly összesen átadtak",
+      "summary": "A kormány jelentős számú lakásépítési projekt megvalósítását függeszti fel, amelynek volumene meghaladja a tavaly átadott összes lakás számát. Ez a lépés komoly hatással lehet a lakáspiacra és a családok otthonteremtési lehetőségeire.",
       "importance": 4
     },
     {
-      "title": "Az amerikaiak az utolsó pillanatban ejtették a 4iG-vel tervezett megállapodást",
-      "summary": "Információk szerint az Egyesült Államok az utolsó pillanatban halasztotta el, vagy ejtette az aláírást egy 4iG-vel tervezett szándéknyilatkozat ügyében. Ez befolyásolhatja a magyar telekommunikációs piacot és a külföldi befektetéseket.",
-      "importance": 4
+      "title": "Kéthetes mélyponton a Duna vízállása – infografikán mutatjuk az újabb apadást",
+      "summary": "A Duna vízállása kéthetes mélypontra süllyedt, ami aggodalomra ad okot a vízi közlekedés, az ökológia és az energiatermelés szempontjából. Az infografika részletesen bemutatja az újabb apadás mértékét és következményeit.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Amerikai nagykövet: Szörnyű terrorcselekmény, amit izraeli telepesek tettek",
-      "summary": "Az amerikai nagykövet terrorcselekménynek minősítette szélsőséges izraeli telepesek cselekedeteit, ami fokozza a feszültséget a régióban. A nemzetközi közösség aggodalommal figyeli az eseményeket.",
+      "title": "Az Egyesült Államok szankciókkal sújtotta a Nemzetközi Büntetőbíróság elnökét",
+      "summary": "Az Egyesült Államok szankciókat vezetett be a Nemzetközi Büntetőbíróság (ICC) elnökével szemben, ami súlyos diplomáciai feszültséget okozott. Ez a lépés tovább mélyíti az USA és a nemzetközi igazságszolgáltatási szervek közötti szakadékot.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Államok szankciókkal sújtotta a Nemzetközi Büntetőbíróság elnökét",
-      "summary": "Az USA szankciókat vetett ki a Nemzetközi Büntetőbíróság (ICC) elnökére, ami feszültséget okoz Washington és az ICC között. A lépés nemzetközi jogi kérdéseket vet fel.",
+      "title": "Hivatalos: nem tér vissza Fedorov, az ukrán elnök az SZBU-s Hmarát jelölte védelmi miniszternek",
+      "summary": "Ukrajnában hivatalosan bejelentették, hogy Fedorov védelmi miniszter nem tér vissza posztjára, helyette az ukrán elnök az SZBU-s Hmarát jelölte ki. Ez a váltás kulcsfontosságú lehet az ország háborús stratégiája és a védelmi vezetés szempontjából.",
       "importance": 4
     },
     {
-      "title": "Meghalt egy varsói lakásban egy orosz ellenzéki politikus",
-      "summary": "Holtan találták varsói lakásában Szergej Vlaszenkót, az emigrációban élő orosz ellenzéki politikust. Halálának körülményei kérdéseket vetnek fel.",
+      "title": "Az amerikai nagykövet is szörnyű terrorcselekménynek nevezte, amit szélsőséges izraeli telepesek tettek",
+      "summary": "Az amerikai nagykövet szörnyű terrorcselekménynek minősítette szélsőséges izraeli telepesek tetteit, ami erős kritikát fogalmaz meg Izrael irányába. A kijelentés aláhúzza a telepesek erőszakos cselekedeteinek nemzetközi megítélését.",
       "importance": 4
     },
     {
-      "title": "Ukrán elnök új védelmi minisztert nevezett ki",
-      "summary": "Hivatalosan bejelentették, hogy Fedorov nem tér vissza, helyette az ukrán elnök az SZBU-s Hmarát jelölte védelmi miniszternek. A kinevezés a folyamatban lévő háború fényében kiemelten fontos.",
+      "title": "Az orosz benzinkutak csaknem háromnegyedénél lehet hiány benzinből",
+      "summary": "Oroszországban a benzinkutak csaknem háromnegyedénél tapasztalható üzemanyaghiány, ami komoly gazdasági és társadalmi problémákat okoz az országban. Ez a helyzet a szankciók és a háborús gazdaság egyik látható következménye.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple átalakítja az EU-s App Store díjait és szabályait",
-      "summary": "Az Apple változtatásokat vezet be az Európai Unióban az App Store díjaiban és az alternatív alkalmazásboltokra vonatkozó szabályokban. Ez jelentős hatással lesz az alkalmazásfejlesztőkre és a felhasználókra.",
+      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "summary": "Az Apple átalakította az EU-s App Store díjait és enyhítette a szabályokat az alternatív alkalmazásboltok számára, válaszul az uniós szabályozásra. Ez a változás jelentős hatással lehet az alkalmazásfejlesztőkre és a digitális piacra Európában.",
       "importance": 5
     },
     {
-      "title": "Kiszivárgott videó: Ilyen lehet az Apple kamerás AirPodja",
-      "summary": "Egy kiszivárgott Apple videó alapján bepillantást nyerhetünk a feltételezett kamerával felszerelt AirPodsba. Ez a fejlesztés új felhasználási lehetőségeket nyithat a viselhető technológia terén.",
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "summary": "Az Anthro Energy megkezdte egy olyan gyár építését, amely szilárdtest-akkumulátorokat gyárthat, forradalmasítva az energiatárolást. Ez a technológia kulcsfontosságú lehet az elektromos járművek és hordozható eszközök fejlődésében.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI új biztonsági intézkedéseket vezet be egy adatszivárgás után",
-      "summary": "Az OpenAI új biztonsági intézkedéseket vezet be a Hugging Face-nél történt adatszivárgás következtében. A lépés az AI-platformok biztonságának növelését célozza.",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary": "Az OpenAI elindította a ChatGPT egy biztonságosabb verzióját tinédzserek számára, évekkel azután, hogy a korosztály már használta a platformot. A kezdeményezés célja, hogy minimalizálja a kockázatokat és felelősségteljesebb használatot biztosítson a fiataloknak.",
       "importance": 4
     },
     {
-      "title": "Gyárat épít az Anthro Energy szilárdtest akkumulátorokhoz",
-      "summary": "Az Anthro Energy megkezdte egy gyár építését, amely szilárdtest akkumulátorokat fog gyártani, ami áttörést hozhat az energiatárolásban. Ez a technológia forradalmasíthatja az elektromos járműveket és az elektronikai eszközöket.",
-      "importance": 4
+      "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
+      "summary": "Az Apple új macOS frissítése állítólag tartalmaz egy videót kamerával felszerelt AirPods fülhallgatókról, ami termékfejlesztési pletykákat erősít meg. Ez a lehetséges újítás megnyithatja az utat a viselhető technológia új funkciói előtt.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Európának alkalmazkodnia kell a mega-tüzekhez",
-      "summary": "A Nature cikke szerint Európának fel kell készülnie és alkalmazkodnia kell a egyre gyakoribb és pusztítóbb mega-tüzekhez. Az éghajlatváltozás miatt a tűzvész-kezelési stratégiák felülvizsgálata sürgős.",
+      "title": "Megcsinálták az élő tranzisztort, baktériumok végzik a számításokat",
+      "summary": "Tudósoknak sikerült élő tranzisztort létrehozniuk, ahol baktériumok végzik a számításokat, forradalmasítva a bioelektronika területét. Ez az áttörés új lehetőségeket nyithat a biológiai számítástechnika és az orvosi diagnosztika terén.",
       "importance": 5
     },
     {
-      "title": "Élő tranzisztort hoztak létre baktériumok segítségével",
-      "summary": "Tudósoknak sikerült élő tranzisztort alkotniuk, ahol baktériumok végzik a számításokat. Ez az áttörés új irányt mutathat a bioinformatika és a számítástechnika fejlődésében.",
-      "importance": 5
-    },
-    {
-      "title": "A hőhullámok gyenge pontokat tárnak fel az élelmiszer-rendszerekben",
-      "summary": "A hosszan tartó hőhullámok világszerte rávilágítanak az élelmiszer-ellátási rendszerek sebezhetőségére és a klímaváltozás hatására. Az élelmiszerbiztonság fenntartásához sürgős adaptációra van szükség.",
+      "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+      "summary": "Egy forradalmi őssejtterápiának felelősségteljesen kell haladnia, hogy teljes mértékben kihasználhassa potenciálját. A fejlesztés ígéretes gyógyír lehet számos betegségre, de szigorú etikai és biztonsági protokollokat igényel.",
       "importance": 4
     },
     {
-      "title": "A forradalmi őssejtterápiát felelősségteljesen kell alkalmazni",
-      "summary": "Az őssejtterápiák terén elért forradalmi eredmények felelősségteljes megközelítést igényelnek a teljes potenciál kihasználásához. Fontos az etikai és biztonsági szempontok gondos mérlegelése.",
+      "title": "Heatwaves expose weak links in food systems",
+      "summary": "A hőhullámok rávilágítottak az élelmiszerrendszerek gyenge pontjaira világszerte, veszélyeztetve a terményeket és az élelmiszerellátást. Ez a jelenség sürgős adaptációs stratégiák kidolgozását teszi szükségessé a klímaváltozás hatásainak kezelésére.",
+      "importance": 4
+    },
+    {
+      "title": "Europe must adapt to live with megafires",
+      "summary": "Európának alkalmazkodnia kell a mega-tüzek egyre gyakoribbá váló jelenségéhez, mivel a klímaváltozás súlyosbítja az erdőtüzek kockázatát. A kontinensnek új stratégiákat kell kidolgoznia a megelőzésre és a tűzoltásra.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Csányi Sándor keményen nekiment a FIFA elnökének, visszavonta támogatását",
-      "summary": "Csányi Sándor, a Magyar Labdarúgó Szövetség elnöke éles hangú levélben fejezte ki elégedetlenségét a FIFA elnökének, és visszavonta korábbi támogatását. Ez a lépés jelentős kihatással lehet a magyar futball nemzetközi kapcsolataira.",
-      "importance": 5
+      "title": "Csányi Sándor kemény hangvételű levélben ment neki a FIFA elnökének, a támogatását is visszavonta",
+      "summary": "Csányi Sándor, a Magyar Labdarúgó Szövetség elnöke kemény hangvételű levélben kritizálta a FIFA elnökét, Gianni Infantinót, és visszavonta a támogatását. A lépés a nemzetközi futballpolitika feszültségeire utal.",
+      "importance": 4
     },
     {
-      "title": "A Premier League vezetője szerint a FIFA \"önpusztító\" a vb-terv miatt",
-      "summary": "A Premier League vezetője szerint a FIFA \"önpusztító\" a labdarúgó-világbajnokság terveivel kapcsolatban. Ez a kritika feszültséget jelez a nemzetközi futballszervezetek között.",
+      "title": "Premier League chief says Fifa self-destructed over World Cup plan",
+      "summary": "A Premier League vezetője szerint a FIFA saját magát teszi tönkre a világbajnoki tervekkel, ami újabb konfliktust jelez a futball vezető testülete és a legnagyobb ligák között. A kijelentés rávilágít a FIFA ellentmondásos döntéseire és a sportág jövőjével kapcsolatos aggodalmakra.",
       "importance": 4
+    },
+    {
+      "title": "Az idei országtorta jobb lett, mint bármelyik az elmúlt tíz évben",
+      "summary": "Az idei \"Ország Tortája\" elnyerte a zsűri tetszését, és sokak szerint jobb lett, mint az elmúlt tíz év bármelyik győztese. Ez a verseny a magyar cukrászat kiemelkedő eseménye és a nemzeti ünnep része.",
+      "importance": 2
+    },
+    {
+      "title": "Gripenes légi parádéval készül a Magyar Honvédség augusztus 20-ra",
+      "summary": "A Magyar Honvédség Gripen vadászgépek látványos légi parádéjával készül az augusztus 20-i nemzeti ünnepre, bemutatva a légierő képességeit. A precíziós repülés és a látványos elemek a légi sportokhoz hasonló élményt nyújtanak.",
+      "importance": 2
     }
   ]
 }

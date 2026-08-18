@@ -2,110 +2,110 @@
   "hungary": [
     {
       "title": "Papp Dánielnek 28,1 millió forintot fizetett ki távozásakor a közmédia",
-      "summary": "A közmédia nettó 28,1 millió forinttal honorálta Papp Dániel távozását, aki korábban hírhamisítási ügyekbe keveredett. Az összeg kifizetése kérdéseket vet fel az állami média pénzügyi elszámoltathatóságával kapcsolatban.",
+      "summary": "A közmédia 28,1 millió forintot fizetett ki Papp Dánielnek, az MTI korábbi vezetőjének, amikor távozott posztjáról. Az ügy rávilágít a közmédia javadalmazási gyakorlatára egy hírhamisítási botrány után.",
       "importance": 5
     },
     {
-      "title": "Kritikus szintre csökkent a Maconkai-tározó vízszintje, 15 ezer ember ivóvízellátása veszélyben",
-      "summary": "A Maconkai-tározó kritikus vízszintje miatt 15 ezer ember ivóvízellátása került veszélybe. Megoldásként százezer köbméter vizet vezetnek át a Mizserfai-tározóból a probléma enyhítésére.",
+      "title": "Kritikus szintre csökkent a Maconkai-tározó vízszintje, 15 ezer ember ivóvízellátása került veszélybe",
+      "summary": "A Maconkai-tározó vízszintje riasztóan alacsonyra csökkent, veszélyeztetve mintegy 15 ezer ember ivóvízellátását. Százezer köbméter vizet kell átemelni egy másik tározóból a helyzet enyhítésére.",
       "importance": 5
-    },
-    {
-      "title": "Beszakadt a 4iG árfolyama a kormányzati átvilágítás hírére",
-      "summary": "A 4iG telekommunikációs vállalat árfolyama jelentősen esett a tőzsdén, miután bejelentették, hogy a kormány átvilágítja a céget. Ez a lépés bizonytalanságot okozott a befektetők körében.",
-      "importance": 4
     },
     {
       "title": "Idén már 23 csecsemő halt meg szifiliszben Magyarországon",
-      "summary": "Megrázó adatok szerint idén már 23 csecsemő hunyt el veleszületett szifiliszben Magyarországon. Ez a szám kiemeli a közegészségügyi szűrések és a megelőzés fontosságát.",
+      "summary": "Döbbenetes adat: idén már 23 csecsemő vesztette életét Magyarországon veleszületett szifilisz következtében. Ez a szám a közegészségügyi helyzet romlására utal.",
+      "importance": 5
+    },
+    {
+      "title": "Csökkentik a követelményeket a tankerületi igazgatók kinevezéséhez",
+      "summary": "A kormány enyhíti a tankerületi igazgatók kinevezéséhez szükséges feltételeket, ami kritikát váltott ki az oktatás minőségét illetően. A lépés az oktatási rendszer további centralizációjára utal.",
       "importance": 4
     }
   ],
   "world": [
     {
       "title": "Trump azzal fenyegetőzött, hogy szétbombázná Ománt",
-      "summary": "Donald Trump azzal fenyegette Ománt, hogy bombázni fogja az országot, amennyiben az Iránnal való háború befejezésének útjába áll. A kijelentés komoly diplomáciai feszültséget generált egy kulcsfontosságú szövetségessel szemben.",
+      "summary": "Donald Trump azzal fenyegetőzött, hogy bombázná Ománt, amennyiben az ország akadályozná az iráni háború befejezését célzó törekvéseket. A kijelentés komoly nemzetközi feszültségeket gerjeszt.",
       "importance": 5
     },
     {
-      "title": "A 2008-as válság óta nem látott magasságba ugrottak a vezető gazdaságok hitelfelvételi költségei",
-      "summary": "A világ vezető gazdaságainak államadósság-finanszírozási költségei a 2008-as pénzügyi válság óta nem látott magasságokba emelkedtek. Ez aggodalmat kelt a globális gazdasági stabilitás és a jövőbeli növekedés kilátásai kapcsán.",
+      "title": "2008-as válság óta nem volt ilyen magas szinten a vezető gazdaságok államadósságának finanszírozása",
+      "summary": "A világ vezető gazdaságainak államadósság-finanszírozási költségei a 2008-as pénzügyi válság óta nem látott magasságokba emelkedtek. Ez komoly gazdasági kihívások elé állítja a globális piacot.",
       "importance": 5
     },
     {
-      "title": "Az orosz választásokon nem indulhat az egyetlen háborúellenes párt",
-      "summary": "Oroszországban az egyetlen háborúellenes pártot kizárták az idei választásokról, hiába küzdöttek a békéért és a szabadságért. Ez a lépés tovább korlátozza a politikai pluralizmust az országban.",
+      "title": "Nem indulhat az orosz választásokon az egyetlen háborúellenes párt",
+      "summary": "Az orosz választásokon nem indulhat el az egyetlen háborúellenes párt, annak ellenére, hogy nagy küzdelmet folytatott a részvételért. Ez a lépés tovább csorbítja a demokrácia és a szabad véleménynyilvánítás lehetőségeit Oroszországban.",
       "importance": 4
     },
     {
-      "title": "Kushner pozitív találkozóról számolt be Netanjahuval a gázai béketervről",
-      "summary": "Jared Kushner 'nagyon jó' találkozóról számolt be Benjamin Netanjahuval, miután tárgyalásokat folytattak a Hamásszal egy gázai béketervről. A megbeszélések reményt keltenek a régió stabilizálására.",
+      "title": "Mozgolódik a Föld egyik legveszélyesebb vulkánja",
+      "summary": "A Föld egyik legveszélyesebb vulkánja, amely korábban már 30 ezer ember halálát okozta, aktivitást mutat. A helyzet aggodalomra ad okot a környező területeken élők számára.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Nvidia 1,5 milliárd dollárt fektet az OpenAI mögött álló adatközpont-fejlesztőbe",
-      "summary": "Az Nvidia 1,5 milliárd dolláros befektetést jelentett be a SoftBank adatközpont-fejlesztőjébe, amely az OpenAI projektjei mögött áll. Ez a lépés tovább erősíti az AI infrastruktúra növekedését és a kulcsfontosságú szereplők közötti együttműködést.",
+      "title": "Az Amazon ritka szövegeket semmisít meg az AI képzéséhez",
+      "summary": "Az Amazon, amely könyvkereskedőként kezdte, ritka szövegeket semmisít meg mesterséges intelligencia rendszereinek képzéséhez. Ez a gyakorlat komoly etikai és kulturális aggodalmakat vet fel az írott örökség megőrzésével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Példátlan számú Apple felhasználó kapott kémprogram-riasztást",
-      "summary": "Vizsgálatok szerint példátlan számú Apple felhasználó kapott kémprogram-riasztást, ami aggodalmat kelt a digitális biztonság terén. A fenyegetés rávilágít a kifinomult kiberkémkedés terjedésére.",
+      "title": "Előfordulhat, hogy példátlan számú Apple felhasználó kapott kémprogram-riasztást",
+      "summary": "Vizsgálatok szerint példátlanul sok Apple felhasználó kapott a közelmúltban kémprogram-riasztást. Ez a biztonsági incidens széles körű aggodalmakat kelt a digitális adatvédelem és a felhasználói biztonság terén.",
       "importance": 5
     },
     {
-      "title": "Az Amazon ritka szövegeket semmisít meg mesterséges intelligencia képzéséhez",
-      "summary": "Az Amazon, amely eredetileg könyvkereskedőként indult, ritka szövegeket semmisít meg, hogy mesterséges intelligencia rendszereit képezze. Ez a gyakorlat etikai aggályokat vet fel a kulturális örökség megőrzésével kapcsolatban.",
+      "title": "Az Nvidia 1,5 milliárd dollárt fektet az OpenAI mögött álló SoftBank adatközpont fejlesztőjébe",
+      "summary": "Az Nvidia 1,5 milliárd dolláros befektetéssel támogatja a SoftBank adatközpont-fejlesztőjét, amely az OpenAI projektjei mögött áll. Ez a lépés jelentősen hozzájárul a mesterséges intelligencia infrastruktúra kiépítéséhez és fejlődéséhez.",
       "importance": 4
     },
     {
-      "title": "A Higgsfield 400 millió dolláros befektetést kapott, értéke megháromszorozódott",
-      "summary": "A Higgsfield nevű AI startup 400 millió dolláros Series B befektetést szerzett, nyolc hónap alatt négyszeresére növelve értékét 5,4 milliárd dollárra. Ez a jelentős finanszírozás jelzi a mesterséges intelligencia szektorba vetett bizalmat.",
+      "title": "Az Anthropic éves bevétele 65 milliárd dollárra nőtt",
+      "summary": "Az Anthropic, az egyik vezető mesterséges intelligencia vállalat, évesített bevétele 65 milliárd dollárra emelkedett. Ez a szám jól mutatja az AI szektor gyors növekedését és a piaci keresletet.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Áttörés a narkolepszia kezelésében: új gyógyszer nyit utat az agyi terápiáknak",
-      "summary": "Egyedülálló narkolepszia elleni gyógyszer fejlesztése nyit utat új agyi terápiáknak. Ez az áttörés reményt adhat azoknak, akik ezzel a neurológiai betegséggel küzdenek.",
+      "title": "Úttörő narkolepszia-gyógyszer nyit utat az agyi terápiák előtt",
+      "summary": "Egy elsőként bevezetett narkolepszia-gyógyszer új lehetőségeket kínál az agyi terápiák fejlesztésében. Ez az áttörés reményt adhat számos neurológiai betegség kezelésére.",
       "importance": 5
     },
     {
-      "title": "Túl meleg az éjszakához? Hogyan hatnak az éjszakai hőhullámok az egészségünkre",
-      "summary": "Az éjszakai hőhullámok egyre nagyobb mértékben befolyásolják az alvás minőségét és az emberi egészséget. A tanulmány rávilágít a klímaváltozás közvetlen egészségügyi hatásaira.",
+      "title": "Túl meleg van az alváshoz? Az éjszakai hőhullámok hatása egészségünkre",
+      "summary": "Kutatások szerint az éjszakai hőhullámok komoly egészségügyi kockázatot jelentenek, befolyásolva az alvás minőségét és az általános jólétet. Ez a jelenség a klímaváltozás közvetlen hatásaként egyre sürgetőbb problémát jelent.",
       "importance": 5
     },
     {
-      "title": "Egy hatalmas tanulmány szerint az illegális migráció nem növeli a bűnözési rátát",
-      "summary": "Egy nagyszabású kutatás megállapította, hogy az illegális migráció nem növeli a bűnözési rátát, szemben a gyakori tévhitekkel. Az eredmények fontosak lehetnek a migrációs politikák alakításában.",
+      "title": "Az ősi CO₂-szint emelkedése utalhat a mai klímafolyamatokra",
+      "summary": "Az ősi CO₂-szint emelkedésének vizsgálata fontos tanulságokkal szolgálhat a mai klímaváltozással kapcsolatban. A múltbeli adatok elemzése segíthet megérteni a jelenlegi folyamatokat és a jövőbeli következményeket.",
       "importance": 4
     },
     {
-      "title": "Miért a mesterséges intelligencia rendszerek a leghasznosabbak új tudományos eszközök tervezőjeként?",
-      "summary": "A mesterséges intelligencia rendszerek egyre inkább kulcsfontosságú szerepet játszanak új tudományos eszközök és módszerek tervezésében. Ez a megközelítés felgyorsíthatja a felfedezéseket és forradalmasíthatja a kutatást.",
+      "title": "A dokumentumok nélküli migráció nem növeli a bűnözési rátát – derül ki egy nagyszabású tanulmányból",
+      "summary": "Egy átfogó tanulmány szerint a dokumentumok nélküli migráció nem jár együtt a bűnözési ráták növekedésével. Ez a tudományos eredmény ellentmond a közkeletű feltételezéseknek, és fontos társadalmi-politikai következményekkel járhat.",
       "importance": 4
     }
   ],
   "sports": [
     {
       "title": "Kirúgták a FIFA egyik magas rangú vezetőjét, miután nyíltan kritizálta Infantinót",
-      "summary": "A FIFA egyik magas rangú vezetőjét menesztették, miután nyilvánosan bírálta Gianni Infantino elnök terveit. Az eset rávilágít a nemzetközi labdarúgó-szövetség belső feszültségeire és hatalmi harcaira.",
+      "summary": "A FIFA egyik magas rangú vezetőjét menesztették, miután nyíltan bírálta Gianni Infantino elnököt. Az eset rávilágít a szervezet belső feszültségeire és a vezetésen belüli nézeteltérésekre.",
       "importance": 5
     },
     {
-      "title": "Neymar volt az első, akin alkalmazták az új szabályt, egy percre le kellett jönnie a pályáról",
-      "summary": "Neymar volt az első labdarúgó, akin alkalmazták az új szabályt, miszerint egy percre le kellett jönnie a pályáról. Ez a változtatás jelentősen befolyásolhatja a játék dinamikáját és a taktikai döntéseket.",
+      "title": "Neymar volt az első, akin alkalmazták az új szabályt",
+      "summary": "Neymar volt az első labdarúgó, akin alkalmazták az új szabályt, mely szerint egy percre le kellett jönnie a pályáról. Az eset precedenst teremt az új sportági előírások értelmezésében és alkalmazásában.",
       "importance": 4
     },
     {
-      "title": "Kubatov Gábor szerint minden rendben van a Fradivárossal, vettek játékosokat is a támogatásból",
-      "summary": "Kubatov Gábor, az FTC elnöke szerint minden rendben van a Fradiváros projekttel kapcsolatban, és a klub a támogatásból játékosokat is vásárolt. Ez megnyugtató lehet a szurkolók számára, de felvetheti a közpénzek felhasználásának kérdését.",
+      "title": "Játékosokat is vett a Fradivárosra adott támogatásból az FTC",
+      "summary": "Az FTC a Fradiváros projektjére kapott támogatás egy részéből játékosokat igazolt. Ez a lépés kérdéseket vet fel a közpénzek felhasználásának átláthatóságával és a támogatások eredeti céljával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Amy Hunt négy aranyérmet szerzett a történelmi Európa-bajnokságon",
-      "summary": "Amy Hunt négy aranyérmet nyert a történelmi jelentőségű atlétikai Európa-bajnokságon, ezzel kiemelkedő teljesítményt nyújtva. Sikerével beírta magát a sporttörténelembe.",
+      "title": "Kubatov Gábor: Minden rendben van a Fradivárossal",
+      "summary": "Kubatov Gábor, az FTC elnöke szerint minden rendben van a Fradiváros projekttel és annak finanszírozásával kapcsolatban. Nyilatkozata megnyugtatást célzó üzenet, miután aggodalmak merültek fel a projekt körül.",
       "importance": 3
     }
   ]

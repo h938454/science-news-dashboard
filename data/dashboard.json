@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Az MTI manipulációiról szóló 482 oldalas dokumentum nyilvános",
-      "summary": "Megjelent egy 482 oldalas dokumentum, amely részletesen bemutatja, hogyan manipulálták és hallgatták el a híreket az MTI-nél az Orbán-kormányok idején. A jelentés rávilágít a közmédia működésének belső mechanizmusaira.",
+      "title": "Megjelent az MTI manipulációiról szóló 482 oldalas dokumentum",
+      "summary": "Nyilvánosságra hozták azt a 482 oldalas dokumentumot, amely részletesen bemutatja, hogyan manipulálták és hallgatták el a híreket az MTI-nél az Orbán-kormányok idején. A jelentés rávilágít a közmédia működésére és függetlenségének hiányára.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter Paksról: Visszakapcsolhatják az álló turbinákat",
-      "summary": "Magyar Péter bejelentette, hogy vasárnaptól megkezdődhet a paksi atomerőműben a jelenleg még álló turbinák visszakapcsolása. Ez egy fontos lépés a nemzeti energiaszolgáltatás szempontjából.",
+      "title": "Magyar Péter Paksról: Hamarosan visszakapcsolhatók a turbinák",
+      "summary": "Magyar Péter szerint vasárnaptól megkezdődhet a paksi atomerőmű jelenleg álló turbináinak visszakapcsolása. Ez a bejelentés a hazai energiapolitika és ellátás szempontjából jelentős.",
       "importance": 4
     },
     {
-      "title": "A kormány több lakás megvalósítását függeszti fel",
-      "summary": "A kormány úgy döntött, hogy több lakásépítési projekt megvalósítását függeszti fel, mint amennyit tavaly összesen átadtak. Ez komoly hatással lehet az ingatlanpiacra és a lakáshoz jutókra.",
+      "title": "Kormányzati döntés: Több lakásépítés leáll, mint amennyit tavaly átadtak",
+      "summary": "A kormány felfüggeszti több lakás megvalósítását, melynek száma meghaladja a tavaly átadott összes lakásét. Ez komoly hatással lehet az építőiparra és a lakáspiacra.",
       "importance": 4
     },
     {
-      "title": "Letartóztatták a lengyel buszsofőrt az M3-ason történt baleset miatt",
-      "summary": "Egy hónapra elrendelték az M3-as autópályán balesetet szenvedett lengyel turistabusz sofőrjének letartóztatását. A súlyos baleset több halálos áldozattal és sérülttel járt.",
-      "importance": 3
+      "title": "Az amerikaiak az utolsó pillanatban ejtették a 4iG-vel tervezett megállapodást",
+      "summary": "Információk szerint az Egyesült Államok az utolsó pillanatban halasztotta el, vagy ejtette az aláírást egy 4iG-vel tervezett szándéknyilatkozat ügyében. Ez befolyásolhatja a magyar telekommunikációs piacot és a külföldi befektetéseket.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A brit miniszterelnök teljes támogatásáról biztosította Ukrajnát",
-      "summary": "A brit miniszterelnök megerősítette, hogy az Egyesült Királyság továbbra is 100 százalékban támogatni fogja Ukrajnát. Ez az elkötelezettség kulcsfontosságú az orosz-ukrán háborúban.",
+      "title": "Amerikai nagykövet: Szörnyű terrorcselekmény, amit izraeli telepesek tettek",
+      "summary": "Az amerikai nagykövet terrorcselekménynek minősítette szélsőséges izraeli telepesek cselekedeteit, ami fokozza a feszültséget a régióban. A nemzetközi közösség aggodalommal figyeli az eseményeket.",
       "importance": 5
     },
     {
-      "title": "Holtan találtak egy orosz ellenzéki politikust Varsóban",
-      "summary": "Varsói otthonában holtan találták az emigrációban élő orosz ellenzéki politikust, Szergej Vlaszenkót. Halálának körülményei további vizsgálatokat igényelnek.",
+      "title": "Az Egyesült Államok szankciókkal sújtotta a Nemzetközi Büntetőbíróság elnökét",
+      "summary": "Az USA szankciókat vetett ki a Nemzetközi Büntetőbíróság (ICC) elnökére, ami feszültséget okoz Washington és az ICC között. A lépés nemzetközi jogi kérdéseket vet fel.",
       "importance": 4
     },
     {
-      "title": "Izraeli katonák számokkal jelöltek meg palesztinokat Ciszjordániában",
-      "summary": "Izraeli katonák Ciszjordániában őrizetbe vett palesztinokat jelöltek meg számokkal, ami aggodalmakat kelt a nemzetközi emberi jogi szervezetekben. Az esetről videófelvétel is készült.",
+      "title": "Meghalt egy varsói lakásban egy orosz ellenzéki politikus",
+      "summary": "Holtan találták varsói lakásában Szergej Vlaszenkót, az emigrációban élő orosz ellenzéki politikust. Halálának körülményei kérdéseket vetnek fel.",
       "importance": 4
     },
     {
-      "title": "Üzemanyaghiány sújtja Oroszország benzinkútjait",
-      "summary": "Az oroszországi benzinkutak alig több mint negyedénél kapható üzemanyag, ami súlyos ellátási problémákra és gazdasági kihívásokra utal az országban. Ez hatással van a lakosság mindennapjaira.",
+      "title": "Ukrán elnök új védelmi minisztert nevezett ki",
+      "summary": "Hivatalosan bejelentették, hogy Fedorov nem tér vissza, helyette az ukrán elnök az SZBU-s Hmarát jelölte védelmi miniszternek. A kinevezés a folyamatban lévő háború fényében kiemelten fontos.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Élő tranzisztort alkottak baktériumok felhasználásával",
-      "summary": "Kutatók sikeresen létrehoztak egy élő tranzisztort, ahol baktériumok végzik a számításokat. Ez a biokomputing új korszakát nyithatja meg.",
+      "title": "Az Apple átalakítja az EU-s App Store díjait és szabályait",
+      "summary": "Az Apple változtatásokat vezet be az Európai Unióban az App Store díjaiban és az alternatív alkalmazásboltokra vonatkozó szabályokban. Ez jelentős hatással lesz az alkalmazásfejlesztőkre és a felhasználókra.",
       "importance": 5
     },
     {
-      "title": "Az Apple átalakítja EU-s App Store díjait és szabályait",
-      "summary": "Az Apple jelentős változtatásokat jelentett be az Európai Unióban érvényes App Store díjaival és az alternatív alkalmazásboltokra vonatkozó szabályaival kapcsolatban. Ez nagy hatással lesz a fejlesztőkre és a felhasználókra.",
+      "title": "Kiszivárgott videó: Ilyen lehet az Apple kamerás AirPodja",
+      "summary": "Egy kiszivárgott Apple videó alapján bepillantást nyerhetünk a feltételezett kamerával felszerelt AirPodsba. Ez a fejlesztés új felhasználási lehetőségeket nyithat a viselhető technológia terén.",
       "importance": 4
     },
     {
-      "title": "Gyárat építenek a szilárdtest akkumulátorok gyártására",
-      "summary": "Az Anthro Energy megkezdte egy olyan gyár építését, amely utat nyithat a szilárdtest akkumulátorok tömeggyártása felé. Ez az akkumulátor technológia forradalmasíthatja az energia tárolását.",
+      "title": "Az OpenAI új biztonsági intézkedéseket vezet be egy adatszivárgás után",
+      "summary": "Az OpenAI új biztonsági intézkedéseket vezet be a Hugging Face-nél történt adatszivárgás következtében. A lépés az AI-platformok biztonságának növelését célozza.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI biztonságosabb ChatGPT-t indít tinédzsereknek",
-      "summary": "Az OpenAI egy biztonságosabb ChatGPT verziót vezetett be tinédzserek számára, évekkel azután, hogy már elkezdték használni a platformot. A lépés célja a fiatal felhasználók védelme.",
-      "importance": 3
+      "title": "Gyárat épít az Anthro Energy szilárdtest akkumulátorokhoz",
+      "summary": "Az Anthro Energy megkezdte egy gyár építését, amely szilárdtest akkumulátorokat fog gyártani, ami áttörést hozhat az energiatárolásban. Ez a technológia forradalmasíthatja az elektromos járműveket és az elektronikai eszközöket.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A hőhullámok gyenge pontokat tárnak fel az élelmiszerrendszerekben",
-      "summary": "Az intenzív hőhullámok világszerte rávilágítanak az élelmiszerrendszerek sebezhetőségére és gyenge pontjaira. Az éghajlatváltozás hatásai azonnali adaptációs stratégiákat tesznek szükségessé.",
+      "title": "Európának alkalmazkodnia kell a mega-tüzekhez",
+      "summary": "A Nature cikke szerint Európának fel kell készülnie és alkalmazkodnia kell a egyre gyakoribb és pusztítóbb mega-tüzekhez. Az éghajlatváltozás miatt a tűzvész-kezelési stratégiák felülvizsgálata sürgős.",
       "importance": 5
     },
     {
-      "title": "Európának alkalmazkodnia kell a megaerdőtüzekhez",
-      "summary": "Európának fel kell készülnie és alkalmazkodnia kell az egyre gyakoribb és pusztítóbb megaerdőtüzekhez. Az éghajlatváltozás miatt a tűzvédelmi stratégiák sürgős felülvizsgálatára van szükség.",
+      "title": "Élő tranzisztort hoztak létre baktériumok segítségével",
+      "summary": "Tudósoknak sikerült élő tranzisztort alkotniuk, ahol baktériumok végzik a számításokat. Ez az áttörés új irányt mutathat a bioinformatika és a számítástechnika fejlődésében.",
+      "importance": 5
+    },
+    {
+      "title": "A hőhullámok gyenge pontokat tárnak fel az élelmiszer-rendszerekben",
+      "summary": "A hosszan tartó hőhullámok világszerte rávilágítanak az élelmiszer-ellátási rendszerek sebezhetőségére és a klímaváltozás hatására. Az élelmiszerbiztonság fenntartásához sürgős adaptációra van szükség.",
       "importance": 4
     },
     {
-      "title": "Az őssejtterápiát felelősségteljesen kell fejleszteni",
-      "summary": "A forradalmi őssejtterápiák teljes potenciáljának kiaknázásához felelősségteljes kutatásra és fejlesztésre van szükség. Az etikai szempontok kiemelt fontosságúak a jövőbeni kezelések során.",
+      "title": "A forradalmi őssejtterápiát felelősségteljesen kell alkalmazni",
+      "summary": "Az őssejtterápiák terén elért forradalmi eredmények felelősségteljes megközelítést igényelnek a teljes potenciál kihasználásához. Fontos az etikai és biztonsági szempontok gondos mérlegelése.",
       "importance": 4
-    },
-    {
-      "title": "A biológiai adatbázisokat infrastruktúraként kell kezelni",
-      "summary": "Fontos, hogy a biológiai adatbázisokat ne pusztán projekteknek, hanem alapvető tudományos infrastruktúrának tekintsék. Ez biztosítja a hosszú távú fenntarthatóságot és hozzáférést a kutatók számára.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Premier League vezetője szerint a FIFA tönkretette magát a vb-tervvel",
-      "summary": "A Premier League vezetője szerint a FIFA \"önmagát rombolta le\" a világbajnokságra vonatkozó terveivel. Ez kritikát fogalmaz meg a futball-irányító szervezet döntéseivel szemben.",
+      "title": "Csányi Sándor keményen nekiment a FIFA elnökének, visszavonta támogatását",
+      "summary": "Csányi Sándor, a Magyar Labdarúgó Szövetség elnöke éles hangú levélben fejezte ki elégedetlenségét a FIFA elnökének, és visszavonta korábbi támogatását. Ez a lépés jelentős kihatással lehet a magyar futball nemzetközi kapcsolataira.",
+      "importance": 5
+    },
+    {
+      "title": "A Premier League vezetője szerint a FIFA \"önpusztító\" a vb-terv miatt",
+      "summary": "A Premier League vezetője szerint a FIFA \"önpusztító\" a labdarúgó-világbajnokság terveivel kapcsolatban. Ez a kritika feszültséget jelez a nemzetközi futballszervezetek között.",
       "importance": 4
-    },
-    {
-      "title": "Először tisztán női jelöltek a Nemzeti Televíziós Díjátadó dráma kategóriájában",
-      "summary": "A Nemzeti Televíziós Díjátadó történetében először került be tisztán női jelöltlista a drámai színészi kategóriába. Ez mérföldkőnek számít a brit televíziózásban.",
-      "importance": 2
-    },
-    {
-      "title": "Kínai mémfilm rivalizál az Odüsszeiával a mozikban",
-      "summary": "Egy \"igénytelen\" animációs mémfilm váratlanul verseng az Odüsszeiával a kínai mozikban. Ez rávilágít a modern tartalomfogyasztási szokásokra és a közönség ízlésére.",
-      "importance": 1
-    },
-    {
-      "title": "Viselünk-e majd exoskeletont tíz év múlva?",
-      "summary": "A tudósok azon gondolkodnak, vajon tíz éven belül hétköznapivá válnak-e az exoskeletont viselők. Ez a technológia gyökeresen megváltoztathatja, hogyan mozgunk és hogyan teljesítünk fizikailag.",
-      "importance": 3
     }
   ]
 }

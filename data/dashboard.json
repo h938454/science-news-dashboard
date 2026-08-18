@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Családi tragédia Gyomaendrődön",
-      "summary": "Egy 74 éves férfi megölte 48 éves lányát, majd magával is végzett gyomaendrődi otthonukban. Az anya talált rájuk holtan a családi házban, a rendőrség vizsgálja az eset körülményeit.",
+      "title": "Világi Oszkár magán biztonsági cége szerződött a Szijjártó vezette külüggyel",
+      "summary": "Világi Oszkár milliárdos árbevételű magán biztonsági cége több szerződést is kötött a Külügyminisztériummal. A tranzakciók részletei nem nyilvánosak, felvetve a transzparencia kérdését a kormányzati kiadások kapcsán.",
+      "importance": 5
+    },
+    {
+      "title": "Aggasztó: 23 csecsemő halt meg veleszületett szifiliszben Magyarországon idén",
+      "summary": "Idén már 23 csecsemő halt bele veleszületett szifiliszbe Magyarországon, ami súlyos közegészségügyi válságra utal. A riasztó adatok azonnali beavatkozást és megelőző intézkedéseket tesznek szükségessé.",
+      "importance": 5
+    },
+    {
+      "title": "A Duna Aszfalt 59 milliárd forint előleget utalt vissza a Mohácsi-híd projektre",
+      "summary": "A Duna Aszfalt visszautalt 59 milliárd forint előleget az államnak, amelyet a mohácsi Duna-híd kivitelezésére kapott. Ez a jelentős összegű visszatérítés kérdéseket vet fel a projekt előrehaladásával és a közbeszerzések átláthatóságával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Közel 60 milliárd forint előleget fizet vissza a Duna Aszfalt",
-      "summary": "A Duna Aszfalt csaknem 60 milliárd forint előleget utalt vissza az államnak, amelyet a mohácsi Duna-híd kivitelezésére kapott. Az összeg visszafizetése a projekt finanszírozásával kapcsolatos kérdéseket vet fel.",
-      "importance": 5
-    },
-    {
       "title": "Kritikus a Maconkai-tározó vízszintje, veszélyben 15 ezer ember ivóvízellátása",
-      "summary": "Drámaian lecsökkent a Maconkai-tározó vízszintje, ami 15 ezer ember ivóvízellátását fenyegeti a térségben. Százezer köbméter vizet vezetnek át egy másik tározóból a helyzet enyhítésére.",
-      "importance": 5
-    },
-    {
-      "title": "Idén már 23 csecsemő halt meg szifiliszben Magyarországon",
-      "summary": "Aggasztó adat szerint idén már 23 csecsemő vesztette életét veleszületett szifiliszben Magyarországon. A számok a közegészségügyi helyzet romlására és a megelőzés hiányosságaira utalnak.",
-      "importance": 5
+      "summary": "A Maconkai-tározó vízszintje kritikus szintre csökkent, ami 15 ezer ember ivóvízellátását fenyegeti. A problémát százezer köbméter víz Mizserfai-tározóból történő átvezetésével próbálják enyhíteni.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrajna kifogyhatott a Patriot elfogórakétákból",
-      "summary": "Jelentések szerint Ukrajna teljesen kifogyhatott a kulcsfontosságú Patriot légvédelmi rakétákból, ami komoly következményekkel járhat az orosz légitámadások elleni védekezésben. A hiány súlyosan gyengítheti az ukrán légvédelmi képességeket.",
+      "title": "Ukrajna kifogyhatott a Patriot légvédelmi rakétákból",
+      "summary": "Jelentések szerint Ukrajna teljesen kifogyhatott a Patriot légvédelmi elfogórakétákból, ami komoly kihívás elé állítja az orosz légitámadások elleni védekezésben. Ez a fejlemény stratégiai fordulópontot jelenthet a háborúban.",
       "importance": 5
     },
     {
-      "title": "A 2008-as válság óta nem volt ilyen magas a vezető gazdaságok hitelfelvételi költsége",
-      "summary": "A világ vezető gazdaságainak hitelfelvételi költségei a 2008-as pénzügyi válság óta nem látott szintre emelkedtek. Ez komoly gazdasági kihívásokat jelez globálisan, potenciálisan lassítva a növekedést.",
+      "title": "A vezető gazdaságok államadósságának finanszírozása 2008 óta nem látott szinten",
+      "summary": "A világ vezető gazdaságainak államadósság finanszírozási költségei 2008 óta nem látott magasságokba emelkedtek. Ez globális gazdasági aggodalmakat vet fel, és jelezheti a gazdasági stabilitás romlását.",
       "importance": 5
     },
     {
-      "title": "Trump fenyegeti Ománt egy iráni megállapodás miatt",
-      "summary": "Donald Trump azzal fenyegetőzött, hogy bombázni fogja az Egyesült Államok szövetségesét, Ománt, amennyiben az akadályozza az Iránnal kötendő megállapodást. A kijelentés komoly diplomáciai feszültségeket jelez a térségben.",
+      "title": "Hajót ért találat a Hormuzi-szorosban, egy ember meghalt",
+      "summary": "Találat ért egy hajót a stratégiailag kulcsfontosságú Hormuzi-szorosban, melynek következtében egy ember életét vesztette. Az incidens tovább növeli a feszültséget a Közel-Keleten és a globális hajózási útvonalakon.",
       "importance": 4
     },
     {
-      "title": "Oroszország figyelmeztette az Egyesült Királyságot az Ukrajnának szállított drónok miatt",
-      "summary": "Oroszország hivatalos figyelmeztetést adott ki az Egyesült Királyságnak, amiért drónokat szállít Ukrajnának. A lépés tovább élezi a feszültséget a két ország között és a nemzetközi konfliktust.",
+      "title": "Oroszország figyelmezteti az Egyesült Királyságot az ukrán drónszállítások miatt",
+      "summary": "Oroszország nyíltan figyelmeztette az Egyesült Királyságot, amiért drónokat szállít Ukrajnának, súlyos következményekre hivatkozva. Ez a diplomáciai lépés a konfliktus potenciális eszkalációjára és a nyugati támogatás megkérdőjelezésére utal.",
       "importance": 4
     }
   ],
   "technology": [
     {
+      "title": "Apple-felhasználók soha nem látott számú kémprogram-riasztást kaptak",
+      "summary": "Vizsgálatok szerint példátlan számú Apple-felhasználó kapott kémprogram-riasztást a közelmúltban, mely valószínűleg állami szereplőkhöz köthető támadásokat jelez. Ez rávilágít a digitális biztonság növekvő kihívásaira és a személyes adatok védelmének fontosságára.",
+      "importance": 5
+    },
+    {
+      "title": "Az Amazon ritka szövegeket semmisít meg mesterséges intelligencia képzéséhez",
+      "summary": "Az Amazon ritka és pótolhatatlan szövegeket semmisít meg mesterséges intelligencia rendszereinek képzéséhez, ami etikai vitákat váltott ki. A gyakorlat kulturális örökség megőrzésével kapcsolatos aggodalmakat vet fel.",
+      "importance": 5
+    },
+    {
       "title": "Az Anthropic éves bevétele 65 milliárd dollárra ugrott",
-      "summary": "Az AI szektor egyik kulcsszereplője, az Anthropic éves bevétele lenyűgöző, 65 milliárd dollárra nőtt, ami a mesterséges intelligencia piacának robbanásszerű növekedését mutatja. Ez a tendencia rávilágít az AI gazdasági potenciáljára.",
-      "importance": 5
-    },
-    {
-      "title": "Példátlan számú Apple felhasználó kapott kémprogram figyelmeztetést",
-      "summary": "Vizsgálatok szerint példátlan számú Apple felhasználó kapott a közelmúltban kémprogram-támadásra figyelmeztető jelzést, ami komoly biztonsági aggodalmakat vet fel. A támadások kiterjedtsége miatt a cég fokozott figyelmet fordít a védelemre.",
-      "importance": 5
-    },
-    {
-      "title": "Az Amazon ritka szövegeket semmisít meg az AI képzéséhez",
-      "summary": "Az Amazon, amely eredetileg könyvkereskedőként indult, ritka szövegeket semmisít meg, hogy mesterséges intelligencia rendszereit képezze. Ez etikai és kulturális aggályokat vet fel a digitális korban, a tudás megőrzésével kapcsolatban.",
+      "summary": "Az Anthropic, az egyik vezető mesterséges intelligencia startup, éves bevétele drámaian, 65 milliárd dollárra emelkedett. Ez a hatalmas növekedés az AI-iparág robbanásszerű fejlődését és a technológia piaci értékét mutatja.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia 1,5 milliárd dollárt fektet az OpenAI-t támogató adatközpont-fejlesztőbe",
-      "summary": "Az Nvidia 1,5 milliárd dolláros befektetést hajt végre a SoftBank egyik adatközpont-fejlesztőjébe, amely az OpenAI projektjeit támogatja. Ez tovább erősíti az Nvidia pozícióját az AI infrastruktúra területén, és elősegíti a fejlesztéseket.",
+      "title": "Az Nvidia 1,5 milliárd dollárt fektet OpenAI-projekteket támogató adatközpontba",
+      "summary": "Az Nvidia 1,5 milliárd dolláros befektetést hajt végre egy SoftBank tulajdonú adatközponti fejlesztőbe, amely az OpenAI projektjeit támogatja. Ez az óriási összegű beruházás az AI infrastruktúra iránti növekvő keresletet tükrözi, és megerősíti az Nvidia kulcsszerepét a szektorban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az éjszakai hőhullámok hatása az alvásra és az egészségre",
-      "summary": "Kutatók vizsgálják, hogy az éjszakai hőhullámok hogyan befolyásolják az alvás minőségét és az emberi egészséget. Az éghajlatváltozással egyre gyakoribbá váló jelenség komoly egészségügyi kockázatokat jelent világszerte.",
+      "title": "Úttörő narkolepszia gyógyszer nyit utat az agy új terápiáinak",
+      "summary": "Egy első a maga nemében lévő narkolepszia elleni gyógyszer fejlesztése új távlatokat nyit az agyi rendellenességek kezelésében. Ez az áttörés reményt adhat számos neurológiai betegségben szenvedő páciensnek.",
       "importance": 5
     },
     {
-      "title": "Úttörő narkolepszia gyógyszer nyit utat új agyi terápiáknak",
-      "summary": "Egy első a maga nemében narkolepszia elleni gyógyszer kifejlesztése új terápiás lehetőségeket nyit meg az agyi betegségek kezelésében. Ez áttörést jelenthet a neurológiai kutatásokban és a betegek életminőségének javításában.",
+      "title": "Az éjszakai hőhullámok súlyos hatásai az emberi egészségre",
+      "summary": "Kutatások szerint az éjszakai hőhullámok jelentősen befolyásolják az alvás minőségét és az emberi egészséget. Ez rávilágít az éghajlatváltozás közvetlen hatásaira és a lakosság egészségvédelmének fontosságára.",
       "importance": 4
     },
     {
-      "title": "Az AI rendszerek a leghasznosabbak új tudományos eszközök tervezőjeként",
-      "summary": "Egy tanulmány szerint a mesterséges intelligencia rendszerei a leghatékonyabban új tudományos eszközök és kutatási módszerek tervezésében hasznosulnak. Ez felgyorsíthatja a felfedezéseket számos tudományágban, a biológiai kutatásoktól a mérnöki fejlesztésekig.",
+      "title": "Az egyetemeknek fel kell hagyniuk a zaklatók védelmével a tudományban",
+      "summary": "Egy befolyásos tudományos publikáció szerint az egyetemeknek fel kell hagyniuk a zaklatók védelmével, hogy megelőzzék a tudományos dolgozók elvándorlását. Ez a felhívás a tudományos közösség etikai normáinak és munkahelyi környezetének javítására irányul.",
       "importance": 4
     },
     {
-      "title": "Az ősi CO₂-emelkedés tanulságokkal szolgálhat napjainkra",
-      "summary": "A Föld történetének ősi CO₂-szintjének emelkedései értékes betekintést nyújtanak abba, hogy mi történhet a jövőben. A múltbeli adatok segítenek megérteni a mai éghajlatváltozási folyamatokat és azok lehetséges következményeit.",
+      "title": "Az ókori CO2-szint emelkedése fontos jelzés a mai éghajlatra",
+      "summary": "Az ókori CO2-szint emelkedésének tanulmányozása betekintést nyújt abba, mi történhet ma az éghajlattal. Ez az adatok segítenek jobban megérteni a jelenlegi klímaváltozás potenciális hosszú távú következményeit.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kirúgták a FIFA egyik magas rangú vezetőjét, mert kritizálta Infantinót",
-      "summary": "A FIFA egyik magas rangú vezetőjét elbocsátották állásából, miután nyíltan kritikát fogalmazott meg Gianni Infantino elnökkel szemben. Az eset a szervezet belső feszültségeire és hatalmi harcaira utal.",
-      "importance": 4
+      "title": "Kirúgták a FIFA egyik vezetőjét Infantino nyílt kritikája miatt",
+      "summary": "A FIFA egyik magas rangú vezetőjét kirúgták, miután nyíltan kritizálta Gianni Infantino elnököt. Ez az eset rávilágít a szervezet belső feszültségeire és a véleménynyilvánítás szabadságának korlátaira a nemzetközi labdarúgásban.",
+      "importance": 5
     },
     {
-      "title": "Neymar volt az első, akin alkalmazták az új futballszabályt",
-      "summary": "Neymar, a világhírű labdarúgó volt az első, akin alkalmazták az új futballszabályt, mely szerint egy percre le kellett jönnie a pályáról egy taktikai cseréhez. Az eset vita tárgya a játékosok és a szurkolók körében a játék folyamatosságát illetően.",
+      "title": "Neymar volt az első, akit egy új szabály miatt egy percre le kellett hívni a pályáról",
+      "summary": "Neymar volt az első labdarúgó, akin alkalmazták az új szabályt, miszerint egy percre le kellett jönnie a pályáról. Ez a szabályváltozás jelentős hatással lehet a mérkőzések dinamikájára és a játékosok időhúzására.",
       "importance": 3
     },
     {
-      "title": "Kubatov Gábor: Minden rendben van a Fradivárossal",
-      "summary": "Kubatov Gábor, a Ferencváros elnöke szerint minden rendben van a Fradiváros fejlesztési projektjével kapcsolatban, és a tervek szerint haladnak. Nyilatkozatával az esetleges aggodalmakat próbálta eloszlatni a szurkolók és a közvélemény körében.",
-      "importance": 3
+      "title": "Kubatov Gábor szerint minden rendben van a Fradivárossal kapcsolatban",
+      "summary": "Kubatov Gábor szerint meg lehet nyugodni, minden rendben van a Fradiváros projektjével kapcsolatban, amely a Ferencváros sportklub körüli ingatlanfejlesztést jelenti. A nyilatkozat a projekttel kapcsolatos aggodalmakra reagál, de a további részletek hiányoznak.",
+      "importance": 2
     },
     {
-      "title": "Buszbaleset sérültjeit szállítják Lengyelországba",
-      "summary": "Egy súlyos buszbaleset 22 sérültjét szállítják Lengyelországba további kezelésre. Bár a híradás nem részletezi, az ilyen nagyszabású balesetek gyakran érintenek külföldre utazó sportcsapatokat vagy szurkolói csoportokat.",
-      "importance": 1
+      "title": "Kilenc év után végre bemutatkozhat a Tesla Roadster",
+      "summary": "Kilenc év várakozás után végre bemutatkozhat a Tesla Roadster, az elektromos sportautó. A nagy teljesítményű jármű forradalmasíthatja a sportautók piacát és az elektromos mobilitást.",
+      "importance": 2
     }
   ]
 }

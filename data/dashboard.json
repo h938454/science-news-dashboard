@@ -1,90 +1,90 @@
 {
   "hungary": [
     {
-      "title": "Megjelent az MTI hírmanipulációjáról szóló 482 oldalas dokumentum",
-      "summary": "Nyilvánosságra hozták azt a 482 oldalas gyűjteményt, amely részletesen bemutatja, hogyan manipulálták és hallgatták el a híreket az állami MTI-nél az Orbán-kormányok idején, befolyásolva a közvéleményt. Ez a dokumentum rávilágít a közmédia működésének belső mechanizmusaira és a hírközlési szabadság korlátozására.",
+      "title": "Megjelent a 482 oldalas MTI-dokumentum a hírmanipulációról",
+      "summary": "Nyilvánosságra került egy 482 oldalas gyűjtés, amely részletesen bemutatja, hogyan befolyásolták és manipulálták a híreket az MTI-nél tíz éven keresztül az Orbán-kormányok idején. A dokumentum rávilágít a közmédia működésének belső mechanizmusaira és az elhallgatott vagy parancsra írt cikkekre.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter felszólította a jogosulatlan állami támogatásokat felvevő álcivileket",
-      "summary": "Magyar Péter nyilvánosan felszólította azokat a civil szervezeteket, amelyek szerinte jogosulatlanul jutottak állami támogatásokhoz, hogy azonnal fizessék vissza az összegeket. Ezzel az akcióval a közéleti korrupcióra és az állami források elosztására kívánja felhívni a figyelmet.",
+      "title": "Magyar Péter felszólította az „álcivil szervezeteket” a támogatások visszafizetésére",
+      "summary": "Magyar Péter nyilvánosan felszólította azokat a civil szervezeteket, amelyek szerinte jogosulatlanul kaptak állami támogatást, hogy még a mai napon fizessék vissza az összegeket. Ezzel a lépéssel a politikus a közpénzek felhasználásának átláthatóságát követeli.",
+      "importance": 5
+    },
+    {
+      "title": "Drágulnak az üzemanyagok Magyarországon",
+      "summary": "Újabb üzemanyagár-emelés várható Magyarországon, amely közvetlenül érinti a lakosság és a vállalkozások költségeit. Ez a változás jelentős hatással lehet a mindennapi kiadásokra és az inflációra.",
       "importance": 4
     },
     {
-      "title": "A kormány több lakásépítési projektet felfüggeszt, mint amennyit tavaly átadtak",
-      "summary": "A kormány bejelentette, hogy idén több lakásépítési projekt megvalósítását függeszti fel, mint amennyi lakást tavaly összesen átadtak. Ez a döntés komoly hatással lehet az ingatlanpiacra és a lakáshoz jutókra, lassítva az új otthonok építését.",
+      "title": "A kormány több lakásépítési projektet függeszt fel",
+      "summary": "A kormány úgy döntött, hogy több lakás megvalósítását is felfüggeszti, mint amennyit tavaly összesen átadtak. Ez a lépés jelentős hatással lehet az építőiparra és a hazai lakáspiacra.",
       "importance": 4
-    },
-    {
-      "title": "Letartóztatták az M3-as balesetben érintett lengyel turistabusz sofőrjét",
-      "summary": "Egy hónapra elrendelte a bíróság annak a lengyel turistabusz sofőrjének letartóztatását, akinek járműve korábban felborult az M3-as autópályán. A baleset körülményei vizsgálat alatt állnak, a döntés súlyos következményekkel járhat a sofőrre nézve.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "A brit miniszterelnök megerősítette Ukrajna 100%-os támogatását",
-      "summary": "A brit miniszterelnök kijelentette, hogy országa továbbra is teljes mértékben támogatja Ukrajnát, különösen Oroszország drónfenyegetéseinek árnyékában. Ez az üzenet megerősíti a nemzetközi koalíció egységét és elkötelezettségét a konfliktusban.",
+      "title": "Holtan találtak egy orosz ellenzéki politikust Varsóban",
+      "summary": "Szergej Vlaszenkót, az emigrációban élő orosz ellenzéki politikust holtan találták varsói lakásában. Az esemény nemzetközi figyelmet kapott és kérdéseket vet fel az orosz ellenzékiek biztonságával kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Holtan találták varsói otthonában Szergej Vlaszenkót, az emigrációban élő orosz ellenzéki politikust",
-      "summary": "Varsói lakásában találták holtan Szergej Vlaszenkót, az orosz ellenzék emigrációban élő prominens alakját. Halálának körülményei további vizsgálatot igényelnek, és felvetik a politikai okok lehetőségét.",
-      "importance": 4
+      "title": "Nagy-Britannia továbbra is 100 százalékban támogatja Ukrajnát",
+      "summary": "A brit miniszterelnök megerősítette, hogy országa továbbra is teljes mértékben támogatja Ukrajnát az orosz agresszióval szemben. Ez a nyilatkozat a globális politikai helyzet és az ukrajnai háború szempontjából is kiemelt fontosságú.",
+      "importance": 5
     },
     {
-      "title": "Orosz rakétatámadás egy ukrán falura: tíz civil áldozat",
-      "summary": "Orosz rakétatámadás ért egy ukrán falu központját a reggeli órákban, amikor az emberek munkába indultak, tíz civil halálát okozva. Az incidens tovább növeli a feszültséget és a civil áldozatok számát az ukrajnai háborúban.",
-      "importance": 4
+      "title": "Izraeli katonák számoztak meg őrizetbe vett palesztinokat Ciszjordániában",
+      "summary": "Aggodalomra okot adó hírek érkeztek Ciszjordániából, ahol izraeli katonák számokkal jelöltek meg őrizetbe vett palesztinokat. Ez a gyakorlat súlyos emberi jogi kérdéseket vet fel és széles körű nemzetközi kritikát válthat ki.",
+      "importance": 5
     },
     {
-      "title": "Németország fellép a migránscsempész bandák ellen, titkos rendőrségi raktárba engedtek betekintést",
-      "summary": "Németország szigorúbb fellépést hirdetett a kishajókon érkező migránsokat csempésző bandák ellen, bemutatva egy titkos rendőrségi raktárt, ahol a lefoglalt eszközöket tárolják. Az intézkedés célja az illegális migráció és az embercsempészet visszaszorítása Európában.",
-      "importance": 3
+      "title": "Németország felveszi a harcot az embercsempész bandákkal",
+      "summary": "Németországban titkos rendőrségi raktárban tárolt bizonyítékok és a fokozott fellépés is jelzi, hogy a kormány határozottan fellép a kis hajókon érkező migránsokat szállító embercsempész bandák ellen. Az intézkedések az illegális migráció megfékezését célozzák Európában.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Kína törölteti a Windows 10-et az állami számítógépekről",
-      "summary": "Kína elrendelte a Windows 10 operációs rendszer törlését az összes állami számítógépről, nemzetközi szoftverek helyett hazai megoldásokra váltva. Ez a lépés a technológiai szuverenitás megerősítését és a nemzeti biztonság növelését célozza.",
+      "title": "Az Anthropic éves bevétele 65 milliárd dollárra ugrott",
+      "summary": "Az Anthropic, a vezető mesterséges intelligencia vállalatok egyike, az éves bevételeit 65 milliárd dollárra növelte, jelezve az AI-szektor robbanásszerű növekedését és gazdasági erejét. Ez a számadat kiemeli a mesterséges intelligencia iparág hatalmas potenciálját és üzleti sikerét.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI biztonságosabb ChatGPT-t indít tinédzserek számára",
-      "summary": "Az OpenAI egy új, biztonságosabb ChatGPT verziót vezet be, kifejezetten tinédzserek számára, reagálva arra, hogy a fiatalok már régóta használják a platformot. Ezzel a lépéssel a cég igyekszik felelősségteljesebb és védettebb online környezetet teremteni a fiatal felhasználóknak.",
+      "title": "Kiszivárgott videó mutatja az Apple kamerás AirPods fülhallgatóját",
+      "summary": "Az Apple-től származó kiszivárgott videó alapján képet kaphatunk a vállalat jövőbeni, kamerával felszerelt AirPods fülhallgatójáról. Ez a fejlesztés új funkciókat és felhasználási módokat ígér a viselhető technológia terén.",
       "importance": 4
     },
     {
-      "title": "Példátlan számú Apple felhasználó kapott kémprogram-riasztást",
-      "summary": "Vizsgálatok szerint példátlanul sok Apple felhasználó kapott a közelmúltban kémprogram-riasztást, ami komoly aggodalmakat vet fel az eszközök biztonságával és a digitális magánélet védelmével kapcsolatban. A riasztások rávilágítanak a modern kiberfenyegetésekre és a felhasználói adatok sérülékenységére.",
+      "title": "Új gyárat épít a szilárdtest akkumulátorok gyártására az Anthro Energy",
+      "summary": "Az Anthro Energy megkezdte egy új gyár építését, amely szilárdtest akkumulátorokat fog gyártani, ami áttörést hozhat az energiatárolásban. Ez a technológia jelentősen növelheti az elektromos járművek hatótávolságát és biztonságát.",
       "importance": 4
     },
     {
-      "title": "Az Anthro Energy gyárat épít a szilárdtest akkumulátorok gyártásához",
-      "summary": "Az Anthro Energy letette egy új gyár alapkövét, amely a szilárdtest akkumulátorok gyártására specializálódik, potenciálisan forradalmasítva az energiatárolást. Ez a fejlesztés kulcsfontosságú lehet az elektromos járművek és hordozható eszközök jövője szempontjából, nagyobb hatótávot és biztonságot ígérve.",
-      "importance": 3
+      "title": "Az OpenAI biztonságosabb ChatGPT-t indít tinédzsereknek",
+      "summary": "Az OpenAI egy külön, biztonságosabb ChatGPT verziót vezet be tinédzserek számára, reagálva a fiatalabb felhasználók AI-eszközök iránti érdeklődésére és a velük járó biztonsági aggodalmakra. Ezzel a lépéssel a cég igyekszik felelősségteljesebb felhasználást biztosítani.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Európának alkalmazkodnia kell az egyre gyakoribb óriástüzekhez",
-      "summary": "A Nature cikke szerint Európának fel kell készülnie és alkalmazkodnia kell az éghajlatváltozás miatt egyre gyakoribbá és pusztítóbbá váló óriástüzekhez. A megelőzés, a gyors reagálás és a fenntartható erdőgazdálkodás kulcsfontosságú a jövőbeni katasztrófák mérséklésében.",
+      "title": "Európának alkalmazkodnia kell a mega-tüzekhez",
+      "summary": "Az éghajlatváltozás hatására Európának fel kell készülnie és alkalmazkodnia kell a pusztító mega-tüzekhez, amelyek egyre gyakoribbá és intenzívebbé válnak. A kontinensnek új stratégiákat kell kidolgoznia a megelőzésre és a kezelésre.",
       "importance": 5
     },
     {
-      "title": "A hőhullámok rávilágítanak az élelmiszer-rendszerek gyenge pontjaira",
-      "summary": "A tartós hőhullámok világszerte felszínre hozzák az élelmiszer-termelési és ellátási rendszerek sebezhetőségét, ami globális élelmiszerbiztonsági kockázatokat jelent. A klímaváltozás hatásai elleni védekezés, a reziliens mezőgazdaság fejlesztése elengedhetetlen a jövőbeli válságok elkerüléséhez.",
+      "title": "A hőhullámok rávilágítanak az élelmezési rendszerek gyengeségeire",
+      "summary": "A globális hőhullámok egyre inkább felfedik az élelmezési rendszerek gyenge pontjait, veszélyeztetve a terméshozamokat és az élelmiszerbiztonságot. A tudósok szerint sürgős beavatkozásra van szükség a rendszerek ellenálló képességének növeléséhez.",
+      "importance": 5
+    },
+    {
+      "title": "Exoszkeletonok: Hogyan változhat meg a mozgásunk 10 éven belül?",
+      "summary": "A kutatók vizsgálják, hogyan forradalmasíthatják az exoszkeletonok a emberi mozgást az elkövetkező tíz évben, segítve a fogyatékkal élőket és javítva az emberi teljesítményt. Ez a technológia mélyreható változásokat hozhat a mindennapi életben és az iparban.",
       "importance": 4
     },
     {
-      "title": "A forradalmi őssejtterápiát felelősségteljesen kell fejleszteni",
-      "summary": "Egy forradalmi őssejtterápia ígér hatalmas áttörést az orvostudományban, de a Nature hangsúlyozza a felelősségteljes és etikus fejlesztés fontosságát a teljes potenciál eléréséhez. Ez a terület komoly reményeket kínál számos betegség gyógyítására, ugyanakkor etikai és biztonsági kihívásokat is felvet.",
+      "title": "Felelősségteljesen kell eljárni az őssejtterápia fejlesztésénél",
+      "summary": "A forradalmi őssejtterápiáknak felelősségteljesen kell előrehaladniuk, hogy teljes mértékben kiaknázhassák a bennük rejlő potenciált, miközben elkerülik az etikai és biztonsági kockázatokat. A kutatók hangsúlyozzák a szigorú szabályozás és a gondos fejlesztés fontosságát.",
       "importance": 4
-    },
-    {
-      "title": "A biológiai adatbázisokat infrastruktúraként kell kezelni, nem projektekként",
-      "summary": "A Nature felhívja a figyelmet arra, hogy a biológiai adatbázisokat hosszú távú infrastruktúraként kellene kezelni, nem pedig ideiglenes projektekként, a fenntartható tudományos kutatás érdekében. Ez a megközelítés biztosítaná az adatok hozzáférhetőségét és integritását a jövő generációi számára is.",
-      "importance": 3
     }
   ],
   "sports": []

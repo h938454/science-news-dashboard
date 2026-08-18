@@ -1,6 +1,21 @@
 {
   "Telex": [
     {
+      "title": "Eladták a Cserpest",
+      "link": "https://telex.hu/gazdasag/2026/08/18/cserpes-istvan-cserpes-eladas-tejtermek",
+      "summary": "Három éve már felmerült, akkor nem lett belőle semmi. Most mégis nyélbe ütöttek egy üzletet, egy magyar tejipari cég a vásárló."
+    },
+    {
+      "title": "Elkezdődött 2Pac gyilkossági perének tárgyalása, pont kerülhet egy 30 éves rejtély végére",
+      "link": "https://telex.hu/after/2026/08/18/tupac-shakur-targyalas-nyomozas-hiphop-rap-duane-keffe-d-davis",
+      "summary": "Harminc év hallgatás és konteók után elkezdődött Tupac Shakur gyilkossági perének tárgyalása. A vád kulcsfigurája maga a vádlott: Keffe D éveken át beszélt a gyilkosságról, most viszont azt állítja, hogy az egész csak pénzért kitalált sztori volt."
+    },
+    {
+      "title": "Egy biztonságos választás szükségességéről beszél a menesztett ukrán védelmi miniszter",
+      "link": "https://telex.hu/kulfold/2026/08/18/mihajlo-fedorov-ukran-vedelmi-miniszter-valasztasok-demokracia-haboru",
+      "summary": "Mihajlo Fedorov keddi videójában arról beszél: nem szabad hagyni, hogy Putyin döntse el, mikor választhatja meg Ukrajna a kormányát."
+    },
+    {
       "title": "Kedden volt Forsthoffer Ágnes utolsó munkanapja a Sándor-palotában",
       "link": "https://telex.hu/belfold/2026/08/18/kedden-volt-forsthoffer-agnes-utolso-munkanapja-a-sandor-palotaban",
       "summary": "Egyik utolsó feladatáról posztolt videót."
@@ -59,21 +74,6 @@
       "title": "A Mohu vizsgálja, hogy hétfőn mi okozott zavart a szolnoki szemétszállításban",
       "link": "https://telex.hu/gazdasag/2026/08/18/mohu-szolnok-hulladeklerakas-cegled",
       "summary": "A Mohu szerint minden feltétel adott a begyűjtött hulladék megfelelő kezeléséhez."
-    },
-    {
-      "title": "Na és önnek miért van imposztorszindrómája?",
-      "link": "https://telex.hu/techtud/2026/08/18/imposztorszindroma-kutatas-elte-ppk",
-      "summary": "„Hogy a fenébe jutottam ebbe a pozícióba? Mikor fognak rájönni, hogy csak szerencsém volt, sőt, tulajdonképpen egy csaló vagyok? Ha jól sikerül valami, az úgyse az én érdemem” – ismerős gondolatok?"
-    },
-    {
-      "title": "Felakasztotta magát a nyíregyházi fogdában egy 22 éves férfi, a családja feljelentést tett",
-      "link": "https://telex.hu/belfold/2026/08/18/halal-nyiregyhaza-ongyilkossag-rendorseg-feljelentes",
-      "summary": "Drograzzia után vették őrizetbe, a bűnösségét pedig nem is vitatják, de szerintük az ügy körülményei számos kérdést vetnek fel."
-    },
-    {
-      "title": "Gripenes légi parádéval készül a Magyar Honvédség augusztus 20-ra",
-      "link": "https://telex.hu/belfold/2026/08/18/magyar-honvedseg-legi-parade-augusztus-20",
-      "summary": "Az Országház előtt lesz tisztavató ünnepség, a Városligetben pedig haditechnikai eszközöket mutatnak be az érdeklődőknek."
     }
   ],
   "Portfolio": [],
@@ -310,6 +310,11 @@
   ],
   "TechCrunch": [
     {
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "link": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms."
+    },
+    {
       "title": "TikTok explores peer-to-peer payments via DMs, report says",
       "link": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
       "summary": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases."
@@ -377,12 +382,7 @@
     {
       "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
       "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-      "summary": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
-    },
-    {
-      "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-      "link": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-      "summary": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month."
+      "summary": "A video in a macOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri."
     }
   ],
   "Nature": [

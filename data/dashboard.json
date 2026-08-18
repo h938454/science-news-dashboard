@@ -1,112 +1,107 @@
 {
   "hungary": [
     {
-      "title": "A közmédia nyilvánossá tette a MTI manipulációiról szóló gyűjtést",
-      "summary": "A közmédia nyilvánosságra hozott egy 482 oldalas dokumentumot, amely tíz éven át tartó MTI-s hírmanipulációkat és elhallgatásokat részletez. Az ügy komoly kérdéseket vet fel a sajtószabadsággal és a közmédia függetlenségével kapcsolatban.",
+      "title": "Önkormányzatok vonják vissza a beköltözést korlátozó rendeleteket",
+      "summary": "A választások óta országszerte 29 település vonta vissza a beköltözést korlátozó, önazonossági rendeleteit, ami jelentős fordulatot jelez a helyi lakhatási szabályozásokban. Ez a lépés potenciálisan megkönnyíti a letelepedést azoknak, akiket korábban ezek a szabályok hátráltattak.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter szerint hamarosan újraindulhatnak a paksi turbinák",
-      "summary": "Magyar Péter bejelentette, hogy vasárnaptól elkezdhetik visszakapcsolni a paksi atomerőműben a jelenleg álló turbinákat. Ez az energiaszolgáltatás szempontjából jelentős hír, mely hatással lehet az ország energiaellátására.",
+      "title": "Az MTI tízéves hírmanipulációiról szóló jelentés nyilvános",
+      "summary": "A közmédia nyilvánosságra hozott egy 482 oldalas dokumentumot, amely az MTI-nél tíz éven át zajló hírmanipulációkat és elhallgatásokat részletezi. Az anyag komoly kérdéseket vet fel a közmédia függetlenségével és etikai normáival kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Államok az utolsó pillanatban dobhatta a 4iG-t",
-      "summary": "A HVG értesülései szerint az amerikaiak az utolsó pillanatban ejthették a 4iG üzleti ügyeit. Ez a lépés komoly következményekkel járhat a magyar telekommunikációs és IT-szektorra nézve.",
+      "title": "Amerikaiak dobták a 4iG-t?",
+      "summary": "A HVG értesülései szerint az amerikaiak az utolsó pillanatban állhattak el egy nagyszabású üzlettől a 4iG-vel, ami komoly hatással lehet a magyar telekommunikációs és IT szektorra. A lépés nemzetközi gazdasági és politikai vonatkozásokkal is bírhat.",
       "importance": 4
     },
     {
-      "title": "Kéthetes mélyponton a Duna vízállása",
-      "summary": "A Duna vízállása kéthetes mélypontra süllyedt, ami komoly aggodalmakat vet fel a hajózás, az energiaipar és az ökológia szempontjából. Az apadás tendenciája további figyelmet igényel.",
+      "title": "Magyar Péter Paksról: Elkezdenék visszakapcsolni a turbinákat",
+      "summary": "Magyar Péter bejelentette, hogy vasárnaptól elkezdhetik visszakapcsolni Pakson a jelenleg álló turbinákat. Ez a nyilatkozat az ország energiabiztonsága és a politikai diskurzus szempontjából is kiemelt jelentőségű.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az USA szankciókat vezetett be a Nemzetközi Büntetőbíróság ellen",
-      "summary": "Az Egyesült Államok szankciókkal sújtotta a Nemzetközi Büntetőbíróság (ICC) elnökét és további két magas rangú tisztségviselőjét. Ez a lépés komoly diplomáciai feszültséget okoz, és megkérdőjelezi az ICC működését.",
+      "title": "Az USA szankcionálta a Nemzetközi Büntetőbíróság elnökét",
+      "summary": "Az Egyesült Államok szankciókat vetett ki a Nemzetközi Büntetőbíróság elnökére, ami feszültséget okoz a nemzetközi jog és diplomácia terén. Ez a lépés komoly kihívást jelent az ICC függetlenségére és tekintélyére nézve.",
       "importance": 5
     },
     {
-      "title": "Holtan találtak egy orosz ellenzéki politikust Varsóban",
-      "summary": "Varsói lakásában holtan találták az emigrációban élő orosz ellenzéki politikust, Szergej Vlaszenkót. Halálának körülményei kérdéseket vetnek fel, és tovább árnyalják az orosz ellenzék sorsát.",
+      "title": "Meghalt egy orosz ellenzéki politikus Varsóban",
+      "summary": "Holtan találták varsói lakásában az emigrációban élő orosz ellenzéki politikust, Szergej Vlaszenkót. A haláleset körülményei tisztázatlanok, és felveti a politikai indíttatású bűncselekmények gyanúját.",
       "importance": 5
     },
     {
-      "title": "Donald Trump szerint az USA nem tárgyal Iránnal",
-      "summary": "Donald Trump kijelentette, hogy az Egyesült Államok jelenleg nem tárgyal Iránnal, és nem is tervez ilyet. Ez a nyilatkozat további feszültséget jelez a két ország közötti kapcsolatokban, befolyásolva a közel-keleti helyzetet.",
+      "title": "Amerikai nagykövet elítéli az izraeli telepesek cselekedeteit",
+      "summary": "Az amerikai nagykövet „szörnyű terrorcselekménynek” nevezte a szélsőséges izraeli telepesek által elkövetett tetteket. Ez a kijelentés aláhúzza a feszültséget a térségben és az USA álláspontját az emberi jogi jogsértésekkel szemben.",
       "importance": 4
     },
     {
-      "title": "Ukrajna új védelmi minisztert jelölt: Hmara érkezhet Fedorov helyett",
-      "summary": "Hivatalossá vált, hogy Fedorov nem tér vissza az ukrán védelmi miniszteri posztra, helyette az ukrán elnök az SZBU-s Hmarát jelölte. Ez a változás jelentős lehet a háborúban álló ország védelmi stratégiájában.",
+      "title": "Védelmi minisztercsere Ukrajnában",
+      "summary": "Hivatalosan bejelentették, hogy nem Fedorov tér vissza Ukrajna védelmi miniszteri posztjára, helyette az SZBU-s Hmarát jelölte az ukrán elnök. Ez a vezetői változás kulcsfontosságú lehet a háború további menetére és Ukrajna védelmi stratégiájára nézve.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple átalakítja az EU-s App Store díjait és szabályait",
-      "summary": "Az Apple felülvizsgálja az EU-s App Store díjait és enyhíti az alternatív alkalmazásboltokra vonatkozó szabályokat. Ez a döntés komoly hatással lehet az európai mobilalkalmazás-piacra és a fejlesztőkre.",
+      "title": "Az Apple átalakítja az EU-s App Store díjait",
+      "summary": "Az Apple felülvizsgálja az EU-ban alkalmazott App Store díjait és enyhíti a szabályokat az alternatív alkalmazásboltok számára. Ez a lépés az uniós szabályozás hatására jelentős változást hozhat az alkalmazásfejlesztők és a felhasználók számára.",
       "importance": 5
     },
     {
-      "title": "Élő tranzisztort készítettek baktériumok segítségével",
-      "summary": "Tudósoknak sikerült élő tranzisztort létrehozniuk baktériumok felhasználásával, ahol a számításokat maga az élőlény végzi. Ez az áttörés új lehetőségeket nyit a bio-informatika és a fenntartható számítástechnika terén.",
+      "title": "Létrehozták az élő tranzisztort baktériumokkal",
+      "summary": "Tudósoknak sikerült megalkotniuk egy élő tranzisztort, amelyben baktériumok végzik a számításokat. Ez az áttörés új irányt mutathat a bio-számítástechnika és a fenntartható elektronika fejlesztésében.",
       "importance": 5
     },
     {
-      "title": "Gyár épülhet, ami a szilárdtest akkumulátorok útját egyengetheti",
-      "summary": "Az Anthro Energy gyár építésébe kezdett, ami áttörést hozhat a szilárdtest akkumulátorok gyártásában. Ez a technológia forradalmasíthatja az energiatárolást és az elektromos járművek piacát.",
+      "title": "Az OpenAI új biztonsági intézkedéseket vezet be",
+      "summary": "Az OpenAI új védelmi mechanizmusokat vezet be egy Hugging Face-en történt adatvédelmi incidens után. Ez a lépés az AI-modellek biztonságát és a felhasználói adatok védelmét hivatott erősíteni a mesterséges intelligencia területén.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI biztonságosabb ChatGPT-t indított tinédzsereknek",
-      "summary": "Az OpenAI egy biztonságosabb ChatGPT verziót indított tinédzserek számára, évekkel azután, hogy már elkezdték használni a platformot. A kezdeményezés célja a fiatal felhasználók védelme és az AI felelősségteljes használatának elősegítése.",
+      "title": "Gyárat építenek a szilárdtest akkumulátorokhoz",
+      "summary": "Az Anthro Energy megkezdte egy gyár építését, amely a szilárdtest akkumulátorok gyártását célozza, utat nyitva a jövő energiatárolási megoldásai előtt. Ez az innováció forradalmasíthatja az elektromos járműveket és a megújuló energia tárolását.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A repülés rákot okozhat",
-      "summary": "Kutatók szerint a repülés megnövelheti a rák kialakulásának kockázatát, különösen a gyakori utazók és a légitársaságok személyzete körében. Ez a felfedezés felveti a sugárzási expozíció és az egészségügyi protokollok felülvizsgálatának szükségességét.",
+      "title": "A repülés rákkeltő hatású lehet",
+      "summary": "Új kutatások szerint a repülés rákot okozhat, ami komoly aggodalmakat vet fel a gyakran utazók és a légiközlekedési dolgozók egészsége szempontjából. A felfedezés további vizsgálatokat és egészségügyi irányelvek felülvizsgálatát teheti szükségessé.",
       "importance": 5
     },
     {
-      "title": "A hőhullámok gyenge pontokat tárnak fel az élelmezési rendszerekben",
-      "summary": "A hőhullámok egyre inkább rámutatnak az élelmezési rendszerek sérülékenységére és gyenge pontjaira világszerte. Ez komoly kihívást jelent a globális élelmiszerbiztonság számára a klímaváltozás korában.",
+      "title": "Európának fel kell készülnie az óriástüzekre",
+      "summary": "A klímaváltozás hatására Európának alkalmazkodnia kell az egyre gyakoribb és pusztítóbb óriástüzekhez. Ez a kihívás sürgős stratégiákat és együttműködést igényel a tűzmegelőzés és a védekezés terén.",
+      "importance": 5
+    },
+    {
+      "title": "Exoszkeletonok a jövő mobilitásában",
+      "summary": "Tíz éven belül valószínűleg egyre többen viselnek majd exoszkeletont, amelyek megváltoztathatják mozgásunkat és fizikai képességeinket. Ez a technológia forradalmasíthatja az orvosi rehabilitációt és az ipari munkavégzést.",
       "importance": 4
     },
     {
-      "title": "Európának alkalmazkodnia kell a pusztító mega-tüzekhez",
-      "summary": "A tudósok szerint Európának fel kell készülnie és alkalmazkodnia kell a mega-tüzek egyre gyakoribbá válására. Ez a jelenség a klímaváltozás következménye, és új stratégiákat igényel az erdőgazdálkodásban és a katasztrófavédelemben.",
-      "importance": 4
-    },
-    {
-      "title": "Felelősségteljesen kell fejleszteni az őssejtterápiákat",
-      "summary": "Egy forradalmi őssejtterápiának felelősségteljesen kell haladnia a teljes potenciáljának eléréséhez. A tudományos közösség hangsúlyozza az etikai irányelvek és a gondos kutatás fontosságát.",
+      "title": "Az őssejtterápia felelős fejlesztésének fontossága",
+      "summary": "Egy forradalmi őssejtterápiát felelősségteljesen kell fejleszteni ahhoz, hogy teljes potenciálját kiaknázza. Az etikai és biztonsági szempontok kiemelt fontosságúak az új gyógyászati eljárások széles körű bevezetése előtt.",
       "importance": 4
     }
   ],
   "sports": [
     {
       "title": "Csányi Sándor megvonta támogatását a FIFA elnökétől",
-      "summary": "Csányi Sándor, az MLSZ elnöke kemény hangvételű levélben fordult a FIFA elnökéhez, jelezve, hogy nem támogatja tovább tevékenységét. Ez a lépés jelentős feszültséget jelez a nemzetközi labdarúgó-szervezeten belül.",
+      "summary": "Csányi Sándor, a Magyar Labdarúgó Szövetség elnöke kemény hangvételű levélben fordult a FIFA elnökéhez, jelezve, hogy visszavonja támogatását. Ez a lépés jelentős visszhangot vált ki a nemzetközi futballpolitikában és rávilágít a FIFA irányításával kapcsolatos feszültségekre.",
       "importance": 5
     },
     {
-      "title": "A Premier League vezetője szerint a FIFA önsorsrontó a vb-tervvel",
-      "summary": "A Premier League vezetője úgy véli, a FIFA önsorsrontó módon jár el a világbajnokságok jövőjével kapcsolatos terveivel. Ez a kijelentés komoly feszültséget jelez a futballvilág legnagyobb szervezetei között.",
+      "title": "A Premier League főnöke szerint a FIFA tönkretette magát",
+      "summary": "A Premier League vezetője kijelentette, hogy a FIFA önszántából tette tönkre magát a világbajnoki tervekkel kapcsolatban. Ez a kritika tovább gyengíti a FIFA pozícióját és súlyos kérdéseket vet fel a globális futball irányításáról.",
       "importance": 4
     },
     {
-      "title": "Négy napon belül másodjára esett össze a pályán a német válogatott Jamal Musiala",
-      "summary": "A német válogatott fiatal sztárja, Jamal Musiala négy napon belül másodjára esett össze a pályán, ami aggodalmakat vet fel egészségi állapotával kapcsolatban. Az eset rávilágít a profi sportolók terhelésének kérdésére.",
-      "importance": 3
-    },
-    {
-      "title": "Gripenes légi parádéval készül a Magyar Honvédség augusztus 20-ra",
-      "summary": "A Magyar Honvédség látványos Gripenes légi parádéval készül az augusztus 20-i ünnepségekre. Bár nem hagyományos sportesemény, a légi bemutató a technikai precizitás és a pilóták felkészültségének demonstrációja.",
-      "importance": 2
+      "title": "Jamal Musiala újra összeesett a pályán",
+      "summary": "Négy napon belül másodjára esett össze a pályán a német válogatott tehetséges labdarúgója, Jamal Musiala. Az eset aggodalmakat kelt a játékos egészségi állapotával kapcsolatban, és felhívja a figyelmet a profi sportolók terhelésére.",
+      "importance": 4
     }
   ]
 }

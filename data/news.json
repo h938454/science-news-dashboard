@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Nem kellett felvásárolni az egész médiapiacot, a Fidesznek elég volt megdöntenie a pályát",
+      "link": "https://telex.hu/g7/kozelet/2026/08/19/mediapiac-ner-hirdetesek-kozmedia-atmedia-lounge-mediaworks",
+      "summary": "Az állami kereslet, a kommunikációs ügynökségek, a reklámfelületeket értékesítő kereskedőházak és a tulajdonosi portfóliók a piaci kockázatokat felfogó rendszerré álltak össze 2010 és 2026 között."
+    },
+    {
       "title": "Eladták a Cserpest",
       "link": "https://telex.hu/gazdasag/2026/08/18/cserpes-istvan-cserpes-eladas-tejtermek",
       "summary": "Három éve már felmerült, akkor nem lett belőle semmi. Most mégis nyélbe ütöttek egy üzletet, egy magyar tejipari cég a vásárló."
@@ -69,11 +74,6 @@
       "title": "Magyar Péter: Vasárnaptól elkezdhetjük visszakapcsolni Pakson a most még álló turbinákat is",
       "link": "https://telex.hu/belfold/2026/08/18/magyar-peter-paks-paksi-atomeromu-turbina-vizszint",
       "summary": "A miniszterelnök azt írta Facebook-oldalán, hogy két napig kell még kihúzni az egyre apadó vízszinttel."
-    },
-    {
-      "title": "A Mohu vizsgálja, hogy hétfőn mi okozott zavart a szolnoki szemétszállításban",
-      "link": "https://telex.hu/gazdasag/2026/08/18/mohu-szolnok-hulladeklerakas-cegled",
-      "summary": "A Mohu szerint minden feltétel adott a begyűjtött hulladék megfelelő kezeléséhez."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,26 @@
   ],
   "HVG": [
     {
+      "title": "Cserpes István megvált a Sajtműhelytől",
+      "link": "https://hvg.hu/360/20260819_cserpes-sajtmuhely-a-nevado-megvalt-cegetol",
+      "summary": "A reszelt sajt hiánya épp úgy megmozgatja egy cég életét, mint az, hogy ha a cégvezető másra sem vágyik, csak hogy a badacsonyi telkén kapáljon."
+    },
+    {
+      "title": "Marabu Féknyúz: Dunát rekeszteni",
+      "link": "https://hvg.hu/itthon/20260819_marabu-feknyuz-dunat-rekeszteni",
+      "summary": "PR."
+    },
+    {
+      "title": "Választásokat sürget Ukrajnában a leváltott védelmi miniszter",
+      "link": "https://hvg.hu/vilag/20260819_valasztasok-ukrajna-levaltott-vedelmi-miniszter-mihajlo-fedorov-volodimir-zelenszkij",
+      "summary": "Mihajlo Fedorov szerint Oroszország nem kaphatja meg a jogot arra, hogy meghatározza, mikor választhatják meg az ukránok újból a saját vezetésüket."
+    },
+    {
+      "title": "Négyezer milliárdot bukott a NER a Tisza miatt – Newscast",
+      "link": "https://hvg.hu/itthon/20260819_negyezer-milliardot-bukott-a-ner-a-tisza-miatt-newscast",
+      "summary": "Masszív kifizetéseket állított le a kormány. Hamarosan kezdődik az első társadalmi egyeztetés, ami talán nem Nemzeti Konzultáció lesz. A 4iG áll a kormányzati vizsgálat elé. Ez a Newscast, a HVG hétköznap reggelente jelentkező hírpodcastja."
+    },
+    {
       "title": "Sorra vonják vissza az önkormányzatok a beköltözést tiltó rendeleteket",
       "link": "https://hvg.hu/itthon/20260818_onkormanyzatok-bekoltozest-tilto-rendeletek",
       "summary": "A polgármesterek arról beszéltek, hogy utólag belátták, a szabályok igazságtalanok voltak."
@@ -209,26 +229,6 @@
       "title": "Robbanás történt egy ösküi házban, ahol lőszereket is tartottak",
       "link": "https://hvg.hu/itthon/20260818_robbanas-tortent-egy-oskui-hazban-ahol-loszereket-is-tartottak",
       "summary": "A Veszprém megyei településre a pétfürdői tűzoltók vonultak ki, mint kiderült, a robbanás ereje akkora volt, hogy az épület nyílászárói kiszakadtak a helyükről."
-    },
-    {
-      "title": "Pár órán belül négy embert is elgázolt a vonat az országban",
-      "link": "https://hvg.hu/itthon/20260818_harom-vasuti-gazolas-vonat",
-      "summary": "Dunakeszinél, Zalaegerszegnél és Rétszilasnál is halálos gázolás történt."
-    },
-    {
-      "title": "Megcsinálták az élő tranzisztort, baktériumok végzik a számításokat",
-      "link": "https://hvg.hu/tudomany/20260818_elo-biologiai-tranzisztor-szamitasok-elvegzese-aramkor",
-      "summary": "Génmódosított baktériumokat hoztak létre az MIT kutatói, úgy működnek, mint egy tranzisztor."
-    },
-    {
-      "title": "Kéthetes mélyponton a Duna vízállása – infografikán mutatjuk az újabb apadást",
-      "link": "https://hvg.hu/itthon/20260818_melypont-duna-vizallas-infografika-apadas",
-      "summary": "Paksnál mindössze tíz centire van a Duna a rekordalacsony vízállásától."
-    },
-    {
-      "title": "Marabu Féknyúz: Alkotmánybíróság",
-      "link": "https://hvg.hu/itthon/20260818_marabu-feknyuz-alkotmanybirosag",
-      "summary": "Formára rendben van."
     }
   ],
   "BBC": [
@@ -258,24 +258,24 @@
       "summary": "In a video to mark the 30th anniversary of Maggie's cancer charity, Queen Camilla speaks for the first time about her husband's own diagnosis."
     },
     {
-      "title": "Meta hooked children on Facebook and Instagram, US court hears",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
-    },
-    {
       "title": "Is another UK heatwave on the way in September?",
       "link": "https://www.bbc.co.uk/weather/articles/c79g04899wno?at_medium=RSS&at_campaign=rss",
       "summary": "Some long range forecasts are suggesting autumn could be hotter and drier than average. Simon King explores whether a warm spell might be on the cards."
     },
     {
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal."
+    },
+    {
+      "title": "Meta hooked children on Facebook and Instagram, US court hears",
+      "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started."
+    },
+    {
       "title": "Suspended Reform UK member vows to fight to remain in party",
       "link": "https://www.bbc.co.uk/news/articles/c4gd1mez8zvo?at_medium=RSS&at_campaign=rss",
       "summary": "Tim Montgomerie says his appeal will be a test of whether the party can tolerate free speech."
-    },
-    {
-      "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security."
     },
     {
       "title": "Deaf patient given wrong jab due to sign language error, report says",

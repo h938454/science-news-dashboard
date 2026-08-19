@@ -1,101 +1,101 @@
 {
   "hungary": [
     {
-      "title": "Eladták a Cserpest",
-      "summary": "A magyar Cserpes tejtermék-gyártó céget eladták. Ez a tranzakció jelentős változást hozhat a hazai tejpiacon és a vállalat jövőjében.",
+      "title": "A közmédia nyilvánossá tette a 482 oldalas gyűjtést arról, hogyan manipuláltak és hallgattak el híreket az MTI-nél tíz éven át",
+      "summary": "A nyilvánosságra került dokumentumok részletesen bemutatják, hogyan torzították és hallgatták el a híreket az MTI-nél egy évtizeden keresztül. Ez az ügy súlyos kérdéseket vet fel a közmédia függetlenségével és a tájékoztatás hitelességével kapcsolatban.",
       "importance": 5
     },
     {
       "title": "Sorra vonják vissza az önkormányzatok a beköltözést tiltó rendeleteket",
-      "summary": "A választások óta számos önkormányzat visszavonta a beköltözést korlátozó rendeleteit, amelyek korábban vitatottá váltak. Ez a döntés potenciálisan enyhítheti a lakhatási korlátozásokat.",
+      "summary": "A közelmúltbeli választások óta már 29 település vonta vissza a beköltözést korlátozó rendeleteit, amelyek az önazonosságra hivatkozva akadályozták a letelepedést. Ez a változás jelentős fordulatot jelez a helyi önkormányzatok politikájában.",
+      "importance": 4
+    },
+    {
+      "title": "Eladták a Cserpest",
+      "summary": "Eladták a közkedvelt Cserpes sajtmárkát és a hozzá tartozó céget, ami jelentős változás a magyar élelmiszeriparban. A tranzakció hosszú távú hatással lehet a márka jövőjére és a tejpiaci versenyre.",
       "importance": 4
     },
     {
       "title": "HVG: Az utolsó pillanatban dobhatták az amerikaiak a 4iG-t",
-      "summary": "A HVG információi szerint az amerikaiak az utolsó pillanatban vethettek gátat a 4iG egyik üzletének. Ez a lépés jelentős gazdasági és geopolitikai feszültségeket okozhat.",
+      "summary": "A 4iG magyar távközlési vállalat körüli üzleti tranzakcióba az amerikaiak állítólag az utolsó pillanatban szólhattak bele. Ez az esemény komoly gazdasági és diplomáciai feszültségeket okozhat.",
       "importance": 4
-    },
-    {
-      "title": "A közmédia nyilvánossá tette a 482 oldalas gyűjtést arról, hogyan manipuláltak és hallgattak el híreket az MTI-nél tíz éven át",
-      "summary": "A közmédia egy 482 oldalas dokumentumot hozott nyilvánosságra, amely az MTI-nél történt tízéves hír-manipulációt és elhallgatásokat részletezi. Az anyag komoly kérdéseket vet fel a sajtószabadsággal és a közmédia függetlenségével kapcsolatban.",
-      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "Miért fenyegette Oroszország az Egyesült Királyságot és mi következik?",
-      "summary": "Oroszország fenyegetéseket fogalmazott meg az Egyesült Királysággal szemben, ami komoly nemzetközi feszültségeket jelez. A helyzet súlyosbodása további geopolitikai következményekkel járhat.",
+      "title": "Hivatalos: nem tér vissza Fedorov, az ukrán elnök az SZBU-s Hmarát jelölte védelmi miniszternek",
+      "summary": "Az ukrán elnök menesztette a védelmi minisztert, és az SZBU-s Hmarát jelölte utódjául, ami jelentős változás a háborúban álló ország vezetésében. Ez a döntés hatással lehet Ukrajna védelmi stratégiájára és nemzetközi kapcsolataira.",
       "importance": 5
     },
     {
-      "title": "Elkezdődött 2Pac gyilkossági perének tárgyalása, pont kerülhet egy 30 éves rejtély végére",
-      "summary": "Harminc évvel a halála után megkezdődött Tupac Shakur gyilkossági ügyének tárgyalása, ami reményt adhat a rejtély feloldására. Az eset nagy figyelmet kap a zenei és bűnügyi körökben.",
-      "importance": 4
-    },
-    {
       "title": "Az Egyesült Államok szankciókkal sújtotta a Nemzetközi Büntetőbíróság elnökét",
-      "summary": "Az Egyesült Államok szankciókat vezetett be a Nemzetközi Büntetőbíróság elnöke ellen, ami komoly diplomáciai feszültséget okoz. A lépés kérdéseket vet fel a nemzetközi jog és az USA viszonyával kapcsolatban.",
+      "summary": "Az Egyesült Államok szankciókat vezetett be a Nemzetközi Büntetőbíróság (ICC) elnöke és más magas rangú tisztségviselői ellen. Ez a lépés súlyos diplomáciai konfliktust eredményezhet, és kérdéseket vet fel a nemzetközi jog érvényesülésével kapcsolatban.",
+      "importance": 5
+    },
+    {
+      "title": "Holtan találták varsói lakásában az emigrációban élő orosz ellenzéki politikust, Szergej Vlaszenkót",
+      "summary": "Holtan találták varsói otthonában az emigrációban élő orosz ellenzéki politikust, Szergej Vlaszenkót. A haláleset körülményei tisztázatlanok, ami újabb kérdéseket vet fel az orosz ellenzékiek biztonságával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Holtan találták varsói lakásában az emigrációban élő orosz ellenzéki politikust",
-      "summary": "Holtan találták varsói otthonában Szergej Vlaszenko orosz ellenzéki politikust, aki emigrációban élt. Az eset felveti a politikai indíttatású bűncselekmény gyanúját és növeli a feszültséget.",
+      "title": "Elkezdődött 2Pac gyilkossági perének tárgyalása, pont kerülhet egy 30 éves rejtély végére",
+      "summary": "Harminc évvel a tragédia után megkezdődött 2Pac Shakur rapper feltételezett gyilkosának pere, amivel végre pont kerülhet az ügyre. Az esemény hatalmas érdeklődésre tart számot a zenei világban és a nagyközönség körében.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple felülvizsgálja az EU-s App Store díjait, lazítja a szabályokat az alternatív alkalmazásboltok számára",
-      "summary": "Az Apple jelentős változtatásokat vezet be az EU-ban az App Store díjaiban és lazítja a szabályokat az alternatív alkalmazásboltok számára. Ez a lépés alapjaiban alakíthatja át az európai mobilalkalmazás-piacot.",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "summary": "Bírósági tárgyaláson derült ki, hogy a Meta szándékosan alakította ki termékeit úgy, hogy azok rászoktassák a gyerekeket a Facebookra és Instagramra. Ez súlyos etikai és jogi kérdéseket vet fel a technológiai óriás gyermekvédelmi felelősségével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "A Meta gyerekeket \"akasztott\" a Facebookra és Instagramra, mondta a bíróságon",
-      "summary": "Bírósági meghallgatások során elhangzott, hogy a Meta szándékosan alakította ki platformjait úgy, hogy függővé tegye a gyerekeket a Facebookon és Instagramon. Ez az állítás súlyos jogi és etikai kérdéseket vet fel a vállalat felelősségével kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Az OpenAI biztonságosabb ChatGPT-t indít tinédzsereknek – évekkel azután, hogy a tinik már használták",
-      "summary": "Az OpenAI biztonságosabb verziójú ChatGPT-t vezet be tinédzserek számára, reagálva a korábbi aggodalmakra. A lépés célja a mesterséges intelligencia felelősségteljesebb használatának elősegítése a fiatalok körében.",
+      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
+      "summary": "Az Apple felülvizsgálta az EU-s App Store díjait, és lazított az alternatív alkalmazásboltokra vonatkozó szabályokon. Ez a lépés jelentős változást hozhat az európai mobilalkalmazás-piacon, növelve a versenyt és a fejlesztők lehetőségeit.",
       "importance": 4
     },
     {
-      "title": "Az Anthro Energy gyárat épít, ami utat nyithat a szilárdtest-akkumulátoroknak",
-      "summary": "Az Anthro Energy megkezdte egy olyan gyár építését, amely a szilárdtest-akkumulátorok tömeggyártását célozza. Ez az áttörés forradalmasíthatja az energiatárolást és az elektromos járművek piacát.",
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary": "Az OpenAI új biztonsági intézkedéseket vezetett be egy közelmúltbeli Hugging Face adatvédelmi incidens után. A lépés célja a felhasználói adatok védelmének erősítése és a mesterséges intelligencia rendszerek biztonságának növelése.",
+      "importance": 4
+    },
+    {
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "summary": "Az Anthro Energy megkezdte egy új gyár építését, amely szilárdtest akkumulátorokat fog gyártani, ami áttörést hozhat az energiatárolásban. Ez a technológia jelentősen megnövelheti az elektromos járművek hatótávolságát és az energiahatékonyságot.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Megalkották az élő tranzisztort, baktériumok végzik a számításokat",
-      "summary": "Tudósoknak sikerült élő tranzisztort létrehozniuk, ahol baktériumok végzik a számításokat, ami áttörést jelent a bio-számítástechnika terén. Ez a felfedezés új lehetőségeket nyithat meg a biológiai számítógépek fejlesztésében.",
+      "title": "Megcsinálták az élő tranzisztort, baktériumok végzik a számításokat",
+      "summary": "Kutatóknak sikerült élő tranzisztort létrehozniuk, ahol baktériumok végzik a számításokat, ami forradalmasíthatja a biológiai számítástechnikát. Ez az áttörés új utakat nyithat meg az orvostudományban és az anyagtudományban.",
       "importance": 5
     },
     {
-      "title": "Európának alkalmazkodnia kell az óriási erdőtüzekhez",
-      "summary": "Az éghajlatváltozás miatt Európának fel kell készülnie és alkalmazkodnia kell a gyakrabban előforduló és nagyobb kiterjedésű erdőtüzekhez. A jelenség komoly környezeti és társadalmi kihívás elé állítja a kontinenst.",
+      "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+      "summary": "A tudósok megdöbbenve tapasztalták a gyermekek tüdejének látványos javulását egy ultraalacsony kibocsátású övezetben. Ez az eredmény erős bizonyítékot szolgáltat a légszennyezés csökkentésének egészségügyi előnyeiről.",
+      "importance": 5
+    },
+    {
+      "title": "Europe must adapt to live with megafires",
+      "summary": "Európának fel kell készülnie az egyre gyakoribb és pusztítóbb mega-tüzekre, amelyek a klímaváltozás hatására terjednek. A jelentés hangsúlyozza a megelőzés és az adaptációs stratégiák sürgősségét.",
       "importance": 4
     },
     {
-      "title": "Egy forradalmi őssejtterápiának felelősségteljesen kell haladnia a teljes potenciáljának eléréséhez",
-      "summary": "Egy ígéretes, forradalmi őssejtterápia fejlesztése zajlik, amely hatalmas potenciált rejt a gyógyításban. Fontos azonban, hogy a kutatás és alkalmazás etikai szempontból is felelősségteljesen történjen.",
-      "importance": 4
-    },
-    {
-      "title": "A hőhullámok gyenge láncszemeket tárnak fel az élelmiszerrendszerekben",
-      "summary": "A gyakori hőhullámok rávilágítottak az élelmiszerrendszerek sebezhetőségére és gyenge pontjaira. Az extrém időjárási események komoly kihívást jelentenek a globális élelmiszerbiztonság számára.",
+      "title": "A revolutionary stem-cell therapy must proceed responsibly to achieve its full potential",
+      "summary": "Egy forradalmi őssejtterápia fejlesztése ígéretes, de felelősségteljes megközelítésre van szükség a teljes potenciál eléréséhez. Az etikai és biztonsági szempontok alapvetőek a sikeres alkalmazáshoz.",
       "importance": 4
     }
   ],
   "sports": [
     {
       "title": "Csányi Sándor kemény hangvételű levélben ment neki a FIFA elnökének, a támogatását is visszavonta",
-      "summary": "Csányi Sándor, az MLSZ elnöke éles hangú levélben fejezte ki nemtetszését a FIFA elnöke felé, és visszavonta támogatását. Ez a lépés komoly feszültséget okozhat a nemzetközi labdarúgó-szövetségben.",
+      "summary": "Csányi Sándor, a Magyar Labdarúgó Szövetség elnöke, kemény hangvételű levélben fejezte ki elégedetlenségét a FIFA elnöke felé, és visszavonta támogatását. Ez a lépés jelentős feszültséget okozhat a nemzetközi labdarúgás vezetésében.",
       "importance": 5
     },
     {
       "title": "Négy napon belül másodjára esett össze a pályán a német válogatott Jamal Musiala",
-      "summary": "A német labdarúgó-válogatott fiatal sztárja, Jamal Musiala rövid időn belül másodjára esett össze a pályán. Az eset aggodalomra ad okot a játékos egészségi állapotát illetően és felveti a sportolók terhelésének kérdését.",
+      "summary": "Négy napon belül másodszor esett össze a pályán a német válogatott tehetsége, Jamal Musiala, ami komoly aggodalmakat vet fel egészségi állapotával kapcsolatban. A sportoló kivizsgálása és felépülése kulcsfontosságú.",
       "importance": 4
     }
   ]

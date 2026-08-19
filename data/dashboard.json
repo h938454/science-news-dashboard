@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "A Mohu tárgyalóasztalnál tisztázná a szolnoki szeméthelyzetet",
-      "summary": "A Mohu a szolnoki szemétszállítás körüli válságot tárgyalásos úton próbálja rendezni, miközben a lakosság hetek óta tartó problémákról és felhalmozódott hulladékról számol be. A kialakult helyzet jelentős közegészségügyi és környezeti aggodalmakat vet fel.",
-      "importance": 4
-    },
-    {
-      "title": "A kormány maximálja az állami cégek vezetőinek jövedelmét",
-      "summary": "A kormány döntése értelmében felső határt szabnak az állami tulajdonú vállalatok igazgatósági és felügyelőbizottsági tagjainak járó díjazásoknak. Ezzel a lépéssel a közpénzek felhasználásának átláthatóságát és takarékosságát kívánják erősíteni.",
-      "importance": 4
-    },
-    {
-      "title": "Jövő héten már teljes kapacitással üzemelhet a paksi atomerőmű",
-      "summary": "A Paksi Atomerőműben a leállított turbinákat a hétvégén kezdik újra visszakapcsolni, várhatóan jövő hét csütörtök-péntekre az erőmű ismét teljes kapacitással működhet. Ez kritikus az ország energiaellátásának stabilitása szempontjából.",
+      "title": "Teljes kapacitáson üzemelhet a paksi atomerőmű",
+      "summary": "A tervek szerint vasárnap kezdik meg a paksi atomerőmű leállított turbináinak visszakapcsolását, melynek eredményeként jövő hétre ismét teljes kapacitással működhet az erőmű. Ez jelentősen hozzájárulhat az ország energiaellátásának stabilitásához.",
       "importance": 5
     },
     {
-      "title": "Hűtlen kezelés miatt nyomoz a Nemzeti Nyomozó Iroda a fideszes nyuszimotorok ügyében",
-      "summary": "A Nemzeti Nyomozó Iroda hűtlen kezelés gyanújával indított nyomozást a \"nyuszimotorok\" néven elhíresült ügyben, amely Fideszhez köthető projektek finanszírozását érinti. Az eset politikai és gazdasági visszhangot egyaránt kiváltott.",
+      "title": "Átalakulások a közmédiánál: szerződésbontás és új testületi jelölések",
+      "summary": "Az állami média felmondta szerződéseit Balásy Gyula cégeivel. Mindeközben zajlik az M1 híradójának megújítása és a Független Közmédia Testület médiaszakmai jelöltjeinek kijelölése, ami komoly vitákat váltott ki.",
       "importance": 4
+    },
+    {
+      "title": "Százmilliós bírságot kapott az iváncsai akkumulátorgyár",
+      "summary": "Az iváncsai akkumulátorgyár ellen 100 millió forintos bírságot szabtak ki. A döntés az ipari beruházások környezeti és szabályozási megfelelőségére hívja fel a figyelmet.",
+      "importance": 4
+    },
+    {
+      "title": "Az új köztársasági elnök első döntése és az állami cégvezetők fizetési plafonja",
+      "summary": "Baka András, Magyarország frissen megválasztott köztársasági elnöke megtartja elődje hivatalvezetőjét. Ezzel párhuzamosan a kormány plafont szabott az állami tulajdonú vállalatok vezetőinek fizetésére, csökkentve az eddigi juttatásokat.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Földcsuszamlás miatt beomlott egy afrikai aranybánya, száz felett van a halottak száma",
-      "summary": "Egy tragikus földcsuszamlás következtében egy afrikai aranybánya beomlott, több mint száz ember halálát okozva. A katasztrófa felhívja a figyelmet a régió bányászati biztonsági előírásainak súlyos hiányosságaira.",
+      "title": "Izrael beismerte, hogy katonái lőttek a palesztin kislány autójára",
+      "summary": "Az izraeli hadsereg elismerte, hogy katonái nyitottak tüzet arra az autóra, amelyben meghalt egy ötéves palesztin kislány. Az eset kapcsán büntetőjogi vizsgálat indult, ami nemzetközi felháborodást váltott ki.",
       "importance": 5
     },
     {
-      "title": "Izrael elismerte, hogy katonái lőttek arra az autóra, amelyben egy ötéves palesztin kislány meghalt",
-      "summary": "Az izraeli hadsereg bejelentette, hogy katonái lőttek arra a járműre, amelyben az ötéves Hind Rajab palesztin kislány életét vesztette, és bűnügyi vizsgálatot indít az ügyben. Az eset nemzetközi felháborodást és aggodalmat váltott ki.",
-      "importance": 5
-    },
-    {
-      "title": "Ecuadori hírszerzési vezető és öt amerikai állampolgár vesztette életét egy kenyai helikopterbalesetben",
-      "summary": "Egy kenyai helikopterbalesetben tragikus módon életét vesztette Ecuador hírszerzési vezetője, valamint öt amerikai állampolgár. Az incidens kivizsgálása folyamatban van, és nemzetközi érdeklődést váltott ki.",
+      "title": "Tragikus földcsuszamlás egy afrikai aranybányában, több mint száz halott",
+      "summary": "Egy afrikai aranybánya beomlott egy földcsuszamlás következtében, a halottak száma meghaladja a százat. A tragédia rávilágít a bányászati biztonsági előírások hiányosságaira a régióban, ahol a munkások gyakran életveszélyes körülmények között dolgoznak.",
       "importance": 4
     },
     {
-      "title": "Bár az infláció ismét erősödik, nem kell újabb válságra számítani",
-      "summary": "Globális szinten az infláció újbóli gyorsulását figyelhetjük meg, de a szakértők szerint jelenleg nincs ok egy újabb gazdasági válságtól tartani. A központi bankok továbbra is éberen figyelik a gazdasági folyamatokat.",
+      "title": "Helikopter-baleset Kenyában: életét vesztette Ecuador hírszerzési vezetője és öt amerikai",
+      "summary": "Egy kenyai helikopterbalesetben meghalt Ecuador hírszerzési vezetője, valamint öt amerikai állampolgár. Az eset körülményeit vizsgálják, ami nemzetközi vizsgálatot és aggodalmakat váltott ki.",
       "importance": 4
+    },
+    {
+      "title": "Izrael új telepítési projektre írt ki pályázatot Ciszjordániában",
+      "summary": "Izrael bejelentette, hogy pályázatokat nyitott meg egy nagyszabású telepítési projekthez Ciszjordániában. Ez a lépés tovább mélyítheti az izraeli-palesztin konfliktust és nemzetközi kritikát válthat ki.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az AI még nem győzte meg az embereket, elmaradt a várt áttörés",
-      "summary": "Az AI technológia széleskörű elfogadottsága és népszerűsége elmarad a várakozásoktól, annak ellenére, hogy jelentős fejlesztések történtek. A felhasználók bizalmának elnyerése továbbra is kihívást jelent a szektor számára.",
-      "importance": 4
-    },
-    {
-      "title": "A T-Mobile \"elvágtatott egy kábelt\", hogy kiűzze a kínai hackereket a hálózatából",
-      "summary": "A T-Mobile állítása szerint fizikai beavatkozással kellett megszakítania egy hálózati kapcsolatot, hogy elhárítsa a kínai hackerek behatolását. Az eset rávilágít a kiberbiztonsági fenyegetések komolyságára és a kritikus infrastruktúrák védelmének fontosságára.",
+      "title": "Az OpenAI új adatvédelmi intézkedéseket vezet be, kutatók hozzáférését vonta vissza",
+      "summary": "Az OpenAI új adatvédelmi funkciókkal igyekszik felülmúlni versenytársait, miközben kritikák érik amiatt, hogy korlátozta egyes kutatók hozzáférését egy cyberbiztonsági programjához. Ez aggályokat vet fel az etikus AI-kutatással kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "A Google új AI-alapú tanulmányi eszközökkel bővíti a Search és Gemini platformjait",
-      "summary": "A Google mesterséges intelligencia alapú új eszközökkel gazdagítja keresőjét és Gemini platformját, amelyek célja a tanulási és kutatási folyamatok hatékonyabbá tétele. Ez a fejlesztés az AI integrációjának terjedését mutatja az oktatásban és információszerzésben.",
+      "title": "A Google új AI alapú tanulási eszközöket integrál a Keresőbe és Geminibe",
+      "summary": "A Google a Keresőjét és a Geminit is új mesterséges intelligencia alapú tanulási eszközökkel bővíti. A fejlesztések célja, hogy segítsék a felhasználókat az információgyűjtésben és a tudás elsajátításában.",
       "importance": 4
     },
     {
-      "title": "A TerraPower nukleáris reaktora lehet az AI adatközpontok energiaellátásának titkos fegyvere",
-      "summary": "A Bill Gates által támogatott TerraPower cég új típusú nukleáris reaktorokat fejleszt, melyek képesek lehetnek az AI adatközpontok óriási energiaigényét fenntartható módon kielégíteni. Ez potenciálisan forradalmasíthatja az AI infrastruktúra energiaellátását.",
-      "importance": 5
+      "title": "A TerraPower nukleáris reaktora mint kulcs az AI adatközpontok energiaellátásához",
+      "summary": "A Bill Gates által alapított TerraPower cég nukleáris reaktora ígéretes megoldást kínálhat a hatalmas energiaigényű AI adatközpontok fenntartható táplálására. Ez egy potenciális áttörést jelenthet a mesterséges intelligencia fejlődésében és az energetikai innovációban.",
+      "importance": 4
+    },
+    {
+      "title": "A T-Mobile kábelt vágott el kínai hackerek hálózatról való eltávolításához",
+      "summary": "A T-Mobile bejelentette, hogy egy fizikai kábelt vágott el, hogy kiűzze a kínai hackereket a hálózatából. Ez a szokatlan lépés rávilágít a kritikus infrastruktúra elleni kibertámadások súlyosságára és az ellenük való védekezés kihívásaira.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Vakcina áttörés a rák kiújulásának megállításában a klinikai teszteken",
-      "summary": "Egy új vakcina ígéretes eredményeket mutatott klinikai vizsgálatok során, sikeresen megakadályozva a rák kiújulását. Ez az áttörés jelentős reményt ad a jövőbeni rákkezelések és megelőzések terén.",
+      "title": "Áttörés a rákgyógyításban: ígéretes vakcina akadályozza meg a betegség kiújulását",
+      "summary": "Egy klinikai vizsgálat során egy új vakcina hatékonyan megakadályozta a rák kiújulását a betegeknél. Ez az ígéretes eredmény új reményt adhat a rákterápiában és a megelőzésben, jelentős lépést téve a gyógyulás felé vezető úton.",
       "importance": 5
     },
     {
-      "title": "Emberi agyi organoidok képesek az idő múlásának rögzítésére több éven át",
-      "summary": "Kutatók kimutatták, hogy laboratóriumban növesztett emberi agyi organoidok hosszú távon képesek érzékelni és rögzíteni az idő múlását. Ez az áttörés mélyebb betekintést enged az agy fejlődésébe és a neurológiai betegségekbe.",
+      "title": "Emberi agyi organoidok éveken át képesek az idő múlását rögzíteni",
+      "summary": "Kutatók kimutatták, hogy laboratóriumban nevelt emberi agyi organoidok több éven át képesek az idő múlását érzékelni és rögzíteni. Ez az eredmény új utakat nyithat az agyfejlődés és a neurológiai betegségek kutatásában, valamint az idő észlelésének megértésében.",
       "importance": 5
     },
     {
-      "title": "Egy fekete lyuk forgását végre meg lehet mérni egy nagy sebességű csillag segítségével",
-      "summary": "Tudósok új módszert fejlesztettek ki a fekete lyukak forgásának pontos mérésére egy közelükben elhaladó, nagy sebességű csillag megfigyelésével. Ez új ablakot nyit az univerzum legrejtélyesebb objektumainak tanulmányozására.",
+      "title": "Új módszer a fekete lyukak pörgésének mérésére",
+      "summary": "Egy gyorsan mozgó csillag megfigyelése révén a tudósok reményei szerint végre pontosan megmérhetik egy fekete lyuk pörgését. Ez az áttörés új információkat szolgáltathat a fekete lyukak kialakulásáról és az univerzum működéséről, közelebb hozva minket a kozmikus rejtélyek megértéséhez.",
       "importance": 4
     },
     {
-      "title": "Globális légköri metánrekordot állítottak fel egy trópusi jégmagból",
-      "summary": "Egy trópusi régióból származó jégmag elemzésével globális légköri metánrekordot sikerült feltárni, ami alapvető adatokkal szolgál a metánszint éghajlatra gyakorolt hatásáról. Ez kulcsfontosságú az éghajlatváltozás hosszú távú megértéséhez.",
+      "title": "Globális metánrekordot azonosítottak trópusi jégmagból",
+      "summary": "Egy trópusi jégmag elemzése során globális légköri metánrekordot tártak fel a kutatók. Az eredmények hozzájárulnak a múltbeli éghajlati változások és az üvegházhatású gázok koncentrációjának megértéséhez, ami alapvető a jövőbeni klímamodellezéshez.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kiesett az első számú vevőjelölt a Videotonnál, a város B tervet készít a csapat jövőjére",
-      "summary": "A Videoton labdarúgócsapatának felvásárlására jelentkező első számú érdeklődő visszalépett, bizonytalanná téve a klub jövőjét. A városnak sürgősen alternatív megoldást kell találnia a csapat működtetésére.",
+      "title": "Bizonytalan a Videoton FC jövője, kiesett a fő vevőjelölt",
+      "summary": "Az első számú vevőjelölt visszalépett a Videoton FC megvásárlásától, ami bizonytalanná teszi a csapat jövőjét. Székesfehérvár önkormányzata kénytelen B-tervet készíteni arra az esetre, ha a klub tulajdonosa marad.",
       "importance": 4
     },
     {
-      "title": "Hol lenne a Fradi állami milliárdok nélkül? – A közpénzek szerepe a sikerekben",
-      "summary": "Egy elemzés boncolgatja, hogy a Ferencvárosi Torna Club sportsikerei mennyiben köszönhetőek az elmúlt években kapott jelentős állami milliárdoknak. A cikk felveti a kérdést, hogy a klub állami támogatás nélkül is elérné-e jelenlegi szintjét.",
+      "title": "A Fradi sikerei és az állami milliárdok szerepe",
+      "summary": "Egy elemzés szerint a Ferencváros labdarúgócsapatának sikerei jelentős mértékben összefüggnek a klubnak nyújtott állami milliárdos támogatásokkal. Felmerül a kérdés, hol tartana a csapat ezen pénzügyi injekciók nélkül.",
       "importance": 4
     },
     {
-      "title": "Túl messzire mentek a sportfogadók: már a Little League World Series-re is fogadnak",
-      "summary": "Aggodalomra ad okot, hogy a sportfogadás már a kiskorúak számára rendezett Little League World Series eseményeire is kiterjedt. Ez felveti a gyermek sportolók kizsákmányolásának és a sport integritásának etikai kérdéseit.",
-      "importance": 4
+      "title": "Etikai aggályok a sportfogadásban: már gyermekversenyekre is fogadnak",
+      "summary": "A sportfogadás már a gyermekek részvételével zajló Little League World Series-re is kiterjedt, ami komoly etikai kérdéseket vet fel. Kritikusok szerint a jelenség túlmegy minden határon és a sport tisztaságát veszélyezteti.",
+      "importance": 3
     },
     {
-      "title": "Főzőversenynek álcázott szélsőjobbos bulit fújtak le egy soproni gyerektáborban",
-      "summary": "Egy soproni gyerektáborban megpróbáltak egy főzőverseny leple alatt szélsőjobbos rendezvényt tartani, amit a működtető végül sikeresen megakadályozott. Az eset a gyermekek védelmének és a politikai befolyásolás elkerülésének fontosságára hívja fel a figyelmet.",
+      "title": "A fokozódó hőség veszélyei a fizikai aktivitásra",
+      "summary": "Új kutatások szerint a hőség sokkal veszélyesebb lehet az emberi szervezetre, mint korábban gondolták, különösen fizikai megterhelés során. Ez a tudás kulcsfontosságú lehet a sportolók és a kültéri tevékenységet végzők számára, hogy elkerüljék a túlzott kockázatokat.",
       "importance": 2
     }
   ]

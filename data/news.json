@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Kollai István szerint a kormány jövő évig szeretné tisztázni a határon túli támogatáspolitikát",
+      "link": "https://telex.hu/belfold/2026/08/19/a-kormany-jovo-evig-szeretne-tisztazni-a-hataron-tuli-tamogataspolitikat",
+      "summary": "A határon túli magyarokért felelős helyettes államtitkár azt mondta, hogy addig szeretnék kiszedni a bizniszgyanús elemeket a rendszerből."
+    },
+    {
       "title": "A Mohu tárgyalóasztalnál tisztázná a szolnoki szeméthelyzetet",
       "link": "https://telex.hu/gazdasag/2026/08/19/a-mohu-targyaloasztalnal-tisztazna-a-szolnoki-szemethelyzetet",
       "summary": "Bacsa György, a Mohu igazgatóságának elnöke szerint elfogadhatatlan, hogy tulajdonosi vagy üzleti viták miatt sérüljön a közszolgáltatás."
@@ -69,11 +74,6 @@
       "title": "Megvan, kiket jelölnek a médiaszakmai szervezetek a Független Közmédia Testületbe",
       "link": "https://telex.hu/belfold/2026/08/19/fuggetlen-kozmedia-testulet-mediaszakmai-szervezetek-jeloltjei",
       "summary": "A médiaszakmai szervezetek mellett három tagot a kormánypárt, hármat pedig az ellenzék jelölhet a testületbe."
-    },
-    {
-      "title": "A reggeli házkutatás után már fel is mentették Zelenszkij hivatalvezetőjét",
-      "link": "https://telex.hu/kulfold/2026/08/19/irina-mudra-hivatalvezeto-volodimir-zelenszkij-felmentes",
-      "summary": "Irina Mudra felmentését nem indokolták."
     }
   ],
   "Portfolio": [],
@@ -233,14 +233,14 @@
   ],
   "BBC": [
     {
+      "title": "Prince Harry and Meghan moving back to UK",
+      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
+    },
+    {
       "title": "Couple and teenage daughter who died in water off Shoreham named by police",
       "link": "https://www.bbc.co.uk/news/articles/cvgvr336z2po?at_medium=RSS&at_campaign=rss",
       "summary": "Police say the family travelled from their home in London and went into the sea for a swim."
-    },
-    {
-      "title": "Prince Harry and Meghan to return to UK",
-      "link": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
     },
     {
       "title": "Track defect found on approach to site of Lewes derailment, initial report says",
@@ -250,7 +250,7 @@
     {
       "title": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives."
     },
     {
       "title": "People smuggler exposed by BBC investigation arrested and charged",
@@ -310,6 +310,21 @@
   ],
   "TechCrunch": [
     {
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data."
+    },
+    {
+      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
+    },
+    {
+      "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+      "link": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+      "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career."
+    },
+    {
       "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
       "link": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
       "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said."
@@ -368,21 +383,6 @@
       "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
       "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
       "summary": "The investment comes amid Navi plans to go public."
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
-    },
-    {
-      "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-      "link": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-      "summary": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026."
-    },
-    {
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie."
     }
   ],
   "Nature": [

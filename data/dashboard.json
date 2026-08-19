@@ -1,112 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Százmilliós bírságot kapott az iváncsai akkugyár a dolgozók egészségének veszélyeztetése miatt",
-      "summary": "Az iváncsai akkumulátorgyár 100 millió forintos bírságot kapott a munkavédelem és a dolgozók egészségének veszélyeztetése miatt. A hatóságok jelentős hiányosságokat tártak fel, amelyek közvetlen veszélyt jelentettek az alkalmazottakra.",
+      "title": "Újra teljes kapacitással üzemelhet a Paksi Atomerőmű",
+      "summary": "A paksi atomerőmű leállított turbináit vasárnap kezdik újra bekapcsolni, várhatóan a jövő hétre ismét teljes kapacitással működhet a létesítmény. Ez kulcsfontosságú az ország energiaellátása szempontjából.",
       "importance": 5
     },
     {
-      "title": "A közmédia azonnali hatállyal szerződést bontott Balásy Gyula cégeivel",
-      "summary": "A közszolgálati média váratlanul, azonnali hatállyal felmondta a szerződéseit Balásy Gyula médiavállalataival. A döntés a korábbi, a politikai befolyásról szóló viták után született.",
-      "importance": 5
-    },
-    {
-      "title": "Hűtlen kezelés gyanújával nyomoznak a játékmotorok ügyében, amiket túlárazva vett Hankó Balázs minisztériuma",
-      "summary": "A Nemzeti Nyomozó Iroda hűtlen kezelés gyanújával indított nyomozást a minisztérium által túlárazva beszerzett játékmotorok ügyében. Az eset a közpénzek felhasználásának átláthatóságával kapcsolatos aggodalmakat vet fel.",
+      "title": "Százmilliós bírságot kapott az iváncsai akkumulátorgyár",
+      "summary": "Az iváncsai akkumulátorgyár 100 millió forintos bírságot kapott a hatóságoktól, ami a dolgozók egészségének veszélyeztetésével és környezetvédelmi hiányosságokkal hozható összefüggésbe. Az eset rávilágít az ipari beruházások és a munkavédelem fontosságára.",
       "importance": 4
     },
     {
-      "title": "„Lépésről lépésre, bábról bábrá” – Magyar Péter az államalapítás ünnepének előestéjén értékelte a Tisza-kormány első száz napját",
-      "summary": "Magyar Péter, a Tisza Párt vezetője az államalapítás ünnepének előestéjén értékelte a kormány első száz napját, kritikus hangnemben. Beszédében 'bábról bábra' haladó politikát emlegetett, utalva a rendszerszintű problémákra.",
+      "title": "Felmondta a szerződéseket a közmédia Balásy Gyula cégeivel",
+      "summary": "Az MTVA azonnali hatállyal szerződést bontott Balásy Gyula médiacégeivel, ami jelentős változást jelezhet a közbeszerzések és a médiafinanszírozás területén. Ez a lépés komoly politikai és gazdasági visszhangot vált ki.",
+      "importance": 4
+    },
+    {
+      "title": "Robbanótestet találtak a Margit-szigeten, egy hotelt kiürítettek",
+      "summary": "A Margit-szigeten egy második világháborús robbanótestet fedeztek fel, ami miatt a közelben lévő termálhotel vendégeit sem evakuálták. A hatóságok azonnal lezárták a területet és megkezdték a mentesítést.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Izrael elismeri, katonái lőttek a Hind Radzsabot szállító autóra, bűnügyi nyomozás indul",
-      "summary": "Az izraeli hadsereg elismerte, hogy katonái nyitottak tüzet arra az autóra, amelyben az ötéves palesztin kislány, Hind Radzsab utazott, aki később meghalt. Az ügyben bűnügyi nyomozás indult a tragikus eset körülményeinek tisztázására.",
-      "importance": 5
-    },
-    {
-      "title": "Ukrán csapás érte az egyik legfontosabb orosz rakéta- és űripari központot",
-      "summary": "Ukrán erők sikeresen csapást mértek Oroszország egyik kulcsfontosságú rakéta- és űripari létesítményére, jelentős károkat okozva. Az incidens tovább élezi a konfliktust és potenciálisan befolyásolja az orosz űrkutatási programokat.",
-      "importance": 5
-    },
-    {
-      "title": "Észak-Korea műtrágyáért cserébe rakétákat szállítana Oroszországnak, de tagadja 50 ezer katona küldését",
-      "summary": "Észak-Korea fegyverszállításokkal segítheti Oroszországot műtrágya ellenében, ami új dimenziót ad a háborúnak és a geopolitikai szövetségeknek. Phenjan ugyanakkor tagadja, hogy további 50 ezer katonát küldene az orosz frontra.",
+      "title": "Száz feletti halálos áldozatot követelt egy aranybánya-omlás Afrikában",
+      "summary": "Egy afrikai aranybánya beomlott egy földcsuszamlás következtében, több mint száz ember halálát okozva. A tragédia rávilágít a bányászati ipar kockázataira és a biztonsági előírások hiányosságaira a régióban.",
       "importance": 4
     },
     {
-      "title": "Ukrán férfit tartóztattak le Horvátországban a Nord Stream gázvezeték robbantása ügyében",
-      "summary": "Horvátországban letartóztattak egy ukrán férfit, akit a Nord Stream gázvezetékek elleni robbantásos támadással gyanúsítanak. Az ügy nemzetközi nyomozása a biztonsági incidens felelőseit keresi.",
+      "title": "Izrael bűnügyi nyomozást indított egy palesztin gyermek halálának ügyében, miközben új telepesprojektek nyílnak meg",
+      "summary": "Izrael elismerte, hogy katonák tüzeltek arra az autóra, amelyben Hind Rajab palesztin kislány meghalt, és bűnügyi nyomozást indított az ügyben. Eközben pályázatokat írtak ki új, érzékeny telepesprojektekre Ciszjordániában.",
       "importance": 4
+    },
+    {
+      "title": "Megugrott a deportálások száma az Egyesült Államokban a Fehér Ház szerint",
+      "summary": "A Fehér Ház bejelentette, hogy jelentősen megnőtt a deportálások száma az Egyesült Államokban, különös hangsúlyt fektetve a bevándorlási politikára. Donald Trump kampányában is kiemelt szerepet kap a szigorúbb határvédelem és deportálások ígérete.",
+      "importance": 3
+    },
+    {
+      "title": "Felmentették Zelenszkij hivatalvezetőjét a házkutatás után",
+      "summary": "Rövid időn belül felmentették Volodimir Zelenszkij ukrán elnök hivatalvezetőjét a reggeli házkutatást követően, amely korrupciós vádakkal lehetett összefüggésben. Ez a fejlemény az ukrán politikai tisztogató intézkedések részeként értelmezhető.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A T-Mobile 'kábelt vágott' a kínai hackerek hálózatról való kiszorítására",
-      "summary": "A T-Mobile sikeresen elvágta a kínai hackerek hálózatához vezető 'kábelt', hogy kiűzze őket rendszeréből. Az eset rávilágít a kritikus infrastruktúrák elleni kibertámadások súlyosságára és a hatékony védekezés fontosságára.",
-      "importance": 5
-    },
-    {
-      "title": "A TerraPower nukleáris reaktora titkos fegyver az AI adatközpontok energiaellátásához",
-      "summary": "A TerraPower új generációs nukleáris reaktora innovatív megoldást kínál az egyre növekvő energiaigényű mesterséges intelligencia adatközpontok számára. Ez a technológia kulcsfontosságú lehet a fenntartható és skálázható AI működéshez.",
+      "title": "A T-Mobile kivágta a kínai hackereket a hálózatából egy kábel „elvagdosásával”",
+      "summary": "A T-Mobile elmondása szerint egy fizikai beavatkozással, kábel elvágásával tudta kiűzni a kínai hackereket a hálózatából. Az eset rávilágít a kiberbiztonsági fenyegetések komolyságára és a nemzetközi kémkedés kockázataira.",
       "importance": 4
     },
     {
-      "title": "Adatvédelmi incidens a CareCloudnál: 3,7 millió beteg orvosi aktáját lopták el",
-      "summary": "A CareCloud egészségügyi szolgáltató megerősítette, hogy súlyos adatvédelmi incidens történt, melynek során 3,7 millió beteg orvosi adatait lopták el. Az eset komoly aggodalmakat vet fel a betegek személyes információinak biztonságával kapcsolatban.",
+      "title": "A TerraPower nukleáris reaktora az AI adatközpontok energiaellátását célozza",
+      "summary": "Bill Gates TerraPower nevű cége olyan nukleáris reaktorokat fejleszt, amelyek kulcsszerepet játszhatnak az egyre energiaigényesebb mesterséges intelligencia adatközpontok ellátásában. Ez az innováció megoldást nyújthat az AI hatalmas energiaigényére.",
       "importance": 4
     },
     {
-      "title": "Az Amazon Prime Air drónos csomagkézbesítése közel 500 amerikai városban indul el",
-      "summary": "Az Amazon Prime Air szolgáltatása jelentősen kiterjeszti drónos csomagkézbesítését, közel 500 amerikai városban kezdve meg a működést. Ez a lépés forradalmasíthatja a logisztikát és a kiszállítást a jövőben.",
-      "importance": 3
+      "title": "Orvosi adatok millióit lopták el a CareCloud rendszereiből",
+      "summary": "A CareCloud egészségügyi technológiai cég megerősítette, hogy 3,7 millió páciens orvosi adatait lopták el egy adatvédelmi incidens során. Az eset súlyos aggodalmakat vet fel az egészségügyi adatok biztonságával kapcsolatban.",
+      "importance": 4
+    },
+    {
+      "title": "Az Amazon drasztikusan kiterjeszti drónos csomagkézbesítését az USA-ban",
+      "summary": "Az Amazon Prime Air szolgáltatása hamarosan közel 500 amerikai városban válik elérhetővé, drasztikusan kiterjesztve a drónos csomagkézbesítés területét. Ez a lépés forradalmasíthatja az e-kereskedelmi logisztikát és a házhozszállítást.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A pokoli forróság veszélyesebb lehet, mint eddig gondoltuk: új kutatások figyelmeztetnek",
-      "summary": "Új kutatások szerint a hosszan tartó, extrém forróság egészségügyi kockázatai sokkal súlyosabbak lehetnek, mint azt korábban gondolták. A felfedezés sürgősségi intézkedésekre és a lakosság tájékoztatására ösztönöz a klímaváltozás hatásai miatt.",
-      "importance": 5
-    },
-    {
-      "title": "Aminosavakban hemzsegő meteoritot találtak egy ház tetején: az élet eredetének kulcsa lehet",
-      "summary": "Egy ház tetejére zuhant meteorit vizsgálata során a kutatók rendkívül magas aminosavtartalmat mutattak ki. Ez a felfedezés fontos betekintést nyújthat az élet Földön kívüli eredetébe és az univerzum építőelemeibe.",
+      "title": "Az emberi agyi organoidok képesek regisztrálni az idő múlását",
+      "summary": "Kutatók felfedezték, hogy laboratóriumban növesztett emberi agyi organoidok képesek az idő múlását éveken át rögzíteni, ami új betekintést nyújt az agy fejlődésébe és az időérzékelés mechanizmusaiba. Ez a felfedezés alapvető lehet az idegtudomány számára.",
       "importance": 4
     },
     {
-      "title": "Emberi agyorganoidok több éven keresztül rögzítik az idő múlását",
-      "summary": "Laboratóriumban növesztett emberi agyorganoidok képesek voltak több éven keresztül rögzíteni az idő múlását, ami áttörést jelent az idegtudományban. Ez a felfedezés mélyebb megértést nyújthat az agy fejlődéséről és az öregedési folyamatokról.",
+      "title": "Gyors csillag segítségével mérhetik meg egy fekete lyuk forgását",
+      "summary": "Csillagászok új módszert dolgoztak ki fekete lyukak forgásának mérésére egy közelükben elhaladó, nagy sebességű csillag megfigyelésével. Ez a technika áttörést hozhat a fekete lyukak és a gravitáció extrém körülmények közötti viselkedésének megértésében.",
       "importance": 4
     },
     {
-      "title": "Fekete lyuk spinjét mérhetik meg először egy nagy sebességű csillag segítségével",
-      "summary": "Tudósok abban bíznak, hogy egy nagy sebességű csillag megfigyelésével végre pontosan meg tudják mérni egy fekete lyuk forgását. Ez az áttörés új lehetőségeket nyithat az extrém asztrofizikai jelenségek tanulmányozásában.",
+      "title": "Globális légköri metánrekordot azonosítottak trópusi jégmagból",
+      "summary": "Egy trópusi jégmagból származó adatok alapján tudósok globális légköri metánrekordot állítottak össze, amely visszamenőleg feltárja a metánszintek változásait. Ez az információ kritikus az éghajlatváltozás modellezéséhez és az üvegházhatású gázok hatásainak megértéséhez.",
+      "importance": 4
+    },
+    {
+      "title": "A koponyában lévő nyirokstruktúrák kulcsszerepet játszanak az agy immunfelügyeletében",
+      "summary": "Új kutatások kimutatták, hogy a koponyában található nyirokstruktúrák funkcionális szerepet töltenek be a központi idegrendszer immunfelügyeletében. Ez a felfedezés alapjaiban változtathatja meg az agy és az immunrendszer kölcsönhatásainak megértését.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kiesett az elsőszámú vevőjelölt a Videotonnál, a város B tervet készít",
-      "summary": "A Videoton labdarúgócsapatának felvásárlására jelentkező elsőszámú vevőjelölt visszalépett, bizonytalanba sodorva a klub jövőjét. A városvezetés most B tervet készít arra az esetre, ha a csapat tulajdonosi kérdései megoldatlanok maradnak.",
-      "importance": 4
+      "title": "Kérdőjelek a Fradi állami finanszírozása körül",
+      "summary": "Felmerül a kérdés, hogy a Ferencvárosi Torna Club sportsikerei mennyiben köszönhetők az állami milliárdoknak, és hol állna a klub ezen támogatások nélkül. A téma rendszeresen vitákat generál a magyar sportfinanszírozás átláthatóságáról.",
+      "importance": 3
     },
     {
-      "title": "Pozitív kokainteszt vethet véget Nick Kyrgios karrierjének",
-      "summary": "Nick Kyrgios ausztrál teniszcsillag karrierjét egy pozitív kokainteszt fenyegeti, ami súlyos következményekkel járhat. Az ügy a sportolói doppingellenes szabályok betartásának fontosságára hívja fel a figyelmet.",
-      "importance": 4
+      "title": "Kokainteszt véget vethet Nick Kyrgios teniszkarrierjének",
+      "summary": "Nick Kyrgios, az ismert teniszező pozitív kokaintesztje komolyan veszélyezteti karrierjét, potenciálisan hosszú eltiltást vagy akár visszavonulást is jelenthet. A doppingügyek továbbra is égető problémát jelentenek a profi sportban.",
+      "importance": 3
     },
     {
-      "title": "Ilyenek lesznek a rakodóhelyek a József körúton az úttestre átrakott bringasáv mellett",
-      "summary": "A József körúton megújuló rakodóhelyeket alakítanak ki, amelyek az úttestre áthelyezett kerékpársáv mellett kapnak helyet. Ez az infrastrukturális fejlesztés javítja a városi közlekedést és a kerékpárosok biztonságát.",
+      "title": "Kérdéses a Videoton FC jövője a vevőjelölt visszalépése után",
+      "summary": "Az első számú vevőjelölt visszalépésével bizonytalanná vált a Videoton FC futballklub jövője. Székesfehérvár városa B tervet készít arra az esetre, ha a csapat tulajdonosi helyzete rendezetlen marad.",
       "importance": 2
-    },
-    {
-      "title": "Szárazság és vízhiány miatt lefújták az augusztus 20-i tűzijátékot Gödöllőn",
-      "summary": "Gödöllőn lefújták az augusztus 20-i államalapítási ünnepre tervezett tűzijátékot a hosszan tartó szárazság és vízhiány miatt. A döntés az esetleges tűzveszély megelőzését szolgálja, befolyásolva egy jelentős közösségi eseményt.",
-      "importance": 1
     }
   ]
 }

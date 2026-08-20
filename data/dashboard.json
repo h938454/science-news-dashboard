@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Éhezés és visszaélések gyermekotthonban: az Orbán-kormány eltitkolt jelentései",
-      "summary": "Az Orbán-kormány eltitkolt gyermekvédelmi jelentései szerint éhezés és szexuális visszaélések történtek egy gyermekotthonban. Az ügy rávilágít a gyermekvédelem rendszerszintű hiányosságaira és komoly társadalmi felháborodást váltott ki.",
+      "title": "Éhezés vezetett szexuális zaklatáshoz egy gyermekotthonban – itt vannak az Orbán-kormány eltitkolt gyermekvédelmi jelentései",
+      "summary": "Titkolt gyermekvédelmi jelentések tártak fel súlyos visszaéléseket, többek között éhezés miatti szexuális zaklatást egy gyermekotthonban. Az eset rávilágít a kormány gyermekvédelmi rendszerének hiányosságaira és a nyilvánosság elől elzárt információkra.",
       "importance": 5
     },
     {
-      "title": "Újra teljes kapacitással üzemelhet a Paksi Atomerőmű",
-      "summary": "A leállított paksi turbinákat vasárnap újraindítják, így az atomerőmű a jövő héten ismét teljes kapacitással működhet. Ez kritikus fontosságú az ország energiaellátásának stabilitásához és a téli időszak biztonságos átvészeléséhez.",
-      "importance": 5
-    },
-    {
-      "title": "Elindult az ellenzéki vélemények megjelenése a köztévé híradójában",
-      "summary": "Meglepő fordulatként ellenzéki vélemények is helyet kaphattak a közmédia híradójában, ami a hírszolgáltatás eddigi gyakorlatához képest jelentős változást jelez. A lépés politikai visszhangot váltott ki, és a média sokszínűsége felé mutat.",
+      "title": "Navracsics Tibor új kezdeményezéssel indítana párbeszédet a politikai oldalak között",
+      "summary": "Navracsics Tibor Polgári Demokraták néven társadalmi kezdeményezést indított a politikai megosztottság csökkentésére. Havasi Bertalan szerint a Fidesznek nincs hivatalos álláspontja, de a párbeszéd Magyar Péterrel lehetetlen.",
       "importance": 4
     },
     {
-      "title": "A kormány maximálja az állami cégvezetők fizetését",
-      "summary": "A kormány döntést hozott az állami tulajdonú vállalatok vezetőinek fizetési plafonjáról. Cél a túlzott javadalmazások megakadályozása és a közpénzek átláthatóbb, felelősebb felhasználása.",
+      "title": "Magyar Péter a honvédeknek: A hazát kell szolgálni, nem egy politikai oldalt",
+      "summary": "Magyar Péter a tisztavatáson hangsúlyozta, hogy a honvédeknek a hazát kell szolgálniuk, nem pedig egy politikai oldalt. Kijelentette, hogy a rendfokozat mellé a tekintélyt a mindennapi munkával kell kiérdemelniük.",
       "importance": 4
+    },
+    {
+      "title": "Újra teljes kapacitással termelhet a paksi atomerőmű",
+      "summary": "Vasárnap újraindítják a leállított paksi turbinákat, a jövő héten pedig az atomerőmű várhatóan teljes kapacitással működik majd. Ez a lépés stabilizálhatja az ország energiaellátását és hozzájárulhat a biztonságos működéshez.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Oroszország ballisztikus rakétákkal támadta Kijevet, gyerekkórház is megrongálódott",
-      "summary": "Oroszország masszív ballisztikus rakétatámadást hajtott végre Kijev ellen, melynek során egy gyerekkórház is megsérült és legalább 13 ember meghalt. Ukrajna légvédelmi hiányosságokkal küzd a fokozódó támadások közepette, ami súlyosbítja a humanitárius válságot.",
+      "title": "Életfogytiglanra ítélték az Evergrande alapítóját, lezárva egy hatalmas ingatlanbotrányt",
+      "summary": "A kínai Evergrande ingatlanfejlesztő alapítóját életfogytiglanra ítélték, ezzel lezárult a kínai ingatlanválság egyik legnagyobb botránya. Az eset rávilágít a cégcsoport pénzügyi visszaéléseire és a kínai gazdaság sebezhetőségére.",
       "importance": 5
     },
     {
-      "title": "Életfogytiglanra ítélték az Evergrande alapítóját Kínában",
-      "summary": "Az Evergrande ingatlanóriás alapítóját életfogytiglani börtönbüntetésre ítélték, ezzel lezárva a kínai ingatlanválság egyik legnagyobb botrányát. Az ítélet komoly üzenet a kínai gazdasági szereplőknek, és hatással lehet a globális pénzügyi piacokra is.",
+      "title": "Orosz légicsapások tucatnyi áldozatot követeltek Kijevben",
+      "summary": "Éjszakai orosz légicsapások következtében legalább tucatnyian meghaltak Kijevben, miközben Ukrajna légvédelmi hiányosságokkal küzd. Az eset rávilágít a háború folyamatos pusztítására és a civil lakosság szenvedésére.",
+      "importance": 5
+    },
+    {
+      "title": "Trump gazdasági D-nappal fenyegette meg Irán támogatóit",
+      "summary": "Donald Trump \"gazdasági D-napot\" jelentett be Irán ellen, mely megsemmisítő gazdasági hadműveletet von maga után támogatóival szemben is. A lépés jelentősen eszkalálhatja a közel-keleti feszültségeket és globális következményekkel járhat.",
       "importance": 4
     },
     {
-      "title": "Trump gazdasági \"D-nappal\" fenyegette Iránt és támogatóit",
-      "summary": "Donald Trump volt amerikai elnök komoly gazdasági szankciókat és egy \"D-naphoz\" hasonlatos megsemmisítő gazdasági hadműveletet helyezett kilátásba Iránnal és támogatóival szemben. A kijelentés nemzetközi feszültséget generált és a közel-keleti stabilitást fenyegeti.",
-      "importance": 4
-    },
-    {
-      "title": "Újabb orosz drón zuhant le Romániában",
-      "summary": "Újabb drón roncsai estek le Románia területén, az ukrán határ közelében, ami aggodalmat kelt egy NATO-tagállam területén a háború átterjedése miatt. A román hatóságok vizsgálják az esetet, és fokozott készültséget rendeltek el.",
-      "importance": 4
+      "title": "Harry herceg és Meghan Markle visszaköltözik az Egyesült Királyságba",
+      "summary": "Harry herceg és családja, Meghan Markle-lel együtt, öt év után visszaköltözik az Egyesült Királyságba. A költözésről és annak okairól több forrás is beszámolt, spekulációkat kiváltva a királyi család jövőjével kapcsolatban.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Waymo új generációs robotaxija széles körben elérhető",
-      "summary": "A Waymo új, kedvezőbb árú robotaxijai immár mindenki számára igénybe vehetők három városban. Ez jelentős lépés az önvezető járművek elterjedése felé a mindennapi közlekedésben, és alapjaiban változtathatja meg a személyszállítást.",
+      "title": "Elérhetővé vált a Waymo olcsóbb, következő generációs robotaxija több városban",
+      "summary": "A Waymo új, olcsóbb és fejlettebb robotaxi szolgáltatása immár minden utas számára elérhető három amerikai városban. Ez a lépés jelzi az önvezető járművek piacának bővülését és az AI alapú közlekedés fejlődését.",
       "importance": 4
     },
     {
-      "title": "A T-Mobile kábelt vágott el kínai hackerek kiűzésére",
-      "summary": "A T-Mobile állítólag fizikai kábelt vágott el, hogy kiűzze kínai hackereket a hálózatából, egy szokatlan és drasztikus lépéssel reagálva egy komoly kibertámadásra. Az eset rávilágít a digitális infrastruktúra sebezhetőségére és a nemzetállami kiberhadviselés kihívásaira.",
+      "title": "Az OpenAI új adatvédelmi intézkedésekkel versenyez az Anthropic-kal",
+      "summary": "Az OpenAI fokozott ügyfél adatvédelmi protokollokkal igyekszik felülmúlni versenytársát, az Anthropicot. Ez a lépés rávilágít az AI szektoron belüli erős versenyre és az adatbiztonság növekvő fontosságára a technológiai óriások körében.",
       "importance": 4
     },
     {
-      "title": "A Google új AI tanulási eszközökkel bővíti keresőjét és Geminit",
-      "summary": "A Google új, mesterséges intelligencia alapú tanulási eszközöket integrál a Keresőjébe és a Gemini platformjába. Ezzel az oktatást és a tudásszerzést hivatott támogatni, széleskörűen elérhetővé téve az AI előnyeit a felhasználók számára.",
-      "importance": 4
+      "title": "A Google új AI-alapú tanulási eszközökkel bővíti Keresőjét és Geminijét",
+      "summary": "A Google integrálta az AI-t a Keresőjébe és a Geminibe, új tanulási segédeszközöket kínálva a felhasználóknak. Ez a fejlesztés megkönnyítheti a diákok és kutatók munkáját, valamint demokratizálhatja az információszerzést.",
+      "importance": 3
     },
     {
-      "title": "Az OpenAI új adatvédelmi funkciókkal verseng az Anthropic-kal",
-      "summary": "Az OpenAI új, továbbfejlesztett ügyféladatvédelmi megoldásokkal igyekszik felülmúlni az Anthropicot. Ez éles versenyt mutat a mesterséges intelligencia fejlesztésében, ahol az etikai szempontok és az adatvédelem egyre fontosabb szerepet kapnak.",
-      "importance": 4
+      "title": "A T-Mobile elvágta a kábelt, hogy kiűzze a kínai hackereket hálózatából",
+      "summary": "A T-Mobile arról számolt be, hogy fizikai beavatkozással, egy kábel elvágásával tudta kiűzni a kínai hackereket a hálózatából. Ez az eset rávilágít a kiberbiztonsági fenyegetések komolyságára és az ellenük való védekezés kihívásaira.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Áttörés: új, személyre szabott vakcina akadályozza meg a rák kiújulását",
-      "summary": "Kísérletek során egy új, személyre szabott vakcina sikeresen megakadályozta a rák kiújulását. Ez az ígéretes áttörés forradalmasíthatja az onkológiai kezeléseket és új reményt ad a rák elleni küzdelemben.",
+      "title": "Új személyre szabott vakcina áttörése megakadályozza a rák kiújulását",
+      "summary": "Egy új, személyre szabott vakcina jelentős áttörést hozhat a rákkutatásban, mivel a klinikai vizsgálatok során megakadályozta a rák kiújulását. Ez reményt adhat a jövőbeli rákkezelések terén és javíthatja a betegek életminőségét.",
       "importance": 5
     },
     {
-      "title": "Fekete lyuk forgása mérhető egy nagy sebességű csillag segítségével",
-      "summary": "Kutatók egy nagy sebességű csillag megfigyelésével végre pontosan megmérhetik egy fekete lyuk forgását. Ez az áttörés új, mélyebb ismereteket hozhat a kozmikus objektumok viselkedéséről és a gravitáció természetéről.",
-      "importance": 5
-    },
-    {
-      "title": "A koponya nyirokstruktúráinak kulcsszerepe a központi idegrendszer immunfelügyeletében",
-      "summary": "Felfedezték, hogy a koponyában található nyirokstruktúrák alapvető szerepet játszanak a központi idegrendszer immunfelügyeletében. Ez az áttörés új utakat nyithat a neurológiai és autoimmun betegségek megértésében és kezelésében.",
+      "title": "A klímaváltozás felborította a költözőmadarak vonulási rendjét",
+      "summary": "A klímaváltozás hatásai egyre inkább érzékelhetőek, és már a költöző madarak vonulási idejét is összezavarták. Ez komoly ökológiai következményekkel járhat és veszélyeztetheti az állatok túlélését.",
       "importance": 4
     },
     {
-      "title": "Egyes fafajták rontják a városi levegő minőségét",
-      "summary": "Kutatások szerint bizonyos fafajták telepítése a városokban paradox módon ronthatja a levegő minőségét, a kibocsátott illékony szerves vegyületek miatt. Ez alapjaiban kérdőjelezi meg a hagyományos városi zöldítési stratégiákat és a közegészségügyi hatásokat.",
+      "title": "Óriásbálnák vándorolnak Grönland vizeibe a jég olvadása miatt",
+      "summary": "Ahogy Grönlandon olvad a jég, óriásbálnák költöznek be a térség vizeibe, új ökológiai mintázatot hozva létre. Ez a jelenség a klímaváltozás drámai hatásait mutatja be a tengeri élővilágra és az ökoszisztémák átalakulására.",
       "importance": 4
+    },
+    {
+      "title": "Bizonyos fafajták ronthatják a városi levegő minőségét",
+      "summary": "Kutatók felfedezték, hogy egyes fafajták, amelyeket a városokban ültetnek, paradox módon ronthatják a levegő minőségét. Ez a felismerés fontos a jövőbeli városi zöldítési stratégiák tervezésénél és a megfelelő fajok kiválasztásánál.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Szerencsejáték a Little League World Series-en: Etikai aggodalmak merültek fel",
-      "summary": "Komoly etikai aggodalmakat vet fel, hogy sportfogadások köthetők a Little League World Series mérkőzéseire. Kritikusok szerint a sportfogadók átléptek egy határt a gyermekversenyekre való fogadással, veszélyeztetve a sport integritását.",
+      "title": "Usain Boltnál is gyorsabb, az embernél is magasabbra ugrik a kínai Unitree új robotja",
+      "summary": "A kínai Unitree bemutatta \"Superman\" nevű új robotját, amely Usain Boltnál is gyorsabb és az embernél is magasabbra tud ugrani. A robot lenyűgöző atlétikai képességei rávilágítanak a robotika fejlődésére és a fizikai teljesítőképesség határainak feszegetésére.",
       "importance": 3
+    },
+    {
+      "title": "Elmentek túl messzire a sportfogadók a Little League World Series-szel?",
+      "summary": "Aggályok merültek fel a Little League World Series eseményeire való sportfogadás miatt, sokan úgy vélik, a fogadók túl messzire mentek. A kérdés felveti az etikai határokat a sportfogadás világában, különösen kiskorú sportolók bevonásakor.",
+      "importance": 3
+    },
+    {
+      "title": "Fontos veszélyjelzés szabadtéri rendezvények előtt",
+      "summary": "Mielőtt szabadtéri rendezvényre indulna, mindenképp ellenőrizze a veszélyjelzéseket az aktuális időjárás miatt. Ez segíthet a biztonságos tervezésben és a kellemetlenségek elkerülésében, különösen olyan eseményeknél, amelyek fizikai aktivitást is magukban foglalhatnak.",
+      "importance": 2
+    },
+    {
+      "title": "Az Országos Mentőszolgálat mentési pontokat telepít a tűzijáték idejére",
+      "summary": "Az Országos Mentőszolgálat 56 mentési pontot telepít a tűzijáték idejére, hogy biztosítsa a gyors reagálást esetleges vészhelyzetek esetén. Ez a nagyszabású előkészület a tömegrendezvények biztonságát szolgálja, ahol a mozgás és a nagy tömeg fokozott egészségügyi kockázatot jelenthet.",
+      "importance": 2
     }
   ]
 }

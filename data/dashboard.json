@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Újra teljes kapacitással üzemel a Paksi Atomerőmű",
-      "summary": "Vasárnap megkezdődött a leállított paksi turbinák visszakapcsolása, és a jövő hétre várhatóan az atomerőmű ismét teljes kapacitással működik majd. Ez fontos lépés az ország energiabiztonsága szempontjából.",
+      "title": "Paks újra teljes kapacitással üzemelhet",
+      "summary": "Vasárnap megkezdik a paksi atomerőmű leállított turbináinak visszakapcsolását, így jövő hétre várhatóan újra teljes kapacitással működhet az erőmű. Ez kulcsfontosságú az ország energiabiztonsága szempontjából.",
       "importance": 5
     },
     {
-      "title": "A közmédia felbontotta szerződéseit Balásy Gyula cégeivel",
-      "summary": "Az MTVA azonnali hatállyal szerződést bontott Balásy Gyula cégeivel, ami jelentős változást jelent a közmédia reklám- és kommunikációs partnereinek körében. A döntés komoly politikai és gazdasági visszhangot váltott ki.",
-      "importance": 5
+      "title": "A közmédia szerződést bontott Balásy Gyula cégeivel",
+      "summary": "A közmédia azonnali hatállyal felmondta szerződéseit Balásy Gyula médiavállalkozó cégeivel, ami jelentős változást jelez a kormányzati kommunikációs piacon. A lépés pénzügyi és politikai vonatkozásokkal is bír.",
+      "importance": 4
     },
     {
       "title": "Százmilliós bírságot kapott az iváncsai akkumulátorgyár",
-      "summary": "A kormány bejelentése szerint az iváncsai akkumulátorgyár százmilliós bírságot kapott. A döntés az üzem környezetvédelmi és működési szabályainak megsértésével kapcsolatos aggodalmakra ad választ.",
+      "summary": "Az iváncsai akkumulátorgyár százmilliós bírságot kapott környezetvédelmi szabálytalanságok miatt. Ez rávilágít az új ipari beruházásokkal járó kockázatokra és a hatósági ellenőrzések fontosságára.",
       "importance": 4
     },
     {
-      "title": "Maximalizálják az állami cégek vezetőinek jövedelmét",
-      "summary": "A kormány döntése értelmében rendezték és maximálták az állami tulajdonú cégek igazgatósági és felügyelőbizottságaiban járó díjazásokat. Ezzel igyekeznek átláthatóbbá tenni a közpénzek felhasználását.",
-      "importance": 4
+      "title": "Megszüntették a nyomozást az ukrán pénzszállítók ügyében",
+      "summary": "A NAV bűncselekmény hiányában megszüntette a nyomozást az ukrán pénzszállítók ügyében, ami heves vitákat és találgatásokat váltott ki. Az ügyben korábban korrupció gyanúja merült fel.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Oroszország „masszív támadást” indított Kijev ellen",
-      "summary": "Oroszország ismét masszív támadást hajtott végre Kijev ellen, melynek következtében legalább öt ember vesztette életét. A támadás tovább mélyíti az ukrajnai konfliktust és súlyosbítja a humanitárius helyzetet.",
+      "title": "Oroszország masszív támadást intézett Kijev ellen",
+      "summary": "Oroszország újabb nagyszabású rakétatámadást hajtott végre Kijev ellen, amelyben legalább öt ember életét vesztette. A támadás tovább fokozza a feszültséget az ukrajnai háborúban.",
       "importance": 5
     },
     {
-      "title": "Az izraeli hadsereg elismerte, hogy egy palesztin kislány autójára lőtt",
-      "summary": "Az izraeli hadsereg elismerte, hogy ők adtak le lövéseket egy ötéves palesztin kislány autójára. Az incidens újabb feszültséget generált a térségben, és nemzetközi vizsgálatot követelnek.",
-      "importance": 5
-    },
-    {
-      "title": "Földcsuszamlás miatt összeomlott egy afrikai aranybánya, több mint száz halottal",
-      "summary": "Egy afrikai aranybányában bekövetkezett földcsuszamlás következtében több mint száz ember életét vesztette. A tragédia rávilágít a bányászati biztonsági előírások hiányosságaira a régióban.",
-      "importance": 5
-    },
-    {
-      "title": "Harry herceg és Meghan visszaköltözhet az Egyesült Királyságba",
-      "summary": "A hírek szerint Harry herceg és Meghan, Sussex hercegnéje visszaköltözhetnek az Egyesült Királyságba. Ez a lépés jelentős változást hozhat a brit királyi család életében és a közvélemény érdeklődésében.",
+      "title": "Az izraeli hadsereg elismerte, hogy ők lőttek egy palesztin kislány autójára",
+      "summary": "Az izraeli hadsereg elismerte, hogy katonáik tévedésből egy olyan autóra nyitottak tüzet, amelyben egy ötéves palesztin kislány is utazott, aki életét vesztette. Az eset nagy felháborodást váltott ki.",
       "importance": 4
+    },
+    {
+      "title": "Beomlott egy afrikai aranybánya, több mint száz halott",
+      "summary": "Egy földcsuszamlás következtében beomlott egy afrikai aranybánya, aminek következtében több mint száz ember vesztette életét. A katasztrófa felhívja a figyelmet a bányászat veszélyeire a régióban.",
+      "importance": 4
+    },
+    {
+      "title": "Harry herceg és Meghan visszaköltözik az Egyesült Királyságba",
+      "summary": "Harry herceg és Meghan, Sussex hercege és hercegnéje a hónap végén visszaköltözik az Egyesült Királyságba. A hír meglepetést keltett, és találgatásokra ad okot a királyi család jövőjével kapcsolatban.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A T-Mobile kábelvágással űzte ki a kínai hackereket hálózatából",
-      "summary": "A T-Mobile állítása szerint fizikai kábelvágással távolított el kínai hackereket a hálózatából. Az eset rávilágít a kritikus infrastruktúrák kibervédelmének súlyos kihívásaira és a nemzetállami fenyegetésekre.",
+      "title": "A T-Mobile kivetette hálózatából a kínai hackereket",
+      "summary": "A T-Mobile tájékoztatása szerint sikeresen eltávolították a kínai hackereket a hálózatukból, akik egy kábelt megszakítva próbáltak hozzáférni az adatokhoz. Az eset rávilágít a kiberbiztonsági fenyegetések komolyságára.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI új adatvédelmi funkciókkal erősíti pozícióját",
-      "summary": "Az OpenAI új ügyféladatvédelmi funkciókat vezet be, hogy felülmúlja versenytársát, az Anthropicot. Ez a lépés hangsúlyozza az adatbiztonság és a verseny fontosságát a mesterséges intelligencia iparágban.",
-      "importance": 5
+      "title": "Az OpenAI új adatvédelmi intézkedéseket vezet be",
+      "summary": "Az OpenAI új adatvédelmi intézkedéseket és védelmet vezet be ügyfelei számára, hogy felülmúlja versenytársát, az Anthropicot. Ez a lépés hangsúlyozza az adatvédelem növekvő fontosságát a mesterséges intelligencia területén.",
+      "importance": 4
     },
     {
-      "title": "A Google új AI alapú tanulási eszközökkel bővíti keresőjét és Geminit",
-      "summary": "A Google új mesterséges intelligencia alapú tanulási eszközöket integrál a Keresésbe és a Gemini platformba. Ezek az innovációk célja a felhasználók oktatási és kutatási élményének javítása.",
-      "importance": 5
+      "title": "A Waymo következő generációs robotaxija már mindenki számára elérhető",
+      "summary": "A Waymo olcsóbb, következő generációs robotaxijai már minden utas számára elérhetők három kiválasztott városban. Ez egy újabb lépés az önvezető autók széles körű elterjedése felé.",
+      "importance": 4
     },
     {
-      "title": "A Waymo kiterjeszti olcsóbb, új generációs robotaxi szolgáltatását",
-      "summary": "A Waymo olcsóbb, új generációs robotaxi szolgáltatása már több városban is elérhető minden utas számára. Ez a terjeszkedés a mesterséges intelligencia alapú önvezető járművek szélesebb körű elterjedését jelzi.",
-      "importance": 5
+      "title": "A Google új AI alapú tanulási eszközökkel bővíti a Search és Gemini szolgáltatásait",
+      "summary": "A Google mesterséges intelligencia alapú tanulási eszközökkel bővíti keresőjét (Search) és Gemini platformját, hogy segítse a felhasználókat az oktatásban. Az új funkciók intelligensebb és személyre szabottabb tanulási élményt nyújtanak.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Áttörés a rák elleni vakcinában: megállíthatja a kiújulást egy kísérletben",
-      "summary": "Egy ígéretes vakcinakísérlet szerint az új oltás megakadályozhatja a rák kiújulását. Ez hatalmas áttörést jelenthet a rákkezelésben és a betegek jövőjében.",
+      "title": "Áttörés a rákkutatásban: vakcina akadályozhatja meg a daganatok kiújulását",
+      "summary": "Egy kísérleti vakcina jelentős áttörést hozott a rákkutatásban, mivel képes volt megakadályozni a daganatok kiújulását a tesztek során. Ez a felfedezés reményt adhat a rák elleni harcban.",
       "importance": 5
     },
     {
-      "title": "Fekete lyuk forgása mérhetővé válhat egy nagy sebességű csillag segítségével",
-      "summary": "Egy nagy sebességgel keringő csillag megfigyelése révén végre mérhetővé válhat egy fekete lyuk forgása. Ez forradalmasíthatja a fekete lyukakról szerzett ismereteinket az asztrofizikában.",
+      "title": "Heti inzulin injekció válthatja fel a napi szúrásokat 2-es típusú cukorbetegségben",
+      "summary": "Egy új, heti rendszerességű inzulin injekció válthatja fel a 2-es típusú cukorbetegségben szenvedők napi inzulinszúrásait. Ez jelentősen javíthatja a betegek életminőségét és kezelésének kényelmét.",
       "importance": 5
     },
     {
-      "title": "Globális metánrekord trópusi jégmagból",
-      "summary": "Egy trópusi jégmagból származó adatok globális metánrekordot mutatnak, ami fontos információkat szolgáltat az éghajlatváltozásról és az atmoszféra összetételéről. Ez segíthet a jövőbeli klímamodellek pontosításában.",
-      "importance": 5
-    },
-    {
-      "title": "Az e-cigaretták káros hatásai a gyermekek egészségére",
-      "summary": "Orvosok figyelmeztetnek, hogy az e-cigaretták komoly egészségkárosító hatással lehetnek a gyermekekre. A figyelmeztetés sürgős cselekvésre ösztönöz a gyermekek védelme érdekében.",
+      "title": "Óriás bálnák vándorolnak Grönland vizeire a jég olvadásával",
+      "summary": "A grönlandi jég olvadásával óriás bálnák kezdtek el vándorolni a régió vizeire, ami szokatlan jelenség. Ez a megfigyelés rávilágít az éghajlatváltozás ökoszisztémákra gyakorolt hatására.",
       "importance": 4
+    },
+    {
+      "title": "Kudarcba fulladt a NASA űrteleszkóp-mentő missziója",
+      "summary": "A NASA vakmerő kísérlete egy meghibásodott űrteleszkóp megmentésére kudarcba fulladt. A misszió célja egy értékes űreszköz üzembe helyezése lett volna.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Hol lenne a Fradi állami milliárdok nélkül?",
-      "summary": "Felmerült a kérdés, hogy a Ferencváros futballsikeressége mennyire függ az állami milliárdoktól. A vita rávilágít a sportfinanszírozás átláthatóságára és a közpénzek felhasználására.",
-      "importance": 5
-    },
-    {
-      "title": "Kiesett az első számú vevőjelölt a Videotonnál",
-      "summary": "A Videoton futballcsapatánál az első számú vevőjelölt visszalépett, így a város B-tervet készít arra az esetre, ha a csapat tulajdonlása bizonytalan marad. Ez komoly kihívás elé állítja a klub jövőjét.",
+      "title": "Kérdéses a Videoton jövője, kiesett a vevőjelölt",
+      "summary": "Kiesett az első számú vevőjelölt a Videoton labdarúgócsapatának megvásárlására, ami bizonytalanná teszi a klub jövőjét. A város B tervet készít arra az esetre, ha a csapat a nyakán marad.",
       "importance": 4
     },
     {
-      "title": "Sportfogadók túlzásba estek a Little League World Series fogadásaival",
-      "summary": "A sportfogadók állítólag túlzásba estek a Little League World Series eseményeire történő fogadásokkal, ami felveti az etikai aggályokat a sportfogadások gyermekekkel kapcsolatos eseményeivel kapcsolatban.",
+      "title": "Mennyi közpénzből prosperál a Fradi?",
+      "summary": "Egy elemzés szerint a Ferencváros labdarúgócsapata jelentős állami támogatásból prosperál. Felmerül a kérdés, hol tartana a klub az állami milliárdok nélkül.",
+      "importance": 4
+    },
+    {
+      "title": "Túlzásba viszik a sportfogadást: már a Little League World Series-re is fogadnak",
+      "summary": "Aggodalomra ad okot, hogy a sportfogadás már olyan eseményekre is kiterjed, mint a Little League World Series gyermek baseballverseny. A kritikusok szerint ez már túl messzire megy.",
       "importance": 3
+    },
+    {
+      "title": "Főzőversenynek álcázott szélsőjobbos bulit akartak tartani egy gyerektáborban",
+      "summary": "Megakadályoztak egy szélsőjobbos rendezvényt, amelyet egy soproni gyerektáborban főzőversenynek álcázva akartak megtartani. A működtető végül lefújta az eseményt a felmerült aggályok miatt.",
+      "importance": 1
     }
   ]
 }

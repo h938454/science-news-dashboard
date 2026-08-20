@@ -290,7 +290,7 @@
     {
       "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
       "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
-      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report."
+      "summary": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, according to his party."
     },
     {
       "title": "Harry and Meghan are experts in surprise - but why are they returning to UK now?",
@@ -310,7 +310,12 @@
   ],
   "TechCrunch": [
     {
-      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
+    },
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
       "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
       "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
     },
@@ -378,11 +383,6 @@
       "title": "Ramp launches its own AI model router, called Router",
       "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
       "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
-    },
-    {
-      "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
-      "link": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
-      "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging."
     }
   ],
   "Nature": [

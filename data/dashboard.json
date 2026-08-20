@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar: Vasárnap elkezdik visszakapcsolni Paks többi turbináját is, jövő héten már teljes lehet a kapacitás",
-      "summary": "Vasárnap megkezdődik a paksi atomerőmű leállított turbináinak visszakapcsolása, ami az energiaellátás szempontjából kulcsfontosságú. Jövő hét csütörtök-péntekre várhatóan újra teljes kapacitással üzemelhet az erőmű.",
+      "title": "Paks turbináinak fokozatos visszakapcsolása kezdődik",
+      "summary": "A paksi atomerőmű leállított turbináit vasárnaptól fokozatosan visszakapcsolják a hálózatba, és várhatóan a jövő hétre ismét teljes kapacitással üzemel majd az erőmű. Ez kulcsfontosságú az ország energiabiztonsága szempontjából.",
       "importance": 5
     },
     {
-      "title": "Nagy Ervin: Százmilliós bírságot kapott az iváncsai akkumulátorgyár",
-      "summary": "Az iváncsai akkumulátorgyár jelentős, százmilliós bírságot kapott környezetvédelmi szabálytalanságok miatt. Az eset rávilágít az ipari beruházások és a környezetvédelem közötti feszültségre.",
+      "title": "Közmédia M1 Híradó megújulása körüli viták és Balásy szerződésbontása",
+      "summary": "Az M1 híradója új formátumban, ellenzéki és kormánnyal kritikus vélemények bemutatásával indult újra, ám bírálatok érik a függetlensége és a régi stáb miatt. Eközben a közmédia azonnali hatállyal szerződést bontott Balásy Gyula cégeivel.",
+      "importance": 5
+    },
+    {
+      "title": "A NAV megszüntette a nyomozást az ukrán pénzszállító ügyében",
+      "summary": "A Nemzeti Adó- és Vámhivatal (NAV) bűncselekmény hiányában megszüntette a nyomozást az ukrán pénzszállító ügyében. Ez a döntés rontja a volt TEK-főigazgató és a felbujtó esélyeit az ügy további alakulásában.",
       "importance": 4
     },
     {
-      "title": "Hűtlen kezelés miatt nyomoz a Nemzeti Nyomozó Iroda a fideszes nyuszimotorok ügyében",
-      "summary": "A Nemzeti Nyomozó Iroda hűtlen kezelés gyanúja miatt indított nyomozást a fideszes nyuszimotorok ügyében. Az eset a közpénzek felhasználásának átláthatóságával kapcsolatos kérdéseket vet fel.",
-      "importance": 4
-    },
-    {
-      "title": "A kormány maximálja az állami cégek vezetőinek jövedelmét",
-      "summary": "A kormány döntése értelmében korlátozzák az állami tulajdonú vállalatok vezetőinek és felügyelőbizottsági tagjainak járó juttatásokat. Az intézkedés a közpénzekkel való takarékosabb gazdálkodást célozza.",
+      "title": "Kormányzati kommunikáció az első 100 napról és a vezetői jövedelmek maximalizálása",
+      "summary": "A kormány külön online felületen népszerűsíti első 100 napjának eredményeit, miközben kritikák érik a hibás döntések miatt, mint például az állami cégek vezetőinek jövedelmét maximalizáló intézkedés. A lépés célja az állami vállalatoknál járó díjazások ráncba szedése.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Russia unleashes missile strikes on Kyiv and nearby region, killing at least six",
-      "summary": "Oroszország újabb rakétatámadásokat indított Kijev és a környező régiók ellen, amelyek következtében legalább hat ember meghalt. A támadások a folyamatos konfliktus súlyosbodására utalnak.",
+      "title": "Oroszország rakétatámadást indított Kijev ellen, megrongálódott egy gyerekkórház",
+      "summary": "Oroszország ballisztikus rakétákkal támadta Kijevet és környékét, emberéleteket követelve és egy gyerekkórházat is megrongálva. A támadás tovább súlyosbítja a háborús konfliktust és növeli a civil áldozatok számát.",
       "importance": 5
     },
     {
-      "title": "Az izraeli hadsereg elismerte, hogy ők lőttek az ötéves palesztin kislány autójára",
-      "summary": "Az izraeli hadsereg elismerte, hogy katonái lőttek egy autóra, amelyben egy ötéves palesztin kislány utazott. Az incidens tovább növeli a feszültséget a térségben, és nemzetközi bírálatokat válthat ki.",
-      "importance": 5
-    },
-    {
-      "title": "Földcsuszamlás miatt beomlott egy afrikai aranybánya, száz felett van a halottak száma",
-      "summary": "Egy afrikai aranybányában bekövetkezett földcsuszamlás következtében több mint száz ember vesztette életét. A katasztrófa az alacsony biztonsági sztenderdek és a környezeti kockázatok súlyos következményeire hívja fel a figyelmet.",
+      "title": "Halálos aranybánya-omlás Afrikában, több mint száz áldozattal",
+      "summary": "Földcsuszamlás következtében beomlott egy afrikai aranybánya, több mint száz halálos áldozatot követelve. A katasztrófa rávilágít a régióban a bányászati biztonsági előírások hiányosságaira és az emberi életek veszélyeztetettségére.",
       "importance": 4
     },
     {
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "summary": "Óriási bálnák jelennek meg Grönland egyre jégmentesebbé váló vizeiben, ami a klímaváltozás hatásait mutatja. Ez a jelenség a sarkvidéki ökoszisztémák gyors változására utal.",
+      "title": "Izraeli hadsereg elismerte, hogy ők lőttek egy ötéves palesztin kislány autójára",
+      "summary": "Az izraeli hadsereg elismerte, hogy katonái lőttek egy ötéves palesztin kislány autójára, amelyben a gyermek is tartózkodott. Az eset feszültséget generál a konfliktusban, és nemzetközi bírálatokat váltott ki.",
       "importance": 4
+    },
+    {
+      "title": "Embercsempész letartóztatása a BBC nyomozása után",
+      "summary": "Egy BBC-nyomozás által leleplezett embercsempészt letartóztattak és vádat emeltek ellene. Ez a nemzetközi összefogás sikerét jelzi a szervezett bűnözés elleni harcban, különösen az embercsempészet visszaszorításában.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "summary": "A Google új mesterséges intelligencia alapú tanulmányi eszközökkel bővíti Kereső és Gemini szolgáltatásait. Ezek a funkciók a felhasználók hatékonyabb információfeldolgozását és tanulását hivatottak segíteni.",
+      "title": "A Google új AI alapú tanulási eszközökkel bővíti Keresőjét és Geminit",
+      "summary": "A Google új mesterséges intelligencia (AI) alapú tanulási eszközökkel bővíti Keresőjét és Geminit. Ezek az innovációk célja, hogy segítsék a diákokat és a felhasználókat az információszerzésben, valamint hatékonyabbá tegyék a tanulási folyamatokat.",
       "importance": 5
     },
     {
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "Az OpenAI új, fokozott adatvédelmi intézkedéseket vezet be, hogy megerősítse felhasználói bizalmát és versenyelőnyre tegyen szert. Ezzel a lépéssel a vállalat az iparág egyik legfontosabb kérdésére, a személyes adatok védelmére fókuszál.",
+      "title": "A Waymo újgenerációs robotaxija szélesebb körben elérhetővé vált",
+      "summary": "A Waymo újgenerációs, olcsóbb robotaxija már elérhető három városban minden utazó számára. Ez az önvezető autók térnyerésének újabb mérföldköve, és a jövőbeni közlekedésben jelentős változásokat hozhat.",
       "importance": 4
     },
     {
-      "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
-      "summary": "A Waymo új generációs, kedvezőbb árú robotaxija immár három városban is elérhetővé vált a nagyközönség számára. Ez jelentős előrelépés az önvezető járművek kereskedelmi forgalmazásában és elfogadásában.",
+      "title": "A TerraPower nukleáris reaktora az AI adatközpontok energiaellátására",
+      "summary": "A TerraPower nukleáris reaktora titkos fegyverként szolgálhat az egyre növekvő energiaigényű AI adatközpontok fenntartható energiaellátásában. Ez innovatív megoldást kínál a technológiai szektor kihívásaira és a zöld energiafelhasználás elősegítésére.",
       "importance": 4
     },
     {
-      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-      "summary": "A TerraPower nukleáris reaktora ígéretes megoldást kínál a mesterséges intelligencia adatközpontjainak hatalmas energiaigényére. Ez a technológia kulcsfontosságú lehet az AI fenntartható fejlődéséhez.",
+      "title": "A T-Mobile fellépett a kínai hackerek ellen a hálózatában",
+      "summary": "A T-Mobile elvágott egy kábelt, hogy kiűzze a hálózatából a kínai hackereket, akik behatoltak a rendszerbe. Az eset rávilágít a kiberbiztonsági fenyegetésekre és a telekommunikációs infrastruktúra védelmének kiemelt fontosságára.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Vaccine breakthrough stops cancer returning in trial",
-      "summary": "Áttörést jelentő kísérleti vakcinával sikerült megakadályozni a rák visszatérését betegeknél egy klinikai vizsgálatban. Ez a felfedezés forradalmasíthatja a rákkezelést és új reményt adhat milliónyi embernek.",
+      "title": "Áttörés egy új védőoltásban, amely megakadályozhatja a rák kiújulását",
+      "summary": "Egy új védőoltás ígéretes eredményeket mutatott a rák kiújulásának megakadályozásában klinikai vizsgálatok során. Ez jelentős előrelépést jelenthet a rákkezelésben, reményt adva sok betegnek.",
       "importance": 5
     },
     {
-      "title": "Weekly type 2 diabetes jab could replace daily injections",
-      "summary": "Egy új, heti rendszerességű injekcióval a 2-es típusú cukorbetegségben szenvedőknek nem kellene többé naponta adagolniuk a gyógyszerüket. Ez jelentősen javítaná a betegek életminőségét és kezelésük egyszerűsítését.",
+      "title": "Heti injekció válthatja fel a napi kezelést a 2-es típusú cukorbetegségben",
+      "summary": "Egy heti rendszerességű injekció válthatja fel a napi inzulinadagolást a 2-es típusú cukorbetegség kezelésében, jelentős mértékben javítva a betegek életminőségét. Ez az újítás egyszerűsítheti a betegség menedzselését.",
       "importance": 5
     },
     {
-      "title": "A black hole's spin could finally be measured by a high-speed star",
-      "summary": "Tudósok úgy vélik, hogy egy nagy sebességű csillag segítségével végre pontosan meg lehet majd mérni egy fekete lyuk forgását. Ez a megfigyelés új betekintést nyújthat a fekete lyukak működésébe és a gravitáció természetébe.",
+      "title": "Kudarcba fulladt a NASA vakmerő űrteleszkóp-mentő missziója",
+      "summary": "Kudarccal végződött a NASA merész űrteleszkóp-mentő küldetése, amelynek célja egy meghibásodott távcső javítása volt. A kudarc tanulságokat von maga után a jövőbeni űrmissziókra nézve, hangsúlyozva az űrkutatás kihívásait.",
       "importance": 4
     },
     {
-      "title": "These trees are making air quality in cities worse",
-      "summary": "Meglepő kutatási eredmények szerint bizonyos városi fafajták valójában ronthatják a levegő minőségét. Ezek a fák káros illékony szerves vegyületeket bocsátanak ki, ami befolyásolja az urbánus környezet tisztaságát.",
+      "title": "Fekete lyuk pörgésének mérése nagysebességű csillag segítségével",
+      "summary": "Tudósok szerint egy nagysebességű csillag segítségével végre meg lehetne mérni egy fekete lyuk pörgését. Ez új utakat nyithat az univerzum alapvető jelenségeinek megértéséhez és a fekete lyukak működésének feltárásához.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Előbb jött a közpénz, aztán a sikerek – hol lenne a Fradi állami milliárdok nélkül?",
-      "summary": "Egy elemzés azt vizsgálja, mennyire függ a Ferencváros futballklub sikere az állami támogatásoktól. A cikk kérdéseket vet fel a közpénzek sportfinanszírozásban betöltött szerepével kapcsolatban.",
-      "importance": 4
-    },
-    {
-      "title": "Kiesett az első számú vevőjelölt a Videotonnál, a város B tervet készít arra az esetre, ha a nyakán marad a csapat",
-      "summary": "A Videoton labdarúgóklub első számú vevőjelöltje visszalépett, ami bizonytalanná teszi a csapat jövőjét. A város kénytelen B tervet kidolgozni a klub esetleges nyakán maradása esetére.",
+      "title": "Vevőjelölt kiesése a Videoton labdarúgóklubnál",
+      "summary": "Kiesett az első számú vevőjelölt a Videoton labdarúgóklubnál, ami miatt a városnak B tervet kell készítenie a csapat jövőjére vonatkozóan. Ez bizonytalanságot okoz a klub működésében és jövőbeli kilátásaiban.",
       "importance": 3
     },
     {
-      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "summary": "Aggályok merültek fel a Little League World Series-re történő sportfogadás kapcsán, ami széles körű vitát váltott ki. Szakértők szerint a sportfogadók átlépték az etikai határokat az eseménnyel kapcsolatban.",
+      "title": "A köztévé TeleSportja újraindult augusztus 20-án",
+      "summary": "TeleSporttal és Bősze Ádám arcával indult újra a köztévé augusztus 20-án, jelezve a sportközvetítésekre és sportműsorokra való nagyobb fókuszt. Az adás a nemzeti ünnephez kapcsolódó műsorfolyam részeként került bemutatásra.",
+      "importance": 2
+    },
+    {
+      "title": "Szerencsejáték gyerekek sporteseményein: túl messzire mennek a fogadók?",
+      "summary": "Felvetődik a kérdés, hogy vajon a szerencsejáték gyerekek sporteseményein, mint a Little League World Series, túl messzire megy-e. Ez etikai vitákat vet fel a sport és a fogadások kapcsán, különösen kiskorúak bevonásakor.",
       "importance": 3
+    },
+    {
+      "title": "A kormány maximalizálja az állami cégek vezetőinek jövedelmét",
+      "summary": "A kormány döntött az állami cégek, köztük potenciálisan a sporttal kapcsolatos állami intézmények vezetőinek jövedelmének maximalizálásáról. Ez a lépés közvetve befolyásolhatja a sportirányításban dolgozó kulcsszereplők díjazását és a sportfinanszírozási politikát.",
+      "importance": 2
     }
   ]
 }

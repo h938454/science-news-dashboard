@@ -233,14 +233,14 @@
   ],
   "BBC": [
     {
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water in West Sussex."
+    },
+    {
       "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
       "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
       "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case."
-    },
-    {
-      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
-      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-      "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham."
     },
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -265,12 +265,17 @@
     {
       "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
       "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The temporary order will allow the $400m (£297m) to continue while the high court mulls a final decision on the case."
+      "summary": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case."
     },
     {
       "title": "Murder investigation after wildfire uncovers body in park",
       "link": "https://www.bbc.co.uk/news/articles/c0rdk9ddepvo?at_medium=RSS&at_campaign=rss",
       "summary": "A post-mortem examination revealed the remains belonged to a woman aged between 25 and 45."
+    },
+    {
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
     },
     {
       "title": "Watch: UK marks first national day for victims and survivors of terrorism",
@@ -281,11 +286,6 @@
       "title": "Ofcom investigating Sky News over Farage harassment claims",
       "link": "https://www.bbc.co.uk/news/articles/ce8k52186mmo?at_medium=RSS&at_campaign=rss",
       "summary": "The Reform UK leader has accused Sky News of sending reporters to a house where his adult daughter lives."
-    },
-    {
-      "title": "One killed in sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
@@ -309,6 +309,11 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+      "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
+    },
     {
       "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
       "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
@@ -378,11 +383,6 @@
       "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
       "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
       "summary": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies."
-    },
-    {
-      "title": "Senator asks US government watchdog to review how feds use hacking tools",
-      "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-      "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans."
     }
   ],
   "Nature": [

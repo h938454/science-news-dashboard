@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Amikor egy halom roncsból milliós érték lesz: egyre több a Trabant a német utakon",
+      "link": "https://telex.hu/g7/elet/2026/08/21/nosztalgia-trabant-nemetorszag-rajongok-feluijitas",
+      "summary": "Míg a német autóipar napjainkban komoly válsággal küzd, az egykori NDK büszkesége az utóbbi években figyelemre méltó reneszánszát éli, az állomány folyamatosan nő."
+    },
+    {
       "title": "Az izraeli belbiztonsági miniszter bemutatott egy akasztófát, amelyen terrorizmusért elítélt palesztinokat akar kivégeztetni",
       "link": "https://telex.hu/kulfold/2026/08/20/ben-gvir-izrael-akasztofakat-epitenek",
       "summary": "Itamar Ben-Gvir szerint olyan helyiségeket is kialakítanak majd, ahonnan az akasztásokat végig lehet nézni."
@@ -69,11 +74,6 @@
       "title": "Orbán Viktor a jövőben is számít Lázár János bajtársiasságára",
       "link": "https://telex.hu/belfold/2026/08/20/lazar-janos-lemondas-orban-viktor-reakcio-koszonet-fidesz-parlament-mandatum",
       "summary": "A Fidesz elnöke köszönetet mondott a képviselő lemondása után."
-    },
-    {
-      "title": "Drágább lesz a YouTube Premium a magyar felhasználóknak",
-      "link": "https://telex.hu/techtud/2026/08/20/youtube-premium-arat-emel",
-      "summary": "Az egyéni és a családi előfizetések árát is emelik."
     }
   ],
   "Portfolio": [],
@@ -233,19 +233,19 @@
   ],
   "BBC": [
     {
-      "title": "Harry and Meghan's return to UK reignites questions over security",
-      "link": "https://www.bbc.co.uk/news/articles/cr59yg34r4mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Their surprise announcement means a fresh decision will need to be made on the level of publicly funded protection they are entitled to."
-    },
-    {
-      "title": "Watch: What does Harry's return mean for his fractured relationship with William?",
-      "link": "https://www.bbc.co.uk/news/videos/cgljr2wlr1no?at_medium=RSS&at_campaign=rss",
-      "summary": "The brothers have had a fractured relationship for a number of years."
-    },
-    {
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "title": "El Niño weather system set to be 'strongest in living memory', warns Met Office",
       "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+    },
+    {
+      "title": "Meghan could return to acting once back in UK",
+      "link": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK."
+    },
+    {
+      "title": "What happened to Meghan and Harry's American dream?",
+      "link": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived."
     },
     {
       "title": "French becoming more effective in stopping small boat crossings, UK says",
@@ -263,14 +263,14 @@
       "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy."
     },
     {
-      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
-      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
-    },
-    {
       "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
       "link": "https://www.bbc.co.uk/news/articles/cgewlld498xo?at_medium=RSS&at_campaign=rss",
       "summary": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner."
+    },
+    {
+      "title": "Academic who accused Jason Arday of plagiarism suspended by university",
+      "link": "https://www.bbc.co.uk/news/articles/cevmrjd9lj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nathan Cofnas says he is being investigated for discriminating against the late Cambridge professor."
     },
     {
       "title": "Rain to stop in time for weekend as sun returns",

@@ -235,12 +235,17 @@
     {
       "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
       "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water in West Sussex."
+      "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex."
     },
     {
       "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
       "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
       "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case."
+    },
+    {
+      "title": "More students planning to live at home for university over 'insane' living costs",
+      "link": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     },
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
@@ -258,14 +263,14 @@
       "summary": "The powerful natural climate phenomenon, that is developing over the Pacific Ocean, is likely to be the strongest in living memory, the Met Office has warned."
     },
     {
-      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
-      "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
-    },
-    {
       "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
       "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
       "summary": "The temporary order will allow the $400m (£297m) project to continue while the high court mulls a final decision on the case."
+    },
+    {
+      "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
+      "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
     },
     {
       "title": "Murder investigation after wildfire uncovers body in park",
@@ -276,11 +281,6 @@
       "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
       "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
       "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13."
-    },
-    {
-      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-      "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism."
     },
     {
       "title": "Ofcom investigating Sky News over Farage harassment claims",
@@ -310,9 +310,19 @@
   ],
   "TechCrunch": [
     {
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48-hours",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia."
+    },
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
       "link": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "summary": "Rillet CEO Nicholas Koop shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
+      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying."
     },
     {
       "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
@@ -373,16 +383,6 @@
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "summary": "There's about to be a big fight to secure access to space."
-    },
-    {
-      "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-      "link": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-      "summary": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases."
-    },
-    {
-      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-      "link": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-      "summary": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies."
     }
   ],
   "Nature": [

@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "A Mi Hazánk feljelentést tesz az augusztus 20-i rendezvények kamunak tűnő közbeszerzése miatt",
+      "link": "https://telex.hu/belfold/2026/08/21/toroczkai-laszlo-mi-hazank-augusztus-20-rendezvenyek-kozbeszerzes",
+      "summary": "„Ennyit az urambátyámrendszer állítólagos lebontásáról” – írta posztjában Toroczkai László."
+    },
+    {
       "title": "Autóbusz és személygépkocsi ütközött Debrecen mellett, egy ember meghalt",
       "link": "https://telex.hu/belfold/2026/08/21/autobusz-es-szemelygepkocsi-utkozott-debrecen-mellett-egy-ember-meghalt",
       "summary": "A buszon utazók közül nyolcan sérültek meg."
@@ -69,11 +74,6 @@
       "title": "A Balaton után Budapesten is divat lett gázolajjal megmérgezni a fákat",
       "link": "https://telex.hu/techtud/2026/08/21/gazolaj-fa-mergezes-lebukas-fakivagas-rendorseg-xi-kerulet-budapest-fokert",
       "summary": "Miközben a Főkert és a kerületek parkfenntartói minden energiájukat arra fordítják, hogyan lehetne a brutális aszályban megmenteni a zöld területeket Budapesten, mások 50-60 éves fákat gyilkolnak le közterületen. A gázolajas módszerrel eddig jellemzően a Balaton környékén intézték el a lakosok, hogy a kilátást akadályozó fák eltűnjenek az útból."
-    },
-    {
-      "title": "Törökország nemzetközi elfogatóparancsot adott ki Benjámin Netanjahu ellen",
-      "link": "https://telex.hu/kulfold/2026/08/21/torokorszag-nemzetkozi-elfogatoparancsot-adott-ki-benjamin-netanjahu-ellen",
-      "summary": "A török igazságügyi miniszter szerint Netanjahu ellen azért folyik eljárás, mert Izrael korábban feltartóztatta a Gázába tartó segélyflotilla aktivistáit."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Átlátszó: lúgos szennyezés szivárog az almásfüzitői vörösiszap-tározónál",
+      "link": "https://hvg.hu/gazdasag/20260821_atlatszo-lugos-szennyezes-duna-almasfuzito-vorosiszap-tarozo",
+      "summary": "Az illetékes hatóság vizsgálódik, zajlik a helyszínen vett minta kiértékelése."
+    },
+    {
       "title": "Közel egymilliárd eurós gigabírságot kapott az Uber",
       "link": "https://hvg.hu/gazdasag/20260821_kozel-egymilliard-euros-gigabirsagot-kapott-az-uber",
       "summary": "Automatizáltan függeszthette fel a csalógyanús Uber-sofőrök fiókjait a cég. A vállalat ezt vitatja, és túlzónak tartja a bírságot."
@@ -224,11 +229,6 @@
       "title": "Rárepült a Fidesz az augusztus 20-i ünnepség furcsa tenderére, hatósági bejelentést tesznek",
       "link": "https://hvg.hu/itthon/20260821_fidesz-augusztus-20-unnepseg-furcsa-tender-hatosagi-bejelentes",
       "summary": "Az ellenzéki párt szerint úgy tűnik, irányított volt az augusztus 20-i rendezvénysorozat közbeszerzése, ezért a Közbeszerzési Hatósághoz fordulnak."
-    },
-    {
-      "title": "Szoboszlai Dominik lett az egyik csapatkapitány-helyettes a Liverpoolnál",
-      "link": "https://hvg.hu/sport/20260821_szoboszlai-dominik-lett-az-egyik-csapatkapitany-helyettes-a-liverpoolnal",
-      "summary": "A Premier League új szezonjában a csapat először a Newcastle United ellen lép pályára."
     }
   ],
   "BBC": [
@@ -236,6 +236,16 @@
       "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
       "link": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
       "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case."
+    },
+    {
+      "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
+      "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
+      "summary": "She is the fourth person to die after her family got into difficulty in water in Shoreham."
+    },
+    {
+      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
     },
     {
       "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
@@ -251,11 +261,6 @@
       "title": "Under-fives and pregnant women told to avoid runny eggs when eating out over salmonella risk",
       "link": "https://www.bbc.co.uk/news/articles/cx2krdggx6xo?at_medium=RSS&at_campaign=rss",
       "summary": "The advice also applies to the over-65s and others with underlying medical conditions amid salmonella outbreak."
-    },
-    {
-      "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
     },
     {
       "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
@@ -280,12 +285,7 @@
     {
       "title": "One killed in sword attack at Swedish school",
       "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "One person remains in a critical condition, while another suffered minor injuries in the attack."
-    },
-    {
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested."
     },
     {
       "title": "How Israel is expanding settlements in drive to reshape West Bank",
@@ -309,6 +309,16 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+      "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+      "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
+    },
+    {
+      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+      "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+      "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement."
+    },
     {
       "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
       "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
@@ -373,16 +383,6 @@
       "title": "Senator asks US government watchdog to review how feds use hacking tools",
       "link": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
       "summary": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans."
-    },
-    {
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months."
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
     }
   ],
   "Nature": [

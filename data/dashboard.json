@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Így nézett ki a NER utáni első augusztus 20.",
-      "summary": "Gripenek húztak el, új tiszteket avattak, majd tűzijátékkal ünnepelték az első \"NER utáni\" augusztus 20-át, kiemelve az esemény politikai és társadalmi kontextusát. Az esemény sorozatos rendezvényekkel, fényfestéssel és tömeges ünnepléssel zajlott országszerte.",
+      "title": "Az augusztus 20-i ünnep és a közmédia kihívásai",
+      "summary": "Az idei augusztus 20-i ünnepséget fényfestés, drónshow és tűzijáték kísérte, ám a közmédiát éles kritikák érték hitelessége miatt. A NER utáni első augusztus 20. politikai szempontból is kiemelt figyelmet kapott.",
       "importance": 5
     },
     {
-      "title": "Kiszáradóban a Velencei-tó: tragikus műholdkép mutatja a helyzetet",
-      "summary": "Műholdas felvételek tanúsága szerint a Velencei-tó állapota aggasztó, a tó jelentősen kiszáradt. Ez a természeti jelenség súlyos környezeti és gazdasági következményekkel járhat a térségre nézve.",
+      "title": "Magyar Péter politikai aktivitása és Zelenszkij meghívása Kijevbe",
+      "summary": "Magyar Péter országjárása és a Tisza Szigetek mozgalom újraindulása mellett Zelenszkij ukrán elnök Kijevbe hívta. Magyar jelezte, hogy a kampánynál is nehezebb feladat következik: megakadályozni egy 2026 előttivel azonos hatalom létrejöttét.",
+      "importance": 5
+    },
+    {
+      "title": "Lázár János lemondott képviselői mandátumáról",
+      "summary": "Lázár János bejelentette, hogy lemond országgyűlési képviselői mandátumáról. Orbán Viktor miniszterelnök kifejezte, hogy a jövőben is számít Lázár bajtársiasságára.",
       "importance": 4
     },
     {
-      "title": "Lázár János lemond a képviselői mandátumáról",
-      "summary": "Lázár János bejelentette, hogy lemond országgyűlési képviselői mandátumáról. A lépés jelentős politikai változást jelez, és Orbán Viktor miniszterelnök is reagált rá, jelezve, hogy a jövőben is számít Lázár bajtársiasságára.",
-      "importance": 5
-    },
-    {
-      "title": "Magyar Péter elnézést kért, újraindul a munka a Tisza Szigeteken",
-      "summary": "Magyar Péter bocsánatot kért, ha a Tisza Szigetek résztvevői magukra hagyva érezték magukat, majd bejelentette a projekt újraindulását. Kijelentette, hogy a kampánynál is nehezebb feladat következik: megakadályozni egy 2026 előttihez hasonló hatalom létrejöttét.",
+      "title": "Drámai a kiszáradó Velencei-tó állapota",
+      "summary": "Műholdfelvételeken is jól látható a Velencei-tó tragikus állapota, jelentős kiszáradást mutatva. A környezeti probléma súlyosan érinti a tó ökoszisztémáját és a környék élővilágát.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Izraeli miniszter akasztófát mutatott be palesztin elítéltek kivégzésére",
-      "summary": "Izrael belbiztonsági minisztere akasztófát mutatott be, amelyen terrorizmusért elítélt palesztinokat akar kivégeztetni. A lépés széleskörű nemzetközi felháborodást válthat ki, és tovább súlyosbíthatja a feszültséget a régióban.",
+      "title": "Izraeli miniszter kivégzési tervet mutatott be palesztin elítélteknek",
+      "summary": "Izrael szélsőjobbos belbiztonsági minisztere, Itamar Ben-Gvir egy akasztófát mutatott be, jelezve, hogy terrorizmusért elítélt palesztinokat akar kivégeztetni. A lépés éles nemzetközi kritikát válthat ki.",
       "importance": 5
     },
     {
-      "title": "Kijevet naponta kétszer is támadta az orosz hadsereg",
-      "summary": "Az orosz hadsereg egy napon belül másodjára is csapást mért Kijevre, Ukrajna fővárosára. Ez a támadássorozat a háború eszkalálódását jelzi, és tovább növeli a humanitárius válságot a térségben.",
+      "title": "Kijev ismételt orosz légicsapások célpontja",
+      "summary": "Az orosz hadsereg egy napon belül másodszor mért csapást Kijevre. Az ukrán főváros elleni ismétlődő támadások az orosz-ukrán háború folytatódó intenzitására utalnak.",
       "importance": 5
     },
     {
-      "title": "El Niño: a valaha volt legerősebb lehet az idei időjárási rendszer",
-      "summary": "A Met Office figyelmeztetése szerint az idei El Niño időjárási rendszer a valaha feljegyzett legerősebbek közé tartozhat. Ez globálisan súlyos időjárási anomáliákat, például extrém hőséget, aszályokat és árvizeket okozhat.",
-      "importance": 4
+      "title": "Az El Niño a valaha volt legerősebb lehet – figyelmeztet a Met Office",
+      "summary": "A brit meteorológiai szolgálat (Met Office) arra figyelmeztet, hogy az El Niño időjárási rendszer a \"valaha élt legerősebb\" lehet. Ez súlyos globális időjárási zavarokat okozhat szerte a világon.",
+      "importance": 5
     },
     {
-      "title": "Több ország is elítélte Izrael ciszjordániai telepbővítését",
-      "summary": "Az Egyesült Királyság, Franciaország, Németország, Olaszország és Kanada is elítélte Izrael ciszjordániai telepbővítési projektjét. A nemzetközi közösség aggodalmát fejezte ki a béketárgyalásokra és a regionális stabilitásra gyakorolt hatása miatt.",
+      "title": "Tusk a Nord Stream megrongálóinak felelősségre vonásáról",
+      "summary": "Donald Tusk, Lengyelország volt miniszterelnöke, azt kéri a németektől, hogy ne vonják felelősségre az Északi Áramlat gázvezetékek megrongálóit. Az ügy továbbra is feszültséget okoz az európai diplomáciában.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Robotaxik ezrei kapnak engedélyt Nevadában a Teslának, Ubernek és Waymónak",
-      "summary": "A Tesla, az Uber és a Waymo is engedélyt kapott robotaxik ezreinek üzemeltetésére Nevadában. Ez jelentős előrelépés az önvezető járművek elterjedésében és a jövőbeli közlekedés átalakulásában.",
+      "title": "Robotaxik ezreit engedélyezték Nevadában a Teslának, Ubernek és Waymonak",
+      "summary": "Nevada állam engedélyezte a Teslának, az Ubernek és a Waymonak robotaxik ezreinek üzemeltetését. Ez a döntés jelentős lépés az önvezető járművek szélesebb körű elterjedése felé.",
       "importance": 5
     },
     {
-      "title": "A ChatGPT már üzeneteket is küldhet az Apple Messages plug-injével",
-      "summary": "A ChatGPT egy új Apple Messages plug-in segítségével már képes szöveges üzeneteket küldeni. Ez tovább bővíti az AI mindennapi integrációját, és új lehetőségeket nyit meg a kommunikációban és a személyes asszisztenciában.",
+      "title": "Félmilliárd dolláros bevételi rátát ért el egy AI adat startup",
+      "summary": "A Micro1 nevű AI adatstartup 500 millió dolláros bruttó éves bevételi rátát ért el az AI képzési boom közepette. Ez a gyors növekedés rávilágít az AI iparágba áramló jelentős befektetésekre és a piaci igényekre.",
       "importance": 4
     },
     {
-      "title": "A pápa az UNESCO-nál: ki alakítja a mesterséges intelligencia jövőjét?",
-      "summary": "A pápa az UNESCO-nál tartott beszédében felvetette a kérdést, hogy kik alakítják a mesterséges intelligencia jövőjét és etikáját. Hangsúlyozta az AI fejlődésének irányításával kapcsolatos morális és társadalmi felelősséget.",
+      "title": "Az OpenAI előretör az üzleti felhasználók körében",
+      "summary": "Új adatok szerint az OpenAI jelentősen növeli piaci részesedését az üzleti felhasználók körében, megelőzve ezzel az Anthropicot. Ez a trend az AI versenytér gyors változását mutatja.",
       "importance": 4
     },
     {
-      "title": "13 milliárd dollárosra nőtt a Castelion hiperszonikus rakétákat gyártó cég értéke",
-      "summary": "A Castelion, a hiperszonikus rakéták tömeggyártásával foglalkozó vállalat 13 milliárd dollárosra növelte az értékét. Ez a védelmi technológiai szektor kiemelt fejlődését mutatja, és geopolitikai jelentőséggel bír.",
+      "title": "A ChatGPT mostantól SMS-t is küldhet Apple Messages bővítménnyel",
+      "summary": "A ChatGPT új Apple Messages plug-injének köszönhetően most már szöveges üzeneteket is küldhet a felhasználók nevében. Ez a funkció tovább bővíti az AI mindennapi kommunikációban betöltött szerepét.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A Moderna rákellenes vakcinája megállítja a melanoma visszatérését",
-      "summary": "A Moderna rákellenes vakcinája sikeresen megakadályozta a melanoma visszatérését, ami ígéretes áttörés lehet a személyre szabott rákkezelések terén. A kutatók most a további klinikai vizsgálatokra és a széleskörű alkalmazásra fókuszálnak.",
+      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
+      "summary": "Tudósok rejtett vulkánokat fedeztek fel a Holdon, ami arra enged következtetni, hogy bolygónk kísérőjének múltja sokkal aktívabb és turbulensebb volt, mint korábban gondolták. Ez a felfedezés új megvilágításba helyezi a Hold geológiai evolúcióját.",
       "importance": 5
     },
     {
-      "title": "Űrhajós mellény felezi a sugárzási expozíciót",
-      "summary": "Egy új fejlesztésű űrhajós mellény a felére csökkenti a sugárzási expozíciót, ami kulcsfontosságú a hosszú távú űrutazások és a Mars-küldetések biztonsága szempontjából. A technológia jelentősen javíthatja az űrhajósok egészségét és biztonságát.",
+      "title": "A Moderna melanóma elleni vakcinája megállíthatja a rák kiújulását",
+      "summary": "A Moderna által fejlesztett, személyre szabott rákvakcina ígéretes eredményeket mutatott a melanóma kiújulásának megakadályozásában. Ez a felfedezés forradalmasíthatja a rákkezelést és a személyre szabott orvoslás jövőjét.",
+      "importance": 5
+    },
+    {
+      "title": "Új űrruha felére csökkenti az űrhajósok sugárterhelését",
+      "summary": "Egy új fejlesztésű űrruha felére képes csökkenteni az űrhajósokat érő káros sugárterhelést. Ez a technológiai áttörés jelentősen növelheti a hosszútávú űrmissziók biztonságát és az űrhajósok egészségét.",
       "importance": 4
     },
     {
-      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
-      "summary": "Rejtett vulkánok felfedezése arra utal, hogy a Holdnak jóval turbulensebb múltja volt, mint azt korábban gondolták. Ez a felfedezés új betekintést nyújt a Hold geológiai fejlődésébe és a Naprendszer korai történetébe.",
-      "importance": 4
-    },
-    {
-      "title": "A biomedikai tanulmányok 90%-ában már megfigyelhető az AI segítsége",
-      "summary": "Megdöbbentő módon a biomedikai tanulmányok 90%-ában már megfigyelhetők az AI által nyújtott segítség jelei. Ez azt mutatja, hogy a mesterséges intelligencia mélyrehatóan átalakítja a tudományos kutatás folyamatait és hatékonyságát.",
+      "title": "A biomedicinális publikációk 90%-ában kimutatható az AI segítsége",
+      "summary": "Megdöbbentő adatok szerint a biomedicinális tudományos cikkek 90%-ában már kimutatható valamilyen mesterséges intelligencia által nyújtott segítség. Ez a jelenség fontos kérdéseket vet fel a tudományos integritással és a publikációs folyamatok etikai kereteivel kapcsolatban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A Fradi legyőzte a Trabzonsport az Európa-liga selejtezőjében",
-      "summary": "A Ferencváros sikerrel verte a Szaláhhal felálló Trabzonsport az Európa-liga selejtezőjében. Ezzel a magyar csapat nagy lépést tett a csoportkörbe jutás felé, és jelentős nemzetközi sikert aratott.",
-      "importance": 5
-    },
-    {
-      "title": "A Steroid Olimpiként hirdetett Enhanced Games 60 millió dolláros veszteséggel zárult",
-      "summary": "Az Enhanced Games, melyet \"steroid olimpiaként\" is emlegettek, 60 millió dolláros veszteséget könyvelt el. A technológia által támogatott, de erősen vitatott sportesemény koncepciója pénzügyi kudarcot vallott.",
-      "importance": 3
-    },
-    {
-      "title": "Biciklis ütött el egy polgármestert, aki ezután betiltotta a kerékpározást a városban",
-      "summary": "Egy olasz város polgármesterét elütötte egy kerékpáros, aminek következtében a polgármester betiltotta a kerékpározást a belvárosban. Az eset rávilágít a városi közlekedésben felmerülő feszültségekre és a szabályozás kihívásaira, érintve a kerékpározást, mint sporttevékenységet is.",
-      "importance": 3
-    },
-    {
-      "title": "Egészségügyi tippek: Hogyan kezdjünk wellness szokásokat költségmentesen?",
-      "summary": "Tippek és tanácsok arról, hogyan lehet alacsony vagy nulla költséggel bevezetni wellness szokásokat az életünkbe. Ez a cikk a fizikai aktivitás és az egészséges életmód fontosságára hívja fel a figyelmet, amelyek a sport alapjait képezik.",
-      "importance": 2
+      "title": "A Fradi győzelemmel kezdte az Európa-liga selejtezőjét",
+      "summary": "A Ferencváros a Szaláhhal felálló Trabzonspor ellen diadalmaskodott az Európa-liga selejtezőjében. Ez a győzelem fontos lépés a magyar csapat számára a nemzetközi kupasorozatban való továbbjutáshoz.",
+      "importance": 4
     }
   ]
 }

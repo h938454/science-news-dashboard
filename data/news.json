@@ -1,6 +1,26 @@
 {
   "Telex": [
     {
+      "title": "Autóbusz és személygépkocsi ütközött Debrecen mellett, egy ember meghalt",
+      "link": "https://telex.hu/belfold/2026/08/21/autobusz-es-szemelygepkocsi-utkozott-debrecen-mellett-egy-ember-meghalt",
+      "summary": "A buszon utazók közül nyolcan sérültek meg."
+    },
+    {
+      "title": "Autópályára leszálló kisgép ütközött egy gépjárművel Kanadában, meghalt a sofőr",
+      "link": "https://telex.hu/kulfold/2026/08/21/autopalyara-leszallo-kisgep-utkozott-egy-gepjarmuvel-kanadaban-meghalt-a-sofor",
+      "summary": "A mentők összesen 10 sérültet láttak el, közülük kettőt szállítottak kórházba"
+    },
+    {
+      "title": "Fényes nappal támadtak orosz drónok egy ukrajnai bevásárlóközpontra Zelenszkij szülővárosában",
+      "link": "https://telex.hu/kulfold/2026/08/21/nappal-tamadtak-orosz-dronok-egy-ukrajnai-bevasarlokozpontra",
+      "summary": "A támadásban többen meghaltak, gyerekek is megsérültek, az ukrán elnök válaszlépéseket ígért."
+    },
+    {
+      "title": "Még majdnem két év van az olimpiáig, de már hatmillió jegyet eladtak rá",
+      "link": "https://telex.hu/sport/2026/08/21/meg-majdnem-ket-ev-van-az-olimpiaig-de-mar-hatmillio-jegyet-eladtak-ra",
+      "summary": "A következő kört már 2027-re tervezik."
+    },
+    {
       "title": "Legyen még sok ilyen szép napod: 117 éves lett a világ legidősebb embere",
       "link": "https://telex.hu/kulfold/2026/08/21/117-eves-lett-a-vilag-legidosebb-embere",
       "summary": "Az idős nő 97 éves koráig vezetett és a százas éveiben is bridzselt."
@@ -54,26 +74,6 @@
       "title": "Törökország nemzetközi elfogatóparancsot adott ki Benjámin Netanjahu ellen",
       "link": "https://telex.hu/kulfold/2026/08/21/torokorszag-nemzetkozi-elfogatoparancsot-adott-ki-benjamin-netanjahu-ellen",
       "summary": "A török igazságügyi miniszter szerint Netanjahu ellen azért folyik eljárás, mert Izrael korábban feltartóztatta a Gázába tartó segélyflotilla aktivistáit."
-    },
-    {
-      "title": "1992-ben elmentek túrázni, most olvadt ki egy gleccserből a holttestük a svájci Alpokban",
-      "link": "https://telex.hu/kulfold/2026/08/21/1992-ben-elmentek-turazni-most-olvadt-ki-egy-gleccserbol-a-holttestuk-a-svajci-alpokban",
-      "summary": "A két túrázó eltűnése után több keresést is indítottak, de akkor csak egy hátizsákot találtak."
-    },
-    {
-      "title": "Közérdekű bejelentéssel fordul a Fidesz-frakció a Közbeszerzési Hatósághoz az augusztus 20-i rendezvények ügyében",
-      "link": "https://telex.hu/belfold/2026/08/21/fidesz-reakcio-augusztus-20-szervezes-kozbeszerzes-tisza-kormany",
-      "summary": "A Fidesz-frakció szerint a Tisza-kormány az egyik első jelentős közbeszerzését már ki is játszotta a saját rendezvényszervezőjének."
-    },
-    {
-      "title": "Karddal felfegyverkezett férfi sebesített meg több embert egy svédországi iskolában",
-      "link": "https://telex.hu/kulfold/2026/08/21/tobb-embert-megsebesitett-egy-karddal-tamado-ferfi-egy-svedorszagi-iskolaban",
-      "summary": "Az iskolát lezárták, a férfit pedig elfogták a rendőrök."
-    },
-    {
-      "title": "A közmédia elnézést kért, miután a Momentum helyreigazítást kért az M1-en elhangzottak miatt",
-      "link": "https://telex.hu/belfold/2026/08/21/helyreigazitast-ker-a-momentum-a-kozmediatol-mert-az-m1-en-azt-mondtak-a-partok-nem-tartanak-kulon-unnepet-huszadikan",
-      "summary": "Az M1 Híradóban azt mondták, a pártok nem tartanak külön ünnepet huszadikán, a Momentum viszont tartott külön rendezvényt, 15 órától, ezért kérték a helyreigazítást."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,21 @@
   ],
   "HVG": [
     {
+      "title": "Közel egymilliárd eurós gigabírságot kapott az Uber",
+      "link": "https://hvg.hu/gazdasag/20260821_kozel-egymilliard-euros-gigabirsagot-kapott-az-uber",
+      "summary": "Automatizáltan függeszthette fel a csalógyanús Uber-sofőrök fiókjait a cég. A vállalat ezt vitatja, és túlzónak tartja a bírságot."
+    },
+    {
+      "title": "Vitézy: Drágábban és rosszabbul üzemeltethetnék az M6-os autópályát Mészárosék Lázár János miatt",
+      "link": "https://hvg.hu/gazdasag/20260821_vitezy-david-m6-autopalya-meszaros-lazar",
+      "summary": "„Nem hagyjuk annyiban” – üzente a közlekedési és beruházási miniszter."
+    },
+    {
+      "title": "Százzal száguldhatott 40-es táblánál a sofőr, aki halálra gázolt egy biciklist Siófokon",
+      "link": "https://hvg.hu/itthon/20260821_halalos-gazolas-baleset-siofok-polgarmester",
+      "summary": "A sofőr ezzel jelentősen túllépte  az üdülő övezetben megengedett sebességet."
+    },
+    {
       "title": "Havasi Bertalan nem kapta meg a lelépési pénzét, feljelentést tett",
       "link": "https://hvg.hu/itthon/20260821_havasi-bertalan-nem-kapta-meg-a-lelepesi-penzet-feljelentest-tett",
       "summary": "A volt helyettes államtitkár hivatali visszaélést gyanít, mert nem kapta meg a járandósága aktuális részletét."
@@ -214,21 +229,6 @@
       "title": "Szoboszlai Dominik lett az egyik csapatkapitány-helyettes a Liverpoolnál",
       "link": "https://hvg.hu/sport/20260821_szoboszlai-dominik-lett-az-egyik-csapatkapitany-helyettes-a-liverpoolnal",
       "summary": "A Premier League új szezonjában a csapat először a Newcastle United ellen lép pályára."
-    },
-    {
-      "title": "Szellemkerékpárok miatt volt szükség szoftverfrissítésre a Mol Bubinál",
-      "link": "https://hvg.hu/itthon/20260821_mol-bubi-bkk-szoftverfrissitas-fejlesztes",
-      "summary": "Néhány hete annak, hogy megújult a fővárosban a közbringarendszer."
-    },
-    {
-      "title": "Spányik András orvos, pszichoterapeuta: Rendszeresen nekem kellett a rossz híreket közölnöm",
-      "link": "https://hvg.hu/360/20260821_hvg-spanyik-andras-pszichiater-hvg-portre-interju",
-      "summary": "A mentőzésből elege lett, nem volt hozzá eléggé hideg feje. Edzett volt, de nem volt felkészülve arra, amit a Szent János Kórház pszichiátriáján látott. Elavult szemléletűnek tartja a reformkísérletet a pszichiátria területén. Szerinte ezt egy szervezetfejlesztőre kellene bízni, nem pszichiáterekre, mert „belülről magunkat nem lehet megreformálni”. HVG-portré."
-    },
-    {
-      "title": "Rendőrök mentettek ki egy férfit egy negyedik emeleti lángoló lakásból Kazincbarcikán",
-      "link": "https://hvg.hu/itthon/20260821_rendorok-mentettek-ki-egy-ferfit-egy-langokban-allo-negyedik-emeleti-lakasbol-kazincbarcikan",
-      "summary": "Be kellett rúgni a lakás ajtaját, hogy be tudjon jutni a mentőcsapat."
     }
   ],
   "BBC": [
@@ -255,12 +255,12 @@
     {
       "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
       "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head."
+      "summary": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head."
     },
     {
-      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
-      "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
-      "summary": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism."
+      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
+      "link": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The temporary order will allow the $400m (£297m) to continue while the high court mulls a final decision on the case."
     },
     {
       "title": "Murder investigation after wildfire uncovers body in park",
@@ -268,9 +268,9 @@
       "summary": "A post-mortem examination revealed the remains belonged to a woman aged between 25 and 45."
     },
     {
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "link": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury."
+      "title": "Watch: UK marks first national day for victims and survivors of terrorism",
+      "link": "https://www.bbc.co.uk/news/videos/ckgdrl1zj8no?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors of terror attacks gathered today at the first annual National day for Victims and Survivors of terrorism."
     },
     {
       "title": "Ofcom investigating Sky News over Farage harassment claims",
@@ -288,14 +288,14 @@
       "summary": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat."
     },
     {
+      "title": "How Israel is expanding settlements in drive to reshape West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years."
+    },
+    {
       "title": "Steve Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
       "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
       "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day."
-    },
-    {
-      "title": "The town whose council wants migrants to move in",
-      "link": "https://www.bbc.co.uk/news/articles/ckgdpdk84d0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Greenock wants to attract immigrants to settle in the town and reverse its declining population."
     },
     {
       "title": "Wellness habits you can start now - at no (or little) cost",
@@ -309,6 +309,16 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+      "link": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+      "summary": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit."
+    },
+    {
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+    },
     {
       "title": "Last chance: Save up to $300 on your TechCrunch Disrupt 2026 ticket today",
       "link": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
@@ -373,16 +383,6 @@
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
-    },
-    {
-      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "link": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle [&#8230;]"
-    },
-    {
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is."
     }
   ],
   "Nature": [

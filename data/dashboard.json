@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Az augusztus 20-i ünnep és a közmédia kihívásai",
-      "summary": "Az idei augusztus 20-i ünnepséget fényfestés, drónshow és tűzijáték kísérte, ám a közmédiát éles kritikák érték hitelessége miatt. A NER utáni első augusztus 20. politikai szempontból is kiemelt figyelmet kapott.",
+      "title": "Zelenszkij meghívta Magyar Pétert Kijevbe",
+      "summary": "Volodimir Zelenszkij ukrán elnök levelet küldött Magyar Péternek, a Tisza Párt vezetőjének, és hivatalosan meghívta Kijevbe egy találkozóra. A meghívás célja valószínűleg a magyar-ukrán kapcsolatok megerősítése és a háborús helyzet megvitatása.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter politikai aktivitása és Zelenszkij meghívása Kijevbe",
-      "summary": "Magyar Péter országjárása és a Tisza Szigetek mozgalom újraindulása mellett Zelenszkij ukrán elnök Kijevbe hívta. Magyar jelezte, hogy a kampánynál is nehezebb feladat következik: megakadályozni egy 2026 előttivel azonos hatalom létrejöttét.",
+      "title": "Lázár János lemond a képviselői mandátumáról",
+      "summary": "Lázár János, a Fidesz egyik prominens politikusa, bejelentette, hogy lemond parlamenti képviselői mandátumáról. Orbán Viktor miniszterelnök kifejezte, hogy továbbra is számít Lázár bajtársiasságára a jövőben.",
       "importance": 5
     },
     {
-      "title": "Lázár János lemondott képviselői mandátumáról",
-      "summary": "Lázár János bejelentette, hogy lemond országgyűlési képviselői mandátumáról. Orbán Viktor miniszterelnök kifejezte, hogy a jövőben is számít Lázár bajtársiasságára.",
+      "title": "Műholdas fotón látszik a kiszáradó Velencei-tó tragikus állapota",
+      "summary": "Műholdas felvételek tanúskodnak a Velencei-tó drámai kiszáradásáról, ami súlyos környezeti problémát jelent Magyarországon. A tó vizének jelentős csökkenése aggodalomra ad okot a helyi ökoszisztéma és a turizmus szempontjából.",
       "importance": 4
     },
     {
-      "title": "Drámai a kiszáradó Velencei-tó állapota",
-      "summary": "Műholdfelvételeken is jól látható a Velencei-tó tragikus állapota, jelentős kiszáradást mutatva. A környezeti probléma súlyosan érinti a tó ökoszisztémáját és a környék élővilágát.",
+      "title": "Autós üldözés Veszprém megyében, lövöldözéssel és rendőrsérülésekkel",
+      "summary": "Rendőrségi autós üldözés zajlott Veszprém megyében, Tihany közelében, melynek során lövések is dördültek, és több rendőr megsérült. Az eset során egy gyanúsított járművet próbáltak megállítani.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Izraeli miniszter kivégzési tervet mutatott be palesztin elítélteknek",
-      "summary": "Izrael szélsőjobbos belbiztonsági minisztere, Itamar Ben-Gvir egy akasztófát mutatott be, jelezve, hogy terrorizmusért elítélt palesztinokat akar kivégeztetni. A lépés éles nemzetközi kritikát válthat ki.",
+      "title": "Másodszor is csapást mért Kijevre az orosz hadsereg egy napon belül",
+      "summary": "Az orosz erők egy napon belül másodszor is támadást indítottak Kijev ellen, ami az ukrán főváros elleni fokozódó agresszióra utal. Az esemény tovább növeli a feszültséget és a háborús pusztítást a régióban.",
       "importance": 5
     },
     {
-      "title": "Kijev ismételt orosz légicsapások célpontja",
-      "summary": "Az orosz hadsereg egy napon belül másodszor mért csapást Kijevre. Az ukrán főváros elleni ismétlődő támadások az orosz-ukrán háború folytatódó intenzitására utalnak.",
+      "title": "Izraeli miniszter akasztófát mutatott be palesztin elítéltek kivégzésére",
+      "summary": "Izrael szélsőjobbos belbiztonsági minisztere bemutatott egy akasztófát, jelezve szándékát terrorizmusért elítélt palesztinok kivégzésére. Ez a lépés erős nemzetközi elítélést és aggodalmat vált ki az emberi jogok és a regionális feszültségek miatt.",
       "importance": 5
     },
     {
-      "title": "Az El Niño a valaha volt legerősebb lehet – figyelmeztet a Met Office",
-      "summary": "A brit meteorológiai szolgálat (Met Office) arra figyelmeztet, hogy az El Niño időjárási rendszer a \"valaha élt legerősebb\" lehet. Ez súlyos globális időjárási zavarokat okozhat szerte a világon.",
+      "title": "Imran Khan volt pakisztáni miniszterelnök visszakerült börtönbe",
+      "summary": "Imran Khan volt pakisztáni miniszterelnök kórházi vizsgálat után visszakerült a börtönbe, ahol büntetését tölti. Az esemény ismét rávilágít Pakisztán instabil politikai helyzetére és a kulcsfontosságú vezetővel kapcsolatos jogi kihívásokra.",
       "importance": 5
     },
     {
-      "title": "Tusk a Nord Stream megrongálóinak felelősségre vonásáról",
-      "summary": "Donald Tusk, Lengyelország volt miniszterelnöke, azt kéri a németektől, hogy ne vonják felelősségre az Északi Áramlat gázvezetékek megrongálóit. Az ügy továbbra is feszültséget okoz az európai diplomáciában.",
+      "title": "Gyújtogató gyilkost végeztek ki Japánban",
+      "summary": "Japánban végrehajtották egy gyújtogató gyilkos halálos ítéletét, aki egy pacsinkós játéktermet gyújtott fel. Az eset ismét felhívja a figyelmet Japán halálbüntetésre vonatkozó álláspontjára és igazságszolgáltatási rendszerére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Robotaxik ezreit engedélyezték Nevadában a Teslának, Ubernek és Waymonak",
-      "summary": "Nevada állam engedélyezte a Teslának, az Ubernek és a Waymonak robotaxik ezreinek üzemeltetését. Ez a döntés jelentős lépés az önvezető járművek szélesebb körű elterjedése felé.",
+      "title": "Engedélyt kaptak robotaxik üzemeltetésére Nevadában a Tesla, Uber és Waymo",
+      "summary": "A Tesla, az Uber és a Waymo engedélyt kapott több ezer robotaxi üzemeltetésére Nevadában, ami jelentős előrelépés az önvezető autók elterjedésében. Ez a döntés felgyorsíthatja az autonóm járművek integrációját a mindennapi közlekedésbe.",
       "importance": 5
     },
     {
-      "title": "Félmilliárd dolláros bevételi rátát ért el egy AI adat startup",
-      "summary": "A Micro1 nevű AI adatstartup 500 millió dolláros bruttó éves bevételi rátát ért el az AI képzési boom közepette. Ez a gyors növekedés rávilágít az AI iparágba áramló jelentős befektetésekre és a piaci igényekre.",
-      "importance": 4
+      "title": "13 milliárd dollárra értékelik a hiperszonikus rakétákat gyártó Casteliont",
+      "summary": "A Castelion nevű vállalat 13 milliárd dolláros értékelést ért el hiperszonikus rakéták tömeggyártásával. Ez a jelentős értéknövekedés rávilágít a védelmi technológia és a modern fegyverfejlesztés gyors ütemére.",
+      "importance": 5
     },
     {
-      "title": "Az OpenAI előretör az üzleti felhasználók körében",
-      "summary": "Új adatok szerint az OpenAI jelentősen növeli piaci részesedését az üzleti felhasználók körében, megelőzve ezzel az Anthropicot. Ez a trend az AI versenytér gyors változását mutatja.",
-      "importance": 4
+      "title": "A pápa az UNESCO-nál az MI jövőjének formálásáról kérdez",
+      "summary": "A pápa az UNESCO-nál tartott beszédében felvetette a mesterséges intelligencia jövőjének alakításával kapcsolatos kérdéseket, hangsúlyozva az etikai és társadalmi felelősséget. Ez a magas szintű beavatkozás kiemeli az MI globális hatásait és a szabályozás szükségességét.",
+      "importance": 5
     },
     {
-      "title": "A ChatGPT mostantól SMS-t is küldhet Apple Messages bővítménnyel",
-      "summary": "A ChatGPT új Apple Messages plug-injének köszönhetően most már szöveges üzeneteket is küldhet a felhasználók nevében. Ez a funkció tovább bővíti az AI mindennapi kommunikációban betöltött szerepét.",
+      "title": "A ChatGPT immár szöveges üzeneteket is küldhet Apple Messages bővítménnyel",
+      "summary": "A ChatGPT mostantól képes szöveges üzeneteket küldeni az Apple Messages bővítmény segítségével, bővítve ezzel funkcionalitását. Ez a fejlesztés új lehetőségeket nyit a felhasználók számára a kommunikáció automatizálásában.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
-      "summary": "Tudósok rejtett vulkánokat fedeztek fel a Holdon, ami arra enged következtetni, hogy bolygónk kísérőjének múltja sokkal aktívabb és turbulensebb volt, mint korábban gondolták. Ez a felfedezés új megvilágításba helyezi a Hold geológiai evolúcióját.",
+      "title": "Az El Niño időjárási rendszer az 'eddigi legerősebb' lehet",
+      "summary": "A Met Office figyelmeztetése szerint az El Niño időjárási rendszer a valaha mért legerősebb lehet, globális klímára gyakorolt súlyos következményekkel. Ez a jelenség szélsőséges időjárási eseményeket, például aszályokat és árvizeket okozhat világszerte.",
       "importance": 5
     },
     {
-      "title": "A Moderna melanóma elleni vakcinája megállíthatja a rák kiújulását",
-      "summary": "A Moderna által fejlesztett, személyre szabott rákvakcina ígéretes eredményeket mutatott a melanóma kiújulásának megakadályozásában. Ez a felfedezés forradalmasíthatja a rákkezelést és a személyre szabott orvoslás jövőjét.",
+      "title": "A Moderna melanóma elleni vakcinája megakadályozza a kiújulást",
+      "summary": "A Moderna által fejlesztett rákvakcina sikeresen megakadályozta a melanóma kiújulását klinikai vizsgálatok során. Ez a breakthrough ígéretes jövőt vetít előre a személyre szabott rákkezelések és a rák elleni küzdelem terén.",
       "importance": 5
     },
     {
-      "title": "Új űrruha felére csökkenti az űrhajósok sugárterhelését",
-      "summary": "Egy új fejlesztésű űrruha felére képes csökkenteni az űrhajósokat érő káros sugárterhelést. Ez a technológiai áttörés jelentősen növelheti a hosszútávú űrmissziók biztonságát és az űrhajósok egészségét.",
-      "importance": 4
+      "title": "Félre csökkenti az űrhajósok sugárzási expozícióját egy új mellény",
+      "summary": "Egy új fejlesztésű mellény a felére csökkenti az űrhajósok sugárzási expozícióját, ami kulcsfontosságú az űrben tartózkodók biztonságának növeléséhez. Ez a technológia elengedhetetlen a hosszú távú űrküldetések, például a Marsra utazás tervezéséhez.",
+      "importance": 5
     },
     {
-      "title": "A biomedicinális publikációk 90%-ában kimutatható az AI segítsége",
-      "summary": "Megdöbbentő adatok szerint a biomedicinális tudományos cikkek 90%-ában már kimutatható valamilyen mesterséges intelligencia által nyújtott segítség. Ez a jelenség fontos kérdéseket vet fel a tudományos integritással és a publikációs folyamatok etikai kereteivel kapcsolatban.",
-      "importance": 4
+      "title": "Az NSF az elmúlt négy évtized legalacsonyabb számú új támogatását ítéli oda",
+      "summary": "A Nemzeti Tudományos Alapítvány (NSF) az elmúlt négy évtizedben a legkevesebb új kutatási támogatást fogja kiosztani, ami jelentős hatással lehet a tudományos kutatásra. Ez a döntés komoly aggodalmakat vet fel a jövőbeli tudományos felfedezések finanszírozásával kapcsolatban.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "A Fradi győzelemmel kezdte az Európa-liga selejtezőjét",
-      "summary": "A Ferencváros a Szaláhhal felálló Trabzonspor ellen diadalmaskodott az Európa-liga selejtezőjében. Ez a győzelem fontos lépés a magyar csapat számára a nemzetközi kupasorozatban való továbbjutáshoz.",
+      "title": "A Fradi legyőzte a Trabzonsport az Európa-liga selejtezőjében",
+      "summary": "A Ferencvárosi Torna Club sikeresen legyőzte a török Trabzonsport az Európa-liga selejtezőjében, továbbjutva a következő fordulóba. Ez a győzelem kiemelkedő eredmény a magyar labdarúgás számára a nemzetközi porondon.",
+      "importance": 5
+    },
+    {
+      "title": "A sportban burjánzó zűrös ügyek, Tisza-kormány reakció nélkül",
+      "summary": "A magyar sportéletben számos problémás ügy merült fel, ám a Tisza-kormány irányítása alatt eddig még egyetlen feljelentésig sem jutottak el. Ez a helyzet aggodalmakat vet fel a sport integritásával és az elszámoltathatósággal kapcsolatban.",
       "importance": 4
+    },
+    {
+      "title": "Hatalmas veszteséget termelt a 'doppingolás ünnepe', az Enhanced Games",
+      "summary": "Az \"Enhanced Games\", a technológia által támogatott, doppingolást engedélyező sportesemény 60 millió dolláros veszteséget könyvelt el. A kudarc rávilágít a kísérleti sportversenyek pénzügyi kockázataira és etikai kihívásaira.",
+      "importance": 4
+    },
+    {
+      "title": "Olasz polgármester tiltotta ki a kerékpárokat a belvárosból baleset után",
+      "summary": "Egy olasz polgármester kitiltotta a kerékpárokat a belvárosból, miután őt magát elütötték biciklivel. Ez a gyors reakció egy helyi közlekedési balesetre, bár vitatott, rávilágít a városi kerékpározás biztonsági kérdéseire.",
+      "importance": 3
     }
   ]
 }

@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "A tározó, amely mindig holnap épül meg, és milliárdokat spórolna Magyarországnak",
+      "link": "https://telex.hu/g7/kozelet/2026/08/22/szivattyus-tarozo-vizenergia-energiatarolas-predikaloszek-paks-sporolas-energiavalsag",
+      "summary": "Évtizedek óta szó van róla, hogy szükség lenne Magyarországon az áramtermelés és -fogyasztás napi kisimítására szolgáló szivattyús tározós erőműre, ám a projekt eddig sosem jutott messzire."
+    },
+    {
       "title": "A Mi Hazánk feljelentést tesz az augusztus 20-i rendezvények kamunak tűnő közbeszerzése miatt",
       "link": "https://telex.hu/belfold/2026/08/21/toroczkai-laszlo-mi-hazank-augusztus-20-rendezvenyek-kozbeszerzes",
       "summary": "„Ennyit az urambátyámrendszer állítólagos lebontásáról” – írta posztjában Toroczkai László."
@@ -69,11 +74,6 @@
       "title": "Az államok közötti bizalom kora véget ért, és ennek súlyos gazdasági következményei vannak",
       "link": "https://telex.hu/g7/vilag/2026/08/21/geopilitika-versenges-befektetesek-tokepiac-bizonytalansag",
       "summary": "A geopolitika már nemcsak időszakos piaci ingadozásokat kiváltó tényező, hanem kritikus makrogazdasági változó, befektetési szempontból ugyanúgy pillanatonként vizsgálandó, mint a várható infláció."
-    },
-    {
-      "title": "A Balaton után Budapesten is divat lett gázolajjal megmérgezni a fákat",
-      "link": "https://telex.hu/techtud/2026/08/21/gazolaj-fa-mergezes-lebukas-fakivagas-rendorseg-xi-kerulet-budapest-fokert",
-      "summary": "Miközben a Főkert és a kerületek parkfenntartói minden energiájukat arra fordítják, hogyan lehetne a brutális aszályban megmenteni a zöld területeket Budapesten, mások 50-60 éves fákat gyilkolnak le közterületen. A gázolajas módszerrel eddig jellemzően a Balaton környékén intézték el a lakosok, hogy a kilátást akadályozó fák eltűnjenek az útból."
     }
   ],
   "Portfolio": [],
@@ -233,6 +233,11 @@
   ],
   "BBC": [
     {
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "summary": "New 50% levy on $20bn of Canadian imports comes into force after last minute breakdown in trade talks."
+    },
+    {
       "title": "Girl, 6, dies days after Shoreham sea tragedy killed three family members",
       "link": "https://www.bbc.co.uk/news/articles/c629y0kx8gyo?at_medium=RSS&at_campaign=rss",
       "summary": "Saja El-Khawas is the fourth person to die after her family got into difficulty in water off West Sussex."
@@ -248,19 +253,14 @@
       "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     },
     {
-      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall."
-    },
-    {
       "title": "Burnham economic adviser O'Neill rules out government job",
       "link": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
       "summary": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser."
     },
     {
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "summary": "Negotiations to finalise a deal between the US and Canada are going down to the wire ahead of a Friday night deadline."
+      "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall."
     },
     {
       "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",

@@ -1,14 +1,19 @@
 {
   "Telex": [
     {
+      "title": "Elkezdték visszakapcsolni a Paksi Atomerőmű harmadik turbináját",
+      "link": "https://telex.hu/belfold/2026/08/22/magyar-peter-paksi-atomeromu-3-blokk",
+      "summary": "Magyar Péter élőben jelentkezett be az erőműből, megmutatta, hogyan kezdődött meg a paksi 3-as blokk 6-os turbinájának indítása."
+    },
+    {
       "title": "Múlt a jelenben: a mészárlás, ami évtizedek óta borzolja a lengyel–ukrán kapcsolatokat",
       "link": "https://telex.hu/velemeny/2026/08/22/ukrajna-lengyelorszag-upa-volhinia-meszarlas-nagy-artur-tortenesz",
       "summary": "Az elmúlt hetekben komoly diplomáciai feszültséget okozott Lengyelországgal, hogy Zelenszkij az UPA hősei kitüntető címet adományozta egy ukrán katonai alakulatnak. A következmények mértéke érezhetően váratlanul érte az ukrán vezetést is, holott az éles reakcióra számítani lehetett. Az UPA, Bandera és a volhíniai tragédia háttere."
     },
     {
-      "title": "A debreceni CATL akkumulátorgyár dolgozói szenvedtek buszbalesetet péntek este",
+      "title": "A debreceni CATL akkumulátorgyár kínai dolgozói szenvedtek buszbalesetet péntek este",
       "link": "https://telex.hu/belfold/2026/08/22/autobusz-es-szemelygepkocsi-utkozott-debrecen-mellett-catl-debrecen",
-      "summary": "A buszon hatvannyolcan utaztak, a buszvezető egy manőverrel elkerülte a frontális ütközést."
+      "summary": "A buszon hatvannyolcan utaztak. A jármű az útmenti árkot végigszántva a bokrok között állt meg, a vezető ezzel a manőverrel kerülte el a frontális ütközést az Audival."
     },
     {
       "title": "Macron: Oroszország terrorral igyekszik megtörni Ukrajnát, de ez nem fog sikerülni",
@@ -69,11 +74,6 @@
       "title": "A könyv, ami kitépi a szívet, megtapossa, visszatömi az olvasó testébe és évek óta könnyek között idézik a TikTokon",
       "link": "https://telex.hu/karakter/konyvespolc/2026/08/22/hanya-yanagihara-egy-kis-elet-tiktok-traumairodalom",
       "summary": "A barátság ábrázolása mellett a gyerek- és felnőttkori bántalmazásra összpontosító Egy kis élet felszántotta az internetet és a hazai eladási listákat is vezeti. Utánajártunk, mik a gótikus sodrású, felforgató regény titkai."
-    },
-    {
-      "title": "17 éves lány halt meg a pénteki svédországi kardos támadásban",
-      "link": "https://telex.hu/kulfold/2026/08/22/svedorszag-kard-tamadas-17-eves-aldozat",
-      "summary": "Egy 18 éves férfi egy svéd iskolában támadott rá a diákokra, egy ember meghalt, két ember súlyosan, egy pedig könnyebben sérült meg."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,36 @@
   ],
   "HVG": [
     {
+      "title": "Kihúzták az ötös lottó nyerőszámait",
+      "link": "https://hvg.hu/itthon/20260822_kihuztak-az-otos-lotto-nyeroszamait",
+      "summary": "A négyeshez szomszédokat volt érdemes bejelölni."
+    },
+    {
+      "title": "Újraindul a termelés a paksi 3-as blokkban, Magyar Péter élőben mutatja a turbina visszakapcsolását",
+      "link": "https://hvg.hu/itthon/20260822_ujraindul-a-termeles-a-3-as-blokkban-magyar-peter-eloben-mutatja-a-turbina-visszakapcsolasat",
+      "summary": "A kormányfő szerint szerdán már teljes kapacitáson üzemelhet az erőmű."
+    },
+    {
+      "title": "Fájdalom nélkül, egy különleges tapasszal készülhet a jövő tetoválása",
+      "link": "https://hvg.hu/tudomany/20260822_tetovalas-mikrotus-tapasszal-cipherx",
+      "summary": "Lassan már az megy ritkaságszámba, ha egy fiatalnak a bőrén nincs semmiféle díszítés. A tetoválás és a megítélése sokat változott az elmúlt időkben: már messze nem a szubkultúrák önkifejezési formája, hanem a mainstream kultúra szerves része. Nem változott viszont, hogy több-kevesebb fájdalommal járó eljárásról van szó. Egy londoni startup azonban szakított ezzel a gyakorlattal, tapaszos, mikrotűs módszere fájdalommentes „varrást” ígér."
+    },
+    {
+      "title": "Hableány-tragédia: meghalt az a kapitány, akit azzal vádoltak, hogy nem segített a bajba jutottakon",
+      "link": "https://hvg.hu/itthon/20260822_hableany-tragedia-viking-idun-kapitany-meghalt-ugyeszseg-birosag",
+      "summary": "A férfira felfüggesztett börtönbüntetést kért az ügyészség, így hazatérhetett Ukrajnába. A bíróság bekérte a halotti anyakönyvi kivonatát."
+    },
+    {
+      "title": "A debreceni akkugyár vendégmunkásait szállította az Ebesnél balesetet szenvedett busz",
+      "link": "https://hvg.hu/itthon/20260822_akkugyar-ebes-halalos-baleset-vendegmunkasok",
+      "summary": "A balesetben érintett autó sofőrje meghalt."
+    },
+    {
+      "title": "A mohácsi tragédia példa arra, hogyan nem szabad csatát vívni",
+      "link": "https://hvg.hu/360/20260822_hvg-mohacsi-csata-1526-ii-lajos-tomori-pal-brodarics-istvan-torok-hodoltsag",
+      "summary": "Még a pontos helyét sem lehet tudni, az áldozatok számáról nem is szólva. A mohácsi csatához európai viszonylatban jókora hadsereg állt fel, ám a csapatok jó része késett, nehezen találtak fővezért, és a hadurak vitáztak a követendő stratégián. Mindez máig feldolgozatlan tragédiával végződött. A cikk a csata 500. évfordulója alkalmából készült sorozatunk 2. része."
+    },
+    {
       "title": "Veszprém fideszes polgármestere is csatlakozott Navracsicsék mozgalmához",
       "link": "https://hvg.hu/itthon/20260822_veszprem-porga-gyula-csatlakozas-navracsics-mozgalom",
       "summary": "Porga Gyula szerint le kell vonni a múlt tanulságait és nyitottnak kell lenni mások meghallgatására."
@@ -199,39 +229,14 @@
       "title": "A kelet-közép-európai NATO-tagállamok részben átvállalnák a területükön lévő amerikai bázisok finanszírozását",
       "link": "https://hvg.hu/gazdasag/20260822_nato-usa-kelet-kozep-europa-amerikai-katonak-bazisok-finanszirozas",
       "summary": "A régió országai számára az oroszok elrettentése szempontjából kulcsfontosságú az amerikai katonai jelenlét és nem akarják, hogy Donald Trump spórolásra hivatkozva szüntesse meg az ottani bázisokat."
-    },
-    {
-      "title": "Hideg és fürkésző tekintetétől mindenki megremegett, de Rákosi Mátyáshoz nem ért fel: milyen ember volt Gerő Ernő, a magyar sztálinizmus egyik atyja?",
-      "link": "https://hvg.hu/360/20260822_gero-erno-konyv-barath-magdolna-kommunizmus-moszkva-spanyol-polgarhaboru-rakosi-hvg",
-      "summary": "Rideg, ellenszenves személyiség lehetett „Tovaris Gere”, akinek vonásait a pályájáról szóló, eddigi legteljesebb kötet próbálja megrajzolni. A visszaemlékezés-morzsákból az is kiderül, hogyan viselte a hiú politikus, hogy nem ő lett a kommunista párt első embere."
-    },
-    {
-      "title": "Ecet, citrom vagy szódabikarbóna? Mivel érdemes valójában tisztítani a mosogatógépet?",
-      "link": "https://hvg.hu/tudomany/20260822_mosogatogep-tisztitasa-hatekony-modszerek",
-      "summary": "Az interneten népszerű házi praktikák nem mindig tesznek jót a mosogatógépnek: a nem megfelelő tisztítószerek és eszközök hosszú távon károsíthatják a készülék alkatrészeit – figyelmeztetnek szakértők."
-    },
-    {
-      "title": "„Két évem van eldönteni, mi legyen a mellemmel, maradjon vagy menjen” – Kolonits Klára a rákbetegségéről",
-      "link": "https://hvg.hu/elet/20260822_kolonits-klara-a-rakbetegsegerol",
-      "summary": "Az operaénekesnőre további egy évig fenntartó kezelés vár."
-    },
-    {
-      "title": "Momentum: valótlanságot állított a közmédia híradója az induló adásban, elnézést kértek",
-      "link": "https://hvg.hu/itthon/20260822_valotlansagot-allitott-kozmedia-hiradoja-momentum-elnezest-kertek",
-      "summary": "A Momentum helyreigazítást kért, a Híradó „korrektül reagált”."
-    },
-    {
-      "title": "Kilépett a Kutyapártból Sándor Balázs, aki Tiborcz hoteleiből vitt vécépapírt kórházakba",
-      "link": "https://hvg.hu/itthon/20260822_mkkp-kilepes-sandor-balazs-ajka-onkormanyzati-kepviselo",
-      "summary": "Sándor korábban a párt országos politikai koordinátoraként dolgozott."
-    },
-    {
-      "title": "Magyar Péter Paksról: Már ma újraindulhat a termelés a 3-as blokkban",
-      "link": "https://hvg.hu/itthon/20260822_magyar-peter-paksrol-mar-ma-ujraindulhat-a-termeles-a-3-as-blokkban",
-      "summary": "A miniszterelnök szombat este élőben jelentkezik Paksról."
     }
   ],
   "BBC": [
+    {
+      "title": "Video appears to show police chase minutes before fatal crash",
+      "link": "https://www.bbc.co.uk/news/videos/c4gxgpqzdz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Several police vehicles are seen chasing a car just three minutes before the crash on the A66 near Middlesbrough."
+    },
     {
       "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -248,11 +253,6 @@
       "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
     },
     {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-      "summary": "They will not be working royals when they come back. So what could they be doing instead?"
-    },
-    {
       "title": "Watch: Moment humanoid robot beats Usain Bolt's 100m record",
       "link": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
       "summary": "The robot ran the distance in 9.39 seconds at the World Humanoid Robot Games in Beijing."
@@ -263,6 +263,11 @@
       "summary": "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
     },
     {
+      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "summary": "They will not be working royals when they come back. So what could they be doing instead?"
+    },
+    {
       "title": "GTA 6 leaks - a nightmare or a blip for the biggest video game of the year?",
       "link": "https://www.bbc.co.uk/news/articles/c07r3183gn3o?at_medium=RSS&at_campaign=rss",
       "summary": "Clips appearing to show the highly anticipated game have appeared online, but will they really hurt it?"
@@ -270,17 +275,12 @@
     {
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences."
+      "summary": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
     },
     {
       "title": "Drugs at their fingertips, intense pressure: Why child stars fall into addiction",
       "link": "https://www.bbc.co.uk/news/articles/cq56x3910jwo?at_medium=RSS&at_campaign=rss",
       "summary": "Experts told the BBC the pressures of childhood stardom can put actors at an unusually higher risk of substance abuse issues."
-    },
-    {
-      "title": "These bookshops let Chinese readers question their country, now the doors are closing",
-      "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world."
     },
     {
       "title": "Fourteen killed in strike on Myanmar monastery",
@@ -385,81 +385,5 @@
       "summary": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?"
     }
   ],
-  "Nature": [
-    {
-      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-      "link": "https://www.nature.com/articles/d41586-026-02626-x",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02626-x\">doi:10.1038/d41586-026-02626-x</a></p>Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet."
-    },
-    {
-      "title": "Earth-shaking thunder probes underground geology",
-      "link": "https://www.nature.com/articles/d41586-026-02596-0",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02596-0\">doi:10.1038/d41586-026-02596-0</a></p>Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity."
-    },
-    {
-      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-      "link": "https://www.nature.com/articles/d41586-026-02566-6",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02566-6\">doi:10.1038/d41586-026-02566-6</a></p>Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity."
-    },
-    {
-      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-      "link": "https://www.nature.com/articles/d41586-026-02352-4",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02352-4\">doi:10.1038/d41586-026-02352-4</a></p>The case is the latest example of a scientific workhorse being misused in experiments."
-    },
-    {
-      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-      "link": "https://www.nature.com/articles/s41586-026-11043-z",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11043-z\">doi:10.1038/s41586-026-11043-z</a></p>Dialkyl ether synthesis through heteroatom homolytic substitution"
-    },
-    {
-      "title": "Hidden volcanoes hint at Moon’s turbulent past",
-      "link": "https://www.nature.com/articles/d41586-026-02555-9",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02555-9\">doi:10.1038/d41586-026-02555-9</a></p>A pair of massive shield volcanoes have been pinpointed by lunar spacecraft."
-    },
-    {
-      "title": "To shield the fetus, link a protein to these drugs",
-      "link": "https://www.nature.com/articles/d41586-026-02553-x",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02553-x\">doi:10.1038/d41586-026-02553-x</a></p>Adding albumin to popular antibody-based medicines helps to block their passage through the placenta."
-    },
-    {
-      "title": "Astronaut vest cuts radiation exposure in half",
-      "link": "https://www.nature.com/articles/d41586-026-02556-8",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02556-8\">doi:10.1038/d41586-026-02556-8</a></p>Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms."
-    },
-    {
-      "title": "These trees are making air quality in cities worse",
-      "link": "https://www.nature.com/articles/d41586-026-02586-2",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02586-2\">doi:10.1038/d41586-026-02586-2</a></p>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem."
-    },
-    {
-      "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-      "link": "https://www.nature.com/articles/d41586-026-02574-6",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02574-6\">doi:10.1038/d41586-026-02574-6</a></p>The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project."
-    },
-    {
-      "title": "Moderna cancer vaccine stops melanoma returning: what’s next for personalized treatments?",
-      "link": "https://www.nature.com/articles/d41586-026-02612-3",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02612-3\">doi:10.1038/d41586-026-02612-3</a></p>Promising trial results suggest cancer vaccines work and could be used to target other tumours."
-    },
-    {
-      "title": "Daily briefing: People older than 100 have more cancer-killing cells",
-      "link": "https://www.nature.com/articles/d41586-026-02617-y",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02617-y\">doi:10.1038/d41586-026-02617-y</a></p>Killer T cells might help people to live to extraordinarily old ages. Plus, the longest-lived brain organoids so far and how mass genome-screening programmes for newborns might work."
-    },
-    {
-      "title": "Investors’ sneak peak: can this AI tool spot the science that will lead to patents?",
-      "link": "https://www.nature.com/articles/d41586-026-02549-7",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02549-7\">doi:10.1038/d41586-026-02549-7</a></p>The approach could speed up investment decisions, but researchers say it has flaws."
-    },
-    {
-      "title": "Staggering 90% of biomedical papers now show signs of AI help",
-      "link": "https://www.nature.com/articles/d41586-026-02551-z",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02551-z\">doi:10.1038/d41586-026-02551-z</a></p>The figure, which is much higher than previous estimates of Large Language Model use, is for papers published in December and archived in PubMed"
-    },
-    {
-      "title": "Researcher, heal thyself: meet the scientists studying their own diseases",
-      "link": "https://www.nature.com/articles/d41586-026-02455-y",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02455-y\">doi:10.1038/d41586-026-02455-y</a></p>Studying a condition after being diagnosed with it can be rewarding but also presents some ethical and psychological challenges."
-    }
-  ]
+  "Nature": []
 }

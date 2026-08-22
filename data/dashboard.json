@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Lázár János egyetlen tollvonással 100 milliárd forintot faragott a büdzséből",
-      "summary": "Lázár János miniszter döntésével 100 milliárd forintos megszorítást hajtott végre, amely jelentős hatással lehet az érintett területekre. A lépés számos szakmai és politikai vitát váltott ki.",
+      "title": "Lázár János: egy tollvonás, mínusz 100 milliárd forint",
+      "summary": "Lázár János miniszter egyetlen tollvonással mintegy 100 milliárd forintos költségvetési mínuszt okozott. Ez a döntés komoly gazdasági következményekkel járhat az államháztartásra.",
       "importance": 5
     },
     {
-      "title": "Lúgos szennyezés szivárog az almásfüzitői vörösiszap-tározóból",
-      "summary": "Az Átlátszó értesülései szerint veszélyes, lúgos szennyezőanyagok szivárognak az almásfüzitői vörösiszap-tározónál. Ez súlyos környezeti kockázatot jelent a térség élővilágára és a lakosságra nézve.",
-      "importance": 5
-    },
-    {
-      "title": "Vitézy Dávid szerint drágábban és rosszabbul üzemeltetnék az M6-os autópályát Mészárosék",
-      "summary": "Vitézy Dávid bírálta Lázár János javaslatát, miszerint Mészáros Lőrinc érdekeltségébe tartozó cégek üzemeltetnék az M6-os autópályát. Szerinte ez drágább és rosszabb szolgáltatáshoz vezetne az állam számára.",
+      "title": "Átlátszó: lúgos szennyezés szivárog az almásfüzitői vörösiszap-tározónál",
+      "summary": "Az Átlátszó riportja szerint lúgos szennyezés szivárog az almásfüzitői vörösiszap-tározónál, ami komoly környezeti kockázatot jelent. A helyzet súlyos környezetvédelmi problémákra hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Feljelentést tett a Mi Hazánk az augusztus 20-i rendezvények közbeszerzése miatt",
-      "summary": "A Mi Hazánk mozgalom feljelentést tett az augusztus 20-i ünnepi rendezvényekkel kapcsolatos közbeszerzések gyanús körülményei miatt. A párt szerint \"kamunak tűnő\" pályázatokról van szó, amelyek mögött esetleges visszaélések állhatnak.",
+      "title": "Gyanús közbeszerzés az augusztus 20-i ünnepségek körül, hatósági bejelentések érkeztek",
+      "summary": "A Mi Hazánk és a Fidesz is feljelentést tesz az augusztus 20-i rendezvények gyanús közbeszerzései miatt, amelyek kamu tendereknek tűnnek. Az ügy korrupciós aggodalmakat vet fel.",
       "importance": 4
+    },
+    {
+      "title": "Havasi Bertalan feljelentést tett, mert nem kapta meg a felmentési illetménye havi összegét",
+      "summary": "Havasi Bertalan feljelentést tett, mert állítása szerint nem kapta meg időben a felmentési illetménye teljes összegét. Az eset rávilágít a közszféra kilépési juttatásainak körüli problémákra.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Brutális orosz dróntámadás ért egy ukrajnai bevásárlóközpontot",
-      "summary": "Orosz drónok mértek csapást egy ukrajnai bevásárlóközpontra, Zelenszkij elnök szülővárosában, Krivij Rihben. A támadásban legalább 15 ember meghalt és sokan megsebesültek.",
+      "title": "Brutális orosz dróntámadás ért egy ukrajnai bevásárlóközpontot Zelenszkij szülővárosában",
+      "summary": "Fényes nappal támadtak orosz drónok egy ukrajnai bevásárlóközpontra Zelenszkij elnök szülővárosában. A támadásban több ember meghalt, köztük gyerekek is megsérültek.",
       "importance": 5
     },
     {
-      "title": "Véget ért az államok közötti bizalom korszaka, súlyos gazdasági következményekkel",
-      "summary": "Az elemzők szerint az államok közötti bizalom jelentősen megromlott világszerte, ami komoly gazdasági kihívások elé állítja a globális kereskedelmet és együttműködést. Ez a tendencia hosszú távon befolyásolhatja a nemzetközi kapcsolatokat és a stabilitást.",
+      "title": "Az államok közötti bizalom kora véget ért, és ennek súlyos gazdasági következményei vannak",
+      "summary": "A geopolitikai feszültségek miatt az államok közötti bizalom kora véget ért, ami komoly gazdasági következményekkel jár. Ez a trend globális szinten befolyásolja a kereskedelmet és a nemzetközi együttműködést.",
       "importance": 5
     },
     {
-      "title": "Elfogtak egy búvárt az Északi Áramlat elleni robbantás ügyében",
-      "summary": "Egy búvárt tartóztattak le, akit az Északi Áramlat gázvezetékek felrobbantásával vádolnak. Az elfogásra egy filmforgatás során került sor, amely éppen a robbantás eseményeit dolgozta volna fel.",
+      "title": "Az Északi Áramlat felrobbantásával vádolt búvárt fogtak el egy filmforgatáson",
+      "summary": "Egy, az Északi Áramlat gázvezetékek felrobbantásával vádolt búvárt tartóztattak le egy erről szóló film forgatásán. Az eset tovább bonyolítja a nemzetközi nyomozást a kritikus infrastruktúra elleni támadás ügyében.",
       "importance": 4
     },
     {
-      "title": "Izrael bővíti településeit a megszállt Ciszjordániában",
-      "summary": "Izrael tovább terjeszkedik a ciszjordániai településeivel, ami újabb feszültséget generál a palesztinokkal és a nemzetközi közösséggel. Ez a lépés jelentősen megváltoztathatja a térség demográfiai és politikai viszonyait.",
+      "title": "Karddal támadt gyerekekre egy férfi egy svéd iskolában, több sérült",
+      "summary": "Egy férfi karddal rontott be egy svéd iskolába, ahol gyerekekre támadt, mielőtt lábon lőtték volna. Többen megsérültek az incidens során, mely komoly aggodalmakat vet fel a közbiztonsággal kapcsolatban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple több száz dolgozóját bocsátja el a Siri és a Vision Pro csapataiból",
-      "summary": "Az Apple állítólag több száz alkalmazottjától válik meg, főként a Siri mesterséges intelligencia és a Vision Pro kiterjesztett valóság fejlesztésével foglalkozó részlegeknél. Ez a lépés a cég prioritásainak átrendeződésére utalhat.",
+      "title": "Az Apple átalakította működését az EU-s szabályozás miatt",
+      "summary": "Az Apple az Európai Unió nyomására átalakítja működését és piaci gyakorlatát. Ez a lépés jelentős változást hozhat a digitális piacon és más technológiai óriások számára is precedenst teremthet.",
       "importance": 5
     },
     {
-      "title": "Egy AI alapú könyvelő startup, a Rillet, 48 óra alatt vált unikornissá",
-      "summary": "A mesterséges intelligenciára épülő könyvelési startup, a Rillet, mindössze 48 óra alatt 100 millió dolláros befektetést szerzett, ezzel elérve az 1 milliárd dolláros cégértékelést. Ez a gyors növekedés rávilágít az AI-megoldások iránti hatalmas piaci igényre.",
-      "importance": 5
-    },
-    {
-      "title": "Az Apple változtat működésén az EU digitális piacokról szóló törvénye miatt",
-      "summary": "Az Apple kénytelen volt jelentősen átalakítani szolgáltatásait és alkalmazásboltjának működését az Európai Unió digitális piacokról szóló törvényének (DMA) megfelelően. Ez a szabályozás célja a nagyobb verseny biztosítása a nagy technológiai vállalatokkal szemben.",
+      "title": "AI könyvelő startup, a Rillet, 100 millió dolláros befektetést kapott, egyszarvúvá vált 48 óra alatt",
+      "summary": "Az AI alapú könyvelő startup, a Rillet, mindössze 48 óra alatt szerzett 100 millió dolláros befektetést, ezzel egyszarvúvá válva. Ez az esemény jól mutatja a mesterséges intelligencia startupok iránti hatalmas befektetői érdeklődést.",
       "importance": 4
     },
     {
-      "title": "A TikTok 400 millió dolláros büntetést fizet gyermekek adatvédelmének megsértése miatt",
-      "summary": "A TikTok 400 millió dolláros összegű egyezséget kötött az Egyesült Államokban egy gyermekek adatvédelmét megsértő perben. Ez az egyik legnagyobb ilyen jellegű kifizetés, amely rávilágít a digitális platformok felelősségére a kiskorú felhasználók védelmében.",
+      "title": "A TikTok 400 millió dolláros egyezségre jutott gyermekek adatvédelmi perében az Egyesült Államokban",
+      "summary": "A TikTok 400 millió dolláros egyezségre jutott az Egyesült Államokban egy gyermekek adatvédelmével kapcsolatos perben. Ez az egyik legnagyobb ilyen jellegű megállapodás, amely a közösségi média óriások felelősségére hívja fel a figyelmet.",
       "importance": 4
+    },
+    {
+      "title": "Az Apple több száz dolgozót bocsát el a Siri és Vision Pro csapataiból",
+      "summary": "Az Apple állítólag több száz alkalmazottat bocsát el a Siri és a Vision Pro fejlesztőcsapataiból. Ez a lépés jelzi a cég átszervezési törekvéseit és egyes projektek új irányait.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A Moderna rákellenes vakcinája megakadályozza a melanoma kiújulását",
-      "summary": "A Moderna által kifejlesztett személyre szabott rákellenes vakcina ígéretes eredményeket mutatott a melanoma kiújulásának megakadályozásában. Ez a felfedezés forradalmasíthatja a rákkezelést és a személyre szabott terápiák fejlesztését.",
+      "title": "A Moderna rákellenes vakcinája megállítja a melanoma visszatérését",
+      "summary": "A Moderna rákellenes vakcinája ígéretes eredményeket mutat a melanoma visszatérésének megakadályozásában. Ez a felfedezés forradalmasíthatja a személyre szabott rákkezeléseket és új reményt ad a betegeknek.",
       "importance": 5
     },
     {
-      "title": "Az új űrruha mellény felére csökkenti az űrhajósok sugárterhelését",
-      "summary": "Egy innovatív, új mellényt fejlesztettek ki, amely az űrhajósok sugárterhelését akár felére is képes csökkenteni az űrben. Ez a technológia kulcsfontosságú lehet a hosszabb távú űrküldetések, például a Marsra utazás során.",
-      "importance": 5
-    },
-    {
-      "title": "A biomedicinai tanulmányok 90%-a már AI segítséggel készül",
-      "summary": "Megdöbbentő adatok szerint a biomedicinai kutatások 90%-ában már kimutatható a mesterséges intelligencia használata. Ez felveti az AI szerepének és etikai vonatkozásainak kérdését a tudományos publikálásban.",
+      "title": "Az űrben sugárzást csökkentő mellényt fejlesztettek ki asztronautáknak",
+      "summary": "Új fejlesztésű asztronauta mellény a felére csökkenti a sugárterhelést az űrben. Ez a technológiai áttörés kulcsfontosságú a hosszú távú űrküldetések biztonságához és az űrhajósok egészségének megőrzéséhez.",
       "importance": 4
     },
     {
-      "title": "Új narcolepsia elleni gyógyszer nyithat utat új agyi terápiáknak",
-      "summary": "Egy újonnan fejlesztett narcolepsia elleni gyógyszer nem csak a betegség kezelésében ígéretes, hanem potenciálisan új utakat nyithat meg más neurológiai betegségek terápiáinak kutatásában is. Ez áttörést jelenthet az agyi rendellenességek megértésében és kezelésében.",
+      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
+      "summary": "Tudósok rejtett vulkánokat fedeztek fel a Holdon, amelyek annak viharos, geológiailag aktív múltjára utalnak. Ez a felfedezés új betekintést nyújt égi kísérőnk fejlődésébe és szerkezetébe.",
       "importance": 4
+    },
+    {
+      "title": "A 100 év feletti emberek több rákellenes sejttel rendelkeznek",
+      "summary": "Egy tanulmány szerint a 100 év feletti emberek szervezete több rákellenes sejttel rendelkezik. Ez a felfedezés kulcsfontosságú lehet az öregedés és a rák elleni küzdelem megértésében, új terápiás utakat nyitva.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Elrajtol a világ legerősebb futballbajnoksága, a Premier League",
-      "summary": "Nagy várakozásokkal indul útjára a Premier League szezonja, ahol számos edzőváltás és megújult keret várja a szurkolókat. Az izgalmas küzdelmek ígérete mellett a címvédő stabilitása is téma.",
+      "title": "Indul a világ legerősebb futball-bajnoksága, a Premier League",
+      "summary": "Nagy edzőcserékkel és felforgatott keretekkel, de stabil címvédővel veszi kezdetét a világ legerősebb futball-bajnoksága, a Premier League. A szurkolók izgalmas szezonra számíthatnak, tele fordulatokkal és rangadókkal.",
       "importance": 5
     },
     {
-      "title": "Már hatmillió jegyet eladtak a következő olimpiára, két évvel a kezdés előtt",
-      "summary": "A következő olimpiai játékokra már most hatmillió jegy talált gazdára, noha még majdnem két év van a megnyitóig. Ez az óriási érdeklődés a sportesemény iránti globális lelkesedést mutatja.",
+      "title": "Paredest és Molinát eltiltották a vb döntő utáni verekedés miatt",
+      "summary": "Paredest tíz, Molinát pedig hét mérkőzésre tiltották el a labdarúgó-világbajnokság döntője után kitört verekedés miatt. A büntetés az argentin játékosok agresszív viselkedése miatt született, precedenst teremtve a sportszerűség terén.",
       "importance": 4
     },
     {
-      "title": "Eliltották Paredest és Molinát a vb döntő utáni agresszió miatt",
-      "summary": "Az argentin labdarúgókat, Leandro Paredest és Nahuel Molinát súlyos eltiltással büntették a világbajnoki döntő utáni agresszív viselkedésük miatt. Paredes 10, Molina 7 meccsre szóló tilalmat kapott.",
+      "title": "Még két év van az olimpiáig, de már hatmillió jegyet eladtak rá",
+      "summary": "Bár még majdnem két év van a következő olimpiáig, máris hatmillió jegyet értékesítettek a sporteseményre. Ez hatalmas érdeklődést mutat a világ legnagyobb sportünnepe iránt, előrevetítve a várható nézőszámot.",
       "importance": 4
     },
     {
-      "title": "Russell eljegyzési gyűrű nélkül nyerte a holland F1 sprintidőmérőt",
-      "summary": "George Russell, a Formula 1-es pilóta, különleges módon készült a holland sprintidőmérőre: levette eljegyzési gyűrűjét, majd megnyerte a versenyt. Ez a kis gesztus is hozzájárult a futam körüli sztorihoz.",
+      "title": "Russell eljegyzési gyűrűjét lerakva nyerte meg a holland sprintidőmérőt",
+      "summary": "George Russell Forma-1-es pilóta az eljegyzési gyűrűjét lerakva nyerte meg a holland sprintidőmérőt. Az apró, de különleges gesztus a sportvilágban is feltűnést keltett, humoros és személyes adalékkal fűszerezve a versenyt.",
       "importance": 3
     }
   ]

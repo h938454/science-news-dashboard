@@ -1,14 +1,34 @@
 {
   "Telex": [
     {
+      "title": "Verstappen nagyot balesetezett Hollandiában, Norris sorban másodszor nyert, de Alonsóé a legnagyobb feltámadás",
+      "link": "https://telex.hu/sport/2026/08/23/forma-1-f1-holland-nagydij-zandvoort-eso",
+      "summary": "A 45 éves Alonso nagyot javulva lett pontszerző, Norris a két Mercedest előzve volt a leggyorsabb Zandvoortban."
+    },
+    {
+      "title": "Bejelentették, visszavonták, megint bejelentették: a Magyarok Világszövetsége is tanácsot adhat a Vagyonvédelmi Hivatal vezetőinek kiválasztásában",
+      "link": "https://telex.hu/belfold/2026/08/23/magyarok-vilagszovetsege-nvvh-vagyonvedelmi-hivatal",
+      "summary": "Volt egy kis kavarodás a bejelentésről szóló kommunikációban, a Tisza-frakció először azt írta, hiba történt, a Magyarok Világszövetsége nem vesz részt a tanácsadásban. Végül kiderült, hogy mégis, a Mi Hazánk dobta be a nevüket."
+    },
+    {
+      "title": "Magyar Péter arra kéri a magyarországi cégeket, hogy szálljanak be az október 23-i ünnepség finanszírozásába",
+      "link": "https://telex.hu/belfold/2026/08/23/magyar-peter-1956-os-megemlekezes-70-evfordulo",
+      "summary": "A kis- és nagyvállalatoktól, sőt, az itthon működő külföldi cégektől is várják a felajánlásokat."
+    },
+    {
+      "title": "Soha nem látott mértékben kezdtek el süllyedni a londoni házak a forró és száraz nyár miatt",
+      "link": "https://telex.hu/kulfold/2026/08/23/soha-nem-latott-mertekben-kezdtek-el-sullyedni-a-londoni-hazak-a-forro-es-szaraz-nyar-miatt",
+      "summary": "Westminster, Kensington és Chelsea környéke a leginkább veszélyeztetettek."
+    },
+    {
       "title": "Magyar Péter: Aki nem látja a bajt, az hazudik vagy rosszat akar az országnak",
       "link": "https://telex.hu/belfold/2026/08/23/paks-duna-fenekkuszob-epitkezes-magyar-peter",
       "summary": "Magyar Péter a kormány több tagjával együtt bejárást tartott a sajtónak a Duna paksi szakaszánál zajló építkezésen. A fenékküszöb biztosítja a vízállást az atomerőmű hűtéséhez, de hosszú távon olyan megoldásokra van szükség, amelyeket az előző kormány elmulasztott előkészíteni."
     },
     {
-      "title": "A TASZ, a Helsinki és a K-Monitor is besegít a Vagyonvédelmi Hivatal vezetőinek kiválasztásában",
+      "title": "A TASZ, a Helsinki, a K-Monitor mellett a Magyarok Világszövetsége is besegít a Vagyonvédelmi Hivatal kialakításában",
       "link": "https://telex.hu/belfold/2026/08/23/nvvh-elnok-kivalasztasi-folyamat-meghivott-civilek",
-      "summary": "Hantosi István első, azóta törölt posztjában még szerepelt a Magyarok Világszövetsége is a felkért civilek között, később jelezték, hogy tévedés történt."
+      "summary": "A Magyarok Világszövetségét a Mi Hazánk javasolta, a Fidesz és a KDNP nem vettek részt a folyamatban."
     },
     {
       "title": "Drónelhárító rendszereket telepítenének Bukarest két repülőterére",
@@ -54,32 +74,22 @@
       "title": "Ezer kilométeres hatótáv négyliteres átlagfogyasztással: a BYD plug-in hibrid kisautója reális áron nyújt sokat",
       "link": "https://telex.hu/techtud/2026/08/23/byd-dolphin-g-dm-i-plug-in-hibrid-autoteszt",
       "summary": "Bár kisautónak számít, akár egy család számára is elég tágas a Dolphin G DM-i, ami apró hibái mellett is erős ajánlat a kategóriájában."
-    },
-    {
-      "title": "Zelenszkij szerint Oroszország 300 ezer új katonát tervez mobilizálni ősszel",
-      "link": "https://telex.hu/kulfold/2026/08/23/zelenszkij-valasztas-ukrajna-haboru-veszely",
-      "summary": "Zelenszkij mandátuma 2024 májusában lejárt, de az ukrán törvények szerint hadiállapotban nem lehet választásokat tartani, most is erre figyelmeztetett."
-    },
-    {
-      "title": "Többet fizetne Románia az amerikai katonai jelenlétért, hogy Trump ne vonjon ki újabb csapatokat",
-      "link": "https://telex.hu/transtelex/2026/08/23/romania-nato-amerikai-katonak-trump-csapatkivonas-koltsegek",
-      "summary": "Washington decemberig felülvizsgálja európai katonai jelenlétét. A keleti NATO-tagok attól tartanak, hogy jelentős csökkentés jöhet, ezért nagyobb részt vállalnának az amerikai bázisok költségeiből."
-    },
-    {
-      "title": "Serena Williams és Carlos Alcaraz összeáll egy vegyes párosra a US Openen",
-      "link": "https://telex.hu/sport/2026/08/23/serena-williams-carlos-alcaraz-tenisz-us-open-vegyes-paros",
-      "summary": "A páros számokban: 21 év korkülönbség és összesen 30 Grand Slam-győzelem."
-    },
-    {
-      "title": "Új 1956-os emlékhelyet szeretne a forradalom 70. évfordulójára Magyar Péter",
-      "link": "https://telex.hu/belfold/2026/08/23/uj-1956-os-emlekhely-magyar-peter-vallakozok-felajanlasai",
-      "summary": "A miniszterelnök ehhez a paksi felajánlásokhoz hasonlóan a magyar vállalkozók önkéntes hozzájárulását kérné."
     }
   ],
   "Portfolio": [],
   "444": [
     {
-      "title": "Mégsem segít a TASZ és a K-Monitor mellett a szélsőjobbal tüntető Magyarok Világszövetsége a vagyonvisszaszerző hivatal felállításában",
+      "title": "A Tisza mindenkit meg akar hallgatni, de a Közhang legfontosabb kérdése az lesz, hogy hallgat-e majd rá valaki",
+      "link": "https://444.hu/2026/08/23/a-tisza-mindenkit-meg-akar-hallgatni-de-a-kozhang-legfontosabb-kerdese-az-lesz-hogy-hallgat-e-majd-ra-valaki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Volt, ahol az emberek pénzről dönthettek, máshol közparkokról, erőszakos esetek bejelentési mechanizmusairól, kerékpárutakról vagy a taxisok szabályrendszereiről. A Tisza a magyarokat bevonó Közhangja más utat választ: összegyűjti és AI-val rendszerezi a véleményeket, de nem ad döntési jogot. Ettől még lehet jelentősége – csak nem mindegy, mi történik azzal, amit az emberek mondanak."
+    },
+    {
+      "title": "A norvégok jövőre is több mint 9 milliárd dollárral támogatják Ukrajnát",
+      "link": "https://444.hu/2026/08/23/a-norvegok-jovore-is-tobb-mint-9-milliard-dollarral-tamogatjak-ukrajnat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A pénzt humanitárius és katonai célokra is felhasználhatják Kijevben. A norvég miniszterelnök szerint a támogatással Európa biztonságába ruháznak be."
+    },
+    {
+      "title": "A TASZ és a K-Monitor mellett a Mi Hazánk kérésére a Magyarok Világszövetsége is segítheti a vagyonvisszaszerző hivatal felállítását",
       "link": "https://444.hu/2026/08/23/a-tasz-es-a-k-monitor-mellet-a-szelsojobbal-tunteto-magyarok-vilagszovetsege-is-segit-a-vagyonvisszaszerzo-hivatal-felallitasaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A tiszás Hantosi István eredeti posztja alapján jogvédők mellett az oltásellenességgel új életre éledő fura jobbos szervezetet is bevonták volna a vagyonvisszaszerző hivatal vezetőinek kiválasztásába."
     },
@@ -142,19 +152,29 @@
       "title": "Irán megfenyegette szomszédait: aki beszáll Amerika „gazdasági háborújába&quot;, ellenségnek számít",
       "link": "https://444.hu/2026/08/23/iran-megfenyegette-szomszedait-aki-beszall-amerika-gazdasagi-haborujaba-ellensegnek-szamit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Célpontként nevezte meg a térségben működő amerikai olajipari és egyéb vállalatokat."
-    },
-    {
-      "title": "Az aszály, a gyújtogatások és az intézményrendszer együttes erővel pusztítják az ózdi erdőket",
-      "link": "https://444.hu/2026/08/23/az-aszaly-a-gyujtogatasok-es-az-intezmenyrendszer-egyuttes-erovel-pusztitjak-az-ozdi-erdoket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Fotók a már augusztusban füstfelhőket eregető ózdi természetről."
-    },
-    {
-      "title": "A nyár, amikor az AI lejött a képernyőről és bemászott a kirakatokba",
-      "link": "https://444.hu/2026/08/23/kkv-slop-summer-amitol-minden-megint-ugyanolyan-az-ai-lejott-a-kepernyorol-es-bemaszott-a-kirakatokba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A nagy energiaigényű képek az egyik legforróbb nyáron árasztottak el mindent. A zöldségesstandoktól a sarki hamburgerezőig szinte lehetetlen őket kikerülni. Esztétikájuk az átlagra épül, olyannyira, hogy lassan visszasírjuk a szeretve gyűlölt amatőr trasht. A kiskereskedőknek viszont rengeteg időt és munkát spórolnak meg. Egy óbudai kisboltban a kulisszák mögé is benéztünk, hogyan lesz néhány promptból kész termékhirdetés."
     }
   ],
   "HVG": [
+    {
+      "title": "Elvitték a hatoslottón a több mint egymilliárdos főnyereményt",
+      "link": "https://hvg.hu/itthon/20260823_elvittek-a-hatoslotton-a-tobb-mint-egymilliardos-fonyeremenyt",
+      "summary": "Mutatjuk, melyik számokkal lehetett nyerni."
+    },
+    {
+      "title": "Videón a baleset: csúnyán összetörte a kocsiját a Holland Nagydíjon Max Verstappen",
+      "link": "https://hvg.hu/sport/20260823_holland-nagydij-baleset-max-verstappen-red-bull-piros-zaszlo-video",
+      "summary": "A piros zászló miatt nagyjából fél órára félbeszakították a futamot."
+    },
+    {
+      "title": "Előbb csak meleg lesz a héten, aztán ismét kánikula",
+      "link": "https://hvg.hu/elet/20260823_elobb-csak-meleg-lesz-a-heten-aztan-ismet-kanikula",
+      "summary": "Zápor és zivatar előbb kedden, aztán a hét vége felé jöhet."
+    },
+    {
+      "title": "Bayreuthban napirenden van Wagner antiszemitizmusa és az is, hogy Németországban 1945 óta nem voltak ekkora veszélyben a zsidók",
+      "link": "https://hvg.hu/360/20260823_hvg-antiszemitizmus-bayreuthi-fesztival-richard-wagner-oroksege-gustav-mahler-pavel-haas-michel-friedman",
+      "summary": "A bayreuthi Wagner-ünnepségek nem csupán a zeneszerző Richard Wagner akkori zsidógyűlöletével, hanem a mai, egyre növekvő antiszemitizmussal való szembenézésre is alkalmat kínálnak."
+    },
     {
       "title": "„Ez nem szenzáció, hanem természetes” - üzente a kisfiú életét megmentő motoros",
       "link": "https://hvg.hu/itthon/20260823_ez-nem-szenzacio-hanem-termeszetes-uzente-a-kisfiu-eletet-megmento-motoros",
@@ -178,7 +198,7 @@
     {
       "title": "Már jövő héten megválaszthatják a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vezetőit",
       "link": "https://hvg.hu/itthon/20260823_mar-jovo-heten-megvalaszthatjak-a-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-vezetoit",
-      "summary": "A kiválasztási folyamatban három civil szervezet vehet részt: a TASZ, a Helsinki és a K-Monitor."
+      "summary": "A kiválasztási folyamatban négy civil szervezet vehet részt: a TASZ, a Helsinki, a K-Monitor és a Magyarok Világszövetsége."
     },
     {
       "title": "Erling Haaland megszabadult a hosszú szőke fürtjeitől, buzzcutra váltott a norvég csatár – videó",
@@ -209,29 +229,14 @@
       "title": "Novemberben jelenik meg Panyi Szabolcs oknyomozó könyve a magyarországi orosz titkosszolgálati befolyásról",
       "link": "https://hvg.hu/itthon/20260823_panyi-szabolcs-uj-konyve-tiz-ev-oknyomozasa-a-magyarorszagi-orosz-titkosszolgalati-befolyasrol",
       "summary": "Az újságíró azt mondja, olyan információk kerültek a birtokába, amelyek nyomták a vállát, ezért megkönnyebbülés, hogy most megjelenik a könyv."
-    },
-    {
-      "title": "Elhunyt Bunny Levine, a Szívek Szállodája és a La La Land színésznője",
-      "link": "https://hvg.hu/kultura/20260823_elhunyt-bunny-levine-a-szivek-szallodaja-es-a-la-la-land-szinesznoje",
-      "summary": "A színésznő 97 éves korában békésen, álmában hunyt el kaliforniai otthonában."
-    },
-    {
-      "title": "Elromlott a motor, sodródni kezdett Ruszin-Szendi és Kapitány csónakja a paksi bejáráson",
-      "link": "https://hvg.hu/elet/20260823_ruszin-szendi-es-kapitany-csonakmotorja-elromlott-es-elsodrodtak-a-paksi-bejarason",
-      "summary": "„Nem őszinte a honvédelmi miniszter mosolya” - élcelődött a partra szállás után a miniszterelnök."
-    },
-    {
-      "title": "Ez történt: Az ukrán hírszerzés olyat talált egy orosz rakétában, aminek nagyon nem szabadna ott lennie",
-      "link": "https://hvg.hu/tudomany/20260823_meteorit-aminosav-orosz-raketa-nvidia-chip-el-nino-forrosag-b737-elterites-mars-fotok",
-      "summary": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit."
-    },
-    {
-      "title": "Kína rakétakilövése jelezte, hogy a csendes-óceáni szigetekért folyó versengésnek nincs vége",
-      "link": "https://hvg.hu/360/20260823_hvg-ausztralia-kina-verseny-szigetek-haditengereszet-diplomacia-kereskedelem",
-      "summary": "Aktív diplomáciával igyekszik megfékezni Peking nyomulását a csendes-óceáni régióban Ausztrália, de ez nem lehet túl vehemens, mert Kína a legnagyobb kereskedelmi partnere."
     }
   ],
   "BBC": [
+    {
+      "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+      "link": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officers had been pursing a car before it went the wrong way down a dual carriageway."
+    },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -301,14 +306,14 @@
       "title": "Wicker Man director's sons complete their late father's film trilogy",
       "link": "https://www.bbc.co.uk/news/articles/cj36kv62g7yo?at_medium=RSS&at_campaign=rss",
       "summary": "The final film in the folk horror trilogy brings closure to the saga as well as its creator's family after more than 50 years."
-    },
-    {
-      "title": "Golf brand apologises for advert that shows woman being pushed over",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached for a man's golf club."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
+    },
     {
       "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
       "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
@@ -378,11 +383,6 @@
       "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
       "link": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
       "summary": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives."
-    },
-    {
-      "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
-      "link": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
-      "summary": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement."
     }
   ],
   "Nature": [

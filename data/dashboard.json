@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Újraindul a Paksi Atomerőmű harmadik turbinája",
-      "summary": "A Paksi Atomerőmű harmadik turbináját megkezdték visszakapcsolni, várhatóan szerdára éri el teljes teljesítményét, ezzel biztosítva az ország energiaellátását. A blokk meghibásodás miatt állt le, most sikeresen újraindult a termelés.",
+      "title": "Újraindult a Paksi Atomerőmű harmadik turbinája",
+      "summary": "A Paksi Atomerőmű harmadik blokkjának turbináját sikeresen visszakapcsolták a hálózatba, és szerdára érheti el teljes teljesítményét. Az esemény kulcsfontosságú az ország energiaellátásának stabilitása szempontjából.",
       "importance": 5
     },
     {
-      "title": "Baleset Debrecenben: a CATL akkumulátorgyár dolgozóit szállító busz szenvedett balesetet",
-      "summary": "Péntek este buszbaleset történt Ebesnél, amely a debreceni CATL akkumulátorgyár kínai vendégmunkásait szállította. A baleset körülményeit vizsgálják, több sérült is van.",
+      "title": "Buszbalesetet szenvedtek a debreceni CATL gyár vendégmunkásai",
+      "summary": "Péntek este súlyos buszbaleset történt Ebesnél, amelyben a debreceni CATL akkumulátorgyár kínai vendégmunkásait szállító jármű ütközött. A balesetben többen megsérültek, a mentőket nagy erőkkel riasztották a helyszínre.",
       "importance": 4
     },
     {
-      "title": "Siófoki gázolás: Felmerül a kirívó gyorshajtás büntetőjogi felelőssége",
-      "summary": "Térfigyelő kamera rögzítette a siófoki halálos kerékpáros-gázolást. Az eset kapcsán Vitézy Dávid kiemelte, hogy a kirívó gyorshajtás baleset nélkül is súlyos jogi következményekkel járhat, felhívva a figyelmet a közlekedésbiztonságra.",
-      "importance": 4
+      "title": "Halálos gázolás Siófokon: kamera rögzítette a balesetet",
+      "summary": "Térfigyelő kamera rögzítette a siófoki halálos kerékpáros-gázolást, melynek körülményeit az igazságügyi szakértők is vizsgálják. Az eset rávilágít a kirívó gyorshajtás lehetséges büntetőjogi következményeire még baleset nélkül is.",
+      "importance": 3
     },
     {
-      "title": "Meghalt a Hableány-tragédia vádlott kapitánya",
-      "summary": "Elhunyt a Hableány sétahajó tragédiájának ukrán kapitánya, akit azzal vádoltak, hogy nem nyújtott segítséget a bajba jutottaknak a 2019-es dunai baleset után. Halála lezárhatja a büntetőper egy szakaszát.",
+      "title": "Meghalt a Hableány-tragédia ukrán kapitánya",
+      "summary": "Elhunyt a Hableány sétahajó tragédiájáért felelősnek tartott ukrán kapitány, akit azzal vádoltak, hogy nem segített a bajba jutottakon. Halála új fordulatot hozhat az évek óta tartó jogi eljárásban.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Macron szerint Oroszország terrorral próbálja megtörni Ukrajnát",
-      "summary": "Emmanuel Macron francia elnök kijelentette, hogy Oroszország terrortaktikával próbálja megtörni Ukrajnát, de ez nem fog sikerülni. Eközben Zelenszkij elnök elítélte a bevásárlóközpont elleni orosz támadást, miközben a mentőcsapatok a romok alatt kutatnak.",
+      "title": "Macron: Oroszország terrorral próbálja megtörni Ukrajnát",
+      "summary": "Emmanuel Macron francia elnök kijelentette, hogy Oroszország terrorral igyekszik megtörni Ukrajnát, de ez a próbálkozás kudarcra van ítélve. A nemzetközi közösség továbbra is kiáll Ukrajna szuverenitása mellett.",
       "importance": 5
     },
     {
-      "title": "Kína gazdasági térnyerése Európában: aggodalmak a kulcsiparágakban",
-      "summary": "Európa tehetetlenül nézi, ahogy Kína kiszorítja a kontinenst a legfontosabb iparágakból, ami a formálódó új gazdasági világrendben komoly kihívásokat vet fel. Orbán Krisztián elemzése szerint a tendencia hosszú távú következményekkel járhat.",
-      "importance": 5
-    },
-    {
-      "title": "Hét halálos áldozata van egy angliai autóbalesetnek",
-      "summary": "Hét ember vesztette életét egy súlyos autóbalesetben Angliában, köztük két rendőr is. Az incidens, melyet valószínűleg egy forgalommal szemben haladó jármű okozott, felhívja a figyelmet a közúti biztonság fontosságára.",
+      "title": "400 millió dolláros büntetést kapott a TikTok gyerekek adatgyűjtéséért",
+      "summary": "A TikTok 400 millió dolláros bírságot kapott, amiért engedély nélkül gyűjtött személyes adatokat gyerekekről. Az ítélet rávilágít a digitális platformok gyermekvédelmi felelősségére és az adatvédelmi szabályok betartásának fontosságára.",
       "importance": 4
     },
     {
       "title": "Halálos iskolai támadás Svédországban",
-      "summary": "Egy 17 éves diáklány vesztette életét, amikor egy férfi karddal rontott be egy svéd iskolába, pánikot és tragédiát okozva. Az esemény ismét rámutat az iskolai erőszak elleni védekezés szükségességére.",
+      "summary": "Egy 17 éves diáklány életét vesztette egy svéd iskolában történt támadás során, ahol egy férfi karddal rontott be az intézménybe. A tragédia mélyen megrázta az országot és aggodalmat keltett az iskolák biztonsága kapcsán.",
       "importance": 4
+    },
+    {
+      "title": "Hét halálos áldozatot követelő autóbaleset Angliában",
+      "summary": "Angliában hét ember, köztük két rendőr vesztette életét egy forgalommal szemben haladó autó okozta súlyos balesetben. A hatóságok vizsgálják az eset körülményeit, amely mélyen megrendítette a helyi közösséget.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "400 millió dolláros bírságot fizet a TikTok gyermekek adatainak gyűjtése miatt",
-      "summary": "A TikTok 400 millió dolláros egyezséget kötött, amiért engedély nélkül gyűjtötte gyerekek online személyes adatait. Ez a jelentős bírság aláhúzza a gyermekek online adatvédelmének fontosságát és a tech cégekre nehezedő szabályozási nyomást.",
+      "title": "Mesterséges intelligencia múlta felül az OpenAI és Anthropic modelljeit",
+      "summary": "A DeepMind korábbi mérnökei által alapított Inherent startup mesterséges intelligencia 'csapattársa' felülmúlta az Anthropic és az OpenAI modelljeit a kutatások replikálásában. Ez jelentős áttörést jelenthet az AI-fejlesztésben és a tudományos kutatás automatizálásában.",
       "importance": 5
     },
     {
-      "title": "Az AI biztonság és szabályozás fontossága: az OpenAI nyilatkozata",
-      "summary": "Az OpenAI sürgeti Kalifornia államot, hogy erősítse meg az AI biztonságra vonatkozó törvényjavaslatát, miközben a vezető AI laborok még mindig nem tiszázták, hogyan fékeznék meg a potenciálisan 'megvaduló' modelleket. Ez a vita kiemeli az AI technológia gyors fejlődésével járó etikai és biztonsági kihívásokat.",
-      "importance": 5
-    },
-    {
-      "title": "Új AI 'csapattárs' múlta felül az Anthropic és OpenAI modelljeit kutatásreplikálásban",
-      "summary": "A DeepMind volt munkatársai által alapított Inherent startup bejelentette, hogy új AI 'csapattársa' felülmúlta az Anthropic és OpenAI vezető modelljeit a kutatási eredmények reprodukálásában. Ez a fejlemény az AI kutatásokban rejlő hatalmas potenciált és a versenyt tükrözi.",
+      "title": "Az OpenAI szigorúbb AI biztonsági törvényeket sürget",
+      "summary": "Az OpenAI felszólította Kaliforniát, hogy erősítse meg mesterséges intelligencia biztonsági törvényjavaslatát. A vállalat szerint a jelenlegi szabályozás nem elegendő a gyorsan fejlődő technológia kockázatainak kezelésére.",
       "importance": 4
     },
     {
       "title": "Az Apple több száz dolgozót bocsát el a Siri és Vision Pro csapatoktól",
-      "summary": "Az Apple a hírek szerint több száz állást szüntet meg a Siri és Vision Pro fejlesztőcsapataiban. Ez a lépés jelentős változásokat jelezhet a vállalat mesterséges intelligencia és kiterjesztett valóság stratégiájában és befektetéseiben.",
+      "summary": "Az Apple állítólag több száz alkalmazottat bocsát el a Siri és a Vision Pro fejlesztésén dolgozó csapatoktól. A lépés stratégiai átszervezést jelezhet a vállalatnál, ahogy a prioritások változnak.",
       "importance": 4
+    },
+    {
+      "title": "Kínai robot futotta le Usain Bolt világcsúcsánál is gyorsabban a 100 métert",
+      "summary": "Egy kínai robot demonstrálta képességét azzal, hogy Usain Bolt 100 méteres világcsúcsánál is gyorsabban teljesítette a távot. Ez a technológiai fejlődés új dimenzióit nyitja meg a robotika és az atlétika terén.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Kínai robot futotta le Usain Bolt világcsúcsát 100 méteren",
-      "summary": "Egy kínai robot állítólag Usain Bolt világcsúcsánál is gyorsabban futotta le a 100 méteres távot. Ez az áttörés a robotika és a mesterséges intelligencia fejlődését mutatja be, új lehetőségeket nyitva meg a mozgás és a sebesség terén.",
+      "title": "A Moderna rákellenes vakcinája ígéretes eredményeket mutat a melanoma ellen",
+      "summary": "A Moderna rákellenes vakcinája hatékonynak bizonyult a melanoma visszatérésének megakadályozásában klinikai vizsgálatok során. Ez nagy reményt ad a személyre szabott rákkezelések jövője és a betegek számára.",
       "importance": 5
     },
     {
-      "title": "Élő bőrön edz mesterséges intelligencia modellt egy kutató",
-      "summary": "Michael Polansky egy olyan AI modellt fejleszt, amely élő bőrön történő edzés révén tanul. Ez az úttörő kutatás potenciálisan forradalmasíthatja az orvosi diagnosztikát, a gyógyszerfejlesztést és a bőrápolási technológiákat.",
+      "title": "Űrhajós mellény csökkenti a sugárzást a felére",
+      "summary": "Egy új fejlesztésű űrhajós mellény a felére csökkenti az űrhajósok sugárzási expozícióját az űrben. Ez jelentős előrelépés az űrutazás biztonságának növelésében és a hosszú távú küldetések megvalósíthatóságában.",
       "importance": 4
     },
     {
-      "title": "A hőhullámok átalakíthatják az iskolai naptárakat",
-      "summary": "Az éghajlatváltozás okozta egyre gyakoribb és intenzívebb hőhullámok arra kényszeríthetik az iskolákat, hogy átgondolják és módosítsák a tanév rendjét. Ez a tendencia új kihívások elé állítja az oktatási rendszereket világszerte az éghajlatváltozás hatásainak kezelésében.",
+      "title": "A biomedikai publikációk 90%-a már AI segítséggel készül",
+      "summary": "Elképesztő módon a biomedikai tudományos cikkek 90%-a már mesterséges intelligencia segítségével készül. Ez felveti a tudományos integritás és a szerzőség kérdéseit, valamint átalakítja a kutatási publikációk jövőjét.",
       "importance": 4
     },
     {
-      "title": "Fájdalommentes tetoválás: új tapasz forradalmasíthatja az eljárást",
-      "summary": "Egy különleges tapasz segítségével a jövőben fájdalom nélkül készülhetnek tetoválások. Ez az innováció jelentősen megváltoztathatja a tetoválás élményét, szélesebb közönség számára is elérhetővé téve azt, miközben csökkenti a kellemetlenségeket.",
+      "title": "Új narcolepszia gyógyszer nyithat meg utat új agyterápiáknak",
+      "summary": "Egy új narcolepszia elleni gyógyszer kifejlesztése számos új agyterápia előtt nyithatja meg az utat, potenciálisan segítve más idegrendszeri betegségek kezelését is. Ez ígéretes fejlődés az orvostudomány számára.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Elhunyt Lakat T. Károly sportújságíró",
-      "summary": "Életének 80. évében elhunyt Lakat T. Károly, ismert sportújságíró és televíziós személyiség, a régi Nap TV utolsó főszerkesztője. Halálával a magyar sportmédia egy ikonikus alakját veszítette el.",
+      "title": "Norris szerezte meg az első rajthelyet a Holland Nagydíjon",
+      "summary": "Lando Norris a Holland Nagydíj időmérőjén kiválóan teljesítve megszerezte az első rajthelyet, maga mögé utasítva a két Mercedest. Ez izgalmas és kiszámíthatatlan versenyt ígér a Forma-1 rajongóinak.",
       "importance": 5
     },
     {
-      "title": "Norris szerezte meg az első rajthelyet a Holland Nagydíj időmérőjén",
-      "summary": "Lando Norris remek teljesítménnyel szerezte meg az első rajthelyet a Holland Nagydíj időmérőjén, megelőzve a két Mercedest. Ez a siker ígéretes pozícióba hozza a pilótát a vasárnapi futamra.",
+      "title": "Willi Orbán góljával nyert a Lipcse a Német Kupában",
+      "summary": "Willi Orbán, a magyar válogatott védője góllal járult hozzá a Lipcse 6-0-s magabiztos győzelméhez a labdarúgó Német Kupa első fordulójában. A csapat könnyedén jutott tovább a következő körbe.",
       "importance": 4
     },
     {
-      "title": "Willi Orbán góljával jutott tovább a Lipcse a Német Kupában",
-      "summary": "Willi Orbán góljának is köszönhetően a Lipcse magabiztos 6-0-ás győzelmet aratott a labdarúgó Német Kupa első fordulójában. A magyar védő fontos szerepet játszott csapata sikerében.",
-      "importance": 3
+      "title": "Elhunyt Lakat T. Károly sportújságíró",
+      "summary": "Hosszan tartó betegség után elhunyt Lakat T. Károly neves sportújságíró és televíziós személyiség, a régi Nap TV utolsó főszerkesztője. A magyar sportmédia egyik meghatározó alakját gyászolja.",
+      "importance": 4
     },
     {
-      "title": "Botrány a német kupameccsen: tűzijátékot lőttek a szurkolókra",
-      "summary": "Egy német kupameccs során a rivális szurkolók tűzijátékkal támadtak egymásra, ami miatt lovasrendőröknek kellett beavatkozniuk a pályán. Az eset rávilágít a sporteseményeken tapasztalható rendbontások problémájára és a biztonsági intézkedések fontosságára.",
+      "title": "Tűzijátékot lőttek a szurkolók, rendőrök vonultak a pályára egy német kupameccsen",
+      "summary": "Egy német kupamérkőzésen tűzijátékot lőttek a rivális szurkolók felé, ami miatt lovasrendőröknek kellett bevonulniuk a pályára. Az incidens felfüggesztette a játékot és biztonsági aggályokat vetett fel.",
       "importance": 3
     }
   ]

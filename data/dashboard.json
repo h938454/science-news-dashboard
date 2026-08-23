@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Paksi Atomerőmű 3-as blokkjának újraindítása",
-      "summary": "Megkezdődött a Paksi Atomerőmű harmadik turbinájának visszakapcsolása, amely várhatóan szerdára éri el teljes teljesítményét. Az energiaellátás szempontjából kulcsfontosságú esemény a blokk tervezett karbantartás utáni visszatérése a termelésbe.",
+      "title": "Újraindult a Paksi Atomerőmű harmadik turbinája",
+      "summary": "A Paksi Atomerőmű harmadik turbináját sikeresen újraindították, és a tervek szerint szerdára éri el teljes teljesítményét. Az esemény hozzájárul az ország energiaellátásának stabilitásához és biztonságához.",
       "importance": 5
     },
     {
-      "title": "Gazdasági elemzés: a politikai váltás hatása és a jövő",
-      "summary": "Egy elemzés szerint a politikai váltás pozitívan hatott a magyar gazdaságra. A cikk a további fejlődési lehetőségeket és a felmerülő kihívásokat vizsgálja a jelenlegi gazdasági világrend fényében.",
+      "title": "Balesetet szenvedett a debreceni akkugyár vendégmunkásait szállító busz",
+      "summary": "Pénteken baleset ért egy buszt Ebesnél, amely a debreceni CATL akkugyár vendégmunkásait szállította. Az eseményben többen megsérültek, köztük súlyos sérülést szenvedők is.",
       "importance": 4
     },
     {
-      "title": "Buszbalesetet szenvedett a debreceni CATL gyár dolgozóit szállító járat",
-      "summary": "Péntek este buszbalesetet szenvedett az Ebesnél a debreceni CATL akkumulátorgyár dolgozóit szállító járat. A balesetben kínai vendégmunkások sérültek meg, rávilágítva a nagyberuházásokkal járó infrastrukturális és biztonsági kihívásokra.",
+      "title": "Az aszály és gyújtogatások pusztítják az ózdi erdőket",
+      "summary": "Az ózdi erdőket együttesen sújtja az aszály, a gyújtogatások és az intézményrendszer hiányosságai. A pusztulás környezeti és gazdasági szempontból is jelentős károkat okoz a térségben.",
       "importance": 4
     },
     {
-      "title": "Aszály és gyújtogatás pusztítja az ózdi erdőket",
-      "summary": "Az aszályos időjárás, a szándékos gyújtogatások és az intézményrendszer hiányosságai együttesen pusztítják az ózdi térség erdeit. A jelenség komoly környezeti károkat okoz és rávilágít az erdőgazdálkodás kihívásaira.",
+      "title": "A politikai váltás hatása a magyar gazdaságra",
+      "summary": "A politikai váltásokat követően a magyar gazdaság fellendülést mutatott. A cikk elemzi, hogy a jövőben milyen kihívások és lehetőségek várnak az országra a fenntartható növekedés érdekében.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Macron: Oroszország terrorral igyekszik megtörni Ukrajnát",
-      "summary": "Emmanuel Macron francia elnök kijelentette, hogy Oroszország terrorral próbálja megtörni Ukrajnát, de ez nem fog sikerülni. Az ukrán konfliktus továbbra is a nemzetközi politika egyik központi témája.",
+      "title": "Irán megfenyegette az Amerika gazdasági háborújához csatlakozó szomszédait",
+      "summary": "Irán új nemzetbiztonsági vezetője keményen figyelmeztette a szomszédos országokat, hogy ellenségnek tekinti azokat, akik Amerika gazdasági szankcióihoz csatlakoznak. Ez a kijelentés tovább fokozhatja a regionális feszültségeket.",
       "importance": 5
     },
     {
-      "title": "Irán fenyegetései a térségbeli államok felé",
-      "summary": "Irán megfenyegette szomszédait, kijelentve, hogy bárki, aki csatlakozik Amerika „gazdasági háborújához”, ellenségnek fog számítani. Ez a nyilatkozat tovább élezi a feszültséget a Közel-Keleten.",
+      "title": "Kereskedelmi háború bontakozott ki az USA és Kanada között",
+      "summary": "A kanadai miniszterelnök kijelentette, hogy Trump új vámjai kereskedelmi háborút indítottak, és országa minden egyes tételre válaszlépésekkel készül. Ez súlyos gazdasági következményekkel járhat mindkét fél számára.",
       "importance": 5
     },
     {
-      "title": "Európa tehetetlensége Kína ipari térnyerésével szemben",
-      "summary": "Orbán Krisztián szerint Európa tehetetlenül szemléli, ahogy Kína kiszorítja a kontinenst a legfontosabb iparágakból, formálva ezzel az új gazdasági világrendet. Az európai versenyképesség és stratégiai autonómia kérdései kerülnek előtérbe.",
+      "title": "Európa tehetetlensége Kína ipari dominanciájával szemben",
+      "summary": "Európa egyre inkább szemléli, ahogy Kína kiszorítja a kontinenst a kulcsfontosságú iparágakból, ami az új gazdasági világrend formálódását jelzi. Ez hosszú távon komoly kihívásokat jelent az EU számára.",
       "importance": 4
     },
     {
-      "title": "Kanada bírálja Trump vámintézkedéseit",
-      "summary": "A kanadai miniszterelnök „téves számításnak” nevezte Trump elnök legújabb vámintézkedéseit, miután a kereskedelmi tárgyalások összeomlottak. Az esemény rávilágít az észak-amerikai kereskedelmi kapcsolatok feszültségére.",
+      "title": "Halálos iskolai támadás Svédországban",
+      "summary": "Egy 17 éves diáklány vesztette életét egy pénteki svédországi iskolai támadásban, amikor egy férfi karddal rontott be az intézménybe. Az eset mélyen megrázta az országot és felveti az iskolai biztonság kérdését.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A TikTok 400 millió dolláros bírságot fizet a gyermekadatok gyűjtéséért",
-      "summary": "A TikTok 400 millió dolláros egyezségre jutott az amerikai kormánnyal, miután engedély nélkül gyűjtött adatokat gyermekekről. Az eset rávilágít a techcégek adatkezelési gyakorlatainak szigorúbb szabályozási igényére és a gyermekek online védelmének fontosságára.",
+      "title": "Az AI biztonsági szabályozásának szükségessége és a 'szökött' modellek problémája",
+      "summary": "Az OpenAI szerint Kalifornia államnak erősítenie kell az AI biztonsági törvényjavaslatát, miközben a vezető AI laborok még nem mutatták be, hogyan korlátoznák a potenciálisan veszélyes modelleket. Ez rávilágít az AI szabályozás sürgősségére és komplexitására.",
+      "importance": 5
+    },
+    {
+      "title": "A TikTok 400 millió dolláros büntetést fizet gyermekek adatainak illegális gyűjtéséért",
+      "summary": "A TikTok 400 millió dolláros büntetésről egyezett meg az amerikai kormánnyal, miután kiderült, hogy engedély nélkül gyűjtött adatokat gyerekektől. Ez a döntés precedenst teremthet a gyermekek online adatvédelme terén.",
       "importance": 4
     },
     {
-      "title": "Kibertámadás bénított meg egy kis erőművet",
-      "summary": "Egy kibertámadás megbénított egy kisebb erőművet, ami rávilágít a kritikus infrastruktúrák digitális sebezhetőségére. Az eset újabb figyelmeztetés a kiberbiztonsági védelem megerősítésének szükségességére.",
+      "title": "Hatalmas változásokat ígér a Wi-Fi 8 érkezése",
+      "summary": "Hamarosan megérkezik a Wi-Fi 8, amely jelentős sebesség- és hatékonyságbeli fejlesztéseket hoz. Az új szabvány forradalmasíthatja az otthoni és üzleti hálózatok működését, gyorsabb és stabilabb kapcsolatokat biztosítva.",
       "importance": 4
     },
     {
-      "title": "Az AI az utcára került: az okos technológia térnyerése a mindennapokban",
-      "summary": "A mesterséges intelligencia a képernyőkről a kirakatokba költözött, jelezve, hogy az AI-alapú megoldások egyre inkább áthatják a mindennapi életünket és a kereskedelmet. Ez a trend alapjaiban formálja át a vásárlási élményt és a városképet.",
-      "importance": 4
-    },
-    {
-      "title": "Az OpenAI szigorúbb AI biztonsági törvényeket szorgalmaz Kaliforniában",
-      "summary": "Az OpenAI felhívta a kaliforniai törvényhozók figyelmét a mesterséges intelligencia biztonságát célzó törvényjavaslatok megerősítésének fontosságára. Ez a lépés jelzi a vezető AI-fejlesztők növekvő aggodalmát a technológia lehetséges kockázatai miatt.",
+      "title": "A DeepMind alumni AI-ja felülmúlja a vezető modelleket kutatásreprodukcióban",
+      "summary": "A DeepMind alumni által alapított Inherent cég mesterséges intelligenciája állítólag felülmúlta az Anthropic és OpenAI vezető modelljeit a kutatási eredmények reprodukálásában. Ez jelentős áttörést jelenthet az AI kutatásban és alkalmazásában.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Moderna rákellenes vakcina: áttörés a melanóma kezelésében",
-      "summary": "A Moderna rákellenes vakcinája ígéretes eredményeket mutat a melanóma kiújulásának megakadályozásában. Ez a felfedezés új utakat nyithat meg a személyre szabott rákkezelések terén, jelentős előrelépést hozva a betegség elleni küzdelemben.",
+      "title": "Új narkolepszia elleni gyógyszer nyithat utat agyi terápiák előtt",
+      "summary": "Egy új narkolepszia elleni gyógyszer fejlesztése áttörést hozhat, mivel potenciálisan számos új agyi terápia alapjául szolgálhat. Ez ígéretes lehetőségeket kínál neurológiai betegségek kezelésében és az agyműködés mélyebb megértésében.",
       "importance": 5
     },
     {
-      "title": "Új narcolepsia gyógyszer nyithatja meg az utat az agyterápiák előtt",
-      "summary": "Egy új narcolepsia gyógyszer kifejlesztése potenciálisan számos új agyi terápia előtt nyithatja meg az utat. A kutatás rávilágít az agyi rendellenességek mélyebb megértésének és kezelésének lehetőségeire.",
+      "title": "A Moderna rákvakcinája megakadályozza a melanoma kiújulását",
+      "summary": "A Moderna rákvakcinája ígéretes eredményeket mutat a melanoma kiújulásának megakadályozásában, ami a személyre szabott kezelések jövőjét vetíti előre. Ez a fejlesztés új reményt adhat a rákbetegeknek a hatékonyabb terápiákra.",
+      "importance": 5
+    },
+    {
+      "title": "Új űrruha felére csökkenti az űrhajósok sugárterhelését",
+      "summary": "Egy új fejlesztésű mellény jelentősen, akár felére is csökkentheti az űrhajósok sugárterhelését az űrben. Ez kulcsfontosságú az emberes űrrepülések biztonságának növelésében, különösen hosszú távú küldetések során.",
       "importance": 4
     },
     {
-      "title": "Asztronauta mellény a sugárzás felére csökkentésére",
-      "summary": "Egy új fejlesztésű asztronauta mellény a felére csökkenti az űrutazás során a sugárzásnak való kitettséget. Ez jelentős előrelépést jelent az űrhajósok egészségének védelmében a hosszú távú küldetések során.",
-      "importance": 4
-    },
-    {
-      "title": "Az AI-támogatás terjedése a biomedicinális kutatásokban",
-      "summary": "Megdöbbentő módon a biomedicinális publikációk 90%-a mutatja az AI-támogatás jeleit. Ez a jelenség alapjaiban változtatja meg a tudományos kutatás módszereit és felveti az etikai, valamint minőségi kérdéseket.",
+      "title": "A biomedikai publikációk 90%-ában már kimutatható az AI segítsége",
+      "summary": "Elképesztő módon a biomedikai tudományos publikációk 90%-ában már kimutatható valamilyen mesterséges intelligencia segítségének jele. Ez a tendencia alapjaiban alakítja át a tudományos kutatás módszertanát és etikai kérdéseket is felvet.",
       "importance": 4
     }
   ],
   "sports": [
     {
       "title": "Elhunyt Lakat T. Károly sportújságíró",
-      "summary": "Meghalt Lakat T. Károly, a régi Nap TV utolsó főszerkesztője és neves sportújságíró. A magyar sportmédia gyászolja a kiemelkedő szakembert, akinek munkássága mély nyomot hagyott.",
-      "importance": 4
-    },
-    {
-      "title": "Tűzijáték és rendőri beavatkozás egy német kupameccsen",
-      "summary": "Tűzijátékot lőttek a rivális szurkolók felé egy német kupameccsen, ami miatt lovasrendőrök vonultak a pályára. Az incidens rávilágít a futballmérkőzések biztonsági kihívásaira és a szurkolói erőszak problémájára.",
-      "importance": 3
-    },
-    {
-      "title": "Kínai robot gyorsabban futott 100 métert Usain Boltnál",
-      "summary": "Egy kínai robot állítólag Usain Bolt világcsúcsánál is gyorsabban futotta le a 100 métert. Ez a teljesítmény új perspektívát nyit a robotika és a mesterséges intelligencia sportbeli alkalmazásaira, feszegetve az emberi teljesítmény határait.",
-      "importance": 3
+      "summary": "Elhunyt Lakat T. Károly, neves sportújságíró és a régi Nap TV utolsó főszerkesztője. Munkásságával jelentősen hozzájárult a magyar sportmédia fejlődéséhez és sokak számára ikonikus figurává vált.",
+      "importance": 5
     },
     {
       "title": "Willi Orbán góljával győzött a Lipcse a Német Kupában",
-      "summary": "Willi Orbán góljával 6-0-s győzelmet aratott a Lipcse a labdarúgó Német Kupa első fordulójában. A magyar válogatott védő találatával járult hozzá csapata magabiztos továbbjutásához.",
-      "importance": 2
+      "summary": "Willi Orbán, a magyar válogatott védő gólt szerzett, amivel hozzájárult a Lipcse 6-0-s győzelméhez a labdarúgó Német Kupa első fordulójában. A csapat magabiztosan jutott tovább a következő körbe.",
+      "importance": 4
+    },
+    {
+      "title": "Kínai robot futotta le a 100 métert Usain Boltnál gyorsabban",
+      "summary": "Egy kínai robot demonstrálta, hogy képes Usain Bolt világcsúcsánál is gyorsabban lefutni a 100 métert. Ez a technológiai bravúr a robotika fejlődésének sportszerű vetületét mutatja be és felveti a jövőbeni versenyek kérdését.",
+      "importance": 3
+    },
+    {
+      "title": "Magára hagyta kisfiát egy férfi a Fudzsin, hogy folytathassa a túrát",
+      "summary": "Egy apa hátrahagyta hétéves fiát a Fudzsi-hegyen, hogy egyedül folytathassa a túráját. Az esemény súlyos etikai kérdéseket vet fel a hegymászás és a szülői felelősség kapcsán, a sporttevékenység során.",
+      "importance": 3
     }
   ]
 }

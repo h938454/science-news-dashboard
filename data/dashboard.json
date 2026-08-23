@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Újraindították a Paksi Atomerőmű hármas turbináját",
-      "summary": "A Paksi Atomerőmű harmadik turbinája újra üzemel, és szerdára érheti el teljes teljesítményét egy korábbi hiba után. Ez az esemény kulcsfontosságú az ország energiabiztonsága szempontjából.",
+      "title": "A Paksi Atomerőmű 3-as blokkjának újraindítása",
+      "summary": "Megkezdődött a Paksi Atomerőmű harmadik turbinájának visszakapcsolása, amely várhatóan szerdára éri el teljes teljesítményét. Az energiaellátás szempontjából kulcsfontosságú esemény a blokk tervezett karbantartás utáni visszatérése a termelésbe.",
       "importance": 5
     },
     {
-      "title": "Buszbalesetet szenvedtek a debreceni CATL gyár kínai dolgozói",
-      "summary": "Péntek este buszbalesetet szenvedett egy jármű Ebesnél, amely a debreceni CATL akkumulátorgyár kínai vendégmunkásait szállította. A baleset körülményeit vizsgálják.",
+      "title": "Gazdasági elemzés: a politikai váltás hatása és a jövő",
+      "summary": "Egy elemzés szerint a politikai váltás pozitívan hatott a magyar gazdaságra. A cikk a további fejlődési lehetőségeket és a felmerülő kihívásokat vizsgálja a jelenlegi gazdasági világrend fényében.",
       "importance": 4
     },
     {
-      "title": "Rögzítette kamera a siófoki halálos gázolást",
-      "summary": "Térfigyelő kamera rögzítette a siófoki halálos kerékpáros gázolást, mely után Vitézy Dávid is kiemelte a kirívó gyorshajtás büntetőjogi következményeit. Az ügyben igazságügyi szakértő készített animációs jelentsort is.",
+      "title": "Buszbalesetet szenvedett a debreceni CATL gyár dolgozóit szállító járat",
+      "summary": "Péntek este buszbalesetet szenvedett az Ebesnél a debreceni CATL akkumulátorgyár dolgozóit szállító járat. A balesetben kínai vendégmunkások sérültek meg, rávilágítva a nagyberuházásokkal járó infrastrukturális és biztonsági kihívásokra.",
       "importance": 4
     },
     {
-      "title": "Meghalt a Hableány-tragédia ukrán kapitánya",
-      "summary": "Elhunyt a Hableány hajóbaleset ukrán kapitánya, aki ellen büntetőeljárás zajlott, mert nem segített a bajba jutottakon. Halálával a tragédia egyik kulcsszereplője távozott az élők sorából.",
-      "importance": 3
+      "title": "Aszály és gyújtogatás pusztítja az ózdi erdőket",
+      "summary": "Az aszályos időjárás, a szándékos gyújtogatások és az intézményrendszer hiányosságai együttesen pusztítják az ózdi térség erdeit. A jelenség komoly környezeti károkat okoz és rávilágít az erdőgazdálkodás kihívásaira.",
+      "importance": 4
     }
   ],
   "world": [
     {
       "title": "Macron: Oroszország terrorral igyekszik megtörni Ukrajnát",
-      "summary": "Emmanuel Macron francia elnök kijelentette, hogy Oroszország terrorizmussal próbálja megtörni Ukrajnát, de ez nem fog sikerülni. A nyilatkozat az ukrajnai háború aktuális helyzetére és a nyugati álláspontra reflektál.",
+      "summary": "Emmanuel Macron francia elnök kijelentette, hogy Oroszország terrorral próbálja megtörni Ukrajnát, de ez nem fog sikerülni. Az ukrán konfliktus továbbra is a nemzetközi politika egyik központi témája.",
       "importance": 5
     },
     {
-      "title": "Trump oltásellenes politikájának hatása: csökken az amerikai gyerekek átoltottsága",
-      "summary": "Donald Trump korábbi elnök oltásellenes politikájának következtében az amerikai gyerekek átoltottsága aggasztó mértékben csökken. Ez a tendencia hosszú távú közegészségügyi kockázatokat rejt magában.",
+      "title": "Irán fenyegetései a térségbeli államok felé",
+      "summary": "Irán megfenyegette szomszédait, kijelentve, hogy bárki, aki csatlakozik Amerika „gazdasági háborújához”, ellenségnek fog számítani. Ez a nyilatkozat tovább élezi a feszültséget a Közel-Keleten.",
+      "importance": 5
+    },
+    {
+      "title": "Európa tehetetlensége Kína ipari térnyerésével szemben",
+      "summary": "Orbán Krisztián szerint Európa tehetetlenül szemléli, ahogy Kína kiszorítja a kontinenst a legfontosabb iparágakból, formálva ezzel az új gazdasági világrendet. Az európai versenyképesség és stratégiai autonómia kérdései kerülnek előtérbe.",
       "importance": 4
     },
     {
-      "title": "Hét ember halt meg egy forgalommal szemben haladó autó miatt Angliában",
-      "summary": "Hét ember, köztük két rendőr halt meg egy tragikus angliai autóbalesetben, melyet egy forgalommal szemben haladó jármű okozott. Írországban hasonló száguldozás halálos TikTok-trenddé vált, ami felveti a közösségi média szerepét.",
-      "importance": 4
-    },
-    {
-      "title": "Meghalt egy diáklány a svédországi iskolai támadásban",
-      "summary": "Egy 17 éves diáklány vesztette életét egy pénteki svédországi iskolai támadásban, ahol egy férfi karddal rontott be az intézménybe. Az eset ismételten felhívja a figyelmet az iskolai erőszak problémájára.",
+      "title": "Kanada bírálja Trump vámintézkedéseit",
+      "summary": "A kanadai miniszterelnök „téves számításnak” nevezte Trump elnök legújabb vámintézkedéseit, miután a kereskedelmi tárgyalások összeomlottak. Az esemény rávilágít az észak-amerikai kereskedelmi kapcsolatok feszültségére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "400 millió dollárt fizet a TikTok gyerekek adatainak gyűjtése miatt",
-      "summary": "A TikTok 400 millió dolláros bírságot kapott, amiért engedély nélkül gyűjtötte gyerekek online személyes adatait. Ez a jelentős összegű büntetés rávilágít az online adatvédelem és a gyermekek biztonságának fontosságára.",
-      "importance": 5
-    },
-    {
-      "title": "Kiberbűnözők bénítottak meg egy kis erőművet",
-      "summary": "Egy kiber támadás sikeresen megbénított egy kis erőművet, ami rávilágít a kritikus infrastruktúrák sérülékenységére. Az eset komoly figyelmeztetés a digitális biztonsági fenyegetésekre.",
-      "importance": 5
-    },
-    {
-      "title": "DeepMind alumni AI modellje felülmúlta a riválisokat",
-      "summary": "A DeepMind alumni által alapított Inherent cég 'AI csapattársa' állítólag felülmúlta az Anthropic és az OpenAI modelljeit a kutatások replikálásában. Ez egy újabb jelentős áttörést jelenthet a mesterséges intelligencia fejlesztésében.",
+      "title": "A TikTok 400 millió dolláros bírságot fizet a gyermekadatok gyűjtéséért",
+      "summary": "A TikTok 400 millió dolláros egyezségre jutott az amerikai kormánnyal, miután engedély nélkül gyűjtött adatokat gyermekekről. Az eset rávilágít a techcégek adatkezelési gyakorlatainak szigorúbb szabályozási igényére és a gyermekek online védelmének fontosságára.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI szigorítaná Kalifornia AI biztonsági törvényét",
-      "summary": "Az OpenAI szerint Kalifornia államnak meg kellene erősítenie az AI biztonsági törvénytervezetét. Ez a lépés rávilágít a mesterséges intelligencia felelősségteljes fejlesztésének és szabályozásának sürgősségére.",
+      "title": "Kibertámadás bénított meg egy kis erőművet",
+      "summary": "Egy kibertámadás megbénított egy kisebb erőművet, ami rávilágít a kritikus infrastruktúrák digitális sebezhetőségére. Az eset újabb figyelmeztetés a kiberbiztonsági védelem megerősítésének szükségességére.",
+      "importance": 4
+    },
+    {
+      "title": "Az AI az utcára került: az okos technológia térnyerése a mindennapokban",
+      "summary": "A mesterséges intelligencia a képernyőkről a kirakatokba költözött, jelezve, hogy az AI-alapú megoldások egyre inkább áthatják a mindennapi életünket és a kereskedelmet. Ez a trend alapjaiban formálja át a vásárlási élményt és a városképet.",
+      "importance": 4
+    },
+    {
+      "title": "Az OpenAI szigorúbb AI biztonsági törvényeket szorgalmaz Kaliforniában",
+      "summary": "Az OpenAI felhívta a kaliforniai törvényhozók figyelmét a mesterséges intelligencia biztonságát célzó törvényjavaslatok megerősítésének fontosságára. Ez a lépés jelzi a vezető AI-fejlesztők növekvő aggodalmát a technológia lehetséges kockázatai miatt.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Moderna rákvakcina: megakadályozza a melanóma kiújulását",
-      "summary": "A Moderna rákkellenes vakcinája ígéretes eredményeket mutat a melanóma kiújulásának megakadályozásában. Ez az áttörés új utakat nyithat a személyre szabott rákkezelések terén.",
+      "title": "Moderna rákellenes vakcina: áttörés a melanóma kezelésében",
+      "summary": "A Moderna rákellenes vakcinája ígéretes eredményeket mutat a melanóma kiújulásának megakadályozásában. Ez a felfedezés új utakat nyithat meg a személyre szabott rákkezelések terén, jelentős előrelépést hozva a betegség elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "Félre csökkenti a sugárzást egy új űrhajós mellény",
-      "summary": "Egy újonnan kifejlesztett mellény a felére csökkenti az űrhajósok sugárzási expozícióját. Ez a technológia kulcsfontosságú lehet a hosszabb távú űrküldetések, például a Marsra való utazás során.",
+      "title": "Új narcolepsia gyógyszer nyithatja meg az utat az agyterápiák előtt",
+      "summary": "Egy új narcolepsia gyógyszer kifejlesztése potenciálisan számos új agyi terápia előtt nyithatja meg az utat. A kutatás rávilágít az agyi rendellenességek mélyebb megértésének és kezelésének lehetőségeire.",
       "importance": 4
     },
     {
-      "title": "Új narcolepszia gyógyszer ígéretes agyi terápiákhoz",
-      "summary": "Egy új narcolepszia gyógyszer nemcsak az alvászavar kezelésében, hanem számos más agyi terápia feltárásában is áttörést hozhat. Ez a felfedezés szélesebb körű neurológiai alkalmazásokra is lehetőséget adhat.",
+      "title": "Asztronauta mellény a sugárzás felére csökkentésére",
+      "summary": "Egy új fejlesztésű asztronauta mellény a felére csökkenti az űrutazás során a sugárzásnak való kitettséget. Ez jelentős előrelépést jelent az űrhajósok egészségének védelmében a hosszú távú küldetések során.",
       "importance": 4
     },
     {
-      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
-      "summary": "Felfedezett rejtett vulkánok nyomai utalnak a Hold viharosabb, aktívabb geológiai múltjára. Ez a felfedezés segíthet jobban megérteni égi kísérőnk fejlődési történetét.",
-      "importance": 3
+      "title": "Az AI-támogatás terjedése a biomedicinális kutatásokban",
+      "summary": "Megdöbbentő módon a biomedicinális publikációk 90%-a mutatja az AI-támogatás jeleit. Ez a jelenség alapjaiban változtatja meg a tudományos kutatás módszereit és felveti az etikai, valamint minőségi kérdéseket.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Meghalt Lakat T. Károly sportújságíró",
-      "summary": "Hosszú betegség után elhunyt Lakat T. Károly, a magyar sportújságírás kiemelkedő alakja, a régi Nap TV utolsó főszerkesztője. Munkássága generációk számára volt meghatározó.",
-      "importance": 5
-    },
-    {
-      "title": "Norrisé az első rajthely a Holland Nagydíjon",
-      "summary": "Lando Norris a Holland Nagydíj időmérőjén fantasztikus teljesítménnyel szerezte meg az első rajthelyet, maga mögé utasítva a két Mercedest. Ezzel nagy izgalmakat ígér a futam.",
+      "title": "Elhunyt Lakat T. Károly sportújságíró",
+      "summary": "Meghalt Lakat T. Károly, a régi Nap TV utolsó főszerkesztője és neves sportújságíró. A magyar sportmédia gyászolja a kiemelkedő szakembert, akinek munkássága mély nyomot hagyott.",
       "importance": 4
     },
     {
-      "title": "Tűzijátékkal támadtak szurkolókra egy német kupameccsen",
-      "summary": "Tűzijátékot lőttek a rivális szurkolók felé egy német kupameccsen, ami miatt lovasrendőröknek kellett bevonulniuk a pályára. Az incidens rávilágít a futballhuliganizmus problémájára.",
+      "title": "Tűzijáték és rendőri beavatkozás egy német kupameccsen",
+      "summary": "Tűzijátékot lőttek a rivális szurkolók felé egy német kupameccsen, ami miatt lovasrendőrök vonultak a pályára. Az incidens rávilágít a futballmérkőzések biztonsági kihívásaira és a szurkolói erőszak problémájára.",
       "importance": 3
     },
     {
-      "title": "Willi Orbán góljával 6-0-t játszott a Lipcse a Német Kupában",
-      "summary": "Willi Orbán magyar válogatott védő góllal járult hozzá a Lipcse 6-0-s győzelméhez a labdarúgó Német Kupa első fordulójában. Ezzel nagymértékben segítette csapatát a továbbjutásban.",
+      "title": "Kínai robot gyorsabban futott 100 métert Usain Boltnál",
+      "summary": "Egy kínai robot állítólag Usain Bolt világcsúcsánál is gyorsabban futotta le a 100 métert. Ez a teljesítmény új perspektívát nyit a robotika és a mesterséges intelligencia sportbeli alkalmazásaira, feszegetve az emberi teljesítmény határait.",
       "importance": 3
+    },
+    {
+      "title": "Willi Orbán góljával győzött a Lipcse a Német Kupában",
+      "summary": "Willi Orbán góljával 6-0-s győzelmet aratott a Lipcse a labdarúgó Német Kupa első fordulójában. A magyar válogatott védő találatával járult hozzá csapata magabiztos továbbjutásához.",
+      "importance": 2
     }
   ]
 }

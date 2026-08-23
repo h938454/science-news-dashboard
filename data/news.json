@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Lúgos hatású a barna folyadék, ami az almásfüzitői vörösiszap-tározónál szivárog a Dunába",
+      "link": "https://telex.hu/belfold/2026/08/23/duna-almasfuzito-vorosiszap-tarozo-lugos-szennyezes",
+      "summary": "Körülbelül egy kilométer hosszan folyik bele a Dunába a furcsa szagú folyadék."
+    },
+    {
       "title": "Üvöltve gyalázzuk Virgonc Vilit, a hot dogot, mert már megint orra esett",
       "link": "https://telex.hu/after/2026/08/23/hot-streak-parks-tarsasjatek",
       "summary": "Két teljesen különböző hangulatú társasjátékot ajánlunk: az egyikben őrjöngve csapkodják az asztalt komoly emberek kabalaállatok miatt, a másikban az amerikai nemzeti parkok felfedezése közben lassulhatunk le."
@@ -69,17 +74,12 @@
       "title": "Magyar Péter arra kéri a magyarországi cégeket, hogy szálljanak be az október 23-i ünnepség finanszírozásába",
       "link": "https://telex.hu/belfold/2026/08/23/magyar-peter-1956-os-megemlekezes-70-evfordulo",
       "summary": "A kis- és nagyvállalatoktól, sőt, az itthon működő külföldi cégektől is várják a felajánlásokat."
-    },
-    {
-      "title": "Soha nem látott mértékben kezdtek el süllyedni a londoni házak a forró és száraz nyár miatt",
-      "link": "https://telex.hu/kulfold/2026/08/23/soha-nem-latott-mertekben-kezdtek-el-sullyedni-a-londoni-hazak-a-forro-es-szaraz-nyar-miatt",
-      "summary": "Westminster, Kensington és Chelsea környéke a leginkább veszélyeztetettek."
     }
   ],
   "Portfolio": [],
   "444": [
     {
-      "title": "Szerdán munkába fog az MNB-ügyet feltáró parlamenti vizsgálóbizottság",
+      "title": "Szerdán munkához lát az MNB-ügyet feltáró parlamenti vizsgálóbizottság",
       "link": "https://444.hu/2026/08/23/szerdan-munkaba-fog-az-mnb-ugyet-feltaro-parlamenti-vizsgalobizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A bizottságot elnöklő tiszás képviselő szerint azt vizsgálják majd, hogy „kik miatt és hova tűnt a közpénz”, kik húzták belőle a legnagyobb hasznot, és mire költötték."
     },
@@ -99,9 +99,9 @@
       "summary": "Vitézyék nem a vasútbiztonság rovására szeretnének több zöldfelületet, hanem azokat a szabályokat vizsgálnák felül, „amelyek ma már néhol indokolatlan fakivágásokhoz vezethetnek”."
     },
     {
-      "title": "Kövér László nem fogott kezet az országgyűlés tiszás alelnökével a mohácsi csata megemlékezésén",
+      "title": "Kövér László nem fogott kezet az Országgyűlés tiszás alelnökével a mohácsi csata megemlékezésén",
       "link": "https://444.hu/2026/08/23/kover-laszlo-nem-fogott-kezet-az-orszaggyules-tiszas-alelnokevel-a-mohacsi-csata-megemlekezesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Kőszegi Krisztián szerint a gesztus azt mutatja, hogy a Fidesz továbbra is mélyítené a társadalmi megosztottságot."
+      "summary": "Kőszegi Krisztián szerint a gesztus azt mutatja, hogy a Fidesz tovább mélyítené a társadalmi megosztottságot."
     },
     {
       "title": "„Tizenhat év pártpropagandává züllesztés és egy rövid átmenet után” hétfőn újraindul a Kossuth Rádió",
@@ -155,6 +155,16 @@
     }
   ],
   "HVG": [
+    {
+      "title": "A hónap végéig érkezhet meg az első olajszállítmány Törökországból Oroszországba",
+      "link": "https://hvg.hu/gazdasag/20260823_olajszallitmany-torokorszag-oroszorszag-import-olaj",
+      "summary": "Az elemzők a július vége óta Oroszországba érkezett tengeri benzinszállítások teljes mennyiségét több mint 1 millió hordóra becsülik."
+    },
+    {
+      "title": "Zelenszkij azt állítja, hogy Ukrajna „hivatalosan” nem vett részt az Északi Áramlat felrobbantásában",
+      "link": "https://hvg.hu/vilag/20260823_eszaki-aramlat-felrobbantas-volodimir-zelenszkij-ukrajna-sajtotajekoztato",
+      "summary": "Az ukrán elnök sajtótájékoztatóján hangsúlyozta, Kijev kész együttműködni a körülmények feltárását szolgáló nyomozásban."
+    },
     {
       "title": "Szerdán kezdi meg a munkát az MNB-botrány visszaéléseit feltáró vizsgálóbizottság",
       "link": "https://hvg.hu/itthon/20260823_szerdan-kezdi-meg-a-munkat-az-mnb-botrany-visszaeleseit-feltaro-vizsgalobizottsag",
@@ -219,16 +229,6 @@
       "title": "Bayreuthban napirenden van Wagner antiszemitizmusa és az is, hogy Németországban 1945 óta nem voltak ekkora veszélyben a zsidók",
       "link": "https://hvg.hu/360/20260823_hvg-antiszemitizmus-bayreuthi-fesztival-richard-wagner-oroksege-gustav-mahler-pavel-haas-michel-friedman",
       "summary": "A bayreuthi Wagner-ünnepségek nem csupán a zeneszerző Richard Wagner akkori zsidógyűlöletével, hanem a mai, egyre növekvő antiszemitizmussal való szembenézésre is alkalmat kínálnak."
-    },
-    {
-      "title": "„Ez nem szenzáció, hanem természetes” - üzente a kisfiú életét megmentő motoros",
-      "link": "https://hvg.hu/itthon/20260823_ez-nem-szenzacio-hanem-termeszetes-uzente-a-kisfiu-eletet-megmento-motoros",
-      "summary": "Megmentette egy fuldokló gyerek életét egy rejtélyes motoros. A férfi most videót tett közzé, amiben felhívja a figyelmet egymás segítésére."
-    },
-    {
-      "title": "Egy pillanatra nappali fényre váltott az éjszaka Magyarországon",
-      "link": "https://hvg.hu/tudomany/20260823_tuzgomb-nappali-vilagossag-magyarorszag",
-      "summary": "Nappali világosság gyúlt a szombat hajnali égen. A rendkívüli égi jelenségre nem sokkal a zivatarok kivonulása után került sor."
     }
   ],
   "BBC": [
@@ -238,9 +238,9 @@
       "summary": "Officers had been pursing a car before it went the wrong way down a dual carriageway."
     },
     {
-      "title": "CrossCountry cancels 'almost all' UK services after power cut",
-      "link": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\"."
+      "title": "CrossCountry to provide full service on Monday after major disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+      "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -248,17 +248,12 @@
       "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
     },
     {
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
-    },
-    {
       "title": "Newcastle and Liverpool united in tribute to legend Keegan",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
       "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season."
     },
     {
-      "title": "Man arrested travelling to France after one dead and eight injured in London fire",
+      "title": "Man arrested travelling to France after London fire left one dead and eight injured",
       "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
       "summary": "A 34-year-old man is arrested on suspicion of murder following a fatal fire in Hounslow."
     },
@@ -266,6 +261,11 @@
       "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
       "link": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
       "summary": "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs."
+    },
+    {
+      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
     },
     {
       "title": "France links sharp rise in drownings to heatwaves",
@@ -288,14 +288,14 @@
       "summary": "Manchester City striker Erling Haaland reveals his new buzz cut on social media."
     },
     {
-      "title": "How a new era of heatwaves could shake up the school calendar",
-      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months."
-    },
-    {
       "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",
       "link": "https://www.bbc.co.uk/news/articles/cwyqy29jn74o?at_medium=RSS&at_campaign=rss",
       "summary": "The social media posts have prompted police forces in Ireland and the UK to issue statements that the images are fake."
+    },
+    {
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "link": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months."
     },
     {
       "title": "Why we can't look away from hoarder home clean-ups",
@@ -309,6 +309,16 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+    },
+    {
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR."
+    },
     {
       "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
@@ -373,16 +383,6 @@
       "title": "Michael Polansky is training an AI model on skin that’s still alive",
       "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
       "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now going public about it."
-    },
-    {
-      "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
-      "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-      "summary": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million)."
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
     }
   ],
   "Nature": [

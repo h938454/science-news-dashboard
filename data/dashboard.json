@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Elindul az MNB-botránnyal foglalkozó vizsgálóbizottság",
-      "summary": "Szerdán megkezdi munkáját az MNB botrányával foglalkozó parlamenti vizsgálóbizottság. A bizottság feladata az eset körülményeinek feltárása és a felelősség megállapítása.",
+      "title": "Szerdán elindul az MNB-botránnyal foglalkozó vizsgálóbizottság",
+      "summary": "A parlamenti bizottság feladata az MNB pénzügyi visszaéléseinek feltárása és a felelősségre vonás vizsgálata. A testület megalakulása fontos lépés az átláthatóság és az elszámoltathatóság irányába.",
       "importance": 5
     },
     {
-      "title": "Kövér László nem fogott kezet az Országgyűlés tiszás alelnökével egy megemlékezésen",
-      "summary": "Kövér László házelnök állítólag megtagadta a kézfogást Kőszegi Krisztiántól, a Tisza Párt alelnökétől egy mohácsi megemlékezésen. Az eset politikai feszültséget generált és vitát váltott ki a protokollról.",
+      "title": "Kövér László nem fogott kezet a tiszás Kőszegi Krisztiánnal",
+      "summary": "A házelnök állítólag megtagadta a kézfogást a Tisza Párt alelnökétől egy mohácsi megemlékezésen, ami politikai feszültségeket jelez. Az esetre Havasi Bertalan, a miniszterelnök sajtósa is reagált.",
       "importance": 4
     },
     {
-      "title": "Hétfőn újraindul a Kossuth Rádió, „újra mindenkié” az új szlogen",
-      "summary": "Hétfőn új stábbal és „újra mindenkié” szlogennel indul újra a Kossuth Rádió, tizenhat év pártpropagandává züllesztése után. A változás célja a közszolgálati jelleg megerősítése és a szélesebb hallgatóság megszólítása.",
+      "title": "Hétfőn újraindul a Kossuth Rádió „újra mindenkié” szlogennel",
+      "summary": "Hosszas átalakítások és kritikák után a közrádió új műsorstruktúrával és vezetéssel vág neki a jövőnek. A szlogen a korábbi, pártpropaganda vádak által megkérdőjelezett szerep után a szélesebb közönség megszólítását ígéri.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter a magyarországi cégeket kéri fel az október 23-i ünnepség finanszírozására",
-      "summary": "Magyar Péter arra kérte a hazai vállalatokat, hogy segítsék az október 23-i nemzeti ünnepség finanszírozását, méltányosnak tartva, hogy a cégek is hozzájáruljanak. Egyúttal kritizálta azokat, akik nem látják az ország bajait.",
+      "title": "Magyar Péter a magyarországi cégeket kéri az október 23-i ünnepség finanszírozására",
+      "summary": "A politikus arra szólította fel a vállalkozásokat, hogy támogassák az őszi nemzeti ünnep rendezvényeit, felhívva a figyelmet az állami finanszírozás hiányára. A kezdeményezés politikai vitákat generálhat az ünnepségek körül.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Norvégia több mint 9 milliárd dollárral támogatja Ukrajnát jövőre",
-      "summary": "Norvégia bejelentette, hogy jövőre is jelentős, több mint 9 milliárd dolláros támogatást nyújt Ukrajnának. Ez a támogatás létfontosságú az ország háborús erőfeszítései és újjáépítése szempontjából.",
+      "title": "Mike Pence és Zelenszkij Kijevben találkozott, szóba került az USA Patriot-készletének szerepe",
+      "summary": "Az amerikai alelnök Kijevben tárgyalt az ukrán elnökkel a háborús helyzetről és a további amerikai támogatásról. Ukrajna szerint a tél átvészeléséhez az USA Patriot-készletének 5 százaléka is segítséget nyújthatna.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij óva int a háború alatti választásoktól, miközben korrupciós vádak merülnek fel",
-      "summary": "Volodimir Zelenszkij ukrán elnök szerint a háború alatti választások szétszakítanák az országot, miközben a volt védelmi miniszter a környezetét érintő korrupciós ügyek tisztázását sürgeti. Ezek a belső feszültségek további kihívást jelentenek Ukrajna számára.",
-      "importance": 5
-    },
-    {
-      "title": "Donald Trump szerint Kanada az USA állama akar lenni a kereskedelmi tárgyalások összeomlása után",
-      "summary": "Donald Trump amerikai elnök kijelentette, hogy Kanada az Egyesült Államok államának előnyeit élvezné, miután a két ország közötti kereskedelmi tárgyalások összeomlottak. Ez a megjegyzés súlyos feszültséget okozott az amúgy is törékeny viszonyban.",
+      "title": "Zelenszkij tagadja Ukrajna részvételét az Északi Áramlat felrobbantásában, nyomozásban való együttműködést ígér",
+      "summary": "Az ukrán elnök határozottan elutasította azokat az állításokat, melyek szerint országa érintett lett volna a gázvezeték elleni szabotázsakcióban. Kijelentette, hogy Ukrajna kész teljes mértékben együttműködni a nemzetközi nyomozásban.",
       "importance": 4
     },
     {
-      "title": "Soha nem látott mértékben süllyednek a londoni házak az extrém szárazság miatt",
-      "summary": "A rendkívül forró és száraz nyár következtében soha nem látott mértékben kezdtek el süllyedni a londoni épületek. Ez a jelenség komoly infrastrukturális problémákat okoz és a klímaváltozás hatásaira figyelmeztet.",
+      "title": "Volt védelmi miniszter szerint Zelenszkijnek tisztáznia kell a környezetét érintő korrupciós ügyeket",
+      "summary": "A korábbi ukrán védelmi miniszter felszólította az elnököt, hogy nyilatkozzon a kormányzaton belüli korrupciós vádakról. A tisztázás elengedhetetlen a közbizalom fenntartásához a háború idején.",
+      "importance": 4
+    },
+    {
+      "title": "Soha nem látott mértékben süllyednek a londoni házak a forró és száraz nyár miatt",
+      "summary": "A rekordhőmérsékletek és a vízhiány következtében a londoni épületek alapjai megsüllyedtek, komoly strukturális károkat okozva. Ez a jelenség a klímaváltozás városi infrastruktúrára gyakorolt hatásaira hívja fel a figyelmet.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jogos-e AI modelleket szerzői jogvédelem alatt álló könyvekkel képezni?",
-      "summary": "Folyamatos vita tárgya, hogy jogszerű-e a mesterséges intelligencia modellek képzése szerzői jogvédelem alatt álló irodalmi művekkel. A kérdés bonyolult jogi és etikai kihívásokat vet fel a digitális korban.",
+      "title": "Jogi kérdés: Legális-e AI modelleket tréningezni szerzői jogvédelem alatt álló könyveken?",
+      "summary": "Az AI-modellek képzése során felmerül a szerzői jogok megsértésének problémája, különösen könyvek és más védett tartalmak felhasználásakor. A jogi szakértők szerint a helyzet rendkívül összetett és számos bírósági ügy várható.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI szerint Kaliforniának erősítenie kellene az AI biztonsági törvényét",
-      "summary": "Az OpenAI sürgeti Kaliforniát, hogy szigorítsa a mesterséges intelligencia biztonságát célzó törvényeit, jelezve a cég elkötelezettségét a felelősségteljes AI fejlesztés iránt. Ez a lépés rávilágít az AI szabályozás sürgősségére.",
+      "title": "Az OpenAI szerint Kalifornia erősítse meg az AI biztonsági törvényjavaslatát",
+      "summary": "A mesterséges intelligencia vezető fejlesztője, az OpenAI sürgeti Kalifornia államot, hogy tegye szigorúbbá az AI biztonságára vonatkozó szabályozását. A vállalat aggódik a technológia potenciális kockázatai miatt, és erősebb kontrollt szorgalmaz.",
       "importance": 5
     },
     {
-      "title": "A Frontier AI laborok hallgatnak arról, hogyan fékeznének meg egy 'kóbor' modellt",
-      "summary": "A vezető mesterséges intelligencia laboratóriumok továbbra sem hozzák nyilvánosságra, milyen stratégiákkal kezelnék egy esetlegesen kontrollálatlanná váló AI modell fenyegetését. Ez a titkolózás aggodalmakat vet fel az AI biztonságával kapcsolatban.",
+      "title": "A DeepMind alumni által alapított Inherent szerint AI „csapattársa” felülmúlta az Anthropic és OpenAI modelljeit",
+      "summary": "Az Inherent nevű startup bejelentette, hogy mesterséges intelligencia rendszere sikeresebben replikál kutatási eredményeket, mint a konkurens nagy AI cégek modelljei. Ez a felfedezés újabb lépést jelenthet az AI kutatási képességeinek fejlődésében.",
       "importance": 4
     },
     {
-      "title": "A Waymo egyedi chipje hajtja a robotaxi ambícióit",
-      "summary": "A Waymo robotaxi-céljait egy saját fejlesztésű, egyedi chip hajtja, ami kulcsfontosságú a járművek autonóm képességei szempontjából. Ez a technológia előrelépést jelent az önvezető autók piacán.",
+      "title": "Teszten a szokatlan formájú Samsung Galaxy Z Fold8 és az új Z Fold8 Ultra",
+      "summary": "A Samsung bemutatta legújabb hajlítható telefonjait, amelyek új formatervezéssel és továbbfejlesztett funkciókkal érkeznek. A tesztek vizsgálják, hogy az új modellek mennyire képesek megfelelni a felhasználói elvárásoknak és a piaci igényeknek.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A Moderna melanóma elleni vakcinája megállítja a betegség visszatérését",
-      "summary": "A Moderna által fejlesztett személyre szabott rákvakcina ígéretes eredményeket mutat a melanóma visszatérésének megakadályozásában. Ez az áttörés új reményt adhat a betegek számára és forradalmasíthatja a rákkezelést.",
+      "title": "A Moderna rákellenes vakcinája megállítja a melanoma visszatérését: mi a következő lépés a személyre szabott kezelésekben?",
+      "summary": "A Moderna kísérleti vakcinája jelentősen csökkentette a melanoma kiújulásának kockázatát, ami áttörést jelenthet a rákkezelésben. A felfedezés utat nyit a személyre szabott onkológiai terápiák fejlesztése előtt.",
       "importance": 5
     },
     {
-      "title": "Az űrhajós mellény megfelezi a sugárterhelést az űrben",
-      "summary": "Egy új fejlesztésű űrhajós mellény képes a felére csökkenteni a sugárterhelést az űrben, ami jelentős előrelépés az űrutazás biztonsága szempontjából. Ez a technológia kulcsfontosságú lehet a hosszú távú emberes küldetésekhez.",
-      "importance": 5
-    },
-    {
-      "title": "Rejtett vulkánok a Holdon utalnak a múltbéli turbulens időszakra",
-      "summary": "Felfedezett rejtett vulkánok a Holdon arra utalnak, hogy égitestünk múltja sokkal turbulensebb volt, mint eddig gondoltuk. Ezek a vulkáni képződmények új betekintést nyújtanak a Hold geológiai fejlődésébe.",
+      "title": "Új narcolepsia gyógyszer nyithat meg utat újszerű agyterápiák előtt",
+      "summary": "Egy új gyógyszer, amelyet a narcolepsia kezelésére fejlesztenek, ígéretes mellékhatással rendelkezik, amely az agyműködés szélesebb körű javítását is lehetővé teheti. Ez új lehetőségeket kínálhat más neurológiai betegségek kezelésében.",
       "importance": 4
     },
     {
-      "title": "A művészet gyógyszer, és ezt most már a tudomány is bebizonyította",
-      "summary": "A tudományos kutatások alátámasztják, hogy a művészet gyógyító erővel bír, hozzájárulva a mentális és fizikai jóléthez. Ez a felismerés megerősíti a művészet terápiás potenciálját.",
+      "title": "Megdöbbentő: a biomedikai tanulmányok 90%-a már AI-segítséggel készül",
+      "summary": "Egy friss tanulmány szerint a biomedikai kutatások jelentős részében már alkalmaznak mesterséges intelligenciát, ami felgyorsítja a folyamatokat, de etikai és minőségi kérdéseket is felvet. Ez rávilágít az AI tudományos munkára gyakorolt mélyreható hatására.",
+      "importance": 4
+    },
+    {
+      "title": "Az űrhajós mellény megfelezi a sugárterhelést",
+      "summary": "Egy innovatív űrhajós mellény kifejlesztésével a világűrben dolgozók sugárzási expozíciója felére csökkenthető. Ez jelentős előrelépést jelent a hosszútávú űrutazások biztonsága és az űrhajósok egészségének védelme szempontjából.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Verstappen balesete, Norris győzelme és Alonso feltámadása a Holland Nagydíjon",
-      "summary": "Max Verstappen súlyos balesetet szenvedett a Holland Nagydíjon, míg Lando Norris sorban másodszor nyert, de a legnagyobb feltámadás Fernando Alonsóé volt. A futam drámai fordulatokat és izgalmas pillanatokat hozott a Forma-1 rajongóknak.",
+      "title": "Szoboszlai Dominik büntetőjével mentett pontot a Liverpool",
+      "summary": "Szoboszlai Dominik a 99. percben értékesített büntetőjével biztosított egy pontot a Liverpool számára a Premier League nyitófordulójában. A magyar válogatott csapatkapitánya ezzel kulcsszerepet játszott csapata eredményében.",
       "importance": 5
     },
     {
-      "title": "Szoboszlai Dominik tökéletes büntetővel mentett pontot a Liverpoolnak a Premier League nyitányán",
-      "summary": "Szoboszlai Dominik a 99. percben értékesített egy tökéletes büntetőt, amivel pontot mentett a Liverpoolnak a Premier League első fordulójában. A magyar játékos kulcsszerepet játszott csapata mérkőzésén.",
-      "importance": 5
+      "title": "Verstappen balesetezett Hollandiában, Norris nyert, de Alonso feltámadása a legnagyobb",
+      "summary": "Max Verstappen súlyos balesetet szenvedett a Holland Nagydíjon, míg Lando Norris zsinórban másodszor nyert. A hétvége legnagyobb szenzációja azonban Fernando Alonso hihetetlen feltámadása volt, aki kiemelkedő teljesítményt nyújtott.",
+      "importance": 4
     },
     {
       "title": "„Szégyent hoztunk a mezre, szégyent hoztunk a városra” – mondta a Diósgyőr edzője a 4–1-es vereség után",
-      "summary": "A Diósgyőr edzője, a 4–1-es vereség után kritikusan nyilatkozott, kijelentve, hogy szégyent hoztak a mezre és a városra. Ez a nyilatkozat rávilágít a csapat gyenge teljesítményére és a szurkolók elégedetlenségére.",
-      "importance": 4
+      "summary": "A Diósgyőr labdarúgócsapatának edzője, a 4–1-es vereség után rendkívül kritikusan nyilatkozott csapata teljesítményéről. A nyilatkozat tükrözi a szurkolók és a klubvezetés csalódottságát.",
+      "importance": 3
     },
     {
-      "title": "IndyCar versennyel zárták az Egyesült Államok 250. születésnapját Washingtonban",
-      "summary": "Az Egyesült Államok függetlenségének 250. évfordulóját ünneplő nyári eseménysorozat egy látványos IndyCar versennyel zárult Washingtonban. Az eseményt nagy érdeklődés kísérte.",
-      "importance": 4
+      "title": "Trump zöld zászlót lengetett a washingtoni IndyCar futam rajtjánál",
+      "summary": "Donald Trump, az Egyesült Államok korábbi elnöke jelképesen elindította a Washingtonon áthaladó IndyCar autóversenyt. Az esemény különleges politikai figyelmet kapott a volt elnök megjelenésével.",
+      "importance": 3
     }
   ]
 }

@@ -1,6 +1,26 @@
 {
   "Telex": [
     {
+      "title": "A világrekordot futó robot után vessen egy pillantást az egymást püfölő robotbokszolókra is",
+      "link": "https://telex.hu/techtud/2026/08/24/humanoid-vilagjatekok-robotok-futas-box-futball",
+      "summary": "Minden pofon jó helyre ment a Kínában megrendezett Humanoid Világjátékokon."
+    },
+    {
+      "title": "A kormány után Zugló is hadat üzenne a Bayer Bosnyák-téri beruházásának",
+      "link": "https://telex.hu/belfold/2026/08/24/zuglo-xiv-kerulet-rozsa-andras-bayer-zuglo-varoskozpont-onkormanyzat-pert-indit",
+      "summary": "Mivel máig nem sikerült megegyezni a kerületnek fizetendő kárpótlás összegéről, a Zuglói Önkormányzat ősszel pert indíthat a Bosnyák tér mögötti irodakomplexumot építő Bayer-csoport ellen. Ennek nemcsak a kártérítés összegére, de az egész komplexum jövőjére hatása lehet."
+    },
+    {
+      "title": "Irán bedühödött: „egyetlen csepp” iráni olaj sem jut ki a Perzsa-öbölből, illetve a Hormuzi-szoroson keresztül",
+      "link": "https://telex.hu/kulfold/2026/08/24/iran-olajexport-perzsa-obol-usa",
+      "summary": "Irán azzal fenyegetőzik, hogy leállítja teljes olajexportját a Perzsa-öbölből, ha az Egyesült Államok folytatja a gazdasági háborút."
+    },
+    {
+      "title": "Nagyon várják az oroszok a Törökországból érkező ismeretlen eredetű benzinszállítmányt",
+      "link": "https://telex.hu/gazdasag/2026/08/24/torokorszag-benzin-oroszorszag-tanker-drontamadas-uzemanyaghiany",
+      "summary": "A 200 ezer hordó üzemanyag a hónap végén érkezhet az ukrán dróntámadások következtében benzinhiányban szenvedő Oroszországba."
+    },
+    {
       "title": "A fagyállómérgezést úgy is lehet kezelni, hogy leitatják a pácienst",
       "link": "https://telex.hu/eszkombajn/2026/08/24/fagyallo-alkohol-etanol-etilen-glikol-metanol",
       "summary": "A májunk könnyebben le tudja bontani az etanolt, mint a fagyállóban található etilén-glikolt, szóval amíg le van foglalva, addig ahhoz nem fog nyúlni."
@@ -54,30 +74,20 @@
       "title": "Szerdán elindul az MNB-botránnyal foglalkozó vizsgálóbizottság",
       "link": "https://telex.hu/gazdasag/2026/08/23/mnb-csoszi-attila-vizsgalobizottsag-felallasa",
       "summary": "A bizottságot vezető Csőszi Attila azt ígéri, kivizsgálják, hogy kik miatt és hova tűnt a közpénz."
-    },
-    {
-      "title": "Havasi Bertalan reagált arra, hogy egy tiszás képviselő azt állítja: Kövér László visszautasította, hogy kezet fogjon vele",
-      "link": "https://telex.hu/belfold/2026/08/23/koszegi-krisztian-kezfogas-kover-laszlo-fidesz-reakcio",
-      "summary": "Havasi elmondása szerint nem volt ott, de „ha így volt is: Kőszegi Krisztián a demokratikus jogállamot lebontó Tisza képviselője.”"
-    },
-    {
-      "title": "A mesterkélt francia akcentus elég volt, hogy perceken át elbeszélgessen az ál-Macronnal az akkori lengyel elnök",
-      "link": "https://telex.hu/kulfold/2026/08/23/prank-andy-burnham-porosenko-karacsony-kiberbiztonsag-oroszok",
-      "summary": "Nemrég Andy Burnham újdonsült brit kormányfőt húzta be üzenetváltásokba valaki, aki Trump kabinetfőnökének adta ki magát. Korábban is előfordult, hogy kamuhívás és deepfake vitte jégre a világ vezető politikusait, az oroszok élen járnak a zavarkeltésben. Nagy titkok kikotyogása nélkül is siker, ha a párbeszéd létrejön."
-    },
-    {
-      "title": "A tiszás Kőszegi Krisztián azt állítja, Kövér László megtagadta tőle a kézfogást egy megemlékezésen",
-      "link": "https://telex.hu/belfold/2026/08/23/koszegi-krisztian-kover-laszlo-kezfogas",
-      "summary": "A képviselő szerint a házelnöki tisztség a parlamenti munkán túli példamutatást is megkövetel."
-    },
-    {
-      "title": "Hétfőn újraindul a Kossuth Rádió, „újra mindenkié” az új szlogen",
-      "link": "https://telex.hu/belfold/2026/08/23/kossuth-radio-ujra-mindenkie-augusztus-24-visszateres",
-      "summary": "„Híreink igazak, történeteink hitelesek, vendégeink hozzáértőek lesznek”, ígéri az új vezetés."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "AI a kirakatokban, Putyin bajban",
+      "link": "https://444.hu/2026/08/24/ai-a-kirakatokban-putyin-bajban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Itt a 444 napindító hírlevele."
+    },
+    {
+      "title": "Irán azzal fenyegetőzik, hogy „egyetlen csepp” olaj sem jut ki a Perzsa-öbölből, ha életbe lépnek az amerikai szankciók",
+      "link": "https://444.hu/2026/08/24/iran-azzal-fenyegetozik-hogy-egyetlen-csepp-olaj-sem-jut-ki-a-perzsa-obolbol-ha-eletbe-lepnek-az-amerikai-szankciok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Scott Bessent amerikai pénzügyminiszter hétfőn ismerteti az Iránnal kereskedő országokat és vállalatokat is érintő új korlátozásokat, azt írta, „gazdasági D-nap” kezdődik."
+    },
     {
       "title": "Szerdán munkához lát az MNB-ügyet feltáró parlamenti vizsgálóbizottság",
       "link": "https://444.hu/2026/08/23/szerdan-munkaba-fog-az-mnb-ugyet-feltaro-parlamenti-vizsgalobizottsag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -142,19 +152,29 @@
       "title": "A kiadások visszafogását nem érte el a DOGE, de nagyon súlyos ára lett az USAID eltörlésének",
       "link": "https://444.hu/2026/08/23/a-kiadasok-visszafogasat-nem-erte-el-a-doge-de-nagyon-sulyos-ara-lett-az-usaid-eltorlesenek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "„Bele a darálóba!” – ezzel a felkiáltással szántotta be Elon Musk 2025 elején az USA nemzetközi segélyszervezetét a felesleges költések és a sokszínűség elleni harc jegyében. Másfél évvel később már egészen máshogy hangzik ez a mondat."
-    },
-    {
-      "title": "Zelenszkij szerint ha választásokat rendeznének a háború alatt, az szétszakítaná Ukrajnát",
-      "link": "https://444.hu/2026/08/23/zelenszkij-szerint-ha-valasztasokat-rendeznenek-a-haboru-alatt-az-szetszakitana-ukrajnat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Így reagált az ukrán elnök volt védelmi minisztere felvetésére, aki az utóbbi napokban többször is szóba hozta a választások kérdését."
-    },
-    {
-      "title": "A volt ukrán védelmi miniszter szerint Zelenszkijnek tisztáznia kell, tudott-e a környezetét érintő korrupciós ügyekről",
-      "link": "https://444.hu/2026/08/23/a-volt-ukran-vedelmi-miniszter-szerint-zelenszkijnek-tisztaznia-kell-tudott-e-a-kornyezetet-erinto-korrupcios-ugyekrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Arra ugyanakkor nincs bizonyítéka, hogy maga Zelenszkij is korrupt lenne. Az ukrán elnöki hivatal erre azzal reagált, hogy Fedorov sem kívülálló: 2019 óta valamennyi kormánynak a tagja volt."
     }
   ],
   "HVG": [
+    {
+      "title": "A NER elprivatizálta, most visszaveszik: mi lesz a sorsa a Schmidt, Demeter és Áder kezébe adott vagyonnak?",
+      "link": "https://hvg.hu/360/20260824_202634-mi-marad-a-kekvakbol-ingatlanvagyon-osztozkodas-hazmesterkereso",
+      "summary": "Egy tollvonással meg lehetett szüntetni a NER által létrehozott közérdekű vagyonkezelő alapítványokat (kekvákat), csakhogy már a nekik adott hatalmas ingatlanportfólió szétszálazása is óriási feladat. A HVG megpróbálta számba venni a lehetőségeket."
+    },
+    {
+      "title": "Guineában legalább harmincan haltak meg egy hulladéklerakóban történt földcsuszamlásban – videó",
+      "link": "https://hvg.hu/vilag/20260824_guineaban-legalabb-harmincan-haltak-meg-egy-hulladeklerakoban-tortent-foldcsuszamlasban",
+      "summary": "A kormány már korábban elrendelte a környéken élők evakuálását."
+    },
+    {
+      "title": "„Nagyon vártuk ezt a pillanatot”  – másfél hónap átmenet után hétfőn hajnalban megkezdte adását a megújult Kossuth Rádió",
+      "link": "https://hvg.hu/itthon/20260824_kozmedia-mtva-kossuth-radio",
+      "summary": "Népzenei válogatással, hírekkel és a változás utáni üzenettel várta a hallgatókat a közszolgálati adó."
+    },
+    {
+      "title": "Ősszel klímavédelmi törvény jön, Lázár János lemondott képviselői mandátumáról – Newscast",
+      "link": "https://hvg.hu/itthon/20260824_osszel-klimavedelmi-torveny-jon-lazar-janos-lemondott-kepviseloi-mandatumarol-newscast",
+      "summary": "Új klímavédelmi törvénycsomag jön, melyben a meghatározzák, hogy mit kell tenni Magyarország megmentéséért a klímaváltozás okozta válsághelyzetben. A fenékküszöb építése a vártnál gyorsabban halad, szerdára a paksi atomerőmű újra 2000 megawatton termelhet. Az ukrán elnök meghívta Magyar Pétert Kijevbe. A Tisza Szigetek országos találkozót tartottak a Margit-szigeten. Újraindult a hírszolgáltatás a közmédiában. Lázár János lemondott az országgyűlési képviselői mandátumáról. Kezdje a napot a HVG hírpodcastjával!"
+    },
     {
       "title": "A hónap végéig érkezhet meg az első olajszállítmány Törökországból Oroszországba",
       "link": "https://hvg.hu/gazdasag/20260823_olajszallitmany-torokorszag-oroszorszag-import-olaj",
@@ -209,26 +229,6 @@
       "title": "Szemtől szemben az önmumifikálódó szerzetesekkel - Az én hetem Krusovszky Dénessel",
       "link": "https://hvg.hu/360/20260823_az-en-hetem-krusovszky-denes",
       "summary": "Az én hetem című sorozatunkban ezúttal is öt, előre megadott kulcssszóból kellett írást varázsolnia az éppen soros írónknak. Ezúttal Krusovszky Dénesnek."
-    },
-    {
-      "title": "Elvitték a hatoslottón a több mint egymilliárdos főnyereményt",
-      "link": "https://hvg.hu/itthon/20260823_elvittek-a-hatoslotton-a-tobb-mint-egymilliardos-fonyeremenyt",
-      "summary": "Mutatjuk, melyik számokkal lehetett nyerni."
-    },
-    {
-      "title": "Videón a baleset: csúnyán összetörte a kocsiját a Holland Nagydíjon Max Verstappen",
-      "link": "https://hvg.hu/sport/20260823_holland-nagydij-baleset-max-verstappen-red-bull-piros-zaszlo-video",
-      "summary": "A piros zászló miatt nagyjából fél órára félbeszakították a futamot."
-    },
-    {
-      "title": "Előbb csak meleg lesz a héten, aztán ismét kánikula",
-      "link": "https://hvg.hu/elet/20260823_elobb-csak-meleg-lesz-a-heten-aztan-ismet-kanikula",
-      "summary": "Zápor és zivatar előbb kedden, aztán a hét vége felé jöhet."
-    },
-    {
-      "title": "Bayreuthban napirenden van Wagner antiszemitizmusa és az is, hogy Németországban 1945 óta nem voltak ekkora veszélyben a zsidók",
-      "link": "https://hvg.hu/360/20260823_hvg-antiszemitizmus-bayreuthi-fesztival-richard-wagner-oroksege-gustav-mahler-pavel-haas-michel-friedman",
-      "summary": "A bayreuthi Wagner-ünnepségek nem csupán a zeneszerző Richard Wagner akkori zsidógyűlöletével, hanem a mai, egyre növekvő antiszemitizmussal való szembenézésre is alkalmat kínálnak."
     }
   ],
   "BBC": [
@@ -248,19 +248,19 @@
       "summary": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine."
     },
     {
-      "title": "CrossCountry to provide full service on Monday after major disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
-      "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
-    },
-    {
-      "title": "Trump waves green flag to start IndyCar race through Washington streets",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
+      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely."
     },
     {
       "title": "Reform says it will prioritise British-born young workers for social housing",
       "link": "https://www.bbc.co.uk/news/articles/cvgjgyg1rngo?at_medium=RSS&at_campaign=rss",
       "summary": "Labour called the plan \"unserious and unworkable\" and accused Reform of pushing \"gimmicks and division\"."
+    },
+    {
+      "title": "CrossCountry to provide full service on Monday after major disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cp8x8xglp27o?at_medium=RSS&at_campaign=rss",
+      "summary": "CrossCountry says its \"key priority\" is now restoring as close to a normal service as possible."
     },
     {
       "title": "Australian shark attack victim grateful for 'second chance at life'",
@@ -273,19 +273,19 @@
       "summary": "The review of how rates are calculated in England and Wales could lead to reform of the system."
     },
     {
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment."
+    },
+    {
       "title": "Newcastle and Liverpool united in tribute to legend Keegan",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckgdgplejxzo?at_medium=RSS&at_campaign=rss",
       "summary": "Both Newcastle and Liverpool pay tribute to their legendary player on the opening weekend of the Premier League season."
     },
     {
-      "title": "Man arrested travelling to France after London fire left one dead and eight injured",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlxy6z2no?at_medium=RSS&at_campaign=rss",
-      "summary": "A 34-year-old man is arrested on suspicion of murder following a fatal fire in Hounslow."
-    },
-    {
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday."
     },
     {
       "title": "Viral 'Cat in the Hat' TikTok trend sparks fun fake videos but also real fear",

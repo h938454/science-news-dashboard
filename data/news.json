@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Ősszel felpöröghet az egészségügyi reform: indul a várólistacsökkentő program, az állami- és magánegészségügy viszonyát is szabályoznák",
+      "link": "https://telex.hu/belfold/2026/08/24/varolistak-csokkenteset-celzo-program-osszel-indul-hegedus-zsolt-bejelentese",
+      "summary": "Hegedűs Zsolt friss posztja alapján szeptemberben indul a nagyüzem, több területen megkezdődik a beavatkozás a jelenlegi rendszerbe. A miniszter nagyobb átláthatóságot ígér."
+    },
+    {
+      "title": "Kit Harington szerepelni fog a Harry Potter-sorozat második évadában",
+      "link": "https://telex.hu/after/2026/08/24/kit-harington-gilderoy-lockhart-hbo-harry-potter",
+      "summary": "A Trónok harcából ismert színész Gilderoy Lockhart karakterét kapta a sorozatban."
+    },
+    {
       "title": "A film lelke nem pótolható. Minden másra ott a mesterséges intelligencia",
       "link": "https://telex.hu/after/2026/08/24/a24-ai-szerzodes-google-deepmind",
       "summary": "Több hollywoodi stúdió és befolyásos szereplő állt össze mesterséges intelligenciát használó céggel. A trendteremtő A24 stúdió kapott is rendesen egy ilyen bejelentés után, miközben a fejlesztéseket védők szerint az MI-használat csak segít a kreatív folyamatokban."
@@ -64,16 +74,6 @@
       "title": "Több mint kétszáz tanárt keresnek az iskolakezdés előtt, matematikatanárból kellene a legtöbb",
       "link": "https://telex.hu/belfold/2026/08/24/pedagogus-hiany-betoltetlen-tanari-allashely-kozszolgallas-portal-hirdetesek",
       "summary": "Egy héttel az új tanév kezdete előtt még van olyan tankerületi központ, ahol 23 tanárra lenne szükség. Főleg természettudományos és nyelvszakos tanárt keresnek, nagy hiány van gyógypedagógusból is."
-    },
-    {
-      "title": "Empátiapróza vagy nyomorpornó?",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/08/24/empatiaproza-pereszlenyi-erika-csepelyi-adrienn-kritika",
-      "summary": "Királyi útja az együttérzésnek, amikor kényelmes kanapén elheveredve élhetjük át mások tragédiáit, írja kritikusunk, aki két friss magyar kötetről írva azt vizsgálja, mikor fordul át az empátiairodalom nyomorpornóba."
-    },
-    {
-      "title": "Jancsics Dávid visszalép a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elnökjelöltségétől",
-      "link": "https://telex.hu/belfold/2026/08/24/jancsics-david-visszalep-a-nemzeti-vagyonvisszaszerzesi-es-vagyonvedelmi-hivatal-elnokjeloltsegetol",
-      "summary": "Egy kérlelhetetlen pitbull kell inkább az elnöki székbe szerinte, ezért nem pályázik a posztra."
     }
   ],
   "Portfolio": [],
@@ -278,9 +278,14 @@
       "summary": "The former world champion was found guilty of lewd and libidinous behaviour towards a girl and boy."
     },
     {
-      "title": "Dragon Ball-inspired theme park to be built near Paris",
+      "title": "Manga-inspired theme park to be built near Paris",
       "link": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss",
       "summary": "The construction of three new parks was given the green light after a €6bn investment from Saudi Arabia."
+    },
+    {
+      "title": "Hodgkinson withdraws from Zurich Diamond League",
+      "link": "https://www.bbc.co.uk/sport/athletics/articles/cly5n3r521qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Keely Hodgkinson withdraws from the women's 800 metres at Thursday's Diamond League meeting in Zurich because her \"body is not quite ready\"."
     },
     {
       "title": "Videos showing dangerous driving easily found on social media",
@@ -301,14 +306,19 @@
       "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
       "link": "https://www.bbc.co.uk/news/articles/c3053n15r78o?at_medium=RSS&at_campaign=rss",
       "summary": "Two-year-old Mollie Murray from Montrose has a rare genetic disorder that makes her extremely sensitive to ultraviolet light"
-    },
-    {
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
+    },
+    {
+      "title": "Zillow and Redfin settle FTC antitrust case",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business."
+    },
     {
       "title": "Showcase your startup at TechCrunch Disrupt 2026 and book an exhibit table while there’s still space",
       "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
@@ -317,10 +327,10 @@
     {
       "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
       "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s Attorney General announced an investigation into the incident."
+      "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident."
     },
     {
-      "title": "Amazon hikes hardware prices by 60 percent, blaming memory shortage",
+      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
       "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
       "summary": "As the memory shortage continues to cause trouble for hardware makers, Amazon says it is now being forced to pass on the costs to its consumers."
     },
@@ -337,7 +347,7 @@
     {
       "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
       "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs"
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs."
     },
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -373,93 +383,7 @@
       "title": "Uber faces fine of nearly $1B over automated driver suspensions",
       "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
       "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second-largest penalty issued under Europe’s GDPR."
-    },
-    {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
-    },
-    {
-      "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
-      "link": "https://techcrunch.com/2026/08/23/techcrunch-mobility-the-custom-chip-driving-waymos-robotaxi-ambitions/",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation."
     }
   ],
-  "Nature": [
-    {
-      "title": "The exoskeletons are coming (to a store near you)",
-      "link": "https://www.nature.com/articles/d41586-026-02641-y",
-      "summary": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02641-y\">doi:10.1038/d41586-026-02641-y</a></p>Technology to help people walk, run and jump is moving rapidly from labs to hiking trails."
-    },
-    {
-      "title": "Frontier-technology markets are too narrow — here’s how to widen them",
-      "link": "https://www.nature.com/articles/d41586-026-02572-8",
-      "summary": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02572-8\">doi:10.1038/d41586-026-02572-8</a></p>Governments need to keep their procurement processes as open as possible, or they will face risks of technological lock-in down the line."
-    },
-    {
-      "title": "Billion-dollar machine aims to set a fusion-energy record — and study nuclear weapons",
-      "link": "https://www.nature.com/articles/d41586-026-02620-3",
-      "summary": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02620-3\">doi:10.1038/d41586-026-02620-3</a></p>Pacific Fusion is breaking ground next door to a US nuclear-weapons laboratory, hoping the partnership will give it an edge."
-    },
-    {
-      "title": "Patient’s own mitochondria injected into eyes in attempt to restore vision",
-      "link": "https://www.nature.com/articles/d41586-026-02616-z",
-      "summary": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02616-z\">doi:10.1038/d41586-026-02616-z</a></p>Injection of a person’s own mitochondria into the retina was safe but had only a temporary effect on restoring vision."
-    },
-    {
-      "title": "Can AI ever be conscious? The question stems from a misconception",
-      "link": "https://www.nature.com/articles/d41586-026-02571-9",
-      "summary": "<p>Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02571-9\">doi:10.1038/d41586-026-02571-9</a></p>A book outlines how the fields of artificial intelligence, psychology and philosophy have neglected a key aspect of consciousness: the body."
-    },
-    {
-      "title": "Briefing Chat: New narcolepsy drug could unlock host of novel brain therapies",
-      "link": "https://www.nature.com/articles/d41586-026-02626-x",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02626-x\">doi:10.1038/d41586-026-02626-x</a></p>Nature staff discuss how an FDA-approved drug for narcolepsy could have promise beyond the condition, and the longest-lived human brain organoids yet."
-    },
-    {
-      "title": "Earth-shaking thunder probes underground geology",
-      "link": "https://www.nature.com/articles/d41586-026-02596-0",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02596-0\">doi:10.1038/d41586-026-02596-0</a></p>Seismologists measured the varying speeds of a ‘thunderquake’ to survey an area with little seismic activity."
-    },
-    {
-      "title": "Why we must stop talking about artificial general intelligence — and instead build ‘pro-worker’ AI",
-      "link": "https://www.nature.com/articles/d41586-026-02566-6",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02566-6\">doi:10.1038/d41586-026-02566-6</a></p>Rather than racing to replace people, we should build AI tools that amplify human expertise and expand opportunity."
-    },
-    {
-      "title": "Sleuth identifies dozens of studies that used the wrong antibody",
-      "link": "https://www.nature.com/articles/d41586-026-02352-4",
-      "summary": "<p>Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02352-4\">doi:10.1038/d41586-026-02352-4</a></p>The case is the latest example of a scientific workhorse being misused in experiments."
-    },
-    {
-      "title": "Dialkyl ether synthesis through heteroatom homolytic substitution",
-      "link": "https://www.nature.com/articles/s41586-026-11043-z",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11043-z\">doi:10.1038/s41586-026-11043-z</a></p>Dialkyl ether synthesis through heteroatom homolytic substitution"
-    },
-    {
-      "title": "Hidden volcanoes hint at Moon’s turbulent past",
-      "link": "https://www.nature.com/articles/d41586-026-02555-9",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02555-9\">doi:10.1038/d41586-026-02555-9</a></p>A pair of massive shield volcanoes have been pinpointed by lunar spacecraft."
-    },
-    {
-      "title": "To shield the fetus, link a protein to these drugs",
-      "link": "https://www.nature.com/articles/d41586-026-02553-x",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02553-x\">doi:10.1038/d41586-026-02553-x</a></p>Adding albumin to popular antibody-based medicines helps to block their passage through the placenta."
-    },
-    {
-      "title": "Astronaut vest cuts radiation exposure in half",
-      "link": "https://www.nature.com/articles/d41586-026-02556-8",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02556-8\">doi:10.1038/d41586-026-02556-8</a></p>Tests on uncrewed NASA mission showed garment could spare astronauts the worst effects of solar storms."
-    },
-    {
-      "title": "These trees are making air quality in cities worse",
-      "link": "https://www.nature.com/articles/d41586-026-02586-2",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02586-2\">doi:10.1038/d41586-026-02586-2</a></p>They release compounds that contribute to ozone emissions, and rising temperatures could exacerbate the problem."
-    },
-    {
-      "title": "Exclusive: NSF set to issue lowest number of new grants in four decades",
-      "link": "https://www.nature.com/articles/d41586-026-02574-6",
-      "summary": "<p>Nature, Published online: 20 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02574-6\">doi:10.1038/d41586-026-02574-6</a></p>The US science-funding agency is withholding $1 billion of its budget so that the money can go to a special White House project."
-    }
-  ]
+  "Nature": []
 }

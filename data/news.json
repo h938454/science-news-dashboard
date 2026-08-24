@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Nincs titkárnő, nincs autó, nincs laptop, nincs habzsidőzsi – üzent az agrárkamara tisztviselőinek a miniszteri biztos",
+      "link": "https://telex.hu/gazdasag/2026/08/24/zoltan-peter-agrarkamara-atvilagitas-politikai-szerep-bona-szabolcs",
+      "summary": "Zoltán Péter szerint alaposan átvilágítják a kamarát, ami korábban a Fidesznek segített szavazatokat szerezni."
+    },
+    {
       "title": "Bánáti Annával és Előd Fruzsinával folytatódnak a Telex Discord-beszélgetései csütörtökön",
       "link": "https://telex.hu/kozlemeny/2026/08/24/banati-annaval-es-elod-fruzsinaval-folytatodnak-a-telex-discord-beszelgetesei-csutortokon",
       "summary": "A Gazdaság rovat vezetőivel az ország gazdasági helyzetéről, az elmúlt kormányzati ciklusokban eltűnt közpénzekről és azok visszaszerzési lehetőségeiről lesz szó."
@@ -69,15 +74,15 @@
       "title": "A Mészáros-féle V-Híd dominanciája után mindenki vasutat szeretne építeni",
       "link": "https://telex.hu/gazdasag/2026/08/24/vasuti-tenderek-kbm-vitezy-david-v-hid-swietelsky",
       "summary": "Elképesztő mennyiségű vasúti fejlesztés várható a közeljövőben, de a Mészáros-éra után ki fog a következő projekteken dolgozni? Eddig a Swietelsky Vasúttechnika tűnik a legnagyobb befutónak, de mások is készülődnek."
-    },
-    {
-      "title": "A választás óta a felére csökkent a Fidesz–KDNP-frakció létszáma a pécsi közgyűlésben",
-      "link": "https://telex.hu/belfold/2026/08/24/fidesz-kdnp-pecs-cziraki-attila-kilepes",
-      "summary": "A 2024-es önkormányzati választás után a legnagyobb frakciót adták a városban az egykori kormánypártok, de a nyolcból már csak négy képviselőjük maradt."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Lemondott bírói tisztségéről Handó Tünde, a fideszes igazságszolgáltatás korszakos vezetője",
+      "link": "https://444.hu/2026/08/24/lemondott-biroi-tisztsegerol-hando-tunde-a-fideszes-igazsagszolgaltatas-korszakos-vezetoje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az egykori OBH-elnök éveken át háborúzott a bírói karral, aztán az Alkotmánybíróságra menekítették. Ott még öt évig maradhat."
+    },
     {
       "title": "„Ha kötőtűszakkört indítana, arra is ennyien sorba állnának” – ilyen volt DJ Oti siófoki fellépése",
       "link": "https://444.hu/2026/08/24/balazs-szerintem-bolond-ilyen-volt-dj-oti-siofoki-fellepese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,14 +152,29 @@
       "title": "Olyan jól reagált a devecseri szárnyas fallosz kitalálója, mint a magyar politikából még senki, amikor kiröhögték",
       "link": "https://444.hu/2026/08/24/olyan-jol-reagalt-a-devecseri-szarnyas-fallosz-kitalaloja-mint-a-magyar-politikabol-meg-senki-amikor-kirohogtek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Nyárs Hajnalka alpolgármester nevetni is képes azon, hogy mennyire nem vette észre, hogy a jó szándékból kitalált és felállíttatott oszlop valójában micsoda. És úgy gondol rá, mint jól sikerült városmarketingre. Na jó, a kommentek azért marha rosszul estek neki."
-    },
-    {
-      "title": "Ruszin-Szendi honvédségi vezetőkkel, a roncs mellől számolt be arról, mi történt valójában a szolnoki reptérre zuhant Gripennel",
-      "link": "https://444.hu/2026/08/24/ruszin-szendi-honvedsegi-vezetokkel-a-roncs-mellol-szamolt-be-arrol-mi-tortent-valojaban-a-szolnoki-repterre-zuhant-gripennel?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A gépen levegő-levegő rakéták és gépágyúlőszer is volt, ezért volt különösen fontos, hogy ne lakott területre zuhanjon."
     }
   ],
   "HVG": [
+    {
+      "title": "Egy biciklis kukkoló tartja félelemben az embereket Nyíregyházán",
+      "link": "https://hvg.hu/itthon/20260824_biciklis-kukkolo-nyiregyhaza",
+      "summary": "A rendőrség a Facebookról tudta meg, hogy mi történt, feljelentést még senki sem tett."
+    },
+    {
+      "title": "Ilyen konvojt ritkán látni: több mint tíz Bugatti vonult egymás után",
+      "link": "https://hvg.hu/cegauto/20260824_bugatti-konvoj-rendori-kiseret-mate-rimac-tourbillon",
+      "summary": "A csapatot a cég jelenlegi vezérigazgatója vezette fel."
+    },
+    {
+      "title": "Trump pénzügyminisztere: Minden idők legnagyobb pénzügyi offenzíváját indítottuk el Irán és támogatói ellen",
+      "link": "https://hvg.hu/gazdasag/20260824_egyesult-allamok-iran-gazdasagi-szankciok-scott-bessent",
+      "summary": "Scott Bessent szerint a szankciócsomag „gazdasági D-nap” Irán számára."
+    },
+    {
+      "title": "A devecseri szárnyas fallosz kitalálója: Az ország meglátta benne azt, amit mi nem láttunk bele",
+      "link": "https://hvg.hu/elet/20260824_devecseri-szarnyas-fallosz-alpolgarmester",
+      "summary": "Devecser független alpolgármestere bevallotta, hogy nem így tervezte a városmarketinget, viszont működik."
+    },
     {
       "title": "Levideózták Orbán Viktort Horvátországban, ahogy jachtozik",
       "link": "https://hvg.hu/itthon/20260824_orban-viktor-horvatorszag-jacht",
@@ -209,26 +229,6 @@
       "title": "A Bastille lemondta koncertjét a Szegedi Ifjúsági Napokon",
       "link": "https://hvg.hu/kultura/20260824_szegedi-ifjusagi-napok-fesztival-bastille-koncert-lemondas-dan-smith-hangszalproblema",
       "summary": "Az énekes hangszálaival van baj."
-    },
-    {
-      "title": "Trombitás Kristóf trágár módon szidta Mészárost és Tiborczot a mandineres felmondások miatt",
-      "link": "https://hvg.hu/itthon/20260824_trombitas-kristof-meszaros-tiborcz",
-      "summary": "A volt megafonos influenszer számon kérte a milliárdosokon, mit csinálnak a vagyonukkal."
-    },
-    {
-      "title": "Euronews: Magyarország időben teljesítheti a 10 milliárd euró lehívásához szükséges szupermérföldköveket",
-      "link": "https://hvg.hu/gazdasag/20260824_europai-unio-bizottsag-szupermerfoldko-magyar-kormany-unios-helyreallitasi-forras",
-      "summary": "A kormány szerint a vállalások kétharmadát már teljesítették."
-    },
-    {
-      "title": "Nem fellebbeztek az augusztus 20-i közbeszerzés eredményével szemben – vizsgálatról sem tudni a különös tender ügyében",
-      "link": "https://hvg.hu/gazdasag/20260824_kozbeszerzes-intergitas-hatosag-vizsgalat-augusztus-20-unnep-rendezveny-megbizas",
-      "summary": "A Mi Hazánk feljelentést ígért, a Fidesz állítólag a Közbeszerzési Hatósághoz fordult az idei augusztus 20-i rendezvények meghívásos tendere miatt, de úgy tűnik, sem a Közbeszerzési, sem az Integritás Hatóság nem vizsgálódik az ügyben."
-    },
-    {
-      "title": "Eltűnt a Mol és egy Mészáros-cég neve is a horvát focicsapat szponzorfaláról",
-      "link": "https://hvg.hu/kkv/20260824_meszaros-lorinc-ceg-eszek-horvat-focicsapat-mol-nk-osijek-szponzorfal",
-      "summary": "A Mészáros és Mészáros Zrt. még a választások előtti napon is szerepelt rajta, a cég logója mostanra azonban már az NK Osijek mezéről is lekerült."
     }
   ],
   "BBC": [
@@ -268,9 +268,9 @@
       "summary": "Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania."
     },
     {
-      "title": "Prince Harry steps down from African wildlife charity board",
-      "link": "https://www.bbc.co.uk/news/articles/c750n3nx76ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Last year the organisation African Parks  admitted human rights abuses were committed by its rangers in Congo-Brazzaville."
+      "title": "Charity? Acting? The Cotswolds? What will Harry and Meghan's UK life look like?",
+      "link": "https://www.bbc.co.uk/news/articles/c6243glyqv7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple's return to the UK is imminent - and what they'll be focusing on here is gradually becoming clearer."
     },
     {
       "title": "Snooker champion Graeme Dott guilty of child sex abuse",
@@ -281,11 +281,6 @@
       "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
       "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
       "summary": "The fire has burned around 15,000 acres and is completely uncontained, officials say."
-    },
-    {
-      "title": "Race Across the World star Jo Gardiner dies aged 61 one year after son's death",
-      "link": "https://www.bbc.co.uk/news/articles/ce3r1nwrxpwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former TV contestant, Jo Gardiner, 61, dies of cancer one year after her son's death in a crash."
     },
     {
       "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
@@ -301,6 +296,11 @@
       "title": "Toddler with sun allergy can play in daylight thanks to UV window film",
       "link": "https://www.bbc.co.uk/news/articles/c3053n15r78o?at_medium=RSS&at_campaign=rss",
       "summary": "Two-year-old Mollie Murray from Montrose has a rare genetic disorder that makes her extremely sensitive to ultraviolet light"
+    },
+    {
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up."
     },
     {
       "title": "EsDeeKid mystery no problem for fans after 'insane' All Points East set",

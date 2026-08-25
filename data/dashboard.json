@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "5,5 százalékra csökkentette az alapkamatot a Magyar Nemzeti Bank",
-      "summary": "A Magyar Nemzeti Bank 5,5 százalékra csökkentette az alapkamatot, ami több mint tíz éve nem látott mértékű lépés. Ez a döntés jelentős hatással lehet a hitelezésre és a gazdaságra.",
+      "title": "Az MNB tovább csökkentette az alapkamatot és tartósan alacsony inflációt prognosztizál",
+      "summary": "A Magyar Nemzeti Bank 5,5 százalékra mérsékelte az alapkamatot, és előrejelzése szerint az infláció nemcsak idén, hanem 2027-ig 3 százalék alatt maradhat. Ez a jegybank tíz éve nem látott kamatcsökkentési ciklusának része, ami jelentős hatással van a gazdaságra.",
       "importance": 5
     },
     {
-      "title": "Az agrárminisztérium visszavonta a Mészáros Lőrinc pulykafeldolgozó cégének odaítélt uniós támogatást",
-      "summary": "Az agrárminisztérium visszavonta a Mészáros Lőrinc pulykafeldolgozó cégének korábban odaítélt uniós támogatást. A döntés előzményei és okai kérdéseket vetnek fel a támogatások elosztásával kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Hűtlen kezelés gyanújával tett feljelentést a Külügyminisztérium a lélegeztetőgép-beszerzések miatt",
-      "summary": "Hűtlen kezelés gyanújával feljelentést tett a Külügyminisztérium a korábbi lélegeztetőgép-beszerzések ügyében. Az eset a járvány alatti közpénzek elköltésének átláthatóságát kérdőjelezi meg.",
-      "importance": 5
-    },
-    {
-      "title": "Költségvetés: az idei év nagyon csúnya lesz, de jövőre a kormány fürödni fog a pénzben",
-      "summary": "Az elemzők szerint az idei év költségvetési szempontból nehéznek ígérkezik, de jövőre a kormány jelentős anyagi forrásokkal gazdálkodhat. A gazdasági előrejelzések vegyes képet mutatnak.",
+      "title": "A Vagyonvisszaszerzési Hivatal elnökjelöltjeinek meghallgatása és a kinevezés politikai üzenete",
+      "summary": "Meghallgatták a Vagyonvisszaszerzési Hivatal elnökjelöltjeit, köztük egy Tisza párti és két független aspiránst. Török Gábor politológus szerint a vezető kiválasztása kulcsfontosságú politikai üzenetet hordoz majd arról, milyen szerepet szán a többség a hivatalnak.",
       "importance": 4
+    },
+    {
+      "title": "Jelentős megtakarítással zárult a MÁV és a Magyar Közút járműbeszerzése",
+      "summary": "Vitézy Dávid bejelentette, hogy a MÁV és a Magyar Közút közös járműbeszerzése 41 milliárd forinttal a becsült 89 milliárd forint alatt, azaz jelentős megtakarítással zárult. Ez a közbeszerzés eredményeként számos új járművel bővülhet a két állami vállalat flottája.",
+      "importance": 4
+    },
+    {
+      "title": "Nyilvánossá vált a mentők kiérkezési ideje",
+      "summary": "Mostantól bárki számára hozzáférhetővé vált az információ arról, hogy a mentők ténylegesen hány perc alatt érnek ki egy-egy riasztáshoz. Ez az átláthatósági lépés lehetőséget ad az állampolgároknak a szolgáltatás hatékonyságának ellenőrzésére.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Kína figyelmeztet, megvédi érdekeit, miután az USA kibővítette az Irán elleni szankciókat",
-      "summary": "Kína figyelmeztetett, hogy megvédi érdekeit, miután az Egyesült Államok kibővítette az Irán elleni szankciókat. A lépés tovább élezi a feszültséget a nagyhatalmak és Irán között.",
+      "title": "Megdőlt az óceánok hőmérsékleti rekordja, súlyos El Niño előtt áll a világ",
+      "summary": "A világ óceánjainak átlaghőmérséklete új rekordot döntött, ami aggasztó előjel egy várhatóan rendkívül erős El Niño jelenség előtt. Ez a folyamat súlyos időjárási anomáliákat és környezeti következményeket vonhat maga után globálisan.",
       "importance": 5
     },
     {
-      "title": "Legalább 35 ezren haltak meg a hőhullámok miatt Európában augusztusig",
-      "summary": "Az idei nyári hőhullámok következtében legalább 35 ezren vesztették életüket Európában augusztusig. A rendkívüli hőség súlyos közegészségügyi válságot okozott.",
-      "importance": 5
-    },
-    {
-      "title": "Elhalasztották a Lockerbie-bombatámadás perét, napokkal a tervezett kezdés előtt",
-      "summary": "Elhalasztották a Lockerbie-bombatámadás perét, napokkal a tervezett kezdés előtt. A halasztás további késedelmet okoz a régóta húzódó, nemzetközi jelentőségű ügyben.",
+      "title": "Kína elítéli az Egyesült Államok Irán elleni új szankcióit",
+      "summary": "Kína 'illegálisnak' nevezte az Egyesült Államok új szankcióit, amelyeket Irán és kereskedelmi partnerei ellen hoztak. Ez a lépés tovább élezi a feszültséget a két nagyhatalom között, és hatással lehet a globális kereskedelemre.",
       "importance": 4
     },
     {
-      "title": "Több mint 70 000 szociális és megfizethető lakás épül Angliában a következő 10 évben",
-      "summary": "Több mint 70 000 szociális és megfizethető lakás épül Angliában a következő tíz évben. A kormányzati terv célja a lakhatási válság enyhítése és a rászorulók támogatása.",
+      "title": "Trump gazdasági nyomással próbálkozik Iránnal szemben, de az iráni vezetés másképp látja a helyzetet",
+      "summary": "Donald Trump reményei szerint egy 'gazdasági ostrom' nyomás alá helyezi Iránt, de az iráni vezetők más stratégiát követnek. A helyzet elemzői szerint Teherán nem valószínű, hogy enged a nyomásnak, ami a konfliktus további elmélyülését vetítheti előre.",
       "importance": 4
+    },
+    {
+      "title": "Trump eltávolította Szíriát a terrorizmust támogató országok listájáról",
+      "summary": "Donald Trump elnöki rendelettel levette Szíriát az Egyesült Államok terrorizmust támogató országok feketelistájáról. Ez a döntés jelentős fordulatot jelent az amerikai–szír kapcsolatokban, és geopolitikai következményekkel járhat a Közel-Keleten.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI termékfejlesztési vezetője szerint a világ készen áll a mesterséges intelligencia áttöréseire",
-      "summary": "Az OpenAI termékfejlesztési vezetője szerint a világ készen áll a mesterséges intelligencia újabb áttöréseire. Interjújában a technológia jövőbeni alkalmazásairól beszélt.",
+      "title": "Az OpenAI termékvezetője szerint a világ készen áll a mesterséges intelligenciára",
+      "summary": "Thibault Sottiaux, az OpenAI termékvezetője egy interjúban kifejezte, hogy a világ készen áll a mesterséges intelligencia által kínált lehetőségekre és kihívásokra. A cég célja, hogy az AI-t széles körben hozzáférhetővé tegye, miközben hangsúlyozza az etikai szempontokat.",
+      "importance": 5
+    },
+    {
+      "title": "A Google Pixel 11 Pro Fold tartóssági problémái ismét felszínre kerültek",
+      "summary": "A Google állítólag negyedszerre is ugyanazt a hibát követte el a Pixel 11 Pro Fold telefonnal, amely videók tanúsága szerint könnyen széttörik. Ez a hiba rontja a készülék tartósságát és felhasználói élményét, komoly kritikákat váltva ki a tech közösségben.",
       "importance": 4
     },
     {
-      "title": "Az Amazon 60%-kal emelte hardvertermékei árait, a memóriaellátási hiányra hivatkozva",
-      "summary": "Az Amazon 60%-kal emelte hardvertermékei árait, a memóriaellátási hiányra hivatkozva. Ez a lépés jelentősen befolyásolhatja a fogyasztók vásárlási szokásait.",
+      "title": "A WhatsApp szigorítja a fiókbiztonságot erősebb kétlépcsős azonosítással",
+      "summary": "A WhatsApp továbbfejlesztette fiókbiztonsági intézkedéseit, bevezetve az erősebb kétlépcsős azonosítást és egyéb védelmi funkciókat. Ez a lépés a felhasználói adatok fokozott védelmét szolgálja a folyamatosan növekvő online fenyegetésekkel szemben.",
       "importance": 4
     },
     {
-      "title": "A technológiailag támogatott alvás javíthatja a pihenést, de alááshatja az adatvédelmet",
-      "summary": "A technológiailag támogatott alvás javíthatja a pihenést, de egyúttal alááshatja az adatvédelmet. Fontos az egyensúly megteremtése az egészségügyi előnyök és a személyes adatok védelme között.",
-      "importance": 4
-    },
-    {
-      "title": "A robotikus exoskeletonok hamarosan elérhetővé válnak a nagyközönség számára",
-      "summary": "A robotikus exoskeletonok hamarosan elérhetővé válnak a nagyközönség számára, forradalmasítva a mozgástámogatást. Ez a technológia jelentős segítséget nyújthat mozgáskorlátozottaknak és bizonyos munkakörökben dolgozóknak.",
-      "importance": 4
+      "title": "A Fitbit alapítói új LTE alapú egészségügyi és biztonsági karkötőt mutattak be",
+      "summary": "A Fitbit alapítói piacra dobták a Luffu Link nevű új terméküket, egy LTE-képes egészségügyi és biztonsági karkötőt, amely valós idejű megfigyelést és vészhelyzeti értesítéseket biztosít. Ez az innováció új lehetőségeket nyithat az egészségügyi viselhető eszközök piacán.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Egy milliárd dolláros berendezés fúziós energiarekordot próbál felállítani és nukleáris fegyvereket is tanulmányoz",
-      "summary": "Egy milliárd dolláros berendezés fúziós energiarekordot próbál felállítani, miközben nukleáris fegyvereket is tanulmányoz. A projekt áttörést hozhat az energiatermelésben és a védelmi technológiában.",
+      "title": "Milliárd dolláros gép a fúziós energiarekordért és a nukleáris fegyverek tanulmányozásáért",
+      "summary": "Egy több milliárd dolláros berendezés épül, amelynek célja egy új fúziós energiarekord felállítása, miközben nukleáris fegyverek tanulmányozására is alkalmas lesz. Ez a projekt forradalmasíthatja az energiatermelést és a védelmi technológiát, jelentős előrelépést hozva a tudományban.",
       "importance": 5
     },
     {
-      "title": "Saját mitokondriumokat fecskendeztek egy páciens szemébe a látás helyreállítására",
-      "summary": "Saját mitokondriumokat fecskendeztek egy páciens szemébe, kísérletképpen a látás helyreállítására. Ez az innovatív eljárás új reményt adhat a látáskárosodásban szenvedőknek.",
-      "importance": 5
-    },
-    {
-      "title": "A tengerszint emelkedése sokkal jelentősebb, mint azt a legtöbb part menti kockázatértékelés feltételezte",
-      "summary": "Egy új kutatás szerint a tengerszint emelkedése sokkal jelentősebb, mint azt a legtöbb part menti kockázatértékelés feltételezte. Ez súlyosabb következményekkel járhat a tengerparti régiókra nézve.",
-      "importance": 5
-    },
-    {
-      "title": "A kérdés, hogy a mesterséges intelligencia valaha is öntudatra ébredhet-e, egy téves feltételezésből ered",
-      "summary": "A kérdés, hogy a mesterséges intelligencia valaha is öntudatra ébredhet-e, egy téves feltételezésből ered. A tudományos konszenzus szerint az AI jelenlegi formájában nem rendelkezik öntudattal.",
+      "title": "A szakértői értékelés jövője mesterséges intelligencia támogatást igényel, nem tilalmakat",
+      "summary": "A szakértői értékelési folyamat (peer review) jövője szempontjából kulcsfontosságú a mesterséges intelligencia támogatásának integrálása ahelyett, hogy betiltanák. Az AI segíthet a hatékonyság növelésében és a tudományos publikációk minőségének biztosításában, miközben az emberi felügyelet továbbra is elengedhetetlen.",
       "importance": 4
+    },
+    {
+      "title": "Ősi mérőműszert találtak Egyiptomban",
+      "summary": "Egy különleges, ősi mérőműszert fedeztek fel Egyiptomban, amely betekintést enged az ókori civilizációk fejlett mérnöki tudásába. A lelet segíthet jobban megérteni, hogyan terveztek és építettek hatalmas építményeket az egyiptomiak.",
+      "importance": 4
+    },
+    {
+      "title": "Hogyan örökített meg egy kutató a brit kormányzati tudomány egy eltűnt világát",
+      "summary": "Egy kutató dokumentálta a brit kormányzati tudomány egy eltűnt korszakát, feltárva annak működését és befolyását a múltban. Ez a munka rávilágít a tudománypolitika változásaira és a kutatás finanszírozásának történetére.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Rejtélyes körülmények vették el az olimpián az utolsó ugrását, fél centin múlhatott az érem",
-      "summary": "Egy sportoló rejtélyes körülmények között veszítette el az utolsó olimpiai ugrásának lehetőségét, ami miatt fél centin múlhatott az érem. Az eset nagy vitát váltott ki a sportvilágban.",
-      "importance": 4
-    },
-    {
-      "title": "Eltűntként köröz a rendőrség egy volt magyar válogatott focistát",
-      "summary": "Eltűntként köröz a rendőrség egy volt magyar válogatott labdarúgót. Az ügy nagy figyelmet kapott a sportkedvelők és a közvélemény körében.",
+      "title": "Joe Root csalódott Carse incidense miatt a krikettben",
+      "summary": "Joe Root, angol krikettjátékos, csalódottságának adott hangot egy Carse incidenst követően, amely feltehetően a csapatdinamikát vagy egy mérkőzés eseményeit érintette. A sportoló megjegyzései rávilágítanak a belső feszültségekre vagy a versenyhelyzet kihívásaira.",
       "importance": 3
     },
     {
-      "title": "Megoperálták a gerincsérülést szenvedett vadászpilótát, a miniszter bizakodó",
-      "summary": "Sikeresen megoperálták a lezuhant Gripen vadászgép gerincsérülést szenvedett pilótáját, akinek állapota stabil. Bár nem sportoló, a helytállása és a felépülése a sportolói kitartáshoz és rehabilitációhoz hasonlítható.",
+      "title": "Andrew Tate ügyvédei szerint túlzott, és nem birtokolta a fotókon szereplő szuperautókat",
+      "summary": "Az egykori kickboxoló, Andrew Tate ügyvédei azt állítják, hogy Tate túlzottan mutogatott be szuperautókat a fotóin, de valójában nem volt azok tulajdonosa. A hír Tate jogi ügyeihez kapcsolódik, és rávilágít a közösségi médiás személyiségek valóság és imázs közötti különbségeire.",
       "importance": 2
     },
     {
-      "title": "Megbotlott, majd a repülőgép kerekei alá került egy dolgozó Montréal nemzetközi repülőterén",
-      "summary": "Tragikus baleset történt a montréali repülőtéren, ahol egy dolgozó a repülőgép kerekei alá került. Az eset a fizikai kockázatokra és a gyors reagálás fontosságára hívja fel a figyelmet, amelyek a sportban is előfordulhatnak.",
+      "title": "Helyi atlétikai bajnokságra készülnek a fiatalok",
+      "summary": "A város fiatal atlétái gőzerővel készülnek a közelgő helyi bajnokságra, remélve, hogy jó eredményekkel zárhatják a szezont. Az edzők nagy reményeket fűznek a tehetséges sportolókhoz.",
+      "importance": 1
+    },
+    {
+      "title": "Labdarúgó átigazolási hírek a bajnokság szünetében",
+      "summary": "A labdarúgó bajnokság szünetében több klub is aktív az átigazolási piacon, új játékosokat keresve a keret megerősítésére. A szurkolók izgatottan várják a bejelentéseket.",
       "importance": 1
     }
   ]

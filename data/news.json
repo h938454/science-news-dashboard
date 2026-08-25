@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Utolsó kiegészítője mellé egy teljes ráncfelvarrást is kap a Witcher 3, és még fizetni sem kell érte",
+      "link": "https://telex.hu/after/2026/08/25/videojatek-bejelentes-gamescom-2026-megnyito-witcher-3-heroes-3",
+      "summary": "Ha valakinek megvan a játék, megkapja ingyen, sőt, ha a kiegészítők hiányoznak, most azokat is be lehet húzni. Ezt az idei Gamescom megnyitóján jelentették be, ahol most is voltak még más érdekességek."
+    },
+    {
       "title": "„A cél nem a sebészi pontosság, hanem a káosz” – Tajvan drónáradattal szabadítaná el a poklot egy kínai invázióval szemben",
       "link": "https://telex.hu/kulfold/2026/08/25/tajvan-kina-dron-vedelem-pokoljaras-hellscape-porcupine",
       "summary": "A legújabb védekezési tervek szerint Tajvan drónhadsereggel rettenthetné el Kínát a sziget megtámadásától. Ehhez azonban két dolog nagyon hiányzik: a drónok és a kiképzett katonák, akik hatékonyan tudják használni az eszközöket."
@@ -69,11 +74,6 @@
       "title": "Az adatvédelmi hatóság szerint a jegybanknak ki kell adnia a tavaly január óta kötött szerződéseit",
       "link": "https://telex.hu/belfold/2026/08/25/magyar-nemzeti-bank-transparency-international-peterfalvi-attila",
       "summary": "A Transparency International közadatigénylését eleinte nem akarták teljesíteni, de azóta már Varga Mihály is máshogy gondolja."
-    },
-    {
-      "title": "Előrehozott választással maradna hatalomban Giorgia Meloni",
-      "link": "https://telex.hu/kulfold/2026/08/25/giorgia-meloni-olaszorszag-elorehozott-valasztas",
-      "summary": "A Corriere della Sera szerint 2027. április 11-12. magasságában tartanák a voksolást a menetrend szerinti október helyett."
     }
   ],
   "Portfolio": [],
@@ -278,19 +278,24 @@
       "summary": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday."
     },
     {
-      "title": "Inspectors to assess police after Henry Nowak murder",
-      "link": "https://www.bbc.co.uk/news/articles/cly4w05x4p6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hampshire Police officers initially arrested the student and placed him in handcuffs as he lay dying."
-    },
-    {
       "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
       "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
       "summary": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail."
     },
     {
-      "title": "Dolly Parton: Life of the music legend whose songs touched millions",
+      "title": "Life of the music legend whose songs touched millions",
       "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
       "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You."
+    },
+    {
+      "title": "A life in pictures",
+      "link": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer rose from humble beginnings to become one of the most beloved entertainers in the world."
+    },
+    {
+      "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
+      "link": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom."
     },
     {
       "title": "Asbestos killed my mum in her 40s – was her school to blame?",
@@ -301,14 +306,14 @@
       "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
       "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before."
-    },
-    {
-      "title": "Sir Billy Boston - 'the world-class athlete, whose story deserved to be told'",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c5yedegw3wpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rugby league commentator Matt Newsum says Sir Billy Boston was a \"world-class athlete, whose story deserved to be told\"."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "X sends cease-and-desist to open-source project Nitter over alleged scraping",
+      "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "summary": "X has sent cease-and-desist letters to Nitter, the open source project behind privacy-friendly X frontends, demanding its instances and code repository be taken down over alleged scraping."
+    },
     {
       "title": "Instagram’s ‘First Draft’ feature aims to make editing Reels less tedious",
       "link": "https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/",
@@ -378,11 +383,6 @@
       "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
       "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
       "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
-    },
-    {
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
-      "link": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-      "summary": "The funding, Gatik's largest so far, was led by Qatar Investment Authority and Koch Disruptive Technologies."
     }
   ],
   "Nature": [

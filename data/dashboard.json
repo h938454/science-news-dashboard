@@ -1,97 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Hűtlen kezelés gyanújával tett feljelentést a Külügyminisztérium a lélegeztetőgép-beszerzések miatt",
-      "summary": "A Külügyminisztérium hűtlen kezelés gyanújával tett feljelentést a Covid-járvány idején történt lélegeztetőgép-beszerzések ügyében. A gyanú szerint több milliárd forintos kár érhette a költségvetést a beszerzések során.",
+      "title": "A paksi blokkok újraindításával helyreállt az áramellátás",
+      "summary": "A Mavir bejelentette, hogy a paksi atomerőmű blokkjainak újraindításával az ország áramellátása normalizálódott. Ez az ország energetikai stabilitása szempontjából kulcsfontosságú fejlemény.",
       "importance": 5
     },
     {
-      "title": "Éjjel beröffentették a negyedik paksi blokkot is",
-      "summary": "Éjjel sikeresen beindították a negyedik paksi blokkot, ami hozzájárul az ország energiaellátásának stabilizálásához. Az új blokk üzembe helyezése jelentős lépés az energiabiztonság szempontjából.",
+      "title": "Elmaradt a Közmédia Testület tagjelöltjeinek meghallgatása a Tisza kezdeményezésére",
+      "summary": "A Tisza Párt kérésére elhalasztották a Független Közmédia Testület három tagjelöltjének meghallgatását. Az eljárás tisztaságával kapcsolatos aggodalmak miatt akadt el a folyamat.",
+      "importance": 4
+    },
+    {
+      "title": "Kizárták Mészáros Lőrinc pulykafeldolgozóját egy már megnyert uniós pályázatból",
+      "summary": "Az Agrárminisztérium visszavonta Mészáros Lőrinc Gallicoop pulykafeldolgozó cégének már megnyert uniós támogatását. A cég jogi lépéseket tervez a döntés ellen.",
+      "importance": 4
+    },
+    {
+      "title": "Feljelentés érkezett a Szijjártó Péter idején kötött Covid-beszerzések miatt",
+      "summary": "Orbán Anita, a Külügyminisztérium korábbi munkatársa feljelentést tett a Szijjártó Péter minisztersége alatt történt lélegeztetőgép- és más Covid-beszerzések ügyében. A feljelentés hűtlen kezelés gyanúját veti fel.",
       "importance": 5
-    },
-    {
-      "title": "Három év alatt 36 millió forintért bérelt a minisztérium Böröndi Gábornak házat, úgy, hogy a szolgálati villa üresen állt",
-      "summary": "A Honvédelmi Minisztérium 36 millió forintért bérelt luxusházat Böröndi Gábor volt vezérkari főnöknek három év alatt, miközben a számára fenntartott szolgálati villa üresen állt. Az eset komoly aggályokat vet fel a közpénzek felhasználásával kapcsolatban.",
-      "importance": 4
-    },
-    {
-      "title": "Lemondott bírói tisztségéről Handó Tünde, a fideszes igazságszolgáltatás korszakos vezetője",
-      "summary": "Lemondott bírói tisztségéről Handó Tünde, aki a fideszes igazságszolgáltatás egyik meghatározó vezetője volt. A lemondás jelentős változást hozhat a magyar bírói karban és a jogrendszer működésében.",
-      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrán dróntámadás ért egy orosz olajfinomítót, két ember meghalt",
-      "summary": "Ukrán dróntámadás ért egy orosz olajfinomítót, melynek következtében két ember életét vesztette. A támadás a háború eszkalációját jelzi, és kritikus infrastruktúrát vesz célba.",
+      "title": "Drónt és feltételezett robbanóanyagot találtak a lipcsei reptér elleni támadási kísérlet ügyében",
+      "summary": "A német hatóságok újabb drónt és feltételezett robbanóanyagot találtak a lipcsei repülőtér elleni állítólagos támadási kísérlettel kapcsolatban. A nyomozás tovább folyik a terrorgyanús eset kapcsán.",
+      "importance": 5
+    },
+    {
+      "title": "Ukrán dróntámadás orosz olajfinomító ellen, orosz támadás ukrán határátkelőre",
+      "summary": "Ukrajna dróntámadást hajtott végre egy orosz olajfinomító ellen, míg Oroszország egy ukrán-moldovai határátkelőt célzott. A háború újabb eszkalációjára utalnak a kölcsönös csapások.",
+      "importance": 5
+    },
+    {
+      "title": "Irán teljesen felkészült az USA szankcióinak ellensúlyozására",
+      "summary": "Irán kijelentette, hogy teljes mértékben felkészült az Egyesült Államok szélesített gazdasági szankcióinak ellensúlyozására. A feszültség tovább nő a két ország között, ami destabilizálhatja a Közel-Keletet.",
       "importance": 4
     },
     {
-      "title": "„Gazdasági D-napot” hirdetett Amerika Irán ellen, Teherán válaszolt",
-      "summary": "Amerika új szankciók bevezetésével „gazdasági D-napot” hirdetett Irán ellen, amire Teherán válaszlépésekkel fenyegetőzött. A lépés tovább élezi a feszültséget a két ország között.",
-      "importance": 4
-    },
-    {
-      "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-      "summary": "A Kreml egyik tanácsadója szerint az Egyesült Királyság dróngyárai „ismeretlen forrásból” származó támadásokkal nézhetnek szembe. Ez a kijelentés újabb fenyegetést jelent a háborús konfliktusban.",
-      "importance": 4
-    },
-    {
-      "title": "23 év börtönt kapott Isztambul egyik ellenzéki polgármestere",
-      "summary": "Isztambul ellenzéki polgármestere 23 év börtönbüntetést kapott, ami súlyos aggodalmakat vet fel Törökország demokráciájával és jogállamiságával kapcsolatban. Az ítéletet széles körben elítélték.",
-      "importance": 4
+      "title": "35 ezerrel többen haltak meg Európában a hőség miatt",
+      "summary": "Európában idén nyáron 35 ezer fős többlethalálozást regisztráltak a rendkívüli hőség következtében. Az éghajlatváltozás hatása egyre súlyosabb egészségügyi válságot okoz.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "summary": "A Hugging Face AI-platformot állítólag 13 milliárd dollárért készülnek felvásárolni. Ez az akvizíció jelentősen átalakíthatja az AI-piacot és annak kulcsszereplőit.",
+      "title": "Napokon belül érkeznek az új iPhone-ok, de az Apple további meglepetéseket tartogat",
+      "summary": "Az Apple várhatóan napokon belül bemutatja az új iPhone modelleket, de a pletykák szerint más termékbejelentések is várhatók. A technológiai világ izgatottan figyeli a cég következő lépéseit.",
+      "importance": 4
+    },
+    {
+      "title": "A kínai villanyautók átírják a piacot, olcsóbbá válnak a hibrideknél",
+      "summary": "A kínai elektromos autók megjelenése alapjaiban változtatja meg a globális autópiacot. Az olcsóbb elektromos modellek már a hibrid autók árát is alulmúlják.",
       "importance": 5
     },
     {
-      "title": "A kínai villanyautók átírják a piacot: már olcsóbbak az elektromosok a hibrideknél",
-      "summary": "A kínai villanyautók megjelenése jelentősen átalakítja a globális autópiacot, mivel már olcsóbbak, mint a hibrid modellek. Ez az átrendeződés komoly kihívást jelent a hagyományos autógyártóknak.",
-      "importance": 4
+      "title": "Az OpenAI mesterséges intelligencia ügynököket épít minden feladatra",
+      "summary": "Az OpenAI ambiciózus tervei szerint univerzális AI-ügynököket fejlesztenek, amelyek minden területen képesek lesznek asszisztálni. A projekt felveti azt a kérdést, hogy vajon mindenki használni fogja-e ezeket a rendszereket.",
+      "importance": 5
     },
     {
-      "title": "Amazon hikes hardware prices by 60%, blaming memory shortage",
-      "summary": "Az Amazon 60%-kal emelte hardvertermékeinek árait, amit a globális memória-chip hiányával magyaráz. Ez a lépés jelentős hatással lehet a fogyasztókra és a tech piacra.",
-      "importance": 4
-    },
-    {
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Az OpenAI mindent átható AI-ügynököket fejleszt, amelyek potenciálisan forradalmasíthatják a digitális interakciókat. A cikk azt boncolgatja, vajon ezek a mesterséges intelligencia alapú rendszerek széles körben elterjednek-e.",
+      "title": "Állítólag 13 milliárd dollárért vásárolják fel a Hugging Face-t",
+      "summary": "A hírek szerint a Hugging Face, a mesterséges intelligencia platform, 13 milliárd dolláros felvásárlási tárgyalásokat folytat. Ez az üzlet jelentős hatással lehet az AI-ökoszisztémára és az open-source közösségre.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "35 ezres többlethalálozást regisztráltak a hőség miatt Európában",
-      "summary": "Európában 35 ezres többlethalálozást regisztráltak a rendkívüli hőség miatt. A jelenség rávilágít az éghajlatváltozás súlyos egészségügyi és társadalmi következményeire.",
+      "title": "Megdöbbentő méretű római kori épületromok kerültek elő Óbudán",
+      "summary": "Az egykori Óbudai Szeszgyár területén jelentős méretű, római kori épület maradványaira bukkantak régészek. A felfedezés új adalékokkal szolgál a főváros ősi történelméhez és régészeti jelentőséggel bír.",
       "importance": 4
     },
     {
-      "title": "HPV home-testing kits available for women in England who have missed cervical screening",
-      "summary": "Angliában otthoni HPV-tesztkészletek válnak elérhetővé azoknak a nőknek, akik elmulasztották a méhnyakrák-szűrést. Ez a kezdeményezés javíthatja a szűrési arányokat és a korai felismerést a rák elleni küzdelemben.",
+      "title": "Megjelent a nyugat-nílusi vírus a Vajdaságban",
+      "summary": "A nyugat-nílusi vírus már a Vajdaságban is felütötte a fejét, ami aggodalomra ad okot a regionális közegészségügyben. A hatóságok felhívják a figyelmet a megelőzés és védekezés fontosságára.",
       "importance": 4
     },
     {
-      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
-      "summary": "Egy nő édesanyja azbesztmérgezésben halt meg a 40-es éveiben, és a család azt vizsgálja, hogy az iskola felelős-e a haláláért. Az eset az azbeszt veszélyeire és az intézmények felelősségére hívja fel a figyelmet.",
-      "importance": 3
+      "title": "Elérhetővé válnak a HPV otthoni tesztkészletek a nők számára Angliában",
+      "summary": "Azok a nők, akik elmaradtak a méhnyakrák-szűrésről, HPV otthoni tesztkészleteket kaphatnak Angliában. Ez az intézkedés remélhetőleg növeli a szűrési arányokat és javítja a korai felismerést.",
+      "importance": 4
     },
     {
-      "title": "Már a Vajdaságban is megjelent a nyugat-nílusi vírus",
-      "summary": "A nyugat-nílusi vírus már a Vajdaságban is megjelent, ami regionális egészségügyi kockázatot jelent. A járványügyi hatóságok fokozott óvatosságra intenek a vírus terjedésének megelőzése érdekében.",
-      "importance": 3
+      "title": "A humanoid robotokon túl: egy csendes gépi forradalom zajlik",
+      "summary": "Kína humanoid robotok iránti elkötelezettsége mellett egy kevésbé feltűnő, de annál jelentősebb gépi forradalom bontakozik ki világszerte. Ez a fejlődés mélyrehatóan átformálhatja a munkaerőpiacot és a mindennapi életet.",
+      "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Sir Chris Hoy: Campaigning for cancer screening should not be down to me",
-      "summary": "Sir Chris Hoy olimpikon szerint a rákszűrésre való kampány nem csak az ő feladata kellene, hogy legyen. Az atléta a szélesebb körű társadalmi felelősségvállalásra hívja fel a figyelmet a közegészségügy terén.",
-      "importance": 3
-    }
-  ]
+  "sports": []
 }

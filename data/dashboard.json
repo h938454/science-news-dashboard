@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Ügyvédje szerint meghalt a Hableány-ügyben érintett másik ukrán kapitány",
-      "summary": "Az ügyvéd tájékoztatása szerint elhunyt a Hableány katasztrófájának másik ukrán kapitánya, aki nem állt meg segíteni a fuldoklóknak. Halálát betegség okozta, így az ellene folyó eljárás megszüntethető.",
-      "importance": 4
-    },
-    {
-      "title": "Ősszel felpöröghet az egészségügyi reform",
-      "summary": "Ősztől elindul a várólistacsökkentő program az egészségügyben, és a tervek szerint szabályozzák az állami- és magánegészségügy viszonyát is. A kormány célja a rendszer hatékonyságának növelése és a betegek jobb ellátása.",
+      "title": "Éjjel beröffentették a negyedik paksi blokkot is",
+      "summary": "Éjszaka sikeresen elindították a Paksi Atomerőmű negyedik blokkját, ezzel az ország energiaellátásában fontos lépést tettek. Az új blokk hozzájárul a magyar energiatermelés stabilizálásához és a kapacitás növeléséhez.",
       "importance": 5
     },
     {
-      "title": "Katyvaszt csináltak a Vagyonvisszaszerzési Hivatal elnökének kiválasztásából",
-      "summary": "A tervek szerint transzparensnek induló Vagyonvisszaszerzési Hivatal elnökének kiválasztása bonyodalmakba ütközött, több jelölt visszalépett vagy vitatottá vált. A parlament rendkívüli ülésen választja meg a vezetőket, egyelőre kérdéses, ki lesz a befutó.",
+      "title": "Ősszel felpöröghet az egészségügyi reform: indul a várólistacsökkentő program, az állami- és magánegészségügy viszonyát is szabályoznák",
+      "summary": "Komoly egészségügyi reformok várhatók ősszel Magyarországon. A tervek szerint elindul a várólisták csökkentését célzó program, és szabályozzák az állami, valamint a magánegészségügy közötti kapcsolatot.",
+      "importance": 5
+    },
+    {
+      "title": "Lemondott bírói tisztségéről Handó Tünde, a fideszes igazságszolgáltatás korszakos vezetője",
+      "summary": "Handó Tünde, az igazságszolgáltatás korábbi kulcsfigurája, lemondott bírói tisztségéről. Döntése jelentős változást hozhat a magyar bírósági rendszerben és a közéletben.",
       "importance": 4
     },
     {
-      "title": "A kormány 7,5 százalékos hiánnyal nyújtja be a költségvetés módosítását",
-      "summary": "A kormány magas, 7,5 százalékos hiánnyal terjeszti be a parlamentnek az idei költségvetés módosítását. Ez jelentős kiigazítást igényel a korábbi tervekhez képest, komoly gazdasági kihívásokat jelezve.",
-      "importance": 5
+      "title": "Kátyúba került a Vagyonvisszaszerzési Hivatal elnökjelöltjének kiválasztása, majd Jancsics Dávid visszalépett",
+      "summary": "A Vagyonvisszaszerzési Hivatal elnökének kiválasztása körüli folyamat átláthatatlanná vált. A jelölt, Jancsics Dávid, ezt követően visszalépett posztjáról, újabb politikai feszültséget okozva.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "„Gazdasági D-napot” hirdetett Amerika Irán ellen, Teherán válaszolt",
-      "summary": "Az Egyesült Államok pénzügyminisztere bejelentette a valaha volt legnagyobb pénzügyi offenzíva megindítását Irán ellen, melyre Teherán azonnal válaszolt. Ez a lépés jelentősen fokozza a két ország közötti feszültséget és globális gazdasági hatásokkal járhat.",
+      "title": "Trump pénzügyminisztere: Minden idők legnagyobb pénzügyi offenzíváját indítottuk el Irán és támogatói ellen",
+      "summary": "Az Egyesült Államok pénzügyminisztere bejelentette, hogy \"minden idők legnagyobb pénzügyi offenzíváját\" indították Irán és támogatói ellen. Teherán jelezte, felkészült erre a gazdasági nyomásgyakorlásra.",
       "importance": 5
-    },
-    {
-      "title": "Az Egyesült Államok leveszi Szíriát a terrorizmust támogató államok listájáról",
-      "summary": "Az Egyesült Államok hivatalosan is eltávolította Szíriát a terrorizmust támogató államok listájáról. Ez a döntés komoly változást jelent a két ország közötti diplomáciai viszonyban és a régió megítélésében.",
-      "importance": 5
-    },
-    {
-      "title": "Tornádó okozott komoly károkat egy franciaországi faluban",
-      "summary": "Pusztító tornádó söpört végig egy franciaországi falun, súlyos anyagi károkat okozva és több tucat embernek sérülést. A természeti katasztrófa nagy felfordulást hagyott maga után, és jelentős helyreállítási munkálatokat igényel.",
-      "importance": 4
     },
     {
       "title": "23 év börtönt kapott Isztambul egyik ellenzéki polgármestere",
-      "summary": "Isztambul egyik ellenzéki polgármesterét 23 év börtönbüntetésre ítélték, ami széles körű nemzetközi kritikát váltott ki. Az ítéletet a politikai elnyomás aggasztó példájának tartják Törökországban.",
+      "summary": "Isztambul ellenzéki polgármesterét 23 év börtönbüntetésre ítélték, ami hatalmas felháborodást váltott ki. Az ítéletet széles körben a demokrácia és az ellenzék elnyomásának jeleként értékelik Törökországban.",
+      "importance": 5
+    },
+    {
+      "title": "Három éven át kényszerítették, hogy az FSZB ügynöke legyen, most sikerült elmenekülnie Oroszországból a Pussy Riot korábbi tagjának",
+      "summary": "A Pussy Riot egy korábbi tagjának állítása szerint az FSZB három éven át zsarolással kényszerítette ügynöki feladatok elvégzésére. Az aktivista most sikeresen elmenekült Oroszországból, leleplezve az orosz állami titkosszolgálat módszereit.",
+      "importance": 4
+    },
+    {
+      "title": "Andy Burnham a britek nácik elleni harcához hasonlította Ukrajna ellenállását",
+      "summary": "Andy Burnham, brit politikus, Ukrajna orosz agresszió elleni ellenállását a britek második világháborús, nácik elleni harcához hasonlította. Ez a kijelentés hangsúlyozza a konfliktus súlyosságát és történelmi párhuzamait.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Ha ezt a gigapert elveszíti a Meta, az a ma ismert közösségi média végét is jelentheti",
-      "summary": "A Meta ellen indított hatalmas per kimenetele kritikus lehet a vállalat és az egész közösségi média iparág számára. Egy vereség alapjaiban változtathatja meg a platformok működését és a felhasználói adatkezelést.",
+      "title": "Az OpenAI mesterséges intelligencia ügynököket fejleszt mindenre, vajon mindenki használni fogja őket?",
+      "summary": "Az OpenAI agresszíven fejleszti mesterséges intelligencia ügynökeit, amelyek széles körű feladatok ellátására lesznek képesek. Felmerül a kérdés, hogy ezek az MI-k milyen mértékben integrálódnak majd a mindennapi életbe és milyen hatással lesznek a felhasználókra.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI mindenre kiterjedő AI-ügynököket fejleszt",
-      "summary": "Az OpenAI azzal kísérletezik, hogy olyan mesterséges intelligencia ügynököket hozzon létre, amelyek széles körű feladatokat képesek elvégezni. Ez a fejlesztés forradalmasíthatja az ember és a technológia interakcióját, megváltoztatva a munkavégzést és a mindennapi életet.",
+      "title": "A Hugging Face feltehetően 13 milliárd dolláros felvásárlás előtt áll",
+      "summary": "A Hugging Face, a mesterséges intelligencia és gépi tanulás platformja, a hírek szerint 13 milliárd dolláros felvásárlási tárgyalásokat folytat. Ez az ügylet jelentősen átformálhatja az AI iparág piaci viszonyait és konszolidációjához vezethet.",
       "importance": 5
     },
     {
-      "title": "Az Amazon 60 százalékkal emeli a hardverárakat a memóriahiány miatt",
-      "summary": "Az Amazon drámaian, 60 százalékkal emeli hardvertermékei árait, a döntést a globális memóriachip-hiánnyal indokolva. Ez jelentős hatással lehet a fogyasztókra és a techpiacra, növelve az elektronikai eszközök költségeit.",
+      "title": "Az Instinct AI asszisztensének adatvédelmi és biztonsági aggályai merültek fel",
+      "summary": "Az Instinct nagy teljesítményű mesterséges intelligencia asszisztense kapcsán adatvédelmi és biztonsági aggályok merültek fel. Ez rávilágít az MI-technológiák gyors fejlődésével járó etikai és szabályozási kihívásokra, melyek a felhasználók bizalmát érinthetik.",
       "importance": 4
     },
     {
-      "title": "Az Instinct AI asszisztense adatvédelmi és biztonsági aggodalmakat vet fel",
-      "summary": "Az Instinct nevű, nagy teljesítményű mesterséges intelligencia asszisztens komoly adatvédelmi és biztonsági kérdéseket vet fel működésével. A felhasználói adatok védelme és a potenciális visszaélések lehetősége aggodalomra ad okot a techközösségben.",
+      "title": "Kínai humanoid robotokon túl egy csendes gépi forradalom bontakozik ki",
+      "summary": "Miközben a figyelem a kínai humanoid robotokra fókuszál, a háttérben egy csendes, de annál jelentősebb gépi forradalom zajlik. Ez a fejlődés alapjaiban alakíthatja át az ipart és a munkaerőpiacot az automatizálás és a robotika révén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Milliárd dolláros gép célozza a fúziós energia rekordját és a nukleáris fegyverek tanulmányozását",
-      "summary": "Egy milliárd dolláros berendezés, amely a fúziós energia rekordjainak megdöntésére és a nukleáris fegyverek kutatására szolgál, ígéretes előrelépéseket hozhat az energetika és a védelmi technológia területén. Ez a projekt forradalmasíthatja az energia termelését és a fegyverfejlesztést.",
-      "importance": 5
-    },
-    {
-      "title": "Mitochondriumot injektáltak a szembe a látás helyreállításáért",
-      "summary": "Kutatók egy beteg saját mitokondriumait injektálták a szemébe, kísérletképpen a látás helyreállítására. Ez az úttörő eljárás reményt adhat a vakságban szenvedőknek, ha sikeresnek bizonyul a klinikai vizsgálatok során.",
-      "importance": 5
-    },
-    {
-      "title": "Űrhajós mellény felére csökkenti a sugárterhelést",
-      "summary": "Egy új fejlesztésű űrhajós mellény képes felére csökkenteni a sugárterhelést, ami kulcsfontosságú az űrutazás jövője szempontjából. Ez a technológia jelentősen hozzájárulhat a hosszabb űrmissziók során az űrhajósok egészségének védelméhez.",
+      "title": "Szerbiában és Horvátországban is terjed a nyugat-nílusi láz",
+      "summary": "A nyugat-nílusi láz vírusa megjelent a Vajdaságban, valamint terjed Szerbiában és Horvátországban is. A regionális terjedés komoly közegészségügyi aggodalmakat vet fel, és fokozott elővigyázatosságra int.",
       "importance": 4
     },
     {
-      "title": "Már a Vajdaságban is megjelent a nyugat-nílusi vírus",
-      "summary": "A nyugat-nílusi vírus már a Vajdaságban is felbukkant, ami regionális egészségügyi aggodalmakat vált ki. A hatóságok figyelmeztetnek a szúnyogok elleni védekezés fontosságára a járvány terjedésének megakadályozása érdekében.",
+      "title": "Otthoni HPV-tesztkészletek elérhetőek Angliában azoknak a nőknek, akik kihagyták a méhnyakrák-szűrést",
+      "summary": "Angliában otthoni HPV-tesztkészletek válnak elérhetővé azoknak a nőknek, akik nem vettek részt a rendszeres méhnyakrák-szűrésen. Ez az újítás jelentősen javíthatja a szűrési arányt és a korai felismerést a méhnyakrák elleni küzdelemben.",
       "importance": 4
+    },
+    {
+      "title": "Sir Chris Hoy: A rákszűrés népszerűsítését nem szabad rám hagyni",
+      "summary": "A híres sportoló, Sir Chris Hoy azt nyilatkozta, hogy a rákszűrés népszerűsítésének felelőssége nem szabad, hogy kizárólag az egyénekre háruljon. Felhívása a szélesebb körű társadalmi és kormányzati szerepvállalás fontosságára utal az egészségügyben.",
+      "importance": 3
+    },
+    {
+      "title": "Az azbeszt 40-es éveiben végzett anyámmal – az iskolája volt a hibás?",
+      "summary": "Egy család azbesztmérgezés miatti haláleset ügyében próbál igazságot találni, felvetve, hogy az áldozat iskolája okolható-e a betegségéért. Az eset rávilágít az azbeszt hosszú távú egészségügyi kockázataira és a felelősség kérdésére a közintézményekben.",
+      "importance": 3
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "Eltűnt Mészáros Lőrinc az Eszék főszponzorai közül",
+      "summary": "Mészáros Lőrinc neve eltűnt az Eszék labdarúgóklub főszponzorainak listájáról. Ez a változás spekulációkhoz vezethet a klub pénzügyi hátterével és jövőjével kapcsolatban a sportvilágban.",
+      "importance": 3
+    },
+    {
+      "title": "Sir Chris Hoy: A rákszűrés népszerűsítését nem szabad rám hagyni",
+      "summary": "A híres olimpikon, Sir Chris Hoy szerint a rákszűrés kampányolása nem egyedül az ő feladata. Nyilatkozata rávilágít a sportolók társadalmi szerepére és az egészségügyi felelősség megosztására a sportközösségben.",
+      "importance": 3
+    },
+    {
+      "title": "Ilyen konvojt ritkán látni: több mint tíz Bugatti vonult egymás után",
+      "summary": "Szokatlan látvány volt egy több mint tíz Bugattiból álló konvoj, melyek egymás után vonultak. Ez a luxusautó-felvonulás felhívja a figyelmet az autós kultúrára és a különleges járművekre, amelyek gyakran kapcsolódnak a motorsportokhoz.",
+      "importance": 2
+    },
+    {
+      "title": "A posztfreudi szexmajom Rejtő-nagyoperettre megy",
+      "summary": "Egy posztfreudi \"szexmajom\" karakter egy Rejtő-regény alapján készült nagyoperettben szerepel. A hír egy kulturális eseményt jelez, amely szórakoztató, de nem kapcsolódik a hagyományos értelemben vett sporthoz.",
+      "importance": 1
+    }
+  ]
 }

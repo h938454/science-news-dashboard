@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Az MNB több mint tíz éve nem látott lépést tett",
-      "summary": "A Magyar Nemzeti Bank egy több mint tíz éve nem látott lépést hajtott végre, ami jelentős hatással lehet a gazdaságra és a pénzügyi piacokra. Ez a döntés egyértelmű fordulatot jelenthet a jegybanki politikában.",
+      "title": "Az MNB szerint 2027-ben is 3 százalék alatt maradhat az infláció",
+      "summary": "A Magyar Nemzeti Bank prognózisa szerint az infláció tartósan 3% alatt maradhat a következő években, ami stabilizálja a gazdaságot. Ez jelentős a háztartások és a vállalkozások számára egyaránt.",
       "importance": 5
     },
     {
-      "title": "63 milliárdba kerülhet a Tisza-kormány első szociális intézkedéscsomagja",
-      "summary": "A Tisza-kormány első szociális intézkedései előreláthatólag 63 milliárd forintos költséget jelentenek majd, ami jelentős kiadás a költségvetés számára. Ez a csomag várhatóan széleskörű társadalmi hatásokkal jár.",
-      "importance": 5
+      "title": "Visszavonták Mészáros Lőrinc pulykaüzemének 33 milliárdos uniós támogatását",
+      "summary": "Az agrárminisztérium visszavonta Mészáros Lőrinc egyik pulykafeldolgozó üzemének 33 milliárd forintos uniós támogatását. A cég stabil pénzügyi lábakon áll, de a döntés kérdéseket vet fel a nagyszabású agrárberuházások kapcsán.",
+      "importance": 4
     },
     {
-      "title": "Visszavonták Mészáros Lőrinc pulykaüzemétől a 33 milliárdos uniós támogatást",
-      "summary": "Az Agrárminisztérium közleménye szerint Mészáros Lőrinc egyik cégétől, egy pulykafeldolgozó üzemtől visszavonták a 33 milliárd forintos uniós támogatást. A döntés okairól és a pénzügyi hatásokról részletesebben is beszámoltak.",
-      "importance": 5
+      "title": "A kormány pontosítja a magántőke-alapok tulajdonosainak azonosítási szabályait",
+      "summary": "A kormány célja a magántőke- és kockázatitőke-alapok átláthatóságának növelése a valódi tulajdonosok azonosítására vonatkozó szabályok pontosításával. Ez fontos lépés a pénzügyi átláthatóság és a pénzmosás elleni küzdelem szempontjából.",
+      "importance": 4
     },
     {
-      "title": "Az MNB szerint az infláció 2027-ig 3 százalék alatt maradhat",
-      "summary": "A Magyar Nemzeti Bank előrejelzései alapján nemcsak idén, hanem 2027-ben is a 3 százalékos küszöb alatt maradhat az infláció. Ez a hír kedvező a lakosság és a vállalkozások számára egyaránt.",
-      "importance": 5
+      "title": "Varga Mihály: Nincs titkolnivalónk, kiadjuk a Transparency által kért adatokat",
+      "summary": "Varga Mihály pénzügyminiszter bejelentette, hogy a kormány összegyűjti és kiadja a Transparency International által kért adatokat, hangsúlyozva az átláthatóság iránti elkötelezettséget. Ez fontos lépés lehet a közpénzek felhasználásának ellenőrizhetősége szempontjából.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Kína elítélte az Irán elleni új amerikai szankciókat",
-      "summary": "Kína 'illegálisnak' nevezte az Egyesült Államok Irán és kereskedelmi partnerei ellen bevezetett új szankcióit, ezzel ismét feszültséget generálva a két nagyhatalom között. A kínai kormány határozottan kiállt Irán mellett.",
+      "title": "A CIA igazgatója bejelentés nélkül repült Moszkvába",
+      "summary": "Rejtélyes körülmények között landolt egy amerikai repülő Moszkvában, fedélzetén a CIA igazgatójával. Az előre be nem jelentett látogatás komoly geopolitikai tárgyalásokra utal Oroszország és az USA között.",
       "importance": 5
     },
     {
-      "title": "Rekordmelegek az óceánok, brutálisan erős El Niño várható",
-      "summary": "Az óceánok hőmérséklete soha nem látott mértékben emelkedett, ami előrevetíti egy brutálisan erős El Niño jelenség kialakulását. Ez globális szinten súlyos éghajlati következményekkel járhat, mint például szélsőséges időjárás és természeti katasztrófák.",
-      "importance": 5
-    },
-    {
-      "title": "Nemzetbiztonsági kérdés lett Ceuta helyzete Spanyolországban",
-      "summary": "Spanyolországban nemzetbiztonságilag kiemelt jelentőségűnek nyilvánították a Ceutai helyzetet, és egységes parancsnokságot állítottak fel a térség kezelésére. Ez a lépés a növekvő migrációs és biztonsági kihívásokra reagál.",
+      "title": "Kanada megtorló vámokat vezet be amerikai termékekre",
+      "summary": "Kanada 50 százalékos megtorló vámokat vezet be mintegy 700 amerikai termékre, válaszul az USA korábbi kereskedelmi lépéseire. Ez a lépés tovább élezi a kereskedelmi feszültségeket a két szomszédos ország között.",
       "importance": 4
     },
     {
-      "title": "Kereskedelmi háború dúl az USA és Kanada között",
-      "summary": "Az USA és Kanada között egyre élesebb kereskedelmi konfliktus bontakozik ki, melyet a források 'álbajusszal és hokiütővel vívott háborúként' írnak le. Kanada 50 százalékos bosszúvámot vezet be bizonyos amerikai termékekre, válaszul az amerikai intézkedésekre.",
+      "title": "Az USA új szankciókat vezetett be Irán ellen, Kína bírálja",
+      "summary": "Az Egyesült Államok további szankciókat jelentett be Irán és kereskedelmi partnerei ellen, amit Kína élesen bírált. A lépés várhatóan jelentős gazdasági nyomást gyakorol Iránra és fokozza a nemzetközi feszültséget.",
       "importance": 4
+    },
+    {
+      "title": "Netanjahu Törökországot választotta főellenségnek a választási kampányhoz",
+      "summary": "Benjamin Netanjahu izraeli miniszterelnök Törökországot nevezte meg főellenségnek választási kampányában, ami tovább rontja a két ország amúgy is feszült viszonyát. Ez a retorika a regionális politikára is hatással lehet.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI bemutatta új, gyors Jalapeño chipjét",
-      "summary": "Az OpenAI legújabb fejlesztése, a Jalapeño chip rendkívül gyors következtetési sebességet tesz lehetővé mesterséges intelligencia modellek számára, a tesztek szerint. Ez az új chip áttörést hozhat az AI hardverek terén, skálázható és hatékony működést biztosítva.",
+      "title": "Az Apple bemutatta eddigi legerősebb chipjeit, az M5 Ultrát és M6-ot",
+      "summary": "Az Apple bejelentette az M5 Ultra és M6 chipeket, melyek az eddigi legerősebbek a cég kínálatában, és az új Mac Mini modellekben is debütálnak. Ez jelentős előrelépés a teljesítmény és az energiahatékonyság terén.",
       "importance": 5
     },
     {
-      "title": "Az Apple bemutatta M5 Ultra és M6 chipjeit, új Mac Mini is érkezett",
-      "summary": "Az Apple bemutatta eddigi legerősebb chipjeit, az M5 Ultra-t és az M6-ot, amelyek a legújabb Mac Mini modellekben is helyet kapnak. Az M6-tal felszerelt Mac Mini modellek 899 dollártól indulnak, új szintre emelve a teljesítményt és az energiahatékonyságot.",
-      "importance": 5
-    },
-    {
-      "title": "A humanoid robotok mellett csendesebb gépi forradalom zajlik Kínában",
-      "summary": "Kínában nem csupán a látványos humanoid robotok fejlesztése zajlik, hanem egy csendesebb, de annál jelentősebb gépi forradalom is kibontakozóban van az automatizálás és a robotika területén. Ez a fejlődés hosszú távon alapjaiban változtathatja meg a munkaerőpiacot és az iparágakat.",
+      "title": "Az OpenAI Jalapeño chipje a gyors AI-következtetésre készült",
+      "summary": "Az OpenAI bemutatta Jalapeño nevű chipjét, amelyet a gyors mesterséges intelligencia következtetésre terveztek nagy léptékben. A benchmarkok kiváló teljesítményt mutatnak, ami forradalmasíthatja az AI modellek futtatását.",
       "importance": 4
     },
     {
-      "title": "200 millió dolláros befektetést kapott az önvezető teherautó startup, a Gatik",
-      "summary": "A Gatik nevű önvezető teherautó startup 200 millió dolláros befektetést kapott egy PepsiCo-val kötött korábbi megállapodását követően. Ez a jelentős tőkeinjekció felgyorsíthatja a cég fejlődését és a technológia szélesebb körű elterjedését.",
+      "title": "Az önvezető teherautó startup Gatik 200 millió dolláros befektetést kapott",
+      "summary": "A Gatik önvezető teherautó startup 200 millió dolláros befektetést szerzett egy PepsiCo-val kötött megállapodás után. Ez a finanszírozás felgyorsítja az autonóm logisztika fejlesztését és terjedését.",
       "importance": 4
+    },
+    {
+      "title": "A WhatsApp szigorítja fiókjainak biztonságát",
+      "summary": "A WhatsApp megerősíti fiókjainak biztonságát erősebb kétlépcsős azonosítással és egyéb funkciókkal. Ez növeli a felhasználók adatainak védelmét és az alkalmazás megbízhatóságát.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Rekordmelegek az óceánok, brutálisan erős El Niño várható",
-      "summary": "Az óceánok hőmérséklete soha nem látott mértékben emelkedett, ami előrevetíti egy brutálisan erős El Niño jelenség kialakulását. Ez globális szinten súlyos éghajlati következményekkel járhat, mint például szélsőséges időjárás és természeti katasztrófák.",
+      "title": "Soha nem voltak még ilyen melegek az óceánok, brutálisan erős lehet az El Niño",
+      "summary": "Az óceánok felszíni hőmérséklete rekordmagasságokat ért el, ami extrém erős El Niño jelenséget vetít előre. Ennek súlyos következményei lehetnek a globális időjárásra és az ökoszisztémákra.",
       "importance": 5
     },
     {
-      "title": "Az atomfúziós energia kereskedelmi célú felhasználása közelebb kerülhet",
-      "summary": "A Pacific Fusion nevű vállalat következő fúziós gépe áttörést hozhat a kereskedelmi energiatermelés felé vezető úton, leküzdve egy kulcsfontosságú akadályt. Ez a fejlesztés hatalmas lépés lehet a tiszta és fenntartható energiaforrások felé.",
-      "importance": 5
-    },
-    {
-      "title": "Ehető kekszet készítettek amerikai kutatók műanyaghulladékból",
-      "summary": "Amerikai kutatók sikeresen fejlesztettek ki egy eljárást, amellyel ehető kekszet állítanak elő műanyaghulladékból, egy innovatív megoldást kínálva a környezetszennyezés ellen. Ez a felfedezés új utakat nyithat a hulladék újrahasznosításában és az élelmiszeriparban.",
+      "title": "A tengerszint-emelkedés sokkal magasabb lehet a part menti kockázatértékeléseknél feltételezettnél",
+      "summary": "Egy új kutatás szerint a tengerszint-emelkedés mértéke jelentősen meghaladhatja a legtöbb part menti kockázatértékelésben feltételezett értékeket. Ez komoly kihívások elé állítja a part menti régiók infrastruktúráját és lakosságát.",
       "importance": 4
     },
     {
-      "title": "Négyszer magasabb a halálozási arány a gondozásból kikerülő fiatalok körében",
-      "summary": "Az adatok szerint a gondozásból kikerülő fiatalok halálozási aránya négyszer magasabb az országos átlagnál, ami súlyos társadalmi problémára hívja fel a figyelmet. Ez a statisztika rávilágít a rendszeres támogatás és az utógondozás fontosságára.",
+      "title": "A mesterséges intelligencia szerepe a tudományos kutatásban és értékelésben",
+      "summary": "A tudományos publikációk jövője megköveteli az AI támogatását a lektorálásban, ugyanakkor felmerül a mesterséges intelligencia kockázatainak kezelése is. Az AI-észlelő eszközök fejlődése alapvetően befolyásolja a kutatás minőségét és hitelességét.",
+      "importance": 4
+    },
+    {
+      "title": "Több mint 18 000 kérdéses képet találtak cégek antitestkatalógusaiban",
+      "summary": "Egy vizsgálat során több mint 18 000 kérdéses képet fedeztek fel 15 vállalat antitestkatalógusában, ami komoly aggodalmakat vet fel a tudományos kutatás integritásával kapcsolatban. Ez befolyásolhatja a kutatási eredmények megbízhatóságát.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Joe Root, az angol krikettkapitány csalódott Brydon Carse ügyében",
-      "summary": "Joe Root, az angol krikettválogatott kapitánya csalódottságának és 'kiakadásának' adott hangot Brydon Carse incidensével kapcsolatban. A kapitány nyilatkozata rávilágít a csapaton belüli feszültségekre.",
+      "title": "Joe Root, az angol krikettkapitány csalódottságát fejezte ki egy incidens miatt",
+      "summary": "Joe Root, Anglia krikettkapitánya „dühösnek” és „csalódottnak” mondta magát a Brydon Carse incidenst követően. Ez a nyilatkozat rávilágít a csapaton belüli problémákra és a sportfegyelem fontosságára.",
       "importance": 3
     },
     {
-      "title": "Sir Billy Boston, a rögbi világklasszisa, akinek történetét el kell mesélni",
-      "summary": "Sir Billy Boston, a rögbi liga legendája egy világklasszis sportoló volt, akinek lenyűgöző történetét érdemes elmondani a nagyközönségnek. A cikk méltatja pályafutását és örökségét a sportban.",
+      "title": "Sir Billy Boston – a rögbi világklasszisa, akinek történetét el kellett mesélni",
+      "summary": "Sir Billy Boston, a rögbi sportág legendás alakja, „világklasszis sportolóként” volt méltatva, akinek története inspiráló. Ez a megemlékezés a sporttörténelem egy fontos alakjára hívja fel a figyelmet.",
       "importance": 3
+    },
+    {
+      "title": "Andrew Tate állítólag csak bekamuzta, hogy több luxuskocsija és jachtja is van",
+      "summary": "Andrew Tate, a korábbi kickboxoló és internetes személyiség állítólag csak nagyzolt luxusautóival és jachtjaival. Bár a hír nem sportteljesítményről szól, egy ismert sportolóhoz köthető személyes imázsát érinti.",
+      "importance": 2
+    },
+    {
+      "title": "A Wizz Air szívesen átvenné a román állami légitársaság belföldi járatait",
+      "summary": "A Wizz Air kifejezte érdeklődését a román állami légitársaság belföldi járatainak átvétele iránt. Bár nem sport, a légiközlekedésben zajló verseny és piacfelosztás hasonlóan stratégiai gondolkodást igényel, mint a sportban.",
+      "importance": 1
     }
   ]
 }

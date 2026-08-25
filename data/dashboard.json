@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Életfogytiglan a kisfia gyilkosának",
-      "summary": "A bíróság jogerősen életfogytiglani szabadságvesztésre ítélt egy férfit, aki kegyetlenül végzett két és fél éves gyermekével. A szörnyű bűncselekmény tavaly történt, sokkolva az egész országot.",
+      "title": "Az MNB több mint tíz éve nem látott lépést tett",
+      "summary": "A Magyar Nemzeti Bank egy több mint tíz éve nem látott lépést hajtott végre, ami jelentős hatással lehet a gazdaságra és a pénzügyi piacokra. Ez a döntés egyértelmű fordulatot jelenthet a jegybanki politikában.",
       "importance": 5
     },
     {
-      "title": "2027-ig 3 százalék alatt maradhat az infláció az MNB szerint",
-      "summary": "A Magyar Nemzeti Bank legfrissebb előrejelzése szerint az infláció idén és a következő években is 3 százalékos cél alatt maradhat. Ez hosszú távú stabilitást jelezhet a gazdaságban.",
+      "title": "63 milliárdba kerülhet a Tisza-kormány első szociális intézkedéscsomagja",
+      "summary": "A Tisza-kormány első szociális intézkedései előreláthatólag 63 milliárd forintos költséget jelentenek majd, ami jelentős kiadás a költségvetés számára. Ez a csomag várhatóan széleskörű társadalmi hatásokkal jár.",
       "importance": 5
     },
     {
-      "title": "EP-alelnök lobbizna Magyar Péternél erdélyi támogatásokért",
-      "summary": "Egy Orbán-kormányt kritizáló Európai Parlamenti alelnök jelezte, hogy Magyar Péternél keresne támogatást az erdélyi régió fejlesztéséhez. Ez új politikai szövetségeket és lehetőségeket vet fel a Kárpát-medencében.",
-      "importance": 4
+      "title": "Visszavonták Mészáros Lőrinc pulykaüzemétől a 33 milliárdos uniós támogatást",
+      "summary": "Az Agrárminisztérium közleménye szerint Mészáros Lőrinc egyik cégétől, egy pulykafeldolgozó üzemtől visszavonták a 33 milliárd forintos uniós támogatást. A döntés okairól és a pénzügyi hatásokról részletesebben is beszámoltak.",
+      "importance": 5
     },
     {
-      "title": "Milliárdokkal olcsóbb járműbeszerzés a MÁV-nál és a Magyar Közútnál",
-      "summary": "Vitézy Dávid bejelentette, hogy a MÁV és a Magyar Közút közös járműbeszerzése 41 milliárd forinttal az eredetileg becsült ár alatt zárult. Ez jelentős megtakarítást jelent az állami vállalatok számára.",
-      "importance": 4
+      "title": "Az MNB szerint az infláció 2027-ig 3 százalék alatt maradhat",
+      "summary": "A Magyar Nemzeti Bank előrejelzései alapján nemcsak idén, hanem 2027-ben is a 3 százalékos küszöb alatt maradhat az infláció. Ez a hír kedvező a lakosság és a vállalkozások számára egyaránt.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "Kína elítéli az Egyesült Államok Irán elleni szankcióit",
-      "summary": "Kína élesen bírálta az Egyesült Államok új, Iránra és kereskedelmi partnereire vonatkozó szankcióit, \"illegálisnak\" nevezve azokat. Ez tovább növeli a feszültséget a globális nagymonárok között.",
+      "title": "Kína elítélte az Irán elleni új amerikai szankciókat",
+      "summary": "Kína 'illegálisnak' nevezte az Egyesült Államok Irán és kereskedelmi partnerei ellen bevezetett új szankcióit, ezzel ismét feszültséget generálva a két nagyhatalom között. A kínai kormány határozottan kiállt Irán mellett.",
       "importance": 5
     },
     {
-      "title": "Netanjahu Törökországot tette meg Izrael főellenségének",
-      "summary": "Benjamin Netanjahu izraeli miniszterelnök Törökországot nevezte meg főellenségként választási kampányában. Ez komoly diplomáciai feszültséget szít a két regionális hatalom között.",
+      "title": "Rekordmelegek az óceánok, brutálisan erős El Niño várható",
+      "summary": "Az óceánok hőmérséklete soha nem látott mértékben emelkedett, ami előrevetíti egy brutálisan erős El Niño jelenség kialakulását. Ez globális szinten súlyos éghajlati következményekkel járhat, mint például szélsőséges időjárás és természeti katasztrófák.",
       "importance": 5
     },
     {
-      "title": "Dróngyár felgyújtását akarták megakadályozni Szlovákiában",
-      "summary": "A szlovák rendőrség három külföldi állampolgárt tartóztatott le, akik állítólag egy dróngyárat akartak felgyújtani. Az ügy geopolitikai és nemzetbiztonsági vonatkozásokkal is bír.",
+      "title": "Nemzetbiztonsági kérdés lett Ceuta helyzete Spanyolországban",
+      "summary": "Spanyolországban nemzetbiztonságilag kiemelt jelentőségűnek nyilvánították a Ceutai helyzetet, és egységes parancsnokságot állítottak fel a térség kezelésére. Ez a lépés a növekvő migrációs és biztonsági kihívásokra reagál.",
       "importance": 4
     },
     {
-      "title": "Svédország orosz üzletember ingatlanját sajátítaná ki haditengerészeti bázis közelében",
-      "summary": "A svéd hadsereg felszólította a kormányt, hogy sajátítsa ki egy orosz üzletember tulajdonát, ami egy stratégiai fontosságú haditengerészeti bázis közelében található. Az eset biztonsági aggodalmakat vet fel.",
+      "title": "Kereskedelmi háború dúl az USA és Kanada között",
+      "summary": "Az USA és Kanada között egyre élesebb kereskedelmi konfliktus bontakozik ki, melyet a források 'álbajusszal és hokiütővel vívott háborúként' írnak le. Kanada 50 százalékos bosszúvámot vezet be bizonyos amerikai termékekre, válaszul az amerikai intézkedésekre.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI új \"Jalapeño\" chipje forradalmasítja az AI-t",
-      "summary": "Az OpenAI bemutatta Jalapeño kódnevű chipjét, amelyet a gyors mesterséges intelligencia következtetésre terveztek hatalmas léptékben. A benchmarkok kivételes teljesítményt mutatnak.",
+      "title": "Az OpenAI bemutatta új, gyors Jalapeño chipjét",
+      "summary": "Az OpenAI legújabb fejlesztése, a Jalapeño chip rendkívül gyors következtetési sebességet tesz lehetővé mesterséges intelligencia modellek számára, a tesztek szerint. Ez az új chip áttörést hozhat az AI hardverek terén, skálázható és hatékony működést biztosítva.",
       "importance": 5
     },
     {
-      "title": "Az Apple bemutatta eddigi legerősebb chipjeit: az M5 Ultrát és M6-ot",
-      "summary": "Az Apple bejelentette új M5 Ultra és M6 chipjeit, amelyeket a cég \"eddigi legerősebbjének\" tartanak. Az új chipek a legújabb Mac Mini modellekben is helyet kapnak.",
+      "title": "Az Apple bemutatta M5 Ultra és M6 chipjeit, új Mac Mini is érkezett",
+      "summary": "Az Apple bemutatta eddigi legerősebb chipjeit, az M5 Ultra-t és az M6-ot, amelyek a legújabb Mac Mini modellekben is helyet kapnak. Az M6-tal felszerelt Mac Mini modellek 899 dollártól indulnak, új szintre emelve a teljesítményt és az energiahatékonyságot.",
       "importance": 5
     },
     {
-      "title": "200 millió dolláros tőkebefektetést kapott az önvezető teherautó startup, a Gatik",
-      "summary": "A Gatik, az önvezető teherautókkal foglalkozó startup 200 millió dolláros tőkebefektetésre tett szert egy PepsiCo-val kötött megállapodás után. Ez a logisztika jövőjét formálja.",
+      "title": "A humanoid robotok mellett csendesebb gépi forradalom zajlik Kínában",
+      "summary": "Kínában nem csupán a látványos humanoid robotok fejlesztése zajlik, hanem egy csendesebb, de annál jelentősebb gépi forradalom is kibontakozóban van az automatizálás és a robotika területén. Ez a fejlődés hosszú távon alapjaiban változtathatja meg a munkaerőpiacot és az iparágakat.",
       "importance": 4
     },
     {
-      "title": "Az összeomlás szélén álló AI hedge fundot vizsgálja az SEC",
-      "summary": "A Situational Awareness nevű, korábban \"sztárnak\" számító AI-alapú fedezeti alapot, amely közel állt az összeomláshoz, most az amerikai Értékpapír- és Tőzsdebizottság (SEC) vizsgálja. Ez rávilágít az AI-finanszírozás kockázataira.",
+      "title": "200 millió dolláros befektetést kapott az önvezető teherautó startup, a Gatik",
+      "summary": "A Gatik nevű önvezető teherautó startup 200 millió dolláros befektetést kapott egy PepsiCo-val kötött korábbi megállapodását követően. Ez a jelentős tőkeinjekció felgyorsíthatja a cég fejlődését és a technológia szélesebb körű elterjedését.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A tengerszint-emelkedés a vártnál sokkal súlyosabb lehet",
-      "summary": "Egy új kutatás szerint a tengerszint-emelkedés sokkal jelentősebb lehet, mint azt a legtöbb part menti kockázatértékelés feltételezte. Ez újragondolást igényel a klímaváltozás hatásaival kapcsolatban.",
+      "title": "Rekordmelegek az óceánok, brutálisan erős El Niño várható",
+      "summary": "Az óceánok hőmérséklete soha nem látott mértékben emelkedett, ami előrevetíti egy brutálisan erős El Niño jelenség kialakulását. Ez globális szinten súlyos éghajlati következményekkel járhat, mint például szélsőséges időjárás és természeti katasztrófák.",
       "importance": 5
     },
     {
-      "title": "Több mint 18 000 kétséges kép antitestkatalógusokban",
-      "summary": "Kutatók több mint 18 000 megkérdőjelezhető képet találtak 15 cég antitestkatalógusaiban, ami komoly problémákat vet fel a tudományos kutatás integritásával kapcsolatban. Ez befolyásolhatja a kutatások megbízhatóságát.",
+      "title": "Az atomfúziós energia kereskedelmi célú felhasználása közelebb kerülhet",
+      "summary": "A Pacific Fusion nevű vállalat következő fúziós gépe áttörést hozhat a kereskedelmi energiatermelés felé vezető úton, leküzdve egy kulcsfontosságú akadályt. Ez a fejlesztés hatalmas lépés lehet a tiszta és fenntartható energiaforrások felé.",
       "importance": 5
     },
     {
-      "title": "Ehető kekszet fejlesztettek műanyaghulladékból amerikai kutatók",
-      "summary": "Amerikai kutatók egy olyan eljárást fejlesztettek ki, amellyel műanyaghulladékból ehető kekszet állítanak elő. Ez úttörő megoldást jelenthet a környezetszennyezés és az élelmiszerhiány kezelésére.",
+      "title": "Ehető kekszet készítettek amerikai kutatók műanyaghulladékból",
+      "summary": "Amerikai kutatók sikeresen fejlesztettek ki egy eljárást, amellyel ehető kekszet állítanak elő műanyaghulladékból, egy innovatív megoldást kínálva a környezetszennyezés ellen. Ez a felfedezés új utakat nyithat a hulladék újrahasznosításában és az élelmiszeriparban.",
       "importance": 4
     },
     {
-      "title": "Az okos alváskövetők javíthatják a pihenést, de veszélyeztethetik a magánéletet",
-      "summary": "A technológiailag fejlett alváskövető eszközök ígéretesek a pihenés javításában, azonban felmerül a magánélet védelmének kérdése is. Az adatok gyűjtése és felhasználása új etikai dilemmákat vet fel.",
-      "importance": 4
+      "title": "Négyszer magasabb a halálozási arány a gondozásból kikerülő fiatalok körében",
+      "summary": "Az adatok szerint a gondozásból kikerülő fiatalok halálozási aránya négyszer magasabb az országos átlagnál, ami súlyos társadalmi problémára hívja fel a figyelmet. Ez a statisztika rávilágít a rendszeres támogatás és az utógondozás fontosságára.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Joe Root, az angol krikettkapitány csalódott Brydon Carse incidense miatt",
-      "summary": "Az angol krikettcsapat kapitánya, Joe Root elmondta, hogy \"felháborodott és csalódott\" Brydon Carse incidense miatt. Az eset a csapaton belüli feszültségekre utalhat.",
-      "importance": 4
+      "title": "Joe Root, az angol krikettkapitány csalódott Brydon Carse ügyében",
+      "summary": "Joe Root, az angol krikettválogatott kapitánya csalódottságának és 'kiakadásának' adott hangot Brydon Carse incidensével kapcsolatban. A kapitány nyilatkozata rávilágít a csapaton belüli feszültségekre.",
+      "importance": 3
     },
     {
-      "title": "Nincs elegendő sport hírforrás 2.",
-      "summary": "A rendelkezésre álló források nem tartalmaznak elegendő sport témájú hírt a kategória feltöltéséhez.",
-      "importance": 1
-    },
-    {
-      "title": "Nincs elegendő sport hírforrás 3.",
-      "summary": "A rendelkezésre álló források nem tartalmaznak elegendő sport témájú hírt a kategória feltöltéséhez.",
-      "importance": 1
-    },
-    {
-      "title": "Nincs elegendő sport hírforrás 4.",
-      "summary": "A rendelkezésre álló források nem tartalmaznak elegendő sport témájú hírt a kategória feltöltéséhez.",
-      "importance": 1
+      "title": "Sir Billy Boston, a rögbi világklasszisa, akinek történetét el kell mesélni",
+      "summary": "Sir Billy Boston, a rögbi liga legendája egy világklasszis sportoló volt, akinek lenyűgöző történetét érdemes elmondani a nagyközönségnek. A cikk méltatja pályafutását és örökségét a sportban.",
+      "importance": 3
     }
   ]
 }

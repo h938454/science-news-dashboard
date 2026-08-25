@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Megkezdte működését a Legfőbb Ügyészség ideiglenes vezetője",
-      "summary": "Nagy Gábor Bálint lemondása után Baka András vette át ideiglenesen a Legfőbb Ügyészség vezetését, miután a köztársasági elnök fogadta őt. Ez a lépés jelentős változást jelez az intézmény élén.",
+      "title": "5,5 százalékra csökkentette az alapkamatot a Magyar Nemzeti Bank",
+      "summary": "A Magyar Nemzeti Bank 5,5 százalékra csökkentette az alapkamatot, ami több mint tíz éve nem látott mértékű lépés. Ez a döntés jelentős hatással lehet a hitelezésre és a gazdaságra.",
       "importance": 5
     },
     {
-      "title": "Feljelentés érkezett a Külügyminisztériumhoz a lélegeztetőgép-beszerzések miatt",
-      "summary": "A Külügyminisztérium hűtlen kezelés gyanújával tett feljelentést a korábbi, Szijjártó Péter minisztersége idején történt lélegeztetőgép-beszerzések kapcsán. Az ügy a közpénzek elköltésének átláthatóságát érinti.",
+      "title": "Az agrárminisztérium visszavonta a Mészáros Lőrinc pulykafeldolgozó cégének odaítélt uniós támogatást",
+      "summary": "Az agrárminisztérium visszavonta a Mészáros Lőrinc pulykafeldolgozó cégének korábban odaítélt uniós támogatást. A döntés előzményei és okai kérdéseket vetnek fel a támogatások elosztásával kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Magyar gazdasági kilátások: az idei év nehéz lesz, jövőre javulás várható",
-      "summary": "Elemzők szerint az idei költségvetés komoly kihívások elé állítja az országot, ám a kormány a jövő évre már gazdasági fellendülést és pénzügyi stabilitást prognosztizál. A költségvetés újraírása komoly döntéseket kíván.",
-      "importance": 4
+      "title": "Hűtlen kezelés gyanújával tett feljelentést a Külügyminisztérium a lélegeztetőgép-beszerzések miatt",
+      "summary": "Hűtlen kezelés gyanújával feljelentést tett a Külügyminisztérium a korábbi lélegeztetőgép-beszerzések ügyében. Az eset a járvány alatti közpénzek elköltésének átláthatóságát kérdőjelezi meg.",
+      "importance": 5
     },
     {
-      "title": "Visszavonták Mészáros Lőrinc cégének uniós támogatását",
-      "summary": "Az agrárminisztérium visszavonta Mészáros Lőrinc pulykafeldolgozó vállalatának korábban odaítélt uniós támogatását. Ez a döntés rávilágít a kormányközeli vállalkozások finanszírozásának fokozott ellenőrzésére.",
+      "title": "Költségvetés: az idei év nagyon csúnya lesz, de jövőre a kormány fürödni fog a pénzben",
+      "summary": "Az elemzők szerint az idei év költségvetési szempontból nehéznek ígérkezik, de jövőre a kormány jelentős anyagi forrásokkal gazdálkodhat. A gazdasági előrejelzések vegyes képet mutatnak.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Legalább 35 ezren haltak meg a hőhullámok miatt Európában",
-      "summary": "Az idei nyár rekordhőmérsékletei miatt augusztusig legalább 35 ezer ember halálát regisztrálták Európában, ami a klímaváltozás súlyos humanitárius következményeire hívja fel a figyelmet. A kontinens felkészületlennek bizonyult a szélsőséges időjárásra.",
+      "title": "Kína figyelmeztet, megvédi érdekeit, miután az USA kibővítette az Irán elleni szankciókat",
+      "summary": "Kína figyelmeztetett, hogy megvédi érdekeit, miután az Egyesült Államok kibővítette az Irán elleni szankciókat. A lépés tovább élezi a feszültséget a nagyhatalmak és Irán között.",
       "importance": 5
     },
     {
-      "title": "Kínai vadászgépek hosszú hatótávolságú repülései: figyelmeztetés a világnak",
-      "summary": "Kínai vadászgépek 6000 kilométeres repüléseket hajtottak végre egyhuzamban, ami erős figyelmeztetés a globális hatalmak számára. Ez az akció a regionális és globális geopolitikai feszültségek fokozódását jelzi.",
+      "title": "Legalább 35 ezren haltak meg a hőhullámok miatt Európában augusztusig",
+      "summary": "Az idei nyári hőhullámok következtében legalább 35 ezren vesztették életüket Európában augusztusig. A rendkívüli hőség súlyos közegészségügyi válságot okozott.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Államok szankcióinak kiterjesztése Irán ellen, Kína válasza",
-      "summary": "Az Egyesült Államok szankciókat szélesített Irán ellen, amire Kína azzal válaszolt, hogy megvédi saját érdekeit. Ez a lépés tovább élezi a nemzetközi feszültségeket és befolyásolhatja a globális olajpiacot.",
+      "title": "Elhalasztották a Lockerbie-bombatámadás perét, napokkal a tervezett kezdés előtt",
+      "summary": "Elhalasztották a Lockerbie-bombatámadás perét, napokkal a tervezett kezdés előtt. A halasztás további késedelmet okoz a régóta húzódó, nemzetközi jelentőségű ügyben.",
       "importance": 4
     },
     {
-      "title": "A Volkswagen drasztikus létszámleépítéseket tervez Németországban",
-      "summary": "A Volkswagen vezérigazgatója bejelentette, hogy a tervezett drasztikus létszámleépítések felét Németországban kell végrehajtani. Ez jelentős gazdasági és társadalmi hatással lesz a német munkaerőpiacra.",
+      "title": "Több mint 70 000 szociális és megfizethető lakás épül Angliában a következő 10 évben",
+      "summary": "Több mint 70 000 szociális és megfizethető lakás épül Angliában a következő tíz évben. A kormányzati terv célja a lakhatási válság enyhítése és a rászorulók támogatása.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI AI ügynököket fejleszt, felmerülnek az adatvédelmi aggályok",
-      "summary": "Az OpenAI által fejlesztett új AI ügynökök mindennapi használata széleskörűvé válhat, miközben az Instinct nevű AI asszisztenssel kapcsolatban felmerülő adatvédelmi és biztonsági aggályok is nyilvánosságra kerültek. Az AI jövője és az etikai kérdések egyre hangsúlyosabbá válnak.",
-      "importance": 5
-    },
-    {
-      "title": "Hugging Face akvizíciós tárgyalások és az OpenAI elleni vizsgálat",
-      "summary": "A Hugging Face nevű AI startupot a hírek szerint 13 milliárd dollárért vennék meg, miközben Alabamában vizsgálatot indítottak az OpenAI elleni feltételezett hackertámadás miatt. Ez a két hír a mesterséges intelligencia piacának dinamikus növekedését és sebezhetőségét mutatja.",
+      "title": "Az OpenAI termékfejlesztési vezetője szerint a világ készen áll a mesterséges intelligencia áttöréseire",
+      "summary": "Az OpenAI termékfejlesztési vezetője szerint a világ készen áll a mesterséges intelligencia újabb áttöréseire. Interjújában a technológia jövőbeni alkalmazásairól beszélt.",
       "importance": 4
     },
     {
-      "title": "Csendes gépi forradalom: a humanoid robotokon túli fejlődés",
-      "summary": "Kínában és világszerte egyre csendesebben, de annál hatékonyabban zajlik a gépi forradalom, amely túlmutat a humanoid robotokon. Ez a fejlődés hosszú távon alapvetően átalakíthatja az ipart és a mindennapi életet.",
+      "title": "Az Amazon 60%-kal emelte hardvertermékei árait, a memóriaellátási hiányra hivatkozva",
+      "summary": "Az Amazon 60%-kal emelte hardvertermékei árait, a memóriaellátási hiányra hivatkozva. Ez a lépés jelentősen befolyásolhatja a fogyasztók vásárlási szokásait.",
       "importance": 4
     },
     {
-      "title": "Az Amazon 60%-kal emeli a hardverárakat a memóriahiány miatt",
-      "summary": "Az Amazon bejelentette, hogy a memóriahiányra hivatkozva 60%-kal emeli hardvereszközeinek árait. Ez a lépés jelentős hatással lesz a fogyasztókra és a technológiai piacra, rávilágítva az ellátási lánc problémáira.",
-      "importance": 3
+      "title": "A technológiailag támogatott alvás javíthatja a pihenést, de alááshatja az adatvédelmet",
+      "summary": "A technológiailag támogatott alvás javíthatja a pihenést, de egyúttal alááshatja az adatvédelmet. Fontos az egyensúly megteremtése az egészségügyi előnyök és a személyes adatok védelme között.",
+      "importance": 4
+    },
+    {
+      "title": "A robotikus exoskeletonok hamarosan elérhetővé válnak a nagyközönség számára",
+      "summary": "A robotikus exoskeletonok hamarosan elérhetővé válnak a nagyközönség számára, forradalmasítva a mozgástámogatást. Ez a technológia jelentős segítséget nyújthat mozgáskorlátozottaknak és bizonyos munkakörökben dolgozóknak.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Milliárd dolláros gép a fúziós energia és a nukleáris fegyverek kutatására",
-      "summary": "Egy milliárd dolláros berendezés célja, hogy fúziós energiarekordot állítson fel és nukleáris fegyvereket tanulmányozzon. Ez a nagyszabású projekt kulcsfontosságú lehet az energiatermelés és a globális biztonság jövője szempontjából.",
+      "title": "Egy milliárd dolláros berendezés fúziós energiarekordot próbál felállítani és nukleáris fegyvereket is tanulmányoz",
+      "summary": "Egy milliárd dolláros berendezés fúziós energiarekordot próbál felállítani, miközben nukleáris fegyvereket is tanulmányoz. A projekt áttörést hozhat az energiatermelésben és a védelmi technológiában.",
       "importance": 5
     },
     {
-      "title": "Saját mitochondrium injekciója a látás helyreállítására",
-      "summary": "Betegek saját mitochondriumait injektálják a szemükbe, hogy ezzel próbálják meg helyreállítani a látásukat. Ez az úttörő orvosi eljárás reményt adhat a látásproblémákkal küzdőknek.",
+      "title": "Saját mitokondriumokat fecskendeztek egy páciens szemébe a látás helyreállítására",
+      "summary": "Saját mitokondriumokat fecskendeztek egy páciens szemébe, kísérletképpen a látás helyreállítására. Ez az innovatív eljárás új reményt adhat a látáskárosodásban szenvedőknek.",
       "importance": 5
     },
     {
-      "title": "Új narkolepszia gyógyszer nyithat meg utat agyi terápiák előtt",
-      "summary": "Egy új narkolepszia gyógyszer fejlesztése során olyan felfedezések születtek, amelyek számos új agyi terápia előtt nyithatják meg az utat. Ez jelentős előrelépést jelenthet a neurológiai betegségek kezelésében.",
-      "importance": 4
+      "title": "A tengerszint emelkedése sokkal jelentősebb, mint azt a legtöbb part menti kockázatértékelés feltételezte",
+      "summary": "Egy új kutatás szerint a tengerszint emelkedése sokkal jelentősebb, mint azt a legtöbb part menti kockázatértékelés feltételezte. Ez súlyosabb következményekkel járhat a tengerparti régiókra nézve.",
+      "importance": 5
     },
     {
-      "title": "Lehet-e tudatos a mesterséges intelligencia? Egy félreértésből eredő kérdés",
-      "summary": "A kérdés, hogy vajon lehet-e tudatos a mesterséges intelligencia, valójában egy mélyebb, filozófiai félreértésből ered. Ez a téma alapvető tudományos és etikai vitákat generál az AI természetéről.",
+      "title": "A kérdés, hogy a mesterséges intelligencia valaha is öntudatra ébredhet-e, egy téves feltételezésből ered",
+      "summary": "A kérdés, hogy a mesterséges intelligencia valaha is öntudatra ébredhet-e, egy téves feltételezésből ered. A tudományos konszenzus szerint az AI jelenlegi formájában nem rendelkezik öntudattal.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Rejtélyes körülmények között vette el az olimpián az utolsó ugrását egy sportolótól",
-      "summary": "Az olimpián egy magyar sportolótól fél centin múlt az érem, miután rejtélyes körülmények között vették el az utolsó ugrását. Az eset sportszerűtlenséget és vitát váltott ki a szabályok értelmezésével kapcsolatban.",
+      "title": "Rejtélyes körülmények vették el az olimpián az utolsó ugrását, fél centin múlhatott az érem",
+      "summary": "Egy sportoló rejtélyes körülmények között veszítette el az utolsó olimpiai ugrásának lehetőségét, ami miatt fél centin múlhatott az érem. Az eset nagy vitát váltott ki a sportvilágban.",
       "importance": 4
     },
     {
-      "title": "Eltűntként köröznek egy volt magyar válogatott focistát",
-      "summary": "A rendőrség eltűntként köröz egy korábbi magyar válogatott labdarúgót. Az eset nagy figyelmet kapott a sportközösségben és a nyilvánosságban egyaránt.",
+      "title": "Eltűntként köröz a rendőrség egy volt magyar válogatott focistát",
+      "summary": "Eltűntként köröz a rendőrség egy volt magyar válogatott labdarúgót. Az ügy nagy figyelmet kapott a sportkedvelők és a közvélemény körében.",
       "importance": 3
+    },
+    {
+      "title": "Megoperálták a gerincsérülést szenvedett vadászpilótát, a miniszter bizakodó",
+      "summary": "Sikeresen megoperálták a lezuhant Gripen vadászgép gerincsérülést szenvedett pilótáját, akinek állapota stabil. Bár nem sportoló, a helytállása és a felépülése a sportolói kitartáshoz és rehabilitációhoz hasonlítható.",
+      "importance": 2
+    },
+    {
+      "title": "Megbotlott, majd a repülőgép kerekei alá került egy dolgozó Montréal nemzetközi repülőterén",
+      "summary": "Tragikus baleset történt a montréali repülőtéren, ahol egy dolgozó a repülőgép kerekei alá került. Az eset a fizikai kockázatokra és a gyors reagálás fontosságára hívja fel a figyelmet, amelyek a sportban is előfordulhatnak.",
+      "importance": 1
     }
   ]
 }

@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Az MNB szerint 2027-ben is 3 százalék alatt maradhat az infláció",
-      "summary": "A Magyar Nemzeti Bank prognózisa szerint az infláció tartósan 3% alatt maradhat a következő években, ami stabilizálja a gazdaságot. Ez jelentős a háztartások és a vállalkozások számára egyaránt.",
+      "title": "Visszavonták Mészáros Lőrinc cégének 33 milliárdos uniós támogatását",
+      "summary": "Az agrárminisztérium indokolta meg, miért vonta vissza Mészáros Lőrinc pulykaüzemétől a jelentős, 33 milliárd forintos uniós támogatást. A lépés pénzügyi és politikai körökben is komoly visszhangot váltott ki.",
       "importance": 5
     },
     {
-      "title": "Visszavonták Mészáros Lőrinc pulykaüzemének 33 milliárdos uniós támogatását",
-      "summary": "Az agrárminisztérium visszavonta Mészáros Lőrinc egyik pulykafeldolgozó üzemének 33 milliárd forintos uniós támogatását. A cég stabil pénzügyi lábakon áll, de a döntés kérdéseket vet fel a nagyszabású agrárberuházások kapcsán.",
+      "title": "„Ez több mint korrupció, ez feudalizmus” – súlyos kritika az országról",
+      "summary": "Egy névvel nem jelölt, de a kormányellenes hangulatot tükröző nyilatkozat szerint az ország jelenlegi állapota a korrupciót meghaladó, feudális rendszert mutat. A kijelentés a közéletben tapasztalható súlyos problémákra hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "A kormány pontosítja a magántőke-alapok tulajdonosainak azonosítási szabályait",
-      "summary": "A kormány célja a magántőke- és kockázatitőke-alapok átláthatóságának növelése a valódi tulajdonosok azonosítására vonatkozó szabályok pontosításával. Ez fontos lépés a pénzügyi átláthatóság és a pénzmosás elleni küzdelem szempontjából.",
+      "title": "Varga Mihály: A kormány kiadja a Transparency által kért adatokat",
+      "summary": "Varga Mihály pénzügyminiszter bejelentette, hogy a kormány összegyűjti és átadja a Transparency International által kért adatokat, hangsúlyozva, hogy nincs titkolnivalójuk. Ez a lépés a kormányzati átláthatóság iránti elkötelezettséget hivatott erősíteni.",
       "importance": 4
     },
     {
-      "title": "Varga Mihály: Nincs titkolnivalónk, kiadjuk a Transparency által kért adatokat",
-      "summary": "Varga Mihály pénzügyminiszter bejelentette, hogy a kormány összegyűjti és kiadja a Transparency International által kért adatokat, hangsúlyozva az átláthatóság iránti elkötelezettséget. Ez fontos lépés lehet a közpénzek felhasználásának ellenőrizhetősége szempontjából.",
+      "title": "Baka András legfőbb ügyészt keres, aki független a hatalomtól",
+      "summary": "Baka András kulcsfontosságú feladata az új legfőbb ügyész kiválasztása, aki nem a kormányzat érdekeit, hanem a jogállamiságot képviseli. A poszt betöltése kritikus a magyar igazságszolgáltatás függetlensége szempontjából.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A CIA igazgatója bejelentés nélkül repült Moszkvába",
-      "summary": "Rejtélyes körülmények között landolt egy amerikai repülő Moszkvában, fedélzetén a CIA igazgatójával. Az előre be nem jelentett látogatás komoly geopolitikai tárgyalásokra utal Oroszország és az USA között.",
+      "title": "Az ukrán ex-védelmi miniszter szerint Ukrajna elveszítheti a háborút",
+      "summary": "Ukrajna korábbi védelmi minisztere drámai figyelmeztetésben jelezte, hogy az ország lassan alulmaradhat az Oroszország elleni háborúban. A nyilatkozat komoly aggodalmakat vet fel a konfliktus kimenetelével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Kanada megtorló vámokat vezet be amerikai termékekre",
-      "summary": "Kanada 50 százalékos megtorló vámokat vezet be mintegy 700 amerikai termékre, válaszul az USA korábbi kereskedelmi lépéseire. Ez a lépés tovább élezi a kereskedelmi feszültségeket a két szomszédos ország között.",
+      "title": "A CIA igazgatója bejelentés nélkül Moszkvába utazott",
+      "summary": "A CIA igazgatója váratlanul és titokban Moszkvába látogatott, melynek céljáról csak találgatások vannak. Ez a magas szintű, nem nyilvános találkozó jelentős nemzetközi fejleményekre utalhat.",
+      "importance": 5
+    },
+    {
+      "title": "Kanada bosszúvámot vet ki amerikai termékekre",
+      "summary": "Válaszul az amerikai intézkedésekre, Kanada kemény, akár 50 százalékos vámot vezet be 700 amerikai termékre. Ez a lépés tovább élezi a két ország közötti kereskedelmi feszültségeket.",
       "importance": 4
     },
     {
-      "title": "Az USA új szankciókat vezetett be Irán ellen, Kína bírálja",
-      "summary": "Az Egyesült Államok további szankciókat jelentett be Irán és kereskedelmi partnerei ellen, amit Kína élesen bírált. A lépés várhatóan jelentős gazdasági nyomást gyakorol Iránra és fokozza a nemzetközi feszültséget.",
+      "title": "Trump gazdasági D-nappal fenyeget Iránt",
+      "summary": "Donald Trump gazdasági \"D-nappal\" fenyegette meg Iránt, bár pénzügyminisztere enyhébb hangnemben, inkább figyelmeztető lövésként írta le az intézkedéseket. Ez a lépés tovább fokozza a feszültséget az Egyesült Államok és Irán között.",
       "importance": 4
-    },
-    {
-      "title": "Netanjahu Törökországot választotta főellenségnek a választási kampányhoz",
-      "summary": "Benjamin Netanjahu izraeli miniszterelnök Törökországot nevezte meg főellenségnek választási kampányában, ami tovább rontja a két ország amúgy is feszült viszonyát. Ez a retorika a regionális politikára is hatással lehet.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az Apple bemutatta eddigi legerősebb chipjeit, az M5 Ultrát és M6-ot",
-      "summary": "Az Apple bejelentette az M5 Ultra és M6 chipeket, melyek az eddigi legerősebbek a cég kínálatában, és az új Mac Mini modellekben is debütálnak. Ez jelentős előrelépés a teljesítmény és az energiahatékonyság terén.",
+      "title": "Működik a biológiai adatközpont élő emberi idegsejtekkel",
+      "summary": "Kutatóknak sikerült létrehozniuk egy biológiai adatközpontot, ahol élő emberi idegsejtek végzik a számításokat. Ez az áttörés új irányt mutathat a számítástechnika és a mesterséges intelligencia fejlődésében.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI Jalapeño chipje a gyors AI-következtetésre készült",
-      "summary": "Az OpenAI bemutatta Jalapeño nevű chipjét, amelyet a gyors mesterséges intelligencia következtetésre terveztek nagy léptékben. A benchmarkok kiváló teljesítményt mutatnak, ami forradalmasíthatja az AI modellek futtatását.",
+      "title": "Az OpenAI új Jalapeño chipje felgyorsíthatja a mesterséges intelligenciát",
+      "summary": "Az OpenAI által fejlesztett Jalapeño chip rendkívül gyors következtetéseket tesz lehetővé nagyméretű AI-rendszerekben. A benchmark eredmények ígéretesek, és komoly előrelépést jelenthetnek az AI feldolgozási sebességében.",
       "importance": 4
     },
     {
-      "title": "Az önvezető teherautó startup Gatik 200 millió dolláros befektetést kapott",
-      "summary": "A Gatik önvezető teherautó startup 200 millió dolláros befektetést szerzett egy PepsiCo-val kötött megállapodás után. Ez a finanszírozás felgyorsítja az autonóm logisztika fejlesztését és terjedését.",
+      "title": "Az Apple bemutatta eddigi legerősebb chipjeit, az M5 Ultra és M6 modelleket",
+      "summary": "Az Apple bemutatta legújabb és legerősebb chipjeit, az M5 Ultra és M6 modelleket, amelyek új szintre emelhetik a Mac rendszerek teljesítményét. Ezek a processzorok jelentős fejlesztéseket hoznak a grafikai és számítási kapacitás terén.",
       "importance": 4
     },
     {
-      "title": "A WhatsApp szigorítja fiókjainak biztonságát",
-      "summary": "A WhatsApp megerősíti fiókjainak biztonságát erősebb kétlépcsős azonosítással és egyéb funkciókkal. Ez növeli a felhasználók adatainak védelmét és az alkalmazás megbízhatóságát.",
-      "importance": 3
+      "title": "Norvégia betilthatja az okosszemüvegek arcfelismerő funkcióját",
+      "summary": "Norvégia fontolgatja, hogy betiltja az okosszemüvegek arcfelismerő funkciójának használatát nyilvános helyeken. A döntés a magánélet védelmével és a technológia etikus alkalmazásával kapcsolatos aggodalmakra reagál.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Soha nem voltak még ilyen melegek az óceánok, brutálisan erős lehet az El Niño",
-      "summary": "Az óceánok felszíni hőmérséklete rekordmagasságokat ért el, ami extrém erős El Niño jelenséget vetít előre. Ennek súlyos következményei lehetnek a globális időjárásra és az ökoszisztémákra.",
+      "title": "Rekordmelegek az óceánok, erős El Niño várható",
+      "summary": "Az óceánok hőmérséklete soha nem látott mértékben emelkedett, ami brutálisan erős El Niño jelenséget vetít előre. Ez a globális éghajlati minta súlyos időjárási anomáliákat okozhat világszerte.",
       "importance": 5
     },
     {
-      "title": "A tengerszint-emelkedés sokkal magasabb lehet a part menti kockázatértékeléseknél feltételezettnél",
-      "summary": "Egy új kutatás szerint a tengerszint-emelkedés mértéke jelentősen meghaladhatja a legtöbb part menti kockázatértékelésben feltételezett értékeket. Ez komoly kihívások elé állítja a part menti régiók infrastruktúráját és lakosságát.",
+      "title": "Az agy nehezen termel új neuronokat depressziós embereknél",
+      "summary": "Kutatások szerint a depresszióban szenvedőknél az agyban csökken az új neuronok képződésének képessége. Ez a felfedezés mélyebb betekintést nyújthat a depresszió biológiai hátterébe és új kezelési utakat nyithat meg.",
       "importance": 4
     },
     {
-      "title": "A mesterséges intelligencia szerepe a tudományos kutatásban és értékelésben",
-      "summary": "A tudományos publikációk jövője megköveteli az AI támogatását a lektorálásban, ugyanakkor felmerül a mesterséges intelligencia kockázatainak kezelése is. Az AI-észlelő eszközök fejlődése alapvetően befolyásolja a kutatás minőségét és hitelességét.",
+      "title": "Az asztma pubertáskorban eltűnhet egyes fiúknál – egérkísérletek utalnak a miértre",
+      "summary": "Egérkísérletek arra utalnak, hogy egyes fiúknál az asztma tünetei pubertáskorban enyhülhetnek vagy teljesen megszűnhetnek. Ez az eredmény kulcsfontosságú lehet az asztma mechanizmusainak megértésében és új terápiák kifejlesztésében.",
       "importance": 4
     },
     {
-      "title": "Több mint 18 000 kérdéses képet találtak cégek antitestkatalógusaiban",
-      "summary": "Egy vizsgálat során több mint 18 000 kérdéses képet fedeztek fel 15 vállalat antitestkatalógusában, ami komoly aggodalmakat vet fel a tudományos kutatás integritásával kapcsolatban. Ez befolyásolhatja a kutatási eredmények megbízhatóságát.",
+      "title": "Ősi földmérő műszert fedeztek fel Egyiptomban",
+      "summary": "Egyiptomban egy ősi földmérő műszerre bukkantak a régészek, amely betekintést enged az ókori civilizációk mérnöki tudásába. A lelet hozzájárulhat az ókori építkezési technikák és matematikai ismeretek jobb megértéséhez.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Joe Root, az angol krikettkapitány csalódottságát fejezte ki egy incidens miatt",
-      "summary": "Joe Root, Anglia krikettkapitánya „dühösnek” és „csalódottnak” mondta magát a Brydon Carse incidenst követően. Ez a nyilatkozat rávilágít a csapaton belüli problémákra és a sportfegyelem fontosságára.",
+      "title": "Sir Billy Boston – Egy világklasszis sportoló története",
+      "summary": "Sir Billy Boston, a rögbi liga legendája, akinek története inspiráló. Élete és sportkarrierje méltó arra, hogy megismerje a világ.",
       "importance": 3
-    },
-    {
-      "title": "Sir Billy Boston – a rögbi világklasszisa, akinek történetét el kellett mesélni",
-      "summary": "Sir Billy Boston, a rögbi sportág legendás alakja, „világklasszis sportolóként” volt méltatva, akinek története inspiráló. Ez a megemlékezés a sporttörténelem egy fontos alakjára hívja fel a figyelmet.",
-      "importance": 3
-    },
-    {
-      "title": "Andrew Tate állítólag csak bekamuzta, hogy több luxuskocsija és jachtja is van",
-      "summary": "Andrew Tate, a korábbi kickboxoló és internetes személyiség állítólag csak nagyzolt luxusautóival és jachtjaival. Bár a hír nem sportteljesítményről szól, egy ismert sportolóhoz köthető személyes imázsát érinti.",
-      "importance": 2
-    },
-    {
-      "title": "A Wizz Air szívesen átvenné a román állami légitársaság belföldi járatait",
-      "summary": "A Wizz Air kifejezte érdeklődését a román állami légitársaság belföldi járatainak átvétele iránt. Bár nem sport, a légiközlekedésben zajló verseny és piacfelosztás hasonlóan stratégiai gondolkodást igényel, mint a sportban.",
-      "importance": 1
     }
   ]
 }

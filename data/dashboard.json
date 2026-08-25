@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Külügyminisztérium feljelentést tett a Szijjártó-féle lélegeztetőgép-beszerzések ügyében",
-      "summary": "A Külügyminisztérium hűtlen kezelés gyanújával tett feljelentést a Szijjártó Péter minisztersége idején történt COVID-19 lélegeztetőgép-beszerzések miatt. A gyanú szerint indokolatlanul magas áron vásároltak eszközöket, jelentős költségvetési kárt okozva.",
+      "title": "Radikális szemléletváltás: mostantól mindenki láthatja, mennyi idő alatt érnek ki a mentők",
+      "summary": "A mentőszolgálat új, transzparens rendszert vezetett be, amellyel a lakosság valós időben követheti a mentőautók riasztási idejét és kiérkezési sebességét. Ez a változás a közbizalom növelését célozza.",
       "importance": 5
     },
     {
-      "title": "Agrárminisztérium visszavonta Mészáros Lőrinc pulykaüzemének uniós támogatását, jogi lépések jönnek",
-      "summary": "Az agrárminisztérium visszavonta Mészáros Lőrinc pulykafeldolgozó cégének, a Gallicoopnak egy korábban megnyert uniós támogatását. A Gallicoop jogi lépéseket tervez a döntés ellen, mely jelentős visszhangot váltott ki.",
+      "title": "Feljelentés történt a Külügyminisztériumban a Szijjártó idején kötött koronavírus-beszerzések miatt",
+      "summary": "Hűtlen kezelés gyanújával feljelentést tettek a Külügyminisztériumban a koronavírus-járvány idején történt lélegeztetőgép-beszerzések szerződéseivel kapcsolatban. Az ügy Szijjártó Péter minisztersége alatti időszakot érinti.",
+      "importance": 5
+    },
+    {
+      "title": "Az agrárminisztérium visszavonta a Mészáros Lőrinc pulykafeldolgozó cégének odaítélt uniós támogatást",
+      "summary": "Az Agrárminisztérium visszavonta Mészáros Lőrinc pulykafeldolgozó cégének korábban odaítélt uniós támogatását. A döntés hátterében feltehetően az áll, hogy a projekt nem felelt meg a feltételeknek.",
       "importance": 4
     },
     {
-      "title": "Unger Anna az elszámoltatás fontosságáról beszélt a vagyonvisszaszerzési hivatal meghallgatásán",
-      "summary": "Unger Anna kiemelte, hogy Magyarországon nem egyszerű korrupció volt, és elszámoltatás nélkül a felelősök idővel visszatérhetnek. Beszéde a vagyonvisszaszerzési hivatal elnökjelöltjének meghallgatásán hangzott el, a demokrácia helyreállításának szükségességét hangsúlyozva.",
-      "importance": 4
-    },
-    {
-      "title": "Elmaradt a Független Közmédia Testület tagjelöltjeinek meghallgatása a Tisza kezdeményezésére",
-      "summary": "A Független Közmédia Testület három tagjelöltjének meghallgatását elnapolták a Tisza párt kérésére, furcsa körülmények között. Ez az esemény rávilágít a közmédia függetlenségével kapcsolatos aggodalmakra és politikai feszültségekre.",
+      "title": "A Tisza kezdeményezésére elmaradt a Független Közmédia Testület három tagjelöltjének meghallgatása",
+      "summary": "A Tisza párt kezdeményezésére elhalasztották a Független Közmédia Testület három jelöltjének parlamenti meghallgatását. A párt szerint a jelöltek nem megfelelőek voltak a feladatra.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Irán felkészült az Egyesült Államok szankciói ellen",
-      "summary": "Irán állítása szerint \"teljesen felkészült\" az Egyesült Államok által bevezetett gazdasági szankciók kiszélesedése ellen. Ez a nyilatkozat tovább növeli a feszültséget a két ország között.",
+      "title": "Gazdasági D-nap? Irán azt állítja, készen áll rá",
+      "summary": "Irán állítása szerint teljes mértékben felkészült az Egyesült Államok által bevezetett szélesebb körű gazdasági szankciók ellensúlyozására. Teherán ezzel üzenve reagált az esetleges újabb korlátozásokra.",
       "importance": 5
     },
     {
-      "title": "Ukrajna egy orosz olajfinomítót, Oroszország egy ukrán–moldovai határátkelőt támadott drónokkal",
-      "summary": "Dróntámadások zajlottak az orosz-ukrán háborúban: Ukrajna egy orosz olajfinomítót, Oroszország pedig egy ukrán–moldovai határátkelőt vett célba. A konfliktus eszkalálódása és a célpontok kiterjesztése aggodalmat kelt.",
+      "title": "6000 km-t repültek egyhuzamban a kínai vadászgépek, és ez erős figyelmeztetés a világnak",
+      "summary": "Kína vadászgépei 6000 kilométeres, nonstop repülést hajtottak végre, ami a globális erőkivetítési képességük jelentős demonstrációja. Ezt a manővert a nemzetközi elemzők komoly figyelmeztetésnek tekintik.",
       "importance": 5
-    },
-    {
-      "title": "Tornádó söpört végig egy francia falun, több mint negyvenen megsérültek",
-      "summary": "Pusztító tornádó söpört végig egy francia falun, több mint negyven ember sérült meg. Az extrém időjárási jelenség jelentős anyagi károkat okozott.",
-      "importance": 4
     },
     {
       "title": "Három éven át kényszerítették, hogy az FSZB ügynöke legyen, most sikerült elmenekülnie Oroszországból a Pussy Riot korábbi tagjának",
-      "summary": "A Pussy Riot egy korábbi tagjának három év után sikerült megszöknie Oroszországból, miután állítása szerint az FSZB ügynökeként kényszerítették. Az eset rávilágít az orosz titkosszolgálat módszereire és az emberi jogok helyzetére.",
+      "summary": "A Pussy Riot egy korábbi tagjának három év kényszerű FSZB ügynöki munka után sikerült megszöknie Oroszországból. Esetével rámutat a másként gondolkodók elnyomására az országban.",
+      "importance": 4
+    },
+    {
+      "title": "Tornádó söpört végig egy francia falun, több mint negyvenen megsérültek",
+      "summary": "Franciaországban tornádó csapott le egy falura, több mint negyven ember megsérült, és jelentős anyagi károk keletkeztek. A természeti jelenség meglepte a lakosságot, és helyi vészhelyzetet okozott.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "OpenAI AI ügynököket fejleszt mindenre, vajon mindenki használni fogja őket?",
-      "summary": "Az OpenAI mesterséges intelligencia ügynököket fejleszt, amelyek minden feladatra alkalmasak lehetnek. Ez a fejlesztés alapjaiban változtathatja meg, hogyan interagálunk a technológiával és milyen szerepe lesz az AI-nak mindennapi életünkben.",
+      "title": "Az OpenAI mindent átható AI-ügynököket fejleszt. Vajon mindenki használni fogja őket?",
+      "summary": "Az OpenAI olyan mesterséges intelligencia ügynököket fejleszt, amelyek széles körben alkalmazhatók különböző feladatokra. Ez a fejlesztés felveti a kérdést, hogy ezek az AI-rendszerek mennyire integrálódnak majd a mindennapi életbe és milyen hatással lesznek a munkára.",
       "importance": 5
     },
     {
-      "title": "Indiai Airbound 37 millió dollárt gyűjtött rakétaszerű drónokkal való teherfuvarozásra",
-      "summary": "Az indiai Airbound startup 37 millió dolláros befektetést kapott rakétaszerű drónjai fejlesztésére, amelyek célja a teherautókkal való verseny. Ez a lépés forradalmasíthatja a logisztikát és a dróntechnológia ipari alkalmazását.",
+      "title": "Az Amazon 60%-kal emeli hardver árait, a memóriahiányra hivatkozva",
+      "summary": "Az Amazon jelentősen, 60%-kal megemelte hardvertermékeinek árait, indoklásul a globális memóriahiányt hozva fel. Ez az áremelés várhatóan hatással lesz a fogyasztói piacra és más technológiai cégekre is.",
       "importance": 4
     },
     {
-      "title": "Az Amazon 60%-kal emeli a hardverárakat a memóriahiány miatt",
-      "summary": "Az Amazon 60%-kal megemeli hardvertermékeinek árait, indokként a globális memóriahiányt megjelölve. Ez a drágulás jelentősen érintheti a fogyasztókat és az iparág más szereplőit.",
+      "title": "A Hugging Face-t a hírek szerint 13 milliárd dollárért vásárolják fel",
+      "summary": "A Hugging Face, a mesterséges intelligencia egyik vezető platformja, a jelentések szerint 13 milliárd dolláros felvásárlási tárgyalásokat folytat. Ez az ügylet jelentősen átalakíthatja az AI-piacot és a nyílt forráskódú fejlesztések jövőjét.",
       "importance": 4
     },
     {
-      "title": "A Hugging Face-t 13 milliárd dollárért vásárolhatja fel egy ismeretlen vevő",
-      "summary": "A jelentések szerint a Hugging Face, a népszerű AI platform, 13 milliárd dolláros felvásárlási tárgyalásokat folytat. Ez az ügylet jelentősen befolyásolhatja a mesterséges intelligencia ökoszisztémát és a nyílt forráskódú AI-fejlesztések jövőjét.",
-      "importance": 3
+      "title": "A GM elektromos járműveinek fékproblémái nagyobb szövetségi vizsgálatot vonnak maguk után",
+      "summary": "A General Motors elektromos járműveinél észlelt fékproblémák miatt az amerikai hatóságok fokozott ellenőrzést rendeltek el. Ez a biztonsági aggodalom hatással lehet az EV-piacra és a fogyasztói bizalomra a növekvő elektromos autók szektorában.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Milliárd dolláros gép célozza a fúziós energia rekordját és a nukleáris fegyverek tanulmányozását",
-      "summary": "Egy milliárd dolláros értékű gép célja, hogy új rekordot állítson fel a fúziós energia terén, miközben nukleáris fegyvereket is tanulmányoz. Ez a projekt áttörést hozhat az energiaszektorban és a tudományos kutatásban.",
+      "title": "35 ezres többlethalálozást regisztráltak a hőség miatt Európában",
+      "summary": "Európában több mint 35 ezer többlethalálozást regisztráltak a rendkívüli hőség miatt, ami rávilágít a klímaváltozás súlyos egészségügyi hatásaira. Az adatok aggasztó képet festenek a jövőről és a sürgős intézkedések szükségességéről.",
       "importance": 5
     },
     {
-      "title": "Saját mitokondrium injekciózása a betegek szemébe a látás helyreállításáért",
-      "summary": "Új kísérleti eljárás során betegek saját mitokondriumait injekciózzák a szemükbe, remélve a látás helyreállítását. Ez az innovatív terápia reményt adhat a súlyos látáskárosodásban szenvedőknek.",
-      "importance": 5
-    },
-    {
-      "title": "Rejtett vulkánok utalnak a Hold viharos múltjára",
-      "summary": "Rejtett vulkánokat fedeztek fel a Holdon, amelyek a Hold geológiai történetének egy viharosabb időszakára utalnak. Ez a felfedezés segíthet jobban megérteni égi kísérőnk kialakulását és fejlődését.",
+      "title": "Rejtélyes, embermagasságú római kori épületre bukkantak régészek az egykori Óbudai Szeszgyár helyén",
+      "summary": "Régészek egy rejtélyes, embermagasságú római kori épület maradványaira bukkantak az egykori Óbudai Szeszgyár területén. A felfedezés segíthet jobban megérteni a római kori Aquincum mindennapjait és a korabeli építkezési technikákat.",
       "importance": 4
     },
     {
-      "title": "Asztronauta mellény a sugárzás felére csökkentésére",
-      "summary": "Egy új asztronauta mellényt fejlesztettek ki, amely felére csökkenti az űrhajósok sugárzási expozícióját. Ez a találmány kulcsfontosságú lehet a hosszabb űrrepülések és a Mars-küldetések biztonsága szempontjából.",
+      "title": "Kína humanoid robotjain túl egy csendesebb gépforradalom bontakozik ki",
+      "summary": "Kína nem csak humanoid robotjaival hívja fel magára a figyelmet, hanem egy csendesebb, de annál jelentősebb gépi forradalom is zajlik. Ez a fejlődés alapvetően változtatja meg a termelést, a logisztikát és a mindennapi életet különböző automatizált rendszerekkel.",
       "importance": 4
+    },
+    {
+      "title": "Sir Chris Hoy: A rákszűrésért folytatott kampánynak nem az én feladatomnak kellene lennie",
+      "summary": "Sir Chris Hoy, olimpiai bajnok kerékpáros, kiállt a rákszűrés fontossága mellett, hangsúlyozva, hogy a tudatosság növelése nem csak az egyéni aktivisták feladata. Felhívása a közegészségügyi felelősségre hívja fel a figyelmet, és a szélesebb körű támogatás szükségességét hangsúlyozza.",
+      "importance": 3
     }
   ],
-  "sports": [
-    {
-      "title": "Sir Chris Hoy: A rákszűrés népszerűsítése nem az én feladatom",
-      "summary": "A híres brit kerékpáros, Sir Chris Hoy kijelentette, hogy a rákszűrés fontosságának hangsúlyozása nem pusztán az ő feladata. Kampányával a közegészségügyi felelősségre hívja fel a figyelmet.",
-      "importance": 2
-    },
-    {
-      "title": "35 ezres többlethalálozás a hőség miatt Európában",
-      "summary": "Az európai hőséghullám miatt 35 ezer többlethalálozást regisztráltak, ami súlyos közegészségügyi problémát jelent. Az extrém időjárás különösen veszélyezteti az időseket és az alapbetegségekkel élőket, befolyásolva a szabadtéri fizikai aktivitást.",
-      "importance": 2
-    },
-    {
-      "title": "Már a Vajdaságban is megjelent a nyugat-nílusi vírus",
-      "summary": "A nyugat-nílusi vírus megjelent a Vajdaságban, ami a szúnyogok által terjesztett betegségek veszélyére hívja fel a figyelmet. Ez a járványügyi hír befolyásolhatja a szabadtéri sporttevékenységeket és az általános közegészséget.",
-      "importance": 2
-    },
-    {
-      "title": "A város tele van gyalogos járdákon közlekedő, ideges autósokkal",
-      "summary": "A városi közlekedésben egyre gyakoribbá válik a feszültség a járdákon közlekedő gyalogosok és autósok között. Ez a jelenség rávilágít a városi infrastruktúra hiányosságaira és a gyalogos közlekedés kihívásaira, ami az aktív életmód részét képezi.",
-      "importance": 1
-    }
-  ]
+  "sports": []
 }

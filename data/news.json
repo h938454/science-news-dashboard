@@ -1,6 +1,26 @@
 {
   "Telex": [
     {
+      "title": "Olcsó áramot ígér a napenergia, de ha lemegy a nap, jön a valódi számla",
+      "link": "https://telex.hu/nevertek/2026/08/26/reakcio-cikk-greenpeace-hun-ren-napenergia-ellatasbiztonsag",
+      "summary": "A napenergia önmagában valóban olcsó áramot termelhet, de ettől még nem lesz olcsó az egész villamosenergia-rendszer. A tárolás, a hálózatfejlesztés és a tartalék kapacitások költségei akkor is megjelennek, amikor csúcson járnak a naperőművek."
+    },
+    {
+      "title": "Grzegorz, a lengyel autós pórul járt Budapesten: csapda a külföldieknek a szombati munkanapi fizetős parkolás",
+      "link": "https://telex.hu/belfold/2026/08/26/budapest-munkanapcsere-parkolas-potdij-kulfoldi",
+      "summary": "Fordítóprogrammal nézték meg a közlekedési táblát, online is próbáltak tájékozódni, hogy kell-e fizetni a parkolásért. Hiába, megkapták a Mikulás-csomagot. Európában ismeretlen fogalom a ledolgozós szombati munkanap, csak a letteknél van hasonló a közszférában."
+    },
+    {
+      "title": "Nem létezik olyan, hogy zöldség, a paprika és az uborka is gyümölcs",
+      "link": "https://telex.hu/eszkombajn/2026/08/26/nem-letezik-olyan-hogy-zoldseg-a-paprika-es-az-uborka-is-gyumolcs",
+      "summary": "Teljesen értelmetlen azon vitatkozni, hogy gyümölcs-e a paradicsom, ezt most sem fogjuk eldönteni, de azt elmondjuk, miért értelmetlen a vita, és miért rakják a gyümölcsök közé a boltban az avokádót."
+    },
+    {
+      "title": "Évi tízmilliárdokat bukik a magyar gazdaság az energiadiplomácia tétlenségén",
+      "link": "https://telex.hu/g7/kozelet/2026/08/26/energia-aram-import-szlovakia-ausztria-aramkereskedelem-diplomacia-mavir-mekh",
+      "summary": "Az osztrák és szlovák hálózati korlátozások miatt nem jut el hozzánk az olcsóbb áram, ami pont a hazai árcsúcsokat tudná mérsékelni. A hazai szereplők egy része ezzel jól jár, mindenki más veszít."
+    },
+    {
       "title": "Utolsó kiegészítője mellé egy teljes ráncfelvarrást is kap a Witcher 3, és még fizetni sem kell érte",
       "link": "https://telex.hu/after/2026/08/25/videojatek-bejelentes-gamescom-2026-megnyito-witcher-3-heroes-3",
       "summary": "Ha valakinek megvan a játék, megkapja ingyen, sőt, ha a kiegészítők hiányoznak, most azokat is be lehet húzni. Ezt az idei Gamescom megnyitóján jelentették be, ahol most is voltak még más érdekességek."
@@ -54,26 +74,6 @@
       "title": "Kukacok hemzsegtek a beteg testén a Jahn Ferenc Kórházban",
       "link": "https://telex.hu/belfold/2026/08/25/jahn-ferenc-korhaz-elhanyagolas-egeszsegugy-felfekves",
       "summary": "A 77 éves férfi özvegye feljelentést tett, állítja, nem látták el megfelelően a férjét. A kórház szerint a belső vizsgálat nem talált orvosszakmai hibát."
-    },
-    {
-      "title": "Elbontották a devecseri fallosz alakú faszobrot",
-      "link": "https://telex.hu/zacc/2026/08/25/devecseri-fallosz-szobor-madar-sisakkal-mohacs-500",
-      "summary": "Már országosan is híressé kezdett válni a mohácsi csata évfordulójára időzített szobor, de az alpolgármester vállalta a felelősséget az alakjáért, és elvitték."
-    },
-    {
-      "title": "Meghalt Dolly Parton",
-      "link": "https://telex.hu/after/2026/08/25/meghalt-dolly-parton",
-      "summary": "A countryzene királynőjének tartott énekesnő nyolcvanéves volt."
-    },
-    {
-      "title": "Túl van a műtéten, teljesen felépülhet a lezuhant Gripenből katapultált pilóta",
-      "link": "https://telex.hu/belfold/2026/08/25/gripenbol-katapultalt-pilota-mutet-felepules",
-      "summary": "Az 51 éves katonát gerincsérülés miatt kellett műteni, az eljárás sikeres volt."
-    },
-    {
-      "title": "Az adatvédelmi hatóság szerint a jegybanknak ki kell adnia a tavaly január óta kötött szerződéseit",
-      "link": "https://telex.hu/belfold/2026/08/25/magyar-nemzeti-bank-transparency-international-peterfalvi-attila",
-      "summary": "A Transparency International közadatigénylését eleinte nem akarták teljesíteni, de azóta már Varga Mihály is máshogy gondolja."
     }
   ],
   "Portfolio": [],
@@ -156,6 +156,11 @@
   ],
   "HVG": [
     {
+      "title": "Meghallgatták a vagyonvisszaszerzési hivatal elnökjelöltjeit, nyilvános a mentők kiérkezési ideje – Newscast",
+      "link": "https://hvg.hu/itthon/20260826_meghallgattak-az-nvvh-elnokjeloltjeit-nyilvanos-a-mentok-kierkezesi-ideje-newscast",
+      "summary": "Kedden hallgatta meg az Országgyűlés igazságügyi és alkotmányügyi bizottsága a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (NVVH) elnöki tisztségére pályázókat, a Független Közmédia Testület jelöltjeinek bizottsági meghallgatása viszont meghiúsult. Feljelentést tett a Szijjártó-féle lélegeztetőgép-beszerzések ügyében Orbán Anita külügyminiszter. Mostantól nyilvános, havonta frissülő felületen lehet követni, hogy mennyi idő alatt érnek ki a mentők egy riasztás után. Kezdje a napot a HVG hírpodcastjával!"
+    },
+    {
       "title": "Andrew Tate-ék csak megjátsszák, hogy vagyonosak, a szuperautókat csak bérelték",
       "link": "https://hvg.hu/elet/20260825_andrew-tristan-tate-kozossegi-media-szuperauto-jacht",
       "summary": "Ügyvédeik szerint a hímsoviniszta tartalmakat gyártó fivérek azért mutatják szupergazdagnak magukat, mert az jót tesz az üzletüknek."
@@ -224,11 +229,6 @@
       "title": "Olaszországban jövőre előrehozott választásokat tarthatnak",
       "link": "https://hvg.hu/vilag/20260825_olaszorszag-elorehozott-valasztasok",
       "summary": "Úgy számol a sajtó, hogy decemberben megszületik az új választási törvény, majd a képviselők úgy időzítik a voksolást, hogy el ne bukják az életjáradékot."
-    },
-    {
-      "title": "Eladó egy magánsziget Velence közelében",
-      "link": "https://hvg.hu/elet/20260825_elado-magansziget-velence-erod",
-      "summary": "A privát oázisként hirdetett szigeten egy erődből átalakított lakóépület is áll."
     }
   ],
   "BBC": [
@@ -238,19 +238,14 @@
       "summary": "Iconic country musician Dolly Parton has died at the age of 80, the singer's team announced on social media."
     },
     {
-      "title": "Father's house rammed before son died in A66 crash",
-      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed."
+      "title": "Winter energy prices expected to rise to three-year high",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
     },
     {
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
-    },
-    {
-      "title": "Winter energy prices expected to rise to three-year high",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
     },
     {
       "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
@@ -276,6 +271,11 @@
       "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
       "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
       "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks."
+    },
+    {
+      "title": "Father's house rammed before son died in A66 crash",
+      "link": "https://www.bbc.co.uk/news/articles/cevwjww8p08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The house belonging to Cole Worthy's father is significantly damaged and its windows are smashed."
     },
     {
       "title": "Nicotine vapes best chance to quit smoking, major review finds",

@@ -79,6 +79,11 @@
   "Portfolio": [],
   "444": [
     {
+      "title": "Tiszás katyvasz, fideszes perpatvar",
+      "link": "https://444.hu/2026/08/26/tiszas-katyvasz-fideszes-perpatvar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ismét benézett tiszás személycserék, Lentulai vs. Kurucz, kanadai vámok és a vezérüket sirató szektások a 444 reggeli hírlevelében."
+    },
+    {
       "title": "„Nincs dolgunk egymással, te önhitt fallosz” – egymásnak estek a fideszes influenszerek",
       "link": "https://444.hu/2026/08/25/nincs-dolgunk-egymassal-te-onhitt-fallosz-egymasnak-estek-a-fideszes-influenszerek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Kacsoh Dániel otthagyta a Mandinert, Kurucz Dániel interjút készített vele, erre jött Lentulai Krisztián meg Szakács István, és elszabadultak az indulatok."
@@ -147,11 +152,6 @@
       "title": "Börtönbe vonult a magyar szélsőjobb egyik legelborultabb figurája, a hívei szerint reptiliánok kezében a haza",
       "link": "https://444.hu/2026/08/25/bortonbe-vonult-a-magyar-szelsojobb-egyik-legelborultabb-figuraja-a-hivei-szerint-reptilianok-kezeben-a-haza?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Posta Imre halálos ítéleteket hirdetett ki a magyar elitre, kivégzésekre és veseszúrásokra bíztatta a követőit, most mégis mártírt próbálnak csinálni belőle."
-    },
-    {
-      "title": "Soha nem voltak még ilyen melegek az óceánok, brutálisan erős lehet az El Niño",
-      "link": "https://444.hu/2026/08/25/soha-nem-voltak-meg-ilyen-melegek-az-oceanok-brutalisan-eros-lehet-az-el-nino?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Átlagosan 21,1 fokot mértek az óceánok felszínén."
     }
   ],
   "HVG": [
@@ -248,6 +248,21 @@
       "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday."
     },
     {
+      "title": "Winter energy prices expected to rise to three-year high",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem."
+    },
+    {
+      "title": "Why Pride is facing a backlash - from inside and outside the LGBT community",
+      "link": "https://www.bbc.co.uk/news/articles/cj63jyl09jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Big companies used to go out of their way to support Pride. Now, there's a nervousness in the air, Darren Milby writes"
+    },
+    {
+      "title": "Yellow warnings in force as rain and thunderstorms hit parts of UK",
+      "link": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Torrential downpours will affect parts of England and Wales, delivering some of the wettest weather in several weeks"
+    },
+    {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup."
@@ -258,34 +273,29 @@
       "summary": "Two women are also hurt and one remains in hospital in critical condition."
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide."
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6x777gk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks."
     },
     {
-      "title": "Spanish government says sorry to people of Ceuta for migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July."
-    },
-    {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries."
-    },
-    {
-      "title": "Yellow weather warnings issued as thunderstorms and flooding forecast",
-      "link": "https://www.bbc.co.uk/weather/articles/c770lyg4318o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Met Office has issued a yellow weather warning as heavy showers and thunderstorms are forecast to move northwards across the UK on Wednesday."
-    },
-    {
-      "title": "Andrew Tate exaggerates and did not own supercars in photos, his lawyers say",
-      "link": "https://www.bbc.co.uk/news/articles/c4grxr0e5gdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors argue Tate and his brother Tristan are a flight risk and should not be released on bail."
+      "title": "Nicotine vapes best chance to quit smoking, major review finds",
+      "link": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
+      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests."
     },
     {
       "title": "Life of the music legend whose songs touched millions",
       "link": "https://www.bbc.co.uk/news/articles/cz9xdl4g25zo?at_medium=RSS&at_campaign=rss",
       "summary": "The singer, songwriter and actress is known for timeless hits including Jolene and I Will Always Love You."
+    },
+    {
+      "title": "How Dolly Parton told her story through six iconic songs",
+      "link": "https://www.bbc.co.uk/news/articles/cpqpjv0j0eeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A legendary singer-songwriter, her music covered themes around love, loss, female empowerment and spirituality."
+    },
+    {
+      "title": "Elton John, Oprah Winfrey and Paul McCartney lead tributes to Dolly Parton",
+      "link": "https://www.bbc.co.uk/news/articles/cd08zzev8lno?at_medium=RSS&at_campaign=rss",
+      "summary": "The tributes have included artists across musical genres, fans from all generations and politicians from all spectrum sharing their love for the country icon."
     },
     {
       "title": "A life in pictures",
@@ -296,19 +306,19 @@
       "title": "'We used flour for powder' - Dolly reflects on early life in 1979 BBC interview",
       "link": "https://www.bbc.co.uk/news/videos/c20ljj1e9z5o?at_medium=RSS&at_campaign=rss",
       "summary": "The singer spoke candidly about her childhood in rural Tennessee, her family's poverty, and the determination that helped her rise to international stardom."
-    },
-    {
-      "title": "Asbestos killed my mum in her 40s – was her school to blame?",
-      "link": "https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&at_campaign=rss",
-      "summary": "Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos."
-    },
-    {
-      "title": "Trump may hope an 'economic onslaught' will pressure Iran - its leaders are betting otherwise",
-      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+    },
     {
       "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
       "link": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
@@ -373,17 +383,83 @@
       "title": "Apple rescues Hide My Email feature from the privacy scrap heap",
       "link": "https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/",
       "summary": "Apple says it will no longer ditch using its icloud.com domain for hiding people's email addresses."
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
-    },
-    {
-      "title": "Apple debuts its ‘most powerful chip ever’ in M5 Ultra and M6",
-      "link": "https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/",
-      "summary": "Apple unveils these new processors alongside an updated Mac Mini and Mac Studio."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+      "link": "https://www.nature.com/articles/s41586-026-11017-1",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11017-1\">doi:10.1038/s41586-026-11017-1</a></p>Addendum: Sea level much higher than assumed in most coastal hazard assessments"
+    },
+    {
+      "title": "Amend copyright licences to halt AI misuse and reassert human control",
+      "link": "https://www.nature.com/articles/d41586-026-02633-y",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02633-y\">doi:10.1038/d41586-026-02633-y</a></p>Amend copyright licences to halt AI misuse and reassert human control"
+    },
+    {
+      "title": "The future of peer review requires AI support, not AI bans",
+      "link": "https://www.nature.com/articles/d41586-026-02631-0",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02631-0\">doi:10.1038/d41586-026-02631-0</a></p>The future of peer review requires AI support, not AI bans"
+    },
+    {
+      "title": "Protecting education in the middle of war zones",
+      "link": "https://www.nature.com/articles/d41586-026-02634-x",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02634-x\">doi:10.1038/d41586-026-02634-x</a></p>Protecting education in the middle of war zones"
+    },
+    {
+      "title": "Ancient surveying instrument found in Egypt",
+      "link": "https://www.nature.com/articles/d41586-026-02382-y",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02382-y\">doi:10.1038/d41586-026-02382-y</a></p>The earliest known example of a tool used to build in a straight line, and remembering an early trailblazer in radio communication in this week’s pick from the Nature archive."
+    },
+    {
+      "title": "Assessing students in the AI era",
+      "link": "https://www.nature.com/articles/d41586-026-02632-z",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02632-z\">doi:10.1038/d41586-026-02632-z</a></p>Assessing students in the AI era"
+    },
+    {
+      "title": "Asthma in some boys stops at puberty: mouse results hint at why",
+      "link": "https://www.nature.com/articles/d41586-026-02611-4",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02611-4\">doi:10.1038/d41586-026-02611-4</a></p>Study suggests that male hormones have an effect on nerve endings in the lungs."
+    },
+    {
+      "title": "How to manage AI risks while reaping the benefits",
+      "link": "https://www.nature.com/articles/d41586-026-02567-5",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02567-5\">doi:10.1038/d41586-026-02567-5</a></p>As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting."
+    },
+    {
+      "title": "The brain struggles to make new neurons in people with depression",
+      "link": "https://www.nature.com/articles/d41586-026-02661-8",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02661-8\">doi:10.1038/d41586-026-02661-8</a></p>High resolution, wide-coverage map of the hippocampus reveals possible pathways for therapy."
+    },
+    {
+      "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+      "link": "https://www.nature.com/articles/d41586-026-02115-1",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02115-1\">doi:10.1038/d41586-026-02115-1</a></p>How early-career researchers can strengthen their track record, boost their research proposal and assess institutional fit."
+    },
+    {
+      "title": "How one researcher captured a vanished world of UK government science",
+      "link": "https://www.nature.com/articles/d41586-026-02094-3",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02094-3\">doi:10.1038/d41586-026-02094-3</a></p>Oral historian Emmeline Ledgerwood’s PhD investigated how privatization affected civil-service scientists at the end of the twentieth century."
+    },
+    {
+      "title": "China is changing the shape of global health. The terms are still up for negotiation",
+      "link": "https://www.nature.com/articles/d41586-026-02622-1",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02622-1\">doi:10.1038/d41586-026-02622-1</a></p>Health-care partnerships can provide other nations with cheap diagnostics, medicines and more — but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty."
+    },
+    {
+      "title": "How tech-enhanced sleep could improve rest but erode privacy",
+      "link": "https://www.nature.com/articles/d41586-026-02573-7",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02573-7\">doi:10.1038/d41586-026-02573-7</a></p>Technologies that promise better-than-usual sleep could improve people’s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed."
+    },
+    {
+      "title": "AI-detection tools have made huge leaps forward — how good are they?",
+      "link": "https://www.nature.com/articles/d41586-026-02569-3",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02569-3\">doi:10.1038/d41586-026-02569-3</a></p>Scientists and publishers are testing a new breed of software that promises impressive accuracy at spotting AI-written text."
+    },
+    {
+      "title": "These rodent OnlyFans stars are helping to fund scientific research",
+      "link": "https://www.nature.com/articles/d41586-026-02550-0",
+      "summary": "<p>Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02550-0\">doi:10.1038/d41586-026-02550-0</a></p>The platform, mostly known for its adult content, has provided a financial lifeline amid US federal-funding uncertainty. And now the marmots have their own cryptocurrency too."
+    }
+  ]
 }

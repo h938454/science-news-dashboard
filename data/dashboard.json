@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Fokozott nikkelterhelés a debreceni CATL gyár több dolgozójánál",
-      "summary": "A debreceni CATL akkumulátorgyár több dolgozójánál a megengedettnél magasabb nikkelterhelést mutattak ki. Három üzemrészben felfüggesztették a munkát az egészségügyi vizsgálatok elvégzéséig.",
+      "title": "Fokozott nikkelterhelés a debreceni CATL-nél, felfüggesztették a munkát",
+      "summary": "A debreceni CATL akkumulátorgyár dolgozóinál magas nikkelterhelést mutattak ki, ami miatt három üzemben ideiglenesen felfüggesztették a munkát. Az eset felveti a gyár működési biztonságával kapcsolatos aggályokat.",
       "importance": 5
     },
     {
-      "title": "Folytatódik a hazai beruházások mélyrepülése: több mint 9 százalékos visszaesés",
-      "summary": "A magyar gazdaságban tovább folytatódott a beruházások mélyrepülése, a második negyedévben több mint 9 százalékkal estek vissza. Ez a trend tartósan rontja az ország gazdasági kilátásait.",
+      "title": "Jelentősen visszaestek a hazai beruházások",
+      "summary": "Magyarországon a második negyedévben több mint 9 százalékkal csökkentek a beruházások, folytatva a mélyrepülést. Ez a gazdasági lassulás komoly jele, mely kihívások elé állítja az országot.",
       "importance": 5
     },
     {
-      "title": "Átalakulási folyamat a Fideszben: Navracsicsék új mozgalma és belső feszültségek",
-      "summary": "Bóka János miniszter szerint jól megtervezett átalakulás zajlik a Fideszben, miközben Navracsics Tiborék új politikai mozgalmat indítottak. Ezzel párhuzamosan belső feszültségek és perpatvarok is láthatóak a párt holdudvarában.",
+      "title": "Politikai mozgolódás a Fidesz körül: Navracsics kezdeményezése és a párt átalakulása",
+      "summary": "Navracsics Tibor kezdeményezéseiről a Fidesz prominens tagjai is nyilatkoztak, ami belső átalakulási folyamatokra utal a párton belül. Kocsis Máté üdvözölte Navracsics új politikai mozgalmát, Bóka János pedig jól megtervezett átalakulásról beszélt.",
       "importance": 4
     },
     {
-      "title": "NER-es cégek profitjai és pályázati anomáliák: Mészáros Lőrinc pulykafeldolgozója kizárva",
-      "summary": "Mészáros Lőrinc pulykafeldolgozóját kizárták egy már megnyert pályázatból, miközben más NER-hez kötődő cégek gigaprofitokat termeltek állami megbízásokból. A padlásszigetelési bizniszben is egyes cégek kaszálták a legnagyobbat a Fidesz-rendszerben.",
+      "title": "Oroszországot fenyegetésként értékeli egy új külpolitikai irányelv",
+      "summary": "Egy új politikai nézőpont szerint Oroszország fenyegetést jelent Magyarországra és a kárpátaljai magyar kisebbségre. Ez a megközelítés jelentős elmozdulást jelezhet a korábbi külpolitikai diskurzushoz képest.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Tragédia egy pakisztáni kórházban: több mint egy tucat csecsemő meghalt egy tűzvészben",
-      "summary": "Tűz ütött ki egy pakisztáni állami kórházban, amelynek következtében legalább 14-15 újszülött vesztette életét. A tragédia okait vizsgálják, miközben az országot mélyen megrázta a hír.",
+      "title": "Sürgős változtatások szükségesek az ukrajnai háború lezárásához",
+      "summary": "Ukrajnában sürgős változtatásokra van szükség a háború befejezéséhez az ország volt védelmi minisztere szerint. Ez a nyilatkozat rávilágít a konfliktus megoldásának kihívásaira és a belső feszültségekre.",
       "importance": 5
     },
     {
-      "title": "A CIA igazgatója, William Burns Moszkvában járt",
-      "summary": "A Kreml szóvivője megerősítette, hogy a CIA igazgatója, William Burns látogatást tett Moszkvában. A látogatás célja a hírszerző ügynökségek közötti kapcsolattartás fenntartása volt.",
+      "title": "Romániában fogtak el egy orosz ügynököt, aki Berlinben fegyvereket rejtett el",
+      "summary": "Egy Romániában elfogott orosz ügynök fegyvereket ásott el Berlinben, és gyújtóbombát adott fel Bukarestben. Az eset súlyos nemzetközi biztonsági aggályokat vet fel, kiemelve a kémtevékenység terjedését.",
       "importance": 5
     },
     {
-      "title": "Orosz-ukrán háború: kölcsönös támadások az üzemanyag-infrastruktúra ellen",
-      "summary": "Ukrajna ismét Wildberries-létesítményre csapott le Oroszországban, míg Oroszország ukrán benzinkutakat célzott. A konfliktus részeként mindkét fél kritikus infrastruktúrára mér csapásokat.",
+      "title": "Tűzvész egy pakisztáni kórházban, legalább 15 csecsemő áldozat",
+      "summary": "Halálos tűzvész pusztított egy pakisztáni állami kórházban, amelynek következtében legalább 15 újszülött vesztette életét. A tragédia az ország egészségügyi infrastruktúrájának hiányosságaira hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Kiszáradó Duna és Európa tanácstalansága: súlyosbodó éghajlatváltozási hatások",
-      "summary": "Egy Politico-elemzés szerint a Duna kiszáradása komoly problémát jelent Európának, ám a kontinensnek nincs egységes stratégiája a helyzet kezelésére. Az éghajlatváltozás hatásai egyre súlyosabbak.",
+      "title": "Kibertámadás Norvégia kormányzati infrastruktúrája ellen",
+      "summary": "Norvégia kormányzati infrastruktúráját kibertámadás érte, ami számos digitális szolgáltatás leállását okozta. Az eset rávilágít a kritikus infrastruktúrák sérülékenységére és a kiberfenyegetések növekvő veszélyére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A SpaceX minden eddiginél nagyobb, 100 milliárd dolláros űrrepülőteret épít",
-      "summary": "Elon Musk SpaceX-e egy új, 100 milliárd dolláros „Starbase” űrrepülőtér építését tervezi Louisianában, minden eddiginél nagyobb méretben. A cél a jövőbeni űrküldetések és a Starship program támogatása.",
+      "title": "A SpaceX új, óriási űrrepülőtér építését tervezi",
+      "summary": "Elon Musk SpaceX-e egy második, minden eddiginél nagyobb, 100 milliárd dolláros űrrepülőtér, egy új \"Starbase\" építését tervezi Louisianában. Ez a beruházás jelentős mérföldkő az űrkutatásban és az űrutazás fejlesztésében.",
       "importance": 5
     },
     {
-      "title": "Kulcsfontosságú adatközpont-vezető távozott az OpenAI-tól",
-      "summary": "Az OpenAI, a mesterséges intelligencia fejlesztés vezető cége, elveszített egy top adatközpont-vezetőt, ami a magas rangú távozások sorozatát folytatja. Ez felveti a cég belső stabilitásával kapcsolatos kérdéseket.",
-      "importance": 5
-    },
-    {
-      "title": "Jelentős, 76 millió dolláros finanszírozást kapott a Stability AI",
-      "summary": "A Stable Diffusion képgenerátor készítője, a Stability AI 76 millió dollár friss finanszírozást szerzett. Ez a befektetés tovább erősíti a vállalat pozícióját a generatív AI piacon.",
+      "title": "Kitiltják az AI-generált dalokat az ausztrál slágerlistákról",
+      "summary": "Egy mesterséges intelligencia által generált Madonna-feldolgozás sikere után Ausztráliában betiltották az AI-dalokat a slágerlistákon. Az intézkedés rávilágít az AI zeneiparra gyakorolt hatására és a jogi kihívásokra.",
       "importance": 4
     },
     {
-      "title": "Az AI-dalokat kitiltják az ausztrál slágerlistákról egy sikeres Madonna-feldolgozás után",
-      "summary": "Egy sikeres, mesterséges intelligencia által generált Madonna-feldolgozás után Ausztráliában betiltják az AI-dalokat a slágerlistákról. A döntés a szerzői jogi és etikai aggodalmakra reagálva született meg.",
+      "title": "Vezető távozik az OpenAI-tól a folyamatosan jelentkező távozások közepette",
+      "summary": "Az OpenAI, a vezető mesterséges intelligencia vállalat egyik kulcsfontosságú adatcentralizációs vezetője is távozik, ami egy sor magas rangú távozás része. Ez kihívás elé állíthatja a cég működését és stabilitását a gyorsan fejlődő AI-szektorban.",
+      "importance": 4
+    },
+    {
+      "title": "Az X jogi lépéseket tesz a Nitter nyílt forráskódú projekt ellen adathalászat miatt",
+      "summary": "Az X (korábbi Twitter) felszólító levelet küldött a Nitter nevű nyílt forráskódú projektnek, adathalászat vádjával. Az eset rávilágít a platformok és a harmadik féltől származó szolgáltatások közötti adatkezelési vitákra.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A tengerszint jóval magasabb, mint a legtöbb part menti veszélyfelmérés feltételezte",
-      "summary": "Egy új tanulmány szerint a tengerszint jelentősen magasabb, mint amit a legtöbb part menti veszélyfelmérés feltételezett. Ez újragondolást igényel a parti területek védelmében.",
+      "title": "A tengerszint-emelkedés a feltételezettnél magasabb lehet",
+      "summary": "Új adatok szerint a tengerszint-emelkedés sokkal magasabb lehet, mint azt a legtöbb part menti kockázatértékelés feltételezte. Ez komolyabb kihívások elé állíthatja a tengerparti régiókat az éghajlatváltozás hatásaival szemben.",
       "importance": 5
     },
     {
-      "title": "A depresszióval küzdők agya nehezen képez új neuronokat",
-      "summary": "Kutatók kimutatták, hogy a depresszióval küzdő embereknél az agy nehezen képez új neuronokat. Ez a felfedezés segíthet a depresszió mechanizmusainak jobb megértésében.",
+      "title": "Az agy nehezen termel új idegsejteket depressziós embereknél",
+      "summary": "Kutatók kimutatták, hogy a depresszióban szenvedő emberek agya nehezebben termel új neuronokat. Ez a felfedezés új utakat nyithat a depresszió megértésében és kezelésében.",
       "importance": 4
     },
     {
-      "title": "Az asztma pubertáskori megszűnése fiúknál: egérkísérletek adnak támpontot",
-      "summary": "Egérkísérletek utalnak arra, hogy a fiúk asztmája pubertáskorban miért szűnhet meg. Ez a kutatás új terápiás lehetőségeket nyithat meg az asztma kezelésében.",
+      "title": "Az asztma megszűnésének oka pubertáskorban: ígéretes egérkutatási eredmények",
+      "summary": "Egérkísérletek arra utalnak, hogy egyes fiúknál az asztma a pubertáskorral megszűnhet. Ez az eredmény új betekintést nyújthat az asztma mechanizmusaiba és potenciális kezelési módjaiba.",
       "importance": 4
     },
     {
-      "title": "Antik mérőműszerre bukkantak Egyiptomban",
-      "summary": "Egy ősi mérőműszert fedeztek fel Egyiptomban, amely betekintést nyújt a régi civilizációk mérnöki tudásába. A lelet hozzájárul az ókori technológia megértéséhez.",
-      "importance": 3
+      "title": "A szakmai lektorálás jövője mesterséges intelligencia támogatással",
+      "summary": "A tudományos szakmai lektorálás jövőjét az AI támogatásában látják, nem pedig az AI tiltásában. A mesterséges intelligencia hatékonyabbá és gyorsabbá teheti a publikációs folyamatot, miközben fenntartja a minőséget.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Raheem Sterling labdarúgó ellen vádat emeltek veszélyes vezetés miatt",
-      "summary": "Az angol válogatott labdarúgó, Raheem Sterling ellen vádat emeltek veszélyes vezetés miatt, miután Lamborghini autójával balesetezett. Az ügy súlyos következményekkel járhat a karrierjére nézve.",
-      "importance": 4
+      "title": "Diósgyőri edző egy azeri csapattal a BL-ben: a focivilág legmeghatóbb sztorija",
+      "summary": "Egy korábbi diósgyőri edző, aki tévés kvízjáték nyereményéből kezdett edzősködni, most egy azeri csapattal jutott be a Bajnokok Ligájába. Története a futballvilág egyik legnagyobb meglepetése és inspiráló példája.",
+      "importance": 5
+    },
+    {
+      "title": "Raheem Sterlinget veszélyes vezetéssel vádolják Lamborghini-balesete után",
+      "summary": "Raheem Sterling volt angol válogatott labdarúgót veszélyes vezetéssel vádolták, miután Lamborghini-jával balesetet szenvedett. Az eset beárnyékolja a sportoló hírnevét és jogi következményekkel járhat.",
+      "importance": 3
+    },
+    {
+      "title": "Kavarodás Kanye West szentpétervári koncertjei körül",
+      "summary": "Nagy a bizonytalanság Kanye West szentpétervári koncertjei körül, miután a stadion kihátrálna, a szervező pedig nem érti a helyzetet. A helyzet rávilágít a nagyszabású események szervezési nehézségeire és a logisztikai kihívásokra.",
+      "importance": 2
+    },
+    {
+      "title": "Eminem Dolly Partontól kapott levéllel tisztelgett egy énekes előtt",
+      "summary": "Eminem egy Dolly Partontól kapott levél kíséretében tisztelgett egy nem megnevezett énekes emléke előtt. Az esemény a zenei világ generációkat átívelő tiszteletét és összetartozását mutatja.",
+      "importance": 1
     }
   ]
 }

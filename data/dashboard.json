@@ -1,97 +1,102 @@
 {
   "hungary": [
     {
-      "title": "A Fidesz megkaphatta a Gondosóra-program idős résztvevőinek adatait",
-      "summary": "Felfedeztek egy szerződést, amely szerint a Fidesz hozzáférhetett a Gondosóra-program idős résztvevőinek adataihoz a kampányidőszakban. Az ügy súlyos adatvédelmi és politikai aggályokat vet fel a választások befolyásolása kapcsán.",
+      "title": "Magyar Péter felszólalása a parlamentben",
+      "summary": "Magyar Péter csütörtökön szólal fel a parlamentben, ami kiemelt érdeklődésre tart számot a hazai politikai életben. Beszédében várhatóan fontos aktuális kérdéseket érint majd.",
       "importance": 5
     },
     {
-      "title": "A kormány ezermilliárd forinttal növeli a vidékfejlesztési uniós programok keretét",
-      "summary": "A magyar kormány csaknem ezer milliárd forinttal emeli a vidékfejlesztési uniós programok keretét, amely jelentős forrásokat biztosít a vidéki térségek gazdasági és társadalmi fejlődéséhez. Ez a lépés hosszú távon támogathatja a mezőgazdaságot és a vidéki vállalkozásokat.",
-      "importance": 4
-    },
-    {
-      "title": "Ismét a csúcson üzemel a paksi atomerőmű",
-      "summary": "A Paksi Atomerőmű elérte maximális teljesítményét, miután az elmúlt időszakban karbantartási munkák és műszaki problémák miatt ingadozott a termelés. Ez hozzájárul az ország energiaellátásának stabilitásához és biztonságához.",
+      "title": "Maximális teljesítményen üzemel a Paksi Atomerőmű",
+      "summary": "A Paksi Atomerőmű ismét maximális kapacitással termel, hozzájárulva ezzel az ország energiaellátásának stabilitásához. Ez a teljesítmény az ország energiafüggetlensége szempontjából kiemelkedő fontosságú.",
       "importance": 4
     },
     {
       "title": "Csődeljárást kezdeményezett maga ellen a Bayer Construct",
-      "summary": "A NER-közeli óriáscég, a Bayer Construct csődeljárást indított saját maga ellen, ami jelentős gazdasági problémákra utal. Az eset rávilágít a nagyméretű építőipari vállalatok pénzügyi nehézségeire.",
+      "summary": "A NER-közeli óriáscég, a Bayer Construct csődeljárást indított, ami jelentős gazdasági következményekkel járhat. Az építőipari vállalat problémái rávilágítanak a gazdasági kihívásokra.",
+      "importance": 4
+    },
+    {
+      "title": "Ezermilliárd forinttal növeli a kormány a vidékfejlesztési programok keretét",
+      "summary": "A kormány közel ezermilliárd forinttal emeli a vidékfejlesztési uniós programok keretét, mely jelentős forrásokat biztosít a vidéki térségek fejlődéséhez. Ez a lépés hosszú távon támogathatja a mezőgazdaságot és a regionális gazdaságot.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Oroszország az Ukrajna elleni légicsapások fokozására készül",
-      "summary": "A Bloomberg értesülései szerint Oroszország fokozhatja az Ukrajna elleni légicsapásokat, ami a háború további eszkalációjára utal. Ez jelentős regionális és globális aggodalmakat vet fel.",
+      "title": "Oroszország az ukrajnai légicsapások fokozására készül",
+      "summary": "A Bloomberg szerint Oroszország fokozhatja az Ukrajna elleni légicsapásokat, ami a háború további eszkalálódására utal. Ez a fejlemény súlyos következményekkel járhat a konfliktusra nézve.",
       "importance": 5
     },
     {
-      "title": "Katonai vasúti vágány épül Belaruszban az ukrán határ mellett",
-      "summary": "Belaruszban, az ukrán határ közelében katonai célokra is felhasználható vasúti vágány épül, ami újabb feszültségeket gerjeszthet a térségben. A fejlesztés logisztikai támogatást nyújthat az orosz haderőnek.",
-      "importance": 4
+      "title": "Katonai célú vasúti vágány épül Belaruszban az ukrán határ mentén",
+      "summary": "Belaruszban az ukrán határ közelében katonai célokra is használható vasúti vágányt építenek, ami további aggodalmakat vet fel a regionális biztonság és a háborús konfliktus kapcsán. Ez a lépés növelheti a feszültséget.",
+      "importance": 5
     },
     {
-      "title": "A CIA-igazgató moszkvai útjának célját találgatja a világ",
-      "summary": "A világ találgatja a CIA-igazgató moszkvai látogatásának célját, amely a jelenlegi geopolitikai helyzetben különös jelentőséggel bír. A látogatás titkos tárgyalásokat vagy üzeneteket sejtethet.",
-      "importance": 4
+      "title": "Jéglavina okozta a nepáli villámárvizet, magyar eltűntekkel",
+      "summary": "Nepált pusztító villámárvíz sújtotta, amelyet jéglavina okozhatott, több mint 150 áldozatot követelve. Két magyar állampolgár is eltűnt a katasztrófában.",
+      "importance": 5
     },
     {
-      "title": "Nepáli villámárvíz: Két magyar eltűnt, több mint 150 áldozat",
-      "summary": "Nepálban pusztító villámárvíz több mint 150 emberéletet követelt, és két magyar állampolgár is eltűnt a katasztrófában. A hatóságok továbbra is keresik az eltűnteket és nyomon követik a helyzetet.",
+      "title": "A CIA-igazgató moszkvai útja mögötti célok találgatása",
+      "summary": "A világ a CIA-igazgató moszkvai útjának valódi célját találgatja, mivel hivatalos magyarázat szerint csupán biztonsági kérdésekről tárgyalt. A látogatás geopolitikai jelentősége megkérdőjelezhetetlen.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta 17,1 milliárd dolláros bírságot fizet és szigorítja a gyermekvédelmet",
-      "summary": "A Meta Platforms beleegyezett, hogy akár 17,1 milliárd dollárt fizet ki, és széleskörű korlátozásokat vezet be a gyermekek védelme érdekében. A lépésre az államokkal kötött megállapodás részeként kerül sor, jelentős precedenst teremtve.",
+      "title": "A Meta 18 milliárd dolláros gyermekvédelmi egyezsége a korosztály-ellenőrzési technológián múlik",
+      "summary": "A Meta 18 milliárd dolláros egyezségre jutott a gyermekvédelem terén, ám a megállapodás kulcsa a nem megfelelően működő korosztály-ellenőrzési technológiákon múlik. Ez a probléma komoly aggodalmakat vet fel a gyerekek online biztonsága kapcsán.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic 45 milliárd dolláros üzletet kötött az Nscale-lel",
-      "summary": "Az Anthropic, a vezető AI kutató cég, 45 milliárd dolláros üzletet kötött az Nscale-lel, ami az AI szektor hatalmas növekedését és a jelentős befektetési hajlandóságot mutatja. Az ügylet tovább erősíti az Anthropic pozícióját a mesterséges intelligencia fejlesztésében.",
+      "title": "Az Egyesült Államok kínai botnet domaineket foglalt le, melyek a NASA-t is feltörték",
+      "summary": "Az Egyesült Államok lefoglalta egy kínai botnet domainjeit, amelyet a NASA, az Igazságügyi Minisztérium és a Szenátus ellen is használtak. Ez a lépés a kiberbiztonsági fenyegetések elleni globális küzdelemben kiemelkedő.",
+      "importance": 5
+    },
+    {
+      "title": "Az Amazon megháromszorozta Nvidia chip megrendeléseit",
+      "summary": "Az Amazon megháromszorozta az Nvidia chipekre vonatkozó megrendeléseit a \"megnövekedett kereslet\" miatt, ami az AI-technológiák iránti óriási érdeklődést tükrözi. Ez a tendencia jelentősen befolyásolja a félvezetőipart.",
       "importance": 4
     },
     {
-      "title": "Az Egyesült Államok kínai botnet domaineket foglalt le",
-      "summary": "Az Egyesült Államok lefoglalta egy kínai botnethez tartozó domaineket, amelyet a NASA, az Igazságügyi Minisztérium és a Szenátus feltörésére is használtak. Ez a lépés komoly nemzetbiztonsági és kiberbiztonsági fenyegetésre világít rá.",
+      "title": "Kiber támadás okoz globális zavart egy orvosi eszközgyártónál",
+      "summary": "A Boston Scientific orvosi eszközgyártó kiber támadásról számolt be, ami globális működési zavarokat okoz. Ez az eset rávilágít az egészségügyi szektor kiberbiztonsági sérülékenységére.",
       "importance": 4
-    },
-    {
-      "title": "Az Apple szeptember 9-én tartja iPhone bemutató eseményét",
-      "summary": "Az Apple bejelentette, hogy szeptember 9-én tartja éves iPhone bemutató eseményét, ahol várhatóan bemutatják legújabb készülékeiket és egyéb termékinnovációikat. Az eseményt a tech-világ kiemelten figyeli.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Rekordmagas óceáni hőmérsékletet mértek az El Niño erősödésével",
-      "summary": "Az El Niño jelenség erősödésével rekordmagas óceáni hőmérsékleteket mértek világszerte, ami súlyos következményekkel járhat a tengeri élővilágra és az időjárási mintákra. Ez a tendencia aggasztó jele a klímaváltozásnak.",
+      "title": "Világ első AI-asszisztált agyműtétje egy tumor eltávolítására",
+      "summary": "A világon először hajtottak végre élőben, mesterséges intelligencia által asszisztált agyműtétet egy tumor eltávolítására. Ez az áttörés új lehetőségeket nyit az orvostudományban és a sebészetben.",
       "importance": 5
     },
     {
-      "title": "Új stratégia a célzott rákellenes gyógyszerszállításhoz",
-      "summary": "A tudósok egy új 'kötődéstől-felszabadulásig' stratégiát dolgoztak ki a célzott rákellenes gyógyszerek hatékonyabb szállítására. Ez az innováció jelentősen javíthatja a rákterápiák hatékonyságát és csökkentheti a mellékhatásokat.",
+      "title": "Családi bevonás csökkentheti a mentális egészségügyi kórházi felvételeket",
+      "summary": "Egy új tanulmány szerint a páciens családjának bevonása a kezelésbe jelentősen csökkentheti a mentális egészségügyi kórházi felvételek számát. Ez az eredmény új megközelítést javasol a mentális betegségek gondozásában.",
       "importance": 4
     },
     {
-      "title": "Nukleáris hulladékkal működtetnének űrmissziókat",
-      "summary": "Kutatók vizsgálják a nukleáris hulladék felhasználásának lehetőségét űrküldetések energiaellátására. Ez az innovatív megközelítés megoldást nyújthatna az űreszközök hosszú távú energiaigényére, minimalizálva a környezeti terhelést.",
+      "title": "Jéglavina valószínűsíthető oka a nepáli villámárvíznek",
+      "summary": "Szakértők szerint jéglavina idézhette elő a Nepált sújtó pusztító villámárvizet, mely hatalmas pusztítást végzett. Ez a természeti jelenség rávilágít a klímaváltozás és a gleccserek olvadásának veszélyeire.",
       "importance": 4
     },
     {
-      "title": "Automatikus genetikai kódprototípusok fejlesztése",
-      "summary": "A tudósok az automatikus genetikai kódprototípusok fejlesztésén dolgoznak, ami felgyorsíthatja a genetikai kutatásokat és a biotechnológiai innovációkat. Ez a technológia forradalmasíthatja a szintetikus biológia területét.",
+      "title": "Malária a frankfurti reptéren: szúnyog érkezett egy géppel",
+      "summary": "Két frankfurti reptéri dolgozó maláriában halt meg, miután valószínűleg egy repülőgéppel érkezett szúnyog csípte meg őket. Az eset aggodalmakat vet fel a betegséghordozók globális terjedésével kapcsolatban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Alcaraz–Williams páros győzött a US Openen",
-      "summary": "A 30 Grand Slam-címmel rendelkező Alcaraz és Williams duó meccset nyert a US Openen, megmutatva tehetségüket a tenisz világában. A páros sikere kiemelkedő teljesítmény a rangos tornán.",
-      "importance": 3
+      "title": "Alcaraz és Williams győzött a US Openen",
+      "summary": "A teniszvilág két sztárja, Alcaraz és Williams párosa győzelmet aratott a US Openen, összesen 30 Grand Slam-címet gyűjtve össze. Ez a siker kiemeli a páros kivételes tehetségét és dominanciáját a sportágban.",
+      "importance": 4
+    },
+    {
+      "title": "Varga Barnabás góljaival BL-főtáblás az AEK Athén",
+      "summary": "Varga Barnabás két góljával járult hozzá csapata, az AEK Athén sikeréhez, amellyel bejutottak a Bajnokok Ligája főtáblájára. A magyar játékos kulcsszerepet játszott csapata történeti sikerében.",
+      "importance": 4
     }
   ]
 }

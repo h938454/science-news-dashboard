@@ -1,102 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Két héttel a határidő előtt elkészül a paksi fenékküszöb első része",
-      "summary": "Magyar Péter bejelentette, hogy a Duna paksi szakaszán a fenékküszöb első üteme a határidő előtt két héttel elkészül. A projekt célja a vízhiányos időszakokban a Paksi Atomerőmű hűtéséhez szükséges vízszint biztosítása.",
+      "title": "Magyar Péter szerint elkészül a paksi dunai fenékküszöb első üteme",
+      "summary": "Magyar Péter bejelentette, hogy a paksi dunai fenékküszöb első üteme a tervek szerint két héttel a határidő előtt elkészül. A beruházás az ország energiaellátásának és infrastruktúrájának szempontjából is jelentőséggel bír.",
+      "importance": 5
+    },
+    {
+      "title": "Magyar Péter Mohácsról és kritikusainak üzent",
+      "summary": "Magyar Péter politikai üzenetében Mohács történelmi szimbolikáját értelmezte újra, egy optimista jövőképet vázolva fel a magyar sorsról. Kritikusainak azt üzente, hogy a nehéz időkben bátor vezetőkre van szükség, mint ő maga is.",
       "importance": 4
     },
     {
-      "title": "Magyarországon nem vették nyilvántartásba a Mi Hazánk jelöltjének müncheni karlendítős ügyét",
-      "summary": "A Mi Hazánk egyik EP-választási jelöltjének müncheni karlendítése nem minősült bűncselekménynek Magyarországon, ezért nem indult eljárás. Az eset Németországban, ahol tiltott jelképnek számít, eltérő megítélés alá esne.",
+      "title": "Életveszélyes sérültje is van az Astorián történt buszbalesetnek",
+      "summary": "Súlyos buszbaleset történt az Astoriánál, ahol egy busz és egy személyautó ütközött, melynek következtében egy nő életveszélyesen megsérült. A baleset a belvárosi forgalmat is jelentősen akadályozta, és komoly anyagi károkat is okozott.",
       "importance": 4
     },
     {
-      "title": "„Kemény, nehéz időkben, olyan bátor, tökös emberekre volt szükség, mint Magyar Péter, vagy Én” – üzente kritikusainak a Tisza képviselője",
-      "summary": "A Tisza párt egyik képviselője kritikusainak üzent, kiemelve, hogy nehéz időkben bátor és határozott emberekre van szükség. Ezzel a Tisza párt és Magyar Péter szerepét hangsúlyozta a politikai életben.",
-      "importance": 3
-    },
-    {
-      "title": "Kovács Zoltán kirúgása után távozik a Nimród Vadászújság szerkesztősége",
-      "summary": "Kovács Zoltán főszerkesztő eltávolítása után a Nimród Vadászújság teljes szerkesztősége bejelentette távozását. Az esemény jelentős változásokat jelez a lap életében és a magyar vadászati média színtéren.",
+      "title": "Mi Hazánk jelöltjének karlendítős ügyét nem vették nyilvántartásba Magyarországon",
+      "summary": "A Mi Hazánk müncheni karlendítéssel vádolt jelöltjének ügyét Magyarországon nem vették nyilvántartásba, mivel az itthoni jog szerint a cselekmény nem minősül bűncselekménynek. Az eset a német és magyar jogi értelmezések eltéréseire hívja fel a figyelmet.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Közel negyven halottja van a Kijev melletti pénteki orosz dróntámadásnak",
-      "summary": "Pénteken egy orosz dróntámadásban legalább 37 ember meghalt és több százan evakuálni kényszerültek egy kijevi fegyverraktár elleni csapás után. A támadás Kijev környékén történt, komoly emberáldozatot és pusztítást okozva.",
+      "title": "Kijev melletti orosz dróntámadásban legalább 37-en meghaltak",
+      "summary": "Kijev közelében orosz dróntámadás ért egy fegyverraktárt, melynek következtében legalább 37 ember meghalt és több százat evakuáltak a térségből. Az incidens a folyamatban lévő ukrajnai háború egyik legpusztítóbb eseménye az elmúlt időszakban.",
       "importance": 5
     },
     {
-      "title": "Lázadó katonák támadták meg Nigerben a főváros repülőterét és az elnöki rezidencia környékét",
-      "summary": "Niger fővárosában, Niamey-ben lázadó katonák támadták meg a repülőteret és az elnöki rezidencia környékét, destabilizálva a nyugat-afrikai országot. Az esemény aggodalomra ad okot a regionális biztonság és a politikai stabilitás miatt.",
+      "title": "Új információk derültek ki a 9/11-es gépeltérítők szaúdi kém kapcsolatairól",
+      "summary": "A 9/11-es gépeltérítők egykori lakáskezelője új részleteket tárt fel arról, hogyan került bizalmába egy állítólagos szaúdi kém. Az információk tovább árnyalhatják a 2001-es terrortámadások előzményeinek képét, és a szaúdi kormány esetleges érintettségére vonatkozó kérdéseket vetnek fel.",
       "importance": 5
     },
     {
-      "title": "Három napon át követte a brit haditengerészet a brit vizeken áthaladó orosz hajókat",
-      "summary": "A brit haditengerészet három napon keresztül követte az orosz hadihajókat, amint azok áthaladtak a brit vizeken. Ez az eset rávilágít a növekvő feszültségekre és a fokozott katonai aktivitásra az európai térségben.",
-      "importance": 4
+      "title": "Súlyos árvizek pusztítanak Nepálban, sok az eltűnt",
+      "summary": "Nepált súlyos árvizek sújtották, melyek hatalmas pusztítást végeztek a falvakban, és több tucat ember eltűnését okozták. Műholdfelvételek és mentőakciók mutatták be a katasztrófa mértékét, és a nemzetközi segítségnyújtás is megindult.",
+      "importance": 5
     },
     {
-      "title": "Trump: Amerikai ellenőrzés alá kerül Venezuela 65 milliárd hordónyi olajkészlete",
-      "summary": "Donald Trump volt amerikai elnök azt állította, hogy amerikai ellenőrzés alá kerülhet Venezuela 65 milliárd hordónyi olajkészlete. Ez a kijelentés jelentős geopolitikai és gazdasági feszültségeket vet fel.",
+      "title": "Deportálták az Egyesült Államokból a jobboldali influenszert",
+      "summary": "Egy jobboldali influenszert, aki korábban a bevándorlók deportálása mellett állt ki és Orbán Viktort is dicsőítette, az Egyesült Államokból deportáltak. Az eset rávilágít a bevándorlási politika és a szólásszabadság körüli vitákra az országban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Sony Music és Warner pereli az Anthropicot, szellemi tulajdon eltulajdonításával vádolva",
-      "summary": "A Sony Music és a Warner Music Group beperelte az Anthropic mesterséges intelligencia céget, azzal vádolva őket, hogy „arcátlanul” lopták el szellemi tulajdonukat. Az ügy precedensértékű lehet az AI és a szerzői jogok viszonyában.",
+      "title": "Sony Music és Warner pereli az Anthropicot szellemi tulajdon lopása miatt",
+      "summary": "A Sony Music és a Warner zenei kiadók beperelték az Anthropic AI céget, azzal vádolva őket szellemi tulajdonuk „arcátlan lopásával”. Az ügy precedensértékű lehet az AI-modellek képzése és a szerzői jogok kapcsolatában, befolyásolva a jövőbeli AI-fejlesztéseket.",
       "importance": 5
     },
     {
-      "title": "Egy Anthropic kutató az önfejlesztő mesterséges intelligencia fejlesztésébe engedett betekintést",
-      "summary": "Az Anthropic egyik kutatója betekintést nyújtott az önfejlesztő mesterséges intelligencia fejlesztésébe, amely a jövő AI-rendszereinek alapját képezheti. Ez a munka kulcsfontosságú lehet az intelligens rendszerek autonómiájának növelésében.",
+      "title": "Az Nvidia AI előnye már túlmutat a GPU-n",
+      "summary": "Az Nvidia mesterséges intelligencia terén szerzett előnye már nem csak a grafikus feldolgozó egységekre (GPU) korlátozódik, hanem új területekre is kiterjed. Ez a fejlesztés tovább erősíti a cég vezető szerepét az AI iparágban, befolyásolva a mesterséges intelligencia jövőjét.",
       "importance": 5
     },
     {
-      "title": "Egy fiatal AI víziója miatt 4,7 billió forintos pofonba futott egy cég",
-      "summary": "Egy vállalat 4,7 billió forintos veszteséget szenvedett el egy 24 éves fiatal mesterséges intelligencia víziója miatt, amely alapjaiban alakította át a piaci trendeket. Az eset rávilágít az AI disruptív erejére és a gyors alkalmazkodás szükségességére.",
+      "title": "4,7 billió forintos pofonba futott egy cég egy AI vízió miatt",
+      "summary": "Egy 24 éves fiatal mesterséges intelligencia víziója miatt egy, korábban évekig sikeres vállalat 4,7 billió forintos piaci pofonba futott. Az eset rávilágít az AI technológia gyors és drasztikus piaci hatására, valamint a technológiai változásokkal járó kockázatokra.",
       "importance": 4
     },
     {
-      "title": "Robotkutyákat vásárol az amerikai bevándorlási hivatal",
-      "summary": "Az amerikai bevándorlási hivatal robotkutyákat vásárolna, valószínűleg a határőrizeti és biztonsági feladatok támogatására. Ez a lépés etikai és adatvédelmi aggályokat is felvet a technológia közszolgálati alkalmazása kapcsán.",
+      "title": "A Claude AI szavakba rejtett trükkel fog vízjelezni",
+      "summary": "A Claude mesterséges intelligencia új, rafinált trükkel fogja vízjelezni az általa generált tartalmakat, méghozzá szavakba rejtve. Ez a technológia segíthet a mesterséges intelligencia által előállított szövegek eredetének azonosításában és a félretájékoztatás elleni küzdelemben.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A Moderna rákvakcinája reményt ad – fel kell gyorsítani a személyre szabott terápiákat",
-      "summary": "A Moderna rákvakcinája ígéretes eredményeket mutat, felgyorsítva a személyre szabott terápiák fejlesztésének szükségességét. Ez áttörést jelenthet a rákkezelésben, új lehetőségeket nyitva a betegek számára.",
+      "title": "Tanulmány: nagyobb esélye van szívrohamra, akinek sok van a vérében rágókban használt édesítőszerből",
+      "summary": "Egy új tanulmány szerint nagyobb a szívroham vagy stroke kockázata azoknál, akiknek a vérében magas a rágógumikban is használt édesítőszer szintje. Ez az eredmény fontos figyelmeztetés lehet a fogyasztók számára az édesítőszerek hosszú távú egészségügyi hatásairól.",
       "importance": 5
     },
     {
-      "title": "Rekordmagas óceáni hőmérsékletet mértek az El Niño erősödésével",
-      "summary": "Az El Niño jelenség erősödésével párhuzamosan rekordmagas óceáni hőmérsékleteket mértek világszerte. Ez súlyos következményekkel járhat az éghajlatra, az időjárási mintákra és a tengeri élővilágra.",
+      "title": "Hajtogatható tükrökkel készíthet soha nem látott méretű képeket az űrben egy új távcső",
+      "summary": "Egy eredetileg kémtávcsőnek tervezett technológia most hajtogatható tükrökkel nyit új lehetőségeket az űrkutatásban. Az innováció segítségével soha nem látott méretű képek készíthetők az űrben, elősegítve a csillagászati felfedezéseket.",
       "importance": 5
     },
     {
-      "title": "Gleccseromlás okozta Nepál pusztító áradását – ez a jövő előjele?",
-      "summary": "Nepálban egy gleccseromlás okozott halálos villámárvizeket, ami a klímaváltozás hatásainak egyre gyakoribbá válására utal. A tudósok szerint ez egy vészjósló előjel lehet a jövőbeli hasonló eseményekre.",
-      "importance": 5
+      "title": "Felfedték a stresszkezelés egyik legerősebb módszerének működését",
+      "summary": "Kutatók megfejtették, hogyan működik a stressz kezelésének egyik „legerősebb trükkje”. Ez a felfedezés segíthet hatékonyabb stratégiák kidolgozásában a mentális egészség javítására és a stressz okozta betegségek megelőzésére.",
+      "importance": 4
     },
     {
-      "title": "Tanulmány szerint az édesítőszerek növelhetik a szívroham és stroke kockázatát",
-      "summary": "Egy friss tanulmány szerint a rágókban és más élelmiszerekben használt édesítőszerek magasabb szintje a vérben növelheti a szívroham és a stroke kockázatát. Az eredmények további kutatásokat és fogyasztói figyelemfelhívást igényelnek.",
+      "title": "Betekintést engedett az Anthropic egy önfejlesztő mesterséges intelligenciába",
+      "summary": "Az Anthropic egyik kutatója betekintést engedett egy olyan mesterséges intelligencia működésébe, amely képes önmagát fejleszteni. Ez a fejlesztés potenciálisan új korszakot nyithat az AI képességeinek és autonómiájának területén, alapjaiban megváltoztatva a technológiáról alkotott képet.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Aranyérmes lett a magyar férfi kenu négyes a poznani vb-n",
-      "summary": "A magyar férfi kenu négyes sikeresen megvédte címét, és aranyérmet szerzett a poznani világbajnokságon. Ez a győzelem újabb jelentős nemzetközi sikert jelent a magyar kajak-kenu sport számára.",
+      "title": "Dráma a Vueltán: Tadej Pogačar nagyot bukott és feladta a spanyol körversenyt",
+      "summary": "Tadej Pogačar, a kerékpáros világ egyik sztárja, drámai körülmények között, egy nagy bukás után volt kénytelen feladni a Vuelta a España spanyol körversenyt. Ez jelentős fordulat a sportág egyik legrangosabb eseményén, és nagy meglepetést okozott a rajongók körében.",
       "importance": 5
     },
     {
-      "title": "Dráma a Vueltán: Tadej Pogačar nagyot bukott és feladta a spanyol körversenyt",
-      "summary": "Tadej Pogačar, a Vuelta eddigi éllovasa nagyot bukott és kénytelen volt feladni a spanyol körversenyt. Az esemény drámai fordulatot hozott a versenyben.",
-      "importance": 4
+      "title": "Aranyérmes lett a magyar férfi kenu négyes a poznani vb-n",
+      "summary": "A magyar férfi kenu négyes megvédte címét, és aranyérmet szerzett a poznani világbajnokságon. Ez a kiváló teljesítmény megerősíti a magyar kajak-kenu sport nemzetközi élvonalbeli pozícióját, és nagy örömet szerzett a hazai sportkedvelőknek.",
+      "importance": 5
+    },
+    {
+      "title": "A 'MAGA-Barbie' politikai játszótérré változtatta a női kosárlabdát",
+      "summary": "Egy 'MAGA-Barbie' néven ismert karakter pályára lépése politikai játszótérré változtatta a női kosárlabdát, vitákat és megosztottságot szítva. Az eset rávilágít a sport és a politika egyre erősödő összefonódására, valamint a társadalmi feszültségek megjelenésére a sporteseményeken.",
+      "importance": 3
     }
   ]
 }

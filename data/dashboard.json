@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Elkészült a paksi fenékküszöb első üteme",
-      "summary": "Magyar Péter bejelentette, hogy a Duna paksi szakaszán a fenékküszöb első üteme a tervezettnél két héttel korábban elkészült. A beruházás a folyó szabályozását és a paksi atomerőmű vízfelhasználását segíti.",
-      "importance": 5
-    },
-    {
-      "title": "Életveszélyes baleset az Astoriánál",
-      "summary": "Busz és autó ütközött az Astoriánál, Budapesten, melynek következtében egy nő életveszélyes sérüléseket szenvedett. A baleset a forgalmat is jelentősen akadályozta a belvárosban.",
+      "title": "Visszatér a megszokott rend Budapesten",
+      "summary": "Szeptember elsejétől Budapesten visszaáll a korábbi megszokott rend. A díszkivilágítás és a Gellérthegyi vízesés is újra működni fog.",
       "importance": 4
     },
     {
-      "title": "Bungee jumping baleset Szegeden",
-      "summary": "Egy szegedi fesztiválon súlyos baleset történt, amikor bungee jumping közben egy segédkötél egy fiatal nyaka köré tekeredett. Az esetet kivizsgálják a hatóságok.",
+      "title": "Kormányzati titkolózás a Szőlő utcai ügyben",
+      "summary": "Az igazságügyi minisztérium nem árul el részleteket arról, milyen dokumentumokat vizsgáltak meg a Szőlő utcai ügyben. Tuzson Bencéék vizsgálatának eredményeiről sincs információ.",
       "importance": 4
     },
     {
-      "title": "Nem vették nyilvántartásba a Mi Hazánk jelöltjének karlendítését",
-      "summary": "Magyarországon nem számít bűncselekménynek, ezért nem vették nyilvántartásba a Mi Hazánk egyik jelöltjének müncheni karlendítős ügyét. Az eset Németországban merült fel, ahol a gesztus törvénybe ütköző.",
+      "title": "Magyar Péter éjszakai akciója a Dunán",
+      "summary": "Magyar Péter, a Tisza Párt alelnöke éjjel a Dunán tartózkodott. Akciójának részletei egyelőre nem ismertek a nyilvánosság számára.",
       "importance": 4
+    },
+    {
+      "title": "Időközi önkormányzati választások több településen",
+      "summary": "Több helyszínen időközi önkormányzati választásokat tartanak. A választásokra azután kerül sor, hogy tiszás képviselők jutottak be a parlamentbe, így mandátumuk megszűnt a helyi önkormányzatokban.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Halálos orosz dróntámadás Kijev mellett",
-      "summary": "Közel negyven ember halt meg egy orosz dróntámadásban Kijev közelében. A támadás egy fegyverraktárt célzott, és jelentős pusztítást végzett a térségben.",
+      "title": "Újabb támadások az ukrán háborúban",
+      "summary": "Oroszország drónokkal támadta Kijevet, miközben az ukrán erők orosz olajfinomítókat és légitámaszpontokat vettek célba. A harcok intenzitása továbbra is magas.",
       "importance": 5
     },
     {
-      "title": "Pusztító áradások Nepálban gleccseromlás miatt",
-      "summary": "Gleccseromlás okozta pusztító áradások sújtják Nepált, számos falu elpusztult és több tucat ember eltűnt vagy meghalt. A műholdfelvételek a katasztrófa mértékét mutatják.",
+      "title": "Magyar eltűnt a tibeti földcsuszamlásban",
+      "summary": "A himalájai villámárvíz és földcsuszamlás következtében 261 külföldi tűnt el a tibeti oldalon, köztük egy magyar állampolgár. A mentési munkálatok folytatódnak a katasztrófa sújtotta területen.",
       "importance": 5
     },
     {
-      "title": "Jobboldali influenszert deportáltak az USA-ból",
-      "summary": "Deportálták az Egyesült Államokból azt a jobboldali influenszert, aki korábban kiállt a bevándorlók deportálása mellett és Orbán Viktort is dicsőítette. Az amerikai hatóságok indoklása szerint bevándorlási szabálysértést követett el.",
+      "title": "Lövöldözés egy svájci rave partyn",
+      "summary": "Lövöldözés tört ki egy svájci rave partyn, egy halálos áldozatot és öt sebesültet hagyva maga után. A hatóságok a hadsereg helikopterét is bevetették a helyzet tisztázására és a tettes felkutatására.",
       "importance": 4
     },
     {
-      "title": "Trump Venezuela olajkészleteiről beszélt",
-      "summary": "Donald Trump volt amerikai elnök kijelentette, hogy Venezuela 65 milliárd hordónyi olajkészlete amerikai ellenőrzés alá kerülhet. A nyilatkozat geopolitikai feszültségeket kelthet.",
-      "importance": 4
+      "title": "Jobboldali influenszert deportáltak az Egyesült Államokból",
+      "summary": "Az Egyesült Államokból deportáltak egy jobboldali influenszert, aki korábban a bevándorlók kitoloncolása mellett érvelt. A férfi korábban az Orbán-kormány díszvendége volt, és többször kritizálta az amerikai bevándorlási politikát.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "4,7 billió forintos pofon az AI-iparban",
-      "summary": "Egy 24 éves fiatal mesterséges intelligencia víziója miatt az AI iparág szereplői 4,7 billió forintos veszteséget szenvedtek. Az eset rávilágít az AI terület gyors és kiszámíthatatlan fejlődésére.",
-      "importance": 5
-    },
-    {
-      "title": "Zenei kiadók perlik az Anthropicot IP-lopás miatt",
-      "summary": "A Sony Music és a Warner zenei óriások beperelték az Anthropic AI céget, azzal vádolva őket, hogy „szemérmetlenül” sértették meg szerzői jogaikat. A per az AI tartalomgenerálás jogi aspektusaira hívja fel a figyelmet.",
+      "title": "SONY és Warner pereli az Anthropicot szerzői jogsértés miatt",
+      "summary": "A Sony Music és a Warner Music Group beperelte az Anthropic AI céget, azzal vádolva őket, hogy szándékosan lopták el szellemi tulajdonukat. Az ügy precedensértékű lehet a mesterséges intelligencia és a szerzői jog viszonyában.",
       "importance": 5
     },
     {
       "title": "Az Nvidia AI előnye túlmutat a GPU-n",
-      "summary": "Az Nvidia, a chipgyártó óriás, az AI területén elért vezető szerepét már nem csak a GPU-alapú megoldásaival biztosítja. A cég új stratégiákat és technológiákat fejleszt az AI-piac dominálására.",
+      "summary": "Az Nvidia vezető szerepe a mesterséges intelligenciában már nem csak a grafikus processzorokhoz (GPU) kötődik. A cég az AI ökoszisztéma szélesebb területén erősíti pozícióját, új stratégiákat alkalmazva.",
       "importance": 4
     },
     {
-      "title": "Az Anthropic kutatója bemutatta az önfejlesztő AI-t",
-      "summary": "Az Anthropic egyik kutatója bepillantást engedett az önfejlesztő mesterséges intelligencia működésébe. Ez a technológia azt ígéri, hogy az AI rendszerek képesek lesznek önállóan javítani és fejleszteni magukat.",
+      "title": "A mesterséges intelligencia átrajzolja a piacot",
+      "summary": "Egy 24 éves fiatal AI víziója hatalmas, 4,7 billió forintos veszteséget okozott tradicionális cégeknek. Ez a példa rávilágít az AI diszruptív erejére és a piaci változások gyorsaságára.",
+      "importance": 4
+    },
+    {
+      "title": "Techóriások hatalmának megnyirbálására szólít fel a Guardian",
+      "summary": "A Guardian szerint meg kell fosztani hatalmuktól a techóriásokat, mivel túlságosan nagy befolyásra tettek szert a társadalomban és a gazdaságban. A lap a szigorúbb szabályozás szükségességét hangsúlyozza.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Reményt ad a Moderna rákvakcina",
-      "summary": "A Moderna rákvakcinája ígéretes eredményeket mutat a személyre szabott terápiák fejlesztésében, reményt adva a jövőbeni rákkezelések terén. A kutatók most a módszerek gyorsításán dolgoznak.",
+      "title": "Reményt ad a Moderna rákvakcinája",
+      "summary": "A Moderna által fejlesztett rákvakcina ígéretes eredményeket mutat, reményt adva a személyre szabott terápiák felgyorsítására. A kutatás új lehetőségeket nyithat a rákkezelésben és a megelőzésben.",
       "importance": 5
     },
     {
-      "title": "Az El Niño erősödése és rekord óceáni hőmérsékletek",
-      "summary": "Az El Niño jelenség erősödése az elmúlt 1000 év korallrekordjai alapján egyre gyakoribbá és intenzívebbé válik a klímaváltozás hatására. Az óceánok rekordmagas hőmérsékleteket mértek, ami további szélsőséges időjárási eseményekre utal.",
-      "importance": 5
-    },
-    {
-      "title": "A rágógumiban lévő édesítőszer és a szívroham kockázata",
-      "summary": "Egy friss tanulmány szerint azoknak, akiknek vérében magas a rágógumikban is használt édesítőszer szintje, nagyobb az esélyük szívrohamra vagy stroke-ra. A kutatás további vizsgálatokat sürget az édesítőszerek egészségügyi hatásaival kapcsolatban.",
+      "title": "Megoldódhat a hiányzó neutrínók rejtélye",
+      "summary": "A fizikusok közelebb kerülhettek a hiányzó neutrínók évtizedes rejtélyének megoldásához. Ez a felfedezés alapvető jelentőségű lehet a részecskefizika és az univerzum megértése szempontjából.",
       "importance": 4
     },
     {
-      "title": "A Roman teleszkóp új szintre emeli a bolygóvadászatot",
-      "summary": "A Roman űr-teleszkóp, melyet eredetileg kémtávcsőnek terveztek, hajtogatható tükreinek köszönhetően soha nem látott méretű képeket készíthet az űrben. Ez új távlatokat nyit a távoli bolygók felkutatásában.",
+      "title": "A melegedő óceánok erősítik az El Niñót",
+      "summary": "Ezeréves koralladatok alapján a klímaváltozás hatására erősödhetnek az El Niño jelenségek. Az eddig mért legmagasabb óceáni hőmérsékletek globális aggodalomra adnak okot az éghajlatváltozás miatt.",
+      "importance": 4
+    },
+    {
+      "title": "A Roman űrtávcső forradalmasítja a bolygóvadászatot",
+      "summary": "A Roman űrtávcső a következő szintre emeli a bolygóvadászatot, soha nem látott részletességgel tárva fel az exobolygók világát. Az új eszköz áttörést hozhat az űrkutatásban és az idegen élet keresésében.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Dráma a Vueltán: Tadej Pogačar bukott és feladta a versenyt",
-      "summary": "Tadej Pogačar, a Vuelta eddigi fölényesen vezető versenyzője óriásit bukott a spanyol körversenyen, és kénytelen volt feladni a további küzdelmet. Ez a sportoló számára az első alkalom, hogy egy nagy körversenyen feladja.",
+      "title": "Dráma a Vueltán: Pogacar feladta a versenyt",
+      "summary": "Tadej Pogacar, a Vuelta eddigi fölényesen vezető versenyzője óriásit bukott és feladta a versenyt. A kerékpáros világot sokkolta a váratlan fordulat és a kiemelkedő sportoló visszalépése.",
       "importance": 5
     },
     {
-      "title": "Aranyérmes a magyar férfi kenu négyes a vb-n",
-      "summary": "A magyar férfi kenu négyes megvédte címét, és aranyérmet szerzett a poznani világbajnokságon. Ezzel a kiváló teljesítménnyel ismét bizonyították dominanciájukat a sportágban.",
-      "importance": 5
+      "title": "Magyar sikerek az öttusa-világbajnokságon",
+      "summary": "Koleszár Gergő nyolcadik, Szép Balázs pedig tizenkettedik helyen végzett a 112 fős mezőnyben az öttusa-világbajnokságon. A magyar sportolók kiemelkedő teljesítményt nyújtottak a nemzetközi mezőnyben.",
+      "importance": 4
     },
     {
-      "title": "Meglepetés vereség a brit nehézsúlyú bokszoló számára",
-      "summary": "Moses Itauma, a brit nehézsúlyú bokszoló meglepő vereséget szenvedett egy kemény világbajnoki címmérkőzésen, melynek során hordágyon kellett elszállítani. Ez az eredmény nagy port kavart a bokszvilágban.",
-      "importance": 3
+      "title": "Moses Itauma veresége a nehézsúlyú bokszban",
+      "summary": "A brit nehézsúlyú bokszoló, Moses Itauma vereséget szenvedett egy kimerítő világbajnoki mérkőzésen. Hordágyon vitték le a ringből, ami súlyos kimenetelre utal.",
+      "importance": 4
     },
     {
-      "title": "Politikai feszültség a női kosárlabdában",
-      "summary": "A \"mutogatós MAGA-Barbie\" pályára lépése politikai játszótérré változtatta a női kosárlabdát, felkavarva a sportot övező társadalmi vitákat. Az eset rávilágít a politika és a sport egyre gyakoribb összefonódására.",
-      "importance": 3
+      "title": "Bungee jumping baleset Szegeden",
+      "summary": "Egy szegedi fesztiválozó nyaka köré tekeredett egy segédkötél bungee jumping közben. Az eset felhívja a figyelmet az extrém sportok kockázataira és a biztonsági előírások betartásának fontosságára.",
+      "importance": 2
     }
   ]
 }

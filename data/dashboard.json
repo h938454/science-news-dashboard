@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "RTL: A lopott kisgéppel Paks felé berepülő fiú azt mondja, annyira részeg volt, hogy nem emlékszik semmire",
-      "summary": "Egy ittas férfi lopott kisgéppel repült Paks felé, ami súlyos biztonsági aggályokat vet fel egy atomerőmű közelében. A férfi állítása szerint annyira részeg volt, hogy nem emlékszik tetteire.",
-      "importance": 5
-    },
-    {
       "title": "A Tisza által támogatott jelöltek nyerték a vasárnapi időközi választásokat",
-      "summary": "A Tisza Párt által támogatott jelöltek mind a négy településen győzelmet arattak az időközi önkormányzati választásokon. Ez az eredmény a párt erősödő politikai befolyását mutatja.",
+      "summary": "A vasárnapi időközi önkormányzati választásokon a Tisza Párt által támogatott jelöltek mind a négy településen győztek, ahol indultak. Ez megerősíti a párt pozícióját a helyi politikában.",
       "importance": 5
     },
     {
-      "title": "Krausz Ferenc lemondott a Corvin-láncról",
-      "summary": "Krausz Ferenc Nobel-díjas fizikus lemondott a Magyar Corvin-lánc Testületben betöltött tagságáról. A döntés hátterében politikai okok, a tudományos autonómia hiánya állhat.",
+      "title": "A lopott kisgéppel Paks felé berepülő fiú azt mondja, annyira részeg volt, hogy nem emlékszik semmire",
+      "summary": "Egy fiatalember ellopott egy kisrepülőgépet, amellyel Paks felé repült be a tiltott légtérbe. A fiú a letartóztatása után azt vallotta, részegsége miatt nem emlékszik tetteire.",
       "importance": 4
     },
     {
       "title": "Sztrájkkal indulhat a tanév, ha nem rendezik az iskolai dolgozók bérét",
-      "summary": "Az iskolai dolgozók béreinek rendezetlensége miatt sztrájkkal fenyeget a tanévkezdés. Ez komoly fennakadásokat okozhat az oktatásban és több ezer diákot érinthet.",
+      "summary": "Az oktatási szakszervezetek szerint a tanév sztrájkkal kezdődhet, amennyiben az iskolai dolgozók béremeléséről nem születik megállapodás. A bérvita régóta húzódó probléma az ágazatban.",
+      "importance": 4
+    },
+    {
+      "title": "Krausz Ferenc lemondott a Corvin-láncról",
+      "summary": "Krausz Ferenc Nobel-díjas fizikus lemondott a Magyar Corvin-lánc Testületben betöltött tagságáról. Döntését a testület működésével kapcsolatos fenntartásokkal indokolta.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Felborult egy komp Észak-Ciprusnál: heten meghaltak, 23 embert még keresnek",
-      "summary": "Komp borult fel Észak-Ciprus partjainál, a balesetben heten meghaltak és további 23 embert eltűntként tartanak számon. A mentési munkálatok nagy erőkkel folynak a túlélők után kutatva.",
+      "title": "Az Egyesült Államok iráni indítóállásokat támadott Larak-szigeten",
+      "summary": "Az Egyesült Államok hetek óta először hajtott végre ismert támadást iráni indítóállások ellen a Larak-szigeten. A lépés tovább élezi a feszültséget a térségben.",
       "importance": 5
     },
     {
-      "title": "Több száz nepáli dolgozó szorulhatott egy erőmű alagútrendszerébe a villámárvíz miatt",
-      "summary": "Nepálban villámárvíz öntött el egy erőművet, több száz dolgozó rekedt az alagútrendszerben. A mentési műveletek nehézségekbe ütköznek a terepviszonyok és az időjárás miatt.",
+      "title": "Orosz katonai dezertőr házaspárt toloncolhatnak vissza Törökországból",
+      "summary": "Egy fiatal orosz házaspár dezertált a hadseregből, és nyolc nap alatt kajakkal jutott el Törökországba, ahonnan most visszatoloncolhatják őket. Sorsuk nagy nemzetközi figyelmet kapott.",
       "importance": 4
     },
     {
-      "title": "Házak süllyednek Londonban, miközben globálisan súlyosabb a helyzet",
-      "summary": "Londonban egyre több ház süllyed meg az extrém időjárás és aszály okozta talajmozgások miatt, miközben a világ más részein ennél súlyosabb következményekkel jár a klímaváltozás. A helyzet rávilágít a városi infrastruktúra sérülékenységére.",
+      "title": "Komp borult fel Észak-Ciprus partjainál: nyolc halott, sokan eltűntek",
+      "summary": "Egy komp borult fel Észak-Ciprus partjainál, a balesetben nyolc ember életét vesztette, és több mint húszan eltűntek. Mentőalakulatok keresik a túlélőket a térségben.",
       "importance": 4
     },
     {
-      "title": "Izland nem folytatja az EU csatlakozási tárgyalásokat",
-      "summary": "Izland megszavazta, hogy nem indítja újra az Európai Unióhoz való csatlakozási tárgyalásokat. Ez a döntés tartósan befolyásolhatja Izland és az EU viszonyát.",
-      "importance": 3
+      "title": "Több száz nepáli dolgozó szorulhatott be egy erőmű alagútrendszerébe villámárvíz miatt",
+      "summary": "Nepálban villámárvíz miatt több száz dolgozó rekedhetett egy épülő erőmű alagútrendszerében. A hatóságok megkezdték a mentési műveleteket a katasztrófa sújtotta térségben.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Sony Music és a Warner pereli az Anthropicot IP-lopás vádjával",
-      "summary": "A Sony Music és a Warner Music Group pert indított az Anthropic AI cég ellen szellemi tulajdonjogok nagyszabású megsértése miatt. Az eset precedenst teremthet a mesterséges intelligencia által generált tartalmak jogi megítélésében.",
+      "title": "A Sony Music és a Warner pereli az Anthropicot, szellemi tulajdon ellopása miatt",
+      "summary": "A Sony Music és a Warner bírósági eljárást indított az Anthropic AI-cég ellen, azzal vádolva őket, hogy 'arcátlanul' eltulajdonították a szellemi tulajdonukat. A per nagy horderejű az AI iparágban.",
       "importance": 5
     },
     {
-      "title": "A robotaxik rejtett emberi költségei aggodalmakat keltenek",
-      "summary": "Egy riport rávilágít a robotaxik elterjedésének rejtett emberi költségeire, beleértve a munkahelyek elvesztését és az új biztonsági kihívásokat. A technológia térhódítása társadalmi és etikai kérdéseket vet fel.",
+      "title": "Az Anthropic kutatója bemutatta az önfejlesztő mesterséges intelligencia működését",
+      "summary": "Az Anthropic egyik kutatója betekintést nyújtott az önfejlesztő mesterséges intelligencia fejlesztésébe és potenciális képességeibe. Ez a terület az AI kutatás egyik legígéretesebb iránya.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia AI előnye túlmutat a GPU-kon",
-      "summary": "Az Nvidia mesterséges intelligencia terén elért vezető szerepe már nem csak a grafikus processzorokon (GPU) múlik, hanem a teljes ökoszisztémát magában foglaló szoftveres és platformmegoldásokon. Ez a stratégia biztosítja a vállalat tartós dominanciáját az AI piacán.",
+      "title": "Az Nvidia mesterséges intelligencia előnye túlmutat a GPU-kon",
+      "summary": "Az Nvidia vezető pozíciója az AI terén már nem csak a grafikus processzorokon (GPU) alapul, hanem a teljes ökoszisztémáján és szoftveres megoldásain. Ez átalakítja a cég piaci stratégiáját.",
       "importance": 4
     },
     {
-      "title": "Betekintést nyerhetünk az önfejlesztő mesterséges intelligencia működésébe",
-      "summary": "Az Anthropic egyik kutatója betekintést engedett az önfejlesztő mesterséges intelligencia legújabb fejlesztéseibe, jelezve a technológia potenciális áttörését. Ez az előrelépés új horizontokat nyit meg az AI képességei előtt.",
+      "title": "A robotaxik rejtett emberi költségei",
+      "summary": "A robotaxik terjedésével felmerülnek a technológia rejtett emberi költségei, mint például a munkahelyek elvesztése és az etikai dilemmák. Fontos társadalmi párbeszéd indult a témában.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A NASA felbocsátotta a Roman űrtávcsövet a sötét energia rejtélyeinek feltárására",
-      "summary": "A NASA sikeresen felbocsátotta a Roman űrtávcsövet, amely a sötét energia és a sötét anyag rejtélyeit kutatja. A küldetés célja, hogy forradalmasítsa az univerzum tágulásáról és a galaxisok kialakulásáról alkotott tudásunkat.",
+      "title": "A NASA elindította a Roman űrteleszkópot a sötét energia rejtélyeinek megfejtésére",
+      "summary": "A NASA sikeresen felbocsátotta a Roman űrteleszkópot, melynek célja a sötét energia és a sötét anyag rejtélyeinek feltárása. Az új teleszkóp jelentős előrelépést hozhat a kozmológiában.",
       "importance": 5
     },
     {
-      "title": "Reményt ad a Moderna rákvakcinája a személyre szabott terápiák felgyorsítására",
-      "summary": "A Moderna rákvakcinája ígéretes eredményeket mutat, ami reményt ad a személyre szabott rákterápiák fejlesztésének felgyorsítására. Ez az áttörés új lehetőségeket nyithat meg a rák elleni küzdelemben.",
-      "importance": 4
-    },
-    {
       "title": "Rekordmagas óceáni hőmérsékleteket mértek az El Niño erősödésével",
-      "summary": "A globális óceáni hőmérséklet rekordmagas szintre emelkedett az El Niño jelenség felerősödésével, ami súlyos környezeti következményekkel jár. Ez a tendencia globális éghajlati változásokra és szélsőséges időjárási eseményekre utal.",
+      "summary": "Az El Niño jelenség erősödésével soha nem látott mértékű óceáni hőmérsékleteket regisztráltak világszerte. Ez súlyos hatásokkal járhat a globális éghajlatra és tengeri élővilágra.",
+      "importance": 5
+    },
+    {
+      "title": "Új, pozitív hatása derült ki a HPV-oltásnak",
+      "summary": "Kutatók új, eddig ismeretlen pozitív hatást fedeztek fel a HPV-oltással kapcsolatban, ami szélesebb körű egészségügyi előnyökre utal. Ez megerősíti az oltás fontosságát.",
       "importance": 4
     },
     {
-      "title": "Megoldás a hiányzó neutrínók rejtélyére",
-      "summary": "Tudósok megoldást találtak a hiányzó neutrínók régóta fennálló rejtélyére, ami alapvetően változtathatja meg a részecskefizikai modelljeinket. Ez a felfedezés mélyebb betekintést nyújt a világegyetem alapvető összetevőibe.",
-      "importance": 3
+      "title": "A Moderna rákellenes vakcinája reményt ad a személyre szabott terápiák felgyorsítására",
+      "summary": "A Moderna rákellenes vakcinája ígéretes eredményeket mutat, ami felgyorsíthatja a személyre szabott rákterápiák kifejlesztését és alkalmazását. Ez áttörést jelenthet a rákgyógyításban.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Vadnai Jonatán vitorlázó világbajnokságot nyert",
-      "summary": "Vadnai Jonatán magyar vitorlázó világbajnoki címet szerzett a sportágban, ezzel kiemelkedő teljesítményt nyújtva. Ez a győzelem jelentős elismerést hoz a magyar vitorlázásnak.",
+      "title": "Világbajnokságot nyert Vadnai Jonatán vitorlázó",
+      "summary": "Vadnai Jonatán magyar vitorlázó világbajnoki címet szerzett, ezzel történelmi sikert ért el sportágában. A fiatal sportoló teljesítményével a világ élvonalába került.",
       "importance": 5
     },
     {
-      "title": "Szabó Bence kétszeres olimpiai bajnokot menesztették a Külügyből",
-      "summary": "Szabó Bence kétszeres olimpiai bajnok vívót, aki nagyköveti kinevezésre készült, menesztették a Külügyminisztériumból. Az eset nagy port kavart a közéleti és sportkörökben egyaránt.",
-      "importance": 4
-    },
-    {
-      "title": "Elhunyt rendőrtiszt fiai vezették ki a Manchester Unitedet kabalaként",
-      "summary": "Egy autóbalesetben elhunyt rendőrtiszt két fia vezette ki kabalaként a Manchester United csapatát a pályára, megható pillanatokat szerezve a szurkolóknak. Az esemény tiszteletadás volt az édesapjuk előtt.",
+      "title": "Elhunyt rendőr fiai vezették ki a Man Utd-ot kabalaként",
+      "summary": "Egy elhunyt rendőrtiszt fiai vezették ki a Manchester United csapatát a pályára kabalaként, egy megható megemlékezés keretében. A gesztus nagy visszhangot váltott ki a sportvilágban.",
       "importance": 3
     },
     {
-      "title": "„Mélység határán”: Művészet vagy sport a mélytengeri merülés?",
-      "summary": "A „Mélység határán: Miért merülsz le oda, ahova nem kéne?” című cikk a mélytengeri merülés fizikai és pszichológiai határait vizsgálja. Bár a cikk inkább filozófiai, a merülés mint tevékenység sportos vonatkozásokat is hordozhat.",
-      "importance": 2
+      "title": "Menesztették a külügyből a nagykövetnek készülő Szabó Bence olimpiai bajnokot",
+      "summary": "Szabó Bence kétszeres olimpiai bajnok vívót menesztették a Külügyminisztériumból, ahol nagyköveti kinevezésre készült. A sportolói karrierje utáni politikai ambíciói váratlan fordulatot vettek.",
+      "importance": 3
+    },
+    {
+      "title": "Örökre bezárnak egy svájci síterepet a hóhiány és a meleg miatt",
+      "summary": "Egy svájci síterepet véglegesen bezárnak a klímaváltozás okozta hóhiány és a túl meleg időjárás miatt. Ez a tendencia súlyos kihívások elé állítja a téli sportágakat.",
+      "importance": 3
     }
   ]
 }

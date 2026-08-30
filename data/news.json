@@ -1,83 +1,133 @@
 {
   "Telex": [
     {
-      "title": "Egy 64 éves férfi megkéselt két embert Debrecenben, néhány órával később letartóztatták",
+      "title": "Minden előzmény nélkül baseballütővel támadt, maszkban ordibált az út közepén Budapesten, most letartóztatták",
+      "link": "https://telex.hu/belfold/2026/08/30/budapest-baseball-uto-maszkos-garazda-letartoztatas",
+      "summary": "A XIII. és a XIV. kerületekben csapott le a maszkos garázda"
+    },
+    {
+      "title": "Tudni kell, kivel kell leülni tárgyalni, kit kell keresni – így működik a vagyonvisszaszerzés a profiknál",
+      "link": "https://telex.hu/belfold/2026/08/30/sarvari-nicholas-vagyonvisszaszerzes-nyomozas",
+      "summary": "A vagyonfelderítést- és visszaszerzést nem lehet csak az íróasztal mögül csinálni, terepmunka és nemzetközi kapcsolatok kellenek hozzá, de élni kell a vádalkuval és a peren kívüli egyezségekkel is – mondta a Telexnek Sárvári Nicholas, akinek a cége több évtizede van ebben a szakmában. Ő is pályázott ugyan az NVVH élére, de végül nem őt jelölték."
+    },
+    {
+      "title": "Évek óta készült nagyköveti kinevezésére Szabó Bence vívó, most visszakérték a diplomata-útlevelét",
+      "link": "https://telex.hu/belfold/2026/08/30/szabo-bence-vivo-madrid-havanna-nagykovet",
+      "summary": "Szabó a havannai külképviselet vezetését vette volna át, az új Külügyminisztérium viszont máshogy döntött."
+    },
+    {
+      "title": "Több száz nepáli dolgozó szorulhatott egy erőmű alagútrendszerébe a villámárvíz miatt",
+      "link": "https://telex.hu/kulfold/2026/08/30/nepal-villamarviz-vizeromu-alagut-iskola-igazgato-mentes",
+      "summary": "Eközben egy iskolaigazgatót hősként ünnepelnek, mert egy gyors döntéssel 900 diákot mentett meg."
+    },
+    {
+      "title": "Nem esik elég hó, túl meleg van: örökre bezárnak egy svájci síterepet",
+      "link": "https://telex.hu/kulfold/2026/08/30/braunwald-svajc-negy-felvono-sieles-klimavaltozas-nincs-ho",
+      "summary": "A felvonókat és a pályákat üzemeltető cég évek óta veszteséges, mostantól nem akarják folytatni."
+    },
+    {
+      "title": "Lemondott a Vidék- és Településfejlesztési Minisztérium egyik helyettes államtitkára",
+      "link": "https://telex.hu/belfold/2026/08/30/videk-es-telepulesfejlesztesi-miniszterium-helyettes-allamtitkar-lemondas",
+      "summary": "Személyes okokra hivatkozott."
+    },
+    {
+      "title": "Éhezés és szomjazás vár a hőség miatt a magyar méhekre",
+      "link": "https://telex.hu/techtud/2026/08/30/hoseg-meh-magyarorszag-pollen",
+      "summary": "A hőhullámok augusztusra szinte teljesen elpusztították a természetes pollenforrásokat."
+    },
+    {
+      "title": "Nem igaz, hogy nem kártalanítja senki az oltáskárosultakat, de az odáig vezető út nem egyszerű",
+      "link": "https://telex.hu/techtud/2026/08/30/gyerekkori-kotelezo-oltasok-mellekhatas-bejelentes-nngyk-ogyei-perek-europai-unio",
+      "summary": "A konteósok időről időre előveszik azt az állítást, hogy a gyerekkori kötelező oltások vagy a Covid-oltások mellékhatásaiért senki nem vállal felelősséget, az elszenvedőit senki nem kártalanítja. Ez nem igaz: bizonyos esetekben az állam is beszáll a kártalanításba. Ez azonban korántsem jelenti azt, hogy triviális procedúráról lenne szó."
+    },
+    {
+      "title": "Világbajnokságot nyert Vadnai Jonatán vitorlázó",
+      "link": "https://telex.hu/sport/2026/08/30/vadai-jonatan-ilca-7-vitorlazas-aranyermes",
+      "summary": "„Hatalmas büszkeség és felejthetetlen pillanat a magyar vitorlázásnak” – fogalmazott a hazai szövetség honlapja."
+    },
+    {
+      "title": "Sírva röhögni a történelmen, a családon és a halálon",
+      "link": "https://telex.hu/karakter/konyvespolc/2026/08/30/sirva-rohogni-a-tortenelmen-a-csaladon-es-a-halalon-cserna-szabo-anya-csak-egy-van",
+      "summary": "Kerüli a pátoszt, mégis vannak jelenetei, amelyek nagyobbat ütnek bármilyen ünnepélyes vallomásnál, írja kritikusunk Cserna-Szabó András legújabb regényéről, melyben az író megmutatja, hogyan lehet összerakni egy család történetét százévnyi hallgatásból."
+    },
+    {
+      "title": "Felborult egy komp Észak-Ciprusnál, heten meghaltak és 23 embert még keresnek",
+      "link": "https://telex.hu/kulfold/2026/08/30/eszak-ciprus-felborult-komp",
+      "summary": "A helyi média szerint ahogy elindult a komp, elkezdett megtelni vízzel."
+    },
+    {
+      "title": "Adolf Balázs világbajnok kenu egyes 5000 méteren, a nőknél két ezüstérmet is hozott a zárónap délutánja",
+      "link": "https://telex.hu/sport/2026/08/30/adolf-balazs-vilagbajnok-csorba-zsofia-ezustermes-kenu-egyes-5000-meteren",
+      "summary": "Csorba Zsófia kenu, Kőhalmi Emese kajak egyes 5000 méteren húzta be a második helyet. Összesen 12 éremmel zárták a magyarok a vébét."
+    },
+    {
+      "title": "Semjén szerint jobbszélre csúszott a KDNP, még idén tisztújítást tart a párt",
+      "link": "https://telex.hu/belfold/2026/08/30/kdnp-tisztujitas-lakitelek-semjen-zsolt",
+      "summary": "Semjén Zsolt szerint vissza kell menniük középre, de valahogy úgy, hogy a radikális szavazókat is megtartják."
+    },
+    {
+      "title": "Kétszer is szembekerült a testülettel, a Nobel-díjas Krausz Ferenc lemondott a Corvin-láncról",
+      "link": "https://telex.hu/techtud/2026/08/30/krausz-ferenc-lemondas-corvin-lanc-testuleti-tagsag",
+      "summary": "A Telexnek küldött válaszában megerősítette, hogy az okok között volt az Élvonal Alapítvány ügye is. A birtokunkba került levél szerint egy másik ügyben sem értett egyet a többiekkel."
+    },
+    {
+      "title": "Meghalt a debreceni késelés egyik áldozata",
       "link": "https://telex.hu/belfold/2026/08/30/debrecen-rendorseg-keseles-letartoztatas",
-      "summary": "Szombat hajnalban szóváltásba keveredtek."
-    },
-    {
-      "title": "Két nappal a pusztító villámárvíz után mentették ki az ötéves kislányt a romok alól, a kórházban most újra találkozott a szüleivel",
-      "link": "https://telex.hu/kulfold/2026/08/30/ket-nappal-a-pusztito-villamarviz-utan-mentettek-ki-az-oteves-lanyt-a-romok-alol-a-korhazban-most-ujra-talalkozott-a-szuleivel",
-      "summary": "A mentőalakulatok pénteken túlélőket kerestek, amikor úgy hallották, mintha egy macska nyávogna a romok alól. Így találtak rá a lányra."
-    },
-    {
-      "title": "Fellőtték az űrbe a NASA új űrteleszkópját, aminek köszönhetően sokkal többet fogunk a távoli galaxisokról",
-      "link": "https://telex.hu/techtud/2026/08/30/nancy-grace-roman-urteleszkop-kiloves-nasa",
-      "summary": "A NASA igazgatója korábban azt mondta, hogy a tervek szerint egy év alatt el tud majd végezni annyi munkát, mint amennyihez a Hubble-nek kétezer évre lett volna szüksége."
-    },
-    {
-      "title": "Magyar Péter: Ha valaki egy neki nem tetsző személyi döntés miatt eltávolodik a Tiszától, ehhez is szíve joga van",
-      "link": "https://telex.hu/belfold/2026/08/30/magyar-peter-ha-valaki-egy-neki-nem-tetszo-szemelyi-dontes-miatt-eltavolodik-a-tiszatol-ehhez-is-szive-joga-van",
-      "summary": "A miniszterelnök lezártnak tekinti a vagyonvisszaszerzési hivatal vezetőjéről szóló döntést: azért, hogy ki az adott pozícióra a legmegfelelőbb jelölt, az a felelős, aki kinevezi."
-    },
-    {
-      "title": "Remek játékok felnőtteknek, de tényleg érdemes ilyen sokat költeni a Seat és a Peugeot erős kisautóira?",
-      "link": "https://telex.hu/techtud/2026/08/30/autoteszt-seat-ibiza-peugeot-208-benzinmotor",
-      "summary": "A 208 GT lágy hibrid segédhajtással és 145 lóerős összteljesítménnyel, a Seat Ibiza FR pedig segédhajtás nélkül, de négyhengeres, 150 lóerős motorral lóg ki a hasonló kategóriás autók sorából. Mindkettő kompromisszumos megoldás, a szerethetőségük pedig éppen ezen múlhat."
-    },
-    {
-      "title": "A nehéz terepviszonyok miatt speciális hordággyal mentettek ki egy sérült túrázót a Börzsönyben",
-      "link": "https://telex.hu/belfold/2026/08/30/labszartorest-szenvedett-egy-turazo-a-borzsonyben",
-      "summary": "A nő súlyos lábsérülést szenvedett."
-    },
-    {
-      "title": "Épül a fenékküszöb, többtonnás betontömböket dobál helikopterről a Dunába a Magyar Honvédség",
-      "link": "https://telex.hu/belfold/2026/08/30/dunaszentbenedek-duna-meder-fenekkuszob-magyar-honvedseg-tobtonnas-betonkockak",
-      "summary": "Ruszin-Szendi Romulusz szakértőkre hivatkozva azt mondta, óriási szükség van ezekre a kövekre, mert „amit nappal építünk, az este leomlik, mint ahogy a balladában is van”."
-    },
-    {
-      "title": "Az izlandiak úgy döntöttek, hogy ne folytatódjanak az EU-csatlakozási tárgyalások",
-      "link": "https://telex.hu/kulfold/2026/08/30/izland-nepszavazas-csatlakozasi-targyalasok-europai-unio",
-      "summary": "A népszavazáson csak 47,2 százalék támogatta a leállított egyeztetések újranyitását."
-    },
-    {
-      "title": "Öttusa-vb: Guzi Blanka aranyérmes",
-      "link": "https://telex.hu/sport/2026/08/30/ottusa-vb-guzi-blanka-aranyermes",
-      "summary": "Csapatban a magyarok ötödikként zártak."
-    },
-    {
-      "title": "Vitézy: Őszintébb lett volna, ha „magánérdekű közvagyonkezelő alapítványoknak” nevezik el a kekvákat",
-      "link": "https://telex.hu/gazdasag/2026/08/30/vitezy-david-kekva-100-milliardos-vagyon-kozlekedesi-es-beruhazasi-miniszterium",
-      "summary": "A közlekedési és beruházási miniszter azt írta, minisztériuma 100 milliárd forint értékű vagyont vesz vissza a kekváktól."
-    },
-    {
-      "title": "A frászt hozta a rögbimeccs nézőire a stadion tetejétől 12 méterre elhúzó utasszállító",
-      "link": "https://telex.hu/kulfold/2026/08/30/airlink-rogbi-stadion-repulok",
-      "summary": "Az Airlink társaság csak annyit közölt: „Tervezés. Pontosság. Teljesítmény.”"
-    },
-    {
-      "title": "Tavaly a szélsőjobb legyőzőjeként ünnepelték Nicușor Dant, ma már egyre többen árulónak nevezik a román elnököt",
-      "link": "https://telex.hu/transtelex/2026/08/30/nicusor-dan-botranyok-dontesek-elegedetlenseg-csalodottsag-valasztok",
-      "summary": "George Simion szélsőjobboldali pártja a választás óta az államfő eltávolításán dolgozik, de a kampányt a reformpárti tábor növekvő csalódottsága teheti tényleg veszélyessé."
-    },
-    {
-      "title": "A külügy továbbra is három, a földcsuszamlásban eltűnt magyarról tud, közülük ketten nem a magyar útlevelükkel regisztráltak",
-      "link": "https://telex.hu/kulfold/2026/08/30/foldcsuszamlas-villamarviz-nepal-kina-eltuntek-kulugyminiszterium",
-      "summary": "A tibeti autonóm terület kormányzója vasárnap ezért közölhette azt, hogy egy magyar után kutatnak."
-    },
-    {
-      "title": "Három ezüstöt és egy bronzérmet szereztek a magyarok a kajak-kenu világbajnokság zárónapján",
-      "link": "https://telex.hu/sport/2026/08/30/varga-adam-ezustermes-kajak-egyes-500-meteren-kajak-kenu-vilagbajnoksag",
-      "summary": "A vb-t a délutáni 5000 méteres döntők zárják, bennük négy magyarral."
-    },
-    {
-      "title": "Trump-parókában masírozó gépfegyveres kacsaosztagról posztolt videót Donald Trump",
-      "link": "https://telex.hu/zacc/2026/08/30/trump-parokaban-masirozo-gepfegyveres-kacsaosztagrol-posztolt-videot-donald-trump",
-      "summary": "Hogy miért tette ezt? A Donald kacsák hadserege megvédi az átnevezett Ontario-tavat a visszanevezéstől."
+      "summary": "Szombat hajnalban szóváltásba keveredtek, az RTL szerint a megtámadott két férfi egy nőt próbáltak megvédeni."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Unger: Már kiválasztották az ügyeket, amivel elindul a Vagyonvisszaszerzési Hivatal",
+      "link": "https://444.hu/2026/08/30/unger-mar-kivalasztottak-az-ugyeket-amivel-elindul-a-vagyonvisszaszerzesi-hivatal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Abban bízik, hogy a nyomozati munka szeptember végén el tud indulni."
+    },
+    {
+      "title": "Mélység határán: Miért merülsz le oda, ahova nem kéne?",
+      "link": "https://444.hu/2026/08/30/melyseg-hataran-miert-merulsz-le-oda-ahova-nem-kene?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Jeti Mozi bemutatja Antal Bendegúz Expedíció című dokusorozatának első részét, a Mélység határánt, amely egy magyar technikai búvárcsapat veszélyes roncsmerülésén keresztül mesél a felfedezés vágyáról, a csapatmunkáról és a mélység személyes vonzásáról."
+    },
+    {
+      "title": "Túl sokszor hallgattak, Krausz Ferenc otthagyta a Magyar Corvin-lánc Testületet",
+      "link": "https://444.hu/2026/08/30/tul-sokszor-hallgattak-krausz-ferenc-otthagyta-a-magyar-corvin-lanc-testuletet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Corvin-láncról is lemondott."
+    },
+    {
+      "title": "Vasárnap esti kvíz Németh Szilárddal: ez vajon mi?",
+      "link": "https://444.hu/2026/08/30/vasarnap-esti-kviz-nemeth-szilarddal-ez-vajon-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Összeugrott, de omlós, ropogós."
+    },
+    {
+      "title": "A láthatatlan óriás – Kégl András (1972–2026)",
+      "link": "https://444.hu/jo/2026/08/30/a-lathatatlan-orias-kegl-andras-19722026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az idén 30 éves BMC-ben 25 éve dolgozó Kégl András 2013-tól az intézmény könyvtárának vezetője volt. De ez még közel sem írja le, mi mindent csinált: a 21. század elejének magyar zeneszerzéstörténete nem írható meg az említése nélkül."
+    },
+    {
+      "title": "Kirúgták a Külügyből Szabó Bence kétszeres olimpiai bajnokot, aki nagykövetnek készült",
+      "link": "https://444.hu/2026/08/30/kirugtak-a-kulugybol-szabo-bence-ketszeres-olimpiai-bajnokot-aki-nagykovetnek-keszult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Még Szijjártóék kérték fel havannai nagykövetnek tavaly, a befogadó nyilatkozata a kormányváltás után érkezett meg - mondta Szabó az Indexnek. A Külügyminisztérium a 444-nek azt írta, folyamatban van egy magas szakmai színvonalon működő diplomáciai kar felépítése. Az interjút nem kommentálták."
+    },
+    {
+      "title": "Trump-hajú, gépfegyverrel lövöldöző ludakat posztolt Donald Trump azután, hogy átnevezte az Ontario-tavat Amerika-tóra",
+      "link": "https://444.hu/2026/08/30/trump-haju-gepfegyverrel-lovoldozo-ludakat-posztolt-donald-trump-azutan-hogy-atnevezte-az-ontario-tavat-amerika-tora?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Örül vagy fenyegetőzik?"
+    },
+    {
+      "title": "Semjén Zsolt: A kereszténydemokrácia önmagában megáll, de azt, hogy „mi a fideszesség&quot; nehezebb megmagyarázni”",
+      "link": "https://444.hu/2026/08/30/semjen-zsolt-a-keresztenydemokracia-onmagaban-megall-de-azt-hogy-mi-a-fideszesseg-nehezebb-megmagyarazni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A KDNP év végéig teljes tisztújítást tart, Semjén Zsolt pedig arról beszélt, ha leviszik 4 százalékra a parlamenti küszöböt, a következő választáson önállóan indulhatnak."
+    },
+    {
+      "title": "Pócs János attól tart, Navracsicsék miatt úgy járnak majd, mint az MSZP és a DK",
+      "link": "https://444.hu/2026/08/30/pocs-janos-attol-tart-navracsicsek-miatt-ugy-jarnak-majd-mint-az-mszp-es-a-dk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A fideszes képviselő csalódott két párttársa mozgalma miatt, szerinte ez a jobboldal megosztottságához vezethet, aminek a baloldalon is rossz vége lett."
+    },
+    {
+      "title": "Rajongóként kezdte, Trump „élő nyomtatója” lett – ki Natalie Harp, az amerikai elnök rejtélyes bizalmasa?",
+      "link": "https://444.hu/2026/08/30/rajongokent-kezdte-trump-elo-nyomtatoja-lett-ki-natalie-harp-az-amerikai-elnok-rejtelyes-bizalmasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az elmúlt hetekben az amerikai sajtó látványosan ráállt Natalie Harpra, Donald Trump egyik legközelebbi, mégis alig ismert emberére. A korábbi tévés műsorvezető rajongóként került az elnök közelébe, ma pedig kapuőrként követi mindenhova, beleszól abba, milyen információk jutnak el hozzá, és olyan befolyást szerzett, ami már Trump környezetében is feltűnést kelt."
+    },
     {
       "title": "Hét ember meghalt és 23 eltűnt, miután felborult egy komp Észak-Ciprus partjainál",
       "link": "https://444.hu/2026/08/30/csaknem-270-emberrel-a-fedelzeten-felborult-egy-komp-eszak-ciprus-partjainal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -102,150 +152,105 @@
       "title": "Lövöldözés volt egy svájci technopartin, egy ember meghalt, többen megsérültek",
       "link": "https://444.hu/2026/08/30/lovoldozes-volt-egy-svajci-technopartin-egy-ember-meghalt-tobben-megserultek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A bulizók először tűzijátéknak hitték a lövéseket."
-    },
-    {
-      "title": "Guzi Blanka világbajnok öttusában",
-      "link": "https://444.hu/2026/08/30/guzi-blanka-vilagbajnok-ottusaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Nagy menetelésben van."
-    },
-    {
-      "title": "Izland nemet mondott az uniós csatlakozási tárgyalásokra",
-      "link": "https://444.hu/2026/08/30/izland-nemet-mondott-az-unios-csatlakozasi-targyalasokra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Pár százalékon múlt."
-    },
-    {
-      "title": "Csak szeptemberre tudja biztosítani a közétkeztetést a kiskirálykodó zebegényi polgármester",
-      "link": "https://444.hu/2026/08/30/csak-szeptemberre-tudja-biztositani-a-kozetkeztetest-a-kiskiralykodo-zebegenyi-polgarmester?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Nincs elfogadott zárszámadás, így nincs pénz sem. A képviselő-testület nagy többsége időközi választást akar, a polgármester a fejlesztésekről szívesen beszél, a bajokról nem."
-    },
-    {
-      "title": "Vitézy minisztériuma 100 milliárd forint értékű vagyont vesz vissza a felszámolt kekváktól",
-      "link": "https://444.hu/2026/08/30/vitezy-miniszteriuma-100-milliard-forint-erteku-vagyont-vesz-vissza-a-felszamolt-kekvaktol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Azt ígéri, hogy nem lesz olyan szolgáltatás, amelynek a minősége romlani fog az új rendszerben."
-    },
-    {
-      "title": "A világ legbizonytalanabb utasa összehozta az év őrült reptéri sztoriját",
-      "link": "https://444.hu/2026/08/30/a-vilag-legbizonytalanabb-utasa-osszehozta-az-ev-orult-repteri-sztorijat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy magyar férfi a kifutón eldöntötte, hogy nem száll fel a gépére. Aztán meggondolta magát. Megérkezett Görögországba, de akkor meg nem akart leszállni. Végül ingyen utazott. Annyira hihetetlen a sztori, hogy a WizzAirhez fordultunk hitelesítésért."
-    },
-    {
-      "title": "Karácsony Gergely: szeptember 1-jétől visszatér a megszokott rend Budapesten",
-      "link": "https://444.hu/2026/08/30/karacsony-gergely-szeptember-1-jetol-visszater-a-megszokott-rend-budapesten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A járművek augusztusban energiamegtakarítási célzattal kevésbé intenzíven gyorsítottak és fékeztek. Ennek most vége."
-    },
-    {
-      "title": "Izzasztóan szoros az uniós tagságról szóló izlandi népszavazás állása",
-      "link": "https://444.hu/2026/08/30/izzasztoan-szoros-az-unios-tagsagrol-szolo-izlandi-nepszavazas-allasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A választás, ahol a halak fontosabbak, mint Trump."
-    },
-    {
-      "title": "A határ tibeti oldalán 261 külföldi eltűnését jelentették a földcsuszamlás után, köztük egy magyarét",
-      "link": "https://444.hu/2026/08/30/a-hatar-tibeti-oldalan-261-kulfoldi-eltuneset-jelentettek-a-foldcsuszamlas-utan-koztuk-egy-magyaret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A határ nepáli oldalán 2500 embert keresnek, a halálos áldozatok száma 734-nél jár. Kína a globális felmelegedést okolja a katasztrófa miatt, Nepál az éghajlatváltozás egyik fő áldozatának tartja magát."
-    },
-    {
-      "title": "Nincs még vége a nyárnak, az Alföldön figyelmeztetést adtak ki",
-      "link": "https://444.hu/2026/08/30/nincs-meg-vege-a-nyarnak-az-alfoldon-figyelmeztetest-adtak-ki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hétfőn meg jönnek a zivatarok."
-    },
-    {
-      "title": "Nem a becsületes utat választották: ötvenezer doboz sört loptak el Kaliforniában",
-      "link": "https://444.hu/2026/08/30/nem-a-becsuletes-utat-valasztottak-otvenezer-doboz-sort-loptak-el-kaliforniaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A cég megérti, hogy nagy volt a csábítás, de azért ultimátumot adtak."
     }
   ],
   "HVG": [
     {
-      "title": "Megkéselt két fiatalt egy 64 éves férfi Debrecenben – videón az elfogása",
-      "link": "https://hvg.hu/itthon/20260830_megkeselt-ket-fiatalt-egy-64-eves-ferfi-debrecenben",
-      "summary": "Az egyik áldozata életveszélyes sérüléseket szenvedett."
+      "title": "Krausz Ferenc lemondott a Corvin-láncról",
+      "link": "https://hvg.hu/itthon/20260830_krausz-ferenc-lemondott-a-corvin-lancrol",
+      "summary": "Kétszer is szembekerült a Magyar Corvin-lánc Testülettel."
     },
     {
-      "title": "Felborult egy komp több mint kétszáz utassal Észak-Ciprus partjainál",
-      "link": "https://hvg.hu/vilag/20260830_felborult-egy-komp-tobb-mint-ketszaz-utassal-eszak-ciprus-partjainal",
-      "summary": "A tragédiának a török média szerint több halálos áldozata is volt."
+      "title": "Üzletkötés Kínában: Mik a fő előnyök és kockázatok?",
+      "link": "https://hvg.hu/hvgkonyvek/20260830_uzletkotes-kinaban-mik-a-fo-elonyok-es-kockazatok",
+      "summary": "Kína hatalmas piac és lehetőség a magyar vállalatok számára – de ami előnynek tűnik, könnyen kockázattá is válhat. Holch Gábor Pandapóker című könyvében sorra veszi ezeket az előnyöket és kockázatokat. Szerkesztett részlet."
     },
     {
-      "title": "Megérkezett a YouTube filléres előfizetése – ennyit kell kicsengetni a részleges reklámmentességért",
-      "link": "https://hvg.hu/tudomany/20260830_google-youtube-premium-lite-olcsobb-elofizetes-megjelenes-ar",
-      "summary": "A videók többségét reklámmentessé teszi a YouTube új csomagja – mutatjuk, mit tud a normál előfizetésnél 41%-kal olcsóbb Premium Lite."
+      "title": "Lemondott a Vidék- és Településfejlesztési Minisztérium egyik helyettes államtitkára",
+      "link": "https://hvg.hu/itthon/20260830_lemondott-a-videk-es-telepulesfejlesztesi-miniszterium-egyik-helyettes-allamtitkara",
+      "summary": "Lőrincz Viktória a tárca vezetője elmondta, miért távozik a kollégájuk."
     },
     {
-      "title": "Negyven kilót fogyott, visszavonul Pásztor Erzsi",
-      "link": "https://hvg.hu/elet/20260830_visszavonul-pasztor-erzsi-szineszno-erdemes-muvesz-janka-neni-betegsege-visszavonul",
-      "summary": "Komoly megpróbáltatások és egy négyórás életmentő műtét után döntött úgy, hogy nem lép többé színpadra, bár a feje még bírná."
+      "title": "Nagykövetnek készült Havannába, végül külügyből is menesztették a kétszeres olimpiai bajnok Szabó Bencét",
+      "link": "https://hvg.hu/itthon/20260830_szabo-bence-havanna-nagykovet-kulugyminiszterium-kirugas",
+      "summary": "Szijjártó Péterék kérték fel nagykövetnek tavaly."
     },
     {
-      "title": "Látványosnak szánták, ijesztő lett: szinte súrolta egy rögbistadion tetejét egy utasszállító – videó",
-      "link": "https://hvg.hu/elet/20260830_airlink-repulogepek-alacsony-atrepules-fokvaros-rugbi-stadion",
-      "summary": "A szervezők szerint minden a terveknek megfelelően zajlott."
+      "title": "Meghalt a fiatal, akit szíven szúrtak Debrecenben",
+      "link": "https://hvg.hu/itthon/20260830_meghalt-az-egyik-fiatal-akit-sziven-szurtak-debrecenben-ebx",
+      "summary": "Szemtanúk szerint a fiatalok azért szóltak rá későbbi támadójukra, mert bántalmazott egy nőt."
     },
     {
-      "title": "Nem mindig a legnépszerűbb döntés a legjobb döntés – Magyar Péter zárógondolatai az NVVH-elnökválasztásról",
-      "link": "https://hvg.hu/itthon/20260830_vagyonvisszaszerzesi-hivatal-magyar-peter-unger-anna-nvvh-elnokvalasztas-felelosseg-kozvetett-kepivelet",
-      "summary": "Hosszú posztban magyarázza Magyar Péter a vagyonvisszaszerzési hivatal vezetőjéről szóló döntést. A kritikákat azzal háítja, hogy a közvetett képviseletből fakadóan ez elsősorban az ő felelősségük, és a cél a létező legerősebb hivatal felállítása."
+      "title": "Az ötlettől a tányérig – hogyan születik meg egy fogás a Monokini Kantin konyháján?",
+      "link": "https://hvg.hu/360/20260830_monokini-kantin-etlap-olimpia-garai-adam",
+      "summary": "Tormás fagyi, rája cavaszósszal – eredeti párosítások. Miből indul el egy ilyen étel? Hogyan lesz egy szkeccsből, néhány leírt ízből és textúrából végül egy olyan fogás, amely felkerül az étlapra? Honnan hová kell eljutnia a séfnek, milyen elvárásoknak kell megfelelnie a kész tányérnak? Garai Ádám két meghatározó fogáson keresztül avatott be minket a Monokini Kantin konyhájának mindennapi működésébe. Arról is szó esik, hogyan hatott az egykori Olimpia arra a gondolkodásra, amit ma is képvisel."
     },
     {
-      "title": "Letérkövezték a Dunából frissen kibukkant szigetet Szentendrénél",
-      "link": "https://hvg.hu/elet/20260830_kornyezetvedelem-zoldites-leterkoveztek-egy-frissen-a-dunabol-kibukkant-szigetet-szentendrenel",
-      "summary": "A zöldítés fontosságára hívta fel a figyelmet egy helyi környezetvédő csoport, amely Bélás-szigetnek keresztelte el a földdarabot."
+      "title": "Lackfi János: Ha elszúrod, agyonverlek",
+      "link": "https://hvg.hu/360/20260830_az-en-hetem-lackfi-janos-ha-elszurod-agyonverlek",
+      "summary": "Az én hetem című sorozatunkban négy író egymást váltva ír öt kulcsszót felhasználva arról, miként élte meg az elmúlt hetet. Lackfi Jánosnak most ez a készlet jutott: pitbull, írástudó, országvesztő, kataklizma, nyílthelyi."
     },
     {
-      "title": "„Sokszor álmodtam erről a pillanatról” – Guzi Blanka aranyérmes az öttusavébén",
-      "link": "https://hvg.hu/sport/20260830_guzi",
-      "summary": "Guzi Blanka – két ezüst után – aranyérmet nyert az öttusázók kínai világbajnokságán, Kujjangban."
+      "title": "A Fekete Zaj olyan, mint egy nagy család, csak idegesítő rokonok nélkül",
+      "link": "https://hvg.hu/kultura/20260830_a-fekete-zaj-olyan-mint-egy-nagy-csalad-csak-idegesito-rokonok-nelkul-fesztival-riport",
+      "summary": "Mit tud az egyik legkisebb magyar fesztivál, amit a nagyobbak nem? Miért érzi itt úgy magát az ember, mintha egy alternatív valóságba csöppenne? Ki nyerte az idei felhozatalból a legjobb zenekarnév versenyét? Riport a Fekete Zaj fesztiválról."
     },
     {
-      "title": "Atomháború? Ugyan már! A biológiai hadviselés aljasabb és megállíthatatlan",
-      "link": "https://hvg.hu/360/20260830_biologiai-hadviseles-annie-jacobsen-biological-war-halalos-virus",
-      "summary": "Egy véletlen is elég ahhoz, hogy ember által módosított pestis pusztítsa el szinte az egész emberiséget – erről szól Annie Jacobsen újabb figyelmeztető könyve."
+      "title": "A végére is jutott arany, 12 éremmel zártak a magyarok a kajak-kenu vb-n",
+      "link": "https://hvg.hu/sport/20260830_a-vegere-is-jutott-arany-12-eremmel-zartak-a-magyarok-a-kajak-kenu-vb-n",
+      "summary": "Egy arany és két ezüst 5000 méteren."
     },
     {
-      "title": "Vajon felkészült-e Európa a mocskos orosz trükkök új korszakára?",
-      "link": "https://hvg.hu/360/20260830_lapszemle-putyin-c-terv-trump-valasztas-elektromos-bicikli-mohacsi-vesz",
-      "summary": "Putyin C tervén, az AfD térnyerésén és Trump kudarcain kívül a mohácsi vész máig ható következményei is szóba kerültek a nemzetközi lapokban."
+      "title": "Itt vannak a hatoslottó nyerőszámai, de ne legyenek vérmes reményei",
+      "link": "https://hvg.hu/elet/20260830_ezek-a-hatoslotto-vasarnapi-nyeroszamai",
+      "summary": "Száznegyven milliót lehetett volna nyerni egy telitalálatos szelvénnyel."
     },
     {
-      "title": "Súlyosan sérült túrázót hoztak le a Csóványosról a hegyimentők",
-      "link": "https://hvg.hu/itthon/20260830_turazo-balesete-labtores-hegyi-mentes-borzsony-kulonleges-mentok-csovanyos-terepjaro",
-      "summary": "A nő megcsúszott a meredek lejtőn, hordágyon kellett elvinni a terepjárókhoz."
+      "title": "Trump gépfegyveres, parókás ludakkal ünnepelte, hogy átnevezett egy tavat, a Google már át is írta a térképein",
+      "link": "https://hvg.hu/elet/20260830_trump-amerika-to-ontario-to-google-maps-atnevezes",
+      "summary": "Mi jöhet még?"
     },
     {
-      "title": "Ez történt: Sok magyarnak 97 000 forint értékű ajándékot jelentett be a Google",
-      "link": "https://hvg.hu/tudomany/20260830_google-ai-plus-ingyen-oroszorszag-repulo-kanada-organic-maps-ingyenes-terkep-zombikartya-csalas-casio-f91w",
-      "summary": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit."
+      "title": "Semjén a bukás okairól: jobbszélre csúszás, gátlástalan oligarchák, Zelenszkij-téma",
+      "link": "https://hvg.hu/itthon/20260830_semjen-a-bukas-okairol-jobbszelre-csuszas-pofatlan-oligarchak-zelenszkij-tema",
+      "summary": "Év végére meg akar újulni a KDNP, Lakitelken az önkritika és a Fideszhez való viszony is előkerült."
     },
     {
-      "title": "Leszavazták az izlandiak az EU-tagságot",
-      "link": "https://hvg.hu/vilag/20260830_izland-nepszavazas-eu-tagsag-elutasitottak-nem",
-      "summary": "A reykjavíkiak többsége ugyan támogatta, de vidéken jóval többen voltak, akik nem akarják újrakezdeni a csatlakozási tárgyalásokat az Európai Unióval."
+      "title": "Propagandaüzlet a NER-ben, belpolitikai válság Ukrajnában │Elvitelre",
+      "link": "https://hvg.hu/itthon/20260830_propagandauzlet-a-ner-ben-belpolitikai-valsag-ukrajnaban-elvitelre",
+      "summary": "Elvitelre – a podcast, amelyben a hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk. A héten: leleplező szerződések és többfrontos védekezés."
     },
     {
-      "title": "Kigyulladt egy autó az M7-esen",
-      "link": "https://hvg.hu/itthon/20260830_kigyulladt-egy-auto-az-m7-esen-ebx",
-      "summary": "Zamárdi és Siófok között lezárták az autópályát."
+      "title": "A sokszínű padlizsán: a tojásgyümölcs ezeréves útja Ázsiától az erdélyi konyháig",
+      "link": "https://hvg.hu/360/20260830_padlizsan-7-tipp-tojasgyumolcs-gasztronomia",
+      "summary": "Egy 1500 éves kínai szakácskönyv receptjétől a bolgárkertészek örökségén és az erdélyi családi hagyományokon át egészen a grúz diós és a szecsuáni „halízű\" padlizsánig – vajon milyen utat járt be a nyárvég egyik legsokoldalúbb főszereplője, a padlizsán? 7+1 tipp a padlizsánról."
     },
     {
-      "title": "Két érmet nyertek a magyarok a kajak-kenu vb-n",
-      "link": "https://hvg.hu/sport/20260830_ket-ermet-nyertek-a-magyarok-a-kajak-kenu-vb-n",
-      "summary": "A magyar női kenu négyes ezüst-, a Kollár Kristóf, Juhász István kenu kettes pedig bronzérmet szerzett vasárnap délelőtt 500 méteren a poznani kajak-kenu világbajnokságon."
+      "title": "Egy kamerával kevesebb lehet a Samsung Galaxy S27 Ultrán, és ez talán egy jó hír",
+      "link": "https://hvg.hu/tudomany/20260830_samsung-galaxy-s27-ultra-kevesebb-kamera-valtozas",
+      "summary": "Elengedheti a következő Ultra-szériánál a háromszoros telefotókamerát a Samsung, ezzel azonban nem kapnak majd rosszabb képeket a felhasználók."
     }
   ],
   "BBC": [
+    {
+      "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
+      "link": "https://www.bbc.co.uk/news/articles/c5ymvdm5520o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rajendra Dawadi leapt into action after receiving warnings over waters heading towards his school."
+    },
     {
       "title": "PC Harper's killers to stay in jail as PM announces changes to early release scheme",
       "link": "https://www.bbc.co.uk/news/articles/crr4wd81pdpo?at_medium=RSS&at_campaign=rss",
       "summary": "Andy Burnham tells BBC Breakfast anyone convicted of manslaughter will be excluded from the early release scheme in the Sentencing Act."
     },
     {
-      "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes."
+      "title": "\"A giant leap forward\": Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
     },
     {
-      "title": "British woman killed in stabbing at German railway station",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
+      "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+      "summary": "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich."
     },
     {
       "title": "Church names pastor killed by falling sign at Christian festival",
@@ -253,29 +258,34 @@
       "summary": "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex."
     },
     {
-      "title": "Iceland votes against restarting talks on joining EU",
+      "title": "Police release one of two men arrested over fatal house fire",
+      "link": "https://www.bbc.co.uk/news/articles/c207r26qxwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police continue to question a 23-year-old man over the fire in which a girl, 7, and her aunt died."
+    },
+    {
+      "title": "Iceland votes against restarting EU membership talks",
       "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks."
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks."
     },
     {
-      "title": "China censors videos showing deadly flash floods on the Nepal-Tibet border",
-      "link": "https://www.bbc.co.uk/news/videos/c89jxgd93qyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Footage of the flash floods have become almost impossible to find on China’s heavily censored internet."
+      "title": "British woman killed in stabbing at German railway station",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
     },
     {
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
+      "title": "Woman injured in fatal police pursuit crash dies",
+      "link": "https://www.bbc.co.uk/news/articles/c62jzxn1klgo?at_medium=RSS&at_campaign=rss",
+      "summary": "She had been driving a car which was involved in a collision with an Audi being chased by police."
     },
     {
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China."
+      "title": "Burnham gets the early prison release changes he wanted - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cdx5zw4e2x9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister says he will keep hundreds more criminals behind bars but doing so requires complex changes."
     },
     {
-      "title": "What we know about the 33 British nationals missing in Nepal",
-      "link": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy."
+      "title": "Celebrating 60 years of Notting Hill Carnival",
+      "link": "https://www.bbc.co.uk/news/articles/c4gvze8p758o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crowds take to the streets of west London to enjoy family day in the bank holiday weekend sunshine."
     },
     {
       "title": "We all share a 15-acre Georgian mansion for the price of a two-bed house",
@@ -283,24 +293,14 @@
       "summary": "Co-housing residents live in a Grade II listed mansion for the same price as a two-bed house."
     },
     {
-      "title": "WhatsApp group chat used to send millions in cash, funding crime and extremism",
-      "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail."
-    },
-    {
-      "title": "I was told I was unworthy to be a mother, then they stole my baby",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0l0d38zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Marion McMillan was one of about 250,000 women who were forced to have their babies adopted between 1949 and 1976."
-    },
-    {
       "title": "They fell in love - then had to check they weren't brother and sister",
       "link": "https://www.bbc.co.uk/news/articles/c8en3n29wdro?at_medium=RSS&at_campaign=rss",
       "summary": "A French couple - both conceived by sperm donors - wanted children. But with home DNA tests illegal, how could they be sure they were not related?"
     },
     {
-      "title": "Mount Fuji pics, life-changing ramen and a weak yen - why young Brits are going to Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c7704l1ypjgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Photos of Mount Fuji, bowls of ramen and the bustle of Shibuya Crossing are filling up social media feeds."
+      "title": "Six ways parents could make the return to school a little easier",
+      "link": "https://www.bbc.co.uk/news/articles/c8rnp5m85jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parenting experts give their top tips on how to make sure back-to-school runs as smoothly as possible."
     },
     {
       "title": "Three rescued, two still missing as French fishing vessel sinks in Channel",
@@ -309,6 +309,21 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in."
+    },
+    {
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -368,21 +383,6 @@
       "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
       "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
       "summary": "There's a lot of capital pouring into the business of giving models away."
-    },
-    {
-      "title": "How Sweden built one of Europe’s hottest startup ecosystems",
-      "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
-      "summary": "Sophia Bendz, general partner at Cherry Ventures, stopped by Equity to break down the latest in the Swedish tech ecosystem."
-    },
-    {
-      "title": "More Americans oppose police license plate cameras than support them: survey",
-      "link": "https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/",
-      "summary": "The backlash against license plate readers comes amid a wave of police abuses of surveillance cameras."
-    },
-    {
-      "title": "Friend-focused photo-sharing app Retro snags $21M",
-      "link": "https://techcrunch.com/2026/08/28/friend-focused-photo-sharing-app-retro-snags-21m/",
-      "summary": "Retro, a friend-focused photo-sharing app built by former Instagram employees, has raised more than $21 million in Series A funding."
     }
   ],
   "Nature": [

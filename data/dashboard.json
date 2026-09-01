@@ -1,111 +1,101 @@
 {
   "hungary": [
     {
-      "title": "Orbán barátjához köthető negyedik zebra haláloka kiderült",
-      "summary": "Fény derült egy Orbán Viktor barátjához köthető negyedik zebra halálokára, ami újabb kérdéseket vet fel az ügy körül. A botrány a kormányfő környezetét érintő visszásságokra hívja fel a figyelmet.",
+      "title": "Tágítaná a vagyonelkobzás lehetőségeit a kormány",
+      "summary": "A kormány a vagyonelkobzás jogi lehetőségeit vizsgálná felül, hogy hatékonyabban léphessen fel a bűncselekményekből származó vagyon ellen. Ez a jogszabály-módosítás szélesebb körben tenné lehetővé az illegálisan szerzett javak elvételét.",
       "importance": 5
     },
     {
-      "title": "Házkutatások a túlárazott nyuszimotorok ügyében",
-      "summary": "Több helyszínen tartott a rendőrség házkutatást a Fideszhez köthető, túlárazott játékmotor-beszerzések ügyében. Az eset a közpénzek elköltésének átláthatatlanságára utal.",
+      "title": "A kormány ingyen adna több belvárosi területet a fővárosnak 99 évre",
+      "summary": "A kormány ingyenesen átadna számos, a főváros számára kiemelt jelentőségű belvárosi közterületet 99 évre. Ez a lépés hosszú távú hatással lehet a városfejlesztésre és a főváros és kormány közötti viszonyra.",
       "importance": 4
     },
     {
-      "title": "Szijjártó Péter luxusrepülőt bérelt 257 millióért egy háromnapos útra",
-      "summary": "Szijjártó Péter és kísérete 257 millió forintért bérelt luxusrepülőt egy háromnapos hivatalos útra. Az eset a kormányzati költések átláthatóságával és mértékével kapcsolatban vet fel kérdéseket.",
+      "title": "Kivezetnék a készpénzt a palackvisszaváltásból",
+      "summary": "A Mohu tervei szerint fokozatosan kivezetnék a készpénzes kifizetést a palackvisszaváltó automatákból. Ez a változás a visszaváltási rendszer digitalizációját és modernizálását célozza.",
       "importance": 4
     },
     {
-      "title": "A Szabályozott Tevékenységek Felügyeleti Hatósága a megszüntetéséről szóló hírekre reagált",
-      "summary": "A Szabályozott Tevékenységek Felügyeleti Hatósága (SZTFH) közleményben reagált azokra a hírekre, melyek szerint a kormány vizsgálja a szervezet megszüntetését. A hatóság hangsúlyozta függetlenségét és működésének fontosságát.",
+      "title": "Szabadnapot kapnak a rendőrök a születésnapjukon",
+      "summary": "Szeptembertől kezdve minden rendőr szabadnapot kap a születésnapján, ezzel honorálva a munkájukat. Az intézkedés a rendőrségi állomány moráljának javítását szolgálja.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Pokolgépes robbantás egy elektromos elosztó központnál Németországban",
-      "summary": "Pokolgépet robbantottak fel egy elektromos elosztó központnál Kelet-Németországban, ami súlyos fennakadásokat okozott. A hatóságok terrorcselekményként kezelik az esetet és vizsgálják az elkövetőket.",
+      "title": "Az Egyesült Államok újabb légitámadást indított iráni célpontok ellen",
+      "summary": "Az Egyesült Államok újabb légicsapásokat hajtott végre iráni célpontok ellen a Közel-Keleten, válaszul a régióban történt támadásokra. Ez a lépés tovább növeli a feszültséget a térségben.",
       "importance": 5
     },
     {
-      "title": "Keir Starmer, a brit Munkáspárt vezetője lemond képviselői mandátumáról",
-      "summary": "Keir Starmer, a brit Munkáspárt vezetője bejelentette, hogy lemond képviselői mandátumáról. A döntés meglepte a politikai életet, és spekulációkat váltott ki jövőbeli szerepével kapcsolatban.",
+      "title": "Németország szerint Oroszország áll a lipcsei reptéri dróntámadás mögött",
+      "summary": "A német belügyminiszter kijelentette, hogy Oroszország felelős a lipcsei repülőtér elleni dróntámadásért, ami komoly biztonsági aggályokat vet fel. Az incidens tovább élezi a diplomáciai feszültséget Moszkva és Nyugat között.",
       "importance": 5
     },
     {
-      "title": "India miniszterelnöke felszólította Putyint az ukrajnai háború befejezésére",
-      "summary": "Modi indiai miniszterelnök sürgette Putyin orosz elnököt, hogy vessen véget az ukrajnai háborúnak. A felhívás diplomáciai nyomásgyakorlásként értelmezhető a konfliktus lezárására.",
+      "title": "Az indiai miniszterelnök felszólította Putyint a háború befejezésére",
+      "summary": "Az indiai miniszterelnök, Narendra Modi, nyíltan felszólította Vlagyimir Putyint az ukrajnai háború befejezésére. Ez a megnyilatkozás egy fontos szövetséges részéről jelentős diplomáciai nyomást gyakorol Oroszországra.",
       "importance": 4
     },
     {
-      "title": "A norvég Haakon esküt tett az új királyként",
-      "summary": "Haakon, a norvég koronaherceg letette az esküt, és ezzel hivatalosan is elfoglalta a norvég trónt apja halála után. A szertartás után a gyászolók tiszteletüket fejezték ki az elhunyt király előtt.",
+      "title": "Britanniában és Belgiumban is rekordmeleget hozott az idei nyár",
+      "summary": "Az idei nyár történelmi rekordokat döntött meg a hőség tekintetében Nagy-Britanniában és Belgiumban egyaránt. Ez a jelenség rávilágít a klímaváltozás súlyosbodására és annak közvetlen hatásaira.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple „sokkoló bizonyítékokat” tárt fel egy volt alkalmazott ellen, aki adatokat lopott az OpenAI-nak",
-      "summary": "Az Apple „sokkoló bizonyítékokat” mutatott be egy volt alkalmazottja ellen, akit azzal vádolnak, hogy céges adatokat lopott és adott át az OpenAI-nak. Az ügy rávilágít a mesterséges intelligencia területén zajló éles versenyre és az adatbiztonsági aggodalmakra.",
+      "title": "A Google válasza a Canvára egy AI eszköz, amivel promptokkal tervezhetünk",
+      "summary": "A Google bemutatta a Canva riválisát, egy új mesterséges intelligencia alapú tervezőeszközt, amely szöveges parancsok alapján generál grafikákat. Ez a fejlesztés forradalmasíthatja a grafikai tervezést és széles körben elérhetővé teheti az AI-alapú kreatív eszközöket.",
       "importance": 5
     },
     {
-      "title": "A Pentagon kifejlesztette saját ChatGPT és Grok-szerű mesterséges intelligenciáját",
-      "summary": "A Pentagon bejelentette, hogy elkészítette saját, ChatGPT-hez és Grokhoz hasonló mesterséges intelligencia rendszerét. Ez a fejlesztés új szintre emeli az AI alkalmazását a védelmi szektorban, és felveti az etikai kérdéseket a katonai felhasználás kapcsán.",
+      "title": "Kína megcsinálta: lézerrel mehet a szélsebes internet a Holdra",
+      "summary": "Kínai kutatók sikeresen kifejlesztettek egy lézeres technológiát, amely rendkívül gyors internetkapcsolatot biztosíthat a Holdra. Ez a fejlesztés alapvető fontosságú lehet a jövőbeli holdkutatási missziók és a Holdon való emberi jelenlét számára.",
       "importance": 5
     },
     {
-      "title": "Az Amazon titkos hirdetési felárat szed ügyfeleitől az FTC vádjai szerint",
-      "summary": "Az Amerikai Szövetségi Kereskedelmi Bizottság (FTC) beperelte az Amazont, azzal vádolva, hogy titkos hirdetési felárat számít fel ügyfeleinek. Az ügy rámutat a techóriások piaci gyakorlatainak szabályozási szükségességére.",
+      "title": "A ChatGPT Health Epic integrációt kapott, amivel az orvosok importálhatják a betegadatokat",
+      "summary": "A ChatGPT Health integrációt kapott az Epic rendszerrel, lehetővé téve a klinikusok számára a betegadatok importálását. Ez az innováció jelentősen felgyorsíthatja a diagnózist és a kezelési tervek kidolgozását az egészségügyben.",
       "importance": 4
     },
     {
-      "title": "A Waymo felgyorsítja robotaxi szolgáltatásának bővítését három új városban",
-      "summary": "A Waymo felgyorsítja robotaxi szolgáltatásának terjeszkedését, Denverben, San Diegóban és Tampában is elindítja működését. Ez a lépés jelentősen hozzájárul az önvezető járművek szélesebb körű elterjedéséhez.",
+      "title": "Florida és Texas blokkolná a Flock kamerákat az adatvédelmi aggályok miatt",
+      "summary": "Florida és Texas államok lépéseket tesznek a Flock kamerarendszerek blokkolására, hivatkozva súlyos adatvédelmi aggályokra. Ez a döntés komoly vitát indíthat el a megfigyelési technológiák és a polgári szabadságjogok egyensúlyáról.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Mi a felelősség, amikor a mesterséges intelligencia tudományt művel?",
-      "summary": "A Nature lapban felvetődik a kérdés, hogy ki a felelős, ha a mesterséges intelligencia hibázik a tudományos kutatásban. Az etikai dilemmák és az AI autonómiája körüli viták egyre élesebbé válnak a tudományban.",
+      "title": "Ez az első pillantás a sötét anyagra? Az adatok izgalomba hozzák a fizikusokat",
+      "summary": "Fizikusok izgalmas adatokra bukkantak, amelyek az első közvetlen jelei lehetnek a sötét anyagnak. Ez az áttörés új fejezetet nyithat az univerzum alapvető összetevőinek megértésében.",
       "importance": 5
     },
     {
-      "title": "A globális műanyag egyezménynek figyelembe kell vennie a konfliktusok okozta energiaellátási bizonytalanságot",
-      "summary": "A készülő globális műanyag egyezménynek a konfliktusok miatti energiaellátási bizonytalanságokat is kezelnie kell. Ez a tényező befolyásolhatja a műanyaggyártás és -feldolgozás jövőjét, valamint a környezetvédelmi célkitűzéseket.",
+      "title": "A genom minden DNS-betűjének mutációja meglepő hatásokat és az AI korlátait mutatja",
+      "summary": "Egy genom minden egyes DNS-betűjének mutációja meglepő hatásokat tárt fel, egyúttal rávilágítva a mesterséges intelligencia korlátaira a biológiai komplexitás előrejelzésében. Ez a kutatás mélyebb betekintést nyújt a genetikai kód működésébe.",
+      "importance": 5
+    },
+    {
+      "title": "Ha az AI végez tudományos munkát, ki a felelős a hibákért?",
+      "summary": "Ahogy a mesterséges intelligencia egyre nagyobb szerepet kap a tudományos kutatásban, felmerül a kérdés, ki viseli a felelősséget az esetleges hibákért. Ez az etikai dilemma sürgős megoldást igényel az AI tudományos alkalmazásának fejlődésével.",
       "importance": 4
     },
     {
-      "title": "Rekordmeleg volt a 2026-os nyár az Egyesült Királyságban a Met Office szerint",
-      "summary": "Az Egyesült Királyság meteorológiai hivatala (Met Office) szerint 2026 nyara volt a legmelegebb a feljegyzések kezdete óta. Ez az adat megerősíti a klímaváltozás hatásait és a hőmérsékleti extrémumok növekedését.",
+      "title": "Ezek az üvegházhatású gázforrások lábakkal és ormányokkal rendelkeznek",
+      "summary": "A kutatások rávilágítottak, hogy a mezőgazdasági állatok, különösen a \"lábakkal és ormányokkal rendelkező\" fajok, jelentős üvegházhatású gázforrást jelentenek. Ez a felismerés kulcsfontosságú a klímaváltozás elleni küzdelemben és az élelmiszertermelés fenntarthatóságában.",
       "importance": 4
-    },
-    {
-      "title": "Ingyenes HPV elleni védőoltás igényelhető ebben a tanévben is",
-      "summary": "Ebben a tanévben is ingyenesen igényelhető a HPV elleni védőoltás a megfelelő korosztály számára. A program célja a humán papillomavírus okozta betegségek, köztük bizonyos rákos megbetegedések megelőzése.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Djokovic jövője bizonytalan könnyeztető veresége után",
-      "summary": "Novak Djokovic könnyes veresége után bizonytalanná vált a jövője a teniszpályán. A sportoló megrendülten nyilatkozott, ami spekulációkat indított el karrierjének folytatásáról.",
+      "title": "Meghalt az úszóválogatott korábbi kapitánya, Tóth Ákos",
+      "summary": "Elhunyt Tóth Ákos, az úszóválogatott korábbi kapitánya, aki hosszú pályafutása során számos sikert ért el és generációkat inspirált. Halála mély fájdalmat okoz a magyar sportközösségnek.",
       "importance": 5
     },
     {
-      "title": "Dokumentumfilm készült Raygunról, az olimpián gyűlölettel szembesült ausztrál breaktáncosról",
-      "summary": "Dokumentumfilm készült az ausztrál breaktáncosról, Raygunról, akire gyűlöletcunami zúdult a párizsi olimpián. A film bemutatja, hogyan dolgozza fel az olimpiai élményt és a közösségi média reakcióit.",
-      "importance": 4
-    },
-    {
-      "title": "Túl hangos a Forma-1 a madridiaknak",
-      "summary": "A Forma-1 tervezett madridi futama körül zajszennyezési aggodalmak merültek fel a helyi lakosok körében. A madridiak attól tartanak, hogy a verseny túlságosan hangos lesz a városban.",
-      "importance": 3
-    },
-    {
-      "title": "A magyar válogatott védője Olaszországból Belgiumba igazolt",
-      "summary": "A magyar válogatott védője Olaszországból Belgiumba igazolt, új csapathoz csatlakozva. Az átigazolás reményt ad a játékosnak a további fejlődésre és a rendszeres játéklehetőségre.",
+      "title": "„Sok időbe telt feldolgoznom az olimpiai breaking élményét” – mondja Raygun",
+      "summary": "Raygun, az olimpiai breaking sportoló, elmondta, hogy hosszú időre volt szüksége az olimpián szerzett élményeinek feldolgozásához. Az interjú betekintést enged a sportolók mentális kihívásaiba és az élsportolói lét pszichológiai terhébe.",
       "importance": 3
     }
   ]

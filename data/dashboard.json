@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Tágítaná a vagyonelkobzás lehetőségeit a kormány",
-      "summary": "A kormány a vagyonelkobzás jogi lehetőségeit vizsgálná felül, hogy hatékonyabban léphessen fel a bűncselekményekből származó vagyon ellen. Ez a jogszabály-módosítás szélesebb körben tenné lehetővé az illegálisan szerzett javak elvételét.",
+      "title": "Titokban 500 milliárd forintot osztottak szét Orbánék a választás előtt",
+      "summary": "A kormány a 2022-es országgyűlési választások előtti hónapokban titokban közel 500 milliárd forintnyi kifizetésről döntött. Ezen összegeket részben olyan cégeknek és alapítványoknak juttatták, amelyek kapcsolatban állnak a kormányzattal.",
       "importance": 5
     },
     {
-      "title": "A kormány ingyen adna több belvárosi területet a fővárosnak 99 évre",
-      "summary": "A kormány ingyenesen átadna számos, a főváros számára kiemelt jelentőségű belvárosi közterületet 99 évre. Ez a lépés hosszú távú hatással lehet a városfejlesztésre és a főváros és kormány közötti viszonyra.",
+      "title": "NEAK-főigazgató: Vannak gyógyszerek, amiket két és félszer drágábban szerzünk be, mint Nyugat-Európa",
+      "summary": "A Nemzeti Egészségbiztosítási Alapkezelő főigazgatója szerint bizonyos gyógyszereket Magyarországon lényegesen magasabb áron vásárolnak, mint a nyugat-európai országokban. Ez a jelenség komoly terhet jelent az egészségügyi költségvetés számára.",
+      "importance": 5
+    },
+    {
+      "title": "A kormányváltás óta nem volt még ilyen gyenge a forint",
+      "summary": "A magyar forint árfolyama a 2022-es kormányváltás óta nem volt még ennyire kedvezőtlen, ami jelentős gazdasági aggodalmakat vet fel. A gyenge valuta hatással van az importárakra és az inflációra.",
       "importance": 4
     },
     {
-      "title": "Kivezetnék a készpénzt a palackvisszaváltásból",
-      "summary": "A Mohu tervei szerint fokozatosan kivezetnék a készpénzes kifizetést a palackvisszaváltó automatákból. Ez a változás a visszaváltási rendszer digitalizációját és modernizálását célozza.",
+      "title": "Nyilvánossá válnak a kórházi fertőzések adatai egy kereshető adatbázisban",
+      "summary": "Csütörtök este élesedik az a nyilvános, kereshető adatbázis, amely a magyarországi kórházi fertőzések adatait tartalmazza. Ez a lépés növeli az egészségügyi rendszer átláthatóságát.",
       "importance": 4
-    },
-    {
-      "title": "Szabadnapot kapnak a rendőrök a születésnapjukon",
-      "summary": "Szeptembertől kezdve minden rendőr szabadnapot kap a születésnapján, ezzel honorálva a munkájukat. Az intézkedés a rendőrségi állomány moráljának javítását szolgálja.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Az Egyesült Államok újabb légitámadást indított iráni célpontok ellen",
-      "summary": "Az Egyesült Államok újabb légicsapásokat hajtott végre iráni célpontok ellen a Közel-Keleten, válaszul a régióban történt támadásokra. Ez a lépés tovább növeli a feszültséget a térségben.",
+      "title": "Gáza: Több mint 900 halott a tűzszünet ellenére",
+      "summary": "A Hamász irányította egészségügyi minisztérium jelentése szerint idén több mint 900 ember vesztette életét Gázában, a tűzszüneti megállapodások ellenére. A folyamatos erőszak súlyos humanitárius válságot okoz a térségben.",
       "importance": 5
     },
     {
-      "title": "Németország szerint Oroszország áll a lipcsei reptéri dróntámadás mögött",
-      "summary": "A német belügyminiszter kijelentette, hogy Oroszország felelős a lipcsei repülőtér elleni dróntámadásért, ami komoly biztonsági aggályokat vet fel. Az incidens tovább élezi a diplomáciai feszültséget Moszkva és Nyugat között.",
+      "title": "Német külügyminiszter: Oroszország eszkalált, viselnie kell a következményeket",
+      "summary": "A német külügyminiszter figyelmeztette Oroszországot, hogy a konfliktus eszkalációja következményekkel jár majd. A nyilatkozat az Ukrajna elleni orosz invázióval kapcsolatos nemzetközi feszültségeket tükrözi.",
       "importance": 5
     },
     {
-      "title": "Az indiai miniszterelnök felszólította Putyint a háború befejezésére",
-      "summary": "Az indiai miniszterelnök, Narendra Modi, nyíltan felszólította Vlagyimir Putyint az ukrajnai háború befejezésére. Ez a megnyilatkozás egy fontos szövetséges részéről jelentős diplomáciai nyomást gyakorol Oroszországra.",
+      "title": "Zelenszkij leváltotta az ukrán szárazföldi erők parancsnokát",
+      "summary": "Volodimir Zelenszkij ukrán elnök leváltotta az ukrán szárazföldi erők parancsnokát. Ez a lépés a háború további alakulása szempontjából jelentős személyi változást jelent a katonai vezetésben.",
       "importance": 4
     },
     {
-      "title": "Britanniában és Belgiumban is rekordmeleget hozott az idei nyár",
-      "summary": "Az idei nyár történelmi rekordokat döntött meg a hőség tekintetében Nagy-Britanniában és Belgiumban egyaránt. Ez a jelenség rávilágít a klímaváltozás súlyosbodására és annak közvetlen hatásaira.",
+      "title": "Rosenberg: Putyin burkolt fenyegetése az Egyesült Királyság ellen az orosz nyugatellenes kampány része",
+      "summary": "Putyin burkolt fenyegetései az Egyesült Királyság felé az Oroszország és a Nyugat közötti szélesebb körű információs és politikai háború részét képezik. Ez a retorika tovább növeli a nemzetközi feszültséget és aggodalmat.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google válasza a Canvára egy AI eszköz, amivel promptokkal tervezhetünk",
-      "summary": "A Google bemutatta a Canva riválisát, egy új mesterséges intelligencia alapú tervezőeszközt, amely szöveges parancsok alapján generál grafikákat. Ez a fejlesztés forradalmasíthatja a grafikai tervezést és széles körben elérhetővé teheti az AI-alapú kreatív eszközöket.",
+      "title": "Az Uber elbocsátja alkalmazottainak 10%-át, 3300 embert",
+      "summary": "Az Uber bejelentette, hogy alkalmazottainak 10%-át, mintegy 3300 embert bocsát el a költségek csökkentése és a hatékonyság növelése érdekében. Az elbocsátások a technológiai szektorban tapasztalható szélesebb körű trendet tükrözik.",
       "importance": 5
     },
     {
-      "title": "Kína megcsinálta: lézerrel mehet a szélsebes internet a Holdra",
-      "summary": "Kínai kutatók sikeresen kifejlesztettek egy lézeres technológiát, amely rendkívül gyors internetkapcsolatot biztosíthat a Holdra. Ez a fejlesztés alapvető fontosságú lehet a jövőbeli holdkutatási missziók és a Holdon való emberi jelenlét számára.",
+      "title": "Az OpenAI újabb 30 perrel néz szembe a Tumbler Ridge-i lövöldözés miatt",
+      "summary": "Az OpenAI további 30 peres eljárással szembesül, amelyek a Tumbler Ridge-i lövöldözéshez kapcsolódnak, felvetve az AI tartalom generálásával és annak etikai felelősségével kapcsolatos kérdéseket. Az ügy rávilágít az AI-fejlesztők jogi és morális kihívásaira.",
       "importance": 5
     },
     {
-      "title": "A ChatGPT Health Epic integrációt kapott, amivel az orvosok importálhatják a betegadatokat",
-      "summary": "A ChatGPT Health integrációt kapott az Epic rendszerrel, lehetővé téve a klinikusok számára a betegadatok importálását. Ez az innováció jelentősen felgyorsíthatja a diagnózist és a kezelési tervek kidolgozását az egészségügyben.",
+      "title": "Közeleg az OpenAI Astra modellje, amely kiválóan feltöri a számítógépes rendszereket",
+      "summary": "Az OpenAI új Astra modellje jelentős előrelépést mutat az AI képességeiben, beleértve a számítógépes rendszerek feltörésének képességét is. Ez a fejlesztés új kérdéseket vet fel a mesterséges intelligencia biztonsági kockázatairól és alkalmazásairól.",
       "importance": 4
     },
     {
-      "title": "Florida és Texas blokkolná a Flock kamerákat az adatvédelmi aggályok miatt",
-      "summary": "Florida és Texas államok lépéseket tesznek a Flock kamerarendszerek blokkolására, hivatkozva súlyos adatvédelmi aggályokra. Ez a döntés komoly vitát indíthat el a megfigyelési technológiák és a polgári szabadságjogok egyensúlyáról.",
+      "title": "A 4iG 2027-től elhozza Magyarországra Elon Musk Starlink szolgáltatását",
+      "summary": "A 4iG telekommunikációs vállalat bejelentette, hogy 2027-től elérhetővé teszi Magyarországon Elon Musk Starlink műholdas internetszolgáltatását. Ez a lépés új lehetőségeket nyithat a nagysebességű internet-hozzáférés terén, különösen a kevésbé ellátott területeken.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Ez az első pillantás a sötét anyagra? Az adatok izgalomba hozzák a fizikusokat",
-      "summary": "Fizikusok izgalmas adatokra bukkantak, amelyek az első közvetlen jelei lehetnek a sötét anyagnak. Ez az áttörés új fejezetet nyithat az univerzum alapvető összetevőinek megértésében.",
+      "title": "Az ENSZ végre elismerte, hogy a globális felmelegedés túllépi az 1,5 °C-os klímacélt",
+      "summary": "Az ENSZ elismerte, hogy a globális felmelegedés valószínűleg túllépi a Párizsi Klímaegyezményben kitűzött 1,5 Celsius-fokos korlátot. Ez a bejelentés sürgető cselekvésre ösztönöz a klímaváltozás elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "A genom minden DNS-betűjének mutációja meglepő hatásokat és az AI korlátait mutatja",
-      "summary": "Egy genom minden egyes DNS-betűjének mutációja meglepő hatásokat tárt fel, egyúttal rávilágítva a mesterséges intelligencia korlátaira a biológiai komplexitás előrejelzésében. Ez a kutatás mélyebb betekintést nyújt a genetikai kód működésébe.",
+      "title": "Áttörés a sötét anyag kutatásában",
+      "summary": "A tudósok áttörést érhettek el a rejtélyes sötét anyag kutatásában, amely az univerzum nagy részét alkotja, de eddig észlelhetetlen maradt. Ez a felfedezés alapvetően változtathatja meg a kozmoszról alkotott képünket.",
       "importance": 5
     },
     {
-      "title": "Ha az AI végez tudományos munkát, ki a felelős a hibákért?",
-      "summary": "Ahogy a mesterséges intelligencia egyre nagyobb szerepet kap a tudományos kutatásban, felmerül a kérdés, ki viseli a felelősséget az esetleges hibákért. Ez az etikai dilemma sürgős megoldást igényel az AI tudományos alkalmazásának fejlődésével.",
+      "title": "Mikor vezetnek a fertőzések tartós COVID-hoz? A tudósok közel járnak a kiváltó okokhoz és a kezelésekhez",
+      "summary": "A tudósok intenzíven kutatják, hogy milyen tényezők vezetnek egyes fertőzések után tartós COVID-hoz és más posztvirális szindrómákhoz. Reményeik szerint hamarosan azonosíthatják a kiváltó okokat és hatékony kezeléseket dolgozhatnak ki.",
       "importance": 4
     },
     {
-      "title": "Ezek az üvegházhatású gázforrások lábakkal és ormányokkal rendelkeznek",
-      "summary": "A kutatások rávilágítottak, hogy a mezőgazdasági állatok, különösen a \"lábakkal és ormányokkal rendelkező\" fajok, jelentős üvegházhatású gázforrást jelentenek. Ez a felismerés kulcsfontosságú a klímaváltozás elleni küzdelemben és az élelmiszertermelés fenntarthatóságában.",
+      "title": "Ha az MI végez tudományos munkát, ki a felelős a hibákért?",
+      "summary": "Az AI egyre nagyobb szerepet játszik a tudományos kutatásban, felvetve a kérdést, hogy ki viseli a felelősséget, ha a mesterséges intelligencia hibás eredményekhez vezet. Ez a dilemma új etikai és jogi kihívásokat jelent a tudomány számára.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Meghalt az úszóválogatott korábbi kapitánya, Tóth Ákos",
-      "summary": "Elhunyt Tóth Ákos, az úszóválogatott korábbi kapitánya, aki hosszú pályafutása során számos sikert ért el és generációkat inspirált. Halála mély fájdalmat okoz a magyar sportközösségnek.",
-      "importance": 5
+      "title": "Olimpiai bronzérmes súlylökő a Magyar Atlétikai Szövetség új elnöke",
+      "summary": "Egy korábbi olimpiai bronzérmes súlylökő lett a Magyar Atlétikai Szövetség új elnöke. Ez a kinevezés új irányt adhat a magyar atlétika jövőjének.",
+      "importance": 4
     },
     {
-      "title": "„Sok időbe telt feldolgoznom az olimpiai breaking élményét” – mondja Raygun",
-      "summary": "Raygun, az olimpiai breaking sportoló, elmondta, hogy hosszú időre volt szüksége az olimpián szerzett élményeinek feldolgozásához. Az interjú betekintést enged a sportolók mentális kihívásaiba és az élsportolói lét pszichológiai terhébe.",
+      "title": "Rekordösszegű átigazolási ablak: Hogyan erősödtek a topligás klubok?",
+      "summary": "A labdarúgás öt legnagyobb klubja rekordösszegű átigazolásokkal erősítette meg keretét a bajnoki címért folytatott küzdelemre. Az átigazolási szezon jelentős pénzügyi mozgásokat hozott a sportágban.",
+      "importance": 4
+    },
+    {
+      "title": "Meglepődött a Manchester United sztárja, fia Szoboszlaiért rajong",
+      "summary": "Egy Manchester United sztárjátékos meglepődve vette tudomásul, hogy fia a magyar Szoboszlai Dominiknak szurkol. Ez az anekdota jól mutatja a magyar játékos nemzetközi népszerűségét.",
       "importance": 3
+    },
+    {
+      "title": "Kushner védelme a FIFA botrányban, Elon Musk ügyvédjével",
+      "summary": "A Thrive cég vezetője, Kushner megvédi a FIFA-botrányban való érintettségét, és ehhez Elon Musk jól ismert ügyvédjét fogadta fel. A hír rávilágít a nemzetközi sportirányítás körüli jogi és etikai kihívásokra.",
+      "importance": 2
     }
   ]
 }

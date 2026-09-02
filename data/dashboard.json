@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Az idei augusztus volt a valaha mért legmelegebb hónap itthon",
-      "summary": "Magyarországon az idei augusztus volt a mérések kezdete óta a legmelegebb hónap, meghaladva az eddigi rekordokat. Ez a klímaváltozás hatásait jelzi, és kiemelkedő jelentőségű az éghajlati adatok szempontjából.",
+      "title": "Rekordmeleg augusztus volt Magyarországon",
+      "summary": "Idén augusztus volt a valaha mért legmelegebb hónap Magyarországon, ezzel is kiemelve a klímaváltozás hazai hatásait. A szélsőséges időjárás egyre gyakrabban jelentkezik.",
       "importance": 5
     },
     {
-      "title": "Nyomozás indult Orbán Viktor közösségi médiás szerződései miatt",
-      "summary": "Vizsgálat indult a miniszterelnök közösségi média kampányaihoz kapcsolódó szerződések gyanús körülményei miatt. Az ügy a korrupciógyanús szerződések arányának növekedésével függ össze a választások előtt.",
-      "importance": 5
-    },
-    {
-      "title": "Beidézik Varga Juditot, Novák Katalint és Kónya Endrét a kegyelmi ügyben",
-      "summary": "A kegyelmi ügyet vizsgáló bizottság beidézi a korábbi igazságügyi minisztert és köztársasági elnököt, valamint Kónya Endrét. Az ügy nagy port kavart a magyar közéletben, és politikai következményekkel járt.",
+      "title": "Magyar Péter az Európai Tanács elnökével tárgyalt Budapesten",
+      "summary": "Magyar Péter, a Tisza Párt vezetője, Charles Michellel, az Európai Tanács elnökével találkozott Budapesten. A tárgyaláson feltehetően az uniós ügyek és a magyar belpolitika állása volt a fő téma.",
       "importance": 4
     },
     {
-      "title": "A magyar kormány harmadszorra is blokkolta Ukrajna EU-csatlakozási folyamatát",
-      "summary": "Magyarország ismét megvétózta Ukrajna uniós csatlakozási folyamatának elindítását, ami feszültséget okoz az EU és a tagállamok között. Ez a lépés jelentősen befolyásolja Ukrajna európai integrációját és a regionális politikát.",
+      "title": "Nyomozás indult Orbán közösségi médiás szerződései miatt",
+      "summary": "Hűtlen kezelés gyanújával indított nyomozást a rendőrség Orbán Viktor miniszterelnök közösségi médiás kampányaihoz kapcsolódó szerződések ügyében. A vizsgálat a költségvetési pénzek felhasználását érinti.",
       "importance": 4
+    },
+    {
+      "title": "9 év után ismét beléphetett a Helsinki Bizottság egy magyar börtönbe",
+      "summary": "A Magyar Helsinki Bizottság közel egy évtizedes szünet után újra látogathatott egy magyar börtönt, ami fontos lépés az emberi jogi szervezetek ellenőrzési jogának helyreállítása felé. Ez növelheti az intézmények átláthatóságát.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij drónokkal támadná Oroszország légi közlekedését",
-      "summary": "Az ukrán elnök drónok ezreivel tervezné megbénítani az orosz légi közlekedést. Oroszország szerint felkészültek a támadásokra.",
+      "title": "Tűzpárbaj alakult ki Kijevben két ukrán titkosszolgálat között",
+      "summary": "Kijevben fegyveres tűzpárbajra került sor Ukrajna két jelentős titkosszolgálata között, ami belső feszültségekre és koordinációs problémákra utalhat a háború sújtotta országban. Az eset aggodalmat kelt a stabilitással kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Az EU és a NATO fokozott nyomást ígér Oroszországra az \"új eszkaláció\" után",
-      "summary": "Az Európai Unió és a NATO fokozott nyomásgyakorlást helyezett kilátásba Oroszországgal szemben, miután Németországban „újabb eszkaláció” történt. Ez a nemzetközi válaszlépés a feszültség növekedésére utal.",
-      "importance": 5
-    },
-    {
-      "title": "Marokkó szándékosan terelhette migrációs hullámot Ceuta felé",
-      "summary": "Spanyolországban botrányt okozott egy jelentés, amely szerint Marokkó szándékosan irányíthatta a ceutai migrációs hullámot spanyol területre. Az ügy diplomáciai feszültséget és migrációs válságot okozott.",
+      "title": "Szerb diáktüntetések szervezőit figyelhették meg Pegasus kémprogrammal",
+      "summary": "Egy jelentés szerint a szerbiai diákellenes tüntetések szervezőit is megfigyelhették a Pegasus kémprogrammal. Ez felveti a kormányzati megfigyelés és az emberi jogok megsértésének kérdését a régióban.",
       "importance": 4
     },
     {
-      "title": "Gázában több mint 900-an haltak meg a tűzszünet ellenére idén",
-      "summary": "A Hamász által működtetett egészségügyi minisztérium szerint idén már több mint 900 ember vesztette életét Gázában a tűzszünet ellenére. Ez rávilágít a folyamatos konfliktus humanitárius költségeire a régióban.",
+      "title": "Felmentették egy európai újságíró-gyilkosság feltételezett felbujtóját",
+      "summary": "Kilenc év várakozás után felmentették azt a vádlottat, akit Ján Kuciak szlovák újságíró és menyasszonya meggyilkolásának felbujtásával vádoltak. Az ítélet sokkolta a közvéleményt és kérdéseket vet fel az igazságszolgáltatás működésével kapcsolatban.",
+      "importance": 4
+    },
+    {
+      "title": "Szabotázsra gyanakszik Tusk a lengyel dróngyártó üzem tüzével kapcsolatban",
+      "summary": "Donald Tusk lengyel miniszterelnök szerint szabotázs okozta az EU egyik legnagyobb dróngyártójának lengyelországi üzemében keletkezett tüzet. Az eset geopolitikai feszültségeket és biztonsági aggodalmakat vet fel.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az amerikai kormány az OpenAI oldalán áll a szerzői jogi képzés ügyében",
-      "summary": "Az amerikai kormány az OpenAI álláspontját támogatja abban a kérdésben, hogy a nagyméretű nyelvi modellek (LLM) betanítása jogsértő-e, ha szerzői joggal védett anyagokat használnak. Ez jelentős precedenst teremt az AI fejlesztésére és a szerzői jogokra vonatkozóan.",
+      "title": "Az OpenAI új érvelési technikája aggasztja az AI biztonsági szakértőket",
+      "summary": "Az OpenAI által kifejlesztett új mesterséges intelligencia érvelési technika aggodalmakat ébresztett az AI biztonsági szakértők körében. A fejlődés ellenére továbbra is kiemelt fontosságú az etikus és biztonságos fejlesztés.",
       "importance": 5
     },
     {
-      "title": "New Yorkban kitiltják az MI-t az általános iskolai tanórákról",
-      "summary": "New York városában betiltották a mesterséges intelligencia (MI) használatát az általános iskolai tanórákon. Ez a döntés jelentős hatással lehet az oktatási technológiák jövőjére és az MI bevezetésére az iskolákban.",
+      "title": "Az amerikai kormány az OpenAI oldalán áll a szerzői jogi kérdésben",
+      "summary": "Az Egyesült Államok kormánya az OpenAI álláspontját támogatja abban a kérdésben, hogy a nagyméretű nyelvi modelleket (LLM) lehet-e szerzői joggal védett anyagokon tréningezni. Ez jelentős hatással lehet az AI-fejlesztések jövőjére és a tartalomipar jogi kereteire.",
+      "importance": 5
+    },
+    {
+      "title": "Feltehetően feltörtek egy jelentős személyi igazolvány-hitelesítő szolgáltatást",
+      "summary": "Valószínűsíthető, hogy hackerek törtek fel egy kulcsfontosságú személyi igazolvány-hitelesítő szolgáltatást, ami súlyos adatvédelmi és kiberbiztonsági aggodalmakat vet fel. Az eset rávilágít a digitális azonosítás sérülékenységére.",
       "importance": 4
     },
     {
-      "title": "Az Uber elbocsátja alkalmazottainak 10%-át, 3300 embert",
-      "summary": "Az Uber bejelentette, hogy alkalmazottainak 10%-át, mintegy 3300 embert bocsát el. Ez a lépés a technológiai szektorban zajló elbocsátási hullámot tükrözi.",
-      "importance": 4
-    },
-    {
-      "title": "Norvégia betiltaná a kamerával felszerelt „perverz szemüvegeket”",
-      "summary": "Norvégia fontolgatja a kamerával felszerelt viselhető eszközök, úgynevezett „perverz szemüvegek” betiltását. A lépés a magánszféra védelmével kapcsolatos aggodalmakra reagál a technológiai fejlődéssel összefüggésben.",
+      "title": "Új mesterséges intelligencia azonosít szívbetegségeket EKG alapján 2 másodperc alatt",
+      "summary": "Egy új mesterséges intelligencia képes mindössze két másodperc alatt azonosítani a szívbetegségeket EKG-felvételekről. Ez a technológia forradalmasíthatja a kardiológiai diagnosztikát és a korai felismerést.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A semaglutid kezelés lassíthatja az öregedést és meghosszabbíthatja az élettartamot egereknél",
-      "summary": "Késői életszakaszban alkalmazott semaglutid kezelésről kimutatták, hogy lassítja az öregedést és meghosszabbítja az élettartamot nőstény egerekben. Ez az ígéretes felfedezés új utakat nyithat az öregedés elleni terápiákban.",
+      "title": "Egy cukorbetegség elleni gyógyszer lassította az öregedést egereknél",
+      "summary": "Egy kísérletben a semaglutide nevű gyógyszer, amit cukorbetegség kezelésére használnak, lassította az öregedési folyamatokat és meghosszabbította a nőstény egerek élettartamát. Ez áttörést jelenthet az öregedéskutatásban és az emberi terápiák fejlesztésében.",
       "importance": 5
     },
     {
-      "title": "Meg lehetne javítani a sérült DNS-t az élettartam meghosszabbítása érdekében?",
-      "summary": "A kutatók azt vizsgálják, hogy a sérült DNS kijavítása meghosszabbíthatja-e az emberi élettartamot. Ez az alapvető kutatás a genetika és az öregedés összefüggéseit tárja fel.",
+      "title": "Mesterséges intelligencia tervez fizikai kísérleteket",
+      "summary": "Kutatók mesterséges intelligenciát alkalmaznak fizikai kísérletek tervezésére, ami új lehetőségeket nyit a tudományos felfedezések felgyorsítására és komplex problémák megoldására. Az AI képes optimalizálni a kísérleti beállításokat és hipotéziseket.",
       "importance": 4
     },
     {
-      "title": "Fizikai kísérletek tervezése mesterséges intelligenciával",
-      "summary": "A tudósok mesterséges intelligencia segítségével terveznek fizikai kísérleteket. Ez a megközelítés forradalmasíthatja a tudományos felfedezések folyamatát és a kutatási módszereket.",
+      "title": "Áttörés: a világ egyik legritkább madárfaja példátlanul szaporodik",
+      "summary": "A világ egyik legritkább madárfaja példátlan ütemben kezdett szaporodni, ami jelentős áttörést jelent a természetvédelemben. Ez reményt ad a kritikusan veszélyeztetett fajok megmentésére irányuló erőfeszítéseknek.",
       "importance": 4
     },
     {
-      "title": "Az atmoszférikus metánszintet a nitrogén-oxid kibocsátás tartja fenn",
-      "summary": "Egy új kutatás szerint az atmoszférikus metán szintjének platóját a nitrogén-oxid kibocsátás növekedése és a déli irányú eltolódás tartja fenn. Ez a felfedezés kulcsfontosságú a klímaváltozás és a légköri gázok megértésében.",
+      "title": "Az atmoszferikus metánszintet a nitrogén-oxidok növekedése tartja fenn",
+      "summary": "Egy új kutatás szerint az atmoszféra metánszintjének platóját a nitrogén-oxid kibocsátások növekedése és azok délebbre tolódása tartja fenn. Ez kulcsfontosságú információ a klímaváltozás elleni küzdelemben és a gázok kölcsönhatásának megértésében.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Meghalt Rusznyák József olimpikon birkózó",
-      "summary": "Elhunyt Rusznyák József olimpikon birkózó, akinek halála mély fájdalmat okozott a magyar sportvilágban. Emlékét tisztelettel őrzi a sportközösség.",
-      "importance": 4
-    },
-    {
-      "title": "Videón, ahogy villám csap egy férfiba, aki feláll és elsétál",
-      "summary": "Egy amerikai férfit villámcsapás ért, de csodával határos módon felállt és sértetlenül elsétált. Az eset megmutatja az emberi test ellenálló képességét szélsőséges körülmények között.",
-      "importance": 2
-    },
-    {
-      "title": "Gyerekek ingyen ehetnek és hűségpontok – hat mód, hogy pénztárcabarát módon étkezzünk",
-      "summary": "Hat tippet mutatnak be, hogyan lehet olcsóbban étkezni éttermekben, kihasználva a gyerekeknek szóló kedvezményeket és hűségprogramokat. Ez a hír a mindennapi életre és a tudatos fogyasztásra fókuszál.",
-      "importance": 1
-    },
-    {
-      "title": "Az új előzetes alapján a filmnél sokkal részletesebben dolgozza fel az első regényt a Harry Potter-sorozat",
-      "summary": "Az új előzetes szerint a készülő Harry Potter tévésorozat sokkal mélyebben fogja feldolgozni az első regényt, mint a korábbi film. A rajongók remélik, hogy ez hűebb adaptáció lesz.",
-      "importance": 1
-    }
-  ]
+  "sports": []
 }

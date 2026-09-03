@@ -1,14 +1,69 @@
 {
   "Telex": [
     {
+      "title": "Póráz nélkül is lehet majd vezetni a segítő kutyákat közterületen",
+      "link": "https://telex.hu/belfold/2026/09/03/poraz-nelkul-segito-kutya-kozterulet",
+      "summary": "A változás kizárólag a hivatalos jelzést viselő segítő kutyákra vonatkozik. Minden más kutyánál marad a pórázkötelezettség."
+    },
+    {
+      "title": "Most kiderül, hogy állnak a kórházak a fertőzésekkel",
+      "link": "https://telex.hu/direkt36/2026/09/03/most-kiderul-hogy-allnak-a-korhazak-a-fertozesekkel",
+      "summary": "A korábbi titkolózáshoz képest teljes fordulatot véve a Nemzeti Népegészségügyi és Gyógyszerészeti Központ csütörtök este nyilvánosságra hozta és egy interaktív felületen kereshetővé tette a kórházi fertőzések adatbázisát. Ezek a fertőzések évente kórházi betegek ezreinek okoznak felesleges szenvedést és súlyos szövődményeket, de eddig nem sikerült visszaszorítani a terjedésüket."
+    },
+    {
+      "title": "A kórházak üdvözlik a fertőzési adatok nyilvánosságát, de a betegek aggodalmával is számolniuk kell",
+      "link": "https://telex.hu/belfold/2026/09/03/korhaz-fertozesek-valaszok-adatok-nyilvanossag-orvosigazgatok",
+      "summary": "Évekre visszamenőleg közzétették a részletes kórházi fertőzési adatokat. Jogosan merülhet fel, hogy nem minden kórházra vet pozitív fényt a transzparencia, még akkor sem, ha óva intenek a hasonlítgatástól. A kórházak azt is elárulták, mire lenne szükségük a fertőzések elleni hatékonyabb küzdelemhez."
+    },
+    {
+      "title": "A CATL egy leányvállalatán keresztül új üzemet hoz létre Debrecenben",
+      "link": "https://telex.hu/gazdasag/2026/09/03/catl-debrecen-greenpower-energy",
+      "summary": "Egy bérelt csarnokba költözik az akkugyártó leányvállalata."
+    },
+    {
+      "title": "A FIFA azzal vádolja az UEFA-t, hogy lejárató kampányt indított Gianni Infantino ellen",
+      "link": "https://telex.hu/sport/2026/09/03/fifa-uefa-lejarato-kampany-gianni-infantino",
+      "summary": "Az európai szövetség eközben akár büntetőeljárást is kezdeményezhet a FIFA elnöke ellen."
+    },
+    {
+      "title": "Meghalt az első japán űrhajós, aki az űrutazás minden percét szívből gyűlölte",
+      "link": "https://telex.hu/kulfold/2026/09/03/meghalt-elso-japan-urhajos-befizetett-ut-akajima-tojohiro",
+      "summary": "Nemzeti hőst akartak belőle faragni, helyette inkább antihős lett. A Földre visszatérve azt mondta, az első cigarettáját jobban élvezte, mint az egész utazást."
+    },
+    {
+      "title": "Az Egyesült Államok szankciós listára tette Raúl Castro unokáját",
+      "link": "https://telex.hu/kulfold/2026/09/03/szankcios-lista-szankcio-egyesult-allamok-kuba-fidel-ernesto-castro",
+      "summary": "Újabb szankciókat vezettek be kubai cégek ellen is."
+    },
+    {
+      "title": "Mindenki csak kapkodja a fejét, hogyan fordulhatott elő a két legfontosabb ukrán szolgálat közötti lövöldözés",
+      "link": "https://telex.hu/kulfold/2026/09/03/ukrajna-szbu-hur-szolgalatok-tuzharc-konfliktus",
+      "summary": "Az Ukrán Biztonsági Szolgálat orosz ügynököt sejt a katonai hírszerzés alá tartozó légiós orosz szervezet vezetésében, de rengeteg a kérdés a zavaros ügyben. A példátlan konfliktus a katonai elhárítástól az elnöki hivatal élére került Budanovot is érinti, és lépéskényszerbe hozta Zelenszkijt. Az biztos, hogy az egész jól jön a Kremlnek."
+    },
+    {
+      "title": "Felvásárolja az Nvidia a mesterséges intelligenciával foglalkozó fejlesztői platformot, amit nemrég meghekkelt az OpenAI elszabadult MI-ügynöke",
+      "link": "https://telex.hu/gazdasag/2026/09/03/nvidia-hugging-face-felvasarlas-mesterseges-intelligencia-startup",
+      "summary": "A felvásárolt startup olyan platformot üzemeltet, amin szabadon felhasználható mesterségesintelligencia-modelleket lehet megosztani."
+    },
+    {
+      "title": "Lefoglaltak egy orosz hajót Norvégiában, az ukrán Naftogaz így próbálja behajtani Moszkva milliárdos tartozását",
+      "link": "https://telex.hu/kulfold/2026/09/03/lefoglalt-orosz-hajo-norvegia-ukran-naftogaz-behajtas-moszkva-tartozas",
+      "summary": "Oroszország kalózkodásnak nevezte az intézkedést, és bekérette a norvég nagykövetet."
+    },
+    {
+      "title": "V. Harald király temetése miatt ideiglenes határellenőrzést vezet be Norvégia",
+      "link": "https://telex.hu/kulfold/2026/09/03/norvegia-ideiglenes-hatarellenorzes",
+      "summary": "Szeptember 4. és 14. között lesz érvényes a korlátozás."
+    },
+    {
       "title": "Kormánygéppel szállították Szerbiába Ratko Mladić holttestét, sokan mehetnek el a temetésére",
       "link": "https://telex.hu/kulfold/2026/09/03/kormanygeppel-szallitottak-szerbiaba-ratko-mladic-holttestet-temetes-tobb-tizezren",
       "summary": "Az EU arra figyelmeztetett, hogy egy tagjelölt országban sincs helye háborús bűnösök dicsőítésének."
     },
     {
-      "title": "A Transparency International megkapta a jegybank szerződéseit, a 4iG-nek 6 milliárdot, Balásy Gyula cégének 2,4 milliárdot fizetett az MNB",
+      "title": "A 4iG-nek 6 milliárdot, Balásy Gyula cégének 2,4 milliárdot fizetett a jegybank Varga Mihály irányítása alatt",
       "link": "https://telex.hu/gazdasag/2026/09/03/mnb-transparency-international-kozadatigenyles-szerzodesek",
-      "summary": "Matolcsy György a távozása előtt még két szerződést kötött az MNB-botrányban kulcsszerepet játszó Somlai Bálint cégeivel."
+      "summary": "A Transparency International kérte ki az elmúlt bő másfél év szerződéseit. Matolcsy György a távozása előtt még két szerződést kötött az MNB-botrányban kulcsszerepet játszó Somlai Bálint cégeivel."
     },
     {
       "title": "Miért nem hajlandó a többi laptopgyártó így kísérletezni?",
@@ -19,65 +74,30 @@
       "title": "„Első ránézésre megmagyarázhatatlannak és védhetetlennek tűnik” – vizsgálatot sürgetnek az Iránban egy esküvő helyszínét ért támadás miatt",
       "link": "https://telex.hu/kulfold/2026/09/03/irani-haboru-egyesult-allamok-eskuvo-tamadas-civil-halalos-aldozatok",
       "summary": "Az Egyesült Államok és Irán egy hónap után újra erőteljesen lőni kezdte egymást az elmúlt héten. Az amerikai hadsereg állítja, kedden is katonai célpontokat támadtak, de Irán szerint amerikai találat ért egy lakóházat is, amiben éppen egy esküvőt tartottak."
-    },
-    {
-      "title": "Bëlga: A Nemzeti Hip-Hop miatt megkaptuk, hogy ilyen fasiszta zenekart még sosem hallottak",
-      "link": "https://telex.hu/after/2026/09/03/telex-after-belga-interju-bauxit-meg5loves-tokyo-majd-megszokod-lemez",
-      "summary": "Először adott interjút a Telex Afterben a Bëlga három alapító rappere, Bauxit, Még5lövés és Tokyo. Dopeman és a buddhizmus kapcsolata, a partizános doksi, Siska Finuccsi beszólása és a Zsolti, a béka univerzumépítése is szóba került."
-    },
-    {
-      "title": "Gyomorszájon és fejen lőtte egy merénylő az orosz tábornokot, aki az ukránok szerint egy kijevi gyerekkórházat rakétáztatott",
-      "link": "https://telex.hu/kulfold/2026/09/03/merenylet-szaratov-nyikolaj-verpahovics-orosz-legierok",
-      "summary": "Nyikolaj Verpahovicsot egy motoron érkező támadó lőtte meg."
-    },
-    {
-      "title": "Kevesebbet kellene fizetnie a közmédiának, ha Magyarország visszatér az Eurovízióra",
-      "link": "https://telex.hu/after/2026/09/03/kozmedia-magyarorszag-visszateres-eurovizio-nevezesi-dij-hatarido-kedvezmeny",
-      "summary": "Magyarország 2019 óta nem vett részt az Eurovízión, most azonban megnyílhat az út a visszatérés előtt."
-    },
-    {
-      "title": "Meghekkelték a Széchenyi Programirodát",
-      "link": "https://telex.hu/techtud/2026/09/03/hekkertamadas-szechenyi-programiroda-adatszivargas",
-      "summary": "A programiroda megerősítette, hogy két munkatársuk személyes adatai kerültek illetéktelen kezekbe, de azt még nem tudják, összesen mennyi adat szivároghatott ki."
-    },
-    {
-      "title": "Rozsdásan futott be Thaiföldre az amerikai haditengerészet egyik repülőgép-hordozója",
-      "link": "https://telex.hu/kulfold/2026/09/03/rozsda-thaifoldamerikai-haditengereszet-repulogep-hordozo-uss-abraham-lincoln",
-      "summary": "Donald Trump korábban elutasította a Lincoln hosszú szolgálati idejével kapcsolatos aggályokat."
-    },
-    {
-      "title": "Az ukrán parlament határozattal ítélte el a kárpátaljai magyarokkal szembeni szovjet atrocitásokat",
-      "link": "https://telex.hu/kulfold/2026/09/03/karpataljai-magyarok-elleni-atrocitasok-ukrajna-szovjetunio-nyilatkozat",
-      "summary": "Az ukrán törvényhozás elismeri és elítéli az 1944 és 1946 között történteket."
-    },
-    {
-      "title": "A külügyi államtitkár szerint hat közvetítőcég 15,5 milliárdot keresett Szijjártóék lélegeztetőgép-bizniszén",
-      "link": "https://telex.hu/belfold/2026/09/03/lelegeztetogep-szijjarto-peter-velkey-gyorgy-tularazas",
-      "summary": "Velkey György László a minisztériumi átvilágítás után konkrét cégeket és számokat mutatott be. Olyan cégek is voltak közöttük, amiket a beruházás évében, 2020-ban alapítottak."
-    },
-    {
-      "title": "Óriási hajrában, utolsó pillanatos módosítással ment uniós ezermilliárdokat a kormány",
-      "link": "https://telex.hu/gazdasag/2026/09/03/eu-helyreallitasi-alap-teljesites-kifizetes-feltetelessegi-eljaras",
-      "summary": "Csendben, néhány munkanappal a határidő lejárta előtt fogadtattak el egy módosítást. A kormány szerint mindennel végeztek a 3600 milliárd forintot érő helyreállítási alaphoz, ez hamarosan további 2300 milliárd forintot tehet elérhetővé."
-    },
-    {
-      "title": "Jövő héten véget érhet a nyárias idő",
-      "link": "https://telex.hu/belfold/2026/09/03/jovo-heten-veget-erhet-nyar-osz",
-      "summary": "Jön az ősz, jöhetnek a pulóverek!"
-    },
-    {
-      "title": "Egy másik pázmányos tanár testvére volt a joghallgató, akinek a volt alkotmánybíró segített átmenni a záróvizsgán",
-      "link": "https://telex.hu/belfold/2026/09/03/szivos-maria-pazmany-peter-katolikus-egyetem-vizsga-fegyelmi-eljaras",
-      "summary": "Nem akárkivel kivételezett az egyébként szigorú vizsgáztató hírében álló Szívós Mária: információink szerint egyik kollégájának testvérével zsírozta le, hogy milyen tételeket húzzon majd a vizsgán. Az egyetem fegyelmi eljárást indított az ügyben."
-    },
-    {
-      "title": "Forrnak az indulatok az RMDSZ és az AUR közös parlamenti szavazása miatt: egyetlen háznagyi székért legitimálták a szélsőjobbot",
-      "link": "https://telex.hu/transtelex/2026/09/03/miert-szavazott-az-rmdsz-az-aur-ral-a-kepviselohazban",
-      "summary": "Az RMDSZ vezetése ugyan kényszerhelyzetről és a magyar kártya előkerüléséről beszél, ám a bírálók szerint elveket áldoztak fel a hatalmi jelenlétért cserébe."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Trump arról posztolt, hogy Európával fogja kifizettetni a Biden elnöksége alatt Ukrajnának adott hadianyagot",
+      "link": "https://444.hu/2026/09/03/trump-arrol-posztolt-hogy-europaval-fogja-kifizettetni-a-biden-elnoksege-alatt-ukrajnanak-adott-hadianyagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A saját mércéjével is összefüggéstelen posztban őrjöngött. Az egyik mondatában azt írta, hogy szinte végtelen mennyiségű hadianyaguk van, a másikban azt, hogy gőzerővel folyik a gyártás és a készletek felhalmozása."
+    },
+    {
+      "title": "A szerbek állami tiszteletadással temetnék el Ratko Mladićot, Aleksandar Vučić lenácizta az emiatt kiakadó horvátokat",
+      "link": "https://444.hu/2026/09/03/a-szerbek-allami-tiszteletadassal-temetnek-el-ratko-mladicot-aleksandar-vucic-lenacizta-az-emiatt-kiakado-horvatokat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A népirtásért elítélt háborús bűnös még mindig óriási népszerűségnek örvend Szerbiában. A horvát miniszterelnök szerint a szerbeknek esélyük sincs az EU-tagságra, amíg nem néznek szembe a mészáros valódi hagyatékával."
+    },
+    {
+      "title": "A FIFA szerint az UEFA lejárató kampányt indított Infantino ellen",
+      "link": "https://444.hu/2026/09/03/a-fifa-szerint-az-uefa-lejarato-kampanyt-inditott-infantino-ellen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az európai szövetség szerint Gianni Infantino kudarcba fulladt privatizációs terve büntetőjogi kérdéseket vet fel, a FIFA viszont azt állítja, hogy az UEFA a gazdasági érdekei miatt próbálja hitelteleníteni a vezetését."
+    },
+    {
+      "title": "Norvégia lefoglalt egy orosz hajót Ukrajna kérésére, Moszkva tiltakozik",
+      "link": "https://444.hu/2026/09/03/norvegia-lefoglalt-egy-orosz-hajot-ukrajna-keresere-moszkva-tiltakozik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Naftogaz ukrán energetikai vállalat egy 4,22 milliárd dolláros tartozást próbál behajtani Oroszországon."
+    },
     {
       "title": "Lehet, hogy Magyarország hét év után újra indulni fog az Eurovízión",
       "link": "https://444.hu/2026/09/03/lehet-hogy-magyarorszag-het-ev-utan-ujra-indulni-a-fog-az-eurovizion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -89,7 +109,7 @@
       "summary": "A Kúria egyetértett a Főügyészséggel, szerintük is megállapítható a szexuális erőszak az ítéletből, és még azt is elmagyarázták, hogy mit és mit nem jelent a beleegyezés az ilyen esetekben."
     },
     {
-      "title": "Egyszerre lett rottyon több AI-szolgáltatás, köztük a Gemini, a ChatGPT és a Grok is",
+      "title": "Egyszerre zuhant össze több AI-szolgáltatás, köztük a Gemini, a ChatGPT és a Grok is",
       "link": "https://444.hu/2026/09/03/egyszerre-rottyant-ossze-tobb-ai-szolgaltatas-koztuk-a-gemini-a-chatgpt-es-a-grok-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Világszerte a szolgáltatások akadozásáról vagy lehalásáról számolnak be a felhasználók, csak az OpenAI 40 ezer esetet regisztrált."
     },
@@ -132,29 +152,64 @@
       "title": "Azonnali hatállyal elkaszálta a közmédia az M5 igazgatójának konteós műsorát",
       "link": "https://444.hu/2026/09/03/azonnali-hatallyal-elkaszalta-a-kozmedia-az-m5-igazgatojanak-konteos-musorat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Pedig a héten még kijött egy friss adás, ahol az volt a kérdés, hogy új alkura készülnek-e a szuperhatalmak."
-    },
-    {
-      "title": "Velkey szerint Szijjártóék legalább 15,5 milliárd forintos túlárazással vettek lélegeztetőgépeket",
-      "link": "https://444.hu/2026/09/03/velkey-szerint-szijjartoek-legalabb-155-milliard-forintos-tularazassal-vettek-lelegeztetogepeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az államtitkár hat cégről osztotta meg pontosan, mennyivel fizetett többet a külügy az általuk beszerzett lélegeztetőgépekért."
-    },
-    {
-      "title": "Meghalt Gloria Steinem amerikai feminista ikon",
-      "link": "https://444.hu/2026/09/03/meghalt-gloria-steinem-amerikai-feminista-ikon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az író, szerkesztő, jogvédő 92 éves volt."
-    },
-    {
-      "title": "Gengszterváltás az időjárásban: jövő héten jön az ősz, a hideg és talán az eső is",
-      "link": "https://444.hu/2026/09/03/gengsztervaltas-az-idojarasban-jovo-heten-jon-az-osz-a-hideg-es-talan-az-eso-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Talán szerdán lesz a napja."
-    },
-    {
-      "title": "Teljesen érthető, hogy Magyar Péter blokkolja az ukrán csatlakozási folyamatot, csak előtte nem kellett volna elveszítenie a fejét pár ezer lájk miatt",
-      "link": "https://444.hu/2026/09/03/ertheto-hogy-magyar-kedden-blokkolta-az-ukran-csatlakozasi-folyamatot-csak-elotte-nem-kellett-volna-elveszitenie-a-fejet-parezer-lajk-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ukrajnának egyszerűen biztosítania kellene az eltűnés határán billegő, aprócska magyar kisebbség nyelvi és egyéb jogait. Így, hogy uniós tagok szeretnének lenni, duplán. Ehhez képest cinikusan viselkednek, és ha lenne arca a Júniusi Megállapodásnak, akkor belenevettek volna."
     }
   ],
   "HVG": [
+    {
+      "title": "Megvannak a hatoslottó nyerőszámai",
+      "link": "https://hvg.hu/elet/20260903_megvannak-a-hatoslotto-nyeroszamai",
+      "summary": "Mutatjuk, melyik számokkal lehetett nyerni."
+    },
+    {
+      "title": "Az Egyesült Államok szankcióval sújtotta Raúl Castro unokáját",
+      "link": "https://hvg.hu/gazdasag/20260903_egyesult-allamok-szankcio-raul-castro-unoka",
+      "summary": "Szankció alá került a kubai állami külkereskedelmi bank és több állami tulajdonú bányászati és energetikai vállalat is."
+    },
+    {
+      "title": "Megszólalt az északmacedón kormányfő az Orbán-féle egymilliárd eurós hitelről",
+      "link": "https://hvg.hu/gazdasag/20260903_eszakmacedon-kormanyfo-orban-eximbank-hitel",
+      "summary": "Büntetőeljárás indult az eximbankos hitel miatt Magyarországon. Hrisztijan Mickoszki miniszterelnök szerint a pénz nagy segítség volt az északmacedón gazdaságnak."
+    },
+    {
+      "title": "Vucic nácizással vágott vissza, miután a horvát miniszterelnök elítélte a népirtásért elítélt Ratko Mladic halála utáni megemlékezéseket",
+      "link": "https://hvg.hu/vilag/20260903_vucic-nacizassal-vagott-vissza-miutan-a-horvat-miniszterelnok-elitelte-a-nepirtasert-elitelt-ratko-mladic-halala-utani-megemlekezeseket",
+      "summary": "Andrej Plenkovic horvát kormányfő szerint Szerbia nem közeledhet az Európai Unió felé."
+    },
+    {
+      "title": "Felülvizsgálja a 4iG minősítését a Scope Ratings",
+      "link": "https://hvg.hu/kkv/20260903_felulvizsgalat-4ig-minosites-scope-ratings",
+      "summary": "A Scope azért vizsgálja felül a minősítést, mert a kormány bejelentette a 4iG állami vonatkozású szerződéseinek felülvizsgálatát."
+    },
+    {
+      "title": "A FIFA azzal vádolja az UEFA-t, hogy lejárató kampányt indított Gianni Infantino ellen",
+      "link": "https://hvg.hu/sport/20260903_uefa-fifa-vad-lejarato-kampany-gianni-infantino",
+      "summary": "Tovább gyűrűzik a botrány."
+    },
+    {
+      "title": "Lezuhant egy siklóernyős Győrnél, mentőhelikopter vitte kórházba",
+      "link": "https://hvg.hu/itthon/20260903_lezuhant-sikloernyo-gyor-mentohelikopter-korhaz",
+      "summary": "A férfi súlyos sérüléseket szenvedett."
+    },
+    {
+      "title": "Lehet, hogy eddig rosszul tudták: nem biztos, hogy az agyban kell keresni az Alzheimer-kór okát",
+      "link": "https://hvg.hu/tudomany/20260903_alzheimer-kor-kialakulasa-demencia-immunsejtek",
+      "summary": "Amerikai kutatók szerint egy olyan immunsejt is felelős lehet az Alzheimer-kór kialakulásáért, ami a szervezet más részein található."
+    },
+    {
+      "title": "Gyerekek sírjáról lopott virágokat egy férfi Szolnokon",
+      "link": "https://hvg.hu/itthon/20260903_gyerek-sir-temeto-lopott-virag-szolnok",
+      "summary": "A család bekamerázta a sírhelyet és az alapján kapták el a tolvajt."
+    },
+    {
+      "title": "Hét év után Magyarország újra indulhat az Eurovíziós Dalfesztiválon",
+      "link": "https://hvg.hu/elet/20260903_magyarorszag-eurovizios-dalfesztival-indulas-kozmedia-dijkedvezmeny-jelentkezesi-haladek",
+      "summary": "Jelentős díjkedvezményt és jelentkezési haladékot kapott a közmédia megbízott vezetése, de a végső döntést majd a végleges menedzsmentnek kell meghozni."
+    },
+    {
+      "title": "Szijjártóék legalább 15,5 milliárd forintos túlárazással vettek lélegeztetőgépeket és védőeszközöket a külügyi államtitkár szerint",
+      "link": "https://hvg.hu/gazdasag/20260903_koronavirus-lelegeztetogep-biznisz-szijjarto-peter-kulugy-velkey-gyorgy-laszlo",
+      "summary": "Velkey György László szerint hat közvetítői cég is nagyot kaszált a Covid-beszerzéseken."
+    },
     {
       "title": "A rezsicsökkentés megszüntetését javasolja a Levegő Munkacsoport",
       "link": "https://hvg.hu/gazdasag/20260903_rezsicsokkentes-megszuntetes-levego-munkacsoport",
@@ -174,61 +229,6 @@
       "title": "Kibertámadás érte a Széchenyi Programirodát, adatok is kiszivárogtak a rendszerből",
       "link": "https://hvg.hu/itthon/20260903_szechenyi-programiroda-kibertamadas-adatszivargas-rhysida-hekkercsoport",
       "summary": "A hekkercsoport 20 bitcoint, mintegy 500 millió forintot kért az adatokért."
-    },
-    {
-      "title": "Lopni, megyünk lopni, méheket lopni",
-      "link": "https://hvg.hu/360/20260903_a-mezkiraly-kritika-matthew-mcconaughey-angelina-lookingglass-kurt-russel-film",
-      "summary": "Erkölcsileg abszolút vállalhatatlan, ezt leszámítva viszont nagyszerű, teljesen öntörvényű, kiszámíthatatlan és őrült Matthew McConaughey új filmje. A mézkirály egy olyan témáról szól, amelyről sosem gondoltuk volna, hogy akciódús thrillert lehet készíteni: a méhészek nehéz életéről. De persze, hogy valójában nem erről szól. Kritika."
-    },
-    {
-      "title": "Három év után sikerült eldönteni a hatóságoknak, hogy alkalmas az örökbefogadásra egy meleg férfi",
-      "link": "https://hvg.hu/itthon/20260903_orokbefogadas-meleg-par-kormanyhivatal",
-      "summary": "A gyámhatóság arra hivatkozott, hogy a kérelmező családmodellje az örökbefogadás ellen szól."
-    },
-    {
-      "title": "Katasztrófától tartanak a kutatók az OpenAI terve miatt",
-      "link": "https://hvg.hu/tudomany/20260903_openai-chatgpt-astra-uj-modell-veszely-kutatok-figyelmeztetes-katasztrofa",
-      "summary": "Olyan új nyelvi modell kiadását tervezi az OpenAI, amely egészen új technológiai alapokon nyugszik – és ez a megfigyelését is nehezebbé teheti, ami elég nagy gond."
-    },
-    {
-      "title": "Egy pázmányos tanár testvére volt a joghallgató, akinek a volt alkotmánybíró segített a záróvizsgán",
-      "link": "https://hvg.hu/itthon/20260903_pazmany-tanar-testver-joghallgato-alkotmanybiro-zarovizsga",
-      "summary": "Az egyetem jogi kara vizsgálja az ügyet, azt egyelőre nem tudni, hogy a tanár tudott-e a rokonának nyújtott segítségről."
-    },
-    {
-      "title": "Fitch-elemzés: A megemelt költségvetési hiánycél is jelzi, hogy a magyar kormány komoly közfinanszírozási kihívásokkal néz szembe",
-      "link": "https://hvg.hu/gazdasag/20260903_fitch-elemzes-magyar-kormany-koltsegvetesi-hianycel-kozfinanszirozasi-kihivasok",
-      "summary": "A Fitch szerint a jelenleg érvényes deficitelőrejelzés a gyengébb gazdasági növekedést, a választások előtti jelentős költségvetési intézkedéseket, az előző költségvetésben nem teljes mértékben szerepeltetett kiadási kötelezettségvállalásokat, valamint az aszály és az energiaválság költségeit tükrözik."
-    },
-    {
-      "title": "Ókovács Szilveszter pert vesztett első fokon, a bíróság szerint a sztrájkban való részvételt torolta meg az elbocsátásokkal",
-      "link": "https://hvg.hu/360/20260903_okovacs-pert-vesztett-elso-fokon-operahaz-dolgozok-sztrajk-jogellenes-elbocsatas-retorzio-karterites-hvg",
-      "summary": "Hat operaházi dolgozó perében döntött csütörtökön bíróság. Az elsőfokú döntés szerint mindannyian kártérítést kapnak, és ötüket visszahelyezték pozícióikba, mert a bíróság jogellenesnek ítélte az elbocsátásukat. Ókovács Szilveszternek nem sikerült a felbátorodás elmagyarpéteresedését megállítani."
-    },
-    {
-      "title": "Billentyűzetes játékkonzolt csinált az Acer, itt is van a prototípus",
-      "link": "https://hvg.hu/tudomany/20260903_acer-dualplay-mini-jatekkonzol-billentyuzet",
-      "summary": "Az Acer DuaplPlay Mini néven készítette el azt a koncepcióeszközt, ami egyesítené a gamer PC-k és a hordozható játékkonzolok pozitív tulajdonságait. Nevezetesen: a hordozhatóságot és a billentyűzet meglétét."
-    },
-    {
-      "title": "Ukrajna a világon elsőként ismerte el bűncselekményként a kárpátaljai magyarok elleni szovjet elnyomást",
-      "link": "https://hvg.hu/itthon/20260903_ukrajna-a-vilagon-elsokent-ismerte-el-buncselekmenykent-a-masodik-vilaghaboru-utani-karpataljai-malenkij-robot",
-      "summary": "Az ukrán parlament csütörtökön 261 igen szavazattal elfogadta azt a nyilatkozatot, amely bűncselekményként ismeri el a kárpátaljai magyarok elleni szovjet elnyomást. A dokumentumot Sándor Fegyir, Ukrajna budapesti nagykövete kezdeményezte."
-    },
-    {
-      "title": "Mindenkinek csak púp a hátán a hulladékkoncesszió, ráadásul három év Mohu után is siralmasak a számok",
-      "link": "https://hvg.hu/kkv/20260903_mohu-felulvizsgalat-hulladekgazdalkodas-magyar-peter-jelentes-gajdos-laszlo",
-      "summary": "Megvizsgáltuk, milyen okok vezethettek oda, hogy alapjaiban szorul reformra a hulladékgazdálkodás."
-    },
-    {
-      "title": "Megcsinálták a hiperbenzint, segít kizöldíteni az autózást",
-      "link": "https://hvg.hu/tudomany/20260903_hyperfuel-uzemanyag-auto-karosanyag-kibocsatas-csokkentese",
-      "summary": "Az elektromos átállás átmeneti időszakában lehetnek hasznosak azok az új üzemanyagok, amelyek elégetése a hagyományoshoz képest kevesebb káros anyagot juttat a légkörbe."
-    },
-    {
-      "title": "Gyomron és fejen lőtték azt az orosz tábornokot, aki a kijevi gyermekkórház elleni támadás felelőse lehet",
-      "link": "https://hvg.hu/vilag/20260903_merenylet-orosz-tabornok-kijevi-gyermekkorhaz-tamadas",
-      "summary": "A támadó motoron érkezett, és két lövést adott le Nyikolaj Varpahovicsra."
     }
   ],
   "BBC": [
@@ -238,24 +238,29 @@
       "summary": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says."
     },
     {
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found."
-    },
-    {
-      "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
-      "link": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030."
-    },
-    {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"."
-    },
-    {
       "title": "Schools to close early for A66 crash funeral amid safety concerns",
       "link": "https://www.bbc.co.uk/news/articles/c2kwv0dypnwo?at_medium=RSS&at_campaign=rss",
       "summary": "The funeral of one of five young men killed in the crash with a police car is due to take place."
+    },
+    {
+      "title": "Fifa accuses Uefa of 'smear campaign' against Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e3p780n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "The governing bodies have traded blows since Fifa president Gianni Infantino's scrapped plan to sell off stakes in the World Cup to private investors."
+    },
+    {
+      "title": "Reform UK promises £80bn cuts to public spending",
+      "link": "https://www.bbc.co.uk/news/articles/czxz4dl1plwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking at the party's conference, economy spokesman Robert Jenrick says Reform will be the \"party of fiscal responsibility\"."
+    },
+    {
+      "title": "British army told to stop non-essential training exercises to save money",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyqey6rlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Units in the UK not preparing to be deployed have been told to cut back on training exercises due to cost pressures."
+    },
+    {
+      "title": "Watch: Gloria Steinem dedicated her life to fight for women's equality",
+      "link": "https://www.bbc.co.uk/news/videos/c9865l26097o?at_medium=RSS&at_campaign=rss",
+      "summary": "The feminist icon who became leader of the women's liberation movement in the US died on Wednesday at the age of 92, according to her foundation."
     },
     {
       "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
@@ -263,29 +268,24 @@
       "summary": "The US president says the UK was not \"there to help me\" in his ongoing war with Iran."
     },
     {
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills."
+      "title": "Hope for survivors in Nepal as tunnel rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Asian correspondent Azadeh Moshiri is at the site of a tunnel where rescuers still hope to find survivors following the Nepal-Tibet floods."
     },
     {
-      "title": "How the brain of a fly may help explain human behaviour",
-      "link": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours."
+      "title": "Badenoch accuses Burnham of kicking defence spending into the long grass",
+      "link": "https://www.bbc.co.uk/news/articles/crk3xdv0z71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Andy Burnham has committed to reaching the Nato target of 3.5% spending by 2035, but not 3% by 2030."
     },
     {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops."
+      "title": "Three farmers detained by Israel in Lebanon, village leader says",
+      "link": "https://www.bbc.co.uk/news/articles/c4gq2my0v5po?at_medium=RSS&at_campaign=rss",
+      "summary": "The detentions were reported to the US-led International Monitoring and Implementation Mechanism but Israeli military has not commented."
     },
     {
-      "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
-      "link": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Green Party leader intends to run in the Holborn and St Pancras seat following Sir Keir Starmer's resignation as MP."
-    },
-    {
-      "title": "Watch: BBC witnesses 'taxi boat' picking up migrants multiple times in a day",
-      "link": "https://www.bbc.co.uk/news/videos/cz9znq5g7qko?at_medium=RSS&at_campaign=rss",
-      "summary": "A BBC investigation has found smuggling gangs are running low on small boats, forcing rival gangs to work together and load more migrants on larger boats."
+      "title": "US billionaire Leon Black defies summons and sues Epstein panel",
+      "link": "https://www.bbc.co.uk/news/articles/cddve618plzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit calls the House Oversight Committee's subpoenas, which ordered him to share nondisclosure agreements, \"invalid\"."
     },
     {
       "title": "How Gloria Steinem changed the lives of generations of women",
@@ -293,22 +293,52 @@
       "summary": "The trailblazing feminist spoke out for the legalisation of abortion, same-sex marriage and equal pay for women - but her activism was not without backlash."
     },
     {
-      "title": "Could Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with murdering her three children."
+      "title": "The overlooked factor driving the childhood obesity crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c70de1ny92wo?at_medium=RSS&at_campaign=rss",
+      "summary": "At a specialist childhood obesity clinic, almost all of the children are not in school. Why?"
     },
     {
-      "title": "Watch: What it's like to ride in one of the UK's first robotaxis",
-      "link": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday."
+      "title": "Data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Advocates say data centres will bring jobs but others worry they will suck up resources while providing little advantage."
     },
     {
-      "title": "They were raised on Drag Race UK - but can they snatch the crown?",
-      "link": "https://www.bbc.co.uk/news/articles/c0lr18ll1k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new wave of queens raised on the hit reality show are among the 12 contestants set to compete for the series eight crown."
+      "title": "How the brain of a fly may help explain human behaviour",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+      "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+      "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever."
+    },
+    {
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million."
+    },
+    {
+      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+      "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+      "summary": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups."
+    },
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "summary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs."
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "summary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    },
     {
       "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
       "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
@@ -353,36 +383,6 @@
       "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
       "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
       "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides."
-    },
-    {
-      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale."
-    },
-    {
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-      "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two."
-    },
-    {
-      "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-      "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-      "summary": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors."
-    },
-    {
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
-    },
-    {
-      "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-      "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-      "summary": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days."
     }
   ],
   "Nature": [
@@ -395,6 +395,16 @@
       "title": "Immune therapy engineered inside the body eases multiple sclerosis",
       "link": "https://www.nature.com/articles/d41586-026-02765-1",
       "summary": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02765-1\">doi:10.1038/d41586-026-02765-1</a></p>Results from a small trial suggest a modified virus can instruct the immune system to wipe out disease-causing cells."
+    },
+    {
+      "title": "Magic-mushroom compound blocks a severe side effect of chemotherapy, in mice",
+      "link": "https://www.nature.com/articles/d41586-026-02744-6",
+      "summary": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02744-6\">doi:10.1038/d41586-026-02744-6</a></p>Study shows that psilocybin acts on nerves to prevent the painful condition called peripheral neuropathy."
+    },
+    {
+      "title": "Buried underpants and a new definition of kissing win 2026 Ig Nobel prizes",
+      "link": "https://www.nature.com/articles/d41586-026-02650-x",
+      "summary": "<p>Nature, Published online: 03 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02650-x\">doi:10.1038/d41586-026-02650-x</a></p>The awards highlight weird, funny and improbable research that also makes you think."
     },
     {
       "title": "Nations expanding their research programmes impose sweeping penalties for malpractice",
@@ -450,16 +460,6 @@
       "title": "Late-life semaglutide treatment slows ageing and extends lifespan in female mice",
       "link": "https://www.nature.com/articles/s41586-026-10940-7",
       "summary": "<p>Nature, Published online: 02 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10940-7\">doi:10.1038/s41586-026-10940-7</a></p>Semaglutide treatment for 3 months in female mice improved physiological function, attenuated hallmarks of ageing and modulated nutrient sensors and conserved genetic regulators of ageing."
-    },
-    {
-      "title": "Robust inference and correlates from genetic associations with personality",
-      "link": "https://www.nature.com/articles/s41586-026-10992-9",
-      "summary": "<p>Nature, Published online: 02 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10992-9\">doi:10.1038/s41586-026-10992-9</a></p>The genetic architecture of personality is robustly generalizable, minimally confounded and widely relevant to human experience."
-    },
-    {
-      "title": "Exploring baryon semileptonic decays through polarization and entanglement",
-      "link": "https://www.nature.com/articles/s41586-026-10818-8",
-      "summary": "<p>Nature, Published online: 02 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-10818-8\">doi:10.1038/s41586-026-10818-8</a></p>Polarization and quantum entanglement measurements of baryon semileptonic decay greatly enhance single-event sensitivity, and combined with lattice quantum chromodynamics calculations enable determination of the |Vus| element of the Cabibbo–Kobayashi–Maskawa matrix, providing an independent test of the standard model."
     }
   ]
 }

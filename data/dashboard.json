@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Orbán Gáspár a csádi orvosmisszió élén",
-      "summary": "Egy nem nyilvános kormányhatározat szerint Orbán Gáspárt nevezték meg a csádi orvosmisszió vezetőjeként. A misszióval kapcsolatos információk eddig nagyrészt titokban maradtak.",
+      "title": "Visszaállítják a kötelező tagságot az orvosi kamarában",
+      "summary": "A kormány döntése értelmében ismét kötelező lesz a tagság az orvosi kamarában, ami jelentős változás az egészségügyi szakmában. Ez a lépés hosszú távon befolyásolhatja az orvosok jogait és kötelezettségeit.",
       "importance": 5
     },
     {
-      "title": "Felülvizsgálja a kormány a hulladékgazdálkodási rendszert",
-      "summary": "Magyar Péter bejelentése szerint a kormány a nagyszámú panasz miatt a teljes hulladékgazdálkodási rendszer felülvizsgálatáról döntött. Ez jelentős változásokat hozhat a szolgáltatásban.",
+      "title": "Bánki Erik és Kósa Lajos meghallgatását kezdeményezte az MNB-botrányt vizsgáló bizottság",
+      "summary": "A parlamenti vizsgálóbizottság meghallgatásra hívta Bánki Eriket és Kósa Lajost az MNB alapítványainak botrányos ügye kapcsán. A bizottság célja a felelősség feltárása és a korábbi pénzügyi tranzakciók tisztázása.",
       "importance": 4
     },
     {
-      "title": "Feljelentés az MNB ingatlanügyei miatt",
-      "summary": "A Magyar Nemzeti Bank új vezetése feljelentést tett hűtlen kezelés és csalás gyanújával, miután feltárták, hogyan éltek vissza az MNB ingatlanjaival a Matolcsy-korszakban. Az ügy vizsgálata folyamatban van.",
+      "title": "Magyar Péter magas költségvetési hiányt jósol",
+      "summary": "Magyar Péter sajtótájékoztatóján kiugróan magas augusztusi költségvetési hiányt prognosztizált. Ugyanakkor hozzátette, hogy ősszel jelentős uniós források érkezhetnek az országba.",
       "importance": 4
     },
     {
-      "title": "Magyar házaspár éheztetett halálra egy rabszolgasorban tartott nőt",
-      "summary": "Egy magyar házaspárt azzal gyanúsítanak, hogy rabszolgaként tartottak és halálra éheztettek egy nőt. Az eset mélyen megdöbbentette a közvéleményt és felháborodást váltott ki.",
+      "title": "Az ukrán parlament elítélte a málenkij robotot és a kárpátaljai magyarellenes szovjet atrocitásokat",
+      "summary": "Az ukrán parlament határozatot fogadott el, amely elítéli a második világháború utáni málenkij robotot és a kárpátaljai magyarok ellen elkövetett szovjet atrocitásokat. Ez a lépés javíthatja a magyar–ukrán kapcsolatokat.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Orosz légicsapás rongált meg lakóházat Odesszában",
-      "summary": "Egy orosz légicsapás Odesszában egy 21 emeletes lakóházat rongált meg, amelynek következtében gyerekek is megsérültek. Az incidens az orosz-ukrán háború civilek elleni atrocitásaira hívja fel a figyelmet.",
+      "title": "Putyin szerint nincs szükség mozgósításra Oroszországban",
+      "summary": "Vlagyimir Putyin orosz elnök kijelentette, hogy jelenleg nincs szükség újabb mozgósításra az országban, tekintettel a hadi helyzetre és a frontvonalon lévő katonák számára. Ez a nyilatkozat a katonai stratégiát érintő fontos üzenet.",
       "importance": 5
     },
     {
-      "title": "Orosz szabotázsakciók tervezése Dánia ellen",
-      "summary": "A dán kémelhárítás vezetője szerint Oroszország aktívan tervez szabotázsakciókat Dánia ellen. Ez a geopolitikai feszültség növekedésére és a regionális biztonsági aggodalmakra utal.",
+      "title": "Oroszország csapást mért Ukrajna legnagyobb gyógyszeripari raktárára",
+      "summary": "Orosz erők légicsapást mértek Ukrajna egyik legnagyobb gyógyszeripari raktárkomplexumára, jelentős károkat okozva. Az incidens tovább súlyosbítja az ukrajnai humanitárius és egészségügyi helyzetet.",
+      "importance": 5
+    },
+    {
+      "title": "Az ENSZ szuperméretű El Niño jelenségre figyelmeztet",
+      "summary": "Az ENSZ arra figyelmeztet, hogy az idén egy \"szuperméretű\" El Niño jelenség várható, amely súlyos éghajlati hatásokkal járhat világszerte. Az országok felkészülnek a lehetséges áradásokra, szárazságokra és hőhullámokra.",
       "importance": 4
     },
     {
-      "title": "Ukrajnai támadások és a magas energiaárak",
-      "summary": "Az amerikai pénzügyminiszter szerint az Ukrajna által indított oroszországi támadások is hozzájárulnak a magas energiaárakhoz. Az állítás vitákat váltott ki a háború globális gazdasági következményeiről.",
-      "importance": 4
-    },
-    {
-      "title": "Holland jegybank aranyat szállít haza geopolitikai okokból",
-      "summary": "A holland jegybank 86 tonna aranyat szállított át az Egyesült Államokból és Kanadából Londonba, a „geopolitikai bizonytalanságokra” hivatkozva. Ez a nemzetközi pénzügyi stabilitás iránti aggodalmakat tükrözi.",
+      "title": "Robbanószerkezet a szerb–magyar határ közelében, orosz szolgálatokat gyanítanak",
+      "summary": "Robbanószerkezetet találtak a szerb–magyar határnál, a német hatóságok vizsgálják, hogy orosz szolgálatok állhatnak-e a háttérben. Az eset súlyos nemzetközi biztonsági kérdéseket vet fel a régióban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google reklámpiaci ügye: változtatásokra ítélte a bíróság",
-      "summary": "A Google-t megkímélték a reklámüzletág felosztásától, de a bíróság változtatásokat rendelt el működésében. Az ítélet komoly hatással lehet a vállalat hirdetési gyakorlatára és az online reklámpiacra.",
+      "title": "Az Nvidia 12,9 milliárd dollárért felvásárolja a Hugging Face-t",
+      "summary": "Az Nvidia megerősítette, hogy 12,9 milliárd dollárért megvásárolja a Hugging Face nevű AI-céget, ami az egyik legnagyobb felvásárlás az iparágban. Ez a lépés jelentősen megerősíti az Nvidia pozícióját a mesterséges intelligencia piacán.",
       "importance": 5
     },
     {
-      "title": "Aggodalmat kelt az OpenAI új érvelési technikája",
-      "summary": "Az OpenAI új, érvelési technikája aggodalmat váltott ki az AI biztonsági szakértők körében. A technológia lehetséges következményei vitákat gerjesztenek az AI fejlesztésének etikai és biztonsági aspektusairól.",
+      "title": "A Google megúszta a hirdetési üzletág feldarabolását, de változtatásokra kényszerül",
+      "summary": "Egy bírósági döntés értelmében a Google hirdetési üzletágát nem darabolják fel, azonban a cégnek jelentős változtatásokat kell végrehajtania működésében. Ez a döntés komoly hatással van a digitális hirdetési piacra.",
       "importance": 4
     },
     {
-      "title": "Hacker támadás egy fontos személyazonosító-ellenőrző szolgáltatás ellen",
-      "summary": "Valószínűleg hackerek törtek be egy nagyszabású személyazonosító-ellenőrző szolgáltatásba, ami komoly adatbiztonsági aggályokat vet fel. Az eset rávilágít a digitális azonosítás sérülékenységére.",
+      "title": "Az OpenAI új érvelési technikája aggodalmat vált ki az AI biztonsági szakértők körében",
+      "summary": "Az OpenAI által kifejlesztett új mesterséges intelligencia érvelési technika aggodalmat okoz az AI biztonsági szakértőknél. Félő, hogy ez a fejlesztés új kihívásokat jelenthet az AI rendszerek ellenőrizhetőségében és biztonságában.",
       "importance": 4
     },
     {
-      "title": "Betiltották az AI használatát New York iskoláiban",
-      "summary": "New York iskoláiban betiltották a mesterséges intelligencia (AI) használatát. A döntés az oktatási környezetben alkalmazott technológiák etikai és gyakorlati kérdéseire világít rá.",
+      "title": "Az amerikai kormány az OpenAI oldalára állt a szerzői jogi kérdésben",
+      "summary": "Az amerikai kormány az OpenAI-t támogatta abban a jogi vitában, amely a nagyméretű nyelvi modellek szerzői jogvédett anyagokon való képzését érinti. Ez a döntés precedenst teremthet az AI-fejlesztések jövőbeli szabályozására nézve.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A tudósok szerint elérhetetlen az 1,5 Celsius-fokos cél",
-      "summary": "Tudósok kimondták, hogy már nem lehet 1,5 Celsius-fok alatt tartani a globális felmelegedést. Ez a klímaváltozás elleni küzdelemben egy jelentős mérföldkő, súlyos következményekkel.",
+      "title": "A szemaglutid késlelteti az öregedést és meghosszabbítja az élettartamot egerekben",
+      "summary": "Egy friss kutatás szerint a szemaglutid nevű gyógyszer késlelteti az öregedést és meghosszabbítja a nőstény egerek élettartamát. Ez az eredmény áttörést jelenthet az öregedés elleni terápiák fejlesztésében.",
       "importance": 5
     },
     {
-      "title": "ENSZ figyelmeztet egy szupererős El Niño jelenségre",
-      "summary": "Az ENSZ szupererős El Niño jelenségre figyelmeztet, amely a következő években szélsőséges időjárási eseményeket okozhat világszerte. Az országok készülnek a várható hatásokra és a következmények enyhítésére.",
+      "title": "Mesterséges intelligencia segítségével terveznek fizikai kísérleteket",
+      "summary": "Tudósok mesterséges intelligenciát használnak fizikai kísérletek tervezésére, optimalizálására és elemzésére, jelentősen gyorsítva ezzel a felfedezések folyamatát. Az AI alkalmazása forradalmasíthatja a tudományos kutatást.",
       "importance": 4
     },
     {
-      "title": "A szemaglutid lassítja az öregedést egerekben",
-      "summary": "Késői életszakaszban alkalmazott szemaglutid kezelés lassítja az öregedést és meghosszabbítja az élettartamot nőstény egerekben. Ez ígéretes felfedezés lehet az öregedéskutatásban és az emberi gyógyászatban.",
+      "title": "A légköri metánszint emelkedését a NOx-kibocsátás növekedése okozza",
+      "summary": "Kutatók szerint a légköri metánkoncentráció megugrását a nitrogén-oxid (NOx) kibocsátás növekedése és annak délebbre tolódása tartja fenn. Ez a felfedezés kulcsfontosságú az éghajlatváltozás megértésében és kezelésében.",
       "importance": 4
     },
     {
-      "title": "Mesterséges intelligencia a fizikai kísérletek tervezésében",
-      "summary": "A mesterséges intelligencia segítségével fizikai kísérleteket terveznek, ami új lehetőségeket nyit a tudományos kutatásban. Az AI gyorsíthatja a felfedezések folyamatát és optimalizálhatja a kísérleti beállításokat.",
+      "title": "A fenyők gyorsabban nőnek és ellenállóbbak a szárazsággal szemben a déli féltekén",
+      "summary": "Egy új tanulmány kimutatta, hogy a fenyők gyorsabban növekednek és jobban ellenállnak a szárazságnak a déli féltekén. Ez az információ segíthet az erdőgazdálkodásban és a klímaváltozáshoz való alkalmazkodásban.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Az Osnabrück szurkolói látványos ünneplése",
-      "summary": "Az Osnabrück szurkolói minden idők egyik leglátványosabb lelátói koreográfiájával ünnepelték csapatukat. A különleges pillanat bemutatta a szurkolói kultúra erejét és kreativitását.",
-      "importance": 2
+      "title": "Szennyeződés került egy újbudai uszoda medencéjébe, egy úszót kórházba szállítottak",
+      "summary": "Egy újbudai uszoda medencéjébe szennyeződés került, aminek következtében az egyik úszót hét napig ápolták kórházban. Az eset rávilágít a sportlétesítmények higiéniai szabályainak fontosságára.",
+      "importance": 3
+    },
+    {
+      "title": "Kalasnyikovval a sporttáskájában vonatozott Párizsból Brüsszelbe egy fiatal",
+      "summary": "Egy 20 éves fiatalember utazott vonaton Párizsból Brüsszelbe, akinek sporttáskájában egy Kalasnyikov fegyvert találtak. Az eset komoly biztonsági aggályokat vet fel a nemzetközi utazások kapcsán.",
+      "importance": 1
+    },
+    {
+      "title": "Új magkeveréket dob piacra a főváros a városi területekre",
+      "summary": "A főváros új magkeverékkel készül, melyet \"Hegy\" néven dobnak piacra, célul tűzve ki a városi zöldterületek gazdagítását. Ez közvetve hozzájárulhat a lakosok rekreációs és sportolási lehetőségeihez.",
+      "importance": 1
+    },
+    {
+      "title": "Több száz éves fák pusztulhatnak el jó szándékú civilek miatt",
+      "summary": "Jó szándékú, de szakszerűtlen beavatkozások miatt több száz éves fák pusztulhatnak el, ami komoly ökológiai kárt okoz. Ez érintheti a természetjáró és szabadidős sporttevékenységek helyszíneit.",
+      "importance": 1
     }
   ]
 }

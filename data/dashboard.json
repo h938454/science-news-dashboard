@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Kormányzati kivizsgálás a Paksi Atomerőmű kritikus helyzete miatt",
-      "summary": "A kormány vizsgálatot indít annak felderítésére, milyen mulasztások vezettek a Paksi Atomerőműnél kialakult kritikus helyzethez. Az ügy az energetikai biztonságot és az atomerőmű működését érintő súlyos kérdéseket vet fel.",
+      "title": "A Paks atomerőmű kritikus helyzete: kormányzati vizsgálat indul",
+      "summary": "A kormány vizsgálatot indít annak felderítésére, milyen mulasztások okozták a Paksi Atomerőműnél kialakult kritikus állapotot. A cél a felelősök megállapítása és a hasonló helyzetek jövőbeni elkerülése.",
       "importance": 5
     },
     {
-      "title": "Elérhetővé váltak a kórházi fertőzések adatai",
-      "summary": "Nyilvánosságra hozták a kórházi fertőzésekre vonatkozó adatokat, ami nagyobb átláthatóságot biztosít a közegészségügyben. A kórházak üdvözlik az adatok elérhetőségét, de számolniuk kell a betegek esetleges aggodalmaival.",
+      "title": "Milliárdok folytak a NER-es oligarchákhoz az MNB-től",
+      "summary": "A Magyar Nemzeti Bankból, Varga Mihály vezetése alatt, milliárdos összegek jutottak Fidesz-közeli vállalkozóknak és cégeknek. A kifizetések felvetik a közpénzek elköltésének átláthatóságával kapcsolatos aggályokat.",
+      "importance": 5
+    },
+    {
+      "title": "Új CATL akkumulátorgyár épül Debrecenben",
+      "summary": "A kínai CATL akkumulátorgyártó egy leányvállalatán keresztül újabb üzemet létesít Debrecenben, tovább erősítve a város szerepét az elektromos autóiparban. A beruházás jelentős munkahelyteremtéssel járhat.",
       "importance": 4
     },
     {
-      "title": "Milliárdok folytak a jegybanktól a NER-es oligarchákhoz Varga Mihály vezetése alatt",
-      "summary": "A Magyar Nemzeti Bank Varga Mihály elnöksége alatt 6 milliárd forintot fizetett ki Jászai Gellért 4iG-jének és több mint 2 milliárdot egy Balásy-cégnek. Az ügyletek a NER-hez köthető vállalatok jelentős pénzügyi juttatásait mutatják.",
-      "importance": 5
-    },
-    {
-      "title": "15,5 milliárd forintos túlárazással vettek lélegeztetőgépeket Szijjártóék",
-      "summary": "A külügyi államtitkár szerint Szijjártó Péter minisztériuma legalább 15,5 milliárd forintos túlárazással szerzett be lélegeztetőgépeket és védőeszközöket. Az eset a közpénzek elköltésének átláthatóságával és hatékonyságával kapcsolatban vet fel kérdéseket.",
-      "importance": 5
+      "title": "Nyilvánossá váltak a kórházi fertőzések adatai",
+      "summary": "Hosszú várakozás után nyilvánosan is elérhetővé váltak a magyar kórházak fertőzési adatai, lehetővé téve a betegek és a közvélemény tájékozódását. Az adatok közzététele segítheti az átláthatóságot és a prevenciót.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Heves vita Ratko Mladić temetése körül Szerbiában és Horvátországban",
-      "summary": "Ratko Mladić halála után a szerbek állami tiszteletadással temetnék el a népirtásért elítélt egykori tábornokot, ami heves reakciót váltott ki Horvátországban. Aleksandar Vučić szerb elnök nácizással vágott vissza a horvát miniszterelnök kritikájára.",
-      "importance": 4
-    },
-    {
-      "title": "Trump Európára hárítaná Ukrajnának adott hadianyag költségeit",
-      "summary": "Donald Trump volt amerikai elnök bejegyzésében utalt arra, hogy amennyiben visszatér az elnöki székbe, Európával fizettetné ki az Ukrajnának Biden elnöksége alatt biztosított hadianyagot. E kijelentés jelentős geopolitikai feszültségeket és bizonytalanságot okozhat az ukrajnai háború támogatásában.",
+      "title": "Kompkatasztrófa: közel kétszáz halálos áldozat egy fedélzetmester hibájából",
+      "summary": "Egy súlyos kompbalesetben, mely Európa egyik legnagyobb katasztrófája lett, közel kétszázan vesztették életüket, miután a segéd-fedélzetmester elaludt szolgálat közben. A tragédia emberi mulasztásra vezethető vissza.",
       "importance": 5
     },
     {
-      "title": "Norvégia orosz hajót foglalt le Ukrajna kérésére, Moszkva tiltakozik",
-      "summary": "Norvégia lefoglalt egy orosz hajót Ukrajna kérésére, az ukrán Naftogaz pedig így próbálja behajtani Moszkva milliárdos tartozását. Oroszország élesen tiltakozik az akció ellen, ami újabb feszültséget generál a felek között.",
+      "title": "Trump: Európa fizesse ki az Ukrajnának juttatott amerikai hadianyagot",
+      "summary": "Donald Trump korábbi amerikai elnök a közösségi médiában posztolt arról, hogy amennyiben ő nyeri a választásokat, Európával fizetteti ki az Ukrajnának Biden elnöksége alatt nyújtott katonai támogatást. Ez komoly feszültséget okozhat az USA és az európai szövetségesek között.",
+      "importance": 5
+    },
+    {
+      "title": "Pegasus kémszoftverrel figyelhettek meg szerb diákokat",
+      "summary": "Az Amnesty International jelentése szerint a szerb kormány a Pegasus kémszoftverrel figyelhette meg az Aleksandar Vučić rendszere ellen tüntető diákaktivistákat. Az eset súlyos aggályokat vet fel a szólásszabadság és a magánélet védelme terén.",
       "importance": 4
     },
     {
-      "title": "Rejtélyes lövöldözés az ukrán titkosszolgálatok között",
-      "summary": "Mindenki tanácstalan azzal kapcsolatban, hogyan fordulhatott elő lövöldözés Ukrajna két legfontosabb szolgálata között. Az eset belső feszültségekre utalhat egy olyan időszakban, amikor az országnak egységre van szüksége.",
+      "title": "Északmacedónia és az Orbán-féle egymilliárd eurós hitel: kormányfői megszólalás",
+      "summary": "Az északmacedón miniszterelnök nyilatkozott az Orbán Viktor által beígért egymilliárd eurós hitelről, amely a Balkánon növelheti Magyarország befolyását. A hitel feltételei és céljai kapcsán számos kérdés merült fel.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI bemutatta az Astra nevű, erőteljes új MI-modelljét",
-      "summary": "Az OpenAI elindította Astra nevű, új, erőteljes és máris vitatott mesterséges intelligencia modelljét. A fejlesztés új távlatokat nyit az MI-alkalmazásokban, de etikai és biztonsági aggályokat is felvet.",
+      "title": "Az OpenAI bemutatta az Astra nevű új, nagy teljesítményű AI modelljét",
+      "summary": "Az OpenAI piacra dobta Astra nevű új, fejlett mesterséges intelligencia modelljét, amely jelentős képességekkel rendelkezik. A modell azonban máris vitákat váltott ki etikai és alkalmazási kérdéseket feszegetve.",
       "importance": 5
     },
     {
-      "title": "Több nagy MI-szolgáltatás, köztük a Gemini és a ChatGPT is összeomlott",
-      "summary": "Váratlanul összeomlott több kulcsfontosságú mesterséges intelligencia szolgáltatás, beleértve a Google Geminit, az OpenAI ChatGPT-jét és a Grokot is. Az eset rávilágít az MI-infrastruktúra stabilitásának kihívásaira és sebezhetőségére.",
+      "title": "Nagy AI-szolgáltatások leállása: összeomlott a Gemini, ChatGPT és Grok",
+      "summary": "Világszerte több népszerű mesterséges intelligencia szolgáltatás, köztük a Google Gemini, az OpenAI ChatGPT és az X Grok is egyidejűleg leállt. Az incidens rávilágított az AI rendszerek megbízhatóságának és a digitális infrastruktúra sérülékenységének fontosságára.",
+      "importance": 5
+    },
+    {
+      "title": "A Google AI hangfunkciókat vezet be a Gmailbe, Docsba és Keepbe",
+      "summary": "A Google új mesterséges intelligencia alapú hangfunkciókkal bővíti népszerű szolgáltatásait, mint a Gmail, a Docs és a Keep. A fejlesztés célja a felhasználói élmény javítása és a hatékonyság növelése.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia felvásárol egy mesterséges intelligenciával foglalkozó platformot",
-      "summary": "Az Nvidia felvásárolja azt a mesterséges intelligenciával foglalkozó fejlesztői platformot, amelyet nemrég hekkelt meg az OpenAI egy elszabadult MI-ügynöke. A tranzakció tovább erősíti az Nvidia pozícióját az MI-piacon.",
-      "importance": 4
-    },
-    {
-      "title": "A Tesla Cybercab-flották üzemeltetésére keres partnereket",
-      "summary": "A Tesla arról kérdezi az érdeklődőket, hogy szeretnének-e Cybercab flottákat vásárolni és üzemeltetni. Ez a lépés jelentős fordulópontot jelenthet az önvezető robotaxik piacán és a jövőbeli városi közlekedésben.",
+      "title": "A Tesla Cybercab flották üzemeltetésére keres partnereket",
+      "summary": "A Tesla érdeklődik, hogy magánszemélyek vagy cégek vásárolnának-e és üzemeltetnének-e Cybercab flottákat, jelezve egy új üzleti modell és a jövőbeli önvezető taxis szolgáltatások felé való elmozdulást. Ez jelentősen befolyásolhatja a városi közlekedést és a járműtulajdonlás jövőjét.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rekordideig működött a transzplantált sertésvese egy emberi szervezetben",
-      "summary": "Egy amerikai férfi szervezetében rekordot jelentő 271 napig működött egy transzplantált sertésvese. Ez az áttörés új reményt adhat a krónikus szervhiányban szenvedő betegek számára a xenotranszplantáció terén.",
+      "title": "Rekord ideig működött sertésvese emberi testben",
+      "summary": "Egy úttörő orvosi áttörés eredményeként egy amerikai férfi testében rekord ideig, 271 napig működött egy transzplantált sertésvese. Ez a xenotranszplantáció mérföldkőnek számít a szervátültetési kutatásokban és reményt ad a szervhiányban szenvedő betegeknek.",
       "importance": 5
     },
     {
-      "title": "Új immunterápia enyhítheti a szklerózis multiplex tüneteit a testen belül kifejlesztve",
-      "summary": "Egy innovatív immunterápiás megközelítést fejlesztettek ki, amely a testen belül enyhíti a szklerózis multiplexet. Ez az eljárás forradalmasíthatja az autoimmun betegségek kezelését.",
-      "importance": 5
-    },
-    {
-      "title": "Az Alzheimer-kór okát talán nem az agyban kell keresni",
-      "summary": "Új kutatások szerint lehetséges, hogy az Alzheimer-kór okát nem az agyban kell keresni, megkérdőjelezve eddigi feltételezéseket. Ez a felfedezés teljesen új irányt szabhat a betegség megértésében és kezelésében.",
+      "title": "Az energiaszolgáltatók a fúziós startupokkal versenyeznek",
+      "summary": "Az energiaszolgáltatók világszerte egyre nagyobb érdeklődést mutatnak a fúziós energia startupok iránt, felismerve a tiszta és korlátlan energiaforrás potenciálját. Ez a tendencia jelentős befektetéseket és felgyorsult kutatásokat eredményezhet a fúziós technológia terén.",
       "importance": 4
     },
     {
-      "title": "A semaglutid késlelteti az öregedést és meghosszabbítja az egerek élettartamát",
-      "summary": "Későbbi életszakaszban alkalmazott semaglutid kezelés lassította az öregedést és meghosszabbította a nőstény egerek élettartamát. Ez a felfedezés fontos lehet az öregedésgátló terápiák jövőbeli fejlesztésében.",
-      "importance": 4
+      "title": "Török csempész bukott le 3000 védett piócával",
+      "summary": "Egy török csempész próbált meg illegálisan átvinni a határon 3000 védett piócát, melyeket valószínűleg feketepiacon értékesített volna. Az eset rávilágít a védett fajok illegális kereskedelmének súlyos problémájára és a természetvédelem fontosságára.",
+      "importance": 3
+    },
+    {
+      "title": "Az AI által generált menük 'egységességének' problémája",
+      "summary": "A mesterséges intelligencia által generált menük gyakran szenvednek az 'egységesség' problémájától, ami fantáziátlan és ismétlődő eredményekhez vezet. Ez a jelenség rávilágít az AI generatív képességeinek jelenlegi korlátaira és a kreativitás hiányára.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A FIFA az UEFA-t vádolja Gianni Infantino elleni lejárató kampánnyal",
-      "summary": "A FIFA azzal vádolja az UEFA-t, hogy lejárató kampányt indított Gianni Infantino elnökük ellen. A két legnagyobb futballszövetség közötti konfliktus jelentős feszültséget okoz a sportág irányításában.",
+      "title": "Milliárdokat fizetett a közmédia a magyar fociért a választások után is",
+      "summary": "A választásokat követően is milliárdos összegeket költött a közmédia a magyar labdarúgás közvetítési jogaira, ami komoly kérdéseket vet fel a közpénzek felhasználásával és a prioritásokkal kapcsolatban. A finanszírozás átláthatósága és indokoltsága kritikák kereszttüzébe került.",
+      "importance": 5
+    },
+    {
+      "title": "FIFA: Az UEFA lejárató kampányt indított Infantino ellen",
+      "summary": "A FIFA állítása szerint az UEFA lejárató kampányt folytat Gianni Infantino FIFA elnök ellen, ami komoly feszültséget jelez a két legnagyobb futballszervezet vezetői között. A vádak befolyásolhatják a nemzetközi futball politikáját.",
       "importance": 4
+    },
+    {
+      "title": "Nincs további releváns sporthír az adott forrásokból",
+      "summary": "A megadott híranyagban nem találtunk további, kiemelten fontos sporttal kapcsolatos cikket. A sportrovat feltöltéséhez további forrásokra lenne szükség.",
+      "importance": 1
+    },
+    {
+      "title": "Nincs további releváns sporthír az adott forrásokból",
+      "summary": "A megadott híranyagban nem találtunk további, kiemelten fontos sporttal kapcsolatos cikket. A sportrovat feltöltéséhez további forrásokra lenne szükség.",
+      "importance": 1
     }
   ]
 }

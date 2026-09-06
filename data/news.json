@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Egy polgármester újrázott, a többit lecserélték az időközi önkormányzati választásokon",
+      "link": "https://telex.hu/belfold/2026/09/06/idokozi-valasztas-vertesszolos-mosonszolnok-mihalyhaza",
+      "summary": "Pusztaapátin a szavazásra jogosult 21 lakó közül 17-en voksoltak, ebből 8 érvénytelen volt."
+    },
+    {
       "title": "Orbán Viktor gratulált az AfD „földcsuszamlásszerű győzelméhez”",
       "link": "https://telex.hu/kulfold/2026/09/06/nemetorszag-szasz-anhalt-valasztas-afd-orban-viktor",
       "summary": "Kapaszkodjatok meg! Ez még csak a kezdet! – jósolta a volt magyar miniszterelnök."
@@ -69,15 +74,15 @@
       "title": "A botrányok ellenére Infantino megerősítette, hogy újraindul a FIFA-elnökségért",
       "link": "https://telex.hu/sport/2026/09/06/gianni-infantino-ujra-elindul-a-fifa-elnoki-posztjaert",
       "summary": "A FIFA elnököt sorra érték a támadások, amiért egyeztetés nélkül magánbefektetőket akart bevonni a vb-rendezésbe."
-    },
-    {
-      "title": "Olcsóbb, gyorsabb, borzasztóbb örökre megsemmisíteni egy könyvet az MI kedvéért",
-      "link": "https://telex.hu/karakter/kultura/2026/09/06/mesterseges-intelligencia-konyv-irodalom-claude-anthropic-nagy-nyelvi-modell-megsemmisites-amazon",
-      "summary": "Tömegével szállítják olyan amerikai depókba a könyveket, ahol beszkennelik, majd elhajítják azokat. A könyvesboltok örülnek, mert kipucolhatják a raktárat, de azért létezne könyvbarátabb megoldás. Ami persze drágább."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "A Fradi sírásói",
+      "link": "https://444.hu/2026/09/07/a-fradi-sirasoi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Két Kossuth téri tüntetés, a Fidesz sorsa, csepeli kommunisták és Izrael meg Törökország viszonya a 444 reggeli hírlevelében."
+    },
     {
       "title": "„Ha nem történik semmi, újra kijövünk” – az Isztambuli Egyezmény ratifikálásáért tüntettek a Kossuth téren",
       "link": "https://444.hu/2026/09/06/ha-nem-tortenik-semmi-ujra-kijovunk-az-isztambuli-egyezmeny-ratifikalasaert-tuntettek-a-kossuth-teren?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -147,14 +152,14 @@
       "title": "Ha van sírásó-nagyhatalom Magyarországon, akkor az Hajdúböszörmény",
       "link": "https://444.hu/2026/09/06/ha-van-siraso-nagyhatalom-magyarorszagon-akkor-az-hajduboszormeny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A böszörményi Paraklétosz két csapattal indult az idei sírásóbajnokságon, az egyik ahogy tavaly, úgy most is a dobogó tetejére állhatott. Helyszíni képriportunk Nyergesújfaluból, ahol nem volt elég a lapát, csákány is kellett."
-    },
-    {
-      "title": "Rekordlétszámú induló és címvédés a Budapest Félmaratonon",
-      "link": "https://444.hu/2026/09/06/rekordletszamu-indulo-es-cimvedes-a-budapest-felmaratonon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "24 ezren vettek részt az eseményen, 117 országból jöttek futók."
     }
   ],
   "HVG": [
+    {
+      "title": "Öten meghaltak, miután túlszaladt a futópályán az Amazon teherszállító repülőgépe Miamiban",
+      "link": "https://hvg.hu/tudomany/20260906_amazon-teherszallito-repulogep-halalos-baleset-miami",
+      "summary": "Balesetet szenvedett és kigyulladt egy teherszállító repülőgép Miami nemzetközi repülőterén."
+    },
     {
       "title": "„Visszavesszük a narancssárga színt a Fidesztől!” – Mit várnak a feministák a Tiszától?",
       "link": "https://hvg.hu/itthon/20260906_isztambuli-egyezmeny-tuntetes-nok-elleni-eroszak-feminizmus",
@@ -224,18 +229,13 @@
       "title": "Biztatónak nevezte a kijevi tárgyalásokat az amerikai megbízott",
       "link": "https://hvg.hu/vilag/20260906_orosz-ukran-haboru-beketargyalas",
       "summary": "Ukrajna szerint igazságos békére van szükség, ami kizárja egy újabb orosz agresszió lehetőségét."
-    },
-    {
-      "title": "Itt vannak a hatos lottó nyerőszámait, taroltak a félprímek",
-      "link": "https://hvg.hu/elet/20260906_hatos-lotto-nyeroszamok",
-      "summary": "Ezúttal sem volt telitalálatos szelvény."
     }
   ],
   "BBC": [
     {
-      "title": "German far-right set for big win in eastern state, projections show",
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win 44% of the vote, far ahead of the conservatives on 17%."
     },
     {
       "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -248,19 +248,9 @@
       "summary": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year."
     },
     {
-      "title": "Jamaica to bring slavery reparations petition to King Charles",
-      "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council."
-    },
-    {
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
-    },
-    {
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+      "title": "BBC News presenter Maryam Moshiri reveals she has blood cancer",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer."
     },
     {
       "title": "140 migrants in single dinghy rescued in English Channel",
@@ -268,9 +258,19 @@
       "summary": "They were transferred onto two lifeboats and taken to shore in the UK."
     },
     {
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "link": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+      "title": "Jamaica to bring slavery reparations petition to King Charles",
+      "link": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council."
+    },
+    {
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down."
+    },
+    {
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
     },
     {
       "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
@@ -310,7 +310,12 @@
   ],
   "TechCrunch": [
     {
-      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
+      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
+      "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store."
+    },
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
     },
@@ -378,11 +383,6 @@
       "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
       "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
       "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis."
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems."
     }
   ],
   "Nature": [

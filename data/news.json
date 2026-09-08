@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Orosz drón csapódott egy kijevi tévécsatorna épületébe",
+      "link": "https://telex.hu/kulfold/2026/09/08/orosz-dron-talalt-el-egy-ukran-tevecsatornat",
+      "summary": "Legalább öten megsérültek a csatorna épületénél. Oroszország a keddi, Kijevet célzó támadásokkal véget vetett az átmeneti tűzszünetnek."
+    },
+    {
       "title": "Mourinho Realja spórolós volt a BL-ben, Gulácsi bemutatkozott a Villarrealban",
       "link": "https://telex.hu/sport/2026/09/08/bajnokok-ligaja-real-madrid-mourinho-gulacsi-peter",
       "summary": "A Real 2–1-re verte az Intert, a Dortmund 3–2-re Gulácsi csapatát, a City Portóban nyert."
@@ -69,11 +74,6 @@
       "title": "Volt hírszerző megmérgezése, lőszerraktár felrobbanása és a háború miatt is tömegével utasítottak ki Európából orosz diplomatákat",
       "link": "https://telex.hu/kulfold/2026/09/08/orosz-diplomatak-kiutasitasa-magyarorszagrol-nemzetkozi-gyakorlat",
       "summary": "Példátlan a tíz orosz diplomata kiutasítása Magyarországról, de a környékünkről küldtek már haza egyszerre ennél többet is – és ezekre mindig érkezett a most is belengetett orosz válasz. A feszültséget jelző lépéseknek számos fokozata van: a németek főkonzulátust is bezártak, Ausztria pedig nemrég szokatlan megoldáshoz nyúlt."
-    },
-    {
-      "title": "Fának ütközött és kisiklott egy motorvonat Szalatnak közelében",
-      "link": "https://telex.hu/belfold/2026/09/08/fanak-utkozott-es-kisiklott-egy-motorvonat-szalatnak-kozeleben",
-      "summary": "A balesetben senki sem sérült meg. Több napig pótlóbusz fog járni Dombóvár és Máza-Szászvár között."
     }
   ],
   "Portfolio": [],
@@ -243,9 +243,29 @@
       "summary": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is."
     },
     {
+      "title": "More flight delays expected after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Departures from a number of airports are affected by a technical problem affecting air traffic control provider Nats."
+    },
+    {
+      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
+      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on."
+    },
+    {
       "title": "RNLI boss says volunteers facing 'unacceptable' abuse",
       "link": "https://www.bbc.co.uk/news/articles/c0j3912qe33o?at_medium=RSS&at_campaign=rss",
       "summary": "Peter Sparkes says there has been \"deliberate misinformation\" spread about the charity."
+    },
+    {
+      "title": "Very hot drinks may damage the food pipe and increase cancer risk",
+      "link": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say."
+    },
+    {
+      "title": "The trail of clues that our planet might be heating faster than we realised",
+      "link": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science."
     },
     {
       "title": "Glastonbury confirms ticket sale dates - and highest ever price",
@@ -253,14 +273,14 @@
       "summary": "The festival will return in June after taking a fallow year, but tickets have topped £400 for the first time."
     },
     {
-      "title": "Trump shares misleading video of King and fainting worker",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president shares a misleading video which appears to show Charles shrugging and walking away from a man who fainted during a royal visit."
+      "title": "LIV files for bankruptcy protection with $45m owed to players",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "LIV Golf has filed for bankruptcy protection with at least $45m (£33m) owed to players, who will now have the option to leave."
     },
     {
-      "title": "LIV Golf players free to leave after bankruptcy protection filing",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "LIV Golf intends to starts its new league early next year after filing for bankruptcy protection in the United States."
+      "title": "Thousands of teens missing education 'under the radar' of official stats, report warns",
+      "link": "https://www.bbc.co.uk/news/articles/cwyznq259elo?at_medium=RSS&at_campaign=rss",
+      "summary": "The children's commissioner for England says many are enrolled at college but aren't showing up."
     },
     {
       "title": "British widow faces deportation from Sweden after 22 years",
@@ -268,29 +288,14 @@
       "summary": "A 78-year-old British woman is facing deportation for failing to fill out a Brexit residence application on time."
     },
     {
-      "title": "Monty Don to leave Gardeners' World after more than 20 years",
-      "link": "https://www.bbc.co.uk/news/articles/c74ew4402kxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The presenter said it had been \"deeply rewarding\" but added that \"now is the right time for a change\"."
-    },
-    {
       "title": "Renoir paintings worth millions stolen in French museum heist",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
       "summary": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight."
     },
     {
-      "title": "Prince George attends first day at Eton College",
-      "link": "https://www.bbc.co.uk/news/videos/clyjdgvzg0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 13 year old was dropped off at the all-boys boarding school by his parents, Prince William and Princess Catherine of Wales."
-    },
-    {
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands."
-    },
-    {
-      "title": "Charli XCX says bye to Brat and Liam Gallagher's tambourine grin - Music Photography Awards 2026 shortlist",
-      "link": "https://www.bbc.co.uk/news/articles/c3re99gp4pro?at_medium=RSS&at_campaign=rss",
-      "summary": "Nominees for the Abbey Road awards captured some of the past year's best moments in music."
+      "title": "I'm 27 and I've already written my will - here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cn8np9wwe35o?at_medium=RSS&at_campaign=rss",
+      "summary": "For many young people making a will may not seem necessary, but here's why you shouldn't put it off."
     },
     {
       "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
@@ -298,17 +303,17 @@
       "summary": "BBC's Middle East correspondent Lucy Williamson reports from an area close to Israel's proposed site in the occupied West Bank."
     },
     {
-      "title": "Forget the Mediterranean diet, I'm eating only food from Shetland for a month",
-      "link": "https://www.bbc.co.uk/news/articles/c74ewj1kdyro?at_medium=RSS&at_campaign=rss",
-      "summary": "Dr Alex Armitage is eating only food grown, reared or caught locally during September."
-    },
-    {
-      "title": "What tariffs will really cost Canadians and Americans",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?"
+      "title": "Hegseth is shaking up the Pentagon as the US wages war - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
+      "summary": "The upheaval in the military could shape the legacy of Trump's second term, writes the BBC's Tom Bateman."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+      "summary": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\""
+    },
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
       "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
@@ -378,88 +383,7 @@
       "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
       "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
       "summary": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations."
-    },
-    {
-      "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-      "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-      "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI glasses, backed by $25 million from Elad Gil, Khosla Ventures, and Lennar to tackle a labor shortage severe enough that data center projects alone now need 4,000 to 5,000 workers apiece."
     }
   ],
-  "Nature": [
-    {
-      "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
-      "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11081-7\">doi:10.1038/s41586-026-11081-7</a></p>Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia"
-    },
-    {
-      "title": "Put patients at the centre of medical AI governance",
-      "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02796-8\">doi:10.1038/d41586-026-02796-8</a></p>Put patients at the centre of medical AI governance"
-    },
-    {
-      "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-      "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02794-w\">doi:10.1038/d41586-026-02794-w</a></p>Nepal disaster is a wake-up call to take compound climate risks seriously"
-    },
-    {
-      "title": "Sideline vested interests to reform China’s research",
-      "link": "https://www.nature.com/articles/d41586-026-02797-7",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02797-7\">doi:10.1038/d41586-026-02797-7</a></p>Sideline vested interests to reform China’s research"
-    },
-    {
-      "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
-      "link": "https://www.nature.com/articles/d41586-026-02795-9",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02795-9\">doi:10.1038/d41586-026-02795-9</a></p>Limit bets on clinical-trial outcomes being placed on prediction markets"
-    },
-    {
-      "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
-      "link": "https://www.nature.com/articles/d41586-026-02722-y",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02722-y\">doi:10.1038/d41586-026-02722-y</a></p>A physics pioneer who provided a new way to describe temperature, and the value of studying fossilized tracks in this week’s pick from the Nature archive."
-    },
-    {
-      "title": "The World Bank is right to prioritize reproducibility",
-      "link": "https://www.nature.com/articles/d41586-026-02678-z",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02678-z\">doi:10.1038/d41586-026-02678-z</a></p>The development bank and others are starting to publish and verify the raw data and code accompanying their research-based reports and papers. Other agencies should do the same."
-    },
-    {
-      "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
-      "link": "https://www.nature.com/articles/d41586-026-02407-6",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02407-6\">doi:10.1038/d41586-026-02407-6</a></p>A new government policy seeks to balance innovation and safety."
-    },
-    {
-      "title": "Two children died from gene therapies in China: where the field goes next",
-      "link": "https://www.nature.com/articles/d41586-026-02497-2",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02497-2\">doi:10.1038/d41586-026-02497-2</a></p>Strengthened laws should help to ensure future deaths are quickly disclosed to the public, but China’s reputation for such research is at risk."
-    },
-    {
-      "title": "Why this neuroscientist is taking the plunge into science advocacy",
-      "link": "https://www.nature.com/articles/d41586-026-02457-w",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02457-w\">doi:10.1038/d41586-026-02457-w</a></p>As funding cuts reshape the US research landscape, Stefano Cataldi is turning towards policy and advocacy work to defend science."
-    },
-    {
-      "title": "A data leak shut a top research biobank: lessons from the recovery",
-      "link": "https://www.nature.com/articles/d41586-026-02803-y",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02803-y\">doi:10.1038/d41586-026-02803-y</a></p>The UK Biobank is imposing new safety measures after a security incident, but safeguarding biomedical data while enabling researcher access remains a challenge."
-    },
-    {
-      "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
-      "link": "https://www.nature.com/articles/d41586-026-02835-4",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02835-4\">doi:10.1038/d41586-026-02835-4</a></p>AI model AlphaGenome forecasts the consequences of altering every single DNA letter in the human genome."
-    },
-    {
-      "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
-      "link": "https://www.nature.com/articles/d41586-026-02842-5",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02842-5\">doi:10.1038/d41586-026-02842-5</a></p>The company says it has cracked the physics of fluids using AI, solving one of the toughest puzzles in mathematics."
-    },
-    {
-      "title": "‘Mother of Hubble’: how Nancy Grace Roman ushered in a new era of astronomy",
-      "link": "https://www.nature.com/articles/d41586-026-02802-z",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02802-z\">doi:10.1038/d41586-026-02802-z</a></p>The scientist honoured by the newest telescope in space spearheaded a pioneering programme as NASA’s first chief astronomer."
-    },
-    {
-      "title": "How countries can grow without impoverishing future generations",
-      "link": "https://www.nature.com/articles/d41586-026-02807-8",
-      "summary": "<p>Nature, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02807-8\">doi:10.1038/d41586-026-02807-8</a></p>Governments should invest to develop all types of capital, and not just income, to improve the lives of future citizens and to protect the planet."
-    }
-  ]
+  "Nature": []
 }

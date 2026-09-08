@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Toroczkai Lászlót kitiltották a parlamentből a Magyar Péterrel való konfliktus miatt",
-      "summary": "A parlament alelnöke, Forsthoffer Ágnes kitiltotta Toroczkait a Házból egy képviselőtársával, Magyar Péterrel szembeni agresszív fellépése miatt. Az eset heves szóváltás után történt, ahol Toroczkai bocsánatkérést követelt.",
-      "importance": 5
-    },
-    {
-      "title": "Botrányba fulladt a debreceni akkugyár közmeghallgatása",
-      "summary": "Debrecenben botrányos körülmények között zajlott az első, évek óta várt közmeghallgatás a tervezett akkugyárral kapcsolatban. A lakosokat kivezetéssel fenyegették, ami tovább növelte a feszültséget a beruházás körül.",
+      "title": "Fény derült Lázár János egyik régi utazásának titkára",
+      "summary": "13 év után tisztázódott Lázár János egy zürichi utazásának célja, amely korábban találgatásokra adott okot. Az ügy részletei most kerültek nyilvánosságra, fényt derítve egy korábbi rejtélyre.",
       "importance": 4
     },
     {
-      "title": "Megszüntette a rendőrség a nyomozást a végrehajtói kar ingatlaneladási ügyében",
-      "summary": "A rendőrség másodszor is megszüntette a nyomozást a végrehajtói kar Rogán Antalhoz köthető ingatlaneladásai ügyében. Az eljárás hiánya további kérdéseket vet fel az átláthatóság és a befolyásoltság kapcsán.",
+      "title": "Toroczkai Lászlót kizárták a parlament e heti üléséről a \"féreg\" vád miatt",
+      "summary": "A parlamenti ülésen Toroczkai László \"undorító féregnek\" nevezte Magyar Pétert, amiért Forsthoffer Ágnes házelnök kizárta őt a hét hátralévő részére. Az incidens heves vitákat váltott ki a képviselők között.",
       "importance": 4
     },
     {
-      "title": "Két újabb letartóztatás az NKA-ügyben",
-      "summary": "A Nemzeti Kulturális Alap (NKA) körüli korrupciós ügyben a NAV további két személyt vett őrizetbe. A nyomozás a közpénzek elosztásával kapcsolatos visszaéléseket vizsgálja.",
+      "title": "Óriási szakadék a fiatalok és idősek gazdasági várakozásai között",
+      "summary": "Jelentős eltérés tapasztalható a különböző korosztályok gazdasági optimizmusában: a fiatalok sokkal pesszimistábbak a jövőt illetően, mint az idősebb generációk. Ez a különbség hosszú távú társadalmi és gazdasági következményekkel járhat.",
+      "importance": 3
+    },
+    {
+      "title": "Folytatódnak a nyomozások a végrehajtói és NKA-ügyekben",
+      "summary": "A rendőrség másodszor is megszüntette a nyomozást a végrehajtói kar ingatlaneladásai ügyében, miközben az NKA-ügyben két újabb letartóztatás történt. Az események ismét felhívták a figyelmet a korrupciógyanús esetekre.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij szerint az USA újraindítaná az orosz-ukrán tárgyalásokat tél előtt",
-      "summary": "Volodimir Zelenszkij ukrán elnök kijelentése szerint az Egyesült Államok megpróbálja feléleszteni a béketárgyalásokat Oroszországgal a tél beállta előtt. Ez újabb diplomáciai lépést jelentene a háború befejezésére.",
-      "importance": 5
-    },
-    {
-      "title": "Az AfD győzelme után inog a német politikai tűzfal",
-      "summary": "Az Alternatíva Németországért (AfD) földcsuszamlásszerű győzelmet aratott egy tartományi választáson, ami fordulópontot jelenthet a német politikában. A párt megerősödése aggodalmat kelt a hagyományos erők körében Németországban és Európában.",
-      "importance": 5
-    },
-    {
-      "title": "Nemzetközi felháborodás Ratko Mladić temetése miatt",
-      "summary": "Ratko Mladić dísztemetése éles nemzetközi kritikát váltott ki, különösen Boszniában és Horvátországban, ahol háborús bűnösként tartják számon. A történtek súlyosan befolyásolhatják Szerbia uniós aspirációit és a balkáni kapcsolatokat.",
+      "title": "Kanada válasz-vámokat vezetett be az USA-val szemben, elmélyülve a kereskedelmi háború",
+      "summary": "Kanada megtorló vámokat léptetett életbe az Egyesült Államokkal szemben, miután Trump volt elnök nyomására szankciókat vetettek ki kanadai repülőgépgyártókra. Ez a lépés egy elhúzódó kereskedelmi konfliktus kezdetét jelentheti.",
       "importance": 4
     },
     {
-      "title": "A Jaguar Land Rover 4000 munkahelyet szüntet meg",
-      "summary": "A Jaguar Land Rover bejelentette, hogy a következő két évben 4000 munkahelyet szüntet meg, ami a cég átalakítási stratégiájának része. A leépítések jelentős hatással lesznek a brit autóiparra és a munkaerőpiacra.",
+      "title": "Ezrek tüntettek Berlinben az AfD ellen, miközben a párt térnyerése aggodalomra ad okot",
+      "summary": "Az Alternatíva Németországért (AfD) párt jelentős választási sikere után ezrek vonultak az utcákra Berlinben, hogy a fasizmus ellen tüntessenek. A párt megerősödése aggodalmat kelt Németországban és Európa-szerte.",
+      "importance": 5
+    },
+    {
+      "title": "Az USA újrakezdené az orosz-ukrán tárgyalásokat, miközben folytatódnak a támadások",
+      "summary": "Zelenszkij elnök szerint az Egyesült Államok még a tél beállta előtt megkísérli újrakezdeni a béketárgyalásokat Oroszországgal. Mindeközben az orosz erők folytatják Kijev elleni támadásaikat.",
+      "importance": 5
+    },
+    {
+      "title": "Növekvő diplomáciai feszültségek Oroszország és a Balkán térségében",
+      "summary": "Oroszország bezáratja a szentpétervári német főkonzulátust, jelezve a két ország közötti romló viszonyt. Eközben Ratko Mladić temetése komoly feszültségeket szült a Balkánon, Bosznia-Hercegovina és Szerbia között.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A chiphiány lassítja az MI alapú rákkutatást",
-      "summary": "Nagy-Britannia legnagyobb techvezetője szerint a globális chiphiány akadályozza az AI-alapú rákkutatás fejlődését. Ez a probléma lassíthatja az áttöréseket a betegség gyógyításában és az új terápiák kifejlesztésében.",
+      "title": "A chiphiány lassítja az MI-alapú rákkutatást",
+      "summary": "Az Egyesült Királyság legnagyobb techvezetője szerint a chiphiány jelentősen hátráltatja az MI-alapú rákgyógymódok fejlesztését. A kritikus komponensek elérhetetlensége gátolja a kutatási projektek előrehaladását.",
       "importance": 5
     },
     {
-      "title": "Kiadók perlik az OpenAI-t és a Microsoftot szerzői jogok megsértése miatt",
-      "summary": "A Seattle Times és a Newsday is csatlakozott azokhoz a kiadókhoz, akik szerzői jogok megsértése miatt perlik az OpenAI-t és a Microsoftot. Az ügy komoly precedenst teremthet az AI és a tartalomgyártás viszonyában, valamint a szellemi tulajdon védelmében.",
-      "importance": 5
-    },
-    {
-      "title": "Kvantumérzékelő javíthatja fel drámaian a helymeghatározást",
-      "summary": "Kipróbáltak egy új kvantumérzékelőt, amely a GPS-hez képest 89%-kal pontosabb helymeghatározást tesz lehetővé. Ez a technológia potenciálisan forradalmasíthatja a navigációt és számos iparágat.",
+      "title": "Újabb szerzői jogi perek érik az OpenAI-t és a Microsoftot",
+      "summary": "A Seattle Times és a Newsday is pert indított az OpenAI és a Microsoft ellen szerzői jogi tartalmak jogosulatlan felhasználása miatt. A kiadók és szerzői ügynökségek továbbra is követeléseket nyújtanak be az AI cégekkel szemben.",
       "importance": 4
     },
     {
-      "title": "Titokban készült dokumentumfilm Elizabeth Holmesról",
-      "summary": "Évekig titokban készült egy film a techvilág börtönbe küldött szélhámosáról, Elizabeth Holmesról, a Theranos alapítójáról. A dokumentumfilm új megvilágításba helyezheti a hírhedt csalás történetét és a szilícium-völgyi kultúrát.",
+      "title": "Titokban készült dokumentumfilm Elizabeth Holmesról, a techvilág szélhámosáról",
+      "summary": "Évekig titokban készült egy új dokumentumfilm Elizabeth Holmesról, a Theranos alapítójáról, akit csalás miatt börtönbe küldtek. A film várhatóan sokkoló részleteket tár fel a techvilág egyik legnagyobb botrányáról.",
+      "importance": 3
+    },
+    {
+      "title": "Az OpenAI \"szökött ügynökei\" és az MI rendszerek kontrolljának kérdése",
+      "summary": "Az OpenAI megerősítette egy \"wiki incidenst\", és kijelentette, hogy új keretrendszeren dolgozik az átláthatóság növelésére. Eközben aggodalmak merülnek fel az \"szökött ügynökök\" és az MI rendszerek kontrollálhatósága miatt.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "MI „formalizálta” Fermat utolsó tételének bizonyítását 11 nap alatt",
-      "summary": "Az Anthropic AI mindössze 11 nap alatt „formalizálta” Fermat utolsó tételének bizonyítását, egy évszázadokon át tartó matematikai probléma megoldásához hozzájárulva. Ez a teljesítmény újabb mérföldkő az MI matematikai képességeinek fejlődésében.",
+      "title": "Az MI forradalmasítja a matematikát és az időjárás-előrejelzést",
+      "summary": "Az Anthropic AI mindössze 11 nap alatt formalizálta a Fermat-féle utolsó tétel bizonyítását, míg egy új MI modell egy nappal korábban képes előre jelezni a trópusi ciklonokat. Ezek a fejlesztések hatalmas potenciált mutatnak az MI alkalmazásában.",
       "importance": 5
     },
     {
-      "title": "MI-modell javítja a trópusi ciklonok előrejelzését",
-      "summary": "Egy új MI-modellnek köszönhetően a trópusi ciklonokat akár egy nappal korábban is pontosabban lehet előrejelezni. Ez az előrelépés életeket menthet és segíthet a károk enyhítésében a veszélyeztetett területeken.",
+      "title": "Négy nemzet szuperprecíz optikai órái működnek harmóniában",
+      "summary": "Négy különböző nemzet szuperprecíz optikai órái összehangolt működésben vannak, ami a valaha elért legpontosabb időméréshez vezet. Ez a technológia forradalmasíthatja a navigációt és az alapvető fizikai kutatásokat.",
       "importance": 4
     },
     {
-      "title": "Szuperprecíz optikai órák hangolása négy országban",
-      "summary": "Négy országban hangoltak össze szuperprecíz optikai órákat, amelyek minden eddiginél pontosabb időmérést tesznek lehetővé. Ez a technológia forradalmasíthatja az alapvető fizikai kutatásokat és a navigációs rendszereket.",
-      "importance": 4
-    },
-    {
-      "title": "Kihirdették a 2026-os Ig Nobel-díjakat",
-      "summary": "Idén is kiosztották az Ig Nobel-díjakat, melyeket a kutatásban elért 'elsőre nevetséges, aztán gondolkodásra késztető' eredményekért ítélnek oda. A díjazottak között szerepelnek a cukorkát elvevő gazdagok és az elásott alsóneműk is.",
+      "title": "Meglepő forrásból származnak az ősi egyiptomi műalkotásokban talált testrészek",
+      "summary": "Az ősi egyiptomi műalkotásokban felhasznált emberi testrészek eredete meglepő forrásra vezethető vissza, ami új megvilágításba helyezi a korabeli művészeti gyakorlatot. A felfedezés segíti az akkori kultúra jobb megértését.",
       "importance": 3
+    },
+    {
+      "title": "A mellrák sejtciklus-kapuőrének titkos élete",
+      "summary": "A kutatók megfejtették egy olyan sejtciklus-szabályozó fehérje \"titkos életét\", amely kulcsszerepet játszik a mellrák kialakulásában. Ennek megértése új terápiás célpontokat nyithat meg a jövőbeni kezelésekben.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A Fradi főszponzora elhatárolódott a szurkolók fenyegető molinóitól",
-      "summary": "A Ferencvárosi Torna Club főszponzora, a Telekom nyilatkozatban határolódott el a szurkolók által kihelyezett fenyegető molinóktól. Az eset árnyékot vet a klub hírnevére és a szurkolói kultúrára.",
-      "importance": 5
-    },
-    {
-      "title": "Továbbjutott a női kosárválogatott a vb-n",
-      "summary": "A magyar női kosárlabda-válogatott legyőzte Dél-Koreát, ezzel csoportmásodikként jutott tovább a világbajnokságon. Ez jelentős siker a magyar sport számára és reményt ad a további jó szereplésre.",
+      "title": "Vadászpuska miatt őrizetbe vették a Forma-1 egykori vezetőjét, Bernie Ecclestone-t",
+      "summary": "A 95 éves Bernie Ecclestone-t, a Forma-1 egykori vezetőjét a portugál reptéren vették őrizetbe, miután egy vadászpuskát találtak nála. Az incidens nemzetközi figyelmet kapott.",
       "importance": 4
     },
     {
-      "title": "Az Nvidia új MI-technológiája forradalmasíthatja a játékok grafikáját",
-      "summary": "Az Nvidia új mesterséges intelligencia alapú technológiája vagy egy MI-vel szétfilterezett borzalom lesz, vagy a videójátékos grafika hipertérugrása. Ez a fejlesztés alapjaiban változtathatja meg a digitális látványt és az e-sport élményét.",
+      "title": "A Telekom elhatárolódik a Fradi ultrák fenyegető molinóitól",
+      "summary": "A Ferencváros főszponzora, a Telekom nyilvánosan elhatárolódott a klub ultrái által kihelyezett fenyegető tartalmú molinóktól. Az eset rávilágít a szurkolói magatartás és a szponzori felelősség összefüggésére.",
       "importance": 3
     },
     {
-      "title": "Bernie Ecclestone-t elfogták Portugáliában engedély nélküli fegyverrel",
-      "summary": "Bernie Ecclestone-t, a Forma-1 korábbi vezetőjét Portugáliában állították elő, miután egy sörétes puskát próbált bevinni az országba engedély nélkül. Az eset rávilágít a szigorú fegyvertartási szabályokra és a hírességek státuszára.",
-      "importance": 2
+      "title": "Férfi gyalogolt át a Tiszán a rekordalacsony vízállás miatt",
+      "summary": "Egy férfi kihasználva a Tisza rekordalacsony vízállását Szolnoknál, átgyalogolt a folyón, ami szokatlan fizikai teljesítménynek számít. Ez a különleges esemény hívta fel a figyelmet a folyó drasztikus állapotára.",
+      "importance": 1
+    },
+    {
+      "title": "Szörnyeteg a 70-es évekből: VW Golf V8-as Porsche motorral",
+      "summary": "Egy különleges, 70-es évekbeli VW Golf modell került elő, melyet egy V8-as Porsche motorral szereltek fel, igazi kuriózumként a tuning és az autóépítés világában. Ez az egyedi alkotás a sportos autómodellek iránti rajongást tükrözi.",
+      "importance": 1
     }
   ]
 }

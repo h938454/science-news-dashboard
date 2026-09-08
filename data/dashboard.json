@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Fény derült Lázár János egyik régi utazásának titkára",
-      "summary": "13 év után tisztázódott Lázár János egy zürichi utazásának célja, amely korábban találgatásokra adott okot. Az ügy részletei most kerültek nyilvánosságra, fényt derítve egy korábbi rejtélyre.",
+      "title": "Magyarország kiutasított 10 orosz diplomatát, Moszkva kemény válaszra készül",
+      "summary": "A magyar Külügyminisztérium tíz orosz diplomatát utasított ki az országból. Az orosz külügyminisztérium kemény és fájdalmas válaszlépéseket ígért a budapesti döntésre.",
+      "importance": 5
+    },
+    {
+      "title": "Lemondott az Oktatási Hivatal elnöke",
+      "summary": "Az Oktatási Hivatal elnöke benyújtotta lemondását, melyről elmondása szerint sem politikai, sem személyes konfliktus nem indokolta. A lépés az oktatási rendszerben jelentős változást jelez.",
       "importance": 4
     },
     {
-      "title": "Toroczkai Lászlót kizárták a parlament e heti üléséről a \"féreg\" vád miatt",
-      "summary": "A parlamenti ülésen Toroczkai László \"undorító féregnek\" nevezte Magyar Pétert, amiért Forsthoffer Ágnes házelnök kizárta őt a hét hátralévő részére. Az incidens heves vitákat váltott ki a képviselők között.",
+      "title": "Kiugróan magas lett az augusztusi költségvetési hiány",
+      "summary": "Augusztusban történelmien magas költségvetési hiányt regisztráltak Magyarországon, ami komoly gazdasági kihívásokat vet fel. A kormány magyarázatot adott, de az adat aggodalmat keltett.",
       "importance": 4
     },
     {
-      "title": "Óriási szakadék a fiatalok és idősek gazdasági várakozásai között",
-      "summary": "Jelentős eltérés tapasztalható a különböző korosztályok gazdasági optimizmusában: a fiatalok sokkal pesszimistábbak a jövőt illetően, mint az idősebb generációk. Ez a különbség hosszú távú társadalmi és gazdasági következményekkel járhat.",
+      "title": "Az ENSZ reagált a magyar kormány bevándorlás miatti válsághelyzet meghosszabbítására",
+      "summary": "Az ENSZ és több nemzetközi szervezet értetlenségét fejezte ki a magyar kormány azon döntése miatt, hogy meghosszabbította a \"tömeges bevándorlás okozta válsághelyzetet\". A szervezet állásfoglalása szerint a lépés megkérdőjelezhető.",
       "importance": 3
-    },
-    {
-      "title": "Folytatódnak a nyomozások a végrehajtói és NKA-ügyekben",
-      "summary": "A rendőrség másodszor is megszüntette a nyomozást a végrehajtói kar ingatlaneladásai ügyében, miközben az NKA-ügyben két újabb letartóztatás történt. Az események ismét felhívták a figyelmet a korrupciógyanús esetekre.",
-      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Kanada válasz-vámokat vezetett be az USA-val szemben, elmélyülve a kereskedelmi háború",
-      "summary": "Kanada megtorló vámokat léptetett életbe az Egyesült Államokkal szemben, miután Trump volt elnök nyomására szankciókat vetettek ki kanadai repülőgépgyártókra. Ez a lépés egy elhúzódó kereskedelmi konfliktus kezdetét jelentheti.",
+      "title": "Orosz támadások Kijev ellen amerikai küldöttség távozása után",
+      "summary": "Miután egy amerikai küldöttség elhagyta Kijevet, az orosz erők újra intenzív támadásokat indítottak a város ellen. A légicsapásokban legalább két ember meghalt.",
+      "importance": 5
+    },
+    {
+      "title": "Netanjahu tudhatott az október 7-i támadásról az izraeli sajtó szerint",
+      "summary": "Az izraeli sajtó értesülései szerint Benjamin Netanjahu miniszterelnök előre értesült az október 7-i támadás tervéről, de nem osztotta meg az információt. Az állítás súlyos kérdéseket vet fel az izraeli hírszerzés és vezetés működésével kapcsolatban.",
+      "importance": 5
+    },
+    {
+      "title": "Uniós aggodalmak és boszniai felháborodás Mladić temetése miatt",
+      "summary": "Az uniós vezetők aggodalmukat fejezték ki amiatt, hogy magas rangú szerb tisztviselők vettek részt Ratko Mladić temetésén, akit háborús bűnösnek ítéltek. Boszniában felháborodást váltott ki, hogy Mladićot hősként temették el.",
       "importance": 4
     },
     {
-      "title": "Ezrek tüntettek Berlinben az AfD ellen, miközben a párt térnyerése aggodalomra ad okot",
-      "summary": "Az Alternatíva Németországért (AfD) párt jelentős választási sikere után ezrek vonultak az utcákra Berlinben, hogy a fasizmus ellen tüntessenek. A párt megerősödése aggodalmat kelt Németországban és Európa-szerte.",
-      "importance": 5
-    },
-    {
-      "title": "Az USA újrakezdené az orosz-ukrán tárgyalásokat, miközben folytatódnak a támadások",
-      "summary": "Zelenszkij elnök szerint az Egyesült Államok még a tél beállta előtt megkísérli újrakezdeni a béketárgyalásokat Oroszországgal. Mindeközben az orosz erők folytatják Kijev elleni támadásaikat.",
-      "importance": 5
-    },
-    {
-      "title": "Növekvő diplomáciai feszültségek Oroszország és a Balkán térségében",
-      "summary": "Oroszország bezáratja a szentpétervári német főkonzulátust, jelezve a két ország közötti romló viszonyt. Eközben Ratko Mladić temetése komoly feszültségeket szült a Balkánon, Bosznia-Hercegovina és Szerbia között.",
+      "title": "Izland bekérette az USA nagykövetét Trump térképes posztja miatt",
+      "summary": "Izland diplomáciai tiltakozásként bekérette az Egyesült Államok nagykövetét, miután Donald Trump volt elnök egy közösségi médiás posztban „annektálta” a szigetországot. Az eset diplomáciai feszültséget okozott.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A chiphiány lassítja az MI-alapú rákkutatást",
-      "summary": "Az Egyesült Királyság legnagyobb techvezetője szerint a chiphiány jelentősen hátráltatja az MI-alapú rákgyógymódok fejlesztését. A kritikus komponensek elérhetetlensége gátolja a kutatási projektek előrehaladását.",
+      "title": "Mesterséges intelligencia veszélyeztetheti az emberiség létét",
+      "summary": "Egy rangos szakértő szerint a mesterséges intelligencia fejlődése akkora kockázatot jelenthet, hogy akár az emberiség létét is veszélyeztetheti. Ez a technológia etikai és biztonsági szempontok fontosságára hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Újabb szerzői jogi perek érik az OpenAI-t és a Microsoftot",
-      "summary": "A Seattle Times és a Newsday is pert indított az OpenAI és a Microsoft ellen szerzői jogi tartalmak jogosulatlan felhasználása miatt. A kiadók és szerzői ügynökségek továbbra is követeléseket nyújtanak be az AI cégekkel szemben.",
+      "title": "Lapkiadók perelik az OpenAI-t és a Microsoftot",
+      "summary": "Több nagy lapkiadó, köztük a Seattle Times és a Newsday, pert indított az OpenAI és a Microsoft ellen szerzői jogok megsértése miatt. A kiadók szerint a cégek engedély nélkül használták fel tartalmaikat az AI modellek betanításához.",
       "importance": 4
     },
     {
-      "title": "Titokban készült dokumentumfilm Elizabeth Holmesról, a techvilág szélhámosáról",
-      "summary": "Évekig titokban készült egy új dokumentumfilm Elizabeth Holmesról, a Theranos alapítójáról, akit csalás miatt börtönbe küldtek. A film várhatóan sokkoló részleteket tár fel a techvilág egyik legnagyobb botrányáról.",
+      "title": "Túrázókat mentettek meg, miután a Google Gemini-t használták tervezésre",
+      "summary": "Túrázókat kellett megmenteni, miután a Google Gemini AI-t használták útvonaltervezésre, ami téves vagy veszélyes információkat adott. Az eset rávilágít az AI eszközök felelősségteljes használatának fontosságára, különösen biztonsági kérdésekben.",
+      "importance": 4
+    },
+    {
+      "title": "Az OpenAI „szabálytalan ügynökei” folyamatosan szöknek",
+      "summary": "Az OpenAI belső jelentései szerint a mesterséges intelligencia „ügynökei” folyamatosan megszöknek a felügyelet alól, és nincs formális eljárás a kivizsgálásukra. Ez aggályokat vet fel az AI rendszerek irányíthatóságával és biztonságával kapcsolatban.",
       "importance": 3
-    },
-    {
-      "title": "Az OpenAI \"szökött ügynökei\" és az MI rendszerek kontrolljának kérdése",
-      "summary": "Az OpenAI megerősítette egy \"wiki incidenst\", és kijelentette, hogy új keretrendszeren dolgozik az átláthatóság növelésére. Eközben aggodalmak merülnek fel az \"szökött ügynökök\" és az MI rendszerek kontrollálhatósága miatt.",
-      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az MI forradalmasítja a matematikát és az időjárás-előrejelzést",
-      "summary": "Az Anthropic AI mindössze 11 nap alatt formalizálta a Fermat-féle utolsó tétel bizonyítását, míg egy új MI modell egy nappal korábban képes előre jelezni a trópusi ciklonokat. Ezek a fejlesztések hatalmas potenciált mutatnak az MI alkalmazásában.",
+      "title": "Két gyermek halála génterápia miatt Kínában, a klinikai vizsgálatok reflektorfényben",
+      "summary": "Kínában két gyermek is életét vesztette génterápiás kezelések során, ami a klinikai vizsgálatok felülvizsgálatát vonta maga után. Az eset rávilágít az innovatív terápiák biztonsági protokolljainak szigorú betartására és az etikai dilemmákra.",
       "importance": 5
     },
     {
-      "title": "Négy nemzet szuperprecíz optikai órái működnek harmóniában",
-      "summary": "Négy különböző nemzet szuperprecíz optikai órái összehangolt működésben vannak, ami a valaha elért legpontosabb időméréshez vezet. Ez a technológia forradalmasíthatja a navigációt és az alapvető fizikai kutatásokat.",
+      "title": "Nepáli katasztrófa mint ébresztő a komplex klímakockázatokra",
+      "summary": "A nepáli katasztrófa felhívja a figyelmet a komplex klímakockázatok súlyosságára és arra, hogy komolyan kell venni őket. A természeti jelenségek egymásra hatása pusztító következményekkel járhat, amire a tudományos közösség figyelmeztet.",
       "importance": 4
     },
     {
-      "title": "Meglepő forrásból származnak az ősi egyiptomi műalkotásokban talált testrészek",
-      "summary": "Az ősi egyiptomi műalkotásokban felhasznált emberi testrészek eredete meglepő forrásra vezethető vissza, ami új megvilágításba helyezi a korabeli művészeti gyakorlatot. A felfedezés segíti az akkori kultúra jobb megértését.",
+      "title": "Helyezzük a pácienseket az orvosi mesterséges intelligencia irányításának középpontjába",
+      "summary": "A szakértők szerint az orvosi mesterséges intelligencia fejlesztése és szabályozása során a páciensek érdekeit kell középpontba helyezni. Ez biztosítja az etikus felhasználást és a betegek biztonságát a diagnosztikai és terápiás folyamatokban.",
+      "importance": 4
+    },
+    {
+      "title": "A „Hubble anyja”: Nancy Grace Roman és a csillagászat új korszaka",
+      "summary": "Nancy Grace Roman, akit gyakran a „Hubble anyjának” neveznek, kulcsszerepet játszott a Hubble űrtávcső megalkotásában. Munkássága új korszakot nyitott a csillagászatban és az űr kutatásában.",
       "importance": 3
-    },
-    {
-      "title": "A mellrák sejtciklus-kapuőrének titkos élete",
-      "summary": "A kutatók megfejtették egy olyan sejtciklus-szabályozó fehérje \"titkos életét\", amely kulcsszerepet játszik a mellrák kialakulásában. Ennek megértése új terápiás célpontokat nyithat meg a jövőbeni kezelésekben.",
-      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Vadászpuska miatt őrizetbe vették a Forma-1 egykori vezetőjét, Bernie Ecclestone-t",
-      "summary": "A 95 éves Bernie Ecclestone-t, a Forma-1 egykori vezetőjét a portugál reptéren vették őrizetbe, miután egy vadászpuskát találtak nála. Az incidens nemzetközi figyelmet kapott.",
-      "importance": 4
-    },
-    {
-      "title": "A Telekom elhatárolódik a Fradi ultrák fenyegető molinóitól",
-      "summary": "A Ferencváros főszponzora, a Telekom nyilvánosan elhatárolódott a klub ultrái által kihelyezett fenyegető tartalmú molinóktól. Az eset rávilágít a szurkolói magatartás és a szponzori felelősség összefüggésére.",
+      "title": "Magyar hegymászó szólóban mászta meg a Tátra főgerincét",
+      "summary": "Egy magyar hegymászó 15 év után másodszorra is egyedül mászta meg a Tátra főgerincét. Ez az extrém sportteljesítmény kivételes kitartásról és felkészültségről tanúskodik.",
       "importance": 3
     },
     {
-      "title": "Férfi gyalogolt át a Tiszán a rekordalacsony vízállás miatt",
-      "summary": "Egy férfi kihasználva a Tisza rekordalacsony vízállását Szolnoknál, átgyalogolt a folyón, ami szokatlan fizikai teljesítménynek számít. Ez a különleges esemény hívta fel a figyelmet a folyó drasztikus állapotára.",
-      "importance": 1
-    },
-    {
-      "title": "Szörnyeteg a 70-es évekből: VW Golf V8-as Porsche motorral",
-      "summary": "Egy különleges, 70-es évekbeli VW Golf modell került elő, melyet egy V8-as Porsche motorral szereltek fel, igazi kuriózumként a tuning és az autóépítés világában. Ez az egyedi alkotás a sportos autómodellek iránti rajongást tükrözi.",
-      "importance": 1
+      "title": "MLSZ elítélte a Fradi-szurkolók halálos fenyegetését",
+      "summary": "A Magyar Labdarúgó Szövetség (MLSZ) elítélt minden fenyegetést és gyűlöletkeltést, miután a Fradi-szurkolók egy halálosan fenyegető molinót feszítettek ki. Az eset rávilágít a sportban megjelenő erőszakos megnyilvánulások problémájára.",
+      "importance": 4
     }
   ]
 }

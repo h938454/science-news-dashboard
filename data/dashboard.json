@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Parlament választ új alkotmánybírókat",
-      "summary": "Az Országgyűlés kedden ül össze, hogy megválassza az Alkotmánybíróság új tagjait. Ez a döntés kulcsfontosságú az ország jogrendjének és intézményeinek működése szempontjából.",
+      "title": "Négyéves csúcson a gázár, magyar állami százmilliárdok sorsa múlik a beszerzés időzítésén",
+      "summary": "A gázárak négyéves csúcsot értek el a piacon, ami hatalmas kihívást jelent Magyarország számára. Az állami százmilliárdok sorsa múlhat azon, hogy a beszerzéseket mikor és milyen feltételekkel időzítik.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter gyermekvédelmi jelentést hoz nyilvánosságra",
-      "summary": "Magyar Péter szombaton tárja a nyilvánosság elé „éheztetésről és bántalmazásról a hatalom tudtával” szóló gyermekvédelmi jelentését. Az ügy komoly társadalmi és politikai visszhangot válthat ki.",
+      "title": "Magyar a V4-találkozón: Nincs rendben, hogy napi egymillió eurót fizetünk azért, mert megvédjük az EU közös határait",
+      "summary": "Egy V4-es találkozón felmerült, hogy Magyarország napi egymillió eurót fizet az EU-nak a határvédelem miatt, ami ellen a magyar fél tiltakozik. Ezt a költséget az EU közös határvédelméért tett erőfeszítések díjaként kell kifizetni.",
+      "importance": 4
+    },
+    {
+      "title": "Ha minden így megy tovább, alig több mint 5 millióan leszünk 2100-ra",
+      "summary": "A demográfiai előrejelzések szerint, ha a jelenlegi tendencia folytatódik, Magyarország lakossága 2100-ra alig több mint 5 millió főre csökkenhet. Ez komoly társadalmi és gazdasági kihívásokat vet fel a jövőre nézve.",
       "importance": 5
     },
     {
-      "title": "Kármán András szerint szétesett a költségvetési politika",
-      "summary": "Kármán András gazdasági szakértő úgy véli, az eddigi magyar gazdasági modell kifulladt, és a kormány alatt a költségvetési politika teljesen szétesett. Ez a kritika komoly aggályokat vet fel az ország gazdasági stabilitásával kapcsolatban.",
-      "importance": 4
-    },
-    {
-      "title": "Vita a MOHU elektronikai hulladékgyűjtési rendjéről Ferencvárosban",
-      "summary": "Baranyi Krisztina ferencvárosi polgármester felháborodott, mert állítása szerint a MOHU változtatott az elektronikai hulladékgyűjtésen, és a lakók mostantól nem adhatják le az önkormányzat gyűjtésén. Ez a változás jelentős fennakadásokat okozhat a kerületben élőknek.",
-      "importance": 4
+      "title": "Levonulnak a katonák a paksi védmű építkezéséről",
+      "summary": "A katonák befejezték feladatukat a paksi védmű építkezésén, és levonulnak a területről. Ez a hír a stratégiai fontosságú infrastruktúra-fejlesztés egy szakaszának lezárását jelzi.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Orosz drónok miatt nem szállhatott fel Zelenszkij gépe Kisinyovban",
-      "summary": "Orosz drónok kényszerítették földön maradni Volodimir Zelenszkij ukrán elnök gépét Kisinyovban, Moldovában. Bár az elnök elleni támadás szándéka nem igazolódott be, az eset a térség fokozott feszültségét mutatja.",
+      "title": "2,5 százalékra emelte az alapkamatot az Európai Központi Bank",
+      "summary": "Az Európai Központi Bank (EKB) 2,5 százalékra emelte az alapkamatot, ami jelentős lépés az infláció elleni küzdelemben. Ez a döntés széles körben érinti az eurózóna gazdaságát és a hitelfelvételi kondíciókat.",
       "importance": 5
     },
     {
-      "title": "Ukrán dróntámadás egy kulcsfontosságú orosz gázkitermelő régió ellen",
-      "summary": "Az ukrán erők drónokkal csaptak le egy fontos orosz gázkitermelő régióra, amely 2800 kilométerre fekszik a határtól. A támadás az energiaellátásra gyakorolt hatásai miatt jelentős.",
-      "importance": 5
-    },
-    {
-      "title": "Trump 5000 dollárt ígér minden amerikainak republikánus győzelem esetén",
-      "summary": "Donald Trump bejelentette, hogy ha a republikánusok megnyerik a félidős választásokat, minden felnőtt amerikai állampolgár 5000 dollárt kapna. Ez a bejelentés a kampány egyik fő ígéretévé vált.",
+      "title": "Amerika megfeledkezett az atomfegyverekről az iráni háborúban – Bloomberg-kommentár",
+      "summary": "Egy Bloomberg-kommentár szerint az Egyesült Államok Iránnal kapcsolatos stratégiájában megfeledkezett az atomfegyverek szerepéről, ami komoly hiányosság a globális biztonsági megközelítésben. A cikk a nukleáris elrettentés fontosságára hívja fel a figyelmet egy esetleges konfliktusban.",
       "importance": 4
     },
     {
-      "title": "Tragikus komptűz a Fülöp-szigeteken: halottak és eltűntek",
-      "summary": "Szívszorító tűz ütött ki egy komphajón a Fülöp-szigeteken, öt ember meghalt és 86-ot még mindig eltűntként tartanak nyilván. A mentési munkálatok nagy erőkkel zajlanak.",
+      "title": "Két embert tartóztattak le Londonban iráni hírszerzés segítésének gyanújával",
+      "summary": "Két személyt vettek őrizetbe Londonban, akiket azzal gyanúsítanak, hogy segítették az iráni hírszerző szolgálatot. Az eset nemzetközi biztonsági aggályokat vet fel és rávilágít az államok közötti kémtevékenységre.",
+      "importance": 4
+    },
+    {
+      "title": "Trump 5000 dollárt ígér minden felnőtt amerikainak, ha a republikánusok nyernek a félidős választásokon",
+      "summary": "Donald Trump volt elnök kampányígérete szerint minden felnőtt amerikai 5000 dollárt kapna, ha a republikánusok győzedelmeskednek a félidős választásokon. Ez a gazdasági javaslat jelentős hatással lehetne az amerikai háztartásokra és a választói preferenciákra.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple őszi bemutatója: összecsukható iPhone és AI-val felszerelt Apple Watch",
-      "summary": "Az Apple bemutatta az új összecsukható iPhone Duót és az AI-val továbbfejlesztett Apple Watch modelleket, amelyek képesek a felhasználói beszélgetések összegzésére. Emellett bemutatkozott az iOS 27 frissítés is.",
+      "title": "Egy MI-kutató szerint kollégái eldönthetik az emberiség sorsát a következő egy-két évben",
+      "summary": "Egy, az Anthropicot otthagyó mesterséges intelligencia kutató szerint kollégái úgy vélik, hogy az MI fejlődése a következő egy-két évben döntő hatással lesz az emberiség jövőjére. Ez a kijelentés rávilágít az MI etikai és egzisztenciális kérdéseire a tudományos közösségen belül.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI igazgatótanácsába választottak egy AI-kockázati szakértőt",
-      "summary": "Az OpenAI, a vezető AI kutatóvállalat egy olyan prominens szakértőt választott az igazgatótanácsába, aki aggodalmakat fogalmaz meg a mesterséges intelligencia lehetséges veszélyeivel kapcsolatban. Ez a lépés rávilágít az AI biztonság iránti növekvő figyelemre.",
+      "title": "Masszív adatvédelmi incidens az IDScan-nél: több mint 150 millió jogosítvány adatait lopták el",
+      "summary": "Az IDScan azonosító ellenőrző cég megerősítette, hogy adatvédelmi incidens történt náluk, melynek során több mint 150 millió jogosítvány adatát lopták el. Ez a hatalmas adatlopás súlyos biztonsági kockázatot jelent az érintettek számára.",
       "importance": 5
     },
     {
-      "title": "Szakértők növekvő aggodalma a mesterséges intelligencia térnyerésével kapcsolatban",
-      "summary": "Egyre több szakértő fejezi ki aggodalmát amiatt, hogy a mesterséges intelligencia előbb-utóbb átveheti az irányítást, és komoly kihívások elé állíthatja az emberiséget. A téma etikai és biztonsági kérdései egyre hangsúlyosabbá válnak.",
+      "title": "Az OpenAI felvett egy ismert MI-katasztrófa elméleti szakértőt az igazgatótanácsába",
+      "summary": "Az OpenAI, a vezető mesterséges intelligencia kutató cég, egy prominens \"MI-katasztrófa elméleti szakértőt\" (AI doomer) ültetett be az igazgatótanácsába. Ez a lépés azt jelzi, hogy a vállalat komolyan veszi az MI lehetséges kockázatait és az etikus fejlesztés fontosságát.",
       "importance": 4
     },
     {
-      "title": "Az Apple új módszere a fotók AI-generált eredetének igazolására",
-      "summary": "Az Apple egy új funkciót vezet be iPhone készülékein, amely lehetővé teszi a felhasználók számára, hogy igazolják, fotóik nem mesterséges intelligencia által generáltak. Ez segít a digitális hitelesség és a valós képek megkülönböztetésében.",
+      "title": "Az Apple bemutatta új iPhone- és Apple Watch-termékeit, melyekbe mesterséges intelligencia funkciók kerültek",
+      "summary": "Az Apple bemutatta őszi eseményén az új iPhone-modelleket és az Apple Watch-ot, amelyek integrált mesterséges intelligencia funkciókkal érkeznek. Az újítások között szerepel az \"mindig hallgató\" Apple Watch, ami adatvédelmi aggályokat is felvet.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rekordmeleg augusztus világszerte és Magyarországon is",
-      "summary": "Az idei augusztus volt a valaha mért legforróbb hónap mind globálisan, mind Magyarországon, átlagosan 1,65 Celsius-fokkal magasabb hőmérséklettel. Ez a tendencia tovább erősíti a klímaváltozás súlyosságára vonatkozó aggodalmakat.",
+      "title": "Rendkívül hatékony génszerkesztés emberi embriókban",
+      "summary": "Tudósok rendkívül hatékony bázisszerkesztési eljárást fejlesztettek ki a PCSK9 gén módosítására normális emberi embriófejlődés mellett. Ez az áttörés új lehetőségeket nyit a genetikai betegségek gyógyításában, de etikai kérdéseket is felvet.",
       "importance": 5
     },
     {
-      "title": "Embriópusztítás a termékenységi kezelések után: etikai dilemma",
-      "summary": "Egy pár £23,000 értékű termékenységi kezelésen esett át, de most embrióikat megsemmisítik a jogi korlátozások miatt. Az eset rávilágít a reproduktív orvostudomány etikai és jogi kihívásaira.",
+      "title": "Baktériumok bevetése a rák elleni küzdelemben",
+      "summary": "Kutatók sikeresen alkalmaznak baktériumokat a rákos daganatok kezelésére, új reményt adva a terápia rezisztens esetekben. Ez az innovatív megközelítés ígéretes utat jelenthet a jövő rákgyógyászatában.",
+      "importance": 5
+    },
+    {
+      "title": "Szegedi kutatók keresik a módszert a „hideg tumorok” leküzdésére, új mRNS-terápiák jöhetnek",
+      "summary": "Szegedi kutatók azon dolgoznak, hogy megoldást találjanak a \"hideg tumorok\" leküzdésére, amelyek immunválasz nélkül maradnak. Munkájuk eredményeként új mRNS-terápiák kifejlesztése is elképzelhető a jövőben.",
       "importance": 4
     },
     {
-      "title": "Szakértői aggodalmak az AI jövőjével és biztonságával kapcsolatban",
-      "summary": "Egyre több szakértő fejezi ki aggodalmát a mesterséges intelligencia potenciális veszélyei és az irányítás elvesztésének lehetősége miatt. Az AI fejlődésének tudományos és társadalmi következményei vitatottak.",
+      "title": "Távérzékelők jeleztek egy félelmetes cunami születését",
+      "summary": "Távérzékelő rendszerek sikeresen detektálták egy potenciálisan pusztító cunami kialakulását, még annak óceáni terjedése előtt. Ez a technológiai áttörés kulcsfontosságú lehet a korai előrejelzésben és az emberéletek megmentésében.",
       "importance": 4
-    },
-    {
-      "title": "Az Apple egészségügyi alkalmazása „egészségkort” és „felkészültségi pontszámot” számol",
-      "summary": "Az Apple frissített Egészség alkalmazása új funkciókat vezet be, amelyekkel kiszámítja a felhasználó „egészségkorát” és „felkészültségi pontszámát” különböző biometrikus adatok alapján. Ez a fejlesztés a viselhető technológia és az egészségügyi adatok tudományos alapú felhasználására épül.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Formula 1 Madridba tart: új helyszín egy futball-imádó városban",
-      "summary": "A Formula 1 a futballmániás Madridba tart, amely a sportág új helyszíne lehet. Az 'álomból valósággá vált' esemény nagy izgalmakat ígér a rajongóknak.",
-      "importance": 5
-    },
-    {
-      "title": "Brisbane-i olimpia: kajak-kenu versenyek krokodilok lakta folyóban",
-      "summary": "A tervek szerint a 2032-es brisbane-i olimpia kajak-kenu versenyeit egy olyan folyóban rendeznék meg, amely krokodilok otthonául szolgál, ami aggodalmakat vet fel a sportolók biztonsága miatt. Az esetet a szervezők vizsgálják.",
+      "title": "125 milliárd forint a tét évente: az ÁSZ felülvizsgáltatná a sport tao-rendszerét",
+      "summary": "Az Állami Számvevőszék (ÁSZ) jelentős kockázatokat azonosított a sportban működő tao-rendszerben, ahol évente 125 milliárd forint a tét. Javaslatot tettek a rendszer felülvizsgálatára, ami a magyar sportfinanszírozás átláthatóságát és hatékonyságát érintheti.",
       "importance": 4
     },
     {
-      "title": "Fizetésemelés a 'Lájkbajnokság' eredményéhez kötve a politikában",
-      "summary": "Egy volt politikus a stábjában a fizetésemelést egy belső 'Lájkbajnokság' eredményéhez kötötte, ösztönözve a közösségi média aktivitást. Ez a szokatlan módszer rávilágít a digitális 'versengés' térnyerésére a nyilvános szférában.",
-      "importance": 2
+      "title": "A Hyundai megállapodott a Bajnokok Ligájával, bemutatva 497 km hatótávú Ioniq 3-asát",
+      "summary": "A Hyundai bejelentette, hogy a Bajnokok Ligája új szponzora lesz, és azonnal bemutatta 497 kilométeres hatótávú Ioniq 3-as elektromos autóját. Ez a partnerség a globális sportmarketing és az autóipar szoros kapcsolatát demonstrálja.",
+      "importance": 3
     },
     {
-      "title": "Magyar Péter Facebook-oldalának egyéves teljesítménye: milliárdos megjelenések",
-      "summary": "Egy év alatt Magyar Péter Facebook-oldala napi öt poszttal, nulla üresjárattal 2,77 milliárd megjelenést ért el. Ez a figyelemre méltó digitális 'teljesítmény' rávilágít a közösségi média platformok erejére a nyilvános diskurzusban.",
-      "importance": 1
+      "title": "Felmerült a Chelsea 2016-17-es bajnoki címének megvonása",
+      "summary": "A futballvilágban felmerült a kérdés, hogy a Chelsea csapatától megvonhatják-e a 2016-17-es szezonban szerzett bajnoki címet. Ez a lehetséges precedens súlyos következményekkel járhat a klubra és a futballtörténelemre nézve.",
+      "importance": 3
+    },
+    {
+      "title": "70 kerékpáros sisakból 19 elhasalt az uniós ütéscsillapítási teszteken",
+      "summary": "Az Európai Unióban végzett ütéscsillapítási teszteken 70 kerékpáros sisakból 19 nem felelt meg a biztonsági előírásoknak. Ez a hír rávilágít a sporteszközök minőségének és a fogyasztói biztonság fontosságára.",
+      "importance": 3
     }
   ]
 }

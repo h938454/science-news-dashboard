@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Orbán Viktor drágábban vetette meg az Antenna Hungáriát egy volt államtitkár szerint",
-      "summary": "Egy korábbi államtitkár állítása szerint Orbán Viktor miniszterelnök utasítására az Antenna Hungáriát a piaci árnál drágábban vásárolta vissza az állam. Az ügy korrupciógyanút vet fel, rávilágítva az állami beszerzések átláthatóságára.",
+      "title": "Orbán utasítására drágábban kellett visszavásárolni az Antenna Hungáriát – állítja egy volt államtitkár",
+      "summary": "Egy korábbi államtitkár azt állítja, Orbán Viktor miniszterelnök utasította, hogy az eredetileg kialkudott árnál 5 milliárddal drágábban vegyék meg az Antenna Hungáriát. Az ügy korrupció gyanúját veti fel és hosszan tartó pereskedést is eredményezett.",
       "importance": 5
     },
     {
-      "title": "A Magyar Falu Program forrásainak elosztása körül felmerült aggályok",
-      "summary": "A Magyar Falu Programból pont abba a választókerületbe jutott a legtöbb pénz, ahol a program egykori kormánybiztosa indult a választáson. Ez az eset kérdéseket vet fel a közpénzek elosztásának pártatlanságával kapcsolatban.",
+      "title": "Kihallgatta az ügyészség a Biggeorge tulajdonosát egy óbudai beruházással kapcsolatban",
+      "summary": "Az ügyészség kihallgatta Nagygyörgy Tibort, a Biggeorge Property tulajdonosát egy óbudai, korrupciógyanús beruházás kapcsán. Az ügy a fővárosi önkormányzatot és magas rangú tisztségviselőket is érinthet.",
       "importance": 4
     },
     {
-      "title": "A Tisza és a Mi Hazánk Párt is alkotmánybírókat jelöl",
-      "summary": "A Tisza Párt után a Mi Hazánk is öt szakembert jelölt az Alkotmánybíróság tagjának, kiemelve a testület függetlenségének fontosságát. Ezzel a lépéssel a pártok befolyásolni kívánják az alkotmányos joggyakorlatot.",
-      "importance": 4
+      "title": "Kétmillióra bírságolták a debreceni katódgyárat szivárgó fekete por miatt",
+      "summary": "A debreceni katódgyárat 2 millió forintra büntették fekete por szivárgása miatt, ami azonnal megkezdték a hiányosságok megszüntetését. Az eset felhívja a figyelmet az új ipari beruházások környezeti kockázataira.",
+      "importance": 3
     },
     {
-      "title": "Nyolc volt Volán-vezetőt gyanúsítanak túlárazás és pénzmosás ügyében",
-      "summary": "Nyolc korábbi Volán vezető ellen indult nyomozás túlárazott buszbeszerzések ügyében, a gyanú szerint az elkövetők ingatlanokba forgatták a jogtalanul szerzett pénzt. Az eset az állami vállalatok korrupciós kockázataira hívja fel a figyelmet.",
-      "importance": 4
+      "title": "A kormány megköti az állami erdőknél a tűzifa árát",
+      "summary": "A kormány bejelentette, hogy megköti az állami erdőkből származó tűzifa árát, hogy ezzel segítse a lakosságot a téli fűtési szezonban. A lépés az energiaválságra adott válaszként értelmezhető.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "A CIA figyelmeztette Lengyelországot az orosz támadásokra",
-      "summary": "A CIA figyelmeztette Lengyelországot, hogy az Oroszország felől érkező tevékenységek már nem csak provokációk, hanem egyenesen támadások. Ez a feszültség növekedését jelzi a térségben és fokozott éberségre késztet.",
+      "title": "Módosított ukrán törvénytervezet állhat a magyar vétó hátterében",
+      "summary": "Egy elhibázott ukrán levél nyomán módosított törvénytervezet állhat a magyar EU-s vétó hátterében, de még van tér a párbeszédre. Az ügy rávilágít a két ország közötti feszültségekre, különösen az ukrajnai magyar kisebbség jogait illetően.",
+      "importance": 5
+    },
+    {
+      "title": "„Ezek már nem provokációk, ezek támadások” – a CIA is figyelmeztette Lengyelországot",
+      "summary": "A CIA figyelmeztette Lengyelországot, hogy az orosz „provokációk” egyre inkább támadásokká válnak. Az orosz agresszió veszélye fokozódik a NATO keleti szárnyán.",
+      "importance": 5
+    },
+    {
+      "title": "Korrupció és pénzmosás gyanúja miatt nyomoznak Flávio Bolsonaro ellen",
+      "summary": "Korrupció és pénzmosás gyanúja miatt indult nyomozás Flávio Bolsonaro, Jair Bolsonaro volt brazil elnök fia ellen. Az ügy befolyásolhatja a közelgő elnökválasztást, ahol Flávio is potenciális jelölt.",
       "importance": 4
     },
     {
-      "title": "Ukrán csapás érte az orosz szaratovi olajfinomítót",
-      "summary": "Az ukrán erők sikeresen csapást mértek egy oroszországi olajfinomítóra Szaratovban, ezzel tovább fokozva a feszültséget és károkat okozva az orosz infrastruktúrában. Ez a támadás az orosz energiatermelésre is hatással lehet.",
-      "importance": 4
-    },
-    {
-      "title": "A houthik előrenyomulása Jemenben, szorosabbra fűzve a Vörös-tenger ellenőrzését",
-      "summary": "A houthik jelentős előrenyomulást értek el Jemenben, és szorosabbra fűzték a Vörös-tengeri hajózási útvonal feletti ellenőrzésüket. Ez a fejlemény súlyos következményekkel járhat a globális kereskedelemre és a regionális stabilitásra nézve.",
-      "importance": 4
-    },
-    {
-      "title": "A 9/11-es terrortámadások utóhatásai 25 év után is szedik az áldozatokat",
-      "summary": "A 2001. szeptember 11-i terrortámadások utóhatásai még 25 év elteltével is szedik áldozataikat, a mérgező por belélegzése miatt ezrek halhatnak meg. Ez a tragédia a hosszú távú egészségügyi következményekre hívja fel a figyelmet.",
+      "title": "9/11 még 25 év után is szedi az áldozatait",
+      "summary": "Huszonöt évvel a 9/11-es terrortámadások után még mindig ezrek életét követelheti az akkor mindent beterítő, mérgező por. A katasztrófa hosszú távú egészségügyi következményei továbbra is súlyosak.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Nvidia jövőre 70%-os növekedést vár a mesterséges intelligencia iránti kereslet miatt",
-      "summary": "Jensen Huang, az Nvidia vezérigazgatója elmagyarázta, miért várható, hogy a vállalat elképesztő 70%-os növekedést ér el jövőre. Ez a növekedés elsősorban a mesterséges intelligencia iránti hatalmas keresletnek köszönhető, ami befolyásolja a félvezetőipart.",
+      "title": "Teljesen vezető nélküli robotaxi-szolgáltatás indult Zágrábban",
+      "summary": "Zágrábban elindult egy teljesen vezető nélküli robotaxi-szolgáltatás, amely az önvezető technológia térnyerését jelzi a mindennapi közlekedésben. Ez az első ilyen típusú szolgáltatás a régióban.",
       "importance": 5
     },
     {
-      "title": "A Roblox megkönnyíti a mesterséges intelligenciával történő játékfejlesztést",
-      "summary": "A Roblox megkönnyíti a játékok fejlesztését AI segítségével, és lehetővé teszi azok lejátszását a platformon kívül is. Ez a lépés demokratizálhatja a játékfejlesztést és bővítheti a Roblox ökoszisztémáját.",
+      "title": "Jensen Huang: Az Nvidia jövőre 70 százalékos növekedésre számít",
+      "summary": "Jensen Huang, az Nvidia vezérigazgatója elmagyarázta, miért számít a vállalat 70%-os növekedésre a következő évben. Ez a mesterséges intelligencia chipjei iránti hatalmas keresletnek tudható be.",
+      "importance": 5
+    },
+    {
+      "title": "Adatvédelmi incidens érte a Trezor kriptopénztárca felhasználóit",
+      "summary": "Százezreket céloztak meg a csalók, miután a Trezor megerősítette egy e-mail szolgáltatójának adatvédelmi incidensét. Az eset rámutat a kriptopénztárcákhoz kapcsolódó fokozott biztonsági kockázatokra.",
       "importance": 4
     },
     {
-      "title": "Adatvédelmi incidens után csalók támadnak kriptovaluta-tulajdonosokat",
-      "summary": "Csalók támadják meg több százezer kriptovaluta tulajdonost, miután a Trezor megerősítette egy e-mail szolgáltatójának adatvédelmi incidensét. Ez az eset rávilágít a kriptoipar biztonsági kockázataira és az adathalászat veszélyeire.",
-      "importance": 4
-    },
-    {
-      "title": "Az OpenAI felfüggeszti a Pro előfizetéseket az Astra iránti óriási kereslet miatt",
-      "summary": "Az OpenAI felfüggeszti a Pro előfizetéseket az Astra iránti túlnyomó kereslet miatt, ami a mesterséges intelligencia termékek robbanásszerű népszerűségét jelzi. Ez a döntés rávilágít az AI infrastruktúra és kapacitás kihívásaira.",
-      "importance": 4
+      "title": "A Roblox AI segítségével teszi könnyebbé a játékfejlesztést",
+      "summary": "A Roblox megkönnyíti a játékok építését mesterséges intelligencia segítségével, és lehetővé teszi azok platformon kívüli lejátszását is. Ez bővítheti a fejlesztők és a felhasználók körét.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Neuronok fékezhetik az idegrendszeri daganatok növekedését",
-      "summary": "Felfedeztek olyan neuronokat, amelyek képesek fékezni az idegrendszeri daganatok növekedését. Ez az áttörés új célpontokat és stratégiákat kínálhat a rákterápiában.",
+      "title": "Osteoporosis: Módosított sejtekkel építhetők újjá a csontok?",
+      "summary": "Az osteoporosis milliókat érint, és a tudósok azt vizsgálják, vajon módosított sejtekkel lehetséges-e újjáépíteni az elvékonyodott csontokat. Ez áttörést hozhat a betegség kezelésében.",
       "importance": 5
     },
     {
-      "title": "Hatékony génszerkesztés emberi embriókon a PCSK9 génnél",
-      "summary": "Kutatók rendkívül hatékony bázisszerkesztést értek el a PCSK9 génen, miközben a humán embriók normális fejlődését figyelték meg. Ez az áttörés új lehetőségeket nyithat a genetikai betegségek gyógyításában, de etikai kérdéseket is felvet.",
+      "title": "A folyók váratlanul sok mikroműanyagot szállítanak a tengerbe",
+      "summary": "A folyók a várakozásoknál sokkal nagyobb mennyiségű mikroműanyagot juttatnak a tengerekbe, ami komoly környezeti aggályokat vet fel. A felfedezés új megvilágításba helyezi a globális műanyagszennyezés mértékét.",
       "importance": 5
     },
     {
-      "title": "Módosított sejtekkel építenék újjá a csontokat oszteoporózis esetén",
-      "summary": "Az oszteoporózis milliókat érint, és a kutatók azt vizsgálják, hogy módosított sejtekkel vajon újjáépíthetőek-e a csontok. Ez az ígéretes kutatás új terápiás lehetőségeket nyithat meg a betegség kezelésében.",
+      "title": "Neuronok, amelyek fékezhetik az idegrendszeri rákot",
+      "summary": "Kutatók olyan neuronokat azonosítottak, amelyek képesek fékezni egy idegrendszeri rákfajta növekedését. Ez új terápiás lehetőségeket nyithat meg a betegség elleni küzdelemben.",
       "importance": 4
     },
     {
-      "title": "A folyók váratlanul nagy mennyiségű mikroműanyagot szállítanak a tengerbe",
-      "summary": "A folyók váratlanul nagy mennyiségű mikroműanyagot szállítanak a tengerbe, ami aggodalomra ad okot a vízi ökoszisztémák szennyezettsége miatt. Ez a felfedezés új adatokkal szolgál a műanyagszennyezés mértékéről.",
+      "title": "El Niño vírusként terjed, tudósok vizsgálják, miért érdekli a klíma az embereket",
+      "summary": "Az El Niño jelenség \"vírusként terjed\" a köztudatban, és a tudósok azt elemzik, miért vált ennyire figyelemfelkeltővé a klíma témája. Ez segíthet a hatékonyabb klímavédelmi kommunikációban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Halász Bence ezüstérmes a budapesti atlétikai világdöntőn",
-      "summary": "Halász Bence kalapácsvetésben ezüstérmet szerzett a budapesti atlétikai világdöntőn, ami kiemelkedő magyar sportsiker. Molnár Attila is részt vett a versenyen, de sérülés miatt nem tudott teljesíteni.",
+      "title": "Halász Bence második lett a budapesti Atlétikai Világdöntőn",
+      "summary": "Halász Bence kiváló teljesítménnyel, második helyezést ért el kalapácsvetésben a Budapesten megrendezett Atlétikai Világdöntőn. Ez egy újabb jelentős magyar siker a nemzetközi sportéletben.",
+      "importance": 5
+    },
+    {
+      "title": "Duplantis legyőzhetetlen, Budapesten is nyert",
+      "summary": "Armand Duplantis, a svéd rúdugró szupersztár legyőzhetetlennek bizonyult, és Budapesten is megnyerte az Atlétikai Világdöntőt. Ezzel tovább erősítette dominanciáját a sportágban.",
       "importance": 4
     },
     {
-      "title": "Duplantis legyőzhetetlen, Budapesten is nyert rúdugrásban",
-      "summary": "Armand Duplantis, a rúdugrás világrekordere legyőzhetetlennek bizonyult, és a budapesti versenyen is diadalmaskodott. Ezzel tovább erősítette dominanciáját a sportágban és a közönség elismerését is kivívta.",
+      "title": "Félbeszakadt a Győr-Ferencváros kézimeccs beázás miatt",
+      "summary": "Félbe kellett szakítani a Győr és a Ferencváros közötti rangadót, mert beázott a győri sportcsarnok. Az incidens rávilágít a sportlétesítmények karbantartásának fontosságára.",
       "importance": 3
     },
     {
-      "title": "Beázás miatt félbeszakadt a kézilabda bajnoki meccs Győrben",
-      "summary": "A győri sportcsarnok beázása miatt félbe kellett szakítani egy kézilabda bajnoki mérkőzést, ami infrastrukturális problémákra és a sportlétesítmények állapotára hívja fel a figyelmet. Az eset a sportesemények zavartalan lebonyolítását is akadályozta.",
-      "importance": 2
+      "title": "Zverev sorozatban harmadik Grand Slam döntőjében",
+      "summary": "Alexander Zverev bejutott sorozatban harmadik Grand Slam döntőjébe, ami kiemelkedő teljesítmény a tenisz világában. A német játékos folyamatosan a legjobbak között szerepel.",
+      "importance": 3
     }
   ]
 }

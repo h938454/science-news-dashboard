@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Megvan, mennyibe került a paksi leállás. Ki fizesse a számlát?",
-      "summary": "Kiderült, mennyibe került a paksi atomerőmű blokkjának leállása, ami jelentős gazdasági terhet ró az országra. A kérdés most az, hogy ki viseli a pénzügyi következményeket.",
-      "importance": 5
-    },
-    {
-      "title": "Átalakítaná a névkérelmezés rendszerét a Tisza-kormány, hamarosan jöhetnek a Zelihák, Liszkák és Gittelek",
-      "summary": "A Tisza-kormány tervei szerint megváltoztatná a névkérelmezés jelenlegi rendszerét, ami új lehetőségeket nyithat a nem megszokott utónevek bejegyzésére. Ez a reform a hagyományos szabályok lazítását jelenti.",
+      "title": "Zsiday Viktor a dízeltámogatásról: a szegényebbek rovására",
+      "summary": "Zsiday Viktor közgazdász szerint a kormány új dízeltámogatása a szegényebb rétegektől von el forrásokat, hogy a tehetősebbek között ossza szét. Ez a lépés torzítja a gazdaságot és növeli az egyenlőtlenségeket.",
       "importance": 4
     },
     {
-      "title": "Évtizedekig velünk maradnak a mostani PISA-teszt gyenge eredményei",
-      "summary": "A legújabb PISA-felmérés gyenge eredményei hosszú távon is éreztetni fogják hatásukat a magyar oktatásban. A szakértők szerint évtizedekre meghatározhatja a diákok tudásszintjét és a munkaerőpiacot.",
+      "title": "Vasúti fennakadások Ausztria felé baleset és műszaki hiba miatt",
+      "summary": "Jelentősen késhetnek az Ausztria felé tartó vonatok egy szakaszon történt baleset és műszaki meghibásodás miatt. Az utasoknak hosszabb menetidővel kell számolniuk.",
       "importance": 4
     },
     {
-      "title": "A kommentelők kedvence, Semjén kitüntetettje, Varga Zs. nemezise – őket jelölte a Tisza az Alkotmánybíróságba",
-      "summary": "A Tisza Párt jelöltjeit mutatta be az Alkotmánybíróságba, akik között korábbi politikai ellenfelek és a közvélemény által ismert személyiségek is megtalálhatók. A jelölések komoly vitákat válthatnak ki a politikai palettán.",
+      "title": "Magyar Péter kiáll a szeretet szabadsága mellett",
+      "summary": "Magyar Péter közösségi oldalán posztban állt ki amellett, hogy mindenki azt és úgy szeret, akit és ahogyan szeretne. A bejegyzés a politikai diskurzusban is visszhangra talált.",
+      "importance": 4
+    },
+    {
+      "title": "Elhunyt Kardos Sándor Kossuth-díjas operatőr",
+      "summary": "Életének 84. évében elhunyt Kardos Sándor Kossuth-díjas operatőr, fotográfus és filmrendező. Munkásságával jelentősen hozzájárult a magyar filmművészet gazdagításához.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Az AfD országos erősödését mérték, már 9 százalékponttal vezetnek Merz pártjai előtt",
-      "summary": "Németországban az AfD támogatottsága jelentősen megnőtt, már 9 százalékponttal vezetve Merz pártjai előtt. Ez az adat a szélsőjobboldali pártok térnyerését jelzi Európában, komoly politikai változásokat vetítve előre.",
+      "title": "Kompbaleset Indonéziában: hat halott, több mint száz eltűnt",
+      "summary": "Egy komp felborult Indonéziában, melynek következtében hat ember meghalt és több mint százat még mindig keresnek. A mentési munkálatok folyamatosak, a hatóságok a túlélők után kutatnak.",
       "importance": 5
     },
     {
-      "title": "A brit miniszterelnök biztonsági főtanácsadója szerint Európára nehéz tél vár, miközben továbbra is nyomást kell gyakorolniuk Putyinra",
-      "summary": "A brit miniszterelnök biztonsági főtanácsadója szerint Európára nehéz tél vár, miközben továbbra is nyomást kell gyakorolniuk Putyinra. Ez a kijelentés a kontinens előtt álló gazdasági és biztonsági kihívásokra hívja fel a figyelmet az orosz-ukrán háború árnyékában.",
+      "title": "Trump arra kérte Zelenszkijt, ne támadja az orosz dízelinfrastruktúrát",
+      "summary": "Donald Trump volt amerikai elnök állítólag felszólította Volodimir Zelenszkij ukrán elnököt, hogy ne támadja az oroszországi dízelt előállító infrastruktúrát. A kérés geopolitikai és háborús feszültségeket kelthet.",
       "importance": 5
     },
     {
-      "title": "Egy ember meghalt, 141 embert pedig még mindig keresnek, miután eltűnt egy indonéz komp a Jáva-tengeren",
-      "summary": "Egy indonéz komp eltűnt a Jáva-tengeren, egy ember meghalt, és 141 személyt még mindig keresnek. A mentési munkálatok folyamatosak a nagy kiterjedésű területen, reménykedve az eltűntek megtalálásában.",
+      "title": "Törökországban razziák melegjogi szervezeteknél és aktivistáknál",
+      "summary": "A török hatóságok razziákat tartottak melegjogi szervezeteknél és LMBTQ+ aktivisták otthonaiban, több tucat embert őrizetbe véve. Az akciót \"bűncselekmények elkövetésére szolgáló egyesületalapítással\" indokolták.",
       "importance": 4
     },
     {
-      "title": "A terjedő tűz miatt 700 embert evakuáltak a horvátországi Bračról szombat éjjel",
-      "summary": "Horvátországban, Brač szigetén terjedő erdőtűz miatt 700 embert kellett evakuálni szombat éjjel. A hatóságok azon dolgoznak, hogy megfékezzék a lángokat és biztosítsák a lakosság biztonságát.",
-      "importance": 3
+      "title": "Orosz rakétatámadás érte az ukrán–lengyel határ térségét, Boris Johnson távozása után",
+      "summary": "Oroszország rakétát lőtt ki az ukrán–lengyel határ térségében lévő vasúti pályára, nem sokkal azután, hogy Boris Johnson és más európai tisztviselők elhagyták a közeli állomást. Kijev szerint a támadás az ukrán infrastruktúrát célozta.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "MI-szakemberek 'őszintén félnek' az emberiség jövőjéért – mondta egy korábbi Anthropic kutató a BBC-nek",
-      "summary": "Egy korábbi Anthropic kutató a BBC-nek elmondta, hogy az MI-fejlesztéssel foglalkozó szakemberek őszintén aggódnak az emberiség jövőjéért. Ez a kijelentés rávilágít a mesterséges intelligencia etikai és biztonsági kihívásaira.",
+      "title": "AI-vezetők egységesen lassítanák a fejlesztéseket a veszélyek miatt",
+      "summary": "A legnagyobb amerikai mesterséges intelligencia cégek vezetői soha nem látott egyetértésben szólították fel a fejlesztések lassítására, mert azok túl veszélyesek lehetnek. A döntés az AI jövőjét alapjaiban befolyásolhatja.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI vezetője, Sam Altman szerint 'nem lenne bölcs' dolog 2026-ban tőzsdére menni",
-      "summary": "Sam Altman, az OpenAI vezetője szerint nem lenne bölcs dolog 2026-ban tőzsdére vinni a céget. Ez a döntés komoly hatással lehet az MI-iparág finanszírozására és a startupok tőzsdei ambícióira.",
+      "title": "Obama az AI szabályozására sürgeti a demokratákat",
+      "summary": "Barack Obama volt amerikai elnök sürgeti a Demokrata Pártot, hogy dolgozzanak ki \"világos tervet\" a mesterséges intelligencia biztonsági intézkedéseire. Ez kulcsfontosságú az AI felelős fejlődésének biztosításához.",
       "importance": 4
     },
     {
-      "title": "Bevált a NASA fejlesztése, működik a navigáció, amivel GPS nélkül tájékozódhatnak az űrhajók",
-      "summary": "Sikeresen működik a NASA új navigációs rendszere, amely lehetővé teszi az űrhajók számára, hogy GPS nélkül tájékozódjanak. Ez az áttörés új korszakot nyithat az űrkutatásban és a mélyűri missziókban.",
+      "title": "Revolut adatvédelmi incidens: csalók adták ki magukat kormányzati dolgozónak",
+      "summary": "A Revolut megerősítette, hogy ügyféladatokat adott át csalóknak, akik kormányzati dolgozóknak adták ki magukat. Az incidens rávilágít az online biztonság és adatvédelem kihívásaira.",
       "importance": 4
     },
     {
-      "title": "A Revolut megerősítette, hogy ügyféladat-szivárgás történt hamis kormányzati megkeresések miatt",
-      "summary": "A Revolut megerősítette, hogy ügyféladat-szivárgás történt hamis kormányzati megkeresések miatt. Az eset rávilágít a digitális pénzügyi szolgáltatások biztonsági kihívásaira és a felhasználók adatainak védelmére.",
-      "importance": 3
+      "title": "Fúziós energia start-upok és a védelmi szektor együttműködése",
+      "summary": "A fúziós energia fejlesztésével foglalkozó start-up cégek új partnerekre találnak a védelmi szektorban, ami felgyorsíthatja az innovációt és az alkalmazásokat. Ez potenciálisan áttörést hozhat az energiaellátásban és a biztonságban.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Megtalálták a víz új formáját: 2000 Celsius-fokon jég lesz belőle",
-      "summary": "Tudósok felfedezték a víz egy új formáját, amely 2000 Celsius-fokon jéggé alakul. Ez az áttörés alapjaiban változtathatja meg a víz tulajdonságairól alkotott ismereteinket és extrém körülmények között betöltött szerepét.",
+      "title": "Fields-érmes matematikusok tiltakoznak az AI matematikaellenes hatása miatt",
+      "summary": "25 Fields-érmes matematikus nyílt levélben tiltakozik, aggodalmukat fejezve ki amiatt, hogy a mesterséges intelligencia lerombolhatja a matematika alapjait. Félő, hogy az AI túlzott használata a mélyebb megértés helyett a felületes megoldások felé tolja a kutatást.",
       "importance": 5
     },
     {
-      "title": "Rendkívül hatékony génszerkesztés PCSK9-nél és normális emberi embriófejlődés",
-      "summary": "A kutatók rendkívül hatékony bázisszerkesztést értek el a PCSK9 génen, anélkül, hogy az befolyásolná az emberi embrió normális fejlődését. Ez a felfedezés ígéretes lehetőségeket kínál genetikai betegségek gyógyítására.",
+      "title": "Génszerkesztés áttörése: hatékony alap-szerkesztés emberi embriókon",
+      "summary": "Tudósok rendkívül hatékony alap-szerkesztést hajtottak végre a PCSK9 génen, és normális emberi embriófejlődést értek el. Ez az áttörés új lehetőségeket nyithat a genetikai betegségek gyógyításában.",
       "importance": 5
     },
     {
-      "title": "A folyók váratlanul nagy mennyiségű mikroműanyagot juttatnak a tengerbe",
-      "summary": "Meglepően nagy mennyiségű mikroműanyagot juttatnak a folyók a tengerekbe, ami komoly ökológiai problémát jelent. A felfedezés rávilágít a műanyagszennyezés mértékére és a vízi ökoszisztémákra gyakorolt hatására.",
+      "title": "Veszélyes mennyiségű mikroplasztik a folyókból a tengerbe",
+      "summary": "Megdöbbentően magas mennyiségű mikroplasztikot szállítanak a folyók a tengerbe, ami súlyos környezeti problémát jelent. Ez a felfedezés felhívja a figyelmet a plasztikszennyezés globális mértékére.",
       "importance": 4
     },
     {
-      "title": "Olyan neuronokat fedeztek fel, amelyek féket szabhatnak az idegrendszeri rák terjedésének",
-      "summary": "Felfedeztek olyan neuronokat, amelyek képesek megfékezni az idegrendszeri rák terjedését. Ez a kutatás új utakat nyithat a rákkezelésben, reményt adva a súlyos betegségben szenvedőknek.",
+      "title": "Neurális fékezés az idegrendszeri rákok ellen",
+      "summary": "Kutatók olyan neuronokat azonosítottak, amelyek képesek gátolni az idegrendszeri rákok terjedését. Ez a felfedezés új terápiás utakat nyithat meg a neuroonkologikus betegségek kezelésében.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Legyőzte a címvédőt, Ribakina a női egyes bajnoka a US Openen",
-      "summary": "Ribakina legyőzte a címvédőt, ezzel ő lett a női egyes bajnoka a US Open tenisztornán. Ez a kiemelkedő teljesítmény a teniszvilág egyik legfontosabb eseményén nagy sikert jelent számára.",
-      "importance": 5
+      "title": "Norris balszerencsés napja, Antonelli győz Madridban",
+      "summary": "Lando Norrist balszerencse kísérte, míg Antonelli nyert a vadonatúj madridi versenypályán. A futam izgalmas pillanatokat hozott az autósport rajongói számára.",
+      "importance": 3
+    },
+    {
+      "title": "Orbán Viktor gólt lőtt egy focimeccsen",
+      "summary": "Orbán Viktor miniszterelnök gólt szerzett egy focimeccsen. Az eseményről készült felvételek és beszámolók felkeltették a média figyelmét.",
+      "importance": 2
+    },
+    {
+      "title": "Daniel Maldini fia ittasan karambolozott",
+      "summary": "Daniel Maldini, ismert futballista fia, ittas állapotban karambolozott. Az incidens után a hírek szerint súlyosan megsérült.",
+      "importance": 2
+    },
+    {
+      "title": "Andy Burnham is célba ért a Great North Runon",
+      "summary": "Andy Burnham, Manchester polgármestere is sikeresen teljesítette a Great North Run elnevezésű félmaratoni futóversenyt. Ezzel is népszerűsítette az aktív életmódot.",
+      "importance": 1
     }
   ]
 }

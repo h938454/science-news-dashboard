@@ -1,6 +1,16 @@
 {
   "Telex": [
     {
+      "title": "Gabriela Adameșteanu: Mások gondja (részlet)",
+      "link": "https://telex.hu/karakter/konyvespolc/2026/09/13/gabriela-adamesteanu-masok-gondja-reszlet",
+      "summary": "A kortárs román próza nagyasszonya családon belüli viszonyokról és bántalmazó kapcsolatokról beszél elbeszéléseiben. Olvasson bele!"
+    },
+    {
+      "title": "Megvan, mennyibe került a paksi leállás. Ki fizesse a számlát?",
+      "link": "https://telex.hu/g7/vallalat/2026/09/13/paksi-leallas-rekk-szamitas-koltseg-felelosseg-mvm-atomeromu",
+      "summary": "A Regionális Energiagazdasági Kutatóközpont szakembereinek számítása szerint a kiesett atomerőművi termelés mintegy 37,4 milliárd forintos árampiaci többletköltséggel járt."
+    },
+    {
       "title": "Jön a Diablo V, lövöldözős játékként támad fel a StarCraft, újra feltalálják a World of Warcraftot",
       "link": "https://telex.hu/after/2026/09/12/acitvision-blizzard-blizzcon-bejelentes-world-of-warcraft-forever-diablo-v-starcraft",
       "summary": "Régóta nem látott tűzijátékkal jelentkezett a Blizzard a kétévnyi kihagyás után ismét megtartott expóján. Igaz, a hosszú ideje pletykált, a WoW eredeti változatát újragondoló World of Warcraft: Forever az egyetlen, amit a közeljövőben láthatunk is majd."
@@ -64,16 +74,6 @@
       "title": "„Szabadidejét, gyakran a hétvégéket is a gyermekek társaságában tölti” – a 444 kikérte a pedofíliáért elítélt bicskei igazgató kitüntetésének indoklását",
       "link": "https://telex.hu/belfold/2026/09/12/bicskei-gyermekotthon-vasarhelyi-janos-kituntetesenek-indoklasa-munkabirasa-rendkivuli",
       "summary": "„Alázattal dolgozik az elesett, a gyermekvédelmi gondoskodásban élő gyermekek és fiatal felnőttek életének jobbításáért” – írták Vásárhelyi János volt igazgatóról, aki 2004 és 2016 között legalább tíz kiskorú fiút zaklatott."
-    },
-    {
-      "title": "Orbán pihent, Pintér nyugdíjas, Pócs szerint a kormány lenyom döntéseket az emberek torkán – videóriport Kötcséről",
-      "link": "https://telex.hu/video/2026/09/12/kotcse-2026-orban-viktor-pocs-janos-takacs-peter-fidesz",
-      "summary": "Idén is Kötcsén indították az őszt a fideszesek. Orbán Viktor szerint a mostani kormány összes feljelentése propaganda, a volt belügyminiszter pedig azt mondta, hogy nem titkosított semmit."
-    },
-    {
-      "title": "Az Anthropic vezérigazgatója az MI-modellek fejlesztésének lassítására szólított fel",
-      "link": "https://telex.hu/techtud/2026/09/12/az-anthropic-vezerigazgatoja-az-mi-modellek-fejlesztesenek-lassitasara-szolitott-fel",
-      "summary": "Dario Amodei aggódik a visszaélések miatt."
     }
   ],
   "Portfolio": [],
@@ -233,9 +233,9 @@
   ],
   "BBC": [
     {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jacob Coxon tells the BBC that there's a strong chance AI could end humanity if the rate of development is not reined in."
     },
     {
       "title": "Will the Thirlwall report change the debate about Lucy Letby?",
@@ -253,11 +253,6 @@
       "summary": "Changes will spell out that governments can change rules and that career choices affect repayments."
     },
     {
-      "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title."
-    },
-    {
       "title": "Reform receives second £36m donation in two days as crypto investor matches record",
       "link": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
       "summary": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped."
@@ -268,34 +263,34 @@
       "summary": "Wembley Stadium billed Diljit Dosanjh as the first Punjabi singer to headline the iconic music venue."
     },
     {
-      "title": "Dramatic insider warnings over AI fall flat with some in Silicon Valley",
-      "link": "https://www.bbc.co.uk/news/articles/cq635037g18o?at_medium=RSS&at_campaign=rss",
-      "summary": "A recent spate of stark warnings about the dangers of AI has been met with scepticism by executives and investors."
+      "title": "'She's back': Fans dance, sing and cry after Céline Dion's comeback concert in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cpq01p1wn78o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands turned out to witness Céline Dion perform in Paris on Saturday, her first show after a six year illness-induced hiatus."
     },
     {
-      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-      "link": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg."
+      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing."
     },
     {
-      "title": "I never got to experience my baby's scan, but blind parents like me can now feel them",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyqddpdrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tactile 3D models created from pregnancy scans are just one innovation to support blind parents-to-be."
+      "title": "Drag Race co-creator fears for queer representation after BBC drops show",
+      "link": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC is cutting the show because of financial pressures, sparking discussion about LGBTQ+ representation on TV."
     },
     {
-      "title": "Hardened activists are changing tactics and mobilising the anti-migrant vote",
-      "link": "https://www.bbc.co.uk/news/articles/clyqjgj7x8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Patriot Platform wants to build a group of working-class voters to influence political parties on the right."
+      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
     },
     {
-      "title": "When an avalanche killed climber Nirmal Purja, his friends faced the hardest mission of all",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx8gg7xw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mountaineer Mingma G tells the BBC about the climb to bring home the bodies of his closest friends."
+      "title": "Best friends for decades - until a DNA test revealed they were sisters",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
+      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands."
     },
     {
-      "title": "'Skimpflation' warning as tinned mackerel alternative hits more supermarket shelves",
-      "link": "https://www.bbc.co.uk/news/articles/crm9xk9eg88o?at_medium=RSS&at_campaign=rss",
-      "summary": "Consumer group Which? has called the sale of jack mackerel, a cheaper, less nutritious species of fish, an example of \"skimpflation\"."
+      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
+      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure."
     },
     {
       "title": "The Papers: 'Nigel hits the jackpot' and 'Dark day for democracy'",
@@ -303,9 +298,14 @@
       "summary": "Almost every paper on Sunday leads on a record-breaking double donation of £72m to Reform UK."
     },
     {
-      "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career."
+      "title": "Rybakina wins US Open to inflict further pain on Sabalenka",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/clym434j01xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elena Rybakina demonstrates why she is the best women's player in the world by beating Aryna Sabalenka to win her first US Open title."
+    },
+    {
+      "title": "Watch: Fantasia on British Sea-Songs at the Last Night of the Proms",
+      "link": "https://www.bbc.co.uk/news/videos/c1wxl4ld3r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Henry Wood composed the melody for the centenary of the Battle of Trafalgar in 1905."
     }
   ],
   "TechCrunch": [

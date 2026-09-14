@@ -1,6 +1,11 @@
 {
   "Telex": [
     {
+      "title": "Nem sikerült a bravúr az amerikaiak 23 éves favoritjának, a fegyelmezett Alexander Zverev nyerte a US Opent",
+      "link": "https://telex.hu/sport/2026/09/14/us-open-donto-2026-alexander-zverev-ben-shelton",
+      "summary": "Ha Ben Shelton nyer, közel 60 év után győzött volna afroamerikai férfiteniszező a US Openen, de a rutinosabb német játékos volt a jobb, így megszerezte a második Grand Slam-trófeáját."
+    },
+    {
       "title": "Már akkor tudhatták a német hatóságok, hogy az oroszoknak dolgozik a lipcsei dróntámadás gyanúsítottja, amikor belépett az országba",
       "link": "https://telex.hu/kulfold/2026/09/13/lipcse-drontamadas-nemet-hatosagok-orosz-belarusz-allampolgar-gru",
       "summary": "Egy tisztviselő szerint azért nem kezdték el megfigyelni, mert a hatóságok erőforrásai korlátozottak, és nem számítottak arra, hogy egy közelgő támadást készít elő."
@@ -69,11 +74,6 @@
       "title": "Az idei nyár egyik legfontosabb tanulsága elsikkadt, pedig emberek halnak meg miatta",
       "link": "https://telex.hu/g7/elet/2026/09/13/hoseg-nyar-hosziget-epiteszet-tanulsag-halalozas-forrosag-tropusi-ejszakak",
       "summary": "Sürgősen lépnünk kell, hogy már ne forrósodjanak tovább a városi hőszigetek, mert már most tudjuk, hogy jövőre is életekbe fog kerülni ez a probléma, amely már nem csak a nagyvárosokat érinti."
-    },
-    {
-      "title": "Donald Trump megkérte Zelenszkijt, ne lője az oroszok dízelt előállító infrastruktúráját",
-      "link": "https://telex.hu/kulfold/2026/09/13/donald-trump-zelenszkij-dizel-tamadas-celpont-ukrajna-oroszorszag-uzemanyaghiany",
-      "summary": "Az amerikai elnök szerint ez árt a világnak, és rengeteg másik célpont lenne helyette."
     }
   ],
   "Portfolio": [],
@@ -245,7 +245,12 @@
     {
       "title": "Trump downplays warnings of AI risks as he cites rivalry with China",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\"."
+    },
+    {
+      "title": "Zverev caps transformational year with US Open triumph",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c1wx9qpxjg3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Alexander Zverev lands his second Grand Slam title after ending Ben Shelton's hopes of becoming a rare home US Open men's champion."
     },
     {
       "title": "Will record donations to Reform go down as a moment of political change?",
@@ -263,14 +268,9 @@
       "summary": "The Premier League refereeing body Pro Ref admits an error of judgement in awarding Erling Haaland's winner in the Manchester derby."
     },
     {
-      "title": "Meghan shares glimpse of family life after Sussexes return to UK",
-      "link": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "It's the first time the Duchess of Sussex posted her family on her Instagram grid since they returned to the UK last month."
-    },
-    {
-      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US."
+      "title": "Gloomy forecast for tenants as rent rises set to speed up",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla."
     },
     {
       "title": "Swedish party blocs tied after Sunday vote, projections say",
@@ -278,14 +278,24 @@
       "summary": "A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority."
     },
     {
-      "title": "Andy Burnham among Great North Run finishers",
-      "link": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "This year's event sees 63,000 people take on the half marathon - including the prime minister."
+      "title": "Warm start to week to make way for wetter and windier conditions",
+      "link": "https://www.bbc.co.uk/weather/articles/cx2zyjw825go?at_medium=RSS&at_campaign=rss",
+      "summary": "A stronger jet stream will bring a distinctly autumnal look to our weather this week, but is there a September heatwave on the horizon later this month?"
     },
     {
-      "title": "Police searching for six men over anti-migrant protest in Portsmouth",
-      "link": "https://www.bbc.co.uk/news/articles/c158p587w4no?at_medium=RSS&at_campaign=rss",
-      "summary": "Force releases images of individuals it wants to speak to after disorder at Eastney Marina on 6 September."
+      "title": "Buckingham Palace works uncover trove of everyday items dating back to 1800s",
+      "link": "https://www.bbc.co.uk/news/articles/c2095wyqvx2o?at_medium=RSS&at_campaign=rss",
+      "summary": "A collection of historic, forgotten items have been found during the restoration of the London royal residence."
+    },
+    {
+      "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
+      "link": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet."
+    },
+    {
+      "title": "I had 11 years of chemotherapy for a cancer I didn't have",
+      "link": "https://www.bbc.co.uk/news/articles/c74e0zwkk18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Becky Jones is among more than 40 people taking legal action against a hospital trust."
     },
     {
       "title": "Questions mount over what an AI 'slowdown' would look like",
@@ -293,24 +303,14 @@
       "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution."
     },
     {
-      "title": "Best friends for decades - until a DNA test revealed they were sisters",
-      "link": "https://www.bbc.co.uk/news/articles/c5y6z72z9lno?at_medium=RSS&at_campaign=rss",
-      "summary": "Meena Geltink and Minal Tijssen were adopted from orphanages in Mumbai in the 1980s and grew up in the Netherlands."
-    },
-    {
-      "title": "Will the Thirlwall report change the debate about Lucy Letby?",
-      "link": "https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety."
-    },
-    {
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch."
+      "title": "The Papers: 'Compulsory lentils' and 'Boris flees Vlad drone blitz'",
+      "link": "https://www.bbc.co.uk/news/articles/cd794dn05p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "New school food rules for England and ex-PM Boris Johnson \"flees Vlad drone blitz\" are the top stories in Monday's papers."
     }
   ],
   "TechCrunch": [
     {
-      "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
       "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified."
     },
@@ -387,6 +387,11 @@
   ],
   "Nature": [
     {
+      "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+      "link": "https://www.nature.com/articles/d41586-026-02826-5",
+      "summary": "<p>Nature, Published online: 13 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02826-5\">doi:10.1038/d41586-026-02826-5</a></p>The extreme weather of this year’s mega El Niño could look different from past events."
+    },
+    {
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
       "summary": "<p>Nature, Published online: 11 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02893-8\">doi:10.1038/d41586-026-02893-8</a></p>Nature staff discuss an AI tool that can assess the impact of 9 billion mutations — plus, how the Bunsen burner’s reputation for sterilization might be based on tradition alone."
@@ -455,11 +460,6 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
       "summary": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02843-4\">doi:10.1038/d41586-026-02843-4</a></p>Evidence suggests that regular calls can keep kids learning when schooling is disrupted — plus, why a familiar world map may be about to change."
-    },
-    {
-      "title": "How AI is changing PhD programmes: join our free webinar",
-      "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "summary": "<p>Nature, Published online: 09 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02751-7\">doi:10.1038/d41586-026-02751-7</a></p>Learn how artificial intelligence can hone your research skills as well as the potential pitfalls of relying too heavily on it."
     }
   ]
 }

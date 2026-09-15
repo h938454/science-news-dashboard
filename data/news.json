@@ -1,6 +1,46 @@
 {
   "Telex": [
     {
+      "title": "Szoboszlai elképesztően nagy gólt lőtt, a Liverpool simán verte a Tottenhamet a Ligakupában",
+      "link": "https://telex.hu/sport/2026/09/15/futball-ligakupa-tottenham-hotspurs-liverpool",
+      "summary": "2-0 után tudott szépíteni a Spurs, de a végén a csereként beállt magyar középpályás jó 30 méterről bebombázta, és lezárta a meccset."
+    },
+    {
+      "title": "Az Nvidia vezérigazgatója szerint nincs szükség arra, hogy szabályozással lassítsák az MI-fejlesztéseket",
+      "link": "https://telex.hu/techtud/2026/09/15/jensen-huang-nvidia-dreamforce-san-francisco-konferencia",
+      "summary": "Jensen Huang szerint se új törvényekre, se új szabályozásra nincs szükség, a cégek pedig tegyenek belátásuk szerint."
+    },
+    {
+      "title": "Az előző magyar kormány EU elleni kémkedését is felemlegette a demokrácia védelméről szóló EP-jelentés",
+      "link": "https://telex.hu/kulfold/2026/09/15/eu-europai-parlament-demokracia",
+      "summary": "Dömötör Csaba fideszes képviselő szerint a testület nagykoalícióját nem a demokrácia érdekli, „hanem az, hogy cseléd módjára engedelmes kormányok legyenek”."
+    },
+    {
+      "title": "A vonatok elleni orosz dróntámadások egyszerre ijesztenek rá a Nyugatra és okoznak kárt Ukrajnának",
+      "link": "https://telex.hu/kulfold/2026/09/15/orosz-ukran-haboru-vonatok-nyugat-tisztviselok-tamadas-vasut-hataratkelok-eszkalacio",
+      "summary": "Az európai országok Ukrajnával közös határaira mért csapások, és az egyre szaporodó orosz hátterű hibrid támadások után több ország szerint az eszkaláció már tény, de az EU és a NATO egyelőre hezitál. Újabban pedig a nyugati tisztviselők vonatához közel támadtak az orosz drónok, amivel egyértelmű üzenetet küldött a Kreml."
+    },
+    {
+      "title": "RTL: Meggyanúsították az előző kormány egyik államtitkárát, aki a Tisza Világ appot letöltő dolgozók kirúgását hagyta jóvá",
+      "link": "https://telex.hu/belfold/2026/09/15/tisza-vilag-kirugasok-kozigazgatasi-allamtitkar",
+      "summary": "Személyes adattal való visszaéléssel gyanúsítanak, és már ki is hallgattak egy volt államtitkárt – állítja az RTL."
+    },
+    {
+      "title": "Megjelent a hiányzó kormányhatározat, a Dunai Vasmű dolgozói késéssel, de megkapták a bérüket",
+      "link": "https://telex.hu/gazdasag/2026/09/15/megjelent-a-hianyzo-kormanyhatarozat-a-dunai-vasmu-dolgozoi-kesessel-de-megkaptak-a-beruket",
+      "summary": "A pénzügyminiszter 657,1 millió forintot biztosított az augusztusi költségek finanszírozására."
+    },
+    {
+      "title": "Elszabaduló ügynökök, hajmeresztő támadások – az MI-cégek saját fejlesztői szerint épp most dől el az emberiség sorsa",
+      "link": "https://telex.hu/techtud/2026/09/15/mesterseges-intelligencia-ugynokok-openai-chatgpt-anthropic-claude-kommunikacio-hekkeles-internet",
+      "summary": "Egyre inkább csúsznak ki a cégek irányítása alól a legfejlettebb MI-modellek, az OpenAI ügynökei egymással szövetkezve és a nyomaikat elfedve jutottak ki az internetre, és hekkeltek meg egy céget, az Anthropic MI-jét biofegyverekhez próbálják felhasználni. Közben egyre több kutató követel szabályozást, és már maguk a cégek is lassítanának. Aki szerint minderre semmi szükség: Donald Trump."
+    },
+    {
+      "title": "Laptopokról és mobilokról mentett le adatokat a rendőrség az Országos Onkológiai Intézetben tartott házkutatáson",
+      "link": "https://telex.hu/belfold/2026/09/15/orszagos-onkologiai-intezet-nyomozas-tobb-giganyi-adatot-foglalt-le-az-nni",
+      "summary": "Az intézmény korábbi eszközbeszerzései ügyében nyomoz a rendőrség."
+    },
+    {
       "title": "Magyar Pétert a Vatikánban fogadja XIV. Leó pápa",
       "link": "https://telex.hu/belfold/2026/09/15/magyar-peter-vatikan-szeptember-24-xiv-leo-papa-latogatas-maganaudiencia-pietro-parolin-biboros-targyalas",
       "summary": "A miniszterelnök szeptember 24-én Pietro Parolin bíborossal is tárgyalni fog."
@@ -34,50 +74,35 @@
       "title": "Totális hárítás és Magyar Péter ígéretei – napirend előtt rajzolgatással, gyermekvédelemmel és benzinárral",
       "link": "https://telex.hu/video/2026/09/15/parlament-napirend-elott-osszefoglalo-magyar-peter-gyermekvedelem-retvari-bence-boka-janos-benzinar",
       "summary": "Semmiféle válasza nem volt a fideszeseknek a kormány gyermekvédelmi jelentésére, helyette Magyar Péter ígéreteit kérték számon, a miniszterelnök szerint viszont sosem ígért azonnali változásokat."
-    },
-    {
-      "title": "Reagált a legfontosabb cége arra, hogy előállították Jellinek Dánielt",
-      "link": "https://telex.hu/gazdasag/2026/09/15/jellinek-daniel-indotek-csoport-eloallitas",
-      "summary": "Az Indotek megerősítette, hogy valóban bevitték Jellineket."
-    },
-    {
-      "title": "Hiába szólalt fel Kubatov az erőszak ellen, a Fradi-szurkolók jelezték, őket ez nem érdekli",
-      "link": "https://telex.hu/sport/2026/09/15/fradi-szurkolok-molino-kubatov-futball",
-      "summary": "A FradiDrukker nevű szurkolói oldalra kikerült poszt szerint a klubelnök kérését nem tudják teljesíteni, és végső esetben erőszakkal védik meg a Ferencvárost."
-    },
-    {
-      "title": "Pótdíjat fizethetnek, akik nem a jó helyen teszik le a Bubi-bringákat, vagy nem zárják le azokat",
-      "link": "https://telex.hu/szepkilatas/2026/09/15/mol-bubi-kozbringa-halozat-fejlesztes-400-mobi-pont-potdij-nem-lezart-kerekparok",
-      "summary": "Véget ért a BKK türelmi időszaka."
-    },
-    {
-      "title": "Mureșan: Hiba lenne csökkenteni az EU forrásait, hogy Bezos, Musk és Zuckerberg szabadon hozzáférhessen az uniós piachoz",
-      "link": "https://telex.hu/gazdasag/2026/09/15/eu-europai-parlament-soteu-muresan-tavares-mff",
-      "summary": "Az Európai Parlament témafelelőse hamis kérdésnek tartotta, hogy „az országomnak kicsit többet kell-e fizetnie” a 2028-ban induló hétéves uniós büdzsébe."
-    },
-    {
-      "title": "Leminősítették Szíjj László útépítő cégét",
-      "link": "https://telex.hu/gazdasag/2026/09/15/szijj-laszlo-duna-aszfalt-lemonositette-a-scope-ratings",
-      "summary": "Akár további leminősítés jöhet a Duna Aszfaltnál."
-    },
-    {
-      "title": "Új Harry Potter-történetet adott ki a Pécsi Tudományegyetem, csak ezzel kémiát lehet tanulni",
-      "link": "https://telex.hu/techtud/2026/09/15/harry-potter-kemia-tankonyv-iskola",
-      "summary": "Harry Potter-történetbe csomagolta a hetedik és nyolcadik osztályos kémia tananyagát a Pécsi Tudományegyetem Természettudományi Kara. Az MTA Nagytermében bemutatott kötet a sztöchiometriától az oxidáción át a kemilumineszcenciáig azok számára is izgalmasabbá teheti a kémiát, akiknek a hagyományos tankönyv kevésbé hozza meg a kedvét a tantárgyhoz."
-    },
-    {
-      "title": "Sokat beszélget a ChatGPT-vel? Kiderült, hogy idegenek is láthatják a beszélgetéseit",
-      "link": "https://telex.hu/techtud/2026/09/15/openai-chatgpt-csetuzenet-emberi-felulvizsgalat-adatvedelem",
-      "summary": "Az OpenAI így fejleszti a csetbotját, de nem szól a felhasználóknak, hogy bármi, amit leírnak, akár egy emberi ellenőr szeme elé is kerülhet."
-    },
-    {
-      "title": "Újra bejegyzett egyházi státuszt kapott Iványi Gábor Magyarországi Evangéliumi Testvérközössége",
-      "link": "https://telex.hu/belfold/2026/09/15/magyarorszagi-evangeliumi-testverkozosseg-met-ujra-bejegyzett-egyhaz-jogeros-fovarosi-torvenyszek-ivanyi-gabor",
-      "summary": "A MET tárgyalna arról a Tisza-kormánnyal, hogy a még magasabb szintű, bevett egyházi státuszba kerüljenek."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Bezárják a washingtoni Kennedy Centert, miután egy szövetségi bíró megakadályozta, hogy Trump neve visszakerüljön az intézményre",
+      "link": "https://444.hu/2026/09/15/bezarjak-a-washingtoni-kennedy-centert-miutan-egy-szovetsegi-biro-megakadalyozta-hogy-trump-neve-visszakeruljon-az-intezmenyre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Erről a Trump által kinevezett igazgatótanácsi tagok döntöttek, persze nem a névadási hercehurcával, hanem az épület rossz állapotával indokolva a döntést."
+    },
+    {
+      "title": "Orosz hadihajó jelzőrakétákat lőtt egy dán helikopter felé",
+      "link": "https://444.hu/2026/09/15/orosz-hadihajo-jelzoraketakat-lott-egy-dan-helikopter-fele?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A dán fegyveres erők szerint az akciót nem előzte meg semmi figyelmeztetés. A külügyminiszter bekérette az orosz nagykövetet, von der Leyen szerint ez és a hétfői litvániai incidens nem elszigetelt esetek."
+    },
+    {
+      "title": "Sydney Sweeney sportolók sokaságát haragította magára, természetesen egy pucér reklámmal",
+      "link": "https://444.hu/2026/09/15/sydney-sweeney-sportolok-sokasagat-haragitotta-magara-termeszetesen-egy-pucer-reklammal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A sportolónők teste nem közügy, nem olyasmi, amin férfiak legeltethetik a szemüket, vagy amin gúnyolódni lehet."
+    },
+    {
+      "title": "Magyar Pétert jövő héten a Vatikánban fogadja XIV. Leó pápa",
+      "link": "https://444.hu/2026/09/15/magyar-petert-jovo-heten-a-vatikanba-fogadja-xiv-leo-papa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Orbán Viktort is fogadta már miniszterelnökké választása évében az akkori katolikus egyházfő."
+    },
+    {
+      "title": "Már csak ideiglenes engedéllyel működik Borkai ügyvédjének kaszinója Győrben",
+      "link": "https://444.hu/2026/09/15/mar-csak-ideiglenes-engedellyel-mukodik-borkai-ugyvedjenek-kaszinoja-gyorben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az új koncesszió sorsát tovább bonyolítja, hogy közben a kaszinókat felügyelő SZTFH megszűnhet, a Tisza-kormány pedig a korábban kiosztott kaszinókoncessziók felülvizsgálatát is bejelentette."
+    },
     {
       "title": "Szekeres Pál kapja Lázár mandátumát, Szekeres EP-képviselői mandátuma Orbán Balázsé lesz. De akkor ki kapja Orbán Balázs mandátumát?",
       "link": "https://444.hu/2026/09/15/szekeres-pal-kapja-lazar-mandatumat-szekeres-ep-kepviseloi-mandatuma-orban-balazse-lesz-de-akkor-ki-kapja-orban-balazs-mandatumat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -127,34 +152,69 @@
       "title": "Fekete-Győr András feljelentette Orbán Viktort, mert az szerinte megfenyegette az NVVH leendő munkatársait",
       "link": "https://444.hu/2026/09/15/fekete-gyor-andras-feljelentette-orban-viktort-mert-az-szerinte-megfenyegette-az-nvvh-leendo-munkatarsait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A volt miniszterelnök a Bayer Show-ban beszélt arról, hogy nyilvánosságra hozzák mindenkinek a nevét és számos személyes adatát, aki munkát vállal a hivatalnál."
-    },
-    {
-      "title": "Szijjártó Péter jelenleg fontos tárgyalásokat bonyolít a Közel-Keleten",
-      "link": "https://444.hu/2026/09/15/szijjarto-peter-jelenleg-fontos-targyalasokat-bonyolit-a-kozel-keleten?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A volt külügyminiszter már nem a politikai szektorban dolgozik, de több ügyben is előkerült most a neve."
-    },
-    {
-      "title": "Terror Háza: Szájer József benyújtotta a nyugdíjazási kérelmét",
-      "link": "https://444.hu/2026/09/15/terror-haza-szajer-jozsef-benyujtotta-a-nyugdijazasi-kerelmet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az üzemeltető azt mondta, a dolgozók többsége marad, 10-15, jellemzően vezető pozícióban lévő munkatárstól viszont várhatóan megválnak."
-    },
-    {
-      "title": "Mészáros Lőrincék nem vették meg A tanút, csak bérelték a sugárzási jogait, ezért kért engedélyt a közmédia a TV2-től a levetítésére",
-      "link": "https://444.hu/2026/09/15/meszaros-lorincek-nem-vettek-meg-a-tanut-csak-bereltek-a-sugarzasi-jogait-ezert-kert-engedelyt-a-kozmedia-a-tv2-tol-a-levetitesere?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Horváth P. András ideiglenes MTVA-vezérigazgató tegnap némileg pontatlanul fogalmazott Magyar Péternek: A tanú kizárólagos forgalmazási jogait sosem adta el az NFI, mert ezt a törvények nem is teszik lehetővé."
-    },
-    {
-      "title": "Hadházy: Mészáros Lőrinc már most is börtönben lehetne, ha valódi szándék lenne rá",
-      "link": "https://444.hu/2026/09/15/hadhazy-meszaros-lorinc-mar-most-is-bortonben-lehetne-ha-valodi-szandek-lenne-ra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A volt független képviselő nem látta a felcsúti oligarchán, hogy rettegne az önkénytől."
-    },
-    {
-      "title": "Leragasztják a szájukat, hogy jobban aludjanak, de életveszélyes lehet az újra fellángoló egészségőrület",
-      "link": "https://444.hu/2026/09/15/leragasztjak-a-szajukat-hogy-jobban-aludjanak-de-eletveszelyes-lehet-az-ujra-fellangolo-egeszsegorulet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A TikTokon, hírességek posztjaiban és 185 ezer forintos tanfolyamokon is terjed a Buteyko-módszer, amelynek egyik látványos eleme a leragasztott szájjal alvás. A veszélyes eljárás mögött jóval kevesebb a tudományos bizonyíték, mint a magabiztos gyógyulási ígéret."
     }
   ],
   "HVG": [
+    {
+      "title": "Telefonfülke-méretű cellákba zárták az embereket Trump bevándorlóknak szánt börtönében",
+      "link": "https://hvg.hu/vilag/20260915_telefonfulke-cella-trump-bevandorlok-borton",
+      "summary": "A mocsárban működő őrizeti központról az amerikai elnök azt mondta, hogy rengeteg őrünk van, aligátorok formájában."
+    },
+    {
+      "title": "Áder János festőművész lánya hazugságnak nevezte, hogy közpénzből finanszírozták a kiállításait",
+      "link": "https://hvg.hu/elet/20260915_ader-janos-festomuvesz-lanya-allami-tamogatas-ader-orsolya-kulugyminiszterium-diplomata-utlevel",
+      "summary": "A 24.hu írta meg, hogy Áder Orsolya több kiállításához kapott állami támogatást, és majdnem öt éven át utazhatott diplomata-útlevéllel. A festőművész azt ígérte, hogy a hazugságok terjesztőivel szemben jogi elégtételt fog kérni."
+    },
+    {
+      "title": "Washington dollármilliókat ad európai és közel-keleti katonai segélyekből dél- és közép-amerikai országoknak",
+      "link": "https://hvg.hu/vilag/20260915_washington-europa-kozel-kelet-katonai-segely-amerika",
+      "summary": "A vesztesek között van Szlovákia és Észak-Macedónia is."
+    },
+    {
+      "title": "Izgalmas pénzeket találtak a Drávánál",
+      "link": "https://hvg.hu/tudomany/20260915_romai-kori-penzek-drava-diszsarkantyu",
+      "summary": "A Drávánál talált római kori numizmatikai leletről számolt be a kaposvári Rippl-Rónai Múzeum."
+    },
+    {
+      "title": "Orbán Balázs Szekeres Pált váltja az EP-ben, utóbbi Lázár János mandátumát kapja meg",
+      "link": "https://hvg.hu/itthon/20260915_orban-balazs-szekeres-pal-mandatumcsere-lazar-janos-fidesz-havasi-bertalan",
+      "summary": "Azt továbbra sem tudni, ki veszi át Orbán Balázs megüresedett mandátumát a magyar Országgyűlésben. Havasi Bertalan lapunknak azt mondta, hogy a kérdésről szó lesz a Fidesz e heti elnökségi ülésén."
+    },
+    {
+      "title": "Személyes adattal való visszaéléssel gyanúsítják az előző kormány egyik államtitkárát",
+      "link": "https://hvg.hu/itthon/20260915_szemelyes-adattal-valo-visszaeles-pilz-tamas-gyanusitas-allamtitkar",
+      "summary": "A rendőrség Pilz Tamást már ki is hallgatta."
+    },
+    {
+      "title": "Egyszer összetörték, így is 20 millió dollárt érhet Steve McQueen Ferrarija",
+      "link": "https://hvg.hu/cegauto/20260915_egyszer-osszetortek-igy-is-20-millio-dollart-erhet-steve-mcqueen-ferrarija",
+      "summary": "Egy teherautó amortizálta le nem sokkal az után, hogy megvette."
+    },
+    {
+      "title": "Földre lökött, majd lerángatott egy nőt az ellenőr a négyes-hatos villamosról",
+      "link": "https://hvg.hu/itthon/20260915_ellenor-villamos-foldre-lokes-4-es-6-os-bkk-vizsgalat",
+      "summary": "A zavartan viselkedő nőnek nem volt jegye, összeszólalkozott az ellenőrrel, aki a ruhájánál fogva húzta le a járműről. A BKK vizsgálatot indított."
+    },
+    {
+      "title": "Feltöltötték egy muslica teljes agyát a Minecraftba, ami utána történt, az lenyűgöző – videó",
+      "link": "https://hvg.hu/tudomany/20260915_ecetmuslica-agya-minecraft-digitalis-masolat",
+      "summary": "A Ro0oney nevű YouTube-videós arra volt kíváncsi, miként viselkedne a digitális világban egy karakter, ha az ecetmuslica feltérképezett agya irányítaná."
+    },
+    {
+      "title": "Megszavazta a parlament a dohánytermékek jövedéki adójának az emelését",
+      "link": "https://hvg.hu/itthon/20260915_parlament-dohanytermekek-jovedeki-ado-emeles",
+      "summary": "Egyben a dízelautósok támogatásáról is szavazott az Országgyűlés."
+    },
+    {
+      "title": "Pénzügyi átvilágítás is lesz a bezárt Terror Házában",
+      "link": "https://hvg.hu/itthon/20260915_terror-haza-bezaras-penzugyi-atvilagitas-schmidt-maria",
+      "summary": "A minisztérium célja biztosítani, hogy az intézmény a jövőben jogszerűen, átláthatóan, gazdaságilag hatékonyan és hosszú távon stabilan működhessen."
+    },
+    {
+      "title": "Büntethetik azokat, akik széthagyják a Bubi bringáit",
+      "link": "https://hvg.hu/cegauto/20260915_buntetes-mol-bubi-mobi-pont",
+      "summary": "Azt is pótdíjazhatják, ha valaki nem zárja le a lakatot a kerékpárokon."
+    },
     {
       "title": "Vitézy olyan dokumentumot mutatott be az M6-os üzemeltetésről, amelyben nem engedélyezte Lázár az olcsóbb megoldást",
       "link": "https://hvg.hu/gazdasag/20260915_vitezy-david-m6-autopalya-uzemeltetes",
@@ -169,66 +229,6 @@
       "title": "„Nem kell tíz év, és eltűnhet a szakma” – hová lett a valaha tekintélyes hentesmesterség?",
       "link": "https://hvg.hu/360/20260915_amikor-a-hentesmester-meg-tekintelyes-polgar-volt",
       "summary": "Száz évvel ezelőtt a hentes nem csak húst vágott: sokszor ő volt a település egyik legtekintélyesebb polgára. Brauch Ferenc és Bittner János emléke a múlté, ma évente mindössze egy tucat fiatal választja ezt a szakmát országban. Kétrészes cikksorozatunk első részében ennek járunk utána, hogyan lett egy egykor megbecsült polgári foglalkozásból ma kihalófélben lévő szakma."
-    },
-    {
-      "title": "Kaja Kallas a Magyarországról kiutasított orosz diplomatákkal példálózott",
-      "link": "https://hvg.hu/eurologus/20260915_kaja-kallas-hibrid-haboru-oroszorszag-biztonsag-eu-ep2026",
-      "summary": "Az Ukrajna elleni orosz invázió kezdete óta jelentősen nőtt az Európai Unió tagállamai ellen elkövetett hibrid támadások száma – mondta az Európai Parlamentben Kaja Kallas, az EU külügyi és biztonságpolitikai főképviselője. A képviselők az Oroszország és más szereplők által jelentett hibrid fenyegetésekről, valamint az EU ellenálló képességéről vitáztak."
-    },
-    {
-      "title": "Ha ezeket a tüneteket érzi, jobb, ha azonnal leteszi a telefonját",
-      "link": "https://hvg.hu/tudomany/20260915_mobilozas-fajdalom-tunet",
-      "summary": "Számos tudományos vizsgálat jutott arra, hogy a mobilozás fizikai fájdalmat is okozhat. Mutatjuk, mire jutottak a tudósok."
-    },
-    {
-      "title": "Leminősítették Szíjj László cégét",
-      "link": "https://hvg.hu/kkv/20260915_szijj-laszlo-ceg-duna-aszfalt-leminosites-scope-ratings",
-      "summary": "A kormányváltást követően több nagy infrastrukturális projektet felülvizsgáltak, a Scope Ratings szerint akár újabb leminősítés is jöhet a Duna Aszfaltnál."
-    },
-    {
-      "title": "„Hiányzik a magyar kultúra is, a színház, New Orleansban nekem való kőszínház nincs is”",
-      "link": "https://hvg.hu/360/20260915_szeretettel-kulfoldrol-fulop-laszlo-zsolt-erdely-marosvasarhely-new-orleans-katrina-film",
-      "summary": "Fülöp László Zsolt íróként indult Erdélyben, aztán tengerjáró hajón dolgozott, majd kikötött New Orleansban, ahol ma professzor, de hazakészül. Szeretettel külföldről sorozatunk írása."
-    },
-    {
-      "title": "Magyar kutatók vizsgálata teheti pontosabbá a DNS-szerkesztést",
-      "link": "https://hvg.hu/tudomany/20260915_pontosabb-dns-szerkesztes-magyar-kutatok-vizsgalat-crispr",
-      "summary": "A betegségek genetikai okainak vizsgálatától és sejtek módosításától kezdve új terápiás lehetőségek fejlesztéséig számos dologra használható a DNS mesterséges módosítása."
-    },
-    {
-      "title": "Szekeres Pál kapta Lázár János országgyűlési mandátumát",
-      "link": "https://hvg.hu/itthon/20260915_szekeres-pal-lazar-janos-mandatum-orszaggyules-nemzeti-valasztasi-bizottsag-hatarozat-orban-balazs",
-      "summary": "A Nemzeti Választási Bizottság áldását adta a cserére."
-    },
-    {
-      "title": "A Partizán és a Telex kapta a legtöbb adó 1 százalékos felajánlást",
-      "link": "https://hvg.hu/kkv/20260915_civil-szervezetek-szja-1-szazalek-felajanlasok-nav-partizan",
-      "summary": "Idén 21,4 milliárd forint jutott a civileknek az szja 1 százalékából."
-    },
-    {
-      "title": "Az egyházi státuszt visszakapta, de meddig kell még bíróságra járnia Iványinak?",
-      "link": "https://hvg.hu/360/20260915_ivanyi-gabor-met-egyhaz-birosag-orban-ner",
-      "summary": "A NER idején államilag üldözendő vallási közösségből ismét bevett, elismert egyház lett az Iványi Gábor nevével fémjelzett Magyarországi Evangéliumi Testvérközösség (MET). De a hatóság elleni erőszakkal vádolt lelkész feje fölött még mindig ott lebeg az ügyészség által rá kimérni kért kétéves börtönbüntetés."
-    },
-    {
-      "title": "Drón zuhant le egy német katonai bázis közelében",
-      "link": "https://hvg.hu/vilag/20260915_dron-lezuhant-nemet-katonai-bazis",
-      "summary": "A hatóságok a roncsokat keresik, egyelőre nem tudni, a drón kié lehetett."
-    },
-    {
-      "title": "Schmidt Mária a kirúgásáról: Csak remélni merem, hogy az indoklás nem függ össze az országszerte ismert ellenzéki politikai szimpátiámmal",
-      "link": "https://hvg.hu/itthon/20260915_terror-haza-muzeum-foigazgato-felmentes-schmidt-maria-reakcio",
-      "summary": "A Terror Háza múzeum felmentett igazgatója szerint sem indoklást, sem tájékoztatást nem kapott."
-    },
-    {
-      "title": "„A trójai háború nem szólt másról, csak a birtoklásról és minél több nem görög asszony megerőszakolásáról”",
-      "link": "https://hvg.hu/360/20260915_tortenelem-noi-szempont-emily-hauser-konyv-myticha-homerosz-okori-noi-sorsok-hvg",
-      "summary": "Emily Hauser brit ókortörténész nem éri be azzal, hogy a történelem kizárólag a férfiak történelme. Új kötete Homérosz asszonyainak sorsán keresztül a bronzkori nők életét igyekszik jobban bemutatni."
-    },
-    {
-      "title": "Lemondott az állatjogi aktivistákat bántalmazó vezérigazgató",
-      "link": "https://hvg.hu/elet/20260915_steven-kolb-peta-allatjog-eroszak-divatbemutato-viralis-lemondott",
-      "summary": "Steven Kolb egy rendezvényen balhézott, erről videó is készült."
     }
   ],
   "BBC": [
@@ -238,9 +238,9 @@
       "summary": "Plans will be \"urgently\" developed for live-streaming cameras after an inquiry report into Lucy Letby's crimes."
     },
     {
-      "title": "The key findings and recommendations from the Lucy Letby inquiry",
-      "link": "https://www.bbc.co.uk/news/videos/c6d94ex3p8jlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Former nurse Lucy Letby is serving 15 whole-life prison terms for murdering seven babies and attempting to murder seven more."
+      "title": "Support acts quit Ed Sheeran tour in support of Macklemore",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The star says he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage."
     },
     {
       "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
@@ -253,19 +253,14 @@
       "summary": "The former England winger crashed a Lamborghini into motorway barriers in May."
     },
     {
-      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage."
+      "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
+      "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's defence correspondent Jonathan Beale explains what an arms race in space might look like - and what it could mean for us on the ground."
     },
     {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
-    },
-    {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment."
+      "title": "Thirteenth Met Police officer sacked after Charing Cross Panorama film",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwy89nl75o?at_medium=RSS&at_campaign=rss",
+      "summary": "PC Mason O'Connor is dismissed after a hearing found he had breached standards of professional behaviour, the Met said."
     },
     {
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
@@ -273,9 +268,9 @@
       "summary": "The increase has reignited the debate about the state pension's long-term affordability and generational fairness."
     },
     {
-      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens."
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\"."
     },
     {
       "title": "Two dead after car hits group of pedestrians",
@@ -283,14 +278,24 @@
       "summary": "A vehicle hit four people before colliding with two cars on White Rose Way in Doncaster, police say."
     },
     {
-      "title": "Harry and Meghan change children's school over security concerns due to traffic",
-      "link": "https://www.bbc.co.uk/news/articles/cwg7kv373z4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is understood that the couple's private security team had cited concerns about difficulties in making the school run route secure."
+      "title": "Trump criticises Supreme Court after justices block mail-in ballot restrictions",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president assailed the justices for blocking his plan to allow delivery of ballots only to voters on lists of citizens."
     },
     {
-      "title": "An inquest verdict at last - but many mysteries remain about Noah Donohoe's death",
-      "link": "https://www.bbc.co.uk/news/articles/cm20j8re574o?at_medium=RSS&at_campaign=rss",
-      "summary": "After years of delay, the jury has reached a verdict but some questions remain unanswered over what happened to the 14-year-old."
+      "title": "Watch: Helicopter hovers feet from cliff face during rescue in California",
+      "link": "https://www.bbc.co.uk/news/videos/cw33k8dr5reyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The video shows a helicopter holding steady mere feet from a cliff face in the Sierra Nevada mountains while a rescue team secures an injured climber."
+    },
+    {
+      "title": "Letby hospital consultant says inquiry makes for grim reading",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier."
+    },
+    {
+      "title": "Key findings from Lucy Letby Thirlwall inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/c64g7wl30wygo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inquiry found a \"complete failure to protect babies on the neonatal unit\" where the nurse worked."
     },
     {
       "title": "Letby failings go beyond one hospital - the whole system has been found lacking",
@@ -298,24 +303,39 @@
       "summary": "Inquiry chair Lady Justice Thirlwall set out how the culture of the health system created the conditions that enabled poor care and criminality."
     },
     {
-      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts tell BBC Verify the pipeline's closure could cut oil supplies by as much as 3.6 million barrels per day."
-    },
-    {
-      "title": "What weapon could the US have put into space?",
-      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit."
+      "title": "Repeatedly untruthful, callous and quiet: What we learned about Letby from inquiry report",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64wk38d72o?at_medium=RSS&at_campaign=rss",
+      "summary": "The report has shed more details on Lucy Letby - the most prolific child killer in British legal history."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world."
+    },
+    {
+      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
+      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
+      "summary": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation."
+    },
     {
       "title": "AI agents now have a place to snitch",
       "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
       "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities."
     },
     {
-      "title": "US military confirms it launched space weapons into Earth’s orbit",
+      "title": "US military says it has launched weapons into space",
       "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
       "summary": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit."
     },
@@ -363,103 +383,7 @@
       "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
       "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
       "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save up to $200 on your pass."
-    },
-    {
-      "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-      "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-      "summary": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15."
-    },
-    {
-      "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
-      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "summary": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management."
-    },
-    {
-      "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "summary": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15."
-    },
-    {
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "summary": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic."
     }
   ],
-  "Nature": [
-    {
-      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
-      "link": "https://www.nature.com/articles/s41586-026-11139-6",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11139-6\">doi:10.1038/s41586-026-11139-6</a></p>Quality control of glycogen through direct ubiquitylation by RNF213"
-    },
-    {
-      "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
-      "link": "https://www.nature.com/articles/s41586-026-11137-8",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11137-8\">doi:10.1038/s41586-026-11137-8</a></p>Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance"
-    },
-    {
-      "title": "A wake-up call: diversify global research funding",
-      "link": "https://www.nature.com/articles/d41586-026-02904-8",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02904-8\">doi:10.1038/d41586-026-02904-8</a></p>A wake-up call: diversify global research funding"
-    },
-    {
-      "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
-      "link": "https://www.nature.com/articles/d41586-026-02907-5",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02907-5\">doi:10.1038/d41586-026-02907-5</a></p>Why Nepal floods resulted in a disaster even after satellites spotted danger"
-    },
-    {
-      "title": "The geometric genius of René Descartes",
-      "link": "https://www.nature.com/articles/d41586-026-02723-x",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02723-x\">doi:10.1038/d41586-026-02723-x</a></p>The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive."
-    },
-    {
-      "title": "Make AI traceable before it shapes global climate assessments",
-      "link": "https://www.nature.com/articles/d41586-026-02905-7",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02905-7\">doi:10.1038/d41586-026-02905-7</a></p>Make AI traceable before it shapes global climate assessments"
-    },
-    {
-      "title": "Why the NIH must resist the metrics trap",
-      "link": "https://www.nature.com/articles/d41586-026-02906-6",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02906-6\">doi:10.1038/d41586-026-02906-6</a></p>Why the NIH must resist the metrics trap"
-    },
-    {
-      "title": "Global inequality panel is a chance for research to change lives",
-      "link": "https://www.nature.com/articles/d41586-026-02885-8",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02885-8\">doi:10.1038/d41586-026-02885-8</a></p>The scientific panel is welcomed. It must now invite all interested researchers to participate."
-    },
-    {
-      "title": "CRISPR crops are coming to Europe — why bolder would be better",
-      "link": "https://www.nature.com/articles/d41586-026-02848-z",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02848-z\">doi:10.1038/d41586-026-02848-z</a></p>For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought."
-    },
-    {
-      "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
-      "link": "https://www.nature.com/articles/d41586-026-02850-5",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02850-5\">doi:10.1038/d41586-026-02850-5</a></p>Firms are racing to drill for hydrogen in hopes of finding a dirt-cheap green-energy source."
-    },
-    {
-      "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
-      "link": "https://www.nature.com/articles/d41586-026-02853-2",
-      "summary": "<p>Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02853-2\">doi:10.1038/d41586-026-02853-2</a></p>Urban areas depend on resources from the land that surrounds them. Managing regions in their entirety is the best way to avoid rural decline."
-    },
-    {
-      "title": "Encoded and non-genetic protein variants expand human functional proteome",
-      "link": "https://www.nature.com/articles/s41586-026-11124-z",
-      "summary": "<p>Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11124-z\">doi:10.1038/s41586-026-11124-z</a></p>Encoded and non-genetic protein variants expand human functional proteome"
-    },
-    {
-      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
-      "link": "https://www.nature.com/articles/d41586-026-02908-4",
-      "summary": "<p>Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02908-4\">doi:10.1038/d41586-026-02908-4</a></p>Andrew Robinson reviews five of the best science picks."
-    },
-    {
-      "title": "How is climate change affecting conifers and their ability to sequester carbon?",
-      "link": "https://www.nature.com/articles/d41586-026-02847-0",
-      "summary": "<p>Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02847-0\">doi:10.1038/d41586-026-02847-0</a></p>Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow."
-    },
-    {
-      "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-      "link": "https://www.nature.com/articles/d41586-026-02852-3",
-      "summary": "<p>Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02852-3\">doi:10.1038/d41586-026-02852-3</a></p>Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation."
-    }
-  ]
+  "Nature": []
 }

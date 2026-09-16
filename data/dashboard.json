@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter biciklizés közben mondta el, hogy miről tárgyalt ma a kormány",
-      "summary": "Magyar Péter egy videóban számolt be arról, hogy az EP-választási kampány során mit beszélt meg a kormánnyal. A kampányolás közben is aktívan tájékoztatja követőit a legfrissebb fejleményekről.",
+      "title": "A bicskei gyermekotthon botránya és a kitüntetés körüli felelősség",
+      "summary": "A bicskei gyermekotthon igazgatójának kitüntetése tízlépcsős döntési láncon csúszott át anélkül, hogy bárki ellenvetést tett volna, rávilágítva a rendszer súlyos hiányosságaira. Egy volt dolgozó is megszólalt, állítva, nem sejtették, milyen rémségek történtek az intézményben.",
       "importance": 5
     },
     {
-      "title": "Szigorúbb szűrésekkel csökkentenék a szifiliszes csecsemők számát",
-      "summary": "Aggasztóan sok szifiliszes csecsemő születik Magyarországon, ezért a kórházak szigorúbb eljárásrendet vezetnek be. A cél a fertőzések korai felismerése és a megelőzés javítása a közegészségügy érdekében.",
+      "title": "Magyar Péter és a Hír TV: kirúgás a lelövésre buzdítás miatt",
+      "summary": "Egy betelefonáló Magyar Péter lelövésére buzdított egy Hír TV-s műsorban, ami miatt azonnali hatállyal elbocsátották Palányi Nóra műsorvezetőt. Magyar Péter maga is megszólalt a kormányzati tárgyalásokról, miközben a média esetet vizsgálja.",
+      "importance": 5
+    },
+    {
+      "title": "Kamarai díj eltörlése és közel 3 milliárd forint visszavétele",
+      "summary": "A kormány eltörli a Magyar Kereskedelmi és Iparkamarának fizetendő kötelező, 5000 forintos hozzájárulást, és közel 3 milliárd forintot is visszavesz az szervezettől. Az ügyben Kapitány Istvánt nevezték ki biztossá, ami jelentős változást hoz a magyar gazdasági élet szereplőinek.",
       "importance": 4
     },
     {
-      "title": "A bicskei gyermekotthon igazgatójának kitüntetése úgy csúszott át mindenkin, hogy egy tízlépcsős döntési láncban senkinek nem volt ellenvetése",
-      "summary": "A bicskei gyermekotthon volt igazgatójának kitüntetése kapcsán felmerült kérdésekre a vizsgálóbizottság igyekszik választ találni. Senki nem emelt kifogást a tízlépcsős döntési láncban, ami további vizsgálatokat tesz szükségessé az ügyben.",
-      "importance": 5
-    },
-    {
-      "title": "Magyar Péter lelövésére buzdított egy betelefonáló a Paláverben, a HírTV kirúgta a műsorvezetőt, Palányi Nórát",
-      "summary": "Egy betelefonáló nyíltan buzdított Magyar Péter lelövésére a HírTV műsorában, ami azonnali retorziót vont maga után. A műsorvezetőt, Palányi Nórát elbocsátották, ami éles vitát váltott ki a médiaszabadság és a felelősségvállalás kérdéséről.",
-      "importance": 5
+      "title": "Gyerektábori étkeztetés: 24 ezer forint egy ebédre, feljelentések a Balásy-modell miatt",
+      "summary": "Tanács Zoltánék hat feljelentést tesznek két céggel szemben, amelyek fejenként 24 ezer forintot számláztak egy gyerektábori ebédre, 315 ezres óradíjjal, a Balásy-modellre emlékeztető módon. Az ügy a közpénzek elköltésének átláthatóságára és a feltételezett visszaélésekre hívja fel a figyelmet.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A Pentagon elismerte, hogy lőszerhiánnyal küzdenek az iráni háború miatt",
-      "summary": "A Pentagon főellenőre megerősítette, hogy az Egyesült Államok lőszerhiánnyal néz szembe, ami az iráni háború következménye. Ez komoly aggodalmakat vet fel a katonai felkészültséggel és a globális biztonsággal kapcsolatban.",
+      "title": "Az amerikai Fed három év után először emeli az alapkamatot",
+      "summary": "Az amerikai jegybank, a Fed, három év után először emeli az alapkamatot, hogy megfékezze az inflációt és stabilizálja a gazdaságot. Ez a lépés jelentős hatással lehet a globális pénzügyi piacokra és a nemzetközi gazdasági folyamatokra.",
       "importance": 5
     },
     {
-      "title": "Az izraeli védelmi miniszter szerint idő kérdése, hogy mikor indul újra a háború Gázában",
-      "summary": "Izrael védelmi minisztere kijelentette, hogy újabb gázai háború kirobbanása csak idő kérdése, ami fokozza a regionális feszültségeket. A helyzet továbbra is rendkívül instabil és kiszámíthatatlan, nemzetközi beavatkozást sürgetve.",
+      "title": "USA-iráni feszültség: károk amerikai telephelyeken és lőszerhiányra figyelmeztetés",
+      "summary": "Az iráni támadások súlyos károkat okoztak amerikai telephelyeken, miközben a Pentagon főellenőre lőszerhiányra figyelmeztetett az iráni konfliktus miatt. A helyzet eszkalációja komoly geopolitikai kockázatokat és a regionális stabilitás romlását vetíti előre.",
       "importance": 5
     },
     {
-      "title": "Kanada, Biztonsági Tanács, klímabiztosítás: von der Leyen felrajzolta Európa új irányát",
-      "summary": "Ursula von der Leyen, az EU vezetője felvázolta Európa jövőbeli irányát, kiemelve Kanada kulcsszerepét, a Biztonsági Tanács reformját és a klímabiztosítás fontosságát. Ez egy új stratégiai prioritásokat kijelölő beszéd volt az EU számára.",
+      "title": "Von der Leyen társult EU-tagságot ajánl Kanadának",
+      "summary": "Ursula von der Leyen, az Európai Bizottság elnöke társult EU-tagságot javasolt Kanadának, egyeztetés nélkül. Ez az elképzelés új irányt mutathat az európai külpolitikában és biztonsági együttműködésben, de belső ellenállást is kiváltott.",
       "importance": 4
     },
     {
-      "title": "Eljött a pillanat: úgy kilőttek az amerikai árak, hogy kamatemeléssel próbálják menteni a helyzetet",
-      "summary": "Az amerikai infláció váratlanul magasra szökött, amire a Federal Reserve kamatemeléssel reagál. Ez a lépés jelentős hatással lehet a globális gazdaságra és a pénzpiacokra, befolyásolva a befektetéseket és a fogyasztói árakat világszerte.",
+      "title": "Putyin magas részvételt szeretne az ellenzék eltiltása után az orosz választásokon",
+      "summary": "Miután az orosz ellenzéket eltiltották a választásokon való indulástól, Vlagyimir Putyin magas részvételt szeretne látni. Ez a lépés rávilágít az orosz politikai rendszer irányítására és a demokratikus folyamatok korlátozására, tovább erősítve Putyin hatalmát.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Microsoft szerint az Anthropic AI-ja \"katasztrofális hatással\" lehet az emberiségre",
-      "summary": "A Microsoft arra figyelmeztet, hogy az Anthropic rivális AI-ja katasztrofális következményekkel járhat az emberiségre nézve. Ez rávilágít az AI fejlesztésével kapcsolatos etikai aggodalmakra és kockázatokra, sürgetve a felelős szabályozást.",
+      "title": "AI biztonság és etika: figyelmeztetések és belső ellenőrzések az iparágban",
+      "summary": "A Microsoft figyelmeztetett, hogy rivális AI-cég, az Anthropic 'katasztrofális hatással' lehet az emberiségre, miközben az AI laborok belső ellenőröket vezetnének be. Ez rávilágít a mesterséges intelligencia fejlődésének etikai és biztonsági kihívásaira, valamint az önálló szabályozás kérdésére, sürgetve a felelősségteljes fejlesztést.",
       "importance": 5
     },
     {
-      "title": "Az AI-ügynökök mostantól irányíthatják a Google Home eszközeidet",
-      "summary": "A Google Home eszközök már mesterséges intelligencia ügynökökkel is vezérelhetők, ami új lehetőségeket nyit meg az okosotthonok automatizálásában. Ez azonban új adatvédelmi és biztonsági kérdéseket is felvet a felhasználók számára.",
+      "title": "Tömeges adatlopás Floridában: hackerek publikálták sofőrök adatait",
+      "summary": "Hackerek több ezer sofőr adatait tették közzé, miután feltörték a floridai gépjármű-nyilvántartási adatbázist. Ez az eset újabb figyelmeztetés az adatbiztonság fontosságára és a személyes adatok védelmének sürgető szükségességére a digitális korban.",
       "importance": 4
     },
     {
-      "title": "Hackerek ezernyi vezető adatait tették közzé egy floridai járműnyilvántartási adatbázis feltörése után",
-      "summary": "Floridában hackerek törtek be egy járműnyilvántartási adatbázisba, és több ezer sofőr személyes adatait hozták nyilvánosságra. Az eset rávilágít az adatbiztonság sebezhetőségére és a személyes adatok védelmének fontosságára a digitális korban.",
+      "title": "Küzdelem az algoritmusok visszaszorításáért",
+      "summary": "Egyre nagyobb kihívást jelent az algoritmusok visszaszorításának kísérlete, amelyek mélyen beépültek a digitális életünkbe és befolyásolják mindennapjainkat. Ez a téma a technológiai óriások hatalmára és az algoritmusok társadalmi, kognitív hatásaira hívja fel a figyelmet, a szabályozás szükségességét hangsúlyozva.",
       "importance": 4
     },
     {
-      "title": "A Google szerint egyes Pixel telefonok tulajdonosait zero-day támadások érték",
-      "summary": "A Google megerősítette, hogy zero-day támadások értek bizonyos Pixel telefon tulajdonosokat, ami kritikus biztonsági résre utal. A cég gyors frissítést adott ki a sebezhetőség orvoslására, hangsúlyozva az azonnali védelem szükségességét.",
-      "importance": 4
+      "title": "AI ügynökök vezérlik a Google Home eszközöket: okosotthonok új generációja",
+      "summary": "Az AI ügynökök mostantól képesek irányítani a Google Home eszközöket, ami új szintre emeli az okosotthonok automatizálását és a mesterséges intelligencia mindennapi életbe való integrálását. Ez a fejlődés kényelmesebbé teheti az otthoni rendszerek kezelését, de felveti a biztonsági és adatvédelmi kérdéseket is.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Emberi agyszövet ültethető be egerekbe a kortex nélkül",
-      "summary": "Tudósoknak sikerült emberi agyszövetet beültetni kortex nélküli egerekbe, ahol a szövet gyökeret vert és fejlődött. Ez a tudományos áttörés új lehetőségeket nyit a neurológiai betegségek kutatásában és kezelésében, miközben etikai kérdéseket is felvet.",
-      "importance": 5
-    },
-    {
-      "title": "A túlsúlyos fekete lyukak és apró vörös pontok természetesen jönnek létre szimulációkban",
-      "summary": "Számítógépes szimulációkban természetesen képződnek extrém tömegű fekete lyukak és \"apró vörös pontok\", amelyek segítenek megérteni a korai univerzum titkait. Ez az asztronómiai felfedezés új betekintést nyújt a kozmikus evolúcióba és a galaxisok kialakulásába.",
+      "title": "Szigorúbb szűrésekkel csökkentenék a szifiliszes csecsemők számát",
+      "summary": "Szigorúbb szűrésekkel próbálják csökkenteni a szifiliszes csecsemők számát, ami egy fontos közegészségügyi intézkedés a betegség terjedésének megakadályozására. Ez a kezdeményezés az anyák és csecsemők egészségének védelme szempontjából kiemelt jelentőségű, és a fertőző betegségek elleni küzdelem élvonalában áll.",
       "importance": 4
     },
     {
-      "title": "Alzheimer-kór fordulópontjai és átmenetei",
-      "summary": "Kutatók az Alzheimer-kór kritikus fordulópontjait és progressziójának mechanizmusait vizsgálják, hogy jobban megértsék a betegség lefolyását. Az eredmények hozzájárulhatnak hatékonyabb diagnosztikai eszközök és terápiák kidolgozásához.",
+      "title": "Muslica agykutatás: Rubik-kockát rak ki és bitcoinnal kereskedik egy feltérképezett agyú muslica",
+      "summary": "Feltérképezték egy muslica agyát, ami után az állat állítólag képes Rubik-kockát kirakni és bitcoinnal kereskedni. Ez az áttörés a neurobiológia és a mesterséges intelligencia kutatásában új lehetőségeket nyithat az agyműködés megértésében és a biológiai rendszerek modellezésében, különösen az AI fejlesztésében.",
+      "importance": 4
+    },
+    {
+      "title": "A mesterséges intelligencia lehetséges katasztrofális kockázatai",
+      "summary": "A Microsoft figyelmeztetése a rivális AI 'katasztrofális hatásaira' rávilágít a tudományos és etikai vitákra a mesterséges intelligencia jövőjével kapcsolatban. Tudósok és kutatók egyre inkább vizsgálják az AI potenciális veszélyeit és a szükséges biztonsági intézkedéseket, hogy elkerüljék a nemkívánatos következményeket, akár az emberiségre nézve is.",
       "importance": 5
     },
     {
-      "title": "A muslica Rubik-kockát rak ki és bitcoinnal kereskedik agyának feltérképezése után",
-      "summary": "Kísérletek során muslicák agyát térképezték fel, ami után képessé váltak bonyolult feladatok, például Rubik-kocka kirakásának vagy szimulált bitcoin-kereskedelemnek a végrehajtására. A kutatás mélyebb betekintést nyújt az idegrendszer működésébe és a mesterséges intelligencia fejlesztésébe.",
-      "importance": 4
+      "title": "Hat év után visszatért az emlékezete egy amnéziás férfinek munkahelyváltás után",
+      "summary": "Egy amnéziás férfi hat év után, munkahelyváltáskor visszanyerte emlékezetét, ami rendkívüli eset a neurológia és a pszichológia területén. Ez a jelenség mélyebb betekintést nyújthat az emberi memória működésébe és a felejtés folyamataiba, új kutatási irányokat nyitva meg.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Katasztrofális VAR-hiba egy derbin: \"Gyerünk, gyerünk\"",
-      "summary": "Egy kritikus labdarúgó-derbin történt katasztrofális VAR (videóbíró) hiba, amely felháborodást váltott ki a szurkolók és a szakértők körében. A hiba rávilágít a technológia alkalmazásának kihívásaira és a döntéshozatal pontosságának fontosságára a sportban.",
+      "title": "Katasztrofális VAR-hiba a Manchester derby mérkőzésen",
+      "summary": "Egy katasztrofális VAR-hiba történt a Manchester derby mérkőzésen, amely komoly vitákat váltott ki a videóbíró rendszer hatékonyságáról és megbízhatóságáról. Ez az eset rávilágít a modern labdarúgás technológiai kihívásaira és a játékvezetés pontosságának fontosságára, újabb kérdéseket vetve fel a rendszer jövőjét illetően.",
       "importance": 4
-    },
-    {
-      "title": "Megrúgta egy ló, ettől sérült meg – állította a rendőröknek egy vezetéstől eltiltott, ittas férfi, de valamiért nem hittek neki",
-      "summary": "Egy ittas, vezetéstől eltiltott férfi azt állította, egy ló rúgta meg, amikor a rendőrök rajtakapták egy incidens helyszínén. Bár ez egy bűnügyi hír, a lóval való interakció (amely gyakran kapcsolódik lovassportokhoz) a legközelebbi kapcsolódás a sporthoz ezen a listán.",
-      "importance": 1
-    },
-    {
-      "title": "Magyar Péter biciklizés közben mondta el, hogy miről tárgyalt ma a kormány",
-      "summary": "Magyar Péter egy politikai bejelentést tett kampány közben, miközben biciklizett. Habár a hír a politikáról szól, a kerékpározás mint fizikai aktivitás és sporttevékenység a legközelebbi kapcsolódás a sporthoz ezen a listán.",
-      "importance": 1
-    },
-    {
-      "title": "Tuningolt Ferrarival bővült a dubaji rendőrség flottája",
-      "summary": "A dubaji rendőrség tuningolt Ferrarival bővítette flottáját, demonstrálva a gazdag város luxusát és technológiai fejlettségét. Bár ez egy életmóddal és technológiával kapcsolatos hír, a sportautók és a sebesség a motorsportokhoz köthető, ami ezen a listán a legközelebbi kapcsolódás a sporthoz.",
-      "importance": 1
     }
   ]
 }

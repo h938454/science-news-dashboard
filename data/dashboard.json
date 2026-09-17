@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A bicskei gyermekotthon botránya és a kitüntetés körüli felelősség",
-      "summary": "A bicskei gyermekotthon igazgatójának kitüntetése tízlépcsős döntési láncon csúszott át anélkül, hogy bárki ellenvetést tett volna, rávilágítva a rendszer súlyos hiányosságaira. Egy volt dolgozó is megszólalt, állítva, nem sejtették, milyen rémségek történtek az intézményben.",
+      "title": "Bicskei gyermekotthon-botrány: Senki nem akadályozta a kitüntetést, a volt dolgozó is megszólalt",
+      "summary": "Kiderült, hogy a bicskei gyermekotthon pedofil igazgatójának kitüntetése egy tízlépcsős döntési láncon csúszott át ellenvetés nélkül. A vizsgálóbizottság előtt egy volt dolgozó is vallott, jelezve, hogy nem tudtak a borzalmakról.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter és a Hír TV: kirúgás a lelövésre buzdítás miatt",
-      "summary": "Egy betelefonáló Magyar Péter lelövésére buzdított egy Hír TV-s műsorban, ami miatt azonnali hatállyal elbocsátották Palányi Nóra műsorvezetőt. Magyar Péter maga is megszólalt a kormányzati tárgyalásokról, miközben a média esetet vizsgálja.",
-      "importance": 5
-    },
-    {
-      "title": "Kamarai díj eltörlése és közel 3 milliárd forint visszavétele",
-      "summary": "A kormány eltörli a Magyar Kereskedelmi és Iparkamarának fizetendő kötelező, 5000 forintos hozzájárulást, és közel 3 milliárd forintot is visszavesz az szervezettől. Az ügyben Kapitány Istvánt nevezték ki biztossá, ami jelentős változást hoz a magyar gazdasági élet szereplőinek.",
+      "title": "Eltörölte a kormány a kötelező kamarai tagdíjat",
+      "summary": "A kormány megszüntette a Magyar Kereskedelmi és Iparkamarának fizetendő 5000 forintos kötelező tagdíjat. Kapitány István biztost jelölnek ki az MKIK-hoz, és közel 3 milliárd forintot is visszavesznek.",
       "importance": 4
     },
     {
-      "title": "Gyerektábori étkeztetés: 24 ezer forint egy ebédre, feljelentések a Balásy-modell miatt",
-      "summary": "Tanács Zoltánék hat feljelentést tesznek két céggel szemben, amelyek fejenként 24 ezer forintot számláztak egy gyerektábori ebédre, 315 ezres óradíjjal, a Balásy-modellre emlékeztető módon. Az ügy a közpénzek elköltésének átláthatóságára és a feltételezett visszaélésekre hívja fel a figyelmet.",
+      "title": "Kirúgták a Hír TV műsorvezetőjét Magyar Péter lelövésére buzdítás miatt",
+      "summary": "Egy betelefonáló Magyar Péter lelövésére buzdított a Hír TV Paláver című műsorában, mire a csatorna azonnali hatállyal elbocsátotta a műsorvezetőt, Palányi Nórát. A lépést a bejátszás szó nélküli tűrése indokolta.",
+      "importance": 4
+    },
+    {
+      "title": "Tiborcz István banki érdekeltségét venné meg a Magnet Bank",
+      "summary": "A HVG értesülései szerint a Magnet Bank tulajdonosai tárgyalnak Tiborcz István érdekeltségének, a Gránit Bank egy részének megvásárlásáról. Az üzlet azonban jelentős pénzügyi kockázatokat rejt magában.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az amerikai Fed három év után először emeli az alapkamatot",
-      "summary": "Az amerikai jegybank, a Fed, három év után először emeli az alapkamatot, hogy megfékezze az inflációt és stabilizálja a gazdaságot. Ez a lépés jelentős hatással lehet a globális pénzügyi piacokra és a nemzetközi gazdasági folyamatokra.",
+      "title": "Az amerikai jegybank három év után először emeli az alapkamatot",
+      "summary": "Az amerikai jegybank szerepét betöltő Fed három év után először döntött az alapkamat emelése mellett, hogy ezzel próbálja megfékezni a gyorsuló inflációt. A lépés globális gazdasági hatásokkal járhat.",
       "importance": 5
     },
     {
-      "title": "USA-iráni feszültség: károk amerikai telephelyeken és lőszerhiányra figyelmeztetés",
-      "summary": "Az iráni támadások súlyos károkat okoztak amerikai telephelyeken, miközben a Pentagon főellenőre lőszerhiányra figyelmeztetett az iráni konfliktus miatt. A helyzet eszkalációja komoly geopolitikai kockázatokat és a regionális stabilitás romlását vetíti előre.",
+      "title": "Lőszerhiány alakult ki az iráni háború miatt, károk az amerikai támaszpontokon",
+      "summary": "A Pentagon főellenőre megerősítette, hogy lőszerhiány alakult ki az iráni háború miatt, ami súlyos helyzetbe hozza az amerikai erőket. Eközben képek tanúskodnak az iráni támadások okozta jelentős károkról az amerikai támaszpontokon.",
       "importance": 5
     },
     {
-      "title": "Von der Leyen társult EU-tagságot ajánl Kanadának",
-      "summary": "Ursula von der Leyen, az Európai Bizottság elnöke társult EU-tagságot javasolt Kanadának, egyeztetés nélkül. Ez az elképzelés új irányt mutathat az európai külpolitikában és biztonsági együttműködésben, de belső ellenállást is kiváltott.",
+      "title": "Szaúdi olajválság fenyeget, világszerte emelkedhetnek az árak",
+      "summary": "A szaúdi olajválság eszkalálódása jelentős kockázatot jelent a globális gazdaságra nézve. Szakértők szerint ez az üzemanyagárak világszerte történő emelkedéséhez vezethet.",
       "importance": 4
     },
     {
-      "title": "Putyin magas részvételt szeretne az ellenzék eltiltása után az orosz választásokon",
-      "summary": "Miután az orosz ellenzéket eltiltották a választásokon való indulástól, Vlagyimir Putyin magas részvételt szeretne látni. Ez a lépés rávilágít az orosz politikai rendszer irányítására és a demokratikus folyamatok korlátozására, tovább erősítve Putyin hatalmát.",
+      "title": "Putyin magas részvételt vár az ellenzék eltiltása után az orosz választásokon",
+      "summary": "Miután az ellenzék vezetőit eltiltották a választásokon való részvételtől, Vlagyimir Putyin orosz elnök arra törekszik, hogy a lakosság magas részvételi aránnyal támogassa a választásokat. A lépés a legitimáció erősítését célozza.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "AI biztonság és etika: figyelmeztetések és belső ellenőrzések az iparágban",
-      "summary": "A Microsoft figyelmeztetett, hogy rivális AI-cég, az Anthropic 'katasztrofális hatással' lehet az emberiségre, miközben az AI laborok belső ellenőröket vezetnének be. Ez rávilágít a mesterséges intelligencia fejlődésének etikai és biztonsági kihívásaira, valamint az önálló szabályozás kérdésére, sürgetve a felelősségteljes fejlesztést.",
+      "title": "Az AI cégek belső biztonsági auditorokat alkalmaznának, de a függetlenségük kérdéses",
+      "summary": "Az Anthropic és az OpenAI beágyazott biztonsági értékelőket szeretnének alkalmazni, hogy növeljék az AI-rendszerek megbízhatóságát. Azonban felmerül a kérdés, hogy ezek az auditorok mennyire lesznek képesek függetlenül működni a cégeken belül.",
       "importance": 5
     },
     {
-      "title": "Tömeges adatlopás Floridában: hackerek publikálták sofőrök adatait",
-      "summary": "Hackerek több ezer sofőr adatait tették közzé, miután feltörték a floridai gépjármű-nyilvántartási adatbázist. Ez az eset újabb figyelmeztetés az adatbiztonság fontosságára és a személyes adatok védelmének sürgető szükségességére a digitális korban.",
+      "title": "Az AI asszisztensek már a Google Home eszközöket is vezérelhetik",
+      "summary": "A mesterséges intelligencia ügynökök már képesek irányítani a Google Home okoseszközöket, ezzel új szintre emelve az otthoni automatizálást. Ez a fejlesztés még kényelmesebbé teheti az okosotthonok kezelését.",
       "importance": 4
     },
     {
-      "title": "Küzdelem az algoritmusok visszaszorításáért",
-      "summary": "Egyre nagyobb kihívást jelent az algoritmusok visszaszorításának kísérlete, amelyek mélyen beépültek a digitális életünkbe és befolyásolják mindennapjainkat. Ez a téma a technológiai óriások hatalmára és az algoritmusok társadalmi, kognitív hatásaira hívja fel a figyelmet, a szabályozás szükségességét hangsúlyozva.",
+      "title": "Több ezer jogosítványadat került nyilvánosságra floridai adatlopás után",
+      "summary": "Hackerek ezer számra hozták nyilvánosságra floridai sofőrök adatait, miután behatoltak a helyi járműnyilvántartási adatbázisba. Az eset súlyos adatvédelmi aggályokat vet fel.",
       "importance": 4
     },
     {
-      "title": "AI ügynökök vezérlik a Google Home eszközöket: okosotthonok új generációja",
-      "summary": "Az AI ügynökök mostantól képesek irányítani a Google Home eszközöket, ami új szintre emeli az okosotthonok automatizálását és a mesterséges intelligencia mindennapi életbe való integrálását. Ez a fejlődés kényelmesebbé teheti az otthoni rendszerek kezelését, de felveti a biztonsági és adatvédelmi kérdéseket is.",
+      "title": "A Snapchat kész napi időkorlátot bevezetni tinédzserek számára",
+      "summary": "A Snapchat vezetése nyitott arra, hogy napi időkorlátokat vezessen be a tinédzser felhasználók számára, ezzel is hozzájárulva a digitális jólétükhöz. A lépés a fiatalok online biztonságát és mentális egészségét célozza.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Szigorúbb szűrésekkel csökkentenék a szifiliszes csecsemők számát",
-      "summary": "Szigorúbb szűrésekkel próbálják csökkenteni a szifiliszes csecsemők számát, ami egy fontos közegészségügyi intézkedés a betegség terjedésének megakadályozására. Ez a kezdeményezés az anyák és csecsemők egészségének védelme szempontjából kiemelt jelentőségű, és a fertőző betegségek elleni küzdelem élvonalában áll.",
-      "importance": 4
-    },
-    {
-      "title": "Muslica agykutatás: Rubik-kockát rak ki és bitcoinnal kereskedik egy feltérképezett agyú muslica",
-      "summary": "Feltérképezték egy muslica agyát, ami után az állat állítólag képes Rubik-kockát kirakni és bitcoinnal kereskedni. Ez az áttörés a neurobiológia és a mesterséges intelligencia kutatásában új lehetőségeket nyithat az agyműködés megértésében és a biológiai rendszerek modellezésében, különösen az AI fejlesztésében.",
-      "importance": 4
-    },
-    {
-      "title": "A mesterséges intelligencia lehetséges katasztrofális kockázatai",
-      "summary": "A Microsoft figyelmeztetése a rivális AI 'katasztrofális hatásaira' rávilágít a tudományos és etikai vitákra a mesterséges intelligencia jövőjével kapcsolatban. Tudósok és kutatók egyre inkább vizsgálják az AI potenciális veszélyeit és a szükséges biztonsági intézkedéseket, hogy elkerüljék a nemkívánatos következményeket, akár az emberiségre nézve is.",
+      "title": "Új, életet meghosszabbító mellrákgyógyszer elérhetővé válik Angliában",
+      "summary": "Új reményt kapnak a mellrákos betegek Angliában, mivel az NHS (Nemzeti Egészségügyi Szolgálat) elérhetővé tette egy életet meghosszabbító gyógyszert. A terápia jelentősen javíthatja a páciensek túlélési esélyeit és életminőségét.",
       "importance": 5
     },
     {
-      "title": "Hat év után visszatért az emlékezete egy amnéziás férfinek munkahelyváltás után",
-      "summary": "Egy amnéziás férfi hat év után, munkahelyváltáskor visszanyerte emlékezetét, ami rendkívüli eset a neurológia és a pszichológia területén. Ez a jelenség mélyebb betekintést nyújthat az emberi memória működésébe és a felejtés folyamataiba, új kutatási irányokat nyitva meg.",
-      "importance": 3
+      "title": "Szigorúbb szűrésekkel küzdenének a veleszületett szifilisz ellen",
+      "summary": "A hatóságok szigorúbb szűrések bevezetésével igyekeznek csökkenteni a szifiliszes csecsemők számát. A cél a betegség korai felismerése és megelőzése a terhes nők körében, hogy megóvják az újszülötteket.",
+      "importance": 4
+    },
+    {
+      "title": "Hónapokig tartó esőre lenne szükség az aszály megszüntetéséhez",
+      "summary": "Kutatások szerint legalább hét hónapnyi folyamatos esőre lenne szükség ahhoz, hogy a súlyos aszályhelyzet megszűnjön bizonyos területeken. Ez rávilágít az éghajlatváltozás és a vízhiány drámai hatásaira.",
+      "importance": 4
+    },
+    {
+      "title": "Feltérképezett agyú muslica rak Rubik-kockát és kereskedik bitcoinnal",
+      "summary": "Tudósok feltérképezték egy muslica agyát, ami lehetővé tette számukra, hogy irányítsák a rovart, így az képes Rubik-kockát kirakni és bitcoinnal kereskedni. Ez a kísérlet forradalmasíthatja a neurobiológiai kutatásokat és az AI-fejlesztést.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Katasztrofális VAR-hiba a Manchester derby mérkőzésen",
-      "summary": "Egy katasztrofális VAR-hiba történt a Manchester derby mérkőzésen, amely komoly vitákat váltott ki a videóbíró rendszer hatékonyságáról és megbízhatóságáról. Ez az eset rávilágít a modern labdarúgás technológiai kihívásaira és a játékvezetés pontosságának fontosságára, újabb kérdéseket vetve fel a rendszer jövőjét illetően.",
+      "title": "Eladták részesedésüket a Chelsea elnöke és igazgatója a többségi tulajdonosnak",
+      "summary": "A Chelsea futballklub elnöke és egy igazgatója eladta részesedését a klub többségi tulajdonosának, a Clearlake-nek. Ez a tranzakció jelentős változást hozhat a klub pénzügyi és tulajdonosi struktúrájában.",
       "importance": 4
+    },
+    {
+      "title": "Franciaországban hagyták a rosszalkodó magyar diákokat az iskolai kiránduláson",
+      "summary": "A szlovákiai magyar gimnázium diákjait büntetésből Franciaországban hagyták az iskolai kirándulás során, mert nem viselkedtek jól. Az eset vitát váltott ki a fegyelmezési módszerekről.",
+      "importance": 2
+    },
+    {
+      "title": "Békemenet indult az Andrássy út 60-ért",
+      "summary": "Békemenet szerveződött az Andrássy út 60-ért, amely egy politikai üzenettel bíró nyilvános felvonulás. Ez a tömeges megmozdulás a társadalmi aktivitás és a demonstráció egy formája.",
+      "importance": 1
+    },
+    {
+      "title": "Tuningolt Ferrarival bővült a dubaji rendőrség flottája",
+      "summary": "A dubaji rendőrség tovább bővítette luxusautó-flottáját egy tuningolt Ferrarival, demonstrálva a város gazdagságát és modernitását. Bár nem sportverseny, a nagy teljesítményű autók a motorsportok világát idézik.",
+      "importance": 1
     }
   ]
 }

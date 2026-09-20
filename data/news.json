@@ -1,83 +1,118 @@
 {
   "Telex": [
     {
+      "title": "Legyen a szilvalekvár az új nutella!",
+      "link": "https://telex.hu/gasztro/2026/09/20/legyen-a-szilvalekvar-az-uj-nutella",
+      "summary": "Kevés megbecsülést kap, pedig régóta alaptermék itthon, egészséges és sokoldalú, a modern táplálkozás első alapanyagai között lenne a helye."
+    },
+    {
+      "title": "Százmilliókat csaltak ki főleg idősektől, letartóztatták őket",
+      "link": "https://telex.hu/belfold/2026/09/20/rendorseg-ujbuda-aranyfelvasarlas-csalok-letartoztatas",
+      "summary": "Aranyfelvásárlásos és ingatlanos trükközéssel, félelemkeltéssel verték át áldozataikat."
+    },
+    {
+      "title": "Molnár Áron: Bayer Zsolt két kötetre is kapott pénzt az NKA-tól, de a tervezett formában egyik sem lett kész",
+      "link": "https://telex.hu/belfold/2026/09/20/molnar-aron-bayer-zsolt-nka-palyazat-dokumentumok-tamogatas",
+      "summary": "Az első évekig húzódott, mire a publicista a sokadik felszólítás után vissza nem fizette a támogatást, a másodiknál a kérelemhez képest valami teljesen más jelent meg. Bayer úgy reagált, hogy azt kívánja, mindenki pont annyi „kárt” okozzon a magyar államnak, mint amennyit ő okozott."
+    },
+    {
+      "title": "Szélsőjobboldali tüntetők elkezdték a rendőröket dobálni Hágában, többüket is letartóztatták",
+      "link": "https://telex.hu/kulfold/2026/09/20/hollandia-haga-zavargas-szelsojobb-letartoztatas",
+      "summary": "Több tüntető is karlendített, és antiszemita és homofób szlogeneket skandáltak."
+    },
+    {
+      "title": "Hosszabbítsd meg a nyarat Máltán! (x)",
+      "link": "https://telex.hu/pr-cikk/2026/09/20/hosszabbitsd-meg-a-nyarat-maltan-x",
+      "summary": "Szeptemberben, itthon már zajlik a tanítás, de a máltai fiatalok még a szünet napjait élvezik, mert Máltán és testvérszigetein, Gozon és Cominon még tombol a nyár és a fesztiválszezon"
+    },
+    {
+      "title": "„Elszabadul a pokol, ha egyetlen helyet sem szerzünk” – újabb pofonra kell készülnie a német kancellárnak",
+      "link": "https://telex.hu/kulfold/2026/09/20/mecklenburg-elopomerania-berlin-tartomanyi-valasztas-nemetorszag-friedrich-merz-kancellar-valsaghelyzet",
+      "summary": "A szász-anhalti szélsőjobboldali előretörés után ismét tartományi választásoktól tarthat Friedrich Merz. A CDU történetének legrosszabb választási eredményére készülhet Mecklenburg-Előpomerániában és Berlint is elveszítheti. A kancellár érzi, hogy bajban van: lemondta New York-i útját és már vasárnap este tárgyalni fog pártja vezetésével."
+    },
+    {
+      "title": "A polgármester szerint az eddigi legnagyobb dróntámadás érte Moszkvát a választás utolsó napján",
+      "link": "https://telex.hu/kulfold/2026/09/20/oroszroszag-ukrajna-haboru-valasztas-moszkva-drontamadas",
+      "summary": "Oroszország is drónokkal támadta Ukrajnát, három gyerek és egy anyuka halt meg Kijev környékén."
+    },
+    {
+      "title": "Bár éjjel-nappal látogatható, éjszaka egyelőre semmit nem fog látni az ARC kiállításból",
+      "link": "https://telex.hu/karakter/kultura/2026/09/20/arc-kiallitas-petofi-hid-ujbuda",
+      "summary": "Még nem működik a kivilágítás, de dolgoznak rajta."
+    },
+    {
+      "title": "Miközben az európai védelmi ipar éppen hatalmasat megy, a magyarnál évtizedes fejlesztés és beleölt százmilliárdok után nem látszik, merre tovább",
+      "link": "https://telex.hu/gazdasag/2026/09/20/fegyver-4ig-holding-vedelmi-ipar-joint-venture-jaszai-gellert-fellegi-tamas",
+      "summary": "Döbbenetesen felértékelődött a kontinens védelmi ipara, ami akár jó hír is lehetne Magyarországnak, hiszen korán kapcsolva sokat áldoztunk az ágazat fejlesztésére. Csak éppen a modellek folyton változtak közben, nem is a most divatos irányokat húzták fel, újabban pedig a kormány és a zászlóshajóvá hizlalt 4iG rossz viszonya rontja az esélyeket."
+    },
+    {
+      "title": "A NATO szerint sokat dob majd a dán–amerikai megegyezés Grönland biztonságán",
+      "link": "https://telex.hu/kulfold/2026/09/20/egyesult-allamok-dania-nato-gronland-megegyezes",
+      "summary": "Trump a közösségi médiában óriási sikerként írt a megállapodásról."
+    },
+    {
+      "title": "Rijádot támadták a húszik, a szaúdiak elfogtak egy, a főváros felé tartó ballisztikus rakétát",
+      "link": "https://telex.hu/kulfold/2026/09/20/szaud-arabia-rijad-raketa-tamadas-huszik",
+      "summary": "A jemeni konfliktus újraindulása óta először támadták rakétával Rijádot, a húszik dróntámadásokról is beszéltek."
+    },
+    {
+      "title": "A legfinomabb a káposztalapin sült kenyér volt – egy hagyományos kenyérsütés története 1991-ből",
+      "link": "https://telex.hu/transtelex/2026/09/20/kenyersutes-hagyomanyos-azopan-fotoarchivum",
+      "summary": "Csomafáy Ferenc fotóriporter egy marosfelfalui sütést örökített meg a rendszerváltás után nem sokkal, amikor a hagyományos kenyér reneszánszát élte Erdélyben. A kenyérsütők leszármazottja mesélt a fotózásról."
+    },
+    {
+      "title": "Újabb szörnyeteget engedtek szabadjára",
+      "link": "https://telex.hu/after/2026/09/20/szornyeteg-netflix-gengszervilag-amerikai-tusz-streamingajanlo",
+      "summary": "Baltás gyilkosság, gengszterháború, túszdráma és hamisíthatatlan romantika is jut a következő napokra. Heti streamingajánló."
+    },
+    {
+      "title": "Vasárnap még elég meleg lesz, de jövő héten itt a hidegfront",
+      "link": "https://telex.hu/belfold/2026/09/20/idojaras-vasarnap-hoseg-hidegfront",
+      "summary": "Ma még 26-30 fok körül alakul a csúcshőmérséklet, de nagy szelek jönnek."
+    },
+    {
       "title": "Ed Sheeran: Ami Gázában történik, az katasztrofális, indokolatlan és aránytalan",
       "link": "https://telex.hu/after/2026/09/20/ed-sheeran-egyesult-allamok-koncert-izrael-palesztina",
       "summary": "Az énekes a philadelphiai koncertjén beszélt a turnéját övező vitákról, miután minden előzenekara lemondta a koncertsorozatot."
-    },
-    {
-      "title": "Emily St. John Mandel: Kerülőutak (részlet)",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/09/20/emily-st-john-mandel-keruloutak-reszlet",
-      "summary": "Olvasson bele a Tizenegyes állomás szerzőjének új regényébe!"
-    },
-    {
-      "title": "Európa nemcsak energiát importál, hanem sérülékenységet is",
-      "link": "https://telex.hu/nevertek/2026/09/20/europa-nemcsak-energiat-importal-hanem-serulekenyseget-is",
-      "summary": "Az idei nyár után helyesen ismerte fel Von der Leyen, hogy az alkalmazkodás nem másodlagos klímapolitikai ügy, az energia pedig nem csak ár- vagy iparpolitikai kérdés, hanem Európa stratégiai önállóságának kulcsa. De ez még nem állt össze stratégiává."
-    },
-    {
-      "title": "16 évig nem volt fontos a fizetésemelés, most, amikor üres a kassza, akkor nagyon fontos?",
-      "link": "https://telex.hu/video/2026/09/20/magyar-peter-orszagjaras-pecs-videk-baranya-meszaros-lorinc-mkif-szolidaritasi-hozzajarulas-autopalya-koncesszio",
-      "summary": "Magyar Péter Pécsen folytatta az országjárást. A párt szimpatizánsai szerint jó munkát végez a Tisza-kormány, de van, aki lassúnak tartja, és már szívesen látna bilincsben embereket. Beszédében a miniszterelnök a vidéki városok fejlesztéséről és Mészáros Lőrincről beszélt a legtöbbet."
-    },
-    {
-      "title": "Megrepedt az algyői vasúti híd szerkezeti eleme, 100 km/óra helyett csak 60-nal jár a tram-train",
-      "link": "https://telex.hu/belfold/2026/09/20/algyoi-vasuti-hid-megrepedt-tram-train-sebesseg-korlatozas",
-      "summary": "Szerkezeti hiba miatt lassították le a forgalmat az algyői vasúti Tisza-hídon. A MÁV szerint a menetrendet ez egyelőre nem érinti, a hiba okát és javításának módját még vizsgálják."
-    },
-    {
-      "title": "Harminc perccel csökkent a házimunka nők és férfiak közötti különbsége. Mitől?",
-      "link": "https://telex.hu/g7/adat/2026/09/20/hazimunka-nemek-kozotti-kulonbseg-csokkenes-okok",
-      "summary": "A háztartási munkára fordított időben közeledtek egymáshoz a nemek, azt viszont még nem tudjuk, hogy ugyanilyen mértékben újraosztódott-e a háztartás és a család működtetésének felelőssége is."
-    },
-    {
-      "title": "Lelocsolták Magyar Pétert Szekszárdon, a miniszterelnök bukott orbáni harcosnak nevezte az őt leöntő férfit",
-      "link": "https://telex.hu/belfold/2026/09/19/magyar-peter-szekszard-lelocsolas",
-      "summary": "Magyar Péter korábban úgy nyilatkozott, direkt nem kér erősebb személyi védelmet."
-    },
-    {
-      "title": "MI cárt akar kinevezni Donald Trump",
-      "link": "https://telex.hu/techtud/2026/09/19/donald-trump-mesterseges-intelligencia-car",
-      "summary": "És mesterségesintelligencia-munkacsoportot is fel akar állítani. Részleteket viszont egyelőre nem közölt."
-    },
-    {
-      "title": "„Nem mehet tovább, hogy egyre csak gyűjtögetjük a holttesteket” – sorban kerülnek elő a meggyilkolt női áldozatok Dél-Afrikában",
-      "link": "https://telex.hu/kulfold/2026/09/19/sorozatgyilkos-del-afrika-ekurhuleni-bunugy",
-      "summary": "Teljesen lezárják Johannesburg egyik külvárosát, miután néhány héten belül kilenc nő holttestére bukkantak Ekurhuleni kerületén belül. A legtöbbjüket Kempton Parkban találták meg ruha nélkül, megkötözve, a sorozatgyilkosságot sem zárják ki. A jogvédők szerint a gyilkosságok súlyosabb problémára mutatnak rá."
-    },
-    {
-      "title": "Cserhalmi szerint Vidnyánszky félreértette, ő is azt szeretné, hogy a Nemzeti Színház fennmaradjon",
-      "link": "https://telex.hu/karakter/kultura/2026/09/19/cserhalmi-gyorgy-vidnyanszky-attila-nemzeti-szinhaz-maradjon",
-      "summary": "A színész és a Nemzeti Színház igazgatója ezek szerint ebben a kérdésben egyetért."
-    },
-    {
-      "title": "Kitiltották a CNN, az MS NOW és a Politico újságíróit a Fehér Házból",
-      "link": "https://telex.hu/kulfold/2026/09/19/feher-haz-donald-trump-ujsagirok-kitiltas-cnn-ms-now-politico",
-      "summary": "Az újságírók szombaton már nem tudták használni a belépőkártyáikat. Donald Trump szerint a tiltás oka az, hogy a portálok „állandóan álhíreket közölnek”."
-    },
-    {
-      "title": "Fetter Erik a mezőnyt és a fő esélyest is meglepve nyert szakaszt Szlovákiában",
-      "link": "https://telex.hu/sport/2026/09/19/fetter-erik-szakaszt-nyert-a-kerekparos-szlovakiai-korversenyen",
-      "summary": "Fetter Erik szökés végén nyert, épphogy kitartott az előnye. A Girón több szakaszt nyerő Paul Magnier is csak mögötte ért célba."
-    },
-    {
-      "title": "Trump felsorolta eddigi legnagyobb eredményeit, úgy gondolja, hogy nyolc háborút is lezárt",
-      "link": "https://telex.hu/kulfold/2026/09/19/donald-trump-lista-eredmenyek-iran-bevandorlok",
-      "summary": "Köztük a gázait is. Azt is leírta, hogy megsemmisítette Irán urándúsítási kapacitásait."
-    },
-    {
-      "title": "Kis magyar abszurd: kilenc hónapja nem kap rendszámot Leányfalu Franciaországból vásárolt tűzoltóautója",
-      "link": "https://telex.hu/techtud/2026/09/19/forgalomba-helyezes-muszaki-vizsga-leanyfalui-tuzoltok-renault",
-      "summary": "A jó állapotú Renault-t kint 31 évig rendeltetésszerűen használták, majd lábon hozták haza az önkéntes tűzoltók. A magyar hatóságokat viszont sem ez, sem a járműfecskendő dokumentációja nem hatotta meg. Tanulságos történet a műszaki vizsgáztatás hazai helyzetéről."
-    },
-    {
-      "title": "Balássy Fanni: Alkésztisz",
-      "link": "https://telex.hu/karakter/telextarcak/2026/09/19/balassy-fanni-alkesztisz-tarcanovella-irodalom",
-      "summary": "Alkésztisz a halálból visszatérő örök szerelem jelképe a görög mitológiában. De milyen lehet korunk, a 21. századi közép-európai rögvalóság Alkésztisze? Erről szól e heti novellánk."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Putyin-pólót és orosz zászlót árult a vásárosnaményi vásárban a Mi Hazánk megyei közgyűlésben ülő képviselője",
+      "link": "https://444.hu/2026/09/20/putyin-polot-es-orosz-zaszlot-arult-a-vasarosnamenyi-vasarban-a-mi-hazank-megyei-kozgyulesben-ulo-kepviseloje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Amikor számon kérte ezt egy pár a sokadalomban, Putyint kezdte el éltetni Váradi Barna."
+    },
+    {
+      "title": "Egyedül állt ki a színpadra Ed Sheeran, és elcsukló hangon mondta el, mit gondol Izraelről és Gázáról",
+      "link": "https://444.hu/2026/09/20/egyedul-allt-ki-a-szinpadra-ed-sheeran-es-elcsuklo-hangon-mondta-el-mit-gondol-izraelrol-es-gazarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Egyszerre esett neki a palesztinpárti és a palesztinellenes tábor, és az összes kísérőzenésze otthagyta. Nagy nyomás volt rajta, hogy végre valljon színt."
+    },
+    {
+      "title": "A pályán gázolták el gyephengerrel a 13-szoros angol válogatott szélsőt",
+      "link": "https://444.hu/2026/09/20/a-palyan-gazoltak-el-gyephengerrel-a-13-szoros-angol-valogatott-szelsot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Életképek a thaiföldi bajnokságból."
+    },
+    {
+      "title": "Ki voltak éhezve egy nagy házibulira, csináltak egy napra tizenhetet",
+      "link": "https://444.hu/jo/2026/09/20/ki-voltak-ehezve-egy-nagy-hazibulira-csinaltak-egy-napra-tizenhetet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Egy csapat fiatal egyetemista rotterdami mintára kezdett lakásfesztivál szervezésbe, de útközben kiderült, hogy a baráti körükön kívül is rengetegen igénylik az ilyen programokat, ráadásul Budapest tele van alig ismert lakáskoncert helyszínnel és lakásszínházzal."
+    },
+    {
+      "title": "Molnár Áron dokumentumokkal mutatta be, milyen cifra módon jutott NKA-támogatáshoz Bayer Zsolt",
+      "link": "https://444.hu/2026/09/20/molnar-aron-dokumentumokkal-mutatta-be-milyen-cifra-modon-jutott-nka-tamogatashoz-bayer-zsolt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az influenszer szerint Bayer nem csinálta meg, amit vállalt, nem fizette vissza, amit kellett volna, és Trianon helyett a 444-ről írt."
+    },
+    {
+      "title": "Lefröcskölték Magyar Pétert",
+      "link": "https://444.hu/2026/09/20/lefrocskoltek-magyar-petert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A Szekszárdi Szüreti Napokon."
+    },
+    {
+      "title": "Hirtelen Marine Le Pen is felfigyelt rá, mekkora fenyegetést jelent Oroszország",
+      "link": "https://444.hu/2026/09/20/hirtelen-marine-le-pen-is-felfigyelt-ra-mekkora-fenyegetest-jelent-oroszorszag?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Van, ami még az oroszbarát internacionálé kulcsfigurájának is sok: el a kezekkel az Auchantól!"
+    },
     {
       "title": "Már Szaúd-Arábia fővárosát lövik a jemeni hútik",
       "link": "https://444.hu/2026/09/20/mar-szaud-arabia-fovarosat-lovik-a-jemeni-hutik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -117,125 +152,90 @@
       "title": "Fizikus, pénzügyes és civil közlekedési aktivista volt az új vasútügyi államtitkár",
       "link": "https://444.hu/2026/09/19/fizikus-penzugyes-es-civil-kozlekedesi-aktivista-volt-az-uj-vasutugyi-allamtitkar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Böde Csaba a leghosszabban a Morgan Stanleynél dolgozott korábban."
-    },
-    {
-      "title": "Forsthoffer Ágnes az Isztambuli Egyezmény ratifikációjáról: „Ezt nem tárgyaltuk még”",
-      "link": "https://444.hu/2026/09/19/forsthoffer-agnes-az-isztambuli-egyezmeny-ratifikaciojarol-ezt-nem-targyaltuk-meg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A házelnök szerint a döntéshozók akkor fognak a tettek mezejére lépni, ha érzékelik, hogy van nyomás."
-    },
-    {
-      "title": "A gyermekvédelmi rendszerváltás felé: szakértők a kormányzati jelentésről",
-      "link": "https://444.hu/2026/09/19/a-gyermekvedelmi-rendszervaltas-fele-szakertok-a-kormanyzati-jelentesrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A gyermekvédelmi diagnózis a szakmának nem sok újat mond, de nyelvet ad a társadalomnak és kihangosítja a rendszerben nevelkedett fiatalok hangját."
-    },
-    {
-      "title": "Két kézigránátot találtak egy magyar férfi autójának alvázára erősítve a horvát határon",
-      "link": "https://444.hu/2026/09/19/ket-kezigranatot-talaltak-egy-magyar-ferfi-autojanak-alvazara-erositve-a-horvat-hataron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ragasztószalaggal erősítette őket oda."
-    },
-    {
-      "title": "Videóra vették, ahogy valaki bármi konfliktus nélkül eszméletlenre ver egy férfit a Vígszínházzal szembeni zebrán, de van valami nagyon furcsa a videóban (frissítve!)",
-      "link": "https://444.hu/2026/09/19/videora-vettek-ahogy-valaki-barmi-konfliktus-nelkul-eszmeletlenre-ver-egy-ferfit-a-vigszinhazzal-szembeni-zebran-de-van-valami-nagyon-furcsa-a-videoban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A rendőrök a helyszínen elfogták az elkövetőt."
-    },
-    {
-      "title": "A svéd szélsőjobb veszített ugyan, de a politikájuk nyert",
-      "link": "https://444.hu/2026/09/19/a-sved-szelsojobb-veszitett-ugyan-de-a-politikajuk-nyert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Még nem látszik, ki és milyen összetételű kormányt fog majd alakítani Svédországban. Tanulságokat mégse korai levonni, a legfontosabb kérdés pedig talán az, hogy joggal tapsol-e Nyugat-Európa a svéd szélsőjobb megtorpanásának?"
-    },
-    {
-      "title": "Moldova tiltakozik az orosz választások ellen a szakadár Dnyeszteren túli régióban",
-      "link": "https://444.hu/2026/09/19/moldova-tiltakozik-az-orosz-valasztasok-ellen-a-szakadar-dnyeszteren-tuli-regioban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "2021-ben is ezt csinálták az oroszok."
-    },
-    {
-      "title": "Németország csökkenti az üzemanyagok adóját és már az ársapkán is gondolkodik",
-      "link": "https://444.hu/2026/09/19/nemetorszag-csokkenti-az-uzemanyagok-adojat-es-mar-az-arsapkan-is-gondolkodik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A szocdemek különadó kivetését szorgalmazzák a közel-keleti háború miatt hatalmas extraprofitot bezsebelő olajcégekre."
     }
   ],
   "HVG": [
     {
-      "title": "Kilenc éve nyomoz, mégse találja a rendőrség a letelepedési kötvényes cég, az Arton Capital kirablóit",
-      "link": "https://hvg.hu/itthon/20260920_kilenc-ev-nyomozas-rendorseg-gyanusitott-letelepedesi-kotveny-arton-capital-rablas",
-      "summary": "Továbbra is felderítetlen az Arton Capital cég kifosztásának ügye, amikor a Rogán-féle letelepedési kötvényprogramon sokat kereső cégtől jelentős mennyiségű készpénzt és még értékesebb adatokat zsákmányoltak vélhetően bennfentes rablók."
+      "title": "Ed Sheeran egyedül lépett fel a botrány után, a színpadon kért elnézést és elítélte a gázai helyzetet",
+      "link": "https://hvg.hu/elet/20260920_ed-sheeran-elnezest-kert-es-elitelte-a-gazai-helyzetet",
+      "summary": "Összetört a szívem a pusztítás mértéke, valamint a polgári áldozatok – köztük gyermekek – elvesztése láttán; emellett nem hunyhatunk szemet afelett a rendszerszintű igazságtalanság felett sem, amelynek Ciszjordániában vagyunk tanúi – fogalmazott Sheeran."
     },
     {
-      "title": "És akkor Fásy Ádám módjára az ügyészség is arra kéri a vendégeit, hogy énekeljenek",
-      "link": "https://hvg.hu/gazdasag/20260920_es-akkor-nyomozas-elszamoltatas-autopalya-ner-eu-epitoipar",
-      "summary": "Megpróbál a kormány véget vetni Mészáros Lőrincék autópálya-koncessziójának, letartóztatták Szivek Norbertet és Jellinek Dánielt, és megemelték a dohánytermékek adóját, miközben bevezették a dízelautók tankolásának támogatását. Ez a HVG heti gazdasági összefoglalója."
+      "title": "Ez történt: 8-10 hét után eltűnt a rák a szervezetből, miután egy kísérleti terápiát kapott a 3 éves kisfiú",
+      "link": "https://hvg.hu/tudomany/20260920_ai-lassitasa-kutato-kiserleti-immuntarapia-szemeszet-samsung-telefonok-one-ui-9-unitree-robot",
+      "summary": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit."
     },
     {
-      "title": "Brutális támadás miatt adtak ki kilövési engedélyt egy fehér cápára Nyugat-Ausztráliában",
-      "link": "https://hvg.hu/vilag/20260919_brutalis-tamadas-kiloves-engedely-feher-capa-nyugat-ausztralia",
-      "summary": "Ausztráliában védett állat a nagy fehér cápa, de egy 63 éves férfi széttépése után különleges intézkedésre szánta el magát az egyik tagállam halászati minisztere."
+      "title": "Hétfőtől lesz csak világítás az ARC kiállításon",
+      "link": "https://hvg.hu/elet/20260920_arc-plakatkiallitas-idegrendszervaltas-petfoi-hid-budai-hidfo-vilagitas",
+      "summary": "A szabadtéri kiállítás éjjel-nappal megtekinthető, de éjjel egyelőre csak sötétben."
     },
     {
-      "title": "Rohamrendőrökkel csaptak össze tüntetők Hágában",
-      "link": "https://hvg.hu/vilag/20260919_rohamrendorokkel-csaptak-ossze-tuntetok-hagaban",
-      "summary": "Ötszáz szélsőjobboldali ütközött a hatóság embereivel."
+      "title": "Megnyíltak az urnák Németországban, két tartományban szavaznak vasárnap",
+      "link": "https://hvg.hu/vilag/20260920_nemetorszag-tartomanyi-valasztas-berlin-mecklenburg-elo-pomerania-afd-die-linke-friedrich-merz",
+      "summary": "A szélsőjobb, illetve a radikális baloldal esetleges előretörése – amire jó esély van – jelentős hatással lehet a már így is meggyengült pozícióban lévő Friedrich Merz kancellárra."
     },
     {
-      "title": "Meghalt a kisfiú, akit augusztusban villamos ütött el a Batthyány téren",
-      "link": "https://hvg.hu/itthon/20260919_meghalt-kisfiu-augusztus-villamos-elutott-batthyany-ter",
-      "summary": "A román kisfiút először a Heim Pál kórházban műtötték, Bukarestbe, már a klinikai halál állapotában szállították."
+      "title": "Molnár Áron: Bayer Zsolt nem tudott elszámolni az NKA-támogatással, végül visszafizette, de újra pályázott és újra nyert",
+      "link": "https://hvg.hu/elet/20260920_molnar-aron-nemzeti-kulturalis-alap-nka-tamogatas-bayer-zsolt-elszamolas-visszafizetes",
+      "summary": "A publicista előbb cégén keresztül kapott közel három millió forintot, majd miután ezt vissza kellett fizetni, magánszemélyként is kapott ugyanekkora alkotói támogatást."
     },
     {
-      "title": "Reisz Gábor: Őszintén szólva meglepődtem a kormányváltáson",
-      "link": "https://hvg.hu/360/20260919_reisz-gabor-rendezo-interju-foldszint-ner-listazas-nfi-velence-hvg",
-      "summary": "A velencei filmfesztiválon volt a világpremierje Reisz Gábor Földszint című filmjének. Mikor szokott rá a kormányinfónézésre? Hogyan tesztelte, valóban tiltólistára került-e a NER-ben? Mennyibe kerül egy lángoló ember ma egy magyar filmben? A Lidón beszélgettünk a rendezővel."
+      "title": "Szabadsághegy: a színházi bemutató, amire Rajk László temetéséről érkeztek a nézők",
+      "link": "https://hvg.hu/360/20260920_szabadsaghegy-gali-jozsef-bemutato-kobanyai",
+      "summary": "14 évesen Auschwitzba deportálták, 1956. október 6-án mutatták be Rákosi személyi kultuszát elítélő drámáját, az 1957-es halálos ítéletét a nemzetközi tiltakozások után változtatták börtönbüntetésre. Gáli József író, műfordító öröksége és a forradalom hetven éves évfordulója"
     },
     {
-      "title": "Itt vannak az ötös lottó heti nyerőszámai",
-      "link": "https://hvg.hu/elet/20260919_itt-vannak-az-otos-lotto-heti-nyeroszamai",
-      "summary": "Háromtól nyolcvanhatig."
+      "title": "Sokkal többet tudnak rólunk a kamerák, mint gondolnánk",
+      "link": "https://hvg.hu/tudomany/20260920_gepi-latas-kihivasok-kockazatok-bosch",
+      "summary": "Egy gépi látásra épülő rendszernek elég néhány másodperc ahhoz, hogy felismerje az arcunkat, kövesse a mozgásunkat, és a tekintetünkből vagy a viselkedésünkből következtetéseket vonjon le rólunk. Bár többnyire tisztában vagyunk azzal, hogy egy közterületen felvétel készülhet rólunk, arról jóval kevesebbet tudunk, mit keres a képen az algoritmus, milyen adatokat állít elő, és mire használják fel ezeket."
     },
     {
-      "title": "Füstoszlop szállt fel a rijádi nemzetközi repülőtér közeléből a jemeni húszik miatti légiriadó után",
-      "link": "https://hvg.hu/vilag/20260919_fustoszlop-rijad-nemzetkozi-repuloter-jemen-huszik-legiriado",
-      "summary": "Meg nem erősített jelentés szerint egy üzemanyagraktár gyulladt ki, miután a lakosság robbanásokat hallott."
+      "title": "Bocsánatot kért ByAlex a legutóbbi X-faktoros kritikáiért, de szerinte vicces volt az adás",
+      "link": "https://hvg.hu/elet/20260920_bocsanatot-kert-byalex-a-legutobbi-x-faktoros-kritikaiert-de-szerinte-vicces-volt-az-adas",
+      "summary": "Azért azt is megjegyezte, hogy nem azért ül a zsűriben, hogy jófej legyen."
     },
     {
-      "title": "Rekordszintre nőhet a francia államadósság az elnökválasztás évére",
-      "link": "https://hvg.hu/gazdasag/20260919_rekordszintre-nohet-a-francia-allamadossag-az-elnokvalasztas-evere",
-      "summary": "A francia deficit csökkentése a kormány legfontosabb célja."
+      "title": "Az eddigi legnagyobb ukrán dróntámadásról számolt be Moszkva polgármestere",
+      "link": "https://hvg.hu/vilag/20260920_orosz-ukran-haboru-moszkva-drontamadas-legnagyobb-1600-oroszorszag-ukrajna",
+      "summary": "A város vezetője szerint több mint 1600 drónt lőttek le."
     },
     {
-      "title": "Hogyan tesz a betegségek túldiagnosztizálása szorongóbbá minket?",
-      "link": "https://hvg.hu/hvgkonyvek/20260919_hogyan-tesz-a-betegsegek-tuldiagnosztizalasa-szorongobba-minket",
-      "summary": "Autizmus, ADHD, depresszió, prediabétesz – napjainkban egyre több egészségi problémát egyre korábban felismerünk. De vajon ez mindig hasznos? Milyen következményekkel járhat, ha valakire ráragasztunk egy diagnosztikus címkét? - teszi fel a kérdést Suzanne O’Sullivan neurológus szakorvos A diagnózisok kora című könyvében. Szerkesztett részlet."
+      "title": "A NER-nek meg kellett buknia ahhoz, hogy a betegek láthassák a kórházi fertőzések adatait, az orvosok pedig beszélhessenek azokról",
+      "link": "https://hvg.hu/360/20260920_egeszsegugy-korhazi-fertozesek-cdi-adatbazis-nyilvanossag-hvg",
+      "summary": "279 ember halála függött össze 2024-ben a CDI-vel: ez az a kórházi fertőzés, amelynek részletes adatait elsőként tette közzé a Tisza-kormány. A nyilvánosság talán többet remélt, de az adatbázis rég nem látott szakmai párbeszédet indított, amiből a betegek profitálhatnak."
     },
     {
-      "title": "Kirúgása miatt bepereli az MTVA-t Gulyás István",
-      "link": "https://hvg.hu/itthon/20260919_kirugas-perel-mtva-gulyas-istvan-m5",
-      "summary": "Az M5 volt csatornaigazgatóját jól ismert ügyvéd fogja képviselni az új közmédiával szemben."
+      "title": "Festményt akasztott a Mona Lisa mellé két férfi",
+      "link": "https://hvg.hu/elet/20260920_festmenyt-akasztott-a-mona-lisa-melle-ket-ferfi",
+      "summary": "Azt állítják, csak szórakoztak, őrizetbe vették őket."
     },
     {
-      "title": "Saját lakás helyett közösségi lakhatás?",
-      "link": "https://hvg.hu/itthon/20260919_kozossegi-lakhatas-kollegium-felujitas",
-      "summary": "Budapesten a felsőoktatási hallgatók töredékének jut kollégiumi férőhely, miközben az albérlet- és lakásárak egyre nehezebben megfizethetők. A Társadalomelméleti Kollégium közössége ezért más utat keresett. Hogyan lehet egy ilyen projektet finanszírozni? Milyen együtt élni és közösen működtetni egy ekkora teret? És lehet-e a saját lakás megszerzésén túl másképp gondolkodni a lakhatásról?"
+      "title": "Kanada jönne az EU-ba, bankosodik a Revolut, idegölő borravaló gépek - Gazdasági bejárat 2. rész",
+      "link": "https://hvg.hu/gazdasag/20260920_gazdasagi-bejarat-kanada-eu-revolut-fed-jellinek-revolut",
+      "summary": "Megjelent a Gazdasági bejárat második része. A hét legérdekesebb és legfontosabb gazdasági híreit ezúttal Pitner Gábor műsorvezető és Sándorfi Balázs, a Bankmonitor alapítója és vezetője beszélték át. A főbb témák között szerepelt a Fed kamatemelése, Kanada és az EU egyre szorosabb viszonya, a dohánytermékek jövedéki adójának emelése, Jellinek Dániel letartóztatása, de szó volt a neobank jellegét egyre elvesztő Revolutról, és a sokakat pszichológiai nyomás alá helyező borravaló terminálokról is."
     },
     {
-      "title": "Mikroműanyag-mentesítő mosógépekkel állt elő az LG",
-      "link": "https://hvg.hu/tudomany/20260919_lg-mosogepek-mikromuanyag-csokkento-microplastic-care",
-      "summary": "Már Magyarországon is elérhetők az LG új, Microplastic Care programmal ellátott mosógépei, amelyek speciális dobmozgásuk révén akár 60 százalékkal csökkenthetik a vízbe kerülő mikroműanyag mennyiségét a műszálas textíliák mosásakor."
+      "title": "Fokozatosan kapcsolják vissza az áramot az elsötétedett Kubában",
+      "link": "https://hvg.hu/vilag/20260920_fokozatosan-kapcsoljak-vissza-az-aramot-az-elsotetedett-kubaban",
+      "summary": "Részlegesen helyreállították az áramellátás."
     },
     {
-      "title": "Kézigránátokat találtak egy magyar férfi autójának alvázára erősítve",
-      "link": "https://hvg.hu/cegauto/20260919_kezigranatokat-talaltak-egy-magyar-ferfi-autojanak-alvazara-erositve",
-      "summary": "A robbanószerkezeteket Bosznia-Hercegovina és Horvátország határán fedezték fel."
+      "title": "Borral öntötték le Magyar Pétert",
+      "link": "https://hvg.hu/itthon/20260920_borral-ontottek-le-magyar-petert",
+      "summary": "„Bátorra itta magát egy bukott orbáni harcos” – írta Magyar Péter miniszterelnök szombat este a Facebook-oldalán ahhoz a videóhoz, amin az látható, hogy miközben a Szekszárdi Szüreti Napokon, az egyik pultnál ételt kér, egy férfi kicsit távolabbról ráönt egy pohár bort."
     },
     {
-      "title": "Magyar Péter Pécsett: Védjétek meg az NVVH vezetőit! Ha kell, szóban; ha kell, máshogyan.",
-      "link": "https://hvg.hu/itthon/20260919_magyar-peter-pecs-133-nap-miniszterelnok-osszeomlas",
-      "summary": "Orbán Viktor tusványosi előrejelzésén gúnyolódva kezdte pécsi országjáró beszédét Magyar Péter, aki végül arra figyelmeztetett, hogy az előző rendszer szervezett bűnözésének felszámolásához a hatóságok a társadalom támogatására szorulnak."
+      "title": "Timothy Garton Ash: Nem annyira Weimar, mint inkább Orbán szelleme kísért Németországban",
+      "link": "https://hvg.hu/vilag/20260920_timothy-garton-ash-nem-annyira-weimar-mint-inkabb-orban-szelleme-kisert-nemetorszagban",
+      "summary": "A világhírű brit történész szerint meg lehet védeni a német demokráciát, ám ahhoz azt kell látni, hogy olyasfajta hatalomátvétel fenyeget az országban, mint ami Magyarországon történt 2010-ben, vagy az USA-ban tavaly. Hírek szerint az AfD mini-Trumpjai már tanulmányozzák, mit vehetnek át az elnök módszereiből a hatalmuk megszilárdítására."
     }
   ],
   "BBC": [
     {
       "title": "Harry and Meghan's media treatment echoes what happened to Diana, Earl Spencer tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cwj3d7zrgvk1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Princess Diana's brother says she was \"really brought low by all that criticism\" and he saw her in \"tears of despair\"."
+      "summary": "Princess Diana's brother describes press coverage of Prince Harry and Meghan as a \"cancerous influence in their life\" and says he saw his sister cry \"tears of despair\" over interest in her."
     },
     {
       "title": "Watch: Diana's brother says press has 'cancerous influence' on Harry and Meghan's lives",
@@ -243,19 +243,24 @@
       "summary": "Earl Spencer says that he can see echoes of Princess Diana's treatment from the press in the way Harry and Meghan are scrutinised."
     },
     {
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
-      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour."
-    },
-    {
-      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
       "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports."
+      "summary": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\"."
     },
     {
-      "title": "Major seaside hotel fire that evacuated guests during night treated as suspicious",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-      "summary": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+    },
+    {
+      "title": "The deadly new drugs making Scotland's fight against addiction even harder",
+      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous."
+    },
+    {
+      "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up."
     },
     {
       "title": "Strictly returns with new hosting trio as celebrities find out dance pairings",
@@ -263,24 +268,9 @@
       "summary": "Emma Willis, Josh Widdicombe and Johannes Radebe take over from long-running presenting duo Tess Daly and Claudia Winkleman."
     },
     {
-      "title": "The deadly new drugs reshaping Scotland's fight against addiction",
-      "link": "https://www.bbc.co.uk/news/articles/c39w4n07ekeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts warn potent new substances are making an already deadly crisis more dangerous."
-    },
-    {
       "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
       "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
       "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love."
-    },
-    {
-      "title": "Cultural treasures are being destroyed by war, and people want justice",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it."
-    },
-    {
-      "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
-      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
-      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers."
     },
     {
       "title": "Sex and dating for the sandwich generation - Sharon Horgan on her latest comedy Youth",
@@ -288,24 +278,34 @@
       "summary": "\"It's really weird watching yourself age on screen because that's not fun,\" Horgan reveals."
     },
     {
-      "title": "Analysis: Trump escalates media fight after week of setbacks",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it."
+    },
+    {
+      "title": "'People forget we exist': Why older LGBTQ+ people fear losing identity",
+      "link": "https://www.bbc.co.uk/news/articles/c62e04wkj803o?at_medium=RSS&at_campaign=rss",
+      "summary": "A report suggests older LGBTQ+ people experience more social isolation than their heterosexual peers."
+    },
+    {
+      "title": "Trump escalates media fight after week of setbacks",
       "link": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo?at_medium=RSS&at_campaign=rss",
       "summary": "An embattled Trump has injected his fight with the news media with new acrimony, writes the BBC's Anthony Zurcher."
     },
     {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital."
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers."
     },
     {
-      "title": "Not all AI workers think the tech could kill everyone",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
-      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings."
+      "title": "German elections under way which could decide fate of Chancellor Merz",
+      "link": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls."
     },
     {
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported."
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology."
     }
   ],
   "TechCrunch": [
@@ -385,5 +385,81 @@
       "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being."
     }
   ],
-  "Nature": []
+  "Nature": [
+    {
+      "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+      "link": "https://www.nature.com/articles/d41586-026-02897-4",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02897-4\">doi:10.1038/d41586-026-02897-4</a></p>The trait could explain why symptoms vary in severity between people with similar brain pathology."
+    },
+    {
+      "title": "Briefing Chat: Evidence mounts for hidden chambers beyond Tutankhamun's tomb",
+      "link": "https://www.nature.com/articles/d41586-026-02984-6",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02984-6\">doi:10.1038/d41586-026-02984-6</a></p>Nature staff discuss data that could point to Nefertiti’s burial place — plus, the implant that translates brain activity into speech and gestures."
+    },
+    {
+      "title": "Europe pushes for space independence amid geopolitical rifts",
+      "link": "https://www.nature.com/articles/d41586-026-02919-1",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02919-1\">doi:10.1038/d41586-026-02919-1</a></p>The European Union is easing its reliance on US space infrastructure — and is seeking to grow its satellite and launch operations."
+    },
+    {
+      "title": "How research funding took me out of the lab and into leadership",
+      "link": "https://www.nature.com/articles/d41586-026-02184-2",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02184-2\">doi:10.1038/d41586-026-02184-2</a></p>Landing two large grants caused Anna Sandak to take on a managerial role in her team and made her reflect on what it means to contribute to research."
+    },
+    {
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+      "link": "https://www.nature.com/articles/d41586-026-02945-z",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02945-z\">doi:10.1038/d41586-026-02945-z</a></p>Gene-targeting treatments could be used to treat other people with rare forms of amyotrophic lateral sclerosis (ALS)."
+    },
+    {
+      "title": "How to make a brain: new experiments challenge existing picture",
+      "link": "https://www.nature.com/articles/d41586-026-02943-1",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02943-1\">doi:10.1038/d41586-026-02943-1</a></p>Research also uncovers an efficient way to grow hindbrain cells from stem cells — a difficult feat."
+    },
+    {
+      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+      "link": "https://www.nature.com/articles/d41586-026-02922-6",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02922-6\">doi:10.1038/d41586-026-02922-6</a></p>Physicists and mathematicians are going beyond the classic equations of fluid dynamics to understand turbulence — often with the help of AI."
+    },
+    {
+      "title": "Chinese companies doubled down on science after US tech restrictions",
+      "link": "https://www.nature.com/articles/d41586-026-02946-y",
+      "summary": "<p>Nature, Published online: 18 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02946-y\">doi:10.1038/d41586-026-02946-y</a></p>Affected Chinese companies adjusted their sources of knowledge to stay competitive."
+    },
+    {
+      "title": "Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer",
+      "link": "https://www.nature.com/articles/s41586-026-11134-x",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11134-x\">doi:10.1038/s41586-026-11134-x</a></p>Author Correction: Genomic deletion of malic enzyme 2 confers collateral lethality in pancreatic cancer"
+    },
+    {
+      "title": "Mercury is shrinking with age — faster than thought",
+      "link": "https://www.nature.com/articles/d41586-026-02898-3",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02898-3\">doi:10.1038/d41586-026-02898-3</a></p>Impacts by space objects have obscured some of the evidence of the planet’s contraction over the past 4.5 billion years."
+    },
+    {
+      "title": "Schoolhouse meals serve up an income bump",
+      "link": "https://www.nature.com/articles/d41586-026-02896-5",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02896-5\">doi:10.1038/d41586-026-02896-5</a></p>Modelling shows a link between feeding programmes and higher potential earning in five African nations."
+    },
+    {
+      "title": "How fast are you ageing? Ask AI",
+      "link": "https://www.nature.com/articles/d41586-026-02913-7",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02913-7\">doi:10.1038/d41586-026-02913-7</a></p>A new system will help scientists to refine large language models for longevity research and clarify ‘biological’ age."
+    },
+    {
+      "title": "Exclusive: New evidence for hidden chambers beyond Tutankhamun’s tomb",
+      "link": "https://www.nature.com/articles/d41586-026-02621-2",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02621-2\">doi:10.1038/d41586-026-02621-2</a></p>Geophysical survey yields ‘tantalizing’ data that could point to Nefertiti’s burial place — but it’s too early to draw definitive conclusions."
+    },
+    {
+      "title": "Take a risk or play it safe? Neuronal tug-of-war helps the brain decide",
+      "link": "https://www.nature.com/articles/d41586-026-02911-9",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02911-9\">doi:10.1038/d41586-026-02911-9</a></p>Using a video game involving bombs and treasure chests, researchers show how neural activity flickers between two regions of the frontal cortex when the brain weighs up a tricky decision."
+    },
+    {
+      "title": "How a team of AIs discovered a promising lung-cancer drug",
+      "link": "https://www.nature.com/articles/d41586-026-02954-y",
+      "summary": "<p>Nature, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02954-y\">doi:10.1038/d41586-026-02954-y</a></p>Researchers developed a ‘virtual biotech’ made up of as many as 37,000 agents reporting to an 'chief scientist'."
+    }
+  ]
 }

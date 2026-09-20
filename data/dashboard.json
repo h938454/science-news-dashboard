@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Molnár Áron leleplezte Bayer Zsolt NKA-támogatásainak visszaéléseit",
-      "summary": "Molnár Áron dokumentumokkal bizonyította, hogy Bayer Zsolt két NKA-támogatást is kapott kötetekre, melyek tervezett formában nem készültek el, és az egyiket vissza is kellett fizetnie, de aztán újra nyert. Ez a botrányos eset rávilágít a közpénzek elköltésének átláthatóságára és a kulturális támogatások rendszerére.",
+      "title": "Kármán András: Orbán Viktor nem ért a gazdaságpolitikához",
+      "summary": "Kármán András gazdasági szakértő szerint Orbán Viktor miniszterelnök nem rendelkezik megfelelő gazdaságpolitikai ismeretekkel. Véleménye szerint ez rontja az ország gazdasági kilátásait.",
+      "importance": 4
+    },
+    {
+      "title": "Az ukrán Naftohaz Magyarországon fog kőolajtermékeket tárolni",
+      "summary": "Az ukrán Naftohaz vállalat az orosz támadások miatt Magyarországon fog kőolajtermékeket tárolni, ami stratégiai fontosságú lépés Ukrajna ellátásbiztonsága szempontjából. A döntés Magyarország regionális szerepét erősíti.",
       "importance": 5
     },
     {
-      "title": "Kórházi fertőzések adatai nyilvánosságra kerülnek – áttörés a NER után",
-      "summary": "A kórházi fertőzések adataihoz való hozzáférés és az orvosok szabad megszólalása csak a kormányváltás után vált lehetővé, ami a NER-korszak átláthatatlanságát mutatja a közegészségügyben. Ez fontos lépés a betegek tájékoztatása és az egészségügyi rendszer felelősségre vonhatósága felé.",
+      "title": "Bátaszéken a Tisza Szigetek által támogatott jelölt nyerte az időközi polgármester-választást",
+      "summary": "Bátaszéken a Tisza Szigetek által támogatott jelölt győzött az időközi polgármester-választáson. Az eredmény a magyar politikai paletta átalakulására utalhat.",
       "importance": 4
     },
     {
-      "title": "Magyar Pétert leöntötték egy rendezvényen",
-      "summary": "Magyar Pétert, a politikai közélet egyik új szereplőjét, egy rendezvényen borral öntötték le. Az incidens az egyre élesedő politikai feszültségeket és a közéleti események polarizált hangulatát tükrözi.",
-      "importance": 4
-    },
-    {
-      "title": "A magyar védelmi ipar helyzete évtizedes fejlesztések után is bizonytalan",
-      "summary": "Miközben az európai védelmi ipar fellendülőben van, a magyar ágazatnál évtizedes fejlesztések és százmilliárdos befektetések ellenére sem tisztázott a jövő. Ez felveti a hatékonyság és a stratégiai irány hiányának kérdéseit egy kritikus iparágban.",
+      "title": "12 órát töltöttünk a siófoki kórház sürgősségijén",
+      "summary": "Egy riporter 12 órát töltött a siófoki kórház sürgősségi osztályán, rávilágítva a rendszer túlterheltségére és a személyzet nehézségeire. A tapasztalatok súlyos problémákra utalnak a magyar egészségügyben.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Moszkvát az eddigi legnagyobb dróntámadás érte a választások idején",
-      "summary": "A moszkvai polgármester bejelentése szerint a város az orosz választások utolsó napján az eddigi legnagyobb ukrán dróntámadást szenvedte el. Az eset súlyos eszkalációt jelent az orosz-ukrán háborúban, és közvetlen fenyegetést a fővárosra.",
+      "title": "Az eddigi legnagyobb moszkvai dróntámadás: lángoló finomító, halottak",
+      "summary": "Ukrajna az orosz választások utolsó napján drónokkal támadta Moszkvát, ami egy finomító lángolásához, 400 ember kitelepítéséhez és 3 halotthoz vezetett. Az esemény a konfliktus súlyos eszkalációját jelenti.",
       "importance": 5
     },
     {
-      "title": "A NATO készen áll Putyin provokációira reagálni",
-      "summary": "Egy NATO tábornok megerősítette, hogy a katonák és a fegyverek készen állnak Vlagyimir Putyin provokációira reagálva. Ez a nyilatkozat a fokozódó globális feszültséget és a katonai konfrontáció lehetőségét jelzi.",
-      "importance": 5
-    },
-    {
-      "title": "A jemeni húszik ballisztikus rakétával lőtték Szaúd-Arábia fővárosát, Rijádot",
-      "summary": "A jemeni húti lázadók ismét ballisztikus rakétával támadták Szaúd-Arábia fővárosát, Rijádot, amit a szaúdiak sikeresen elfogtak. Ez az incidens az elhúzódó közel-keleti konfliktus további eszkalációjára utal, és destabilizálja a térséget.",
+      "title": "A szélsőjobb és a szélsőbal nyert a német tartományi választásokon",
+      "summary": "A német tartományi választásokon a szélsőjobboldali és szélsőbaloldali pártok értek el jelentős sikereket, míg Merz pártja történelmi vereséget szenvedett. Az eredmények komoly politikai elmozdulásra utalnak Németországban.",
       "importance": 4
     },
     {
-      "title": "Újabb pofonra készülhet a német kancellár a választások után",
-      "summary": "Németországban megnyíltak az urnák, és a kancellárnak újabb pofonra kell készülnie, mivel a várakozások szerint pártja rossz eredményt ér el. Ez jelentős politikai következményekkel járhat a német belpolitikára és az európai stabilitásra nézve.",
+      "title": "Putyin pártjának 50 százalék körüli eredményt jósolnak az orosz parlamenti választáson",
+      "summary": "Az orosz parlamenti választások előrejelzései szerint Putyin pártja, az Egységes Oroszország, a szavazatok mintegy 50 százalékát szerezheti meg. Ez megerősítheti az elnök hatalmát az országban.",
+      "importance": 4
+    },
+    {
+      "title": "Az olasz kormány korlátozná a bevándorló tanulók számát és betiltaná a burkát",
+      "summary": "Az olasz kormány korlátozni kívánja a bevándorló tanulók arányát az osztályokban, és betiltaná a burka, valamint a nikáb viselését az iskolákban. A javaslat komoly társadalmi vitákat váltott ki.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Google Gemini AI modellje betört cégek rendszereibe",
-      "summary": "Kiderült, hogy a Google Gemini nevű mesterséges intelligencia modellje képes volt feltörni három különböző cég rendszerét. Ez a felfedezés aggodalmakat vet fel az AI rendszerek biztonságával és a potenciális kiberfenyegetésekkel kapcsolatban.",
+      "title": "A Google Gemini a legújabb AI modell, amely cégeket tört fel",
+      "summary": "A Google Gemini a legújabb mesterséges intelligencia modell, amely képes volt más cégeket feltörni, rávilágítva az AI-rendszerek biztonsági kockázataira. Ez a felfedezés sürgős intézkedéseket igényel a kiberbiztonság terén.",
       "importance": 5
     },
     {
-      "title": "Trump az USA 'AI Erő' létrehozását és AI cár kinevezését tervezi",
-      "summary": "Donald Trump bejelentette, hogy az Egyesült Államok egy 'AI Erőt' (AI Force) hozna létre és mesterséges intelligencia cárt nevezne ki, ha megválasztják. Ez a terv jelentős állami befektetést és stratégiai irányváltást jelezhet az AI fejlesztésében és szabályozásában.",
-      "importance": 5
+      "title": "Az AI-modellfejlesztő cégek sok titkot őriznek",
+      "summary": "A világ vezető AI modellfejlesztő cégei sok titkot őriznek modelljeik működéséről és képességeiről, ami aggodalmakat vet fel az átláthatóság hiánya miatt. Ez a titkolózás befolyásolhatja az AI biztonságos fejlesztését.",
+      "importance": 4
     },
     {
-      "title": "AI hallucináció majdnem amerikai katonai műveletet indított el",
-      "summary": "Egy mesterséges intelligencia által generált 'hallucináció' majdnem egy amerikai katonai művelet elindítását eredményezte. Ez az eset rávilágít az AI döntéshozatali rendszerek megbízhatóságának kritikus fontosságára és a biztonsági kockázatokra.",
-      "importance": 5
+      "title": "Kész-e az AI iparág a lassításra?",
+      "summary": "Az AI iparágban felmerült a kérdés, hogy valóban készen áll-e a lassításra a gyors fejlődés és a felmerülő etikai aggodalmak ellenére. A vita a biztonság és az innováció egyensúlyát keresi.",
+      "importance": 4
     },
     {
-      "title": "A kamerák sokkal többet tudnak rólunk, mint gondolnánk",
-      "summary": "A technológiai fejlődés révén a modern kamerák és megfigyelőrendszerek sokkal részletesebb adatokat gyűjtenek rólunk, mint azt az átlagember gondolná. Ez komoly adatvédelmi és magánéleti aggályokat vet fel a digitális korban.",
+      "title": "A mesterséges intelligencia tényleg felszámolja a munkahelyeket?",
+      "summary": "A mesterséges intelligencia fejlődésével egyre nagyobb aggodalom merül fel, hogy tömeges munkahely-megszűnéseket okozhat. Szakértők vizsgálják az AI hatásait a munkaerőpiacra és a gazdaságra.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Kísérleti terápia után eltűnt a rák egy 3 éves kisfiú szervezetéből",
-      "summary": "Egy 3 éves kisfiú rákja 8-10 hét után teljesen eltűnt egy kísérleti terápia alkalmazását követően. Ez a rendkívül ígéretes eredmény áttörést jelenthet a gyermekgyógyászati onkológiában és új reményt ad a rákos betegeknek.",
+      "title": "RNS-terápia áttörése: ritka motoros idegbetegségben szenvedő férfi állapota javult",
+      "summary": "Egy ritka motoros idegbetegségben szenvedő férfi állapota javult egy úttörő RNS-terápia hatására, ami áttörést jelenthet a genetikai betegségek kezelésében. Ez az első ilyen siker, ami reményt ad hasonló betegségekben szenvedőknek.",
       "importance": 5
     },
     {
-      "title": "RNA-terápia hozott javulást egy ritka motoros idegbetegségben szenvedő férfinál",
-      "summary": "Első alkalommal mutattak ki javulást egy ritka motoros idegbetegségben szenvedő férfinél egy RNA-terápia alkalmazása után. Ez a siker áttörést jelenthet a genetikailag alapú betegségek kezelésében, új utakat nyitva a gyógyászatban.",
+      "title": "AI megfejtette a Navier–Stokes kihívást, forradalmasítva a fizikát",
+      "summary": "A mesterséges intelligencia megfejtette a Navier–Stokes egyenletekkel kapcsolatos kihívást, ami jelentős áttörést jelent a fizika és mérnöki tudományok terén. Ez a siker forradalmasíthatja a folyadékmechanika kutatását.",
       "importance": 5
     },
     {
-      "title": "AI törte fel a Navier-Stokes kihívást, forradalmasíthatja a fizikát",
-      "summary": "Mesterséges intelligencia oldotta meg a Navier-Stokes egyenletekkel kapcsolatos kihívást, ami mélyreható következményekkel járhat a fizika és a mérnöki tudományok számára. Ez a fejlemény új korszakot nyithat a komplex áramlási problémák megértésében és modellezésében.",
+      "title": "AI-csapat fedezett fel ígéretes tüdőrák elleni gyógyszert",
+      "summary": "Egy mesterséges intelligencia-csapat ígéretes tüdőrák elleni gyógyszert fedezett fel, jelentősen felgyorsítva a gyógyszerfejlesztési folyamatot. Ez a módszer forradalmasíthatja az orvostudományt.",
       "importance": 5
     },
     {
-      "title": "Mesterséges intelligencia fedezett fel ígéretes tüdőrák elleni gyógyszert",
-      "summary": "Egy mesterséges intelligencia csapat sikeresen felfedezett egy ígéretes tüdőrák elleni gyógyszert. Ez a breakthrough bemutatja az AI potenciálját a gyógyszerfejlesztés felgyorsításában és az új terápiák azonosításában.",
-      "importance": 5
+      "title": "Újabb bizonyítékok Tutanhamon sírján túli rejtett kamrákra",
+      "summary": "Újabb bizonyítékok támasztják alá, hogy feltáratlan kamrák rejtőzhetnek Tutanhamon sírján túl. Az felfedezés jelentősen gazdagíthatja az ókori egyiptomi ismereteket.",
+      "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Gyephengerrel gázoltak el egy angol válogatott szélsőt a pályán",
-      "summary": "Egy döbbenetes incidens során gyephengerrel gázoltak el egy 13-szoros angol válogatott szélsőt a pályán. Az eset súlyos aggodalmakat vet fel a sportolók biztonságával kapcsolatban, és valószínűleg büntetőjogi következményekkel jár.",
-      "importance": 5
-    },
-    {
-      "title": "Húsz év után újra óriási házibulit rendeztek",
-      "summary": "Húsz évvel az eredeti esemény után, a rajongók óriási érdeklődésére tizenhét házibulit rendeztek egy nap alatt, idézve a korábbi legendás összejöveteleket. Az esemény hatalmas sikert aratott a közösség körében.",
-      "importance": 1
-    },
-    {
-      "title": "Színházi bemutató a Szabadsághegyen: nézők érkeztek Rajk László temetéséről",
-      "summary": "A Szabadsághegyen egy különleges színházi bemutatóra került sor, melyre a nézők egyenesen Rajk László temetéséről érkeztek. Az esemény egy kulturális és történelmi pillanatot kötött össze.",
-      "importance": 1
-    },
-    {
-      "title": "Az ARC kiállítás éjszaka egyelőre még nem látható világítás nélkül",
-      "summary": "Az ARC kiállítás éjjel-nappal látogatható lenne, de egyelőre nincs világítás, így sötétedés után semmit sem lehet látni. A hiányosság rontja az éjszakai látogatói élményt, de a fények bekapcsolását ígérik.",
-      "importance": 1
-    }
-  ]
+  "sports": []
 }

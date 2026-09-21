@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Ukrán külügyminiszter: Orbán politikája tovább virágzik",
-      "summary": "Az ukrán külügyminiszter szerint Orbán Viktor távozása ellenére Magyarország akadályozásra és elszigetelődésre épülő politikája folytatódik. Ez a kijelentés rávilágít a magyar külpolitika nemzetközi megítélésére és a feszültségekre.",
+      "title": "Ukrán külügyminiszter: Orbán politikája tovább virágzik az EU-ban",
+      "summary": "Az ukrán külügyminiszter szerint Orbán Viktor távozása ellenére Magyarország akadályozó és elszigetelő politikája változatlanul erős az EU-ban, ami kihívást jelent az európai egység számára. Ez a megjegyzés rávilágít Magyarország európai külpolitikai megítélésére és befolyására.",
       "importance": 5
     },
     {
-      "title": "Megszűnhet a TEK és az Országgyűlési Őrség",
-      "summary": "Jelentős intézményi változás várható, mivel a Terrorelhárítási Központ (TEK) és az Országgyűlési Őrség véglegesen eltűnhet a jogszabályokból. Ez komoly hatással lehet a magyar nemzetbiztonsági és rendvédelmi struktúrára.",
+      "title": "Patthelyzet a legfőbb ügyész jelölése körül a parlamentben",
+      "summary": "Az államfő fenntartja korábbi jelöltjét, míg a Tisza frakciója nem támogatja a megválasztását, patthelyzetet okozva a parlamentben. A kialakult politikai feszültség a jogállamiság és az igazságszolgáltatás függetlensége szempontjából is kiemelten fontos.",
       "importance": 5
     },
     {
-      "title": "Lázár János engedély nélkül épített tavat és napelemparkot",
-      "summary": "Lázár János miniszter állítólag engedély nélkül létesített tavat és napelemparkot batidai birtokán. Az eset hivatali visszaélés vagy szabálytalanság gyanúját veti fel.",
+      "title": "Kormányzati átalakítás a pedagógus-továbbképzésben",
+      "summary": "A kormány nagyszabású átalakítást hajt végre a pedagógusok továbbképzési rendszerében. A cél a képzések hatékonyságának növelése és a tanárok szakmai fejlődésének támogatása, ami hosszú távon az oktatás minőségét befolyásolhatja.",
       "importance": 4
     },
     {
-      "title": "Magyarország nem csatlakozott a Kárpáti Nyolcak nyilatkozatához",
-      "summary": "A Külügyminisztérium tájékoztatása szerint Magyarország részt vett a Kárpáti Nyolcak fórumán, de nem írta alá a nyilatkozatot. Ez a lépés további jele lehet a regionális együttműködésekkel kapcsolatos magyar álláspontnak.",
+      "title": "Nyilvánosak a Miniszterelnökség szerződései: Bódis Krisztának is bérelnek lakást",
+      "summary": "A Miniszterelnökség nyilvánosságra hozta korábbi szerződéseit, amelyekből kiderül, hogy többek között Bódis Krisztának is bérelnek lakást havi 360 ezer forintért. Az átláthatósági lépés a közpénzek felhasználásáról ad betekintést.",
       "importance": 4
     }
   ],
   "world": [
     {
+      "title": "Putyin pártja története legjobb eredményét érte el az orosz választáson",
+      "summary": "Vlagyimir Putyin pártja rekorderedményt ért el az orosz parlamenti választáson, ami tovább erősíti a jelenlegi politikai rendszert és Putyin hatalmát. Az eredmények rávilágítanak az orosz belpolitikai stabilitásra és a demokratikus folyamatok megítélésére.",
+      "importance": 5
+    },
+    {
+      "title": "Nagy-Britannia katonai segítséget nyújt Szaúd-Arábiának a hútik ellen",
+      "summary": "Nagy-Britannia katonai támogatást ígér Szaúd-Arábiának a húszi lázadók elleni harcban, ami súlyosbíthatja a jemeni konfliktust. Ez a lépés rávilágít a térség folyamatos feszültségeire és a nyugati országok beavatkozására.",
+      "importance": 5
+    },
+    {
       "title": "Súlyos válságban a német politikai rendszer",
-      "summary": "A német kancellár, Olaf Scholz \"katasztrófája\" és a közép kiüresedése súlyos válságba sodorta a német politikai rendszert. Ezt a helyzetet egész Európa figyelemmel kíséri, mivel a német stabilitás hiánya jelentős hatással lehet a kontinensre.",
-      "importance": 5
-    },
-    {
-      "title": "Tájfun fenyegeti Japánt, több millió ember evakuálása kezdődött",
-      "summary": "Több mint 1,9 millió embert evakuálnak Japánban egy közelgő tájfun miatt. A természeti katasztrófa jelentős pusztítással és fennakadásokkal járhat az országban.",
-      "importance": 5
-    },
-    {
-      "title": "Repülőterek kritizálják a légiforgalmi irányítást a sorozatos fennakadások miatt",
-      "summary": "A légitársaságok élesen bírálják a légiforgalmi irányítást, mivel ismételt hibák okoznak jelentős késéseket és fennakadásokat. A helyzet aggodalomra ad okot a légi utazás biztonsága és megbízhatósága szempontjából.",
+      "summary": "A német politikai rendszer súlyos válságba került, a kancellár \"katasztrófáját\" követően a politikai közép kiüresedni látszik. A helyzet egész Európát aggodalommal tölti el, mivel Németország stabilitása kulcsfontosságú a kontinens számára.",
       "importance": 4
     },
     {
-      "title": "Az első brit vádemelések az 1994-es ruandai népirtás ügyében",
-      "summary": "Nagy-Britanniában először emeltek vádat az 1994-es ruandai népirtással kapcsolatban. Ez jelentős lépés az igazságszolgáltatás terén, amely évtizedekkel az események után is keresi a felelősöket.",
+      "title": "Tájfun fenyegeti Japánt, több mint 1,9 millió embert evakuálnak",
+      "summary": "Egy hatalmas tájfun közelít Japán felé, ami miatt több mint 1,9 millió embert kell evakuálni. A hatóságok felkészültek a várható pusztításra, kiemelten kezelve a lakosság biztonságát.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Áram nélkül működő DNS-számítógép debütált",
-      "summary": "Bekapcsolták az első olyan DNS-alapú számítógépet, amely működéséhez nem igényel elektromos áramot. Ez az áttörés új lehetőségeket nyithat meg a biológiai adatok feldolgozásában és a miniatűr eszközök fejlesztésében.",
+      "title": "Az OpenAI tanácsadó csoportot alakít, mesterséges intelligenciája 100+ nyitott matematikai problémát oldott meg",
+      "summary": "Az OpenAI matematikai tanácsadó csoportot hoz létre, miután mesterséges intelligenciája több mint 100 nyitott matematikai problémát sikeresen megoldott. Ez jelentős előrelépést jelez az AI képességeinek és a tudományos kutatásban való alkalmazásának terén.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI matematikai tanácsadó csoportot hozott létre, AI-ja több száz megoldatlan problémát oldott meg",
-      "summary": "Az OpenAI mesterséges intelligenciája már több mint száz nyitott matematikai problémát oldott meg, és most egy matematikai tanácsadó csoportot is létrehozott. Ez a fejlődés jelzi az AI potenciálját a komplex tudományos kihívások kezelésében.",
-      "importance": 5
-    },
-    {
-      "title": "A Samsung csoport 100 millió dollárral támogatja a Kairos Powert a Google-nek szánt atomreaktor építésében",
-      "summary": "A Kairos Power 100 millió dolláros befektetést kapott a Samsung csoporttól egy olyan atomreaktor megépítésére, amelyet a Google számára terveznek. Ez a projekt a tiszta energiaforrások fejlesztésének egyik kulcsfontosságú lépése lehet, nagy tech cégek összefogásával.",
+      "title": "A Kairos Power 100 millió dolláros befektetést kap nukleáris reaktor építésére a Google-nak",
+      "summary": "A Kairos Power akár 100 millió dolláros befektetést is kaphat a Samsung csoporttól, hogy nukleáris reaktort építsen a Google számára. Ez a finanszírozás a tiszta energiaforrások fejlesztését és a nagy technológiai cégek energiaigényének kielégítését célozza.",
       "importance": 4
     },
     {
-      "title": "A Meta Muse-ja gyorsabban terjed, mint a ChatGPT korai mobilindítása",
-      "summary": "A Meta Muse nevű terméke a korai adatok szerint gyorsabban hódítja meg a mobilfelhasználókat, mint a ChatGPT annak idején. Ez a verseny az AI piacon új lendületet adhat a technológia fejlődésének és elterjedésének.",
+      "title": "A Meta Muse-ja túlszárnyalja a ChatGPT korai mobilindítási teljesítményét",
+      "summary": "A Meta új AI modellje, a Muse, gyorsabban terjed a mobil platformon, mint ahogy a ChatGPT tette a bevezetéskor. Ez a versenykiéleződés a mesterséges intelligencia fejlesztésében és elterjedésében új lendületet ad.",
+      "importance": 4
+    },
+    {
+      "title": "Az X tájékoztatja a felhasználókat, ha kormányok korlátozzák bejegyzéseiket",
+      "summary": "Az X (korábban Twitter) mostantól értesíti a felhasználókat, ha a kormányok kérésére korlátozzák a bejegyzéseiket. Ez a lépés az online cenzúra és a platformok átláthatósága körüli vitákban jelentős fejlemény.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Epigenetikai szerkesztéssel számolták fel a hepatitis B vírust",
-      "summary": "Egy új géncímkézési technika, az epigenetikai szerkesztés segítségével sikerült felszámolni a hepatitis B vírust. Ez az áttörés reményt adhat számos más vírusos betegség gyógyítására is.",
+      "title": "Bekapcsolták az áram nélkül működő DNS-számítógépet",
+      "summary": "Sikerült bekapcsolni egy DNS-alapú számítógépet, amely működéséhez nem igényel elektromos áramot. Ez az áttörés új lehetőségeket nyithat meg az energiahatékony számítástechnikában és a biológiai rendszerekkel való interakcióban.",
       "importance": 5
     },
     {
-      "title": "Ehető akkumulátorok látják el energiával a testbe ültetett orvosi eszközöket",
-      "summary": "Kutatók ehető akkumulátorokat fejlesztettek ki, amelyek képesek a testben lévő orvosi eszközök energiaellátására. Ez a technológia forradalmasíthatja a belsőleg alkalmazott diagnosztikai és terápiás eszközöket.",
+      "title": "Epigenetikai szerkesztés: Géntaggal számolták fel a hepatitis B vírust",
+      "summary": "Egy új epigenetikai szerkesztési technika, amely géntaggal módosítja a DNS-t, sikeresen számolta fel a hepatitis B vírust. Ez a módszer ígéretes utat nyithat meg más vírusos betegségek és genetikai rendellenességek kezelésében.",
       "importance": 5
     },
     {
-      "title": "Első RNA terápia: javult egy ritka motoros neuron betegségben szenvedő férfi állapota",
-      "summary": "Egy ritka motoros neuron betegségben szenvedő férfi állapota javulást mutatott az első RNA-terápiás kezelést követően. Ez a sikeres eset mérföldkő az RNA-alapú gyógymódok fejlesztésében.",
-      "importance": 5
+      "title": "Ehető akkumulátorok működtetnek orvosi eszközöket a testben",
+      "summary": "Kifejlesztettek olyan ehető akkumulátorokat, amelyek képesek orvosi eszközöket táplálni a testen belül. Ez a technológia forradalmasíthatja az implantálható orvosi eszközök működését, biztonságosabbá és kényelmesebbé téve azokat.",
+      "importance": 4
     },
     {
-      "title": "Ritka Hold-kráter egy 2024-es becsapódásból",
-      "summary": "Ritka esemény tanúi lehetünk: egy 2024-es becsapódás során keletkezett Hold-kráterről jelentek meg fotók, amely mindössze 132 évente egyszer fordul elő. Az esemény különleges betekintést nyújt a Hold geológiai aktivitásába.",
+      "title": "Az AI kutatótársak forradalmasítják a tudományos munkát",
+      "summary": "A mesterséges intelligencia, mint \"tudós munkatárs\", forradalmasítja a kutatásmódszertant, felgyorsítva az adatelemzést és új felfedezésekhez vezetve. Ez alapjaiban változtathatja meg a tudományos felfedezés folyamatát.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kínai csodaúszó döntötte meg Hosszú Katinka világrekordját",
-      "summary": "Egy mindössze 13 éves kínai úszó megdöntötte Hosszú Katinka korábbi világrekordját. A fiatal tehetség azonban mégsem elégedett teljesen a saját teljesítményével.",
+      "title": "13 éves kínai úszó döntötte meg Hosszú Katinka világrekordját",
+      "summary": "Egy 13 éves kínai úszó meglepő módon felülmúlta Hosszú Katinka korábbi világrekordját, bár maga a sportoló nem volt teljesen elégedett a teljesítményével. Ez a fiatal tehetség megjelenése izgalmas fejlemény a nemzetközi úszósportban.",
       "importance": 5
     },
     {
-      "title": "Infantino nyitott a FIFA reformjára",
-      "summary": "Gianni Infantino, a FIFA elnöke kijelentette, hogy nyitott a szervezet reformjára. Ez a bejelentés reményt adhat a futball irányításának átláthatóbbá és hatékonyabbá tételére.",
+      "title": "Szigorúbb szabályok mellett rendezhetők a jövőben a világbajnokságok",
+      "summary": "A jövőben szigorúbb kontroll és a sportszövetségek aktívabb bevonásával lehet csak világbajnokságokat rendezni. Ez a változás a sportesemények szervezésének minőségét és átláthatóságát hivatott javítani.",
       "importance": 4
     },
     {
-      "title": "Szigorú kontrollal és sportszövetségi bevonással rendezhetők a jövőbeni vb-k",
-      "summary": "A jövőben csak szigorú ellenőrzés mellett, a sportszövetségek aktív bevonásával lehet világbajnokságokat rendezni. Ez a szabályozás a sportesemények szervezésének minőségét és átláthatóságát hivatott biztosítani.",
-      "importance": 3
+      "title": "Infantino nyitott a FIFA reformjára",
+      "summary": "Gianni Infantino, a FIFA elnöke kijelentette, hogy nyitott a szervezet reformjára. Ez a bejelentés reményt adhat a futball irányításának átláthatóbbá tételére és a korrupciós botrányok megelőzésére.",
+      "importance": 4
     },
     {
-      "title": "A Honda elektromos hegyikerékpárral jelentkezik",
-      "summary": "A Honda egy új elektromos hegyikerékpárral lép piacra, kiterjesztve ezzel jelenlétét a sport- és szabadidős eszközök területére. A fejlesztés a technológia és a sport egyre szorosabb összefonódását mutatja.",
-      "importance": 2
+      "title": "A Honda elektromos hegyikerékpárral lép a piacra",
+      "summary": "A Honda bemutatja első elektromos hegyikerékpárját, amellyel a sport és a szabadidő szerelmeseit célozza meg. Ez a lépés a kerékpáros technológia fejlődését és az e-bike piac bővülését jelzi.",
+      "importance": 3
     }
   ]
 }

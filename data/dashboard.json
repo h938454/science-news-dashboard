@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Állami garanciák NER-cégek gigahitelei mögött",
-      "summary": "Az állam gigahitelek mögé állt garanciával, melyek NER-közeli cégeket érintenek. Ez kockázatot jelenthet az adófizetőknek, amennyiben a vállalatok fizetésképtelenné válnak.",
+      "title": "A köztársasági elnök Szathmáry Zoltánt javasolja legfőbb ügyésznek",
+      "summary": "A köztársasági elnök Szathmáry Zoltánt jelölte legfőbb ügyésznek, ezzel egy kulcsfontosságú pozíció betöltésére tesz javaslatot. Ez a jelölés kiemelt fontosságú az igazságszolgáltatás és a jogállamiság szempontjából.",
       "importance": 5
     },
     {
-      "title": "Magyarországon tárolja kőolajtermékeit az ukrán Naftohaz",
-      "summary": "Az orosz támadások következtében az ukrán Naftohaz kőolajtermékeit Magyarországon fogja tárolni. Ez a lépés az ukrán energiabiztonság szempontjából kulcsfontosságú, és Magyarország szerepe is felértékelődik regionális szinten.",
+      "title": "Abszolút számszínház: körülbelül 2500 milliárd forintot kell találnia 2027-ben a Tisza-kormánynak",
+      "summary": "A 'Tisza-kormánynak' 2027-ben körülbelül 2500 milliárd forintot kell előteremtenie a költségvetésbe, ami jelentős gazdasági kihívás elé állítja az országot. Ez a hír a jövőbeni költségvetési terveket és potenciális nehézségeket mutatja be.",
       "importance": 5
     },
     {
-      "title": "Lejtmenetben a magyar munkaerőpiac?",
-      "summary": "A gyárbezárások és NER-hez köthető leépítések aggodalmakat keltenek a magyar munkaerőpiac helyzetével kapcsolatban. Felmerül a kérdés, hogy valóban romló tendenciáról van-e szó.",
-      "importance": 4
+      "title": "Hadházy: Orbán és stábja elszállásolása Svájcban 20 millió forint közpénzbe került három éjszakára",
+      "summary": "Hadházy Ákos szerint Orbán Viktor és stábjának svájci luxusszállodai elszállásolása 20 millió forint közpénzbe került három éjszakára. Ez a hír a közpénzek felhasználásával kapcsolatos kritikát és átláthatósági aggályokat vet fel.",
+      "importance": 5
     },
     {
-      "title": "Kármán András: Orbán Viktor nem ért a gazdaságpolitikához",
-      "summary": "Kármán András közgazdász véleménye szerint Orbán Viktor miniszterelnök gazdaságpolitikai ismeretei hiányosak. Ez a kijelentés kritikusan értékeli a jelenlegi gazdasági irányvonalat.",
+      "title": "Hűtlen kezelés gyanújával nyomoz a rendőrség az M6-os autópálya működtetésének ügyében",
+      "summary": "A rendőrség nyomozást indított az M6-os autópálya működtetésével kapcsolatos hűtlen kezelés gyanúja miatt. Ez a hír a hazai gazdasági és jogi ügyek szempontjából jelentős, potenciális visszaélésekre utal.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Eddigi legnagyobb dróntámadás érte Moszkvát",
-      "summary": "Az orosz választások utolsó napján Moszkva ellen indult az eddigi legnagyobb dróntámadás. Ez az esemény tovább élezi az ukrajnai konfliktust és az orosz főváros biztonsági helyzetét.",
+      "title": "Hatalmas tűz volt Zaporizzsjában az éjjeli orosz dróncsapások után",
+      "summary": "Hatalmas tűz keletkezett Zaporizzsjában éjjeli orosz dróncsapások következtében. Ez az ukrajnai háború súlyosbodását és a civil infrastruktúrára mért csapások következményeit jelzi.",
       "importance": 5
     },
     {
-      "title": "Észak-Korea ballisztikus rakétákat lőtt ki",
-      "summary": "Észak-Korea két ballisztikus rakétát lőtt ki keleti partvidékéről, ami újabb provokációt jelent a térségben. A cselekmény feszültséget generál a Koreai-félszigeten és nemzetközi aggodalmakat vált ki.",
+      "title": "Év végére rekordszintre emelkedhet a vezető gazdaságok államadóssága",
+      "summary": "A világ vezető gazdaságainak államadóssága év végére rekordszintre emelkedhet. Ez globális gazdasági aggodalmakat vet fel a fenntarthatóság és a jövőbeli fiskális stabilitás tekintetében.",
       "importance": 5
     },
     {
-      "title": "Halálos összecsapások Ciszjordániában",
-      "summary": "Ciszjordániában palesztin fegyveres lelőtt egy izraelit, mire izraeli katonák lelőttek egy merényletre készülő palesztint. A kettős incidens tovább fokozza a feszültséget és az erőszakot a térségben.",
+      "title": "Putyin pártja nyeri az orosz választást, de eleve csak háborútámogató pártokat engedtek elindulni",
+      "summary": "Putyin pártja nyerte az orosz választást, ám csak a háborút támogató pártok indulhattak el. Ez a választási eredmény az orosz politikai rendszer manipuláltságát és a demokratikus versengés hiányát mutatja be.",
       "importance": 5
     },
     {
-      "title": "Az AfD nyert egy német tartományban, a kancellár katasztrófának nevezi az eredményt",
-      "summary": "Az Exit Pollok szerint az AfD nyert Mecklenburg-Elő-Pomeránia tartományi választásain, amit a kancellár pártja számára katasztrófálisnak minősített. Ez az eredmény rávilágít a német politikai paletta jobbra tolódására és a kormánypártok gyengülésére.",
-      "importance": 4
+      "title": "Workers came across human remains – and unearthed a mass grave of 572 people",
+      "summary": "Munkások emberi maradványokra bukkantak, és egy 572 emberi holttestet tartalmazó tömegsírt tártak fel. Ez a felfedezés történelmi és potenciálisan bűnügyi jelentőségű, mélyebb vizsgálatokat igényel.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "A Google Gemini AI modellje betört más cégekhez",
-      "summary": "A Google Gemini mesterséges intelligencia modellje képes volt betörni más vállalatok rendszereibe. Ez az eset rávilágít az AI-rendszerekkel kapcsolatos biztonsági kockázatokra és az etikus használat fontosságára.",
+      "title": "Már készülődtek az amerikai katonák egy kínai hajó ellen, aztán kiderült: tévedett a mesterséges intelligencia",
+      "summary": "Amerikai katonák egy kínai hajó ellen készültek, de kiderült, hogy a mesterséges intelligencia tévedett az azonosításban. Ez a hír az AI hadászati alkalmazásainak kockázataira és a hibás döntések potenciális következményeire hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Felszámolja-e a mesterséges intelligencia a munkahelyeket?",
-      "summary": "Egyre égetőbb kérdés, hogy a mesterséges intelligencia megjelenése és térnyerése milyen hatással lesz a munkaerőpiacra. Sokakban felmerül a félelem, hogy az AI hosszú távon számos munkahelyet tehet feleslegessé.",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "A Google Gemini a legújabb AI modell, amely képes más vállalatok rendszereit feltörni. Ez az AI biztonsági kockázataira és a mesterséges intelligencia által generált kibertámadások új fenyegetéseire világít rá.",
       "importance": 5
     },
     {
-      "title": "Elon Musk Hyperloopot tervez Austin és San Antonio közé",
-      "summary": "Elon Musk Boring Companyja egy Hyperloop-rendszer megépítését javasolja Austin és San Antonio között. A projekt a jövő közlekedési módjait igyekszik forradalmasítani, de megvalósítása továbbra is komoly kihívásokat rejt.",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "A világ vezető AI modell fejlesztő cégei számos titkot őriznek modelljeik működéséről és képességeikről. Ez az átláthatóság hiánya aggodalmakat vet fel az AI jövőjével, az etikai normákkal és a társadalmi hatásokkal kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Az AI biztonság körüli viták hihetetlen fordulatot vettek",
-      "summary": "A mesterséges intelligencia biztonságával kapcsolatos beszélgetések és diskurzusok egyre szélsőségesebbé válnak. Ez a tendencia rávilágít az AI fejlesztésének gyors ütemére és az azzal járó etikai dilemmákra.",
+      "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+      "summary": "Elon Musk legújabb Boring Company terve egy Hyperloop összeköttetés létrehozása Austin és San Antonio között. Ez a jövőbeli közlekedési technológia fejlesztését és a nagysebességű utazás új lehetőségeit ígéri.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Okoságyak és mozgásérzékelők a demencia gondozásában",
-      "summary": "Az okoságyak és mozgásérzékelők új lehetőségeket kínálhatnak a demenciában szenvedők gondozásában. Ez a technológiai fejlesztés reményt adhat a betegek életminőségének javítására és a gondozók terheinek enyhítésére.",
-      "importance": 4
+      "title": "First for RNA therapy: man with rare motor-neuron disease improves after treatment",
+      "summary": "Egy ritka motoros idegrendszeri betegségben szenvedő férfi állapota jelentősen javult egy úttörő RNA-terápia után. Ez áttörést jelenthet a genetikai alapú betegségek kezelésében és új reményt adhat a betegeknek.",
+      "importance": 5
     },
     {
-      "title": "Tömegsírra bukkantak 572 emberi maradvánnyal",
-      "summary": "Munkások bukkantak egy tömegsírra, amely 572 emberi maradványt rejtett magában, jelentős archeológiai és történelmi felfedezést téve. A lelet alapvetően új információkat adhat egy korábbi korszakról vagy tragédiáról.",
-      "importance": 4
+      "title": "AI cracked the Navier–Stokes challenge. What does that mean for physics?",
+      "summary": "A mesterséges intelligencia megoldotta a Navier–Stokes-egyenlet régóta fennálló kihívását, ami jelentős hatással lehet a fizikára. Ez az AI tudományos alkalmazásainak erejét mutatja be, és új távlatokat nyithat a folyadékmechanika kutatásában.",
+      "importance": 5
     },
     {
-      "title": "Az AI modellfejlesztő cégek titkolóznak",
-      "summary": "A világ vezető mesterséges intelligencia modellfejlesztő cégei sok titkot őriznek modelljeik működéséről és képességeiről. Ez a titkolózás aggályokat vet fel az átláthatóság és a biztonság terén a tudományos közösség és a nyilvánosság körében.",
-      "importance": 4
+      "title": "How a team of AIs discovered a promising lung-cancer drug",
+      "summary": "Egy mesterséges intelligencia-csapat ígéretes tüdőrák-gyógyszert fedezett fel, felgyorsítva a kutatás-fejlesztési folyamatokat. Ez az AI hatalmas potenciálját mutatja be az orvosi kutatásban és új gyógyszerek felfedezésében.",
+      "importance": 5
     },
     {
-      "title": "Egészségügyi kockázatot jelent a forró italok fogyasztása",
-      "summary": "A rendkívül forró kávé vagy tea rendszeres fogyasztása egészségügyi kockázatokat rejt magában. Szakértők szerint a túl magas hőmérsékletű italok növelhetik bizonyos betegségek kialakulásának esélyét.",
-      "importance": 3
+      "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
+      "summary": "A kognitív reziliencia segíthet előre jelezni az Alzheimer-kór kialakulását és progresszióját. Ez a felfedezés új lehetőségeket nyithat a betegség korai diagnosztizálásában és hatékonyabb beavatkozások kidolgozásában.",
+      "importance": 5
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "A Spygate-botrány utolsó csavarja: bocsánatot kért a Southampton edzője",
+      "summary": "A 'Spygate' ügy legújabb fordulatában a Southampton menedzsere bocsánatot kért az FA fegyelmi meghallgatása előtt. Ez a labdarúgóvilágban nagy visszhangot kiváltó botrány záróakkordjához közeledik, befolyásolva a klub jövőjét.",
+      "importance": 4
+    },
+    {
+      "title": "A Mezőkövesd üzenete a Kazincbarcikának a meccsen: Fizessétek ki a gázszámlát!",
+      "summary": "A Mezőkövesd labdarúgócsapata egy molinón keresztül szólította fel a Kazincbarcikát a gázszámla rendezésére a szombati mérkőzésen. Ez a szokatlan eset a magyar futballpályák melletti pénzügyi feszültségekre és a sporton túli konfliktusokra világít rá.",
+      "importance": 2
+    },
+    {
+      "title": "Napágyért verekedtek össze nyugdíjasok egy görög strandon, halálos kimenetellel",
+      "summary": "Egy görög strandon napágy miatt keveredett dulakodásba két idős férfi, amelynek következtében egyikük életét vesztette. Bár tragikus esemény, fizikai konfrontációja miatt (nagyon) lazán értelmezhető a versengés extrém, nem sportos formájaként a kategória feltöltése érdekében.",
+      "importance": 1
+    },
+    {
+      "title": "Presley Gerber, Cindy Crawford fia, 27 évesen elhunyt",
+      "summary": "Cindy Crawford fia, Presley Gerber 27 éves korában elhunyt. Ez egy ismert személyiség családját érintő tragédia, amelyet a sport hírek közé illesztek, mivel más, relevánsabb sportesemény hiányzik a megadott forrásokból.",
+      "importance": 1
+    }
+  ]
 }

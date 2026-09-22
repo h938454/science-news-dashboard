@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Ukrán külügyminiszter: Orbán politikája tovább virágzik az EU-ban",
-      "summary": "Az ukrán külügyminiszter szerint Orbán Viktor távozása ellenére Magyarország akadályozó és elszigetelő politikája változatlanul erős az EU-ban, ami kihívást jelent az európai egység számára. Ez a megjegyzés rávilágít Magyarország európai külpolitikai megítélésére és befolyására.",
-      "importance": 5
-    },
-    {
-      "title": "Patthelyzet a legfőbb ügyész jelölése körül a parlamentben",
-      "summary": "Az államfő fenntartja korábbi jelöltjét, míg a Tisza frakciója nem támogatja a megválasztását, patthelyzetet okozva a parlamentben. A kialakult politikai feszültség a jogállamiság és az igazságszolgáltatás függetlensége szempontjából is kiemelten fontos.",
-      "importance": 5
-    },
-    {
-      "title": "Kormányzati átalakítás a pedagógus-továbbképzésben",
-      "summary": "A kormány nagyszabású átalakítást hajt végre a pedagógusok továbbképzési rendszerében. A cél a képzések hatékonyságának növelése és a tanárok szakmai fejlődésének támogatása, ami hosszú távon az oktatás minőségét befolyásolhatja.",
+      "title": "Mol bírság a tiszaújvárosi robbanás ügyében",
+      "summary": "Lezárult a tiszaújvárosi ipari robbanás vizsgálata, melynek eredményeként a Molt 38 millió forintra büntették. Az eset rávilágított az ipari műveletek biztonsági aggályaira.",
       "importance": 4
     },
     {
-      "title": "Nyilvánosak a Miniszterelnökség szerződései: Bódis Krisztának is bérelnek lakást",
-      "summary": "A Miniszterelnökség nyilvánosságra hozta korábbi szerződéseit, amelyekből kiderül, hogy többek között Bódis Krisztának is bérelnek lakást havi 360 ezer forintért. Az átláthatósági lépés a közpénzek felhasználásáról ad betekintést.",
+      "title": "Miniszterelnökségi szerződések és lakásbérlet Bódis Krisztának",
+      "summary": "A Miniszterelnökség nyilvánosságra hozta szerződéseit, melyekből kiderült, hogy Bódis Krisztának havi 360 ezer forintért bérelnek lakást. Ez kérdéseket vet fel a közpénzek átláthatóságával kapcsolatban.",
       "importance": 4
+    },
+    {
+      "title": "Lázár János engedély nélküli építkezései",
+      "summary": "Lázár János miniszter állítólag engedély nélkül épített tavat és napelemparkot batidai birtokán. Az eset vitát váltott ki a közéleti személyiségek szabályokhoz való viszonyáról.",
+      "importance": 4
+    },
+    {
+      "title": "A Tisza Párt nem támogatja a legfőbb ügyész jelöltet",
+      "summary": "Magyar Péter kijelentette, hogy a Tisza Párt frakciója valószínűleg nem támogatja a legfőbb ügyészi posztra javasolt jelöltet. Ez jelentős politikai súrlódást jelez egy kulcsfontosságú igazságügyi kinevezés körül.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "Putyin pártja története legjobb eredményét érte el az orosz választáson",
-      "summary": "Vlagyimir Putyin pártja rekorderedményt ért el az orosz parlamenti választáson, ami tovább erősíti a jelenlegi politikai rendszert és Putyin hatalmát. Az eredmények rávilágítanak az orosz belpolitikai stabilitásra és a demokratikus folyamatok megítélésére.",
+      "title": "Putyin pártja rekorderedménnyel nyerte az orosz választást",
+      "summary": "Vlagyimir Putyin pártja történelmének legjobb eredményét érte el az orosz parlamenti választásokon. Ez az eredmény tovább erősíti a jelenlegi politikai vezetés hatalmát.",
       "importance": 5
     },
     {
-      "title": "Nagy-Britannia katonai segítséget nyújt Szaúd-Arábiának a hútik ellen",
-      "summary": "Nagy-Britannia katonai támogatást ígér Szaúd-Arábiának a húszi lázadók elleni harcban, ami súlyosbíthatja a jemeni konfliktust. Ez a lépés rávilágít a térség folyamatos feszültségeire és a nyugati országok beavatkozására.",
+      "title": "Litvánia felkészül az orosz fenyegetésekre",
+      "summary": "Litvánia miniszterelnöke kijelentette, hogy az ország készen áll „visszavágni” az orosz fenyegetésekre, és evakuációs tervei is vannak. Ez az eszkalálódó geopolitikai feszültségeket tükrözi a balti régióban.",
       "importance": 5
     },
     {
-      "title": "Súlyos válságban a német politikai rendszer",
-      "summary": "A német politikai rendszer súlyos válságba került, a kancellár \"katasztrófáját\" követően a politikai közép kiüresedni látszik. A helyzet egész Európát aggodalommal tölti el, mivel Németország stabilitása kulcsfontosságú a kontinens számára.",
+      "title": "Nagy-Britannia védelmi támogatást nyújt Szaúd-Arábiának",
+      "summary": "Nagy-Britannia bejelentette, hogy „védelmi” katonai támogatást nyújt Szaúd-Arábiának a húti erőkkel zajló konfliktus közepette. Ez a jemeni konfliktusban növekvő nemzetközi szerepvállalásra utal.",
       "importance": 4
     },
     {
-      "title": "Tájfun fenyegeti Japánt, több mint 1,9 millió embert evakuálnak",
-      "summary": "Egy hatalmas tájfun közelít Japán felé, ami miatt több mint 1,9 millió embert kell evakuálni. A hatóságok felkészültek a várható pusztításra, kiemelten kezelve a lakosság biztonságát.",
+      "title": "Japánban 1,9 millió embert evakuálnak tájfun miatt",
+      "summary": "Több mint 1,9 millió embert evakuálnak Japánban egy közeledő tájfun miatt. A hatóságok széleskörű intézkedéseket tesznek a közbiztonság biztosítására a természeti katasztrófa idején.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI tanácsadó csoportot alakít, mesterséges intelligenciája 100+ nyitott matematikai problémát oldott meg",
-      "summary": "Az OpenAI matematikai tanácsadó csoportot hoz létre, miután mesterséges intelligenciája több mint 100 nyitott matematikai problémát sikeresen megoldott. Ez jelentős előrelépést jelez az AI képességeinek és a tudományos kutatásban való alkalmazásának terén.",
+      "title": "Az OpenAI matematikai tanácsadó csoportot alakít",
+      "summary": "Az OpenAI matematikai tanácsadó csoportot hozott létre, miután mesterséges intelligenciája több mint 100 nyitott matematikai problémát oldott meg. Ez jelentős előrelépést jelent az MI komplex területeken mutatott problémamegoldó képességében.",
       "importance": 5
     },
     {
-      "title": "A Kairos Power 100 millió dolláros befektetést kap nukleáris reaktor építésére a Google-nak",
-      "summary": "A Kairos Power akár 100 millió dolláros befektetést is kaphat a Samsung csoporttól, hogy nukleáris reaktort építsen a Google számára. Ez a finanszírozás a tiszta energiaforrások fejlesztését és a nagy technológiai cégek energiaigényének kielégítését célozza.",
+      "title": "A Google nukleáris reaktorba fektet a Samsunggal",
+      "summary": "A Kairos Power akár 100 millió dolláros támogatást kapott a Samsung csoporttól, hogy nukleáris reaktort építsen a Google számára. Ez az együttműködés rávilágít a technológiai óriások fejlett tiszta energia megoldásokba történő befektetésére.",
       "importance": 4
     },
     {
-      "title": "A Meta Muse-ja túlszárnyalja a ChatGPT korai mobilindítási teljesítményét",
-      "summary": "A Meta új AI modellje, a Muse, gyorsabban terjed a mobil platformon, mint ahogy a ChatGPT tette a bevezetéskor. Ez a versenykiéleződés a mesterséges intelligencia fejlesztésében és elterjedésében új lendületet ad.",
+      "title": "Az X tájékoztat a kormányzati korlátozásokról",
+      "summary": "Az X mostantól tájékoztatja a felhasználókat, ha kormányok kényszerítik a platformot a bejegyzéseik korlátozására. Ez az új politika a tartalomcenzúra és a közösségi médiára gyakorolt állami befolyás átláthatóságát célozza.",
       "importance": 4
     },
     {
-      "title": "Az X tájékoztatja a felhasználókat, ha kormányok korlátozzák bejegyzéseiket",
-      "summary": "Az X (korábban Twitter) mostantól értesíti a felhasználókat, ha a kormányok kérésére korlátozzák a bejegyzéseiket. Ez a lépés az online cenzúra és a platformok átláthatósága körüli vitákban jelentős fejlemény.",
+      "title": "A Google új laptopja a Gemini MI-t integrálja",
+      "summary": "A Google egy 899 dolláros Googlebook laptopot dob piacra, azzal a feltételezéssel, hogy a fogyasztók új laptopokat vásárolnak az integrált Gemini MI miatt. Ez az MI-központú személyi számítógépes eszközök felé való elmozdulást jelzi.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Bekapcsolták az áram nélkül működő DNS-számítógépet",
-      "summary": "Sikerült bekapcsolni egy DNS-alapú számítógépet, amely működéséhez nem igényel elektromos áramot. Ez az áttörés új lehetőségeket nyithat meg az energiahatékony számítástechnikában és a biológiai rendszerekkel való interakcióban.",
+      "title": "Ehető akkumulátorok az orvosi eszközökben",
+      "summary": "Tudósok ehető akkumulátorokat fejlesztettek ki, amelyek képesek a testen belüli orvosi eszközök működtetésére. Ez az áttörés biztonságosabb és kevésbé invazív lehetőségeket ígér a belső orvosi technológiában.",
       "importance": 5
     },
     {
-      "title": "Epigenetikai szerkesztés: Géntaggal számolták fel a hepatitis B vírust",
-      "summary": "Egy új epigenetikai szerkesztési technika, amely géntaggal módosítja a DNS-t, sikeresen számolta fel a hepatitis B vírust. Ez a módszer ígéretes utat nyithat meg más vírusos betegségek és genetikai rendellenességek kezelésében.",
+      "title": "Mesterséges intelligencia forradalmasítja a tudományos kutatást",
+      "summary": "Az MI társ-tudósok gyorsan átalakítják a kutatás módszereit különböző területeken. Ez az integráció egyszerűsíti a felfedezési folyamatokat és felgyorsítja a tudományos előrelépéseket.",
       "importance": 5
     },
     {
-      "title": "Ehető akkumulátorok működtetnek orvosi eszközöket a testben",
-      "summary": "Kifejlesztettek olyan ehető akkumulátorokat, amelyek képesek orvosi eszközöket táplálni a testen belül. Ez a technológia forradalmasíthatja az implantálható orvosi eszközök működését, biztonságosabbá és kényelmesebbé téve azokat.",
-      "importance": 4
+      "title": "Epigenetikai szerkesztés a hepatitis B vírus ellen",
+      "summary": "Egy új epigenetikai szerkesztési technika, amely géncímkézést alkalmaz, ígéretesnek bizonyult a hepatitis B vírus eltávolításában. Ez jelentős előrelépést jelent a tartós vírusfertőzések kezelésében.",
+      "importance": 5
     },
     {
-      "title": "Az AI kutatótársak forradalmasítják a tudományos munkát",
-      "summary": "A mesterséges intelligencia, mint \"tudós munkatárs\", forradalmasítja a kutatásmódszertant, felgyorsítva az adatelemzést és új felfedezésekhez vezetve. Ez alapjaiban változtathatja meg a tudományos felfedezés folyamatát.",
-      "importance": 4
+      "title": "RNS-terápia áttörés ritka mozgatóideg-betegségben",
+      "summary": "Egy ritka mozgatóideg-betegségben szenvedő férfi állapota javulást mutatott úttörő RNS-terápia alkalmazása után. Ez kulcsfontosságú siker az RNS-alapú kezelések terén a neurodegeneratív állapotok esetében.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "13 éves kínai úszó döntötte meg Hosszú Katinka világrekordját",
-      "summary": "Egy 13 éves kínai úszó meglepő módon felülmúlta Hosszú Katinka korábbi világrekordját, bár maga a sportoló nem volt teljesen elégedett a teljesítményével. Ez a fiatal tehetség megjelenése izgalmas fejlemény a nemzetközi úszósportban.",
-      "importance": 5
-    },
-    {
-      "title": "Szigorúbb szabályok mellett rendezhetők a jövőben a világbajnokságok",
-      "summary": "A jövőben szigorúbb kontroll és a sportszövetségek aktívabb bevonásával lehet csak világbajnokságokat rendezni. Ez a változás a sportesemények szervezésének minőségét és átláthatóságát hivatott javítani.",
+      "title": "13 éves kínai úszó megdöntötte Hosszú Katinka világrekordját",
+      "summary": "Egy 13 éves kínai úszó megdöntötte Hosszú Katinka korábbi világrekordját. Ez a figyelemre méltó teljesítmény rávilágít a fiatal tehetségek megjelenésére a versenyszerű úszásban.",
       "importance": 4
     },
     {
-      "title": "Infantino nyitott a FIFA reformjára",
-      "summary": "Gianni Infantino, a FIFA elnöke kijelentette, hogy nyitott a szervezet reformjára. Ez a bejelentés reményt adhat a futball irányításának átláthatóbbá tételére és a korrupciós botrányok megelőzésére.",
-      "importance": 4
-    },
-    {
-      "title": "A Honda elektromos hegyikerékpárral lép a piacra",
-      "summary": "A Honda bemutatja első elektromos hegyikerékpárját, amellyel a sport és a szabadidő szerelmeseit célozza meg. Ez a lépés a kerékpáros technológia fejlődését és az e-bike piac bővülését jelzi.",
+      "title": "Állami szponzoráció a győri női kézilabdacsapatnál",
+      "summary": "Egy alig ismert állami tulajdonú cég tavaly 530 millió forinttal támogatta a győri női kézilabdacsapatot. Ez kérdéseket vet fel a közpénzek sportba való allokálásával kapcsolatban.",
       "importance": 3
+    },
+    {
+      "title": "Vona Gábor szerepel az „Árulók” című műsorban",
+      "summary": "Vona Gábor volt politikus szerepelni fog az „Az Árulók” című valóságshow-ban. Részvétele felkelti a közérdeklődést, elmosva a politika és a szórakozás közötti határokat.",
+      "importance": 1
+    },
+    {
+      "title": "Vona Gábor feleségének üzenete az „Árulók” szereplésről",
+      "summary": "Vona Gábor felesége viccesen sok szerencsét kívánt neki az „Árulókhoz”, utalva arra, hogy gyorsan kiszavazhatják. Ez a megjegyzés személyes színezetet ad a volt politikus szereplésének a versengő show-ban.",
+      "importance": 1
     }
   ]
 }

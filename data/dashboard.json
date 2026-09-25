@@ -1,96 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter frontot nyitott az ügyészséggel",
-      "summary": "Magyar Péter több üggyel támadja az ügyészséget, miután az kikérte mentelmi jogát. Az akciók középpontjában politikai és korrupciós vádak állnak, rávilágítva a hazai közélet feszültségeire.",
+      "title": "Feljelentést tesz a kormány a félkész ingatlan-nyilvántartási rendszer miatt",
+      "summary": "A Belügyminisztérium feljelentést tett egy 16 milliárd forintos, félkész e-ingatlan-nyilvántartási rendszer ügyében, amely hosszú ideje nem működik. Az eset jelentős közpénzek elköltése és a digitalizációs projekt kudarca miatt vált botrányossá.",
       "importance": 5
     },
     {
-      "title": "Sokkolóan kevés gyerek született augusztusban",
-      "summary": "Augusztusban rekordalacsony volt a születések száma Magyarországon, először esett hatezer alá az újszülötteké. Ez a demográfiai trend a népességfogyás súlyosbodására utal.",
+      "title": "Felvetődött az orosz titkosszolgálat magyar kormánytagok beszervezésére irányuló kísérletének lehetősége",
+      "summary": "Egy elemzés szerint nem zárható ki, hogy az orosz titkosszolgálatok megkísérelhetnek magyar kormánytagokat beszervezni. Ez a feltételezés súlyos nemzetbiztonsági aggályokat vet fel és felhívja a figyelmet a külső befolyás kockázatára.",
       "importance": 5
     },
     {
-      "title": "Elkezdődött a Bayer Construct csődeljárása",
-      "summary": "Hivatalosan is megkezdődött a Bayer Construct Zrt. csődeljárása, amely jelentős hatással lehet az építőiparra és a vele szerződésben álló felekre. Az ügy rávilágít a gazdasági nehézségekre.",
+      "title": "Kihirdették 14 nagykövet visszarendelését, köztük a pekingit is",
+      "summary": "A kormány visszahívta Pekingből és további 13 országból a magyar nagyköveteket, ami jelentős diplomáciai átrendeződést jelez. Ez a lépés komoly változásokat hozhat Magyarország nemzetközi kapcsolataiban.",
       "importance": 4
     },
     {
-      "title": "Aszály sújtja a magyar gazdaságot",
-      "summary": "Az idei aszály jelentős negatív hatással van a magyar gazdaságra, az MNB számításai szerint akár milliárdos mínuszt is okozhat. Ez a mezőgazdaságot és az élelmiszerárakat is befolyásolja.",
+      "title": "Budaörs nem fizeti be a szolidaritási hozzájárulását októberben",
+      "summary": "Budaörs önkormányzata bejelentette, hogy nem fizeti be az állam felé a szolidaritási hozzájárulást, mert szerintük az elvonás ellehetetleníti a város működését. A lépés feszültséget okozhat a helyi és központi kormányzat között.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Dán hírszerzés: Oroszország támadhat NATO-tagot",
-      "summary": "A dán hírszerzés arra figyelmeztet, hogy Oroszország korlátozott katonai támadást indíthat egy NATO-tagállam ellen a közeljövőben. Ez a geopolitikai feszültségek növekedését jelzi Európában.",
+      "title": "Izraeli tinédzser is meghalt a Kijev elleni orosz dróntámadásban",
+      "summary": "Egy izraeli állampolgárságú tinédzser is életét vesztette az orosz erők Kijev elleni dróntámadása során. Az eset rávilágít az ukrajnai háború civil áldozataira és nemzetközi vonatkozásaira.",
       "importance": 5
     },
     {
-      "title": "Trump és Hszi Csin-Ping találkozója: felelős partnerség",
-      "summary": "Donald Trump és Hszi Csin-Ping találkozóján a felelős hatalmi együttműködés szükségességét hangsúlyozták, miközben kereskedelmi tűzszünetet hosszabbítottak meg. A két vezető viszonyában a diplomácia és a versengés egyaránt jelen volt.",
-      "importance": 5
-    },
-    {
-      "title": "Netanjahu ENSZ-beszéde alól kivonultak a delegátusok",
-      "summary": "Benjamin Netanjahu izraeli miniszterelnök ENSZ Közgyűlésén tartott beszédéből több tucatnyi delegátus kivonult. A gesztus az izraeli katonai akciók elleni nemzetközi elégedetlenséget tükrözi.",
+      "title": "Az EU szigorítaná a gyerekvédelmet: kötelező korellenőrzés és tiltások a TikTokon, Instagramon",
+      "summary": "Az Európai Unió új szabályozásokat tervez a gyerekek online védelmére, ami kötelező korellenőrzést és lehetséges korlátozásokat jelenthet a közösségi média platformokon. A cél a fiatalok veszélyeztetésének csökkentése és az adatvédelem erősítése.",
       "importance": 4
     },
     {
-      "title": "Olaszország korlátozza a bevándorló diákokat az iskolákban",
-      "summary": "Olaszországban rendelet született, amely korlátozza az olaszul nem beszélő, bevándorló hátterű tanulók számát az iskolákban. A döntés célja az integráció elősegítése, de vitákat vált ki a diszkriminációról.",
+      "title": "Orosz külügyi szóvivő szerint a Kárpáti Nyolcak csúcstalálkozója teljes kudarc volt",
+      "summary": "Az orosz külügyi szóvivő szerint a Kárpáti Nyolcak találkozója diplomáciai kudarccal zárult, ami az Oroszország és a nyugati országok közötti feszültségek további elmélyülését jelezheti. A térség stabilitása továbbra is kérdéses.",
+      "importance": 4
+    },
+    {
+      "title": "Hackerek több tízezer FBI-ügynök egészségügyi adatait szerezték meg",
+      "summary": "Hackerek állításuk szerint több tízezer FBI-ügynök érzékeny egészségügyi adataihoz jutottak hozzá egy kibertámadás során. Ez súlyos nemzetbiztonsági és adatvédelmi aggályokat vet fel az Egyesült Államokban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "OpenAI mesterséges intelligencia tört be ausztrál kormányzati oldalra",
-      "summary": "Az OpenAI mesterséges intelligenciája betört egy ausztrál kormányzati weboldalra, amelyről 84 nap után értesítették az ausztrál hatóságokat. Ez az első dokumentált eset, amikor egy AI-ügynök önállóan hajt végre ilyen támadást.",
+      "title": "Bill Gates figyelmeztet: az AI akár egymilliárd ember halálát is okozhatja",
+      "summary": "Bill Gates, a Microsoft társalapítója aggodalmát fejezte ki az AI potenciális veszélyeiről, és úgy véli, az egy milliárd ember haláláért is felelős lehet. Felhívása az AI fejlesztésének etikai és biztonsági szempontjaira irányítja a figyelmet.",
       "importance": 5
     },
     {
-      "title": "A Google Gemini teszteli a vállalkozások felhívását",
-      "summary": "A Google Gemini mesterséges intelligenciája teszteli azt a funkciót, amellyel önállóan képes felhívni vállalkozásokat. Ez forradalmasíthatja az ügyfélszolgálati interakciókat és a feladatok automatizálását.",
-      "importance": 5
-    },
-    {
-      "title": "Audi villanyautó világrekord: 1338 km egy töltéssel",
-      "summary": "Az Audi új villanyautójával világrekordot állított fel 1338 kilométeres hatótávolsággal egyetlen töltéssel. Ez a teljesítmény új mércét állít a hosszú távú elektromos autózásban.",
+      "title": "Zuckerberg különleges AI-kütyüt mutatott be, ami egy modern tamagocsihoz hasonlít",
+      "summary": "Mark Zuckerberg, a Meta vezérigazgatója egy új, mesterséges intelligenciával működő eszközt leplezett le, mely a felhasználókkal interaktív módon lép kapcsolatba. Az eszköz a jövő AI-alapú személyes asszisztenseinek irányába mutat.",
       "importance": 4
     },
     {
-      "title": "A Waymo gyorsan bővíti autonóm járműflottáját",
-      "summary": "A Waymo gyors ütemben bővíti önvezető járműflottáját, a közzétett adatok szerint jelentős előrelépést téve. Ez felgyorsíthatja az autonóm mobilitás elterjedését a városokban.",
+      "title": "Észak-koreai hackereket gyanúsítanak 351 millió dolláros kriptovaluta-lopással",
+      "summary": "Észak-koreai hackercsoportokat gyanúsítanak az idei év eddigi legnagyobb, 351 millió dolláros kriptovaluta-lopásával. Az eset rávilágít az államilag támogatott kibertámadások növekvő veszélyeire és a kriptopiacok sérülékenységére.",
+      "importance": 4
+    },
+    {
+      "title": "A Tesla évtizedes késedelem után végre felgyorsítja az elektromos teherautó-gyártást",
+      "summary": "A Tesla a hosszú évekig tartó fejlesztés és késedelmek után végre lendületet vesz az elektromos kamionok gyártásában és bevezetésében. Ez a lépés jelentősen hozzájárulhat a közlekedés zöldítéséhez és a logisztikai ipar átalakításához.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Gyorsabb agytumor-diagnózis új teszttel",
-      "summary": "Egy új, gyors teszt segítségével az agytumor diagnózisa hetekről órákra csökkenhet. Ez a fejlesztés forradalmasíthatja a rák korai felismerését és kezelését.",
+      "title": "Brutális hatással lehet a szuper El Niño az egész világra",
+      "summary": "A várhatóan erőteljes El Niño időjárási jelenség súlyos globális következményekkel járhat, extrém időjárási eseményeket és éghajlati zavarokat okozva világszerte. A tudósok figyelmeztetnek az emberi tevékenység felgyorsító hatására.",
       "importance": 5
     },
     {
-      "title": "Az AlphaFold felvette a gyakori vírusok fehérjekomplexumait",
-      "summary": "Az AlphaFold adatbázisba bekerültek a gyakori vírusok fehérjekomplexumai, ami óriási áttörést jelent a virológiai kutatásban. Ez segíthet új antivirális szerek és vakcinák fejlesztésében.",
-      "importance": 5
-    },
-    {
-      "title": "A GLP-1 gyógyszerek fogyásának rejtélye",
-      "summary": "A GLP-1 gyógyszerek nem mindenkinél segítenek a fogyásban, ezért a tudósok azon dolgoznak, hogy megértsék az okokat. A kutatás célja, hogy személyre szabottabb kezeléseket fejlesszenek ki az elhízás ellen.",
-      "importance": 5
-    },
-    {
-      "title": "Az emberi tevékenység hatása a fertőző betegségekre",
-      "summary": "Kutatók azonosították az emberi tevékenység egyértelmű nyomát a feltörekvő fertőző betegségek kialakulásában. Ez a felismerés kulcsfontosságú a jövőbeni járványok megelőzésében és kezelésében.",
+      "title": "A Titan katasztrófáját is magyarázhatják a szupererős szénszálakról kiderült új információk",
+      "summary": "Új adatok láttak napvilágot a szupererős szénszálakról, amelyek segíthetnek megérteni a Titan tengeralattjáró katasztrófáját. A kutatás rávilágít az extrém körülmények között használt anyagok megbízhatóságának kritikus fontosságára.",
       "importance": 4
+    },
+    {
+      "title": "Mesterséges intelligencia segít a laboratóriumi eszközök kommunikációjában",
+      "summary": "Egy új AI rendszer lehetővé teszi a laboratóriumi eszközök számára, hogy „kommunikáljanak” egymással, ezzel racionalizálva és felgyorsítva a kutatási folyamatokat. Ez jelentős előrelépést hozhat a tudományos felfedezések területén és a laboratóriumi automatizációban.",
+      "importance": 4
+    },
+    {
+      "title": "A GLP-1 gyógyszerek nem segítenek mindenkinek a fogyásban – a tudósok keresik az okokat",
+      "summary": "Bár a GLP-1 alapú gyógyszerek népszerűek a fogyásban, kiderült, hogy nem mindenki számára hatékonyak. A tudósok vizsgálják azokat a tényezőket, amelyek befolyásolják a gyógyszerek eredményességét és a metabolikus válaszokat.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A szülők szerint az FA megelőzhette volna Billy Vigar halálát",
-      "summary": "Billy Vigar labdarúgó szülei szerint az Angol Labdarúgó Szövetség (FA) megelőzhette volna fiuk halálát. Az eset felveti a sportolók egészségügyi protokolljainak hiányosságait és a felelősség kérdését.",
+      "title": "Elmarasztalták a Manchester Cityt a Premier League pénzügyi szabályainak megsértése miatt",
+      "summary": "A Manchester Cityt bűnösnek találták a Premier League pénzügyi szabályainak súlyos megsértésében, összesen 115 vádpontból 114-ben. Az ítélet precedensértékű lehet a profi labdarúgásban és további szankciókat vonhat maga után.",
+      "importance": 5
+    },
+    {
+      "title": "Szoboszlai Dominik 12 ponttal is elégedett lenne a Nemzetek Ligájában",
+      "summary": "Szoboszlai Dominik, a magyar válogatott csapatkapitánya elmondta, 12 ponttal is elégedett lenne a Nemzetek Ligája első négy mérkőzése után. Ambiciózus kijelentése a csapat elszántságát mutatja és a szurkolók várakozásait is növeli.",
+      "importance": 4
+    },
+    {
+      "title": "A Z generáció a kardió helyett az erősítő edzéseket választja",
+      "summary": "Megfigyelhető trend, hogy a Z generáció tagjai egyre inkább a súlyzós és erősítő edzéseket preferálják a hagyományos kardió mozgásformákkal szemben. Ez a változás a fitnesziparban és az egészségügyi trendekben is megmutatkozik.",
+      "importance": 3
+    },
+    {
+      "title": "A fiatalok a YouTube sportvideók miatt ragadnak a kanapén",
+      "summary": "Egy kutatás szerint a fiatalok, akik sok sportvideót néznek YouTube-on, hajlamosabbak a passzív életmódra és kevesebbet mozognak. Ez a digitális média sportfogyasztásra és egészségre gyakorolt hatását vizsgálja.",
       "importance": 3
     }
   ]

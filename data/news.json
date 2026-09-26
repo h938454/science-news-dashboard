@@ -1,83 +1,118 @@
 {
   "Telex": [
     {
-      "title": "Athénban összeomlott egy épület, már több halottat is találtak",
+      "title": "Magyar Péter Szolnokon folytatja az országjárást – tojást dobtak felé",
+      "link": "https://telex.hu/belfold/2026/09/26/magyar-peter-szolnokon-folytatja-az-orszagjarasat",
+      "summary": "A miniszterelnök beszédében hosszan beszélt a jelenlévő „frusztrált honfitársakhoz”."
+    },
+    {
+      "title": "Gerevich András: A húspultos fiú",
+      "link": "https://telex.hu/karakter/telextarcak/2026/09/26/gerevich-andras-a-huspultos-fiu-tarcanovella-irodalom",
+      "summary": "„Gyakran szemeztek, mégsem váltottak egy szót sem a rendelésen túl. Szinte közös játékká vált, hogy ki bír hosszabban a másik szemébe nézni.” E heti novellánk a szerelmi viszonyok útvesztőjébe viszi el olvasóinkat."
+    },
+    {
+      "title": "Kína és az Egyesült Államok 30 milliárd dolláros kölcsönös vámcsökkentésről egyezett meg",
+      "link": "https://telex.hu/gazdasag/2026/09/26/kina-egyesult-allamok-usa-vammegallapodas",
+      "summary": "Nyolcpontos megállapodást kötött a két ország."
+    },
+    {
+      "title": "Több mint 400 jelölt közül választják ki az új tankerületi igazgatókat",
+      "link": "https://telex.hu/belfold/2026/09/26/klebelsberg-kozpont-tankeruletek-igazgatoi-palayzatai",
+      "summary": "A pályázatokat véleményezhetik az adott tankerületi központ területén lévő települések polgármesterei, valamint a tankerületi központ által fenntartott iskolák teljes alkalmazotti közössége."
+    },
+    {
+      "title": "Egy mentős is érintett a magyar-ukrán futballmérkőzésen kialakult dulakodásban",
+      "link": "https://telex.hu/sport/2026/09/26/orszagos-mentoszolgalat-nemzetek-ligaja-dulakodas-vizsgalat",
+      "summary": "Az Országos Mentőszolgálat vizsgálatot indított a történtek tisztázására."
+    },
+    {
+      "title": "Körömrágós izgalmakat hozott az Azeri Nagydíj, Russell 0,1 másodperccel verte Verstappent",
+      "link": "https://telex.hu/sport/2026/09/26/f1-forma-1-azeri-nagydij-george-russell-baku-mercedes",
+      "summary": "Antonelli a 16. helyről indulva lett 5., két biztonsági autós szakasz rázta fel a futamot, amin a McLaren nem sok mindennek örülhetett."
+    },
+    {
+      "title": "Toroczkai szerint a Mi Hazánk menő és trendi a legfiatalabb magyarok között",
+      "link": "https://telex.hu/belfold/2026/09/26/mi-hazank-tisztujito-kongresszus-toroczkai-laszlo",
+      "summary": "A párt szombaton tartja tisztújító kongresszusát, a pártelnök-frakcióvezető beszédében erős mondatokkal tüzelte közönségét."
+    },
+    {
+      "title": "Legendás magyar sütemények: a linzer",
+      "link": "https://telex.hu/gasztro/2026/09/26/legendas-magyar-sutemenyek-linzer",
+      "summary": "Sorozatunkban legendás magyar(nak gondolt) sütemények eredetének és recepttörténetének járunk utána. Linzer nélkül nincs lakodalom, állófogadás és karácsony – de milyen az igazi?"
+    },
+    {
+      "title": "Javaslatcsomagot dolgoztak ki a belügyi dolgozók tehermentesítésére",
+      "link": "https://telex.hu/belfold/2026/09/26/posfai-gabor-belugyminiszter-belugyi-dolgozok-torvenymodositas-tehermentesites",
+      "summary": "Pósfai Gábor belügyminiszter szerint a változtatások célja az adminisztrációs terhek csökkentése és az ágazatban dolgozók megbecsültségének növelése is."
+    },
+    {
+      "title": "Megtalálta Lázár János utódját a Magyar Tenisz Szövetség",
+      "link": "https://telex.hu/sport/2026/09/26/megtalalta-lazar-janos-utodjat-a-magyar-tenisz-szovetseg",
+      "summary": "A volt miniszter 2020 óta volt a szövetség elnöke. Szőcs Árpád László veszi át a helyét."
+    },
+    {
+      "title": "Ötmilliárd forintot szánt eddig laktanyák felújítására az új kormány",
+      "link": "https://telex.hu/belfold/2026/09/26/laktanya-felujitas-ruszin-szendi-romulusz",
+      "summary": "Harminc helyszínen kétszáz beruházást kezdtek el vagy fejeztek be."
+    },
+    {
+      "title": "Kettő helyett négymillió autó: a Volkswagen-konszern a dízelbotrány óta legnagyobb visszahívási akcióját hirdette meg",
+      "link": "https://telex.hu/gazdasag/2026/09/26/audi-skoda-seat-volkswagen-visszahivasi-akcio-kormanymu",
+      "summary": "Bizonyos Audik, Seatok, Škodák, és Volkswagen típusok kormányművében elrozsdásodhat, végül el is törhet egy csavar, ami balesetveszélyt okoz."
+    },
+    {
+      "title": "Szép sárga virága van, de csak a gyűlölet árad most felé",
+      "link": "https://telex.hu/techtud/2026/09/26/a-kiralydinnye-egyre-tobbek-eletet-keseriti-meg",
+      "summary": "Eddig sem volt jó belelépni vagy belehajtani bringával az alattomos tüskéket elhagyó királydinnyébe, de most mintha sokkal több helyen lenne a növényből, amely a szárazságot és a meleget használta ki. De hogy lehet megszabadulni tőle?"
+    },
+    {
+      "title": "Athénban összeomlott egy épület, összesen hatan haltak meg",
       "link": "https://telex.hu/kulfold/2026/09/26/athenban-osszeomlott-egy-epulet-eddig-ket-halottat-talaltak",
-      "summary": "Az egyik áldozat egy amerikai turista volt. Többeket még keresnek."
+      "summary": "Több áldozat turista volt. Feltehetőleg gázrobbanás történt."
     },
     {
       "title": "Felháborította az ukrán futballválogatottat, hogy a magyar szurkolók kifütyülték az ukrán himnuszt",
       "link": "https://telex.hu/sport/2026/09/26/ukrajna-magyarorszag-futball-himnusz-incidens",
       "summary": "Az ukrán csapat hazai pályán, a Puskás Arénában győzte le a magyart, de a mérkőzés nem csak emiatt marad emlékezetes."
-    },
-    {
-      "title": "Zarándokok nyomában Toscana nagydíjas történelmi-kulturális túraútján",
-      "link": "https://telex.hu/szepkilatas/2026/09/26/via-francigena-zarandokut-olaszorszag-toszkana",
-      "summary": "Ódon olasz kisvárosok, derűs olajfaligetek és trópusi eső áztatta túrázók a félig köves, félig füves ösvényen: három napot talpaltunk a Via Francigenán."
-    },
-    {
-      "title": "Több autó ütközött az M1-esen, érdemes kerülni",
-      "link": "https://telex.hu/belfold/2026/09/26/tobb-auto-utkozott-az-m1-esen-erdemes-kerulni",
-      "summary": ""
-    },
-    {
-      "title": "Leáldozhat a végig fix kamatoknak a piaci lakáshiteleknél",
-      "link": "https://telex.hu/nevertek/2026/09/26/lealdozhat-a-vegig-fix-kamatoknak-a-piaci-lakashiteleknel",
-      "summary": "A mostani kamatkörnyezetben egyre kevésbé biztos, hogy érdemes évtizedekre rögzíteni a törlesztőt."
-    },
-    {
-      "title": "A termőföldtől a polcig: ezért számít a hazai eredet",
-      "link": "https://telex.hu/tamogatott-tartalom/2026/09/26/a-termofoldtol-a-polcig-ezert-szamit-a-hazai-eredet",
-      "summary": "Egy átlagos bevásárlásnál többnyire az ár, a minőség és az ízlés dönt, pedig annak is van jelentősége, honnan érkezik az, amit a kosárba teszünk."
-    },
-    {
-      "title": "Korábban bevonták a jogosítványát annak az Audit vezető férfinak, aki szombaton okozott balesetet Siófokon",
-      "link": "https://telex.hu/belfold/2026/09/26/siofok-baleset-audi-mazda-volkswagen-suzuki-gyorshajtas",
-      "summary": "Az esetről egy önkormányzati képviselő adott közre egy térfigyelő kamera által készített videót."
-    },
-    {
-      "title": "Katasztrófával sújtotta övezetnek nyilvánították Bangkok városát",
-      "link": "https://telex.hu/kulfold/2026/09/26/katasztrofaval-sujtotta-ovezetnek-nyilvanitottak-bangkok-varosat",
-      "summary": "Harminc centi eső esett két nap alatt."
-    },
-    {
-      "title": "Ufóészlelésekre vezethető vissza a kolozsvári Hója-erdő paranormális turisztikai népszerűsége",
-      "link": "https://telex.hu/eszkombajn/2026/09/26/ufo-eszlelesekre-vezetheto-vissza-a-kolozsvari-hoja-erdo-paranormalis-turisztikai-nepszerusege",
-      "summary": "A Kolozsvár melletti erdő a hatvanas évekig egészen békés volt, aztán fotóztak egy azonosítatlan repülő tárgyat. Azóta már a fák csavarodása is gyanús."
-    },
-    {
-      "title": "Sulyok Tamás és felesége kedvéért kölcsönkértek egy Rippl-Rónai festményt a múzeumból, Baka András visszaadta",
-      "link": "https://telex.hu/belfold/2026/09/26/rippl-ronai-sulyok-tamas-baka-andras-kaposvar-muzeum",
-      "summary": "Az új köztársasági elnök hivatala döntött a Medgyessy olvas című kép visszaszolgáltatásáról, így az ismét a festőről elnevezett kaposvári múzeum birtokába kerül."
-    },
-    {
-      "title": "Tavaly tigriskölyökkel kapcsolták le, most selyemmajmot találtak a kocsijában",
-      "link": "https://telex.hu/belfold/2026/09/26/tavaly-tigriskolyokkel-kapcsoltak-le-most-selyemmajmot-talaltak-a-kocsijaban",
-      "summary": "A tiszafüredi férfi tavaly lebukott egy illegálisan tartott egzotikus állattal, most egy közúti ellenőrzésnél megint találtak egyet nála."
-    },
-    {
-      "title": "Tóth Balázs: Nagyon csalódottak vagyunk, mert többet érdemeltünk volna",
-      "link": "https://telex.hu/sport/2026/09/26/toth-balazs-nagyon-csalodottak-vagyunk-mert-tobbet-erdemeltunk-volna",
-      "summary": "A magyar válogatott kapusa nagyot védett, de utólag már látja, hogy az sem ért semmit, mert azért nem jár pont."
-    },
-    {
-      "title": "Mostantól nem mindegy, mennyivel megy a szlovén autópályákon",
-      "link": "https://telex.hu/kulfold/2026/09/26/szlovenia-gyorshajtas-autopalya-atlagsebesseg-ellenorzes",
-      "summary": "Szeptember eleje óta több szakaszon is ellenőrzik a járművek átlagsebességét, a gyorshajtási bírság pedig akár 1200 euró is lehet."
-    },
-    {
-      "title": "Bámulatos lyukfelhő rajzolódott ki pénteken Sopronnál",
-      "link": "https://telex.hu/belfold/2026/09/26/bamulatos-lyukfelho-rajzolodott-ki-penteken-sopronnal",
-      "summary": "A műholdképen is lehetett látni a jelenséget, amit általában egy repülő okoz."
-    },
-    {
-      "title": "Csóváló farokkal, játékkal a szájában fogadta a betörőt a kaliforniai labrador",
-      "link": "https://telex.hu/zacc/2026/09/26/kalifornia-san-diego-labrador-betoro",
-      "summary": "A gazda szerint Nash kedvesebb volt az illetéktelen behatolóval, mint vele szokott."
     }
   ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Tizenöt év után nem fideszes politikus vezeti a teniszszövetséget: Szőcs Árpád László lett az új elnök",
+      "link": "https://444.hu/2026/09/26/tizenot-ev-utan-nem-fideszes-politikus-vezeti-a-teniszszovetseget-szocs-arpad-laszlo-lett-az-uj-elnok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Szőcs a rendkívüli közgyűlésen a 273-ból 168 szavazatot kapott."
+    },
+    {
+      "title": "München 64 évvel a tragikus túszdráma után újra olimpiát rendezne",
+      "link": "https://444.hu/2026/09/26/munchen-64-evvel-a-tragikus-tuszdrama-utan-ujra-olimpiat-rendezne?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A bajor nagyváros lesz Németország jelöltje a 2036-os, 2040-es vagy 2044-es nyári olimpia megrendezésére."
+    },
+    {
+      "title": "A világ legszebb útjáért Pakisztánig kell menni",
+      "link": "https://444.hu/2026/09/26/a-vilag-legszebb-utjaert-pakisztanig-kell-menni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Lenyűgöző hegycsúcsok között kanyarog a Pakisztánt és Kínát összekötő Karakorum Highway, amit a világ nyolcadik csodájaként is emlegetnek. A mérnöki zsenialitás csúcsművének is tekinthető út a természet és a társadalom folyamatos változása miatt kifejezetten sokszínű. Ráadásul egyes szakaszain stoppolni is könnyen lehet."
+    },
+    {
+      "title": "„Már előtte is tudtam, hogyan támogatják a magyarok az oroszokat, tudtuk, hogy erre számíthatunk” – az egyik ukrán védőt felháborította, hogy kifütyülték a himnuszukat",
+      "link": "https://444.hu/2026/09/26/mar-elotte-is-tudtam-hogyan-tamogatjak-a-magyarok-az-oroszokat-tudtuk-hogy-erre-szamithatunk-az-egyik-ukran-vedot-felhaboritotta-hogy-kifutyultek-a-himnuszukat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ilja Zabarnij szerint ez hatalmas tiszteletlenség az ukrán néppel szemben."
+    },
+    {
+      "title": "A Hankó Balázs felelősségre vonásáért fellépők személyesen lesznek felelősségre vonva, amint a „nemzeti erők” helyreállítják a jogállamot",
+      "link": "https://444.hu/2026/09/26/a-hanko-balazs-felelossegre-vonasaert-fellepok-szemelyesen-lesznek-felelossegre-vonva-amint-a-nemzeti-erok-helyreallitjak-a-jogallamot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az exminiszter mentelmi jogának kiadása „a kiépülő újkommunista önkény újabb megnyilvánulása”, áll a Fidesz elnökségének nyilatkozatában."
+    },
+    {
+      "title": "Katasztrófahelyzetet hirdettek Bangkokban a heves esőzek és az áradások miatt",
+      "link": "https://444.hu/2026/09/26/katasztrofahelyzetet-hirdettek-bangkokban-a-heves-esozek-es-az-aradasok-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A thaiföldi fővárosban több út járhatatlanná vált, a csatornák megteltek, és mind az 50 kerületet veszélyhelyzeti övezetté nyilvánították."
+    },
+    {
+      "title": "Robbanás döntött romba egy épületet az Akropolisz közelében Athénban, legalább ketten meghaltak",
+      "link": "https://444.hu/2026/09/26/robbanas-dontott-romba-egy-epuletet-az-akropolisz-kozeleben-athenban-legalabb-ketten-meghaltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Négy embert eltűntként keresnek, a hatóságok gázszivárgásra gyanakszanak."
+    },
     {
       "title": "A 444-es könyvbemutató, amely igehirdetéssel kezdődött és keresztény énekkel zárult",
       "link": "https://444.hu/2026/09/26/a-444-es-konyvbemutato-amely-igehirdetessel-kezdodott-es-kereszteny-enekkel-zarult?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -117,155 +152,120 @@
       "title": "Internetszolgáltatók és adatközpontok elleni támadásokkal próbálják megbénítani Ukrajna digitális gazdaságát az oroszok",
       "link": "https://444.hu/2026/09/26/internetszolgaltatok-es-adatkozpontok-elleni-tamadasokkal-probaljak-megbenitani-ukrajna-digitalis-gazdasagat-az-oroszok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A kijevi régióban százezer háztartás maradt internet nélkül, a tél közeledtével egyre nagyobb az aggodalom amiatt, hogy a támadások a bankok, fizetési rendszerek és közszolgáltatások működését is megzavarhatják."
-    },
-    {
-      "title": "Trump a Bloomberg szerint Moszkvába küldte volna Zelenszkijt, Kijevben azt mondják, hogy ez nem igaz",
-      "link": "https://444.hu/2026/09/26/trump-a-bloomberg-szerint-moszkvaba-kuldte-volna-zelenszkijt-kijevben-azt-mondjak-hogy-ez-nem-igaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az amerikai elnök személyes találkozót sürgetett Zelenszkij és Putyin között, az ukrán elnöki hivatal azonban tagadja, hogy a moszkvás javaslat elhangzott volna."
-    },
-    {
-      "title": "Hétvégi olvasnivalók gyanúsításokról, borravalóterrorról, emberkísérletekről, horrorházakról és hasonlóakról",
-      "link": "https://444.hu/2026/09/26/hetvegi-olvasnivalok-gyanusitasokrol-borravaloterrorrol-emberkiserletekrol-horrorhazakrol-es-hasonloakrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Azaz itt a 444 napindító hírlevelének hétvégi kiadása."
-    },
-    {
-      "title": "Putyin: Nincsenek terveink Európa megtámadására",
-      "link": "https://444.hu/2026/09/26/putyin-nincsenek-terveink-europa-megtamadasara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az orosz elnök szerint pont hogy az európai országok élezik a helyzetet és „provokációkkal” növelik a feszültséget."
-    },
-    {
-      "title": "Egymásnak ugrottak a játékosok a magyar–ukrán meccs végén, benne van a fociban, mondta a történtekről Szoboszlai",
-      "link": "https://444.hu/2026/09/26/egymasnak-ugrottak-a-jatekosok-a-magyarukran-meccs-vegen-benne-van-a-fociban-mondta-a-tortentekrol-szoboszlai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Marco Rossi a vereség után arra utalt, a két éve tartó pechsorozat miatt talán róla is dönteni kellene."
-    },
-    {
-      "title": "Szűzen trippelni a Terror Házában: romlatlan szemmel néztem meg, mit lehetne kihozni Schmidt Mária múzeumából",
-      "link": "https://444.hu/2026/09/26/szuzen-trippelni-a-terror-hazaban-romlatlan-szemmel-neztem-meg-mit-lehetne-kihozni-schmidt-maria-muzeumabol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Rákosiné mint szexbomba: a 444 egy érintetlen ministránsfiút küldött, hogy mérje fel, tényleg menthetetlen-e a magyar kultúrharc legkomolyabb emlékműve. Íme a megszeppent beszámoló!"
-    },
-    {
-      "title": "Kikapott Ukrajnától a magyar válogatott, vereséggel kezdte a Nemzetek Ligáját",
-      "link": "https://444.hu/2026/09/25/kikapott-ukrajnatol-a-magyar-valogatott-vereseggel-kezdte-a-nemzetek-ligajat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hiába volt több nagy magyar helyzet, Ukrajna egy védelmi hibát kihasználva 1–0-ra nyert a Puskás Arénában."
-    },
-    {
-      "title": "Ugyanazt a menzás spagettit ették, több óvodás és iskolás gyerek is rosszul lett Budapesten és Maglódon",
-      "link": "https://444.hu/2026/09/25/ugyanazt-a-menzas-spagettit-ettek-tobb-ovodas-es-iskolas-gyerek-is-rosszul-lett-budapesten-es-maglodon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hét intézményt érint a tömeges megbetegedés. A közétkeztető cég szerint nem étel eredetű a probléma."
     }
   ],
   "HVG": [
     {
-      "title": "Szürreális szárnyalás Szöulban: merre tarthat most a dél-koreai tőzsde?",
-      "link": "https://hvg.hu/360/20260926_premium-hirlevelek-otp-befektetesekrol-alfatol-az-omegaig-del-korea",
-      "summary": "Ez a hullámvasutazó részvénypiac jelenleg az AI-befektetések barométere."
+      "title": "Takács Péter stroke-kal poénkodva kritizálja a Tisza képviselőit",
+      "link": "https://hvg.hu/itthon/20260926_takacs-peter-stroke-tisza-szavazas-gombnyomas",
+      "summary": "Érdekes párhuzam a volt egészségügyi államtitkártól."
     },
     {
-      "title": "Több ezer éves kártyát játszik ki az iráni rezsim",
-      "link": "https://hvg.hu/vilag/20260926_hvg-iran-civilizacios-propaganda-perzsa-tortenelem-birodalmak-nemzettudat-iszlamista-teokracia",
-      "summary": "A perzsa történelmi örökséget korábban elutasító iráni iszlamista rezsim felfedezte a dicsőséges múltat. Az irániak büszkék, hogy övék a világ egyik legrégebbi civilizációja, de ez nem legitimálja a teokráciát."
+      "title": "Mit keres egy bérházban babadühöngő és lakrész elvált szülőknek?",
+      "link": "https://hvg.hu/elet/20260926_becs-noi-szempontu-varostervezes-sonnwendviertel-wolfganggasse",
+      "summary": "Miközben Magyarországon az előző kormány tűzzel-vassal irtotta még a szót is, Bécsben évek óta a mindennapok része az úgynevezett „genderérzékeny várostervezés”. Miért fontos, hogy egy játszótéren legyen domboldal? Hova kerüljön egy bérházban a babakocsitároló? Egyáltalán, mi történik, ha egy város figyelembe veszi, hogy a nők és a lányok másra és máshogy használják a köztereket? Budapesttől 240 kilométerre minden kiderül."
     },
     {
-      "title": "Ukrán focista arról, hogy kifütyülték a himnuszukat: Tisztában voltunk vele, miként viszonyulnak a magyarok hozzánk, illetve az oroszokhoz",
-      "link": "https://hvg.hu/sport/20260926_ilja-zabarnij-ukrajna-foci-valogatott-himnusz-kifutyules-magyar-szurkolok",
-      "summary": "Ilja Zabarnij hatalmas tiszteletlenség volt a magyar szurkolóktól, hogy kifütyülték az ukrán himnuszt."
+      "title": "Több tízmilliós végkielégítést kérhetnek a HUN-REN vezetői, nem tudnak megállapodni a kormánnyal",
+      "link": "https://hvg.hu/itthon/20260926_hun-ren-vezetok-valtas-vegkielegites",
+      "summary": "Május óta húzódik a vezetőváltás a kutatóhálózat élén."
     },
     {
-      "title": "Nemcsak ingyen letölthető, még ingyenesen el is postázzák az új könyvet, ami a jövő feltalálóinak szól",
-      "link": "https://hvg.hu/tudomany/20260926_s-szakkor-ingyenes-mesekonyv-letoltes-rendeles-postazas",
-      "summary": "Robotok, mesterséges intelligencia, virtuális valóság, fenntartható ipar és egy csapat kíváncsi iskolás az S-Szakkör című, ingyenesen beszerezhető mesekönyv főszereplője. A kötet kalandregényként mutatja meg a gyerekeknek, hogy a technológia nem valami távoli és érthetetlen dolog: ott van körülöttünk, és a jövőjét később akár ők maguk is alakíthatják."
+      "title": "Önállósította magát a Gemini, az AI feltörte három cég biztonsági rendszerét is",
+      "link": "https://hvg.hu/tudomany/20260926_onallosodo-gemini-feltores-ai",
+      "summary": "A Google megerősítette, hogy mesterséges intelligenciája, a Gemini bizonyos fokig önállósította magát, és három valódi céget is feltört egy hónapokkal ezelőtti kiberbiztonsági teszt során. Anyagi kár ugyan nem keletkezett, az esetnek azonban komoly tanulságai lehetnek."
     },
     {
-      "title": "Molnár Áron üzent Magyar Péternek: Kilenc évnyi munkánk gyümölcse lesz, ha Orbàn Viktor bíróság elé áll",
-      "link": "https://hvg.hu/itthon/20260926_molnar-aron",
-      "summary": "Molnár Áron örömmel látja, hogy immár Magyar Péter is üti az ügyészséget."
+      "title": "Videón a drámai befutó – George Russell nyerte az Azeri Nagydíjat",
+      "link": "https://hvg.hu/cegauto/20260926_oriasi-izgalmak-videon-a-dramai-befuto-george-russell-nyerte-az-azeri-nagydijat",
+      "summary": "Valamivel kevesebb mint két tizedmásodperc döntött Russell és Verstappen között."
     },
     {
-      "title": "Stresszes, vicces, időnként felemelő a tolmácsok munkája – EUfória podcast",
-      "link": "https://hvg.hu/eurologus/20260926_euforia-podcast-tolmacs-europai-parlament-ep2026",
-      "summary": "Tűrni kell a stresszt, reagálni kell a váratlan helyzetekre és rendkívül széles körű tájékozottságra van szükség, cserébe felemelő pillanatokat is át lehet élni – így dolgoznak a tolmácsok, akik közül kettővel beszélgettünk az EUrologus és a HVG közös podcastjában, az EUfóriában."
+      "title": "Összehívná a Fidesz a Házbizottságot a gyanús parlamenti gombnyomás miatt",
+      "link": "https://hvg.hu/itthon/20260926_schummer-orsolya-szavazas-csezy-erzsebet-fidesz-hazbizottsag-boka-janos",
+      "summary": "Kedd óta nyomasztja a fideszes képviselőket a kihágás."
     },
     {
-      "title": "Török Gábor reagált Magyar Péter mentelmi ügyére: A többmilliárdos korrupciós ügyek nem mérhetők össze egy mobil állítólagos eltulajdonításával",
-      "link": "https://hvg.hu/itthon/20260926_torok-gabor-magyar-peter-mentelmi-ugy",
-      "summary": "A politikai elemző szerint ez „provokáció vagy fricska Magyar Péter irányába”."
+      "title": "Az OpenAI mesterséges intelligenciája privát felhasználói képeket töltött fel online platformokra",
+      "link": "https://hvg.hu/tudomany/20260926_az-openai-mesterseges-intelligenciaja-privat-felhasznaloi-kepeket-toltott-fel-online-platformokra",
+      "summary": "Újabb nem tervezett műveleteket hajtott végre az AI."
     },
     {
-      "title": "Minél inkább szemben állnak, annál jobban hasonlítanak egymásra a politikai versenytársak",
-      "link": "https://hvg.hu/360/20260926_csizmadia-ervin-szembenallas-politika-ellenfelek-prohaszka",
-      "summary": "Minél élesebb egy politikai konfliktus, annál jobban igazodnak egymáshoz az abban résztvevő felek. Ez a felismerés nem számolja fel a megosztottságot,  de segít újragondolni a lehetséges együttműködések módját."
+      "title": "Egy mentős is benne lehetett a magyar–ukrán meccsen történt dulakodásban, eljárást indítottak az ügyben",
+      "link": "https://hvg.hu/elet/20260926_magyarorszag-ukrajna-balhe-dulakodas-mentos-omsz-eljaras",
+      "summary": "A péntek esti mérkőzés vége puskaporos hangulatban telt, teljesen elszabadultak az indulatok."
     },
     {
-      "title": "A magyar-ukrán kapcsolat újabb feszültségeiről ír a Deutsche Welle",
-      "link": "https://hvg.hu/vilag/20260926_a-magyar-ukran-kapcsolat-ujabb-feszultsegeirol-ir-a-deutsche-welle",
-      "summary": "Orbán Viktor leváltása után Magyar Péter azzal indított, hogy javít a bilaterális viszonyon, ám most újabb feszültség keletkezett az ukrán regionális együttműködési kezdeményezés és a Magyarországra tervezett ukrán olajtároló miatt – vázolja a helyzetet Keno Verseck, a térség szakértője Deutsche Wellében. Lapszemle."
+      "title": "Melania Trump húzott egy váratlant a kínai elnök tiszteletére tartott díszvacsorán",
+      "link": "https://hvg.hu/elet/20260926_melania-trump-hszi-csin-ping-kinai-elnok-diszvacsora-nadrag",
+      "summary": "Divattörténelem a Fehér Házban."
     },
     {
-      "title": "Megtriplázták volna a teljesítményt, ám folyamatosan lekési az összes határidejét az atomenergia-ipar",
-      "link": "https://hvg.hu/360/20260926_triplazas-helyett-az-atomenergia-ipar-epp-lekesi-a-visszateresi-hataridejet",
-      "summary": "Három év alatt kerek egy évtizednyi csúszást szedett össze az ígéreteire a világ nukleáris erőműépítő ipara. A nukleáris reneszánsz és az atomenergia újbóli aranykorának víziója ettől még továbbra is az asztalon marad. Kína pedig köszöni, jól van."
+      "title": "A Sydney Sweeney-botrány farvizén törne a Polymarket babérjaira a Novig",
+      "link": "https://hvg.hu/360/20260926_novig-elorejelzesi-piac-sydney-sweeney-cftc-polymarket-kalshi",
+      "summary": "A Polymarket modelljével kerülné meg a sportfogadási oldalak szigorú, államonként különböző szabályozását a Novig, amelyre Sydney Sweeney meztelenkedése miatt irányult hirtelen rengeteg figyelem."
     },
     {
-      "title": "Le sem tagadhatná: Kapitány István képeket osztott meg az apjáról, aki a Malév főpilótája volt",
-      "link": "https://hvg.hu/elet/20260926_kapitany-istvan-apja-kepek-malev-fopilota-video-vitezy-david-vonatok",
-      "summary": "A videóban pedig arról mesélt, legalább annyira szereti a repülőgépeket, mint Vitézy Dávid a vonatokat meg a buszokat."
+      "title": "Toroczkai László: A Mi Hazánk menő és trendi a legfiatalabb magyarok között",
+      "link": "https://hvg.hu/itthon/20260926_toroczkai-laszlo-a-mi-hazank-meno-es-trendi-a-legfiatalabb-magyarok-kozott",
+      "summary": "Az Európai Unió uszítja Zelenszkij rezsimjét, a robotok pedig azért lesznek jók, mert kiválthatják a bevándorlókat, ugyanakkor Toroczkai László – akit ismét a párt elnökévé választottak – nyitna a „nem száz százalékban magyar származásúak” felé is."
     },
     {
-      "title": "Itt az elemről 9 hónapig működő otthoni biztonsági kamera, amihez nem kell még fúrni sem",
-      "link": "https://hvg.hu/tudomany/20260926_reolink-argus-magicam-b210-magneses-biztonsagi-kamera-vezetek-nelkul-szerelheto",
-      "summary": "Mágneses hátlappal rendelkező, vezeték nélküli kapcsolattal működő otthoni biztonsági kamerát mutatott be a Reolink."
+      "title": "Kifogták Godzillát, a 70 kilós beluga tokhalat, aki öt év alatt jól betömegelt",
+      "link": "https://hvg.hu/elet/20260926_kifogtak-godzillat-a-70-kilos-beluga-tokhalat-aki-ot-ev-alatt-jol-betomegelt",
+      "summary": "2021 tavaszán még csak 50 kilós volt, mostanra felszedett magára egy húszast."
     },
     {
-      "title": "A magyar–ukrán meccsen fotózták le Orbán Viktort",
-      "link": "https://hvg.hu/elet/20260926_orban-viktor-puskas-arena-magyar-labdarugo-valogatott-nemzetek-ligaja-ukrajna-foto",
-      "summary": "Komor arccal figyelte az eseményeket."
+      "title": "Váratlanul derült ki Libanonban, hogy mindenki az izraeli Faudát nézi",
+      "link": "https://hvg.hu/tudomany/20260926_fauda-izraeli-sorozat-netflix-statisztika-libanoni-nezettseg",
+      "summary": "Talán sosem derült volna ki, hogy az izraeli titkos ügynökökről szóló sorozatot nézik otthon a libanoni emberek, ha nincs a nézettséget rögzítő Netflix-statisztika."
     },
     {
-      "title": "A dízelbotrány óta nem volt ekkora visszahívás a Volkswagennél, 4 millió autó lehet érintett",
-      "link": "https://hvg.hu/cegauto/20260926_volkswagen-visszahivas-negymillio-auto-kormanymu-hiba",
-      "summary": "A kormányművel lehetnek problémák."
+      "title": "Megvan Lázár János utódja a teniszszövetség élén",
+      "link": "https://hvg.hu/sport/20260926_magyar-tenisz-szovetseg-szocs-arpad-laszlo-tisztujito-kozgyules-uj-elnok-lazar-janos-utodja",
+      "summary": "A szombati tisztújító közgyűlésen az ügyvéd-vállalkozó Szőcs Árpád Lászlót 168 szavazattal választották meg elnöknek."
     },
     {
-      "title": "Az atlétika új versenye lehet a minta a jövő sporteseményei számára?",
-      "link": "https://hvg.hu/elet/20260926_atletikai-vilagdonto-penzdij-verseny-budapest-kozvetites-sony",
-      "summary": "Tévés és lebonyolításbeli innováció, influenszerek a sajtózónában, azonnali interjúk a pálya szélén, és hatalmas pénzdíjak – ezek a legfontosabb különbségek a hagyományos atlétikaversenyek és a Budapesten debütált Atlétikai Világdöntő között, amely más sportesemények, akár az olimpia számára is mintát jelenthet."
+      "title": "Európa bűnhődhet Trump és Putyin bűneiért",
+      "link": "https://hvg.hu/360/20260926_lapszemle-europa-trumo-putyin-hszi",
+      "summary": "De ha észnél van, sokat nyerthet a világrend felbomlásából. Nemzetközi lapszemle."
     }
   ],
   "BBC": [
     {
-      "title": "Clubs seek legal advice after Man City found guilty over financial rule breaches",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Premier League clubs are seeking legal advice as to whether they would have a case for financial compensation as a result of City's breaches."
+      "title": "Heathrow Airport's third runway may be delayed to 2039",
+      "link": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK's busiest airport says the original goal of 2035 will be difficult to meet without simplifying the planning process."
     },
     {
-      "title": "The computer hacker who tried to take down Man City",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwywld5v28jo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport travelled to Portugal to find out more about Rui Pinto - the computer hacker who sparked the Manchester City investigation."
+      "title": "No Premier League appetite to strip Man City of titles - but threat remains",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzzj17682o?at_medium=RSS&at_campaign=rss",
+      "summary": "After being found guilty of the majority of the 115 charges for breaching Premier League, could Manchester city really be stripped of eight trophies?"
     },
     {
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
+      "title": "How long can Labour's feel-good factor last?",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg."
     },
     {
-      "title": "Rayner criticises visa rule proposals ahead of Labour conference",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
-      "summary": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\"."
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said."
     },
     {
-      "title": "E-motorbikes seized by police sold on at auction, BBC finds",
-      "link": "https://www.bbc.co.uk/news/articles/cm86xn6775z3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of electric motorbikes are confiscated annually because they are suspected of being driven illegally or used in a crime - most are destroyed, but last year police sold at least 161."
+      "title": "Met to re-examine CCTV from Jill Dando murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999."
     },
     {
-      "title": "Joshua fight at risk over promoter row, says Fury",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cq3d77ppnzdro?at_medium=RSS&at_campaign=rss",
-      "summary": "Tyson Fury says his long-awaited all-British heavyweight fight against Anthony Joshua in December is in jeopardy."
+      "title": "Republic of Ireland confirm Israel game will go ahead",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republic of Ireland have confirmed Sunday's Uefa Nations League B3 game against Israel in Debrecen, Hungary will go ahead."
     },
     {
-      "title": "Bangkok declares disaster as heavy rains spark flooding",
-      "link": "https://www.bbc.co.uk/news/videos/ck9800jdj1q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Days of near continuous downpours have caused widespread flooding in the Thai capital."
+      "title": "Watch: Prince Harry says 'kids are happy' in British school after six years in US",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yww993n10o?at_medium=RSS&at_campaign=rss",
+      "summary": "He says his children are “happy in school” and the family returned to the UK for \"lots of reasons\"."
     },
     {
       "title": "How the bare nails trend became a class issue",
@@ -293,22 +293,27 @@
       "summary": "Employees and recruiters weigh into the online debate around interview etiquette."
     },
     {
-      "title": "Burnham not doing enough to boost growth, says former business secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ex-Business Secretary Peter Kyle calls for more urgency on the economy, as Labour members head to the party's annual conference."
+      "title": "Huge crowds greet Pope in Paris for open-air Mass",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "summary": "More than half a million people are expected to attend the event in the heart of the French capital."
     },
     {
-      "title": "Weekend of mixed UK weather with sunshine before showers arrive for some on Sunday",
-      "link": "https://www.bbc.co.uk/weather/articles/cqm2mgdmj3e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Expect a dry and pleasant Saturday with rain for northern and western areas on Sunday, ahead of some strong wind and rain early next week."
+      "title": "Man City legal fight could spiral out of control, former Premier League club executive warns",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Purslow's comments come after Manchester City was found guilty of dozens of financial rule charges brought by the Premier League."
     },
     {
-      "title": "Republic of Ireland news conference delayed before controversial Israel game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Republic of Ireland delay the pre-match news conference planned for Sunday's Uefa Nations League game against Israel in Hungary - a fixture campaigners have called on them to boycott."
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves."
+    },
     {
       "title": "At Meta Connect, the company’s smart glasses were everywhere",
       "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -378,11 +383,6 @@
       "title": "Meta’s AI Tamagotchi bet is…working?",
       "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
       "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is headed for&#160;smart glasses&#160;and [&#8230;]"
-    },
-    {
-      "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-      "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-      "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack."
     }
   ],
   "Nature": [

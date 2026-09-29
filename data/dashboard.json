@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Legfőbb Ügyészség figyelmeztetése a jogállamiság határainak átlépése kapcsán",
-      "summary": "A Legfőbb Ügyészség figyelmeztetést adott ki a jogállamiság határainak átlépése kapcsán, valószínűleg a közéleti viták és politikai támadásokra reagálva. Kiemelik a büntetőjogi felelősségre vonás lehetőségét bűncselekmények elkövetése esetén.",
+      "title": "Közzétették az Orbán-kormány nem nyilvános kormányhatározatainak listáját",
+      "summary": "Nyilvánosságra hozták az Orbán-kormány 16 éve alatt született, több ezer nem nyilvános kormányhatározat listáját. Ez a lépés jelentősen növeli az átláthatóságot a kormányzati döntéshozatal terén.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter felvetette Orbán Viktor kihallgatását az „aranykonvoj” ügyében",
-      "summary": "Magyar Péter azt javasolta, hogy hallgassák ki Orbán Viktort az „aranykonvoj” ügyében, ami a Völner-Schadl botrányhoz kapcsolódik. Ez újabb nyomásgyakorlás a kormányra és a korrupciós ügyek feltárására irányul.",
-      "importance": 5
+      "title": "Rendkívüli közgyűlést hívott össze a 4iG, új vezetőket választanak",
+      "summary": "A NER-rel összefonódott 4iG október végére rendkívüli közgyűlést hívott össze, ahol új vezetőket is választanak. A döntés jelentős átszervezést jelenthet a vállalat élén.",
+      "importance": 4
     },
     {
-      "title": "Nyilvánosságra hozták az Orbán-kormányok titkolt kormányhatározatait",
-      "summary": "Hosszú titkolózás után végre nyilvánosságra kerültek az Orbán-kormányok korábban elzárt kormányhatározatai. Ez lehetővé teszi a közérdekű adatokhoz való hozzáférést és az átláthatóság növelését.",
-      "importance": 5
+      "title": "A Miniszterelnökség feljelentést tett a tanácsadó Lounge-csoport ellen",
+      "summary": "A Miniszterelnökség feljelentést tett a tanácsadással foglalkozó Lounge-csoport ellen, súlyos összegekkel kapcsolatos gyanú miatt. Az ügyben korrupció gyanúja merült fel.",
+      "importance": 4
     },
     {
-      "title": "Kereshető ügynökadatbázis: 55-60 ezer név nyilvános",
-      "summary": "Hamarosan kereshető ügynökadatbázisban tesznek közzé 55-60 ezer nevet, ami fontos lépés a kommunista múlt feldolgozásában. Azonban a teljes átláthatósághoz még további munkára van szükség.",
+      "title": "Alkotmánybírósági döntés egy újságíró elítélésének alkotmányellenességéről",
+      "summary": "Az Alkotmánybíróság kimondta, hogy alkotmányellenes volt a magát kirgiz menekültnek kiadó újságíró korábbi elítélése. A döntés fontos precedenst teremt a sajtószabadság és a jogállamiság szempontjából.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Evan Gershkovich 16 hónapja orosz börtönben",
-      "summary": "Evan Gershkovich amerikai újságíró 16 hónapja van orosz börtönben kémkedés vádjával, amit tagad. Az eset rávilágít az újságírók elleni megtorlásokra és az orosz-amerikai feszültségekre.",
+      "title": "Oroszország jelentősen növeli katonai kiadásait jövőre",
+      "summary": "Oroszország a tervek szerint 27 százalékkal növeli katonai kiadásait a következő évben. Ez a lépés komoly aggodalmakat vet fel a globális biztonsági helyzetet illetően.",
       "importance": 5
     },
     {
-      "title": "Izraeli telepesek támadtak palesztin falura Ciszjordániában",
-      "summary": "Izraeli telepesek megtámadtak egy palesztin falut Ciszjordániában, akadályozva egy palesztin család visszatérését otthonába. Az incidens tovább élezi a feszültséget a régióban.",
-      "importance": 5
-    },
-    {
-      "title": "Diák támadt tanáraira és iskolatársaira Szlovákiában",
-      "summary": "Szlovákiában egy diák támadt tanáraira és iskolatársaira, aminek következtében egy ember életét vesztette. A tragikus esemény rávilágít az iskolai erőszak és a mentális egészség problémáira a régióban.",
+      "title": "Amerikai újságírót tartóztattak le orosz ügynökök",
+      "summary": "Evan Gershkovich amerikai újságírót orosz ügynökök tartóztatták le, ami komoly feszültségeket okozott az USA és Oroszország között. Az újságíró esete a sajtószabadság elleni fellépésként értelmezhető.",
       "importance": 4
     },
     {
-      "title": "Hajóromboló rakéták süllyesztettek el egy régi amerikai hadihajót",
-      "summary": "Skócia partjainál, éles lőgyakorlat során hajóromboló rakétákkal süllyesztettek el egy régi amerikai hadihajót. A gyakorlat a modern hadviselés képességeit demonstrálta.",
+      "title": "Lemondott az Eiffel-torony üzemeltetőjének vezetője nemi alapon történő megkülönböztetés miatt",
+      "summary": "Lemondott az Eiffel-torony üzemeltető vállalatának vezetője, miután egy vallási csoport látogatása idején eltávolították a női dolgozókat. Az eset a munkahelyi diszkrimináció és a társadalmi egyenlőtlenségek kérdését veti fel.",
+      "importance": 4
+    },
+    {
+      "title": "Az Egyesült Királyságban javasolják a nyugdíjrendszer reformját",
+      "summary": "Andy Burnham, a brit Munkáspárt politikusa azt ígéri, hogy 2030-ban megszünteti a jelenlegi „hármas záras” nyugdíjrendszert az idősgondozás finanszírozására. A javaslat jelentős változásokat hozhat a szociális ellátórendszerben.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Sürgős biztonsági frissítés iOS-eszközökhöz",
-      "summary": "Az iOS-eszközökön, beleértve az iPhone-okat, iPadeket és Mac-eket, sürgős biztonsági frissítésre van szükség egy kritikus hiba miatt. Fontos, hogy a felhasználók minél hamarabb telepítsék a javítást adataik védelme érdekében.",
+      "title": "Az OpenAI saját irodai szoftvercsomaggal száll harcba a Microsofttal",
+      "summary": "Az OpenAI egy új, a ChatGPT-hez hasonló irodai szoftvercsomagot indít, ezzel közvetlen kihívást intézve a Microsoft ellen. A lépés átformálhatja a produktivitási szoftverek piacát az AI térnyerésével.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI biztonsági aggályok miatt visszavon egy új AI modellt",
-      "summary": "Az OpenAI állítólag biztonsági aggályok miatt leállította egy új AI modell bevezetését. Ez a döntés rávilágít az AI fejlesztésének etikai és biztonsági kihívásaira.",
+      "title": "Megjelent az OpenAI új, hatékonyabb GPT-6.1 Sol modellje",
+      "summary": "Az OpenAI bemutatta a GPT-6.1 Sol modellt, amely állításuk szerint majdnem eléri a GPT-6 Astra képességeit, de alacsonyabb költségekkel. Ez a fejlesztés új lehetőségeket nyit az AI alkalmazások terén.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic figyelmeztet az AI emberiséget fenyegető veszélyeire",
-      "summary": "Az Anthropic, egy vezető AI vállalat, figyelmeztetést adott ki arra vonatkozóan, hogy az általa fejlesztett mesterséges intelligencia végső soron az emberiség végét is okozhatja. Ez komoly etikai és egzisztenciális vitákat gerjeszt az AI jövőjével kapcsolatban.",
-      "importance": 5
+      "title": "Az Apple Pay elindul Indiában",
+      "summary": "Az Apple Pay szolgáltatás várhatóan elindul Indiában az Axis Bankkal együttműködve, hatalmas piacot nyitva meg a mobilos fizetések számára. Ez az Apple globális terjeszkedésének fontos lépése.",
+      "importance": 4
     },
     {
-      "title": "Az AMD felvásárolja Fei-Fei Li World Labs cégét 8,2 milliárd dollárért",
-      "summary": "Az AMD 8,2 milliárd dollárért felvásárolja Fei-Fei Li neves AI kutató World Labs cégét. Ez a hatalmas akvizíció jelentős mértékben erősíti az AMD pozícióját a mesterséges intelligencia chip- és szoftverpiacon.",
+      "title": "Az Oura felfüggeszti 2,2 milliárd dolláros tőzsdei bevezetését",
+      "summary": "Az okosgyűrűiről ismert Oura vállalat a piaci bizonytalanságokra hivatkozva elhalasztotta 2,2 milliárd dolláros IPO-ját. A döntés a tech piac lassulására utalhat.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Élet alakulhatott ki a Szaturnusz holdján",
-      "summary": "Kutatók szerint a Szaturnusz egyik holdján, az Enceladuson megtelepedhetett az élet, a legújabb adatok ezt valószínűsítik. Ez a felfedezés forradalmasíthatja az idegen élet keresésével kapcsolatos elképzeléseinket.",
-      "importance": 5
+      "title": "Korlátlan ideig működő műholdat fejlesztett egy hallgató",
+      "summary": "Egy stuttgarti hallgató olyan műholdat hozott létre, amely korlátlan ideig képes működni, jelentős innovációt hozva az űrtechnológiába. Ez az áttörés új távlatokat nyithat a hosszútávú űrküldetések előtt.",
+      "importance": 4
     },
     {
-      "title": "A felmelegedő bolygó munkaerőpiaci költségei",
-      "summary": "A klímaváltozás és a felmelegedés jelentős munkaerőpiaci költségekkel jár, mivel a szélsőséges időjárás csökkenti a hatékonyságot és a munkaképességet. Ez komoly gazdasági kihívást jelent világszerte.",
-      "importance": 5
+      "title": "Rákos megbetegedés után hangot visszaadó szemüveget fejleszt a cégalapító",
+      "summary": "Egy cégalapító, aki rák miatt vesztette el a hangját, „hangszemüveget” fejleszt, hogy segítsen a hasonló problémával küzdőkön. Ez az innováció reményt adhat azoknak, akik hangjukat veszítették el.",
+      "importance": 4
     },
     {
-      "title": "Új fejezet a kináz enzimek célzásában a rákgyógyászatban",
-      "summary": "A kináz enzimek célzása a rákgyógyászatban új fejezetet nyit, ígéretes terápiás lehetőségeket kínálva a betegség elleni küzdelemben. Ez áttörést hozhat a személyre szabott onkológiai kezelésekben.",
-      "importance": 5
+      "title": "Az OpenAI bemutatta új, költséghatékony GPT-6.1 Sol modelljét",
+      "summary": "Az OpenAI elindította a GPT-6.1 Sol modellt, mely közel olyan teljesítményű, mint az Astra, de kedvezőbb áron érhető el. Ez a fejlesztés az AI kutatásában és hatékonyságában jelent előrelépést.",
+      "importance": 3
     },
     {
-      "title": "Nagyobb, mint a CRISPR? Útmutató a legújabb génszerkesztőkhöz",
-      "summary": "A CRISPR-en túlmutató, új génszerkesztő technológiák ígéretesek a genetikai betegségek gyógyításában. Ez a terület folyamatosan fejlődik, újabb és hatékonyabb eszközöket kínálva a tudománynak.",
-      "importance": 5
+      "title": "Az OpenAI távol marad az AI-ügynökök szabályozására irányuló iparági erőfeszítésektől",
+      "summary": "Az OpenAI nem vesz részt az Nvidia vezette, a \"csaló\" AI-ügynökök elleni iparági kezdeményezésben. Ez kérdéseket vet fel az AI etikus fejlesztésével és a technológiai felelősséggel kapcsolatban.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Úszósapkabotrány: a magyarok hibáztak, az óvást is elszúrták",
-      "summary": "Egy úszósapkabotrányban az európai szövetség szerint a magyar csapat hibázott a sapkákkal, ráadásul az óvást is rosszul nyújtották be. Ez sportszakmai és szervezési hiányosságokra világít rá.",
+      "title": "A Manchester Cityt bűnösnek találták pénzügyi szabálysértésekben",
+      "summary": "A Manchester City futballklubot több vádpontban is bűnösnek találták „ál” szerződések és félrevezető könyvelés miatt. Az ítélet komolyan befolyásolhatja a klub és az angol bajnokság hitelességét.",
+      "importance": 5
+    },
+    {
+      "title": "Kudarc Székesfehérváron: két vevőjelöltet is elbukott a focicsapat",
+      "summary": "Másfél hónap alatt a székesfehérvári futballklubra jelentkező mindkét potenciális vevőjelölt visszalépett. Ez a helyzet bizonytalanságot szül a klub jövője körül.",
       "importance": 3
     },
     {
-      "title": "Graeme Dott snooker világbajnokot gyermekbántalmazás miatt ítélték el",
-      "summary": "Graeme Dott, korábbi snooker világbajnokot hét év börtönre ítélték gyermekek szexuális bántalmazása miatt. Az eset sokkolta a sportvilágot és a közvéleményt.",
-      "importance": 4
+      "title": "Lőrincz Viktória feljelentést tett egy 1,8 milliárdos szerződés miatt",
+      "summary": "Lőrincz Viktória egy 1,8 milliárd forintos szerződéssel kapcsolatban tett feljelentést, melyet Navracsics Tibor árnyékra vetődésnek minősített. Az ügy a sportfinanszírozás átláthatóságával kapcsolatos kérdéseket vet fel.",
+      "importance": 3
+    },
+    {
+      "title": "Argentin befektetők projektje a zalaegerszegi fociban",
+      "summary": "Argentin befektetők projektje működik a zalaegerszegi fociban, amely „jelenleg nincs más opció” mottóval fut. Ez a kezdeményezés egyedi megközelítést képvisel a magyar futballfinanszírozásban.",
+      "importance": 2
     }
   ]
 }

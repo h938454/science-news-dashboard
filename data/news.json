@@ -1,170 +1,246 @@
 {
-  "Telex": [],
+  "Telex": [
+    {
+      "title": "Court orders arrest of former Orbán-era minister",
+      "link": "https://telex.hu/english/2026/09/30/court-orders-arrest-of-former-orban-era-minister",
+      "summary": "The KDNP-delegated MP and former minister of national development is suspected of accepting bribes while in office. The court has ordered a thirty-day detention, which Seszták and his attorney have appealed."
+    },
+    {
+      "title": "Baka András visszadobta a kötelező orvosi kamarai tagságot visszaállító törvénytervezetet",
+      "link": "https://telex.hu/belfold/2026/09/30/baka-andras-kotelezo-orvosi-kamarai-tagsagot-visszaallito-torvenytervezet-visszakuldes-megfontolas",
+      "summary": "A céljával egyetért, a kamarai tisztségviselők választásának törvényi korlátozásával viszont nem, ezért megfontolásra visszaküldte az Országgyűlésnek."
+    },
+    {
+      "title": "Balesetben meghalt a Recirquel Társulat egyik tagja",
+      "link": "https://telex.hu/karakter/kultura/2026/09/30/kozuti-balesetben-meghalt-nagy-ferenc-recirquel-tarsulat-tagja",
+      "summary": "Nagy Ferenc cirkuszművész a Recirquel Walk My World című produkciójának is a szereplője volt."
+    },
+    {
+      "title": "A legfelsőbb bíróság ismét rábólintott, hogy a Trump-kormány harmadik országokba deportálhasson bevándorlókat",
+      "link": "https://telex.hu/kulfold/2026/09/30/amerikai-legfelsobb-birosag-trump-kormany-migransok-deportalasi-program",
+      "summary": "A peres eljárás még nem zárult le véglegesen, de a mostani határozattal ideiglenesen folytatódhatnak a kitoloncolások."
+    },
+    {
+      "title": "Elrendelte a bíróság Seszták Miklós letartóztatását",
+      "link": "https://telex.hu/belfold/2026/09/30/sesztak-miklo-letartoztatas-volanbusz-ugy-nvvh-torvenyszek",
+      "summary": "A KDNP országgyűlési képviselőjét, volt nemzeti fejlesztési minisztert hivatali vesztegetés elfogadásával gyanúsítják. A bíróság 30 napra rendelte el a letartóztatását, a végzés ellen Seszták és védője fellebbezett."
+    },
+    {
+      "title": "Indítványozta az ügyészség Hankó Balázs letartóztatását",
+      "link": "https://telex.hu/belfold/2026/09/30/hanlo-balazs-elozetes-letartoztatas-ugyeszseg-dontes-nka",
+      "summary": "A letartóztatás elrendeléséről a Kecskeméti Járásbíróság nyomozási bírája október 1-jén dönt."
+    },
+    {
+      "title": "Garancsi István lemondott a Magyar Természetjáró Szövetség éléről",
+      "link": "https://telex.hu/belfold/2026/09/30/garancsi-istvan-magyar-termeszetjaro-szovetseg-elnokseg-lemondas",
+      "summary": "Vele együtt az MTSZ teljes elnöksége visszaadta mandátumát."
+    },
+    {
+      "title": "1991-ben gyilkolták meg az idős paloznaki plébánost, az ügyben most 35 év után emelt vádat a főügyészség",
+      "link": "https://telex.hu/belfold/2026/09/30/35-evvel-ezelotti-emberoles-vademeles-paloznaki-plebanos-fougyeszseg",
+      "summary": "A paloznaki plébános ügye sokáig a legrégibb felderítetlen magyarországi emberölések közé tartozott."
+    },
+    {
+      "title": "185 milliárd forintból, részben uniós támogatásból fejleszti a villamosenergia-hálózatot az MVM",
+      "link": "https://telex.hu/gazdasag/2026/09/30/mvm-csoport-185-milliard-forint-fejlesztes-villamosenergia-halozat",
+      "summary": "A fejlesztés jelentős mértékben javítja majd a hálózat rugalmasságát és befogadóképességét."
+    },
+    {
+      "title": "Letartóztatták a férfit, aki a legnagyobb aszály idején gyújtogatott Szeged külterületén, aztán az elfogásáig még ötvenszer megyeszerte",
+      "link": "https://telex.hu/belfold/2026/09/30/szarazsag-aszaly-szeged-csongrad-csanad-megye-gyujtogatas-tuz-letartoztatas",
+      "summary": "A sorozatos gyújtogató letartóztatását egy hónapra rendelte el a bíróság."
+    },
+    {
+      "title": "Mostantól nem kell külön fizetniük a készpénzfelvételért a revolutosoknak az Erste automatáinál",
+      "link": "https://telex.hu/gazdasag/2026/09/30/erste-bank-atm-revolut-kartya-keszpenzfelvetel-dij-megszuntetes",
+      "summary": "Más fintechek (például a Wise vagy az N26) ügyfeleinek viszont továbbra is fizetniük kell majd."
+    },
+    {
+      "title": "Arte: Datacentres in Europe – The hidden cost of digital progress?",
+      "link": "https://telex.hu/english/2026/09/30/arte-ai-data-center-protest-eu",
+      "summary": "As AI development supercharges its expansion, the EU aims to at least triple its data centre capacity by the end of the decade."
+    },
+    {
+      "title": "Lakásában lőtték agyon Ilijan Filipovot, Bulgária legrégebbi fociklubjának tulajdonosát",
+      "link": "https://telex.hu/kulfold/2026/09/30/lakasaban-lottek-agyon-ilijan-filipovot-bulgaria-legregebbi-fociklubjanak-tulajdonosat",
+      "summary": "A gyilkosság hajnali 1 óra körül történt a Bulgária középső részén fekvő Plovdivban, a bolgár üzletember ottani lakásában."
+    },
+    {
+      "title": "Arte: Európa-szerte egyre többen tiltakoznak az egyre szaporodó adatközpontok ellen",
+      "link": "https://telex.hu/kulfold/2026/09/30/arte-mi-mesterseges-intelligencia-szerverpark-adatkozpont-tiltakozas-eu",
+      "summary": "Közben az EU megháromszorozná a kapacitásait az évtized végéig."
+    },
+    {
+      "title": "A várandósság alatt is érdemes felvenni a Covid és influenza elleni védőoltásokat, állítják magyar kutatók",
+      "link": "https://telex.hu/techtud/2026/09/30/a-varandossag-alatt-erdemes-felvenni-covid-influenza-elleni-vedooltasokat-magyar-kutatok",
+      "summary": "A kutatók egereken végzett vizsgálata szerint míg a vírusfertőzést utánzó kezelés autizmusra jellemző viselkedést idézett elő az egérkölykökben, a vakcinák hatására csak enyhe és átmeneti eltérések jelentkeztek."
+    }
+  ],
   "Portfolio": [],
   "444": [
     {
-      "title": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-      "link": "https://444.hu/2026/09/30/megszuntetik-a-magyar-nemzeti-muzeum-kozgyujtemenyi-kozpontot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Tarr Zoltán szerint „a múzeumokról ott kell dönteni, ahol a gyűjtemény, a tudás és a felelősség van: magukban az intézményekben”."
+      "title": "Hankó Balázs és társa letartóztatását indítványozták",
+      "link": "https://444.hu/2026/09/30/hanko-balazs-es-tarsa-letartoztatasat-inditvanyoztak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "„Mert a gyanúsítottak kiterjedt kapcsolatrendszere miatt fennáll a szökés, elrejtőzés veszélye, és megalapozottan lehet tartani az eljárás jogellenes befolyásolásától.”"
     },
     {
-      "title": "Úgy hápog, mint egy titkos kampányfinanszírozás",
-      "link": "https://444.hu/2026/09/30/ugy-hapog-mint-egy-titkos-kampanyfinanszirozas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ha fideszes politikusok a párt választási győzelmét szem előtt tartva osztanak közpénzt az általuk létrehozott titkos kasszából, azt nehéz nem annak nevezni, ami."
+      "title": "Nem csak verekedés, az utasok szerint késelés is lehetett a pilóták között a Szaúd-Arábiában landoló gépen",
+      "link": "https://444.hu/2026/09/30/nem-csak-verekedes-az-utasok-szerint-keseles-is-lehetett-a-pilotak-kozott-a-szaud-arabiaban-landolo-gepen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az utasszállító repülés közben kevesebb mint két perc alatt 17 ezer lábnyit zuhant."
     },
     {
-      "title": "Nem lesz Szolnokon kínai akkugyár",
-      "link": "https://444.hu/2026/09/29/nem-lesz-szolnokon-kinai-akkugyar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A beruházó KunlunChem Hungary tiszteletben tartja a helyiek akaratát, nem építi meg az elektrolitüzemet."
+      "title": "Letartóztatták Seszták Miklóst",
+      "link": "https://444.hu/2026/09/30/magyar-peter-bejelentette-hogy-letartoztattak-sesztak-miklost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az NVVH azt írja: folytatják a megkezdett munkát, további nyomozati cselekmények várhatók. A védelem vitatta az őrizetbe vétel és az eljárás jogszerűségét."
     },
     {
-      "title": "Jövő nyárig megnyílik az Európai Ügyészség magyar irodája",
-      "link": "https://444.hu/2026/09/29/jovo-nyarig-megnyilik-az-europai-ugyeszseg-magyar-irodaja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az irodában tíz ügyész vizsgálja majd az uniós pénzekkel kapcsolatos csalásokat és korrupciót."
+      "title": "Enyhítették az antifa-ügy vádlottjainak elsőfokú ítéletét",
+      "link": "https://444.hu/2026/09/30/enyhitettek-az-antifa-ugy-vadlottjainak-elsofoku-iteletet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A német Maja T.-t bűnösnek találták, de az elsőfokú ítéletet enyhítve hét év szabadságvesztést kapott."
     },
     {
-      "title": "Nagy szégyenfolt a Manchester City ügye, és az angol bajnokság hitelessége is múlik azon, hogy mekkora büntetést kap a klub",
-      "link": "https://444.hu/2026/09/29/nagy-szegyenfolt-a-manchester-city-ugye-es-az-angol-bajnoksag-hitelessege-is-mulik-azon-hogy-mekkora-buntetest-kap-a-klub?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Manchester Cityt több mint száz vádpontban marasztalták el, de a büntetésről még nincs döntés. Az ügy nemcsak a City jövőjéről, hanem korábbi bajnoki címekről, a riválisok elmaradt bevételeiről és végső soron az egész Premier League megítéléséről is szól."
+      "title": "Az EU bírósága elutasította a kekvás egyetemek keresetét",
+      "link": "https://444.hu/2026/09/30/az-eu-birosaga-elutasitotta-a-kekvas-egyetemek-keresetet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A modellváltó egyetemek arról próbálták meggyőzni a luxembourgi bírákat, hogy ők maguk nem sértettek jogállami elveket, és jár nekik az uniós pénz. Nem sikerült."
     },
     {
-      "title": "Rendkívüli közgyűlést hívott össze október végére a NER-rel összenőtt 4iG, új vezetőket is választanak",
-      "link": "https://444.hu/2026/09/29/rendkivuli-kozgyulest-hivott-ossze-oktober-vegere-a-ner-rel-osszenott-4ig-uj-vezetoket-is-valasztanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az idei javadalmazási politika módosítása is napirendre kerül."
+      "title": "Befejeződött az amerikai csapatok kivonása Irakból",
+      "link": "https://444.hu/2026/09/30/befejezodott-az-amerikai-csapatok-kivonasa-irakbol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az Egyesült Államok csapatai 2003-ban vonultak be először Irakba."
     },
     {
-      "title": "Közel 120 milliárd forintot kell elutalnia Kapitány Istvánnak a rezsicsökkentett energiáért a szolgáltatóknak a hónap végéig",
-      "link": "https://444.hu/2026/09/29/kozel-120-milliard-forintot-kell-elutalnia-kapitany-istvannak-a-rezsicsokkentett-energiaert-a-szolgaltatoknak-a-honap-vegeig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ennyibe kerül a harmadik negyedévben a rezsiharc."
+      "title": "12 nő holttestét találták meg a dél-afrikai főváros mellett, válságintézkedéseket vezettek be",
+      "link": "https://444.hu/2026/09/30/12-no-holttestet-talaltak-meg-a-del-afrikai-fovaros-mellett-valsagintezkedeseket-vezettek-be?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A dél-afrikai elnök felszólította a férfiakat, hogy vállaljanak vezető szerepet a nemi alapú erőszak felszámolásában."
     },
     {
-      "title": "„A mai nap sokakat megbillentett, hogy jöjjünk vagy sem” – Őrsi Gergely szabadul, de támogatói így is tüntettek érte",
-      "link": "https://444.hu/2026/09/29/a-mai-nap-sokakat-megbillentett-hogy-jojjunk-vagy-sem-orsi-gergely-szabadul-de-tamogatoi-igy-is-tuntettek-erte?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A pár száz főt megmozgató eseményen Iványi Gábor azt mondta, ami Őrsivel történt, az Széchenyivel, Wesselényivel, Jeremiás prófétával és Jézus Krisztussal is megtörtént. A letartóztatásból szabaduló polgármester pedig azt üzente a résztvevőknek, hogy elvették a makulátlan hírét, de a tenni akarását nem tudták."
+      "title": "Seszták Miklós az egyik leggazdagabb parlamenti képviselő, elképesztő vagyongyarapodásról vallott az évek során",
+      "link": "https://444.hu/2026/09/30/sesztak-miklos-az-egyik-leggazdagabb-parlamenti-kepviselo-elkepeszto-vagyongyarapodasrol-vallott-az-evek-soran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Seszták Miklós pénzügyi vagyona a parlamenti 15 éve alatt 544 százalékkal gyarapodott, pedig már 2012-ben is a második leggazdagabb politikusként ült a parlamentben."
     },
     {
-      "title": "Oroszország jövőre 27 százalékkal növeli a katonai kiadásait",
-      "link": "https://444.hu/2026/09/29/oroszorszag-jovore-27-szazalekkal-noveli-a-katonai-kiadasait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "17 ezer milliárd rubelt, átváltva 66 ezer milliárd forintot szánnak erre a célra. Ehhez adót emelnek és 5000 milliárd rubelnyi hitelt is felvesznek."
+      "title": "Összeverekedtek a pilóták, útvonalat változtatott egy Dubajból Tel-Avivba tartó utasszállító repülőgép",
+      "link": "https://444.hu/2026/09/30/osszeverekedtek-a-pilotak-utvonalat-valtoztatott-egy-dubajbol-tel-avivba-tarto-utasszallito-repulogep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Percekig nem válaszoltak a földi irányítás jelzéseire, és véletlenül vészjelzést is leadtak, emiatt Izraelben géprablástól tartottak."
     },
     {
-      "title": "Hankó Balázst nem fizeti tovább a Semmelweis Egyetem, amíg őrizetben van",
-      "link": "https://444.hu/2026/09/29/hanko-balazst-nem-fizeti-tovabb-a-semmelweis-egyetem-amig-orizetben-van?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "„Igazolt, nem fizetett távollét.”"
+      "title": "Megtalálták a Pilisi Vénuszt",
+      "link": "https://444.hu/2026/09/30/megtalaltak-a-pilisi-venuszt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Egy fémdetektoros kutatás során került elő a Pilisszentiván–Hárs erdő lelőhelyen."
     },
     {
-      "title": "Lemond az Eiffel-tornyot üzemeltető vállalat vezetője, miután egy hindu csoport látogatásának idejére kiparancsolták a női dolgozókat a toronyból",
-      "link": "https://444.hu/2026/09/29/lemond-az-eiffel-tornyot-uzemelteto-vallalat-vezetoje-miutan-egy-hindu-csoport-latogatasanak-idejere-kiparancsoltak-a-noi-dolgozokat-a-toronybol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A csoport sajnálja, ha a kérés „bárkit megsértett volna”."
+      "title": "Ruszin-Szendi szerint 4 milliárd forint közpénzbe került Orbán Gáspár csádi missziója",
+      "link": "https://444.hu/2026/09/30/ruszin-szendi-szerint-4-milliard-forint-kozpenzbe-kerult-orban-gaspar-csadi-misszioja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A honvédelmi miniszter közlése szerint részleteket a nyilvánosság előtt nem mondhat el, mert „az információk egy része nemzetünk biztonsága érdekében nem lehet nyilvános”."
     },
     {
-      "title": "Másfél hónap alatt a futballklubra jelentkező mindkét vevőjelöltet elbukták Székesfehérváron",
-      "link": "https://444.hu/2026/09/29/masfel-honap-alatt-a-futballklubra-jelentkezo-mindket-vevojeloltet-elbuktak-szekesfehervaron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Augusztus közepén kezdtek tárgyalni a korábbi második számú jelölttel, amely most visszalépett. Új pályázatot ír ki a városvezetés."
+      "title": "Ruszin-Szendi: az újdörögdi kézigránát-baleset előtt a katonák jelezték, nem javasolják, hogy a kiképzés résztvevőivel éles kézigránátot dobassanak",
+      "link": "https://444.hu/2026/09/30/ruszin-szendi-az-ujdorogdi-kezigranat-baleset-elott-a-katonak-jeleztek-nem-javasoljak-hogy-a-kikepzes-resztvevoivel-eles-kezigranatot-dobassanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Akkor egy 29 éves kormánytisztviselő sérült meg súlyosan, miután a kezében egy rossz mozdulat miatt a gránát túl hamar működésbe lépett."
     },
     {
-      "title": "Valami nem kerek a brit légibázisnál történt incidensben",
-      "link": "https://444.hu/2026/09/29/valami-nem-kerek-a-brit-legibazisnal-tortent-incidensben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Sok kérdés maradt még megválaszolatlanul a RAF Fairford légibázisnál történtekkel kapcsolatban, bár a szakértők szerint ez nem csoda, hiszen az ügy csak most kezdődik igazán."
+      "title": "Amit a Fideszről tudni kell",
+      "link": "https://444.hu/2026/09/30/amit-a-fideszrol-tudni-kell?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Azt egyetlen kattintással megtudhatjuk, ha felkeressük a párt radikálisan megújult honlapját."
     },
     {
-      "title": "A belső lázongás után vizsgálat indul a Gazdasági Versenyhivatalnál",
-      "link": "https://444.hu/2026/09/29/a-belso-lazongas-utan-vizsgalat-indul-a-gazdasagi-versenyhivatalnal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Gazdasági Versenyhivatal elnöke szervezeti átvilágítást rendelt el, közben az egyik elnökhelyettes lemondott."
+      "title": "Hankó Balázs: 500 métert mentem az utcán, 500 méter alatt öten akartak börtönbe rakni",
+      "link": "https://444.hu/2026/09/30/hanko-balazs-500-metert-mentem-az-utcan-500-meter-alatt-oten-akartak-bortonbe-rakni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Még őrizetbe vétele előtt készített vele a HírTV interjút, ebben elmondta, hogy „itt egy politikai koncepciós eljárásról van szó”, aminek egyik „gyújtópontja” egy „kultúrpolitikai harc”, a másik pedig „egy nagy politikai leszámolás”."
     },
     {
-      "title": "Kósa Lajos és Bánki Erik visszatér a parlamentbe, hála Matolcsy Györgynek",
-      "link": "https://444.hu/2026/09/29/kosa-lajos-es-banki-erik-visszater-a-parlamentbe-hala-matolcsy-gyorgynek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A két volt fideszes képviselőt csütörtökön hallgatja meg az MNB-botrány vizsgálóbizottsága."
+      "title": "Nyilvánosságra hozzák Orbánék kormányüléseinek összefoglalóit",
+      "link": "https://444.hu/2026/09/30/nyilvanossagra-hozzak-orbanek-kormanyuleseinek-osszefoglaloit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az új kormány szerint „a magyar embereknek évek múltán is joga van megismerni egyes döntések hátterét”. És SOROS!"
     }
   ],
   "HVG": [
     {
-      "title": "Több tízmilliárdjába kerülhet az államnak, hogy Orbánék megsegítették Rahimkulovékat a Láng Negyedben",
-      "link": "https://hvg.hu/360/20260930_hvg-lang-negyed-orban-kormany-rahimkulov-mfb",
-      "summary": "Több százmilliárd forintra is rúghat az az összeg, amennyivel az Orbán-kormány elköteleződött a pesti Váci út hatalmas ingatlanprojektjének megvalósítása mellett. Az egyéb ígérvények mellett az állami bank, az MFB 70 milliárd forint értékben jegyzett le a beruházó cég által kibocsátott kötvényekből."
+      "title": "Meghalt Nagy Ferenc, a Recirquel társulatának tagja",
+      "link": "https://hvg.hu/kultura/20260930_kozuti-balesetben-elhunyt-a-recirquel-tarsulatanak-tagja",
+      "summary": "A Karádi-díjas cirkuszművész tavaly óta volt tagja a Recirquelnek. Közlekedési balesetben vesztette életét."
     },
     {
-      "title": "Először lett női miniszterelnöke Marokkónak",
-      "link": "https://hvg.hu/vilag/20260930_marokko-miniszterelnok-kinevezes",
-      "summary": "Fatima ez-Zahra el-Manszúri korábban lakásépítési miniszter volt."
+      "title": "A „történelmi” 2022-es aszály veszteségének duplája lehet idén az Alföldön",
+      "link": "https://hvg.hu/gazdasag/20260930_aszaly-alfold-veszteseg-napraforgo-varakozasok",
+      "summary": "Az extrém aszályban még a napraforgó is rosszul termett. Ahhoz, hogy jövőre jobb legyen a helyzet, februárig kellene 35 centiméternyi eső."
     },
     {
-      "title": "Szigorította a kék villogó használatát a kormány",
-      "link": "https://hvg.hu/itthon/20260930_magyar-kozlony-belugyminiszterium-kormanyrendelet-kek-villogo-szigoritas",
-      "summary": "A korábban kiadott engedélyeket felülvizsgálják, adott esetben pedig vissza is vonhatják."
+      "title": "Hankó Balázs letartóztatását kezdeményezte az ügyészség",
+      "link": "https://hvg.hu/itthon/20260930_hanko-balazs-letartoztatasat-kezdemenyezte-az-ugyeszseg",
+      "summary": "Az indítványról csütörtökön dönt a bíróság."
     },
     {
-      "title": "Orbán utasíthatott az Aranykonvoj-ügyben, csúszik az ügynökakták kiadása – Newscast",
-      "link": "https://hvg.hu/itthon/20260930_orban-utasithatott-az-aranykonvoj-ugyben-csuszik-az-ugynokaktak-kiadasa-newscast",
-      "summary": "Frakcióvita lehet a Tiszában a mentelmi jog intézményének eltörléséből, vizsgálat indult az Operettszínház ügyében, Hankó Balázst őrizetbe vették és ki is hallgatták. Zelenszkij szerint tízezer katona érkezhet Észak-Koreából, Putyin rendeletben növelte a hadsereg létszámát. Ez a Newscast, a HVG hétköznap reggelente jelentkező hírpodcastja."
+      "title": "Elrendelték Seszták Miklós letartóztatását",
+      "link": "https://hvg.hu/itthon/20260930_sesztak-miklos-letartoztatas-budai-kozponti-keruleti-birosag-volanbusz-ugy",
+      "summary": "A volt fejlesztési minisztert, jelenlegi KDNP-s képviselőt a Volánbusz-ügy miatt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vette őrizetbe hétfőn."
     },
     {
-      "title": "Már szerdán dönthetnek Seszták Miklós letartóztatásáról",
-      "link": "https://hvg.hu/itthon/20260929_szerda-dontes-sesztak-miklos-letartoztatas",
-      "summary": "Seszták Miklóst a Volánbusz-ügy miatt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vette őrizetbe hétfőn."
+      "title": "Ezermilliárdos lépések: így vásárol Magyarország",
+      "link": "https://hvg.hu/gazdasag/20260930_bolt-uzlet-kiskereskedelem-statisztika",
+      "summary": "Hosszabb távon kezd magához térni a magyar kiskereskedelem. Tavaly a forgalom összege átlépte a 20 ezer milliárd forintos szintet. Az idén pedig a volument nézve a szektor ledolgozta a többéves hátrányát."
     },
     {
-      "title": "A jövő nyárig megnyílik az Európai Ügyészség magyar irodája",
-      "link": "https://hvg.hu/itthon/20260929_europai-ugyeszseg-magyar-iroda-kovesi",
-      "summary": "Tíz ügyész fogja vizsgálni az uniós pénzekkel kapcsolatos ügyeket, a hatáskörük pedig a 2021. júniusa óta elkövetett bűncselekményekre is kiterjed."
+      "title": "Vége a nagy béremeléseknek Magyarországon, szja-csökkentéssel kompenzálhat a Tisza-kormány",
+      "link": "https://hvg.hu/360/20260930_bertargyalas-vkf-minimalber-garantalt-berminimum-mennyi-lesz-2027-szja-csokkentes",
+      "summary": "Elkezdődtek a tárgyalások a 2027-es minimálbérről és garantált bérminimumról. Bár a felek még nem tették meg tétjeiket, az irány egyértelmű. Jövőre a kormány csökkenti az szja-t, legnagyobb, 6 százalékpontos mértékben a minimálbérnél, cserébe a bruttó minimálbér bőven 10 százalék alatt, a garantált bérminimum még kisebb mértékben nő. A későbbi években 6 százalék körüli béremelési pályára kell berendezkedni az euróhoz vezető úton."
     },
     {
-      "title": "Benjamin Netanjahu titokban tárgyalt az Egyesült Arab Emírségekben",
-      "link": "https://hvg.hu/vilag/20260929_benjamin-netanjahu-titok-targyalas-egyesult-arab-emirsegek",
-      "summary": "Az izraeli miniszterelnök vasárnap utazott az Egyesült Arab Emírségekbe. Az izraeli kormánykritikus média szerint nem pusztán a két ország közötti kapcsolat javításáról tárgyaltak: a Hamász 2023-as terrortámadását megelőző állítólagos figyelmeztetés eltussolásáról lehetett szó."
+      "title": "Bárki átverhető a neten: rémtörténetek a 2 millió forintos kártól a 24 milliósig",
+      "link": "https://hvg.hu/tudomany/20260930_online-atveresek-modszerek-vedekezesi-taktikak-ai-g-data-antivirus",
+      "summary": "Nem csupán a mesterséges, hanem jórészt a természetes intelligencián múlik az internetes és telefonos pénzlenyúlások eredménye. A védekezés időnként egyszerűbb, mint az átlagos felhasználó gondolná, de vannak helyzetek, amikor bezárul a csapda."
     },
     {
-      "title": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-      "link": "https://hvg.hu/itthon/20260929_megszuntetes-magyar-nemzeti-muzeum-kozgyujtemenyi-kozpont",
-      "summary": "Tarr Zoltán szerint a döntési jogkörök visszakerülnek az intézményekhez, a múzeumi dolgozók béreinek rendezésén pedig dolgoznak."
+      "title": "150 ezer forintos bírságot is kaphatnak azok a kutyatulajdonosok, akik nem vesznek részt az ebösszeírásban",
+      "link": "https://hvg.hu/itthon/20260930_150-ezer-forintos-birsag-kutyatulajdonosok-ebosszeiras",
+      "summary": "Minden kutyáról külön adatlapot kell kitölteni, az előző összeírás óta elvesztett állatokról is."
     },
     {
-      "title": "Hankó Balázs: A kulturális programoknak mindig is velejárója volt, hogy oda politikusokat meghívtak",
-      "link": "https://hvg.hu/itthon/20260929_hanko-interju-vadlok-felelni-nepharag-gerjesztes",
-      "summary": "Hankó Balázs még hétfő esti őrizetbe vétele előtt adott interjút a Hír TV-nek az NKA-ügyben betöltött szerepéről."
+      "title": "Európai főügyész: Jövőre Magyarországon is elindulhat az Európai Ügyészség",
+      "link": "https://hvg.hu/itthon/20260930_europai-fougyesz-jovore-magyarorszagon-is-elindulhat-az-europai-ugyeszseg",
+      "summary": "Laura Codruța Kövesi szerint egyes ügyekben akár egy-másfél, illetve két éven belül is megszülethet jogerős ítélet."
     },
     {
-      "title": "Több százan tüntettek Őrsi Gergely mellett",
-      "link": "https://hvg.hu/itthon/20260929_szimpatiatuntetes-orsi-gergely",
-      "summary": "Petíciót indult, hogy a II. kerület polgármestere a hivatalban dolgozhasson."
+      "title": "A volt elnök a Manchester City csalási ügyéről: Nincs olyan büntetés, ami elég súlyos lenne",
+      "link": "https://hvg.hu/sport/20260930_premier-league-manchester-city-csalasi-ugy-david-bernstein-volt-elnok",
+      "summary": "David Bernstein szerint a pénzbüntetést az emírségekbeli tulajdonos simán kifizetné, ezért az a minimum, hogy kizárják a klubot a Premier League-ből."
     },
     {
-      "title": "Mentő karambolozott Budapesten, többen megsérültek",
-      "link": "https://hvg.hu/cegauto/20260929_mento-karambol-budapest",
-      "summary": "Az egyik jármű felborult a balesetben."
+      "title": "Trump hivatalosan is átnevezte a mesterséges intelligenciát",
+      "link": "https://hvg.hu/gazdasag/20260930_trump-mesterseges-intelligencia-szuperintelligencia-rendelet",
+      "summary": "Elnöki rendelet kötelezi az amerikai minisztériumokat és intézményeket, hogy a mesterséges intelligencia helyett a szuperintelligencia kifejezést használják. A terület szigorúbb szabályozása nincs terítéken."
     },
     {
-      "title": "A Semmelweis Egyetem szűkszavúan reagált Hankó Balázs őrizetbe vételére",
-      "link": "https://hvg.hu/itthon/20260929_semmelweis-egyetem-hanko-balazs-orizet",
-      "summary": "Az intézményben a fideszes politikusnak két pozíciója is van."
+      "title": "Eldőlt: mégsem épít akkugyárat a KunlunChem",
+      "link": "https://hvg.hu/gazdasag/20260930_kunlunchem-szolnok-elektrolit-megsem-lesz-gyar",
+      "summary": "Miután a szolnoki közgyűlés visszavonta az elvi támogatást, a kínai cég bejelentette, hogy nem építi fel a tervezett elektrolitüzemet."
     },
     {
-      "title": "Korlátlan ideig működő műholdat készített egy stuttgarti hallgató",
-      "link": "https://hvg.hu/tudomany/20260929_muhold-ionhajtomu-fold-legkori-ellenallas",
-      "summary": "Újragondolta a plazmahajtóművek felépítését Francesco Romano, a Stuttgarti Egyetem doktorandusz hallgatója. Az adatok szerint a szerkezete 190-250 km-es magasságban tudna korlátlan ideig működni."
+      "title": "Egy évvel csökkentették az antifa támadásokkal vádolt Maja T. börtönbüntetését",
+      "link": "https://hvg.hu/itthon/20260930_maja-t-bortonbuntetes-masodfok-budapest-antifa",
+      "summary": "A negyedrendű vádlottat hét évre ítélték a másodfokú bíróságon."
     },
     {
-      "title": "Az összes vádpontban bűnösnek találták a Manchester Cityt, jöhet a büntetés",
-      "link": "https://hvg.hu/sport/20260929_manchester-city-itelet-bunos-vizsgalat",
-      "summary": "A klub ártatlannak tartja magát, és fellebbezni fog a döntés ellen."
+      "title": "Harmincöt éve ölték meg a paloznaki plébánost, most emeltek vádat az ügyben",
+      "link": "https://hvg.hu/itthon/20260930_paloznaki-plebanos-gyilkossag-emberoles-vademeles-ugyeszseg",
+      "summary": "Az elkövetők sokáig azt hitték, hogy megúszták, de a korábban rögzített ujjnyomat ismételt vizsgálata és egy európai szintű nyomozás eredménye lebuktatta a jelenleg 55 és 57 éves külföldi testvérpárt."
     },
     {
-      "title": "Alkotmánybíróság: alkotmányellenes volt a magát kirgiz menekültnek kiadó újságíró elítélése",
-      "link": "https://hvg.hu/itthon/20260929_alkotmanybirosag-alkotmanyellenes-kirgiz-menekult-ujsagiro-elitel",
-      "summary": "Nyilas Gergely a menekültválság idején a déli határon kialakított menekülttáborokból akart tudósítani, amit csak a hatóságokat megtévesztve tudott megtenni. Az ügyében eljáró bíróságok nem mérlegelték a sajtószabadság alapjogának szempontjait."
+      "title": "Továbbra is oktatók maradnak az SZFE távozó rektorhelyettesei",
+      "link": "https://hvg.hu/kultura/20260930_szfe-tavozo-rektorhelyettes-oktato-pacskovszki-jozsef-antal-zsolt",
+      "summary": "Az SZFE-es diákok a kormányváltás óta követelték Sepsi Enikő rektor lemondása mellett a két rektorhelyettesét is."
     }
   ],
   "BBC": [
     {
+      "title": "Move to rejoin EU among options for UK, says Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+    },
+    {
       "title": "One of the five men arrested near RAF Fairford called 999 himself",
       "link": "https://www.bbc.co.uk/news/articles/cqn8m342rgk9o?at_medium=RSS&at_campaign=rss",
       "summary": "He made the call almost an hour before a farmer also called police after seeing men in balaclavas."
-    },
-    {
-      "title": "How did the RAF Fairford incident go from 'suspected bomb plot' to police bail?",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kelx4epwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Detectives are entering a vital stage of the investigation, with a number of options still open, the BBC's Daniel Sandford writes."
     },
     {
       "title": "Household energy bills forecast to see biggest rise in four years",
@@ -172,19 +248,34 @@
       "summary": "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast."
     },
     {
-      "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-      "link": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-      "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
+      "title": "Sussexes condemn 'reckless intrusion' after men spotted near Archie and Lilibet's school",
+      "link": "https://www.bbc.co.uk/news/articles/cw0kl62zn0p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the men seen outside the UK school attended by the children is understood to be an international press photographer."
     },
     {
-      "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
-      "link": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
+      "title": "Man City charges leave football fans questioning legitimacy of team's achievements",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Sport analyses Manchester City's dominance of English football during the period in which they were breaching financial rules."
     },
     {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits."
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack."
+    },
+    {
+      "title": "Police seek charges against 20 firms and 54 people over Grenfell Tower fire",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyz5v5zdpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The force is seeking charges against 54 individuals and 20 companies over the 2017 tower block fire that killed 72 people."
+    },
+    {
+      "title": "Greggs to shut four factories and cut 740 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company says it needs to \"keep evolving alongside changing customer expectations\"."
+    },
+    {
+      "title": "Regulating AI 'not the right place to start' says Bailey",
+      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says."
     },
     {
       "title": "'Mum sent them £140,000': How to spot the signs a loved one is being scammed",
@@ -192,44 +283,29 @@
       "summary": "Helen discovered her mum was in the grip of a romance scam - here's how she found out and broke her free."
     },
     {
-      "title": "The intricate web Man City spun to con the Premier League",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c65y51l3gzq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 40-page document which confirmed Manchester City were found guilty of inflating sponsorship income makes fascinating reading. Here's what it sets out."
+      "title": "Singapore launches matchmaking service for government workers",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
     },
     {
-      "title": "Village team triumphs in FA Cup row replay",
-      "link": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The controversial replay follows the FA ruling a referee had made a mistake in the initial match."
+      "title": "Hidden habits that make your social anxiety worse and how to break them",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
+      "summary": "Social anxiety is more common than many think. Here's what you need to know about the condition."
+    },
+    {
+      "title": "What we know about Cornell University frat house rape investigation",
+      "link": "https://www.bbc.co.uk/news/articles/cmpq0r1ljpqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman alleges she was drugged and raped at a fraternity house at the university two years ago."
+    },
+    {
+      "title": "People troll my DIY but they just spur me on",
+      "link": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain."
     },
     {
       "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
       "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks."
-    },
-    {
-      "title": "Huel ad banned for suggesting its products could replace all conventional food",
-      "link": "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\"."
-    },
-    {
-      "title": "Antisemitism on the rise at universities, charity warns",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk54r61yldo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Community Security Trust says reported incidents are \"substantially higher\" than before the war in Gaza began."
-    },
-    {
-      "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-      "link": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
-    },
-    {
-      "title": "Five takeaways from Andy Burnham's Labour conference speech",
-      "link": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
-    },
-    {
-      "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-      "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
     }
   ],
   "TechCrunch": [
@@ -309,81 +385,5 @@
       "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes."
     }
   ],
-  "Nature": [
-    {
-      "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
-      "link": "https://www.nature.com/articles/s41586-026-11083-5",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11083-5\">doi:10.1038/s41586-026-11083-5</a></p>Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion"
-    },
-    {
-      "title": "Strange and beautiful creatures spotted on the <i>Challenger</i> expedition",
-      "link": "https://www.nature.com/articles/d41586-026-02972-w",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02972-w\">doi:10.1038/d41586-026-02972-w</a></p>A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive."
-    },
-    {
-      "title": "PhD training should encourage ethical dissent",
-      "link": "https://www.nature.com/articles/d41586-026-03053-8",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03053-8\">doi:10.1038/d41586-026-03053-8</a></p>PhD training should encourage ethical dissent"
-    },
-    {
-      "title": "Biodiversity protection must include language preservation",
-      "link": "https://www.nature.com/articles/d41586-026-03056-5",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03056-5\">doi:10.1038/d41586-026-03056-5</a></p>Biodiversity protection must include language preservation"
-    },
-    {
-      "title": "Emissions after the Paris accord made Europe’s heatwaves more severe",
-      "link": "https://www.nature.com/articles/d41586-026-03035-w",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03035-w\">doi:10.1038/d41586-026-03035-w</a></p>A heatwave in 2025 would have been one-third of a degree cooler without the greenhouse gases released since 2015."
-    },
-    {
-      "title": "Patents alone won’t unlock critical-mineral supply chains",
-      "link": "https://www.nature.com/articles/d41586-026-03054-7",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03054-7\">doi:10.1038/d41586-026-03054-7</a></p>Patents alone won’t unlock critical-mineral supply chains"
-    },
-    {
-      "title": "The cost of lost labour on a warming planet",
-      "link": "https://www.nature.com/articles/d41586-026-02971-x",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02971-x\">doi:10.1038/d41586-026-02971-x</a></p>Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce."
-    },
-    {
-      "title": "Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
-      "link": "https://www.nature.com/articles/d41586-026-03055-6",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03055-6\">doi:10.1038/d41586-026-03055-6</a></p>Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced"
-    },
-    {
-      "title": "AI-powered medical devices must be tested in real-world settings",
-      "link": "https://www.nature.com/articles/d41586-026-03046-7",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03046-7\">doi:10.1038/d41586-026-03046-7</a></p>Tools that inform clinical decision-making require rigorous assessments equivalent to processes used to approve drugs and self-driving cars."
-    },
-    {
-      "title": "AI can widen science — but only if institutions stop rewarding the already measurable",
-      "link": "https://www.nature.com/articles/d41586-026-02961-z",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02961-z\">doi:10.1038/d41586-026-02961-z</a></p>Funders, journals and universities must reward the creation of new scientific terrain, not just the efficient mining of old ground."
-    },
-    {
-      "title": "Chinese-owned science journal created to rival the best",
-      "link": "https://www.nature.com/articles/d41586-026-02759-z",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02759-z\">doi:10.1038/d41586-026-02759-z</a></p>Newly-launched Vita is part of a broader government plan to give China a bigger say in what counts as high quality science."
-    },
-    {
-      "title": "A new chapter in targeting kinase enzymes in cancer",
-      "link": "https://www.nature.com/articles/d41586-026-02776-y",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02776-y\">doi:10.1038/d41586-026-02776-y</a></p>Inhibitors of tyrosine kinase enzymes have been a cornerstone in precision cancer treatments. Now, targeted protein degraders could reshape therapeutic options."
-    },
-    {
-      "title": "Lab-grown brain organoids: time for international oversight",
-      "link": "https://www.nature.com/articles/d41586-026-03048-5",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03048-5\">doi:10.1038/d41586-026-03048-5</a></p>Researchers in the field are right to focus on biosafety, ethics and the involvement of patient groups and the public."
-    },
-    {
-      "title": "How to put people first in cyberspace",
-      "link": "https://www.nature.com/articles/d41586-026-02960-0",
-      "summary": "<p>Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02960-0\">doi:10.1038/d41586-026-02960-0</a></p>Digital technologies increasingly shape everyday life. Computer scientist Francine Berman tells Nature that stronger safeguards are required to protect the public interest."
-    },
-    {
-      "title": "Daily briefing: Old hearts ‘de-age’ in younger people",
-      "link": "https://www.nature.com/articles/d41586-026-03089-w",
-      "summary": "<p>Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03089-w\">doi:10.1038/d41586-026-03089-w</a></p>Epigenetic 'clocks' suggest that transplanted organs adjust to the host's biological age. Plus, a new biography of Stephen Hawking and how sham societies are misleading star researchers."
-    }
-  ]
+  "Nature": []
 }

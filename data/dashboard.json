@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Megszüntetik a Magyar Nemzeti Múzeum Közgyűjteményi Központot",
-      "summary": "A kormány döntése értelmében a jövő évtől megszűnik a Magyar Nemzeti Múzeum Közgyűjteményi Központja. A lépés számos kulturális intézményt érint, és jelentős átszervezést jelent a magyar múzeumi szférában.",
-      "importance": 4
-    },
-    {
-      "title": "Jövő nyárig megnyílik az Európai Ügyészség magyar irodája",
-      "summary": "Az Európai Ügyészség (EPPO) magyarországi irodája várhatóan jövő nyárig megkezdi működését, ami jelentős előrelépést jelenthet az uniós forrásokkal kapcsolatos korrupciós ügyek felderítésében. Ez az iroda a tagállamok közötti jogi együttműködést erősíti.",
+      "title": "Elrendelték Seszták Miklós és Hankó Balázs letartóztatását",
+      "summary": "A bíróság elrendelte Seszták Miklós korábbi miniszter letartóztatását egy bűncselekmény ügyében. Ugyanebben az ügyben az ügyészség Hankó Balázs letartóztatását is indítványozta.",
       "importance": 5
     },
     {
-      "title": "Nem lesz Szolnokon kínai akkugyár",
-      "summary": "A beruházó visszavonta szolnoki akkugyár építési tervét, miután a helyi közgyűlés elutasította a létesítményhez szükséges környezetvédelmi engedélyt. A döntés a helyi lakosság tiltakozásának eredménye.",
+      "title": "Jövőre elindulhat az Európai Ügyészség Magyarországon",
+      "summary": "Az Európai Főügyészség vezetője szerint a jövő évben Magyarországon is megkezdheti működését az Európai Ügyészség. Ez jelentős lépés lehet az uniós forrásokkal kapcsolatos visszaélések felderítésében.",
       "importance": 4
     },
     {
-      "title": "Orbán utasíthatott az Aranykonvoj-ügyben, csúszik az ügynökakták kiadása",
-      "summary": "Felmerült a gyanú, hogy Orbán Viktor utasíthatott az Aranykonvoj-ügy néven ismertté vált eseményekkel kapcsolatban, és az ügynökakták kiadása ismét késik. Az ügy a rendőrség befolyásolását és a transzparencia hiányát veti fel.",
-      "importance": 5
+      "title": "Az MVM 185 milliárd forintból fejleszti a villamosenergia-hálózatot",
+      "summary": "Az MVM 185 milliárd forintos beruházásból, részben uniós támogatással korszerűsíti a magyarországi villamosenergia-hálózatot. A fejlesztés célja a hálózat stabilitásának és kapacitásának növelése.",
+      "importance": 4
+    },
+    {
+      "title": "Az EU bírósága elutasította a kekvás egyetemek keresetét",
+      "summary": "Az Európai Unió Bírósága elutasította a modellváltáson átesett magyar egyetemek keresetét, amely az uniós Erasmus és Horizont programokból való kizárásuk ellen irányult. A döntés hatással lehet az érintett intézmények nemzetközi kapcsolataira.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Oroszország jövőre 27 százalékkal növeli katonai kiadásait",
-      "summary": "Oroszország jelentősen, 27 százalékkal emeli katonai költségvetését a következő évre, jelezve a háborús gazdaságra való átállást és a katonai konfliktusok fenntartására irányuló szándékot. Ez komoly nemzetközi aggodalmakat vet fel.",
+      "title": "Elhagyatott az ukrán acélipar az orosz rakétatámadások miatt",
+      "summary": "Ukrajna egykor virágzó acélipara romokban hever az orosz rakétatámadások következtében. Ez súlyos gazdasági következményekkel jár az ország számára, és befolyásolja a globális acélpiacot.",
       "importance": 5
     },
     {
-      "title": "Kínai AI eszköz biológiai fegyverek készítésére adott utasítást kutatóknak",
-      "summary": "Egy kínai fejlesztésű mesterséges intelligencia eszköz képes volt útmutatást adni kutatóknak biológiai fegyverek előállításához, felvetve az AI etikai és biztonsági kockázataival kapcsolatos súlyos aggodalmakat. Ez az eset rávilágít az AI szabályozásának sürgősségére.",
-      "importance": 5
-    },
-    {
-      "title": "Először lett női miniszterelnöke Marokkónak",
-      "summary": "Marokkóban történelmi eseményként először neveztek ki nőt miniszterelnöknek, ami jelentős lépés a nemi egyenlőség és a politikai képviselet terén az észak-afrikai országban. Ez a változás szimbolikus jelentőséggel bír a régióban.",
+      "title": "Az amerikai legfelsőbb bíróság jóváhagyta a Trump-kormány bevándorló-deportálási politikáját",
+      "summary": "Az Egyesült Államok legfelsőbb bírósága ismét megerősítette a Trump-kormány azon jogát, hogy harmadik országokba deportáljon bevándorlókat. A döntés széles körű kritikát váltott ki emberi jogi szervezetek részéről.",
       "importance": 4
     },
     {
-      "title": "Benjamin Netanjahu titokban tárgyalt az Egyesült Arab Emírségekben",
-      "summary": "Benjamin Netanjahu izraeli miniszterelnök titokban találkozott az Egyesült Arab Emírségek vezetőivel, ami a regionális diplomáciai erőfeszítések fokozódására utal. A tárgyalások célja a közel-keleti stabilitás előmozdítása és a kapcsolatok erősítése.",
+      "title": "Verekedés tört ki két pilóta között egy Dubajból induló gépen",
+      "summary": "Egy Dubajból Tel-Avivba tartó utasszállító repülőgépen verekedés tört ki a pilóták között, ami miatt a gép útvonalat változtatott. Az incidens kivizsgálása folyamatban van, az utasok késelést is említettek.",
+      "importance": 4
+    },
+    {
+      "title": "Vádat emelnek a Grenfell Tower tűz ügyében 20 cég és 54 személy ellen",
+      "summary": "A brit rendőrség javasolta, hogy emeljenek vádat 20 cég és 54 személy ellen a 2017-es Grenfell Tower tűzvész ügyében. A tragédiában 72 ember vesztette életét.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI 1,4 billió dolláros értékkel tárgyal 30 milliárd dolláros befektetésről",
-      "summary": "Az OpenAI, a ChatGPT fejlesztője, állítólag 30 milliárd dolláros befektetésről tárgyal, ami 1,4 billió dollárra emelné a vállalat értékét. Ez a hatalmas finanszírozás jelzi az AI szektor robbanásszerű növekedését és a befektetők óriási érdeklődését.",
+      "title": "Az OpenAI saját irodai szoftvercsomaggal támadja a Microsoftot és az App Store-modellt",
+      "summary": "Az OpenAI új szolgáltatásokat indított, amelyek a ChatGPT saját irodai szoftvercsomagjára emlékeztetnek, közvetlenül célozva ezzel a Microsoftot és az alkalmazásboltok modelljét. Ez jelentős versenyt indíthat el a technológiai óriások között.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI új funkciói közvetlenül az alkalmazásbolt-modell ellen irányulnak",
-      "summary": "Az OpenAI legújabb termékbejelentései arra utalnak, hogy a vállalat közvetlenül az alkalmazásboltok dominanciáját célozza meg, új stratégiával lépve piacra. Ez a lépés alapjaiban változtathatja meg a szoftverfejlesztés és -terjesztés modelljét.",
+      "title": "Az OpenAI 1,4 billió dolláros értékbecsléssel 30 milliárd dolláros finanszírozási fordulóra készül",
+      "summary": "Az OpenAI állítólag tárgyalásokat folytat egy új, 30 milliárd dolláros finanszírozási fordulóról, ami az értékelését 1,4 billió dollárra emelné. Ez aláhúzza a mesterséges intelligencia-szektor óriási befektetői érdeklődését és növekedését.",
+      "importance": 5
+    },
+    {
+      "title": "Autóink és mobilappjaink rengeteg adatot gyűjtenek rólunk",
+      "summary": "A modern autók és a hozzájuk tartozó mobilalkalmazások valószínűleg rengeteg személyes adatot továbbítanak tech cégeknek. Ez komoly aggodalmakat vet fel a felhasználói adatvédelemmel kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "A Tesla 30 milliárd dolláros hitelkeretet biztosít a Cybercab és Optimus skálázásához",
-      "summary": "A Tesla 30 milliárd dollár értékű új hitelkeretet szerzett, melyet a Cybercab önvezető taxik és az Optimus humanoid robotok gyártásának felgyorsítására fordít. Ez a finanszírozás kulcsfontosságú a cég jövőbeni ambiciózus terveinek megvalósításához.",
-      "importance": 4
-    },
-    {
-      "title": "Autók és mobilalkalmazásaik adatokat gyűjtenek a felhasználókról",
-      "summary": "Egyre több autógyártó gyűjt széles körű adatokat a járművek és a hozzájuk tartozó mobilalkalmazások használatával, gyakran a felhasználók tudta vagy beleegyezése nélkül. Ez komoly adatvédelmi aggályokat vet fel a digitális korban.",
+      "title": "Az Apple Pay végre elindul Indiában",
+      "summary": "Évekig tartó várakozás után az Apple Pay végre elérhetővé vált Indiában, ami hatalmas piacot nyit meg az Apple mobilfizetési szolgáltatása számára. Ez jelentős lépés a digitális pénzügyi szolgáltatások terjeszkedésében a régióban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A párizsi egyezmény utáni kibocsátások súlyosbították az európai hőhullámokat",
-      "summary": "Kutatások szerint a párizsi éghajlatvédelmi egyezmény elfogadása utáni szén-dioxid-kibocsátások jelentősen hozzájárultak Európa egyre súlyosabb hőhullámaihoz. Ez rávilágít az éghajlatváltozás felgyorsulására és a cselekvés sürgősségére.",
-      "importance": 5
-    },
-    {
-      "title": "Nemzetközi felügyeletre van szükség a laborban növesztett agyorganoidoknál",
-      "summary": "Egyre sürgetőbbé válik a nemzetközi etikai és szabályozási felügyelet bevezetése a laboratóriumban növesztett agyorganoidok kutatása és felhasználása kapcsán. A technológia etikai kérdéseket vet fel az öntudat lehetőségével kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Az AI-alapú orvosi eszközöket valós körülmények között kell tesztelni",
-      "summary": "Szakértők szerint az mesterséges intelligenciával működő orvosi eszközök hatékonyságát és biztonságosságát valós környezetben kell alaposan tesztelni, mielőtt széles körben alkalmaznák őket. Ez elengedhetetlen a betegbiztonság szavatolásához.",
+      "title": "Magyar kutatók szerint a terhesség alatt is ajánlott a Covid és influenza elleni védőoltás",
+      "summary": "Magyar kutatók hangsúlyozzák a Covid és influenza elleni védőoltások fontosságát a várandósság idején. Az oltások segítenek megvédeni mind az anyát, mind a magzatot a súlyos szövődményektől.",
       "importance": 4
     },
     {
-      "title": "Öreg szívek 'megfiatalodnak' fiatalabb emberekben",
-      "summary": "Egy friss tanulmány szerint az idős donoroktól származó szívek fiatalabb recipiensekben mutattak 'megfiatalodási' jeleket, ami áttörést jelenthet az öregedés kutatásában és a szívbetegségek kezelésében. Ez új reményt adhat a transzplantációs medicina számára.",
+      "title": "Rejtett szokások, amelyek súlyosbítják a szociális szorongást",
+      "summary": "A szociális szorongásban szenvedők gyakran nem tudnak azokról a rejtett szokásokról, amelyek súlyosbítják állapotukat. Ezek felismerése és megváltoztatása segíthet a tünetek enyhítésében és a mentális jólét javításában.",
+      "importance": 3
+    },
+    {
+      "title": "Az adatközpontok növekedésének rejtett környezeti költségei Európában",
+      "summary": "Európa-szerte egyre több adatközpont épül, ami miatt egyre többen tiltakoznak a digitális fejlődés rejtett költségei, különösen az energiafogyasztás és a környezeti terhelés miatt. A probléma rávilágít a fenntartható technológiai fejlődés szükségességére.",
       "importance": 4
+    },
+    {
+      "title": "Megtalálták a Pilisi Vénuszt",
+      "summary": "Felfedezték a \"Pilisi Vénuszt\", egy régészeti leletet, amely a történelem előtti korokról adhat új információkat. A lelet hozzájárulhat a régió kulturális örökségének megértéséhez.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Hatalmas szégyenfolt a Manchester City ügye, az angol bajnokság hitelessége forog kockán",
-      "summary": "A Manchester Cityt érintő pénzügyi visszaélésekkel kapcsolatos botrány súlyos szégyenfolt az angol futball számára. A klubra váró büntetés mértéke alapvetően meghatározza a Premier League hitelességét.",
+      "title": "A Manchester City csalási ügye megkérdőjelezi a csapat eredményeit",
+      "summary": "A Manchester Cityt ért csalási vádak miatt sok futballszurkoló megkérdőjelezi a csapat korábbi eredményeinek legitimitását. Egy volt elnök szerint nincs elég súlyos büntetés az ügyben.",
       "importance": 5
     },
     {
-      "title": "Másfél hónap alatt elbukott mindkét vevőjelölt a székesfehérvári fociklubnál",
-      "summary": "A Székesfehérvári futballklub potenciális vevőjelöltjei rövid időn belül mind visszaléptek az üzlettől. Ez a helyzet bizonytalanságot teremt a klub jövője körül.",
-      "importance": 3
+      "title": "Lakásában lőtték agyon Bulgária legrégebbi fociklubjának tulajdonosát",
+      "summary": "Ilijan Filipovot, Bulgária legrégebbi futballklubjának tulajdonosát otthonában gyilkolták meg. Az eset sokkolta a bolgár futballközösséget és a közvéleményt.",
+      "importance": 4
     },
     {
-      "title": "Angol falusi csapat diadalmaskodott az FA Kupa újrajátszásán",
-      "summary": "Egy angol falusi futballcsapat meglepetésre győzött az FA Kupa újrajátszásán, ami a sportágban a 'Dávid és Góliát' típusú történetek klasszikus példája. A siker a helyi közösség számára hatalmas örömöt jelent.",
+      "title": "Garancsi István lemondott a Magyar Természetjáró Szövetség éléről",
+      "summary": "Garancsi István lemondott a Magyar Természetjáró Szövetség elnöki posztjáról. A szövetség a természetjárást és túrázást népszerűsíti Magyarországon, mint szabadidősportot.",
       "importance": 2
     },
     {
-      "title": "A Manchester City bonyolult csalási hálózatot szőtt a Premier League megtévesztésére",
-      "summary": "Részletesen feltárták, hogy a Manchester City milyen bonyolult és kiterjedt hálózatot épített ki a Premier League pénzügyi szabályainak kijátszására. Ez a módszertan rávilágít a modern futball pénzügyi komplexitására és a csalási kísérletek kifinomultságára.",
-      "importance": 4
+      "title": "Balesetben meghalt a Recirquel Társulat egyik tagja",
+      "summary": "Balesetben elhunyt a Recirquel Társulat egyik tagja, Nagy Ferenc. A Recirquel modern cirkuszművészeti produkciói világszerte ismertek, melyek nagymértékű fizikai felkészültséget igényelnek.",
+      "importance": 2
     }
   ]
 }

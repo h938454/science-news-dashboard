@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Megjelent a legmagasabb kockázatú vagyonnyilatkozat-tételre kötelezettek listája, Orbán és Magyar is rajta van",
-      "summary": "Az Integritás Hatóság közzétette azok listáját, akiknek részletes vagyonnyilatkozatot kell tenniük. Orbán Viktor miniszterelnök és Magyar Péter is szerepelnek a kiemelt kockázatú személyek között.",
+      "title": "Benyújtották az ukrán parlamentnek a magyar kisebbség oktatási jogait megerősítő törvényjavaslatot",
+      "summary": "Az ukrán parlament elé került egy törvényjavaslat, amely a magyar kisebbség oktatási jogainak megerősítését célozza. Ez jelentős lépés lehet a két ország kapcsolatában és a kárpátaljai magyarság helyzetének javításában.",
       "importance": 5
     },
     {
-      "title": "Varga Mihály: Személyesen is, de minden kollégám meghívása esetén részt veszünk a vizsgálóbizottsági meghallgatáson",
-      "summary": "Varga Mihály pénzügyminiszter megerősítette, hogy eleget tesz az MNB-botrányt vizsgáló bizottság meghívásának. Hozzátette, hogy kollégái is készek megjelenni a meghallgatásokon.",
-      "importance": 5
-    },
-    {
-      "title": "Magyar Péter bocsánatkérést vár a paptól egyházellenes prédikáció miatt",
-      "summary": "Magyar Péter bocsánatkérést és elhatárolódást vár a katolikus egyháztól egy plébános kijelentései miatt. A pap azt állította, hogy a Tisza Pártra szavazók erkölcsileg romlott társaságot támogatnak.",
+      "title": "Megállapodott a kormány és a főváros a költségvetési vitákban",
+      "summary": "Megállapodás született a kormány és a főváros között a költségvetési kérdésekben. Ez a döntés kulcsfontosságú Budapest pénzügyi stabilitása és a jövőbeni fejlesztések szempontjából.",
       "importance": 4
     },
     {
-      "title": "Uniós jogállamisági misszió érkezhet Magyarországra, Fidesz-kritikával",
-      "summary": "Az Európai Parlament képviselői egy jogállamisági missziót indítanának Magyarországra, amely a Fidesz korábbi kritikáinak kereszttüzébe került. A kormánypárt korábban „hazánk lejáratásának” nevezte az ilyen vizsgálatokat.",
+      "title": "Hiányolják a civil kontrollt az akkugyárak felett",
+      "summary": "A kritikus hangok szerint hiányzik a megfelelő civil kontroll az új akkugyárak felett, különösen az új főhatóság szabályozása kapcsán. Aggodalmak merültek fel a környezetvédelmi és társadalmi hatások átláthatósága miatt.",
       "importance": 4
+    },
+    {
+      "title": "Kárpátaljai menekülteket lakoltattak ki csalás miatt Budapesten",
+      "summary": "A 16. kerületben több kárpátaljai menekültet lakoltattak ki, miután egy albérletcsalás áldozatai lettek. Az eset rávilágít a menekültek sebezhetőségére és a lakhatási problémákra.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Putyin a Nyugatot Kalinyingrád védelmére hivatkozva fenyegeti",
-      "summary": "Vlagyimir Putyin orosz elnök figyelmeztette a Nyugatot, hogy Oroszország bármilyen fegyvert bevethet Kalinyingrád védelmében. Ez a kijelentés növeli a feszültséget Oroszország és a NATO között.",
+      "title": "Ukrán támadás érte Oroszország egyik legnagyobb olajfinomítóját",
+      "summary": "Zelenszkij szerint az ukrán erők sikeresen megtámadták Oroszország egyik legnagyobb olajfinomítóját. Az incidens az orosz-ukrán háború eszkalációját jelzi, célkeresztbe vonva az orosz energia infrastruktúrát.",
       "importance": 5
     },
     {
-      "title": "Két méreginjekcióval sem sikerült végrehajtani egy kivégzést az Egyesült Államokban",
-      "summary": "Az Egyesült Államokban nagy figyelem kísérte egy kivégzés próbáját, amelyet két méreginjekcióval sem sikerült végrehajtani. Az eset felveti a halálbüntetés etikai és végrehajtási kérdéseit.",
+      "title": "Pilóta beszámolója a FlyDubai járaton történt támadásról",
+      "summary": "Egy FlyDubai járat pilótája arról beszélt, hogyan védte meg utasait, miután a másodpilóta rátámadt a pilótafülkében. A rendkívüli esemény rávilágít a légi biztonsági protokollok fontosságára és a pilóták helytállására.",
       "importance": 4
     },
     {
-      "title": "Ukrajna először vetette be saját gyártmányú ballisztikus rakétáját",
-      "summary": "Ukrajna sikeresen bevetette saját gyártmányú ballisztikus rakétáját, ami jelentős lépés az ország védelmi képességeinek erősítésében. Ez a fejlemény befolyásolhatja a háború további alakulását.",
+      "title": "Halálos ítélet alól élte túl a méreginjekciót egy nő",
+      "summary": "Egy halálra ítélt nő kritikus állapotban van, miután túlélt két méreginjekciót. Az eset ritka precedenst teremtett, kérdéseket vetve fel a kivégzési módszerekkel és az igazságszolgáltatással kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Az Egyesült Államok arra figyelmezteti Európát, hogy készüljön üzemanyaghiányra Trump dízelbetiltási fenyegetése miatt",
-      "summary": "Az Egyesült Államok arra szólította fel Európát, hogy készítsen elő üzemanyagkészleteket, miután Donald Trump dízel üzemanyag betiltásával fenyegetőzött. Ez a lépés jelentős gazdasági és energiabiztonsági kihívást jelentene.",
-      "importance": 4
+      "title": "Franciaországi iskolai tiltakozások rázkódtatják a kormányt",
+      "summary": "Franciaországban nagyszabású iskolai tiltakozások zajlanak, amelyek komoly fejfájást okoznak a kormánynak. A demonstrációk társadalmi feszültségeket és oktatási reformokkal kapcsolatos elégedetlenséget jeleznek.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Musk Grok nevű chatbotja állítólag arra biztatta Trumpot, hogy fogja el Venezuela elnökét",
-      "summary": "Elon Musk Grok nevű mesterséges intelligencia chatbotja állítólag azt javasolta Donald Trumpnak, hogy vegye őrizetbe Venezuela elnökét. Az eset az AI etikai dilemmáit és politikai befolyását feszegeti.",
+      "title": "Musk Grok AI chatbotja Trumpnak javasolta Venezuela elnökének elfogását",
+      "summary": "Elon Musk Grok nevű mesterséges intelligencia chatbotja állítólag arra ösztönözte Trumpot, hogy fogja el Venezuela elnökét. Ez az eset komoly etikai és biztonsági aggodalmakat vet fel az AI rendszerek politikai szerepével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI megszakította a kapcsolatot 3 biztonsági kutatóval",
-      "summary": "A Wall Street Journal szerint az OpenAI, a ChatGPT fejlesztője, megvált három biztonsági kutatójától. Ez a lépés kérdéseket vet fel az AI-fejlesztésen belüli biztonsági és etikai prioritásokról.",
+      "title": "Az Epic orvosi szoftveróriás felfüggeszti a fejlesztést biztonsági hibák miatt",
+      "summary": "Az orvosi nyilvántartási rendszereket fejlesztő Epic felfüggesztette termékfejlesztését, hogy súlyos biztonsági hibákat javítson. A hibák potenciálisan veszélyeztethetik a betegek adatait, komoly kockázatot jelentve az egészségügyi adatbiztonságra nézve.",
       "importance": 4
     },
     {
-      "title": "Robotaxi-üzemeltetők bírságot kaphatnak, ha elzárják a mentők útját",
-      "summary": "A robotaxi-üzemeltetők bírságra számíthatnak, ha járműveik akadályozzák a mentőszolgálatok munkáját. Ez a szabályozás a gyorsan fejlődő önvezető technológia biztonsági kérdéseire reflektál.",
+      "title": "Robotaxi üzemeltetők pénzbírságot kaphatnak a segélyszolgálatok akadályozásáért",
+      "summary": "Az önvezető taxik üzemeltetői pénzbírságot kaphatnak, ha járműveik akadályozzák a sürgősségi segélyszolgálatokat. Ez a szabályozás a robotaxik elterjedésével járó közlekedésbiztonsági kihívásokra reagál.",
       "importance": 4
     },
     {
-      "title": "A ChatGPT-vel már ruhákat is felpróbálhatunk virtuálisan",
-      "summary": "A ChatGPT új funkciójával a felhasználók virtuálisan próbálhatnak fel ruhákat, forradalmasítva az online vásárlás élményét. Ez az AI-alkalmazás új lehetőségeket nyit a kiskereskedelemben.",
+      "title": "A ChatGPT virtuálisan lehetővé teszi a ruhapróbát",
+      "summary": "A ChatGPT új funkcióval bővült, amely lehetővé teszi a felhasználók számára, hogy virtuálisan ruhákat próbáljanak fel. Ez az innováció a mesterséges intelligencia és a kiskereskedelem terén nyit új lehetőségeket.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A gyógyszeripar által eltitkolt csodaszerként reklámozzák a peptideket, de a tudomány másként látja",
-      "summary": "A peptideket csodaszerként hirdetik, melyet a gyógyszeripar eltitkol, ám a tudományos konszenzus hiányzik erről. Ez a jelenség rávilágít az egészségügyi tévhitek és a tudományos szkepticizmus fontosságára.",
+      "title": "Reményt keltő taktika a hasnyálmirigyrák megállítására",
+      "summary": "Új, radikális taktikával próbálkoznak a hasnyálmirigyrák előrehaladásának megállítására, amely reményt ad a betegség elleni küzdelemben. Ez az áttörés jelentős előrelépést jelenthet a rákgyógyászatban.",
       "importance": 5
     },
     {
-      "title": "Rekordidő alatt készült el a világ első fejlett geotermikus erőműve",
-      "summary": "Kereken 23 hónap alatt elkészült a világ első továbbfejlesztett geotermikus erőműve, ami áttörést jelent a megújuló energiaforrások hasznosításában. Ez a technológiai vívmány új utakat nyithat a fenntartható energiatermelésben.",
+      "title": "Ígéretes gyógyszer egy 190 millió embert érintő betegségre: az endometriózisra",
+      "summary": "Egy új gyógyszer ígéretes eredményeket mutat az endometriózis kezelésében, amely világszerte 190 millió nőt érint. Ez az előrelépés jelentősen javíthatja az érintettek életminőségét.",
       "importance": 4
     },
     {
-      "title": "Mi történik valójában a nyirokdrenázs szépségvideókban?",
-      "summary": "A népszerű nyirokdrenázs szépségvideók tudományos alapját vizsgálják, rávilágítva a valós hatásokra és a tévhitekre. Az elemzés segít elkülöníteni a megalapozott egészségügyi eljárásokat a marketingfogásoktól.",
+      "title": "Lenyűgöző fosszília mutatja be a dinoszauruszok repüléshez vezető útját",
+      "summary": "Egy lenyűgöző fosszília segít megérteni a dinoszauruszok egyedi útját a repüléshez. A felfedezés új betekintést nyújt az evolúcióba és az ősi fajok alkalmazkodásába.",
       "importance": 4
     },
     {
-      "title": "A Google szerint a SpaceX Starshipnek 1800-szor kell feljutnia az űrbe az űradatközpontok előtt",
-      "summary": "A Google becslése szerint a SpaceX Starship rakétájának 1800 sikeres indításra lenne szüksége, mielőtt űradatközpontokat lehetne felállítani. Ez a távoli jövőbeli terv óriási mérnöki és tudományos kihívásokat rejt.",
+      "title": "Elkészült a világ első továbbfejlesztett geotermikus erőműve alig két év alatt",
+      "summary": "Rekordidő, mindössze 23 hónap alatt elkészült a világ első továbbfejlesztett geotermikus erőműve. Ez a projekt mérföldkő a megújuló energiaforrások fejlesztésében.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Meccs és koncert egyszerre: nagy tömegre számítanak pénteken a Puskás Arénánál",
-      "summary": "Pénteken nagyszabású eseményre, egy labdarúgó-mérkőzésre és egy koncertre is sor kerül a Puskás Arénánál, ami jelentős tömegre számít. A szervezők kiemelt figyelmet fordítanak a biztonsági intézkedésekre.",
+      "title": "Milyen következményekkel járhat a Manchester City pénzügyi ítélete?",
+      "summary": "A Manchester Cityt érintő pénzügyi szabálysértések ügyében hozott ítélet súlyos következményekkel járhat a csapat keretére nézve. Ez alapjaiban rázhatja meg a klub jövőjét és a Premier League erőviszonyait.",
+      "importance": 5
+    },
+    {
+      "title": "A Superbike verseny nélkül maradhat a Balaton Park Circuit",
+      "summary": "A Balaton Park Circuit várhatóan verseny nélkül marad 2027-ben, miután a Superbike sorozat nem jön el. Ez a döntés komoly csapás a magyar motorsportnak és a turisztikai fejlesztéseknek.",
       "importance": 4
-    },
-    {
-      "title": "Chris Mason: Miért fontos Andy Burnham pálfordulása a Manchester City ügyében?",
-      "summary": "Chris Mason elemzi Andy Burnham manchesteri polgármester álláspontjának megváltozását a Manchester City kapcsán. Ez az eset rávilágít a sport és a helyi politika összefonódására.",
-      "importance": 3
-    },
-    {
-      "title": "A brit kormányfői hivatal szerint a Manchester City sem áll a szabályok felett",
-      "summary": "A brit miniszterelnöki hivatal kijelentette, hogy a Manchester City labdarúgóklub sem áll a szabályok felett, reagálva Andy Burnham polgármester korábbi megjegyzéseire. Ez a válasz a sportklubok elszámoltathatóságának kérdését boncolgatja.",
-      "importance": 3
-    },
-    {
-      "title": "Reklámokról: Gyógyszer, autó, farmer – mindegy, csak legyen egy jó nő a hirdetésben?",
-      "summary": "Ez a cikk a reklámok tartalmát és üzeneteit elemzi, felvetve a kérdést, hogy mennyire épülnek a szexuális vonzerőre a termékek értékesítésekor. Bár nem szigorúan sport, a reklámok világa gyakran átfedi a sporteseményeket és a sportolók imázsát.",
-      "importance": 1
     }
   ]
 }

@@ -1,102 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Benyújtották az ukrán parlamentnek a magyar kisebbség oktatási jogait megerősítő törvényjavaslatot",
-      "summary": "Az ukrán parlament elé került egy törvényjavaslat, amely a magyar kisebbség oktatási jogainak megerősítését célozza. Ez jelentős lépés lehet a két ország kapcsolatában és a kárpátaljai magyarság helyzetének javításában.",
+      "title": "Magyar Péter: Az árrésstop tönkreteszi az agráriumot",
+      "summary": "Magyar Péter szerint az árrésstop káros az agráriumnak, ezért meg kell fontolni a kivezetését. Ez a javaslat jelentős gazdaságpolitikai vitát indíthat el.",
       "importance": 5
     },
     {
-      "title": "Megállapodott a kormány és a főváros a költségvetési vitákban",
-      "summary": "Megállapodás született a kormány és a főváros között a költségvetési kérdésekben. Ez a döntés kulcsfontosságú Budapest pénzügyi stabilitása és a jövőbeni fejlesztések szempontjából.",
+      "title": "Az akkugyártás erőltetése nagyobb kockázat, mint hittük",
+      "summary": "Egy elemzés szerint az akkugyártás magyarországi erőltetése gazdaságilag kockázatosabb lehet, mint korábban gondolták. Ez a stratégiai iparág hosszú távú hatásaira hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Hiányolják a civil kontrollt az akkugyárak felett",
-      "summary": "A kritikus hangok szerint hiányzik a megfelelő civil kontroll az új akkugyárak felett, különösen az új főhatóság szabályozása kapcsán. Aggodalmak merültek fel a környezetvédelmi és társadalmi hatások átláthatósága miatt.",
+      "title": "Orbán Balázs parlamenti mandátumáról döntenek a jövő héten",
+      "summary": "A kormánypárti politikus parlamenti mandátuma a jövő heti ülésen kerül napirendre. Döntés születhet arról, hogy megtarthatja-e képviselői helyét.",
       "importance": 4
     },
     {
-      "title": "Kárpátaljai menekülteket lakoltattak ki csalás miatt Budapesten",
-      "summary": "A 16. kerületben több kárpátaljai menekültet lakoltattak ki, miután egy albérletcsalás áldozatai lettek. Az eset rávilágít a menekültek sebezhetőségére és a lakhatási problémákra.",
+      "title": "Feljelentés érkezett a Szerbiának eladott harcjárművek ügyében",
+      "summary": "Ruszin-Szendi Romulusz feljelentést tesz a Szerbiának történt harcjármű-eladások miatt. Az ügy politikai és külpolitikai feszültségeket is okozhat.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Ukrán támadás érte Oroszország egyik legnagyobb olajfinomítóját",
-      "summary": "Zelenszkij szerint az ukrán erők sikeresen megtámadták Oroszország egyik legnagyobb olajfinomítóját. Az incidens az orosz-ukrán háború eszkalációját jelzi, célkeresztbe vonva az orosz energia infrastruktúrát.",
+      "title": "A G7 országok felszabadítják stratégiai olajkészleteiket",
+      "summary": "A G7-országok 100 millió hordó olajat és dízelt szabadítanak fel stratégiai készleteikből, reagálva a globális piac feszültségeire. A lépés célja az energiaellátás stabilizálása és az árak féken tartása.",
       "importance": 5
     },
     {
-      "title": "Pilóta beszámolója a FlyDubai járaton történt támadásról",
-      "summary": "Egy FlyDubai járat pilótája arról beszélt, hogyan védte meg utasait, miután a másodpilóta rátámadt a pilótafülkében. A rendkívüli esemény rávilágít a légi biztonsági protokollok fontosságára és a pilóták helytállására.",
+      "title": "Klicsko szerint drámai a helyzet Kijevben az orosz támadások miatt",
+      "summary": "Vitalij Klicsko, Kijev polgármestere drámai helyzetről számolt be, miután az orosz támadások intenzitása növekedett az ukrán fővárosban. A város súlyos rombolásokkal néz szembe.",
+      "importance": 5
+    },
+    {
+      "title": "Diáktüntetések és rendőri összecsapások Franciaországban",
+      "summary": "Franciaországban országszerte diáktüntetések és rendőri összecsapások zajlanak az oktatási reformok miatt. Az események komoly társadalmi feszültségeket jeleznek.",
       "importance": 4
     },
     {
-      "title": "Halálos ítélet alól élte túl a méreginjekciót egy nő",
-      "summary": "Egy halálra ítélt nő kritikus állapotban van, miután túlélt két méreginjekciót. Az eset ritka precedenst teremtett, kérdéseket vetve fel a kivégzési módszerekkel és az igazságszolgáltatással kapcsolatban.",
+      "title": "Kudarcos kivégzés az Egyesült Államokban: Christa Pike állapota válságos",
+      "summary": "Az Egyesült Államokban egy kudarcos kivégzés után Christa Pike halálraítélt kritikus állapotban van. Ügyvédei szerint eszméletlen és lélegeztetőgépen tartják.",
       "importance": 4
-    },
-    {
-      "title": "Franciaországi iskolai tiltakozások rázkódtatják a kormányt",
-      "summary": "Franciaországban nagyszabású iskolai tiltakozások zajlanak, amelyek komoly fejfájást okoznak a kormánynak. A demonstrációk társadalmi feszültségeket és oktatási reformokkal kapcsolatos elégedetlenséget jeleznek.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Musk Grok AI chatbotja Trumpnak javasolta Venezuela elnökének elfogását",
-      "summary": "Elon Musk Grok nevű mesterséges intelligencia chatbotja állítólag arra ösztönözte Trumpot, hogy fogja el Venezuela elnökét. Ez az eset komoly etikai és biztonsági aggodalmakat vet fel az AI rendszerek politikai szerepével kapcsolatban.",
+      "title": "A Fehér Ház szerint már „szuperintelligenciáról” van szó, nem csak mesterséges intelligenciáról",
+      "summary": "A Fehér Ház új terminológiát vezet be, „szuperintelligenciának” nevezve az AI fejlett formáit. Ez a változás az MI fejlesztésével kapcsolatos kormányzati megközelítés mélyebb átgondolását jelzi.",
       "importance": 5
     },
     {
-      "title": "Az Epic orvosi szoftveróriás felfüggeszti a fejlesztést biztonsági hibák miatt",
-      "summary": "Az orvosi nyilvántartási rendszereket fejlesztő Epic felfüggesztette termékfejlesztését, hogy súlyos biztonsági hibákat javítson. A hibák potenciálisan veszélyeztethetik a betegek adatait, komoly kockázatot jelentve az egészségügyi adatbiztonságra nézve.",
+      "title": "Az Apple szigorítja a macOS adatvédelmi beállításait az MI-ügynökök kockázatai miatt",
+      "summary": "Az Apple megerősíti a macOS teljes lemezhozzáférési (Full Disk Access) vezérlőit, válaszul az AI-ügynökök jelentette új biztonsági kockázatokra. A lépés a felhasználói adatok védelmét szolgálja.",
       "importance": 4
     },
     {
-      "title": "Robotaxi üzemeltetők pénzbírságot kaphatnak a segélyszolgálatok akadályozásáért",
-      "summary": "Az önvezető taxik üzemeltetői pénzbírságot kaphatnak, ha járműveik akadályozzák a sürgősségi segélyszolgálatokat. Ez a szabályozás a robotaxik elterjedésével járó közlekedésbiztonsági kihívásokra reagál.",
+      "title": "Az Epic orvosi szoftvercég leállítja fejlesztéseit a biztonsági hibák javítására",
+      "summary": "Az Epic, a vezető orvosi nyilvántartási szoftveróriás felfüggeszti a termékfejlesztést, hogy sürgősen javítsa a biztonsági réseket. Ezek a hibák súlyosan veszélyeztethetik a betegek adatait.",
       "importance": 4
     },
     {
-      "title": "A ChatGPT virtuálisan lehetővé teszi a ruhapróbát",
-      "summary": "A ChatGPT új funkcióval bővült, amely lehetővé teszi a felhasználók számára, hogy virtuálisan ruhákat próbáljanak fel. Ez az innováció a mesterséges intelligencia és a kiskereskedelem terén nyit új lehetőségeket.",
+      "title": "A Tesla fenntartja elektromos jármű eladási lendületét az amerikai problémák ellenére",
+      "summary": "A Tesla továbbra is növeli elektromos járműveinek eladásait, dacolva az Egyesült Államokban felmerült kihívásokkal. Ez a siker a vállalat stabil piaci pozícióját mutatja.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Reményt keltő taktika a hasnyálmirigyrák megállítására",
-      "summary": "Új, radikális taktikával próbálkoznak a hasnyálmirigyrák előrehaladásának megállítására, amely reményt ad a betegség elleni küzdelemben. Ez az áttörés jelentős előrelépést jelenthet a rákgyógyászatban.",
+      "title": "Ígéretes áttörés a hasnyálmirigyrák kezelésében",
+      "summary": "Egy radikális új taktika reményt adhat a hasnyálmirigyrák megállítására, ami ígéretes fordulatot jelenthet a betegség elleni küzdelemben. Ez jelentős előrelépés lenne az orvostudományban.",
       "importance": 5
-    },
-    {
-      "title": "Ígéretes gyógyszer egy 190 millió embert érintő betegségre: az endometriózisra",
-      "summary": "Egy új gyógyszer ígéretes eredményeket mutat az endometriózis kezelésében, amely világszerte 190 millió nőt érint. Ez az előrelépés jelentősen javíthatja az érintettek életminőségét.",
-      "importance": 4
     },
     {
       "title": "Lenyűgöző fosszília mutatja be a dinoszauruszok repüléshez vezető útját",
-      "summary": "Egy lenyűgöző fosszília segít megérteni a dinoszauruszok egyedi útját a repüléshez. A felfedezés új betekintést nyújt az evolúcióba és az ősi fajok alkalmazkodásába.",
+      "summary": "Egy lenyűgöző fosszília új betekintést nyújt abba, hogyan alakult ki a dinoszauruszoknál a repülés képessége. Ez a felfedezés alapvető fontosságú az evolúciós biológia számára.",
       "importance": 4
     },
     {
-      "title": "Elkészült a világ első továbbfejlesztett geotermikus erőműve alig két év alatt",
-      "summary": "Rekordidő, mindössze 23 hónap alatt elkészült a világ első továbbfejlesztett geotermikus erőműve. Ez a projekt mérföldkő a megújuló energiaforrások fejlesztésében.",
-      "importance": 3
+      "title": "Gyerekkori depresszióra felírt Prozac: egy hibás vizsgálat torzította az adatokat",
+      "summary": "Kiderült, hogy a gyerekkori depresszióra felírt Prozac hatékonyságáról szóló adatok egyetlen hibás orvosi vizsgálat miatt torzultak. Ez rávilágít a kutatási etika és a gyógyszerbiztonság fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "Áttörés az endometriózis kezelésében: ígéretes új gyógyszer",
+      "summary": "Egy új gyógyszer korai ígéretes eredményeket mutat az endometriózis kezelésében, amely 190 millió nőt érint világszerte. Ez nagy előrelépés lehet a 'hiányzó betegség' kezelésében.",
+      "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Milyen következményekkel járhat a Manchester City pénzügyi ítélete?",
-      "summary": "A Manchester Cityt érintő pénzügyi szabálysértések ügyében hozott ítélet súlyos következményekkel járhat a csapat keretére nézve. Ez alapjaiban rázhatja meg a klub jövőjét és a Premier League erőviszonyait.",
-      "importance": 5
-    },
-    {
-      "title": "A Superbike verseny nélkül maradhat a Balaton Park Circuit",
-      "summary": "A Balaton Park Circuit várhatóan verseny nélkül marad 2027-ben, miután a Superbike sorozat nem jön el. Ez a döntés komoly csapás a magyar motorsportnak és a turisztikai fejlesztéseknek.",
-      "importance": 4
-    }
-  ]
+  "sports": []
 }

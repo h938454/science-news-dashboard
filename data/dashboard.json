@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter az árrésstop kivezetését sürgeti az agrárium megmentéséért",
-      "summary": "Magyar Péter szerint az árrésstop tönkreteszi a magyar agráriumot, ezért annak kivezetését sürgeti. A politikus kiemelte, hogy az intézkedés hosszú távon fenntarthatatlan és káros a gazdák számára.",
+      "title": "Matolcsy György nem fogadja el a gyanúsítását az Erste-ügyben",
+      "summary": "Matolcsy György, a Magyar Nemzeti Bank korábbi elnöke nem fogadja el az ellene felhozott gyanúsítást az Erste Bankkal kapcsolatos ügyben, és panaszt nyújtott be ellene. Az ügy a bankkal kötött devizaswap-ügyletekkel kapcsolatos, ami jelentős közérdeklődésre tart számot.",
       "importance": 5
     },
     {
-      "title": "Az akkugyártás erőltetése súlyosabb kockázatokat rejt Magyarország számára",
-      "summary": "Új információk szerint az akkumulátorgyártás magyarországi erőltetése nagyobb gazdasági és környezeti kockázatokat jelent, mint korábban feltételezték. A beruházások fenntarthatóságával kapcsolatos aggodalmak erősödnek.",
+      "title": "Komjáthi Imre lett az MSZP elnöke",
+      "summary": "Az MSZP a párt tisztújító kongresszusán Komjáthi Imrét választotta meg új elnökévé. A választás a párt megújítását célozza a közelmúltbeli választási eredmények után.",
       "importance": 4
     },
     {
-      "title": "Feljelentés érkezett a Szerbiának eladott magyar harcjárművek ügyében",
-      "summary": "Ruszin-Szendi Romulusz vezérezredes feljelentést tesz a Szerbiának eladott harcjárművek kapcsán, amelyek eladását korábban botrány övezte. Az ügy a honvédelmi minisztérium átláthatóságát kérdőjelezi meg.",
+      "title": "A kormány 48,5 milliárd forint értékben hat közlekedési projektet indít",
+      "summary": "A kormány összesen bruttó 48,5 milliárd forint értékben hat új közlekedési projektet indítana el. Ezek a beruházások hozzájárulnak az ország infrastrukturális fejlődéséhez.",
       "importance": 4
     },
     {
-      "title": "Kárpátaljai menekülteket lakoltattak ki Budapesten, átverés áldozatai lettek",
-      "summary": "Kárpátaljai menekültek váltak albérlet-átverés áldozatává, majd kilakoltatták őket a 16. kerületben. Az eset súlyos társadalmi és emberi jogi problémákra hívja fel a figyelmet Magyarországon.",
-      "importance": 3
+      "title": "19 milliárd forintot költene a kormány a Budapest-Bécs/Varsó nagysebességű vasút előkészítésére",
+      "summary": "A kormány 19 milliárd forintot fordítana a Budapestet Béccsel és Varsóval összekötő nagysebességű vasútvonal előkészítő munkálataira. A projekt célja a regionális vasúti összeköttetések javítása és a nemzetközi utazás felgyorsítása.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A G7-országok felszabadítják stratégiai olajkészleteiket",
-      "summary": "A G7-országok 100 millió hordó nyersolajat és dízelt szabadítanak fel stratégiai készleteikből, reagálva egy exporttilalmi fenyegetésre. A lépés célja az energiaárak stabilizálása és a piaci zavarok enyhítése.",
+      "title": "Újabb front nyílhat a közel-keleti háborúban a jemeni hútik ellen",
+      "summary": "A Közel-Keleten újabb front nyílhat a konfliktusban, mivel százezres nagyságrendű hadsereg készülhet Irán által támogatott jemeni húszi lázadók ellen. Ez a fejlemény tovább eszkalálhatja a térségben uralkodó feszültségeket és bizonytalanságot.",
       "importance": 5
     },
     {
-      "title": "Klicsko: Drámai helyzetben van Kijev az orosz támadások miatt",
-      "summary": "Vitalij Klicsko, Kijev polgármestere szerint drámai helyzet alakult ki az ukrán fővárosban az orosz támadások következtében. Az ellenség folyamatosan szétveri Kijevet, súlyos károkat okozva az infrastruktúrában és a lakosság körében.",
+      "title": "Oroszország Kijev második nagyobb hídját is lerombolta",
+      "summary": "Az orosz erők állítólag Kijev második nagyobb hídját is lerombolták, erősítette meg a város polgármestere. A támadás tovább súlyosbítja a főváros infrastruktúrájának állapotát és a humanitárius helyzetet.",
       "importance": 5
     },
     {
-      "title": "Ukrán drónok támadták Oroszország egyik legnagyobb olajfinomítóját",
-      "summary": "Zelenszkij elnök szerint ukrán erők sikeresen támadták Oroszország egyik legnagyobb olajfinomítóját. A stratégiai fontosságú létesítmény elleni csapás célja az orosz hadigépezet finanszírozásának gyengítése.",
+      "title": "Terrorista támadásnak minősítették a Flydubai incidenst, a másodpilótát eltiltották a repüléstől",
+      "summary": "Terrorcselekménynek minősítették a Flydubai járatán történteket, ahol a másodpilótát hazájában korábban már eltiltották a repüléstől. Ez az információ súlyos kérdéseket vet fel a légitársaság biztonsági protokolljaival kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Diáktüntetések és rendőri összecsapások Franciaországban",
-      "summary": "Franciaországban országszerte diáktüntetések zajlanak az oktatási reformok ellen, amelyek során a rendőrség összecsapott a demonstrálókkal. A tiltakozások a társadalmi elégedetlenség növekedését jelzik.",
+      "title": "Észak-Korea ismét ballisztikus rakétát lőtt ki",
+      "summary": "Észak-Korea ismét ballisztikus rakétát lőtt ki, figyelmen kívül hagyva a nemzetközi figyelmeztetéseket. Kim Dzsongun rezsimjének lépése tovább növeli a feszültséget a Koreai-félszigeten és a régióban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta „Múzsával” átszőtt kütyüket fejleszt",
-      "summary": "A Meta olyan új generációs kütyüket tervez, amelyek mesterséges intelligencia (ún. „Múzsa”) alapú funkciókkal lesznek átszőve. Céljuk, hogy a felhasználók intuitívabban és kreatívabban lépjenek interakcióba a technológiával.",
+      "title": "Kína AI-ban való tobzódása, nyugati félelmek",
+      "summary": "Kína robbanásszerűen fejleszti az AI technológiákat, miközben a nyugati világban aggodalmak és félelmek övezik a mesterséges intelligencia lehetséges jövőbeli hatásait. Ez a kettős megközelítés rávilágít a globális AI versenyre és a technológiai fejlődés eltérő kulturális megítélésére.",
+      "importance": 5
+    },
+    {
+      "title": "A Fehér Ház szerint már nem AI, hanem „szuperintelligencia”",
+      "summary": "A Fehér Ház a mesterséges intelligencia fejlesztésének új szakaszát „szuperintelligenciaként” definiálja, hangsúlyozva a technológia egyre fejlettebb képességeit. Ez a terminológiai váltás jelzi az AI jövőjével kapcsolatos növekvő ambíciókat és aggodalmakat is.",
       "importance": 4
     },
     {
-      "title": "Az Apple szigorítja a macOS adatvédelmi kontrolljait az AI-fenyegetések miatt",
-      "summary": "Az Apple bejelentette, hogy az AI-ügynökökkel járó új kockázatok miatt szigorítja a macOS „Teljes Lemezhozzáférés” funkciójának kontrolljait. A változtatás a felhasználói adatok fokozottabb védelmét szolgálja.",
+      "title": "Az Apple szigorítja a macOS hozzáférés-szabályozását az AI kockázatai miatt",
+      "summary": "Az Apple bejelentette, hogy az AI-ügynökök jelentette új kockázatok miatt szigorítja a macOS rendszer „Teljes Lemezhozzáférés” funkciójának ellenőrzését. Ezzel a lépéssel a felhasználói adatok biztonságát és a rendszer integritását kívánják garantálni a mesterséges intelligencia fejlődésével.",
       "importance": 4
     },
     {
-      "title": "A Fehér Ház szerint a mesterséges intelligencia már „szuperintelligencia”",
-      "summary": "A Fehér Ház új terminológiát vezetett be, a mesterséges intelligenciát már „szuperintelligenciának” nevezi. Ez a megfogalmazás a technológia fejlődésének és a hozzá kapcsolódó kormányzati megközelítésnek a változását jelzi.",
-      "importance": 3
-    },
-    {
-      "title": "Sean Parker a zenére fókuszálva építi újjá a Stability AI-t",
-      "summary": "Sean Parker, a zenei ipar ismert alakja, a Stability AI-t a zenére és a generatív zenei technológiákra fókuszálva építi újjá. A lépés jelentős hatással lehet a zeneipar jövőjére és az AI kreatív alkalmazásaira.",
+      "title": "A Meta „Múzsával” átitatott kütyüket tervez",
+      "summary": "A Meta ambiciózus tervei szerint a következő generációs kütyüi „Múzsával” lesznek átitatva, ami valószínűleg egy fejlett AI-asszisztensre utal. A cég célja, hogy az AI-t még mélyebben integrálja a mindennapi technológiai eszközökbe.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Precíz génszerkesztés: Célzottan csak a kívánt sejtekben",
-      "summary": "Kutatók áttörést értek el a génszerkesztésben, lehetővé téve a génmódosítást kizárólag a kívánt sejtekben. Ez a technika forradalmasíthatja a betegségek kezelését, minimalizálva a mellékhatásokat.",
+      "title": "Radikális taktika ad reményt a hasnyálmirigyrák megállítására",
+      "summary": "Új, radikálisnak számító taktika ad reményt a hasnyálmirigyrák kezelésében, amely az egyik legagresszívebb daganatos betegség. A kutatók áttörést érhettek el a betegség terjedésének megakadályozásában és a túlélési esélyek növelésében.",
       "importance": 5
     },
     {
-      "title": "Reménykeltő új taktika a hasnyálmirigyrák megállítására",
-      "summary": "Egy új, radikális kutatási taktika reményt ad a hasnyálmirigyrák megállítására, amely az egyik legagresszívabb daganattípus. A korai eredmények biztatóak a rák elleni küzdelemben.",
+      "title": "Ígéretes gyógyszer a 190 millió embert érintő endometriózisra",
+      "summary": "Egy új gyógyszer ígéretes korai eredményeket mutat az endometriózis kezelésében, amely világszerte 190 millió nőt érintő „kihagyott betegség”. Ez a fejlesztés reményt ad a betegségben szenvedőknek, akik számára jelenleg korlátozottak a hatékony kezelési lehetőségek.",
       "importance": 4
     },
     {
-      "title": "Ígéretes gyógyszer a 190 millió nőt érintő endometriózisra",
-      "summary": "Ígéretes korai eredményeket mutat egy új gyógyszer az endometriózis kezelésében, amely világszerte 190 millió nőt érintő „kihagyott betegség”. A fejlesztés jelentősen javíthatja az érintettek életminőségét.",
+      "title": "Egy hibás vizsgálat torzította a Prozac gyermekeknek való felírását",
+      "summary": "Kiderült, hogy a gyermekek depressziójára gyakran felírt Prozac használatát egyetlen, hibásan elvégzett orvosi vizsgálat torzította. Ez a felfedezés komoly kérdéseket vet fel a gyógyszergyártási gyakorlatok és a klinikai kutatások etikája kapcsán.",
       "importance": 4
     },
     {
-      "title": "Magyar csillagászok extrém törmelékkorongokat vizsgáltak",
-      "summary": "Magyar csillagászok kutattak extrém törmelékkorongokat, amelyek bolygókeletkezési folyamatok kulcsfontosságú elemei. Az eredmények hozzájárulnak az exobolygók kialakulásának megértéséhez.",
-      "importance": 3
+      "title": "Génszerkesztés csak a kívánt sejtekben: új módszer",
+      "summary": "A tudósok új módszert fedeztek fel, amellyel a géneket pontosan a kívánt sejtekben lehet szerkeszteni, elkerülve a nem célzott hatásokat. Ez az áttörés jelentősen javíthatja a génterápiás kezelések pontosságát és biztonságosságát.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Feltámadt a magyar válogatott: 1-0-ra vertük Georgiát",
-      "summary": "A magyar labdarúgó-válogatott hazai pályán 1-0-ra győzött Georgia ellen, lendületet adva a csapatnak a közelgő mérkőzések előtt. A győzelem fontos a szurkolók morálja és a csapat továbbjutási reményei szempontjából.",
+      "title": "A válogatott legyőzte Grúziát, 3. helyen áll a Nemzetek Ligájában",
+      "summary": "A magyar válogatott legyőzte Grúziát a Nemzetek Ligájában, és ezzel a harmadik helyre lépett előre a csoportjában 3 forduló után. Ez a győzelem fontos lépés a csapat számára a további versenyben.",
       "importance": 4
     },
     {
-      "title": "Vizsgálat a Manchester City \"felfújt\" pénzáramlása ügyében",
-      "summary": "Vizsgálat indult annak kiderítésére, hogy a Manchester City \"felfújt\" átigazolási összegei mely más klubokhoz kerültek. Az ügy a labdarúgás pénzügyi átláthatóságával kapcsolatos aggályokat vet fel.",
-      "importance": 4
-    },
-    {
-      "title": "Nincs további kiemelkedő sport hír a listán",
-      "summary": "A rendelkezésre álló hírek között nem szerepel további, kiemelkedő fontosságú sportesemény vagy -fejlemény. Ez a bejegyzés a kért formátum kitöltését szolgálja.",
-      "importance": 1
-    },
-    {
-      "title": "A híradásban nem található negyedik sport vonatkozású tétel",
-      "summary": "A megadott cikkek listája korlátozott számú sporttal kapcsolatos hírt tartalmazott, ezért a negyedik helyre nem választható valódi, releváns sportesemény. Ez egy kiegészítő bejegyzés.",
-      "importance": 1
+      "title": "Marco Rossi: Csányi Sándor megerősítette a bizalmát irántam",
+      "summary": "Marco Rossi, a magyar labdarúgó-válogatott szövetségi kapitánya bejelentette, hogy Csányi Sándor, az MLSZ elnöke megerősítette iránta a bizalmát. Ez a nyilatkozat tisztázza Rossi jövőjét a válogatott élén a közelmúltbeli találgatások után.",
+      "importance": 3
     }
   ]
 }

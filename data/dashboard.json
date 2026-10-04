@@ -1,106 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Világháborús robbanótestet találtak a Szabadság hídnál",
-      "summary": "Második világháborús robbanótestet azonosítottak a Szabadság híd közelében, ami miatt a környéket lezárták és a híd forgalmát is korlátozták. A hatástalanítás ideiglenes fennakadásokat okozott a budapesti közlekedésben és a tömegközlekedésben.",
+      "title": "Medencéket kell elbontani a NER egyik kedvenc nyaralóhelyén Tihanyban",
+      "summary": "A hatóság medencéket bontat el Tihanyban, amelyeket korábban víztározóként tüntettek fel. Ez a lépés egy népszerű üdülőhelyet érint, ahol a NER-hez közel álló érdekeltségek is működnek.",
+      "importance": 5
+    },
+    {
+      "title": "Teljesen kiégett a radostyáni református templom",
+      "summary": "Teljesen kiégett a radostyáni református templom és annak fa harangtornya Borsod vármegyében. A késő barokk épület súlyos károkat szenvedett a tűzben.",
       "importance": 4
     },
     {
-      "title": "Teljesen leégett a radostyáni református templom",
-      "summary": "Radostyánban teljesen lángra kapott és leégett egy késő barokk református templom. Az épület súlyosan károsodott, jelentős kulturális és anyagi veszteséget okozva a helyi közösségnek.",
+      "title": "Második világháborús robbanótesteket találtak Budapesten",
+      "summary": "Második világháborús robbanótesteket találtak Budapesten, a Szabadság híd és a Margit-sziget közelében. A környékeket kiürítették a hatástalanítás idejére, mely fennakadásokat okozott a közlekedésben.",
       "importance": 3
     },
     {
-      "title": "Brüsszelből kér segítséget a Fidesz",
-      "summary": "A Fidesz Brüsszelhez fordult segítségért bizonyos politikai ügyekben. A párt várhatóan az európai intézményektől kér támogatást vagy beavatkozást.",
-      "importance": 4
-    },
-    {
-      "title": "Még mindig áll a vasúti forgalom Hegyeshalom és Bécs között, nehezen szerveződik a pótlás",
-      "summary": "A Hegyeshalom és Bécs közötti vasúti forgalom továbbra is szünetel, ami komoly fennakadásokat okoz a nemzetközi vonatközlekedésben. A pótlóbuszok szervezése nehézségekbe ütközik, utazási késedelmekre kell számítani.",
-      "importance": 4
+      "title": "Kósa Lajos a cimboráinak: „Látom, még szabadlábon vagy!”",
+      "summary": "Kósa Lajos fideszes képviselő baráti társaságban viccelődött azzal, hogy még szabadlábon vannak. A kijelentés a korábbi botrányaira és bírósági ügyeire utalhat, komoly visszhangot váltva ki.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Orosz rakéták és drónok robbantak fel Moldovában",
-      "summary": "Orosz rakéták és drónok csapódtak be, illetve robbantak fel Moldovában. Az incidens tovább növeli a feszültséget a régióban és az Ukrajna elleni orosz invázió határokon átnyúló hatásaira hívja fel a figyelmet.",
-      "importance": 4
-    },
-    {
-      "title": "Oroszország második fontos hidat is eltalált Kijevben",
-      "summary": "Oroszország újabb jelentős hidat bombázott Kijevben, ami komoly károkat és fennakadásokat okozott az ukrán fővárosban. A támadás a kritikus infrastruktúra elleni folyamatos háborús agresszió része.",
+      "title": "Zelenszkij megkettőzi az orosz olajfinomítók elleni támadásokat",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna megkettőzi az orosz olajfinomítók elleni támadásait, válaszul Moszkva új légitámadási doktrínájára. Ez egyértelmű üzenet az orosz megtorló akciókra, és felerősítheti a konfliktust.",
       "importance": 5
     },
     {
-      "title": "OTP-alkalmazott is van a kijevi dróntámadás áldozatai között",
-      "summary": "Egy OTP-alkalmazott is életét vesztette egy orosz dróntámadásban Kijevben, ami mélyen érintette a magyar vállalatot. Az eset rávilágít az Ukrajnában dolgozó külföldi állampolgárok kockázataira.",
+      "title": "A britek fele újra csatlakozna az EU-hoz egy felmérés szerint",
+      "summary": "Egy friss közvélemény-kutatás szerint a britek több mint fele tíz évvel a brexit után újra csatlakozna az Európai Unióhoz. Az eredmények azt mutatják, hogy a lakosság elégedetlen a kilépés gazdasági és társadalmi következményeivel.",
       "importance": 4
     },
     {
-      "title": "Spanyolországban tízezrek tüntetnek a lakhatási válság miatt",
-      "summary": "Spanyolországban több tízezer ember vonult az utcákra, hogy tiltakozzon a súlyosbodó lakhatási válság ellen. A tüntetések rávilágítanak a megfizethető lakhatás hiányára és a növekvő megélhetési költségekre az országban.",
+      "title": "Lemondott Tennessee börtönügyi vezetője egy meghiúsult kivégzés után",
+      "summary": "Tennessee börtönügyi vezetője lemondott Christa Pike meghiúsult kivégzése után, és felfüggesztették az államban az összes kivégzést. Az eset komoly botrányt és vitát váltott ki a halálbüntetés és annak végrehajtása körül.",
+      "importance": 4
+    },
+    {
+      "title": "Tízezrek tüntetnek Spanyolországban a lakhatási válság miatt",
+      "summary": "Több tízezren vonultak utcára Spanyolországban, hogy a súlyos lakhatási válság és a megfizethetetlen albérletárak ellen tiltakozzanak. A tüntetések a növekvő társadalmi feszültségekre és a kormányzati intézkedések iránti elégedetlenségre hívják fel a figyelmet.",
       "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Felmondott az OpenAI egyik biztonsági alkalmazottja, a cég „kultúrája törött” szerinte",
-      "summary": "Az OpenAI egyik kulcsfontosságú biztonsági szakértője távozott a cégtől, állítása szerint a vállalat belső kultúrája „törött”. Ez rávilágít az AI-fejlesztések etikai és biztonsági kihívásaira a vezető mesterséges intelligencia cégénél.",
+      "title": "Egy szövetségi bíró aggályosnak tartja az AI-alapú tömeges megfigyelést",
+      "summary": "Egy amerikai szövetségi bíró \"válogatás nélküli tömeges megfigyelésnek\" nevezte a Flock technológiáját, miközben egy törvényjavaslat is született a szövetségi kormány általi használatának betiltására. Az AI-alapú rendszerek adatvédelmi és etikai aggályokat vetnek fel, komoly vitát generálva a társadalomban.",
       "importance": 5
     },
     {
-      "title": "Az Apple szigorítja a macOS „Teljes Lemezhozzáférés” ellenőrzését az AI-ügynökök új kockázatai miatt",
-      "summary": "Az Apple bejelentette, hogy megerősíti a macOS „Teljes Lemezhozzáférés” funkciójának biztonsági ellenőrzését, reagálva a mesterséges intelligencia alapú ügynökök által jelentett új kockázatokra. Ez a lépés a felhasználói adatok védelmét célozza az AI-technológiák terjedésével szemben.",
+      "title": "Az OpenAI egyik biztonsági dolgozója lemondott, céges kulturális problémákra hivatkozva",
+      "summary": "Az OpenAI egyik biztonsági dolgozója lemondott, azzal vádolva a céget, hogy \"megromlott a kultúrája\" a biztonsági aggályok kezelése terén. Ez az esemény újabb kérdéseket vet fel az AI-fejlesztés etikai és biztonsági vonatkozásaival kapcsolatban a vezető vállalatnál.",
+      "importance": 5
+    },
+    {
+      "title": "Rejtélyes amerikai fegyvereket telepítettek az űrbe",
+      "summary": "Rejtélyes amerikai fegyvereket telepítettek az űrbe, miközben a szakértők találgatják funkciójukat és céljaikat. A lépés új szintre emeli az űr militarizálódásával kapcsolatos aggodalmakat és a nemzetközi feszültségeket a nagyhatalmak között.",
       "importance": 4
     },
     {
-      "title": "„Már nem mesterséges intelligencia, hanem »szuperintelligencia«” – a Fehér Ház szerint",
-      "summary": "A Fehér Ház új terminológiát vezetett be, a mesterséges intelligencia helyett „szuperintelligenciáról” beszél, jelezve a technológia fejlődésének ütemét és potenciális hatásait. Ez a változás a politikai diskurzusban is tükrözi az AI növekvő jelentőségét és az azzal kapcsolatos aggodalmakat.",
+      "title": "Az Apple szigorítja a macOS biztonsági beállításait az AI-ügynökök kockázatai miatt",
+      "summary": "Az Apple szigorítja a macOS \"Teljes Lemezhozzáférés\" vezérlőit, az AI-ügynökök által jelentett új kockázatok miatt. Ez a lépés jelzi, hogy az AI-fejlesztések milyen új biztonsági kihívásokat teremtenek az operációs rendszerek és a személyes adatok védelme számára.",
       "importance": 4
-    },
-    {
-      "title": "A Vessev épített egy elektromos kompot, ami szinte repül",
-      "summary": "A Vessev nevű cég kifejlesztett egy innovatív elektromos kompot, amely hidrodinamikai elvek alapján szinte repül a víz felett, jelentősen csökkentve az utazási időt és az energiafogyasztást. Ez az újítás forradalmasíthatja a tengeri személyszállítást és hozzájárulhat a zöldebb közlekedéshez.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Reményt keltő taktika a hasnyálmirigyrák megállítására",
-      "summary": "Új, radikális taktika mutat ígéretes eredményeket a hasnyálmirigyrák elleni küzdelemben, amely reményt adhat a betegek számára. Ez a felfedezés potenciálisan forradalmasíthatja az egyik legagresszívabb ráktípus kezelését.",
+      "title": "Új technika teszi lehetővé a génszerkesztést csak a kívánt sejtekben",
+      "summary": "A tudósok azon dolgoznak, hogyan lehet a géneket pontosan csak a kívánt sejtekben szerkeszteni, elkerülve a nem célzott módosításokat. Ez az áttörés új lehetőségeket nyithat a célzott terápiák és számos betegség innovatív kezelése terén.",
       "importance": 5
     },
     {
-      "title": "Hogyan szerkeszthetők a gének csak a kívánt sejtekben?",
-      "summary": "A tudósok új módszert dolgoztak ki a gének célzott szerkesztésére, lehetővé téve a beavatkozást kizárólag a kívánt sejtekben. Ez a precíziós génszerkesztési technika forradalmasíthatja a genetikai betegségek terápiáját és a biológiai kutatásokat.",
+      "title": "Radikális taktika ad reményt a hasnyálmirigyrák megállítására",
+      "summary": "Egy radikális taktika reményt ad arra, hogy a hasnyálmirigyrák előrehaladását le lehet állítani, mely a rák egyik legagresszívabb formája. A kutatások új utakat nyitnak a rendkívül nehezen kezelhető rákfajta gyógyításában és a betegek túlélési esélyeinek javításában.",
+      "importance": 5
+    },
+    {
+      "title": "Lenyűgöző fosszília mutatja be a dinoszauruszok repülés felé vezető útját",
+      "summary": "Egy lenyűgöző fosszília bemutatja a dinoszauruszok egyedi útját a repülés felé, új betekintést nyújtva az evolúcióba. A felfedezés segíti a tudósokat abban, hogy jobban megértsék a repülő gerincesek kialakulásának folyamatát.",
       "importance": 4
     },
     {
-      "title": "Lenyűgöző fosszília mutatja be a dinoszauruszok egyedi útját a repülés felé",
-      "summary": "Egy lenyűgöző új fosszília bemutatja a dinoszauruszok fejlődésének egyedi útját, amely a repüléshez vezetett. A felfedezés mélyebb betekintést nyújt a madarak evolúciójába és a dinoszauruszok adaptációs képességeibe.",
-      "importance": 4
-    },
-    {
-      "title": "Az „elhanyagolt betegség”, az endometriózis új gyógyszere ígéretesnek mutatkozik",
-      "summary": "Ígéretesen alakul egy új gyógyszer fejlesztése az endometriózis ellen, egy olyan „elhanyagolt betegség” ellen, amely világszerte 190 millió nőt érint. Ez az áttörés jelentős enyhülést hozhat a krónikus fájdalomtól szenvedő nők számára.",
+      "title": "Ígéretes gyógyszer segíthet a 190 millió nőt érintő endometriózisban",
+      "summary": "Ígéretes korai eredményeket mutat egy új gyógyszer az endometriózis kezelésére, amely világszerte 190 millió nőt érintő \"elmaradt betegség\". Ez reményt ad a krónikus fájdalomtól szenvedőknek, és javíthatja az érintettek életminőségét.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "„Végezzék már ki ezt az embert a szorítóban!” - BAZI NAGY MAGYAR BOXBALHÉ 1. rész: A küzdősportok ura",
-      "summary": "Egy nagy port kavaró magyar boxmérkőzés zajlott, tele drámai pillanatokkal és heves reakciókkal. Az esemény rávilágít a hazai küzdősportok szenvedélyes, de olykor vitatott világára.",
+      "title": "Történelmi vereséget szenvedett el Horvátország az angolok ellen 7-0-ra",
+      "summary": "Horvátország történetének legsúlyosabb vereségét szenvedte el Angliától 7-0-ra egy futballmérkőzésen. Ez az eredmény történelmi mértékű csalódást okozott a horvát futballszurkolóknak és a csapatnak is.",
+      "importance": 5
+    },
+    {
+      "title": "Kevin Sinfield sikeresen teljesített hét ultramaratont egy hét alatt jótékonysági céllal",
+      "summary": "Kevin Sinfield, a legendás sportoló, sikeresen teljesítette azt a jótékonysági kihívást, melynek keretében egy hét alatt hét ultramaratont futott le. Ezzel jelentős összeget gyűjtött össze egy jó ügy érdekében, inspirálva embereket a mozgásra és az adakozásra.",
       "importance": 4
     },
     {
-      "title": "Sinfield hét ultramaratont teljesített egy hét alatt jótékony célból",
-      "summary": "Kevin Sinfield, egy korábbi rögbijátékos, hét ultramaratont futott le egyetlen hét alatt, hatalmas fizikai teljesítményt nyújtva jótékonysági céllal. Az akciójával jelentős összeget gyűjtött össze, és felhívta a figyelmet egy egy fontos ügyre.",
-      "importance": 4
+      "title": "Tyson Fury Donald Trumpot kérte fel a Joshua elleni ringbe vonulásra",
+      "summary": "Tyson Fury, a nehézsúlyú ökölvívó, Donald Trump korábbi amerikai elnököt szeretné, hogy elkísérje őt a ringbe a Joshua elleni mérkőzésén. Ez a szokatlan kérés felkeltette a sport- és politikai média figyelmét, nagy visszhangot keltve.",
+      "importance": 3
     },
     {
-      "title": "Tévén is játszható lesz a legnépszerűbb biliárd",
-      "summary": "A népszerű biliárdjáték hamarosan televíziós platformokon is elérhetővé válik, lehetővé téve a szélesebb közönség számára a digitális sportélményt. Ez a fejlesztés új szórakozási lehetőségeket kínál a sportág kedvelőinek.",
+      "title": "Új speciális búvárszemüveg segíthet a víz alatti biztonságban",
+      "summary": "Egy új, speciális búvárszemüveg fejlesztése ígéretes, amely hasznos és életmentő is lehet a víz alatt. A technológia hozzájárulhat a búvársport biztonságához és élményéhez, különösen a nehéz körülmények között.",
       "importance": 2
     }
   ]

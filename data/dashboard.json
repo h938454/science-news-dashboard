@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Medencéket kell elbontani a NER egyik kedvenc nyaralóhelyén Tihanyban",
-      "summary": "A hatóság medencéket bontat el Tihanyban, amelyeket korábban víztározóként tüntettek fel. Ez a lépés egy népszerű üdülőhelyet érint, ahol a NER-hez közel álló érdekeltségek is működnek.",
+      "title": "Orbán zárt körben ellentmondott Hankó Balázsnak az NKA-ügyben",
+      "summary": "Orbán Viktor miniszterelnök zártkörű megbeszélésen a Nemzeti Kulturális Alap (NKA) körüli botrányról beszélt, lényegesen mást állítva, mint amit Hankó Balázs kulturális államtitkár a nyilvánosság előtt kommunikált. Ez rávilágít a kormányon belüli ellentmondásokra és a kommunikációs stratégia kettősségére.",
       "importance": 5
     },
     {
-      "title": "Teljesen kiégett a radostyáni református templom",
-      "summary": "Teljesen kiégett a radostyáni református templom és annak fa harangtornya Borsod vármegyében. A késő barokk épület súlyos károkat szenvedett a tűzben.",
+      "title": "Magyar Péter szerint 6 százalékponttal nőtt a Tisza Párt előnye a Fideszhez képest",
+      "summary": "Magyar Péter bejelentette, hogy a Tisza Párt és a Fidesz közötti különbség egy hét alatt 6 százalékponttal nőtt a Tisza javára a felmérések szerint. Ez jelentős elmozdulást mutat a magyar belpolitikai erőviszonyokban, különösen a közelgő választások előtt.",
+      "importance": 5
+    },
+    {
+      "title": "A KSH mesés adatai és a kutatók letiltása",
+      "summary": "A Központi Statisztikai Hivatal (KSH) vitatott adatokat közölt, majd letiltotta azokat a kutatókat, akik számon kérték az adatok valóságtartalmát és a módszertani problémákat. Ez komoly aggályokat vet fel a hivatalos statisztikák megbízhatóságával és a tudományos szabadsággal kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Második világháborús robbanótesteket találtak Budapesten",
-      "summary": "Második világháborús robbanótesteket találtak Budapesten, a Szabadság híd és a Margit-sziget közelében. A környékeket kiürítették a hatástalanítás idejére, mely fennakadásokat okozott a közlekedésben.",
-      "importance": 3
-    },
-    {
-      "title": "Kósa Lajos a cimboráinak: „Látom, még szabadlábon vagy!”",
-      "summary": "Kósa Lajos fideszes képviselő baráti társaságban viccelődött azzal, hogy még szabadlábon vannak. A kijelentés a korábbi botrányaira és bírósági ügyeire utalhat, komoly visszhangot váltva ki.",
-      "importance": 3
+      "title": "A nemzeti park megtiltotta a végvágásokat a Börzsöny védett erdeiben",
+      "summary": "A nemzeti park vezetése a Börzsöny védett erdeiben megtiltotta a végvágásokat, azaz az idős fák teljes kiirtását, a természetvédelmi szempontok előtérbe helyezése érdekében. Ez fontos lépés az ökoszisztéma megóvásáért és a biológiai sokféleség fenntartásáért.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij megkettőzi az orosz olajfinomítók elleni támadásokat",
-      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna megkettőzi az orosz olajfinomítók elleni támadásait, válaszul Moszkva új légitámadási doktrínájára. Ez egyértelmű üzenet az orosz megtorló akciókra, és felerősítheti a konfliktust.",
+      "title": "Orosz dróntámadás érte Kijevet, miközben a német kancellár váratlanul látogatott a városba",
+      "summary": "Kijevet újabb orosz dróntámadás érte, amely hidakat is célzott, miközben a német kancellár meglepetésszerű látogatást tett az ukrán fővárosban. Az esemény rávilágít a háború folyamatos intenzitására és a diplomáciai erőfeszítésekre.",
       "importance": 5
     },
     {
-      "title": "A britek fele újra csatlakozna az EU-hoz egy felmérés szerint",
-      "summary": "Egy friss közvélemény-kutatás szerint a britek több mint fele tíz évvel a brexit után újra csatlakozna az Európai Unióhoz. Az eredmények azt mutatják, hogy a lakosság elégedetlen a kilépés gazdasági és társadalmi következményeivel.",
+      "title": "Észak-Korea hiperszonikus rakétát tesztelt",
+      "summary": "Észak-Korea újabb hiperszonikus rakétatesztet hajtott végre, ami tovább növeli a feszültséget a térségben és nemzetközi aggodalmakat vált ki. A lépés az ország fegyverkezési programjának újabb előrehaladását jelzi.",
+      "importance": 5
+    },
+    {
+      "title": "Az EU keleti határán most már az oroszokkal szemben is védekeznek",
+      "summary": "Az Európai Unió keleti határának védelme új dimenzióba lépett: a migrációs nyomás mellett most már az Oroszországból érkező fenyegetésekre is fel kell készülni. Ez a geopolitikai helyzet drámai változását jelzi a régióban.",
       "importance": 4
     },
     {
-      "title": "Lemondott Tennessee börtönügyi vezetője egy meghiúsult kivégzés után",
-      "summary": "Tennessee börtönügyi vezetője lemondott Christa Pike meghiúsult kivégzése után, és felfüggesztették az államban az összes kivégzést. Az eset komoly botrányt és vitát váltott ki a halálbüntetés és annak végrehajtása körül.",
+      "title": "Húti támadás érte a Saudi Aramco rijádi létesítményét",
+      "summary": "A hútik rakétákkal és drónokkal támadták a Saudi Aramco egyik rijádi olajlétesítményét, jelentős károkat okozva és növelve a regionális feszültségeket. Ez a támadás hatással lehet a globális energiaellátásra és az olajárakra.",
       "importance": 4
-    },
-    {
-      "title": "Tízezrek tüntetnek Spanyolországban a lakhatási válság miatt",
-      "summary": "Több tízezren vonultak utcára Spanyolországban, hogy a súlyos lakhatási válság és a megfizethetetlen albérletárak ellen tiltakozzanak. A tüntetések a növekvő társadalmi feszültségekre és a kormányzati intézkedések iránti elégedetlenségre hívják fel a figyelmet.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Egy szövetségi bíró aggályosnak tartja az AI-alapú tömeges megfigyelést",
-      "summary": "Egy amerikai szövetségi bíró \"válogatás nélküli tömeges megfigyelésnek\" nevezte a Flock technológiáját, miközben egy törvényjavaslat is született a szövetségi kormány általi használatának betiltására. Az AI-alapú rendszerek adatvédelmi és etikai aggályokat vetnek fel, komoly vitát generálva a társadalomban.",
+      "title": "Felmondott az OpenAI egyik biztonsági vezetője a cég belső problémái miatt",
+      "summary": "Az OpenAI egyik kulcsfontosságú biztonsági vezetője távozott, állítása szerint a cégnél súlyos belső kulturális és biztonsági problémák vannak. Ez a lépés komoly aggodalmakat vet fel a mesterséges intelligencia fejlesztésének etikai és biztonsági vonatkozásai körül.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI egyik biztonsági dolgozója lemondott, céges kulturális problémákra hivatkozva",
-      "summary": "Az OpenAI egyik biztonsági dolgozója lemondott, azzal vádolva a céget, hogy \"megromlott a kultúrája\" a biztonsági aggályok kezelése terén. Ez az esemény újabb kérdéseket vet fel az AI-fejlesztés etikai és biztonsági vonatkozásaival kapcsolatban a vezető vállalatnál.",
-      "importance": 5
-    },
-    {
-      "title": "Rejtélyes amerikai fegyvereket telepítettek az űrbe",
-      "summary": "Rejtélyes amerikai fegyvereket telepítettek az űrbe, miközben a szakértők találgatják funkciójukat és céljaikat. A lépés új szintre emeli az űr militarizálódásával kapcsolatos aggodalmakat és a nemzetközi feszültségeket a nagyhatalmak között.",
+      "title": "Szövetségi bíró „válogatás nélküli tömeges megfigyelésnek” nevezte a Flock rendszert",
+      "summary": "Egy szövetségi bíró „válogatás nélküli tömeges megfigyelésnek” minősítette a Flock technológiáját, amely rendszámtábla-felismerő kamerákat használ. Ez a döntés komoly jogi precedenst teremthet a technológiai alapú megfigyelés és a magánélet védelmének kérdésében.",
       "importance": 4
     },
     {
-      "title": "Az Apple szigorítja a macOS biztonsági beállításait az AI-ügynökök kockázatai miatt",
-      "summary": "Az Apple szigorítja a macOS \"Teljes Lemezhozzáférés\" vezérlőit, az AI-ügynökök által jelentett új kockázatok miatt. Ez a lépés jelzi, hogy az AI-fejlesztések milyen új biztonsági kihívásokat teremtenek az operációs rendszerek és a személyes adatok védelme számára.",
+      "title": "Az Apple szigorítja a macOS hozzáférési engedélyeit az AI-ügynökök kockázatai miatt",
+      "summary": "Az Apple bejelentette, hogy szigorítja a macOS „Teljes Lemezhozzáférés” (Full Disk Access) vezérlőit, válaszul a mesterséges intelligencia ügynökök által jelentett új biztonsági kockázatokra. Ez a lépés rávilágít az AI fejlődésével járó kiberbiztonsági kihívásokra és a személyes adatok védelmének fontosságára.",
       "importance": 4
+    },
+    {
+      "title": "A Fehér Ház szerint már nem MI, hanem „szuperintelligencia”",
+      "summary": "A Fehér Ház új definíciót vezetett be a mesterséges intelligencia fejlesztésének legfelsőbb szintjére, amelyet „szuperintelligenciának” nevez. Ez a terminológiai váltás jelzi a mesterséges intelligencia képességeinek exponenciális növekedését és a technológia jövőbeni potenciáljával kapcsolatos kormányzati aggodalmakat.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Új technika teszi lehetővé a génszerkesztést csak a kívánt sejtekben",
-      "summary": "A tudósok azon dolgoznak, hogyan lehet a géneket pontosan csak a kívánt sejtekben szerkeszteni, elkerülve a nem célzott módosításokat. Ez az áttörés új lehetőségeket nyithat a célzott terápiák és számos betegség innovatív kezelése terén.",
+      "title": "Mesterséges intelligencia történelmi áttörést hozott az enzimekutatásban",
+      "summary": "Kutatók mesterséges intelligencia segítségével történelmi áttörést értek el az enzimekutatásban, ami új lehetőségeket nyithat meg a gyógyszerfejlesztésben és a biotechnológiában. Az AI képes volt olyan komplex mintázatokat felismerni és predikciókat tenni, amelyek emberi erővel szinte lehetetlenek lennének.",
       "importance": 5
     },
     {
-      "title": "Radikális taktika ad reményt a hasnyálmirigyrák megállítására",
-      "summary": "Egy radikális taktika reményt ad arra, hogy a hasnyálmirigyrák előrehaladását le lehet állítani, mely a rák egyik legagresszívabb formája. A kutatások új utakat nyitnak a rendkívül nehezen kezelhető rákfajta gyógyításában és a betegek túlélési esélyeinek javításában.",
-      "importance": 5
-    },
-    {
-      "title": "Lenyűgöző fosszília mutatja be a dinoszauruszok repülés felé vezető útját",
-      "summary": "Egy lenyűgöző fosszília bemutatja a dinoszauruszok egyedi útját a repülés felé, új betekintést nyújtva az evolúcióba. A felfedezés segíti a tudósokat abban, hogy jobban megértsék a repülő gerincesek kialakulásának folyamatát.",
+      "title": "A Meta agyi implantátumokkal álmodik az új kütyükbe",
+      "summary": "A Meta a jövőbeni eszközeit „Muse-alapú” technológiával, azaz agyi-számítógép interfészekkel (BCI) képzeli el, lehetővé téve a gondolatvezérelt interakciókat. Ez a fejlesztés hatalmas tudományos és technológiai potenciált rejt magában, forradalmasítva az ember-gép kapcsolatot.",
       "importance": 4
     },
     {
-      "title": "Ígéretes gyógyszer segíthet a 190 millió nőt érintő endometriózisban",
-      "summary": "Ígéretes korai eredményeket mutat egy új gyógyszer az endometriózis kezelésére, amely világszerte 190 millió nőt érintő \"elmaradt betegség\". Ez reményt ad a krónikus fájdalomtól szenvedőknek, és javíthatja az érintettek életminőségét.",
-      "importance": 4
+      "title": "A Fehér Ház szerint már nem MI, hanem „szuperintelligencia”",
+      "summary": "A Fehér Ház új definíciót vezetett be a mesterséges intelligencia fejlesztésének legfelsőbb szintjére, amelyet „szuperintelligenciának” nevez. Ez a terminológiai váltás a mesterséges intelligencia tudományos és filozófiai hatásait tárgyalja, jelezve a technológia mélyebb megértésének szükségességét.",
+      "importance": 3
+    },
+    {
+      "title": "A Circuit Breaker Labs a mesterséges intelligencia biztonságát célozza a gyermekek számára",
+      "summary": "A Circuit Breaker Labs olyan megoldásokon dolgozik, amelyek célja a mesterséges intelligencia biztonságosabbá tétele a gyermekek és felnőttek számára egyaránt. Ez a kutatási terület kritikus a mesterséges intelligencia felelősségteljes fejlesztéséhez és társadalmi elfogadásához.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Történelmi vereséget szenvedett el Horvátország az angolok ellen 7-0-ra",
-      "summary": "Horvátország történetének legsúlyosabb vereségét szenvedte el Angliától 7-0-ra egy futballmérkőzésen. Ez az eredmény történelmi mértékű csalódást okozott a horvát futballszurkolóknak és a csapatnak is.",
-      "importance": 5
-    },
-    {
-      "title": "Kevin Sinfield sikeresen teljesített hét ultramaratont egy hét alatt jótékonysági céllal",
-      "summary": "Kevin Sinfield, a legendás sportoló, sikeresen teljesítette azt a jótékonysági kihívást, melynek keretében egy hét alatt hét ultramaratont futott le. Ezzel jelentős összeget gyűjtött össze egy jó ügy érdekében, inspirálva embereket a mozgásra és az adakozásra.",
+      "title": "Elhalasztották a Bahreini Nagydíj rajtját a heves esőzés miatt",
+      "summary": "A heves esőzés miatt el kellett halasztani a Bahreini Nagydíj rajtját, ami felfordulást okozott a Forma-1 szezonnyitóján. Az időjárás hatása jelentősen befolyásolhatja a verseny kimenetelét és a csapatok stratégiáit.",
       "importance": 4
     },
     {
-      "title": "Tyson Fury Donald Trumpot kérte fel a Joshua elleni ringbe vonulásra",
-      "summary": "Tyson Fury, a nehézsúlyú ökölvívó, Donald Trump korábbi amerikai elnököt szeretné, hogy elkísérje őt a ringbe a Joshua elleni mérkőzésén. Ez a szokatlan kérés felkeltette a sport- és politikai média figyelmét, nagy visszhangot keltve.",
-      "importance": 3
-    },
-    {
-      "title": "Új speciális búvárszemüveg segíthet a víz alatti biztonságban",
-      "summary": "Egy új, speciális búvárszemüveg fejlesztése ígéretes, amely hasznos és életmentő is lehet a víz alatt. A technológia hozzájárulhat a búvársport biztonságához és élményéhez, különösen a nehéz körülmények között.",
-      "importance": 2
+      "title": "Bellingham új szintre lépett, és a valaha volt legjobbak közé kerülhet",
+      "summary": "Jude Bellingham futballista kivételes teljesítményével új szintre emelkedett, és szakértők szerint a sportág valaha volt legnagyobb játékosai közé kerülhet. Ez az elemzés a fiatal tehetség kiemelkedő képességeit és jövőbeni potenciálját emeli ki.",
+      "importance": 4
     }
   ]
 }

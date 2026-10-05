@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Szijjártó Péter a Nemzetbiztonsági Bizottság előtt",
-      "summary": "Szijjártó Péter külügyminiszter megjelent a Nemzetbiztonsági Bizottság meghallgatásán, ahol várhatóan az orosz-ukrán háborúval és a magyar külpolitika kihívásaival kapcsolatos kérdésekre válaszolt. Ez a meghallgatás kiemelt érdeklődésre tartott számot a hazai politikai életben.",
+      "title": "Windisch az államfőhöz fordult Magyar Péter ügyében",
+      "summary": "Windisch László, az Állami Számvevőszék elnöke levélben fordult a köztársasági elnökhöz, mert szerinte Magyar Péter kampánya során megsérti a Számvevőszék függetlenségét. Kifogásolja, hogy Magyar Péter az ÁSZ-t politikai szereplőként tünteti fel.",
       "importance": 5
     },
     {
-      "title": "Kiszivárgott a NER magánrepülőinek \"kisokosa\"",
-      "summary": "Részletes információk szivárogtak ki arról, hogyan kezelték a kormányközeli elit magánrepülőit a repülőtereken, felvetve a korrupció és az állami erőforrások magáncélú felhasználásának gyanúját. Az ügy rávilágít a hatalommal való visszaélés lehetséges eseteire.",
+      "title": "Kórházba került Karácsony Gergely egy otthoni baleset után",
+      "summary": "Otthoni baleset érte Karácsony Gergely főpolgármestert, ami miatt kórházi ellátásra szorult. A pontos sérülésekre és állapotára vonatkozó részletek egyelőre nem ismertek.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter a Megafon Mészáros-támogatásairól kérdezte az ÁSZ-t",
-      "summary": "Magyar Péter ismét a Számvevőszékhez fordult, hogy vizsgálja meg Mészáros Lőrinc cégeinek a Megafonnak nyújtott állítólagos támogatásait. Az ügy a kampányfinanszírozás átláthatóságával és a politikai befolyással kapcsolatos aggodalmakat vet fel.",
+      "title": "A norvég közmédia cáfolta a Magyar Péter-interjú időpontját",
+      "summary": "A norvég közszolgálati média pontosította korábbi állításait, miszerint mégsem volt előzetesen egyeztetett időpontjuk Magyar Péterrel egy interjúra. Ez az ügy további vitákat váltott ki a magyar médiatérben.",
       "importance": 4
     },
     {
-      "title": "Vonat kisiklott a Déli pályaudvaron, fennakadások a Balaton felé",
-      "summary": "Egy tolatómozdony siklott ki a Déli pályaudvaron, jelentős fennakadásokat okozva a vasúti közlekedésben, különösen a Balaton felé tartó vonatoknál. Az incidens hosszas késéseket és vágányzárakat eredményezett, befolyásolva a nyári utazásokat.",
-      "importance": 3
+      "title": "A magyar cégek ötöde mögött alig van valós gazdasági teljesítmény",
+      "summary": "Jelentések szerint a magyar vállalatok mintegy húsz százaléka valójában nem produkál érdemi gazdasági teljesítményt, ami aggodalomra ad okot a nemzetgazdaság stabilitása szempontjából. Ez a jelenség a gazdasági szektor átláthatóságát és hatékonyságát is megkérdőjelezi.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Előrehozott parlamenti választások Spanyolországban",
-      "summary": "Spanyolországban előrehozott parlamenti választásokat tartanak, miután a jelenlegi kormány nem tudott többséget szerezni kulcsfontosságú törvényekhez. Az esemény jelentős politikai változásokat hozhat az országban és befolyásolhatja az európai erőviszonyokat.",
+      "title": "Orosz dróntámadás Harkiv ellen: gyerekek is a sebesültek között",
+      "summary": "Az orosz erők ismét drónokkal támadták Harkivot, Ukrajna második legnagyobb városát, melynek következtében több tucat ember, köztük gyerekek is megsérültek. A támadás tovább fokozza a humanitárius válságot a régióban.",
       "importance": 5
     },
     {
-      "title": "Dánia központi népesség-nyilvántartását feltörték",
-      "summary": "Dániában feltörték a központi népesség-nyilvántartást, aminek következtében mintegy 8,8 millió ember személyes adatai szivárogtak ki. Ez az eset komoly aggodalmakat vet fel az állami adatvédelem hatékonyságával kapcsolatban és a kibertámadások kockázatára hívja fel a figyelmet.",
+      "title": "Diáktüntetés közben sérült meg súlyosan egy francia tinédzser",
+      "summary": "Egy 15 éves fiú vesztette el a kezét egy franciaországi diáktüntetésen a rendőrséggel való összecsapás során. Az eset súlyos aggodalmakat vet fel a tüntetések biztonságával és a rendfenntartó erők fellépésével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Izrael kitiltotta a brit Zöld Párt vezetőjét",
-      "summary": "Izrael kitiltotta a brit Zöld Párt vezetőjét, miután a párt a cionizmust a rasszizmussal egyenlővé tevő határozatot fogadott el. Az eset diplomáciai feszültséget és vitát váltott ki a véleménynyilvánítás szabadságáról és az izraeli politikáról.",
+      "title": "Orosz drónok süllyesztettek el egy gabonaszállító hajót a Fekete-tengeren",
+      "summary": "Volodimir Zelenszkij ukrán elnök szerint orosz drónok elsüllyesztettek egy török gabonaszállító hajót a Fekete-tengeren. Az eset tovább rontja a tengeri élelmiszer-szállítás biztonságát és a konfliktus eszkalációját jelzi.",
       "importance": 4
     },
     {
-      "title": "Diáktüntetések miatt 500 iskola zárhat be Franciaországban",
-      "summary": "Az erőszakossá vált diáktüntetések miatt akár 500 iskola is zárva maradhat Franciaországban. A zavargások jelentős társadalmi feszültségekre és a kormány oktatási politikájával szembeni ellenállásra utalnak.",
+      "title": "Az orosz támadások célja a tél kibírhatatlanná tétele Ukrajnában",
+      "summary": "Az orosz erők fokozottan támadják Ukrajna energetikai infrastruktúráját azzal a céllal, hogy a közelgő telet elviselhetetlenné tegyék az ukrán lakosság számára. Ez a stratégia súlyos humanitárius következményekkel járhat.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "ChatGPT feltörte Napóleon titkos parancsait",
-      "summary": "Egy mesterséges intelligencia, a ChatGPT, mindössze 6 óra alatt megfejtette Napóleon 217 éve titokban tartott katonai parancsait, amelyeket emberi erővel eddig nem sikerült. Ez az eset rávilágít az AI nyelvi képességeinek forradalmi erejére és történelmi kutatásban rejlő potenciáljára.",
+      "title": "A Google változtatásokat vezet be a Chrome böngészőben",
+      "summary": "A Google jelentős módosításokat tervez a Chrome böngésző működésében, amelyek állítólag minden felhasználó számára előnyösek lesznek. A változtatások célja a felhasználói élmény javítása és a biztonság növelése.",
+      "importance": 4
+    },
+    {
+      "title": "Új, „filléres” robot, amely 30 perc alatt betanítható otthoni munkára",
+      "summary": "Bemutattak egy új, költséghatékony robotot, amelyet mindössze fél óra alatt be lehet tanítani különböző otthoni feladatok elvégzésére. Ez a technológia forradalmasíthatja az otthoni automatizálást és a munkavégzést.",
+      "importance": 4
+    },
+    {
+      "title": "Dánia: Hackerek 8 millió állampolgár adatait lopták el egy kormányzati adatbázisból",
+      "summary": "Kibertámadás során hackerek megszerezték 8 millió dán állampolgár személyes adatait egy kormányzati adatbázisból. Ez az eset komoly aggályokat vet fel az állami adatvédelem hatékonyságával kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Trump Szuperintelligencia Erőt hozna létre az AI felügyeletére",
-      "summary": "Donald Trump bemutatta elképzelését egy 'Szuperintelligencia Erő' létrehozásáról, amelynek feladata az Egyesült Államok mesterséges intelligencia (AI) politikájának felügyelete és szabályozása lenne. Ez a lépés rávilágít az AI növekvő politikai és társadalmi jelentőségére a globális színtéren.",
+      "title": "Az OpenAI vizuális hirdetéseket vezet be a képgenerálás mellé",
+      "summary": "Az OpenAI vizuális hirdetéseket tesztel, amelyek a mesterséges intelligencia által generált képek mellett jelennek meg. Ez egy új üzleti modell lehetőségét jelzi a generatív AI platformok számára.",
       "importance": 4
-    },
-    {
-      "title": "Felmondott egy OpenAI biztonsági szakember a „törött kultúra” miatt",
-      "summary": "Az OpenAI egyik biztonsági mérnöke felmondott, azzal vádolva a céget, hogy a „kultúrája törött” a biztonság és az etika terén. Ez az eset aggodalmakat vet fel a vezető AI-fejlesztő cégek belső működésével és az AI kockázatainak kezelésével kapcsolatban.",
-      "importance": 4
-    },
-    {
-      "title": "A Google felfüggesztette nyílt forráskódú hibavadász programját az AI-beküldések miatt",
-      "summary": "A Google felfüggesztette nyílt forráskódú hibavadász programját, miután jelentősen megnőtt az AI által generált, gyakran gyenge minőségű hibajelentések száma. Ez a lépés rávilágít az AI nem várt hatásaira a kiberbiztonsági közösségre és a minőségellenőrzésre.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Új remény a hasnyálmirigyrák kezelésében",
-      "summary": "Egy radikális új taktika reményt ad a hasnyálmirigyrák megállítására, amely az egyik legagresszívebb rákfajta. A korai eredmények biztatóak, és áttörést hozhatnak a gyógyíthatatlannak tartott betegség elleni küzdelemben.",
+      "title": "Orvosi Nobel-díj a neuronokat fénnyel vezérlő agyi „kapcsolóért”",
+      "summary": "Az idei orvosi Nobel-díjat egy olyan felfedezésért ítélték oda, amely egy, a neuronokat fénnyel vezérlő agyi 'kapcsoló' mechanizmusát tárta fel. Ez az áttörés új utakat nyithat a neurológiai betegségek kutatásában és kezelésében.",
       "importance": 5
     },
     {
-      "title": "Lenyűgöző fosszília a dinoszauruszok repülésének eredetéről",
-      "summary": "Egy bámulatos új fosszília bemutatja a dinoszauruszok egyedi evolúciós útját a repülés felé, új megvilágításba helyezve a madarak ősi eredetét. Ez a felfedezés alapjaiban változtathatja meg a repülő hüllők fejlődéséről alkotott képünket.",
+      "title": "A nagy technológiai cégek az AI korában építik ki a hadiipari komplexumot",
+      "summary": "A cikk szerint a nagy techóriások a mesterséges intelligencia fejlesztése révén egyre szorosabban fonódnak össze a hadiiparral, létrehozva egy újfajta katonai-ipari komplexumot. Ez komoly etikai és társadalmi kérdéseket vet fel az AI jövőjével kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Ígéretes gyógyszer a 190 millió nőt érintő endometriózisra",
-      "summary": "Egy új gyógyszer korai ígéretes eredményeket mutat az endometriózis, egy becslések szerint 190 millió nőt érintő \"elmulasztott betegség\" kezelésében. Ez a potenciális áttörés jelentősen javíthatja a betegek életminőségét és csökkentheti szenvedésüket.",
+      "title": "Gének szerkesztése csak a kívánt sejtekben: új technológia",
+      "summary": "Kutatók új módszert fejlesztettek ki a gének pontos célzott szerkesztésére, lehetővé téve, hogy csak a kívánt sejtekben történjen meg a beavatkozás. Ez az áttörés jelentősen növelheti a génterápiák hatékonyságát és biztonságát.",
       "importance": 4
     },
     {
-      "title": "Halo-effektust mutatnak egy fekete lyuk jetjei",
-      "summary": "Tudósok megfigyelték, hogy egy fekete lyukból kiáramló jetek körül egy eddig ismeretlen halo-effektus jelent meg, ami új betekintést nyújt a kozmikus jelenségek fizikájába. Ez a felfedezés segíthet megérteni a galaxisok evolúcióját és a fekete lyukak környezetét.",
-      "importance": 3
+      "title": "Megdöbbentő fosszília mutatja be a dinoszauruszok egyedi útját a repüléshez",
+      "summary": "Egy lenyűgöző fosszília új megvilágításba helyezi a dinoszauruszok evolúcióját és a repülési képesség kialakulásának egyedi útját. A felfedezés segíthet jobban megérteni a madarak ősi eredetét.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Szujó Zoltán távozik a Magyar Nemzeti Autósport Szövetség éléről",
-      "summary": "Szujó Zoltán bejelentette, hogy nem indul újra a Magyar Nemzeti Autósport Szövetség elnöki posztjáért, ezzel lezárva egy korszakot a hazai autósportban. Döntése jelentős változásokat hozhat a szövetség vezetésében és jövőbeni irányvonalában.",
-      "importance": 4
-    },
-    {
-      "title": "Piros lapot kapott a portugál focista a hüvelykujj-mutogatásért",
-      "summary": "Egy portugál focista piros lapot kapott, miután a bírónak felmutatta a hüvelykujját, ami a szabályok szerint gúnyos gesztusnak minősült. Az eset nagy vitát váltott ki a sportban a sportszerűségről és a bírói döntésekről.",
+      "title": "Pickford focista majdnem balesetet okozott felelőtlen vezetésével",
+      "summary": "Jordan Pickford, az Everton és az angol válogatott kapusa felelőtlen vezetésével majdnem balesetet okozott. Az incidens felhívja a figyelmet a közlekedésbiztonságra még a sportolók körében is.",
       "importance": 3
-    },
-    {
-      "title": "Az NFL londoni sorozata elindult: üzlet vagy sportünnep?",
-      "summary": "Az NFL elindította londoni mérkőzések sorozatát, ami vitát váltott ki arról, hogy ez csupán egy üzleti fogás-e, vagy valódi lehetőséget teremt a sportág globális terjeszkedésére. Az esemény jelentős érdeklődésre tart számot a brit sportrajongók körében, növelve az amerikai futball népszerűségét.",
-      "importance": 3
-    },
-    {
-      "title": "Ibrahimovic ismét ritka Ferrarival lepte meg magát születésnapjára",
-      "summary": "Zlatan Ibrahimovic labdarúgó ismét egy ritka Ferrarival ajándékozta meg magát születésnapjára, hűen excentrikus stílusához. Az eset rávilágít a sportcsillagok luxus életmódjára és a gyűjtői szenvedélyekre.",
-      "importance": 2
     }
   ]
 }

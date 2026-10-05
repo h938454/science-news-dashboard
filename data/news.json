@@ -1,170 +1,246 @@
 {
-  "Telex": [],
+  "Telex": [
+    {
+      "title": "Szombatról vasárnapra 33,7 fokot zuhant a hőmérséklet a Bükkben, ami „nagyon magas érték”",
+      "link": "https://telex.hu/szepkilatas/2026/10/05/mohos-tobor-bukk-homersekletingadozas-33-7-celsius-fok",
+      "summary": "A kutatók kérik a kirándulókat, hogy ne menjenek be a Magyarország egyik leghidegebb pontjának számító, híressé vált töbörbe, mert fokozottan védett terület."
+    },
+    {
+      "title": "17 hónapos mélypontra zuhant az euró",
+      "link": "https://telex.hu/gazdasag/2026/10/05/17-honapos-melypont-euro-arfolyam",
+      "summary": "A befektetők egyre jobban aggódnak a régió politikai és költségvetési kockázatai miatt."
+    },
+    {
+      "title": "András volt yorki herceg szerint jogtalanul tartottak nála házkutatást, jogi úton támadta meg a parancsot",
+      "link": "https://telex.hu/kulfold/2026/10/05/andras-volt-yorki-herceg-hazkutatas-letartoztatas-panasz",
+      "summary": "II. Erzsébet harmadik gyerekét februárban tartóztatták le rövid időre közhivatalban elkövetett visszaélés gyanúja miatt."
+    },
+    {
+      "title": "Tears, Arguments, and Liberation: A behind-the-scenes look at the transition of the Hungarian public service media",
+      "link": "https://telex.hu/direkt36/2026/10/05/tears-arguments-and-liberation-a-behind-the-scenes-look-at-the-transition-of-the-hungarian-public-service-media",
+      "summary": "In the days following the Hungarian parliamentary election, some employees of the public service media turned on one another. Although many saw the change as a liberation, they were forced to confront the question: Why did they stay there if the propaganda-like operations bothered them?"
+    },
+    {
+      "title": "Szijjártó Péter megjelent a Nemzetbiztonsági Bizottság meghallgatásán",
+      "link": "https://telex.hu/belfold/2026/10/05/megjelent-szijjarto-peter-a-nemzetbiztonsagi-bizottsag-meghallgatasan",
+      "summary": "Nem volt egyszerű behívni, de ott van. A volt külügyminiszter érkezésekor azt mondta, bár nem lett volna kötelező, örömmel jött."
+    },
+    {
+      "title": "Feltörték Dánia központi népesség-nyilvántartását, mintegy 8,8 millió ember adatai szivárogtak ki",
+      "link": "https://telex.hu/techtud/2026/10/05/feltortek-dania-kozponti-nepesseg-nyilvantartasat-mintegy-8-8-millio-ember-adatai-szivaroghattak-ki",
+      "summary": "Az emberek nevéhez, címéhez és társadalombiztosítási számához fértek hozzá valakik."
+    },
+    {
+      "title": "Még nem emeltek vádat, de hamarosan döntenek a volt nagykőrösi polgármester szolgálati Škodájának ügyében",
+      "link": "https://telex.hu/belfold/2026/10/05/nagykoros-polgarmester-szolgalati-auto-1",
+      "summary": "A Pest megyei rendőrség már hét hónapja vádemelést javasolt az ügyben."
+    },
+    {
+      "title": "Kitiltották a brit Zöldek vezetőjét Izraelből a pártja határozata miatt",
+      "link": "https://telex.hu/kulfold/2026/10/05/izrael-kitiltas-brit-politikus-zack-polanski-zoldek",
+      "summary": "A párt tagjai a cionizmust a rasszizmus egyik formájának nyilvánították. Polanski nem vett részt a szavazáson, de korábban támogatta az indítványt."
+    },
+    {
+      "title": "Előrehozott parlamenti választások lesznek Spanyolországban",
+      "link": "https://telex.hu/kulfold/2026/10/05/elorehozott-parlamenti-valasztasok-lesznek-spanyolorszagban",
+      "summary": "Az elmúlt napokban hatalmas utcai tüntetéseket tartottak több spanyol városban a megfizethetetlen lakásárak és a kiszolgáltatott bérlők kilakoltatása miatt."
+    },
+    {
+      "title": "Magyar Péter megint felkérdezte az ÁSZ-t, most Mészárosék Megafonnak juttatott támogatásai miatt",
+      "link": "https://telex.hu/belfold/2026/10/05/magyar-peter-allami-szamvevoszek-meszaros-lorinc-megafon-tamogatas",
+      "summary": "A miniszterelnök a Direkt36 Telexen megjelent cikkére reagált."
+    },
+    {
+      "title": "Mintha a Fidesz nem realizálta volna, hogy elvesztették a hangerejük nagyon nagy részét",
+      "link": "https://telex.hu/video/2026/10/05/vezeto-lajkbajnoksag-fidesz-szekhaz",
+      "summary": "Hogyan lett a dollárbaloldalazó Deutsch Tamásból idegenvezető? Milyen a munkamániás Orbán új munkaállomása? Milyen életjeleket mutat a Fidesz? A mai Vezetőben a Fidesz kilátásairól beszélgettünk."
+    },
+    {
+      "title": "Szujó Zoltán nem indul újra a Magyar Nemzeti Autósport Szövetség elnöki posztjáért",
+      "link": "https://telex.hu/sport/2026/10/05/szujo-zoltan-nem-indul-ujra-a-magyar-nemzeti-autosport-szovetseg-elnoki-posztjaert",
+      "summary": "Úgy látja, hogy nem tudta megteremteni a kellő egységet."
+    },
+    {
+      "title": "Kisiklott egy tolatómozdony a Déli pályaudvaron, nem lesz könnyű eljutni a Balatonra",
+      "link": "https://telex.hu/belfold/2026/10/05/kisiklott-mozdony-mav-deli-palyaudvar-balaton-pecs",
+      "summary": "És Pécsre sem."
+    },
+    {
+      "title": "Európai jó példává vált egy székely falu klímaadaptációs projektje, már csak országos szinten kellene elismerni",
+      "link": "https://telex.hu/transtelex/2026/10/05/europai-pelda-szekely-falu-klimaadaptacios-projekt",
+      "summary": "A természet módszereit utánozva próbálják megtartani az egyre fogyó vizet a 250 lakosú Székelydályában, de a sikerhez rendszerszintű szemléletváltásra is szükség lenne."
+    },
+    {
+      "title": "Egy kávé, egy eszköz, sok recept – ez volt a Magyar AeroPress-bajnokság!",
+      "link": "https://telex.hu/karakter/tamogatott-tartalom/2026/10/05/egy-kave-egy-eszkoz-sok-recept-ez-volt-magyar-aeropress-bajnoksag",
+      "summary": "A budaörsi Röast kávépörkölő üzem harmadszorra hívta össze az ország legjobb AeroPress készítőit, hogy összemérjék a tudásukat, és hogy kiderüljön, ki mehet a világbajnokság mexikóvárosi döntőjére."
+    }
+  ],
   "Portfolio": [],
   "444": [
     {
-      "title": "Katonaság/aberráció",
-      "link": "https://444.hu/2026/10/05/katonasagaberracio?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Orbán hozzájárulása a Hankó-ügyhöz, a vagyonadó problematikája, Thomas O. Melia véleménye, a Digger, a 70Up és a Néprajzi Múzeum legújabb kiállítása a 444 reggeli hírlevelében."
+      "title": "András exherceg perel a letartóztatásával kapcsolatos házkutatási parancsok ügyében",
+      "link": "https://444.hu/2026/10/05/andras-exherceg-perel-a-letartoztatasaval-kapcsolatos-hazkutatasi-parancsok-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Jogi képviselői vitatják a februári letartóztatásával kapcsolatos házkutatási parancsokat."
     },
     {
-      "title": "Mutassatok nekem egy hétévest – és nézzétek meg, mi lett belőle hetvenévesen",
-      "link": "https://444.hu/jo/2026/10/04/mutassatok-nekem-egy-hetevest-es-nezzetek-meg-mi-lett-belole-hetvenevesen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Elbúcsúzott a világ leghosszabb tévés kísérlete, az Up című sorozat, amely 1964-től egészen mostanáig követte végig 14 brit gyerek, majd felnőtt sorsát. Bár a sorozat igazi főszereplője a múló idő, egészen kivételes így belelátni 14 életútba."
+      "title": "Náci karlendítés mellett „Heil Hitlerezett” a szamoai miniszterelnök egy régi felvételen",
+      "link": "https://444.hu/2026/10/05/naci-karlendites-mellett-heil-hitlerezett-a-szamoai-miniszterelnok-egy-regi-felvetelen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A vezető bocsánatot kért a 19 évvel ezelőtt történtek miatt."
     },
     {
-      "title": "Trump az amerikai hírszerzés vezetőjét nevezte ki AI-cárnak",
-      "link": "https://444.hu/2026/10/04/trump-az-amerikai-hirszerzes-vezetojet-nevezte-ki-ai-carnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Jay Clayton vezeti a Fehér Ház új „Super Intelligence Force”-át is, de Trump a figyelmeztetések ellenére sem akar vészféket a mesterséges intelligenciára."
+      "title": "Kim Lane Scheppele: Magyarországnak nagy szüksége lenne egy bonyolultabb politikai rendszerre",
+      "link": "https://444.hu/2026/10/05/kim-lane-scheppele-magyarorszagnak-nagy-szuksege-lenne-egy-bonyolultabb-politikai-rendszerre?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az Orbán-rendszer legfáradhatatlanabb külföldi kritikusa áprilisban még óvatos volt, most viszont már optimista. Scheppele a 444-nek arról beszélt, hogy a Tisza szét fog szakadni, de nagyon fontos, hogy ez csak egy új alkotmány és az új választási törvény elfogadása után történjen meg."
     },
     {
-      "title": "Pestisriadó Szibériában: meghalt egy laboráns, miután eltört egy kémcsövet",
-      "link": "https://444.hu/2026/10/04/pestisriado-sziberiaban-meghalt-egy-laborans-miutan-eltort-egy-kemcsovet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A hatóságok tagadnak, miközben védőruhás emberek járják a várost. Karantén a kórházakban, 200 ember megfigyelés alatt."
+      "title": "Kisiklott egy vonat a Déli pályaudvaron",
+      "link": "https://444.hu/2026/10/05/kisiklott-egy-vonat-a-deli-palyaudvaron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Több járat csak Budapest-Kelenföldig közlekedik."
     },
     {
-      "title": "A cseh elnök nem szavaz, inkább motorozni megy a választás alatt",
-      "link": "https://444.hu/2026/10/04/a-cseh-elnok-nem-szavaz-inkabb-motorozni-megy-a-valasztas-alatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Petr Pavelnek államférfihoz képest túl jók a motoros reflexei."
+      "title": "Előrehozott választások lesznek Spanyolországban",
+      "link": "https://444.hu/2026/10/05/elorehozott-valasztasok-lesznek-spanyolorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A kormány hétfőn délelőtt dönt a parlament feloszlatásáról."
     },
     {
-      "title": "Önkielégítés minden mennyiségben – egy öreg, iszapszemű rája kalandjai a sorkatonaságra emlékező kiállításon (18+)",
-      "link": "https://444.hu/2026/10/04/onkielegites-minden-mennyisegben-egy-oreg-iszapszemu-raja-kalandjai-a-sorkatonasagra-emlekezo-kiallitason-18?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Nem fordulok vissza, benyitok a vécébe, mert az agyam egyszerűen nem akarja elfogadni, amit hallottam. A félmeztelen fiútestek gyűrűjében megpillantom a Félkegyelmű hátrabillent fejét. Ketten-ketten tartják a két karját. Megint nagyot dobott a Néprajzi Múzeum."
+      "title": "„A világnak el kell fogadnia”, hogy az AI előnyei érdekében „néhány rossz dolog is történik”",
+      "link": "https://444.hu/2026/10/05/a-vilagnak-el-kell-fogadnia-hogy-az-ai-elonyei-erdekeben-nehany-rossz-dolog-is-tortenik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ez a mondat Sam Altman, az OpenAI vezérigazgatója száját hagyta el."
     },
     {
-      "title": "A norvég köztévé szerint nem oké, ahogy Magyar Péter bánik a sajtóval",
-      "link": "https://444.hu/2026/10/04/a-norveg-kozteve-szerint-nem-oke-ahogy-magyar-peter-banik-a-sajtoval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Azt állítják, hónapokig egyeztettek egy interjúról, amit az utolsó pillanatban mondtak le, majd töröltetni akarták a felvételüket. A Miniszterelnökség tagad."
+      "title": "Szujó Zoltán távozik az autósport szövetség éléről",
+      "link": "https://444.hu/2026/10/05/szujo-zoltan-tavozik-az-autosport-szovetseg-elerol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A távozásának egyik oka, hogy a társadalmi munkában már nem tud annyi energiát beletenni, amennyit igényelne a sportág."
     },
     {
-      "title": "Biztonsági okokból a francia középiskolák 15 százalékában részben vagy teljesen felfüggesztik a tanítást",
-      "link": "https://444.hu/2026/10/04/biztonsagi-okokbol-a-francia-kozepiskolak-15-szazalekaban-reszben-vagy-teljesen-felfuggesztik-a-tanitast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az erőforrás- és tanárhiány miatt két hete tartó tiltakozó diákmozgalom alatt 24 intézményt „felgyújtottak vagy megrongáltak” – közölte Édouard Geffray oktatási miniszter."
+      "title": "15 milliárdot költöttek el Szijjártóék Washingtonban egy azbesztes palotára",
+      "link": "https://444.hu/2026/10/05/15-milliardot-koltottek-el-szijjartoek-washingtonban-egy-azbesztes-palotara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Szijjártó már 2017-ben, a felújítás előtt átadta a nagykövetséget, amit még a felavatás előtt megáldott egy katolikus pap, egy református tiszteletes és egy rabbi."
     },
     {
-      "title": "Merz Kijevben újabb 1,35 milliárd eurós támogatást ígért Ukrajnának",
-      "link": "https://444.hu/2026/10/04/merz-kijevben-ujabb-135-milliard-euros-tamogatast-igert-ukrajnanak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A németek és az ukránok közösen gyártanak elfogó drónokat az egyre több sugárhajtású orosz drón ellen."
+      "title": "Direkt36: Mészáros cégei támogatták a Megafont",
+      "link": "https://444.hu/2026/10/05/direkt36-meszaros-cegei-tamogattak-a-megafont?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Milliárdokkal."
     },
     {
-      "title": "Ezt a doksit csak úgy lehetett leforgatni, ha a rendező is beül a csoportterápiára",
-      "link": "https://444.hu/2026/10/04/ezt-a-doksit-csak-ugy-lehetett-leforgatni-ha-a-rendezo-is-beul-a-csoportterapiara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Mélypont érzés már a Jeti Moziban is megtekinthető, a rendezővel, és a film helyszínéül szolgáló Megállóház vezetőjével a szenvedélybetegek felépüléséről, a hiteles segítőkről és arról beszélgettünk, hol lehet a helye a kamerának a terápiában."
+      "title": "Már nem találsz ketreces tojást a SPAR saját üzleteiben",
+      "link": "https://444.hu/2026/10/05/mar-nem-talalsz-ketreces-tojast-a-spar-sajat-uzleteiben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ha tojást vásárolsz a SPAR-ban, mostantól egy fontos változást tapasztalhatsz: a vállalat saját üzemeltetésű SPAR, City SPAR és INTERSPAR üzleteiben teljesen megszűnt a ketreces tartásból származó tyúktojások értékesítése. A polcokon mélyalmos, szabadtartású és bio tojások közül választhatsz."
     },
     {
-      "title": "Orbán Viktor már egy hete önazonos, ha Hankóról és az aberrációról van szó",
-      "link": "https://444.hu/2026/10/04/orban-viktor-mar-egy-hete-onazonos-ha-hankorol-es-az-aberraciorol-van-szo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Havasi Bertalan úgy idézi az egyhetes Fidesz-közleményt, mint élő klasszikust: Orbán soha nem lehet ellentmondásban."
+      "title": "Izrael kitiltotta a brit Zöld Párt vezetőjét, miután a párt a cionizmust a rasszizmussal tette egyenlővé",
+      "link": "https://444.hu/2026/10/05/izrael-kitiltotta-a-brit-zold-part-vezetojet-miutan-a-part-a-cionizmust-a-rasszizmussal-tette-egyenlove?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az izraeli külügyminisztérium a párt indítványát „egyértelmű antiszemita szövegnek” minősítette, amely túllépi „a legitim politikai vita határait”."
     },
     {
-      "title": "Janez Jansa szerint népszavazás előzné meg a közszféra átalakítását Szlovéniában",
-      "link": "https://444.hu/2026/10/04/janez-jansa-szerint-nepszavazas-elozne-meg-a-kozszfera-atalakitasat-szloveniaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A miniszterelnök szerint a kormány a következő két évben nem tervez létszámcsökkentést a közszférában."
+      "title": "Jelentősen korlátozná Brüsszel Ukrajna hozzáférését az agrártámogatásokhoz, ha az EU-tagja lenne",
+      "link": "https://444.hu/2026/10/05/jelentosen-korlatozna-brusszel-ukrajna-hozzafereset-az-agrartamogatasokhoz-ha-az-eu-tagja-lenne?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ezzel próbálná meg védeni más EU-tagok mezőgazdaságát Brüsszel."
     },
     {
-      "title": "Tombor András az MCC elsorvasztásáról: ármány és önkény, a legsötétebb múlt kísért mindenhol",
-      "link": "https://444.hu/2026/10/04/tombor-andras-az-mcc-elsorvasztasarol-armany-es-onkeny-a-legsotetebb-mult-kisert-mindenhol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az MCC alapítója szerint a Magyar-kormány politikai alapon számolja fel az intézményt, szürke diákszállás lett a NER utánpótlásnevelője. Magyar és európai bírósághoz fordulnak."
+      "title": "Hatalmas sziklaomlás volt a Dolomitokban",
+      "link": "https://444.hu/2026/10/05/hatalmas-sziklaomlas-volt-a-dolomitokban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Épp, miután befejezték egy túrázó helikopteres mentését."
     },
     {
-      "title": "Botrányos és bűbájos, mint maga a gyász",
-      "link": "https://444.hu/jo/2026/10/04/botranyos-es-bubajos-mint-maga-a-gyasz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Paul Auster özvegye, Siri Hustvedt a könyvében emléket állít ennek a híres, nagy szerelemnek, miközben beszámol a gyászfeldolgozás változatairól és a mindkettejük életét megroppantó tragédiáról."
+      "title": "Akár 500 iskola is zárva maradhat az erőszakossá vált diáktüntetések miatt hétfőn Franciaországban",
+      "link": "https://444.hu/2026/10/05/akar-500-iskola-is-zarva-maradhat-az-eroszakossa-valt-diaktuntetesek-miatt-hetfon-franciaorszagban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A francia oktatási miniszter szerint ugyanis nem teljesülnek a biztonsági feltételek és a tüntetések kezdete óta 24 iskolát fosztottak ki vagy égettek fel a tüntetők."
     },
     {
-      "title": "Csütörtökig marad a jó idő",
-      "link": "https://444.hu/2026/10/04/csutortokig-marad-a-jo-ido?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "De hajnalban jobbára 1 és 7 fok közé hűl a levegő."
+      "title": "Bolsonaro fia kapta a legtöbb szavazatot a brazil elnökválasztás első fordulóján",
+      "link": "https://444.hu/2026/10/05/bolsonaro-fia-kapta-a-legtobb-szavazatot-a-brazil-elnokvalasztas-elso-fordulojan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Pedig a hivatalban lévő Lula arra számított, hogy már az első fordulóban győz, és hétfőtől új kampány kezdődik."
     }
   ],
   "HVG": [
     {
-      "title": "Fördős Zé a kutyájával siklóernyőzött, és még le is videózta",
-      "link": "https://hvg.hu/elet/20261004_fordos-ze-kutya-sikloernyo-video",
-      "summary": "Bár Konti, a kutya életében először repült, elképesztően nyugodt és még annál is fotogénebb volt közben."
+      "title": "Kiszivárgott egy reptéri kisokos arról, hogyan kellett kezelni a NER magánrepülőit",
+      "link": "https://hvg.hu/kkv/20261005_magangepek-repteri-dokumentum-meszaros-lorinc-barna-zsolt-vida-jozsef-mbh-bank",
+      "summary": "Egy időben az egyik gépet csak Mészáros Lőrinc és Barna Zsolt MBH-vezér használhatták, tulajdonosi tarifával. Még arra is rá kellett kérdezni, hogy Mészáros Lőrinc családtagjai használhatják-e."
     },
     {
-      "title": "A hollandok 83 százaléka nem akar jóvátételt fizetni a rabszolgatartó múlt miatt",
-      "link": "https://hvg.hu/vilag/20261004_hollandia-jovatetel-rabszolgatartas",
-      "summary": "A hollandok 83 százaléka ellenzi, hogy hazája jóvátételt fizessen az ország rabszolgatartó múltja miatt – derült ki az RTL holland televízió vasárnap ismertetett felméréséből."
+      "title": "Szijjártó Péter megjelent a nemzetbiztonsági bizottság meghallgatásán",
+      "link": "https://hvg.hu/itthon/20261005_szijjarto-peter-megjelent-a-nemzetbiztonsagi-bizottsag-meghallgatasan",
+      "summary": "A volt külügyminisztert zárt ülésen faggatják a kínai BYD-hoz való kapcsolatáról."
     },
     {
-      "title": "Bújócskázás közben lezuhant az ónódi várról egy 13 éves fiú",
-      "link": "https://hvg.hu/elet/20261004_onodi-var-baleset",
-      "summary": "A fiú könnyebb sérüléseket szenvedett, hétfőn kiengedhetik a kórházból."
+      "title": "Univerzális alkatrészekből építene autókat a BMW, hogy ne kelljen annyit fejleszteni",
+      "link": "https://hvg.hu/cegauto/20261005_bmw-kesz-alkatreszek-fejlesztes-koltsegcsokkentes",
+      "summary": "A kocsit alakítják a sztenderd alkatrészhez, nem az alkatrészt a kocsihoz."
     },
     {
-      "title": "Szabadságra megy Petr Pavel államfő, kiakadtak a csehek",
-      "link": "https://hvg.hu/vilag/20261004_petr-pavel-szabadsag-csehorszag-valasztas",
-      "summary": "Éles bírálatok kereszttüzébe került Petr Pavel cseh köztársasági elnök, miután bejelentette, hogy szabadsága miatt nem vesz részt a jövő hét végi önkormányzati és részleges szenátusi választásokon."
+      "title": "217 éven át senki sem tudta megfejteni Napóleon titkos parancsait, a ChatGPT 6  óra alatt feltörte",
+      "link": "https://hvg.hu/tudomany/20261005_napoleon-titkos-uzenet-level-kodfejtes-chatgpt-astra-gpt-6",
+      "summary": "Az OpenAI legerősebb modellje, a GPT-6 Astra nagyon gyorsan végzett a napóleoni háborúk idejéből származó dokumentum feltörésével."
     },
     {
-      "title": "A brit Zöld Párt szerint a cionizmus rasszista ideológia",
-      "link": "https://hvg.hu/vilag/20261004_brit-zold-part-cionizmus-rasszizmus",
-      "summary": "A brit Zöld Párt vasárnap elfogadott álláspontja szerint a cionizmus rasszista ideológia, és a „történelmi palesztin területeken” egyállami palesztin országot kell létrehozni."
+      "title": "A vagyonvisszaszerzési hivatal vezetője beszámolt arról, hogyan vették őrizetbe Seszták Miklóst",
+      "link": "https://hvg.hu/itthon/20261005_kuria-epulet-vagyonvisszaszerzesi-hivatal-unger-anna-interju",
+      "summary": "Unger Anna arról is beszélt, hogy Magyar Péter ígérete ellenére nem költöznek be a Kúria épületébe."
     },
     {
-      "title": "„Ennyire vad volt ez a pálinka- és trombitafesztivál Szerbiában?” – Orbán hankós nyilatkozatára reagált Molnár Áron",
-      "link": "https://hvg.hu/elet/20261004_molnar-aron-orban-viktor-hanko",
-      "summary": "A színész-aktivista vasárnapi videójában arról beszél, hogy jövő héten egy másik fideszes kultuszminiszterről hoznak nyilvánosságra információkat."
+      "title": "Reagált a tiszás képviselő Hadházy földmutyis posztjára: egykori alkalmazottjának nagyapját akarta megvédeni az ingatlanspekulánsoktól",
+      "link": "https://hvg.hu/gazdasag/20261005_sarosi-tibor-tisza-part-reakcio-hadhazy-akos-paks-foldvasarlas",
+      "summary": "Sárosi József szerint minden törvényesen és az eladó teljes megelégedésével zajlott."
     },
     {
-      "title": "Vitézy: Újraindítjuk a budapesti Diákváros projektjét",
-      "link": "https://hvg.hu/itthon/20261004_budapesti-diakvaros-epitese-vitezy-david",
-      "summary": "Vitézy Dávid a Facebook-oldalán jelentette be, hogy belevágnak a budapesti Diákváros megvalósításába."
+      "title": "Elég nagyot bukott a nyitó hétvégén Tom Cruise új filmje",
+      "link": "https://hvg.hu/kultura/20261005_digger-tom-cruise-nyitohetvege-bukas",
+      "summary": "Világszerte mindössze 20 millió dolláros bevételt hozott a Digger, szerényen szerepelt az amerikai mozikban is."
     },
     {
-      "title": "Karafiáth Orsolya: Játék közelséggel, távolsággal",
-      "link": "https://hvg.hu/360/20261004_az-en-hetem-karafiath-orsolya",
-      "summary": "A gyenge, piti félelem olyan, mint a rozsda vagy a rothadás, lassan, szinte észrevétlen, de folyamatosan pusztít. Az erős félelem viszont képes arra, hogy felvértezzen. Az én hetem című sorozatunkban négy író öt megadott kulcsszót felhasználva ír arról, miként élte meg az elmúlt hetet. Karafiáth Orsolyának most ez a készlet segíthet ihletet adni : hunyó, kincskereső, kékharisnya, légiháború, rangadó-vevő."
+      "title": "Videó: felmutatta a hüvelykujját a portugál focista, villant a piros lap",
+      "link": "https://hvg.hu/sport/20261005_nemzetek-ligaja-portugalia-norvegia-francisco-conceicao-piros-lap-video",
+      "summary": "Néhány másodperc legforgása alatt gyűjtött össze két sárga lapot Francisco Conceicao."
     },
     {
-      "title": "Verstappen nyerte a kaotikus Bahreini Nagydíjat",
-      "link": "https://hvg.hu/sport/20261004_bahreini-nagydij-max-verstappen-forma-1",
-      "summary": "A négyszeres világbajnok Max Verstappen, a Red Bull holland versenyzője nyerte az év elejéről elhalasztott és vasárnap a malajziai Sepangban pótolt Forma-1-es Bahreini Nagydíjat, amelyen az összetettben éllovas olasz Andrea Kimi Antonelli növelte az előnyét."
+      "title": "Rengeteg Apple-felhasználót érint: jön egy nagy szigorítás",
+      "link": "https://hvg.hu/tudomany/20261005_apple-mac-szigoritas-lemezhozzaferes-macos-adatok-biztonsaga",
+      "summary": "Nemsokára élesedik egy fontos biztonsági funkció a Mac számítógépeken. Bár nehezebbé tesz valamit, valójában nagyon fontos változást hoz."
     },
     {
-      "title": "Ez egy legális emberkísérlet – Vona Gábor megszólalt a showműsorról, amiben szerepelni fog",
-      "link": "https://hvg.hu/elet/20261004_vona-gabor-arulok-gyilkossag-a-kastelyban",
-      "summary": "Hamarosan indul az Árulók – Gyilkosság a kastélyban ötödik évada. A játék történetében először most egy politikus is a szereplők közé került."
+      "title": "GVH-dolgozó az „orbánista” vezetőségről: „Ezek nem fognak lemondani”",
+      "link": "https://hvg.hu/kkv/20261005_gvh-belso-feszultseg",
+      "summary": "A versenyhivatalnál állítólag nagy a belső feszültség. A kormányváltás után úgy tűnt, az elnök és helyettesei távoznak, de aztán meggondolták magukat, az állományt viszont nem tájékoztatják a helyzetről. A Tisza az EU figyelő szeme miatt bánhat kesztyűs kézzel a GVH-val."
     },
     {
-      "title": "Kényszerleszállást hajtott végre egy repülőgép Ferihegyen",
-      "link": "https://hvg.hu/tudomany/20261004_air-arabia-kenyszerleszallas-ferihegy",
-      "summary": "Rosszul lett egy utas az Air Arabia Bécsbe tartó járatán."
+      "title": "Marad a V8 és a V12, tovább késik az Aston Martin első villanyautója",
+      "link": "https://hvg.hu/cegauto/20261005_marad-a-v8-es-a-v12-tovabb-kesik-az-aston-martin-elso-villanyautoja",
+      "summary": "Az eredetileg tervezettnél jelentősen később debütál az első teljesen elektromos Aston Martin."
     },
     {
-      "title": "Krzysztof Zanussi lengyel rendezőlegenda: Jól tudtuk, ha rossz irányt vesznek a dolgok, elég megnézni, mi történik Magyarországon",
-      "link": "https://hvg.hu/elet/20261004_hvg-krzysztof-zanussi-lengyel-filmrendezo-interju-tarkovszkij-68",
-      "summary": "A Kaczynski-érában „bezárták a produkciós cégemet, állami volt, 30 éve vezettem. Mit tehettek volna még?” – beszél a hazájában letűnt rendszerről a 87 éves Krzysztof Zanussi, a nemrég véget ért lengyel filmfesztivál zsűrielnöke, akinek a Magyarországon letűnt rendszerről is voltak élményei. Miért hazugság szerinte, hogy valakit nem érdekelnek a díjak? Miért orrolt meg rá Godard, és milyen volt, amikor Ionesco szívrohamot tettetett egy hét és fél órás film alatt?"
+      "title": "Közelebb kerülhetünk annak megértéséhez, hogy miért lesz ilyen sok fiatal felnőtt vastagbélrákos",
+      "link": "https://hvg.hu/elet/20261005_vastagbelrak-fiatal-felnottek-diagnozis-kutatas",
+      "summary": "Negyedmillió önkéntessel készül egy nagyszabású tanulmány, amely a betegség előfordulásának a növekedését vizsgálja."
     },
     {
-      "title": "A csendes erő: Miért lehetnek kiváló vezetők az introvertáltak?",
-      "link": "https://hvg.hu/hvgkonyvek/20261004_a-csendes-ero-miert-lehetnek-kivalo-vezetok-az-introvertaltak",
-      "summary": "A sikeres vezetésről alkotott képnek túl kell lépnie azon, hogy kizárólag az extrovertált tulajdonságokat emeli ki. Ideje, hogy az introvertáltak is helyet kapjanak benne - vallja Jennifer B. Kahnweiler nemzetközileg ismert vezetőképző. Szerkesztett részlet Az introvertált vezető című könyvből."
+      "title": "Kisiklott egy tolatómozdony a Déli pályaudvaron, több vágányon szünetel a forgalom",
+      "link": "https://hvg.hu/itthon/20261005_kisiklott-tolatomozdony-deli-palyaudvar-baleset",
+      "summary": "Több járat csak Budapest-Kelenföldig közlekedik, az elővárosi vonatokat is érinti a baleset."
     },
     {
-      "title": "Lezuhant egy kisrepülőgép Németországban, többen meghaltak",
-      "link": "https://hvg.hu/tudomany/20261004_lezuhant-repulogep-nemetorszag",
-      "summary": "A német hatóságok jelenleg is vizsgálják, mi okozhatta a tragédiát."
+      "title": "Ibrahimovic hű maradt magához: újabb szülinap, újabb ritka Ferrarival ajándékozta meg magát",
+      "link": "https://hvg.hu/cegauto/20261005_ibrahimovic-szuletesnap-ferrari-f80",
+      "summary": "Ha így folytatja, nagyon komoly gyűjteménye lesz."
     },
     {
-      "title": "Annyira eldurvultak a francia zavargások, hogy a középiskolák 15 százalékában nem lesz tanítás hétfőn",
-      "link": "https://hvg.hu/vilag/20261004_franciaorszag-kozepiskola-tiltakozas-diakmozgalom",
-      "summary": "A diákszervezetek pénteken a tiltakozás folytatására szólítottak fel „konkrét intézkedések” hiányában, de elhatárolódtak az erőszakos cselekményektől."
+      "title": "Hadházy szerint egy tiszás képviselő is hasznot húzott a százszorosan túlárazott paksi földmutyiból",
+      "link": "https://hvg.hu/gazdasag/20261005_paksi-foldmutyi-hadhazy-akos-sarosi-jozsef-szekszard-tisza-part",
+      "summary": "Sárosi József tiszás képviselő neve ugyan nem szerepel a szerződésekben, de az egyik 5,5 hektáros mező birtokbaadási jegyzőkönyvében feltűnik, mint az eladó kapcsolattartója."
     }
   ],
   "BBC": [
     {
       "title": "US removes all bombers from RAF Fairford base",
       "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+      "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
     },
     {
-      "title": "Brazil election goes to run-off as right-wing Flávio Bolsonaro wins first round",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
-      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+      "title": "Andrew takes legal action over search warrants relating to arrest",
+      "link": "https://www.bbc.co.uk/news/articles/c689zl5eljdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mountbatten-Windsor was arrested on suspicion of misconduct in public office and later released under investigation in February."
     },
     {
       "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
@@ -172,29 +248,19 @@
       "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
     },
     {
-      "title": "I'm a classic old school Conservative, says Kemi Badenoch",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles."
-    },
-    {
-      "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
-    },
-    {
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "link": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body."
-    },
-    {
-      "title": "British Museum announces changes to ease Bayeux Tapestry queues",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors."
-    },
-    {
-      "title": "Protesters gather as migrants brought ashore on south coast",
+      "title": "Protesters scuffle with police as migrants brought ashore on south coast",
       "link": "https://www.bbc.co.uk/news/articles/cmrly809n8p6o?at_medium=RSS&at_campaign=rss",
-      "summary": "A dinghy was believed to be carrying 120 migrants, according to French media."
+      "summary": "The Home Office said 149 migrants were brought ashore and taken by coach to a processing centre in Kent."
+    },
+    {
+      "title": "BT agrees rescue deal to buy broadband operator TalkTalk",
+      "link": "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers"
+    },
+    {
+      "title": "Potty training scheme to roll out to 20 more areas",
+      "link": "https://www.bbc.co.uk/news/articles/ck4glnl2v9p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government wants 75% of children to end their first year of school with a good level of development by 2028."
     },
     {
       "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
@@ -202,34 +268,44 @@
       "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
     },
     {
-      "title": "France to close up to 500 schools on Monday over student protests",
+      "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+      "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
+    },
+    {
+      "title": "France closes up to 500 schools over student protests",
       "link": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
       "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
     },
     {
-      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-      "link": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
     },
     {
-      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
-      "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row."
+      "title": "Court of Appeal to hear residents' parade challenge over Drumcree dispute",
+      "link": "https://www.bbc.co.uk/news/articles/cmj47xdq5nz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deadlock over the Orange Order march in Portadown - opposed by residents of the Garvaghy Road - has lasted since last Sunday morning."
+    },
+    {
+      "title": "The job interview question you don't have to answer",
+      "link": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts explain what you should do if you are asked for your current salary during a job interview."
+    },
+    {
+      "title": "How Keith Alexander blazed a trail for black football managers",
+      "link": "https://www.bbc.co.uk/news/articles/cwddvl6rp9gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ex-players and family members on the legacy of the late Lincoln, Peterborough and Macclesfield boss."
+    },
+    {
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "link": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
     },
     {
       "title": "'Money-grab' or celebration? NFL kicks off London series",
       "link": "https://www.bbc.co.uk/sport/american-football/articles/cqwyrlk27e7ro?at_medium=RSS&at_campaign=rss",
       "summary": "The NFL kicked off this season's series of London games on Sunday but the build-up was overshadowed by anger from long-term fans over ticket prices."
-    },
-    {
-      "title": "The Papers: Badenoch's 'bonfire of green laws' and 'Drop in global dealmaking'",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn30zn288o?at_medium=RSS&at_campaign=rss",
-      "summary": "Monday's front pages include stories about Kemi Badenoch at the start of the Tory conference, plus reports on global finance , abuse in schools and a BBC romance."
-    },
-    {
-      "title": "Why Canada is preparing for an unlikely US invasion",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
     }
   ],
   "TechCrunch": [

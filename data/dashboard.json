@@ -2,101 +2,111 @@
   "hungary": [
     {
       "title": "A Központi Nyomozó Főügyészség kihallgatta a miniszterelnököt",
-      "summary": "A Központi Nyomozó Főügyészség megerősítette, hogy kihallgatta a miniszterelnököt egy folyamatban lévő ügyben. Az esemény jelentős politikai és jogi súllyal bír az országban.",
+      "summary": "A Központi Nyomozó Főügyészség kihallgatta a miniszterelnököt egy folyamatban lévő ügyben. A fejlemény politikai szempontból is jelentős, és a jogállamiság működésére hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "500 milliárd forintért vettek irodaházakat megtérülési számítás nélkül",
-      "summary": "Az Orbán-kormány 500 milliárd forint értékben vásárolt irodaházakat állami tulajdonba, anélkül, hogy előzetes megtérülési számításokat végeztek volna. Ez komoly kérdéseket vet fel az állami vagyonkezelés átláthatóságával és hatékonyságával kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Államosították a meddőségi centrumokat több mint 13 milliárd forintból",
-      "summary": "A kormány 13 milliárd forintot meghaladó összegből államosította a meddőségi centrumokat, ami alapvető változást jelent a hazai reprodukciós egészségügyi szolgáltatások rendszerében. A lépés célja és hatásaival kapcsolatban széles körű vita folyik.",
+      "title": "Rogán Antal feleségének 120 milliós luxustáskája megússza, volt feleségének ékszerei nem a vagyonadót",
+      "summary": "Rogán Antal feleségének 120 milliós, gyémántos luxustáskája mentesül a vagyonadó alól, míg volt feleségének 18 milliós ékszerei nem. Az eset a vagyonnyilatkozatok és az adózás körüli kérdéseket veti fel.",
       "importance": 4
     },
     {
-      "title": "Rogán Antal feleségének luxustáskája megússza a vagyonadót, mások ékszerei nem",
-      "summary": "Rogán Antal feleségének 120 milliós, gyémántokkal kirakott luxustáskája nem esik vagyonadó alá, míg a volt feleségének 18 milliós ékszerei igen. Az eset ismét felhívja a figyelmet a vagyonnyilatkozatok és a közpénzek átláthatóságának kérdéseire.",
+      "title": "Több mint 13 milliárd forintból államosították a meddőségi centrumokat Orbánék",
+      "summary": "A kormány több mint 13 milliárd forintból államosította a meddőségi centrumokat, ami jelentős lépés az egészségügyi rendszer centralizálásában. A döntés a szakterület ellátásának jövőjét is befolyásolja.",
+      "importance": 4
+    },
+    {
+      "title": "Vitézy Dávid: „Újraindítjuk a Diákváros projektet”",
+      "summary": "Vitézy Dávid bejelentette a Diákváros projekt újraindítását, ami kulcsfontosságú lehet a budapesti lakhatási helyzet és a diákok elhelyezésének javításában. A terv a főváros fejlesztésének egyik kiemelt pontja.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Izraeliek felelősségre vonást követelnek az október 7-i kudarcok miatt",
-      "summary": "Három évvel az október 7-i támadások után az izraeliek továbbra is felelősségre vonást követelnek a kormánytól és a biztonsági szervektől a történtekért. Az események politikai és társadalmi feszültségeket szülnek az országban.",
+      "title": "Az izraeliek felelősségre vonást követelnek az október 7-i kudarcok miatt, három évvel a támadások után",
+      "summary": "Az izraeliek felelősségre vonást követelnek a 2023. október 7-i támadások kudarcai miatt, melyek három éve történtek. A közvélemény a kormány és a biztonsági erők elszámoltathatóságát követeli.",
       "importance": 5
     },
     {
-      "title": "Kanada felfüggeszti az asszisztált öngyilkosság kiterjesztését mentális betegekre",
-      "summary": "Kanada felfüggesztette azon terveit, hogy kiterjessze az orvosi segítséggel történő öngyilkosság lehetőségét a mentális betegséggel élőkre. A döntést széleskörű etikai és szakmai viták előzték meg a témában.",
-      "importance": 4
+      "title": "Az EU több mint 1600 személyt és szervezetet vesz fel az orosz szankciós listára",
+      "summary": "Az Európai Unió további 1600-nál is több személyt és szervezetet vesz fel az Oroszország elleni szankciós listára. Ez a lépés tovább szigorítja a gazdasági nyomást Moszkván, reagálva az ukrajnai háborúra.",
+      "importance": 5
     },
     {
-      "title": "Németországban robbant ki a hidegháború óta a legnagyobb kémbotrány egy gyerekelhelyezési ügy miatt",
-      "summary": "Egy elkeseredett gyerekelhelyezési vita eszkalálódott Németország legnagyobb kémbotrányává a hidegháború óta, amely mélyreható politikai és nemzetbiztonsági következményekkel jár. Az eset rávilágít a titkosszolgálatok működésének árnyoldalaira.",
-      "importance": 4
+      "title": "Gyermekek haltak meg álmukban, miközben orosz rakéta 19 embert ölt meg egy lakóházban",
+      "summary": "Orosz rakétatámadásban 19 ember halt meg egy lakóházban, köztük alvó gyerekek is áldozatul estek. Ez a tragédia az ukrajnai háború civil áldozatainak súlyos számát emeli ki.",
+      "importance": 5
     },
     {
-      "title": "19 ember, köztük öt gyerek halt meg egy orosz rakétatámadásban Prilukinál",
-      "summary": "Priluki városát orosz rakétatámadás érte, melyben 19 civil vesztette életét, köztük öt gyermek. Az eset rávilágít az ukrajnai háború folyamatosan szedett áldozataira és a civil lakosság szenvedésére.",
+      "title": "Gyerekelhelyezési ügy robbantotta ki Németország legnagyobb kémbotrányát a hidegháború óta",
+      "summary": "Egy eldurvult gyerekelhelyezési vita vezetett a hidegháború óta tartó legnagyobb német kémbotrány kirobbanásához. Az ügy súlyosan érinti a nemzetbiztonságot és a belső titkosszolgálatok működését.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Meta új AI eszközöket vezet be a gyermekek kizsákmányolásával kapcsolatos hirdetések észlelésére",
-      "summary": "A Meta új mesterséges intelligencia alapú eszközöket fejlesztett ki, amelyek célja a gyermekek szexuális zaklatására utaló hirdetések felderítése és eltávolítása. A technológia fontos lépést jelent az online gyermekvédelemben.",
+      "title": "A Microsoft új, Nvidia-chippel szerelt AI PC-ket dob piacra, megújult Windows 11-gyel",
+      "summary": "A Microsoft új, Nvidia-chippes AI PC-ket mutatott be, melyek megújult Windows 11 operációs rendszerrel érkeznek. Ez a fejlesztés a mesterséges intelligencia szélesebb körű integrálását célozza a személyi számítógépekbe.",
       "importance": 5
     },
     {
-      "title": "A ChatGPT vizuálisabbá válik egy új felület bevezetésével",
-      "summary": "A ChatGPT új, vizuálisabb felületet kap, ami jelentősen megkönnyíti a felhasználói élményt és a kommunikációt. A fejlesztés révén a mesterséges intelligencia még intuitívabbá válhat a felhasználók számára.",
-      "importance": 4
+      "title": "A Meta új AI eszközöket vezet be a gyermekbántalmazáshoz vezető hirdetések felderítésére",
+      "summary": "A Meta új mesterséges intelligencia alapú eszközöket vezet be, hogy felderítse azokat a hirdetéseket, amelyek titokban gyermekbántalmazó anyagokhoz vezetnek. Ez a fontos lépés a platform biztonságának növelését és a gyermekvédelem erősítését szolgálja.",
+      "importance": 5
     },
     {
-      "title": "A Google mesterséges intelligencia-alapú játékplatformmal kísérletezik",
-      "summary": "A Google egy mesterséges intelligencia-alapú játékplatformmal kísérletezik, ami új dimenziókat nyithat a játékfejlesztésben és a felhasználói interakcióban. A technológia jelentősen átalakíthatja a gaming iparágat.",
-      "importance": 4
+      "title": "A SpaceX korábbi dolgozói 100 millió dollárt szereztek az önvezető tehervonatok fejlesztésére",
+      "summary": "A SpaceX korábbi mérnökei 100 millió dolláros finanszírozást kaptak az önvezető tehervonatok fejlesztésére, ami forradalmasíthatja a szállítmányozást. Az innováció jelentős hatással lehet a logisztikai szektorra.",
+      "importance": 5
     },
     {
-      "title": "A SpaceX korábbi mérnökei 100 millió dollárt kaptak autonóm tehervonatok fejlesztésére",
-      "summary": "A SpaceX volt alkalmazottai 100 millió dolláros befektetést vontak be, hogy autonóm tehervonatokkal forradalmasítsák a szállítmányozást. Céljuk a logisztikai szektor hatékonyságának és biztonságának növelése önvezető technológiával.",
+      "title": "A ChatGPT for Teens beszélgetésben tartja a tinédzsereket, akár mentális egészségügyi krízisek idején is",
+      "summary": "A ChatGPT for Teens verziója segít a tinédzsereknek kommunikálni, akár mentális egészségügyi krízisek idején is. Az AI-alapú eszköz potenciálisan támogathatja a fiatalok mentális jólétét.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Először ketyegtek nukleáris órák",
-      "summary": "A tudósoknak először sikerült nukleáris órákat működésbe hozniuk, ami áttörést jelent az időmérés pontosságában és a kvantumfizikai kutatásokban. Ez a felfedezés új lehetőségeket nyithat meg az univerzum alapvető törvényeinek megértésében.",
+      "title": "A NASA holdi adatokat hozott nyilvánosságra a történelmi Artemis II küldetésből",
+      "summary": "A NASA rengeteg holdi adatot tett közzé a történelmi Artemis II repülésről. Ezek az adatok kulcsfontosságúak lehetnek a jövőbeli űrkutatások és a Hold megértése szempontjából.",
       "importance": 5
     },
     {
-      "title": "A génom hozzáférhetősége eddig ismeretlen betegségkockázatokat tár fel",
-      "summary": "A génom hozzáférhetőségének vizsgálata révén olyan betegségkockázatok azonosíthatók, amelyeket a génexpresszió elemzése eddig nem mutatott ki. Ez jelentős előrelépést jelent a precíziós orvoslás és a személyre szabott diagnosztika terén.",
+      "title": "A genom hozzáférhetősége olyan betegségkockázatot tár fel, amit a génexpresszió nem",
+      "summary": "A genom hozzáférhetőségének vizsgálata olyan betegségkockázatokat mutathat ki, amelyeket a génexpresszió elemzése nem észlel. Ez a felfedezés új diagnosztikai és terápiás lehetőségeket nyithat meg.",
       "importance": 5
     },
     {
-      "title": "A világ legnagyobb pingvinkolóniáját riasztó mértékű csökkenés sújtja",
-      "summary": "A világ legnagyobb pingvinkolóniájának egyedszáma riasztó mértékben csökken, ami komoly aggodalmakat vet fel a globális klímaváltozás és az élővilágra gyakorolt hatása miatt. A jelenség sürgős beavatkozást igényel a fajok megóvása érdekében.",
-      "importance": 4
+      "title": "Első alkalommal ketyegtek atommag-órák",
+      "summary": "Tudósoknak első alkalommal sikerült atommag-órákat működésre bírniuk, ami a pontosság új szintjét hozhatja el az időmérésben. Ez az áttörés új alapokra helyezheti a fizikai kutatásokat.",
+      "importance": 5
     },
     {
-      "title": "Kérdéses, véget vethet-e még a világ az AIDS-nek a megelőzés hiánya miatt",
-      "summary": "A megelőző intézkedések hanyatlása miatt aggasztó kérdés, hogy a világ képes lesz-e még véget vetni az AIDS járványnak. A szakértők hangsúlyozzák a megelőzés fontosságát a fertőzések terjedésének megakadályozásában.",
-      "importance": 4
+      "title": "Képes az agyunk új neuronokat termelni? Kutatók egy évszázados rejtélyt fejtenek meg",
+      "summary": "Kutatók egy évszázados rejtélyt próbálnak megfejteni arról, hogy az emberi agy képes-e új neuronokat termelni. A neurogenezi kutatásai alapvetőek lehetnek a neurológiai betegségek kezelésében.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "A Southampton menedzsere felfüggesztett eltiltással maradhat a posztján a „Spygate” botrány után",
-      "summary": "A Southampton labdarúgócsapatának menedzsere felfüggesztett eltiltást kapott egy kémkedési botrány (Spygate) miatt, de továbbra is a posztján maradhat. Az ügy felkavarta az angol futball világát.",
-      "importance": 4
+      "title": "Az X kiterjeszti „Gametime” sportközpontját az NFL-en túlra, az MLB-vel kezdve",
+      "summary": "Az X (korábban Twitter) kiterjeszti „Gametime” sportközpontját, amely az NFL mellett mostantól az MLB-t is magában foglalja. Ez a lépés növelheti a platform sporttartalmak iránti vonzerejét.",
+      "importance": 3
     },
     {
-      "title": "Két ikonikus sportoló búcsúja és egy potenciálisan keserű vég",
-      "summary": "Két ikonikus sportoló karrierjének vége közeleg, egy dicsőséges búcsú és egy potenciálisan keserű lezárás árnyékában. A sportvilág figyelemmel kíséri legendáik utolsó mérkőzéseit vagy versenyeit.",
-      "importance": 3
+      "title": "Nincs további releváns sport hír a listában",
+      "summary": "A rendelkezésre álló hírek között nem szerepel más specifikus sport témájú cikk.",
+      "importance": 1
+    },
+    {
+      "title": "Nincs további releváns sport hír a listában",
+      "summary": "A rendelkezésre álló hírek között nem szerepel más specifikus sport témájú cikk.",
+      "importance": 1
+    },
+    {
+      "title": "Nincs további releváns sport hír a listában",
+      "summary": "A rendelkezésre álló hírek között nem szerepel más specifikus sport témájú cikk.",
+      "importance": 1
     }
   ]
 }

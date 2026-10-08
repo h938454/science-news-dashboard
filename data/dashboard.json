@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Kihallgatták a miniszterelnököt az ügyészségen",
-      "summary": "A Központi Nyomozó Főügyészség kihallgatta a miniszterelnököt egy folyamatban lévő, nagy horderejű ügyben. Az eset az országos politika egyik legfontosabb fejleménye.",
+      "title": "Tudatosan választotta az igazgató a bicskei gyermekotthont a visszaélésekre",
+      "summary": "A bicskei gyermekotthon korábbi igazgatója szándékosan választhatta az intézményt a bántalmazások elkövetésére, állítja a nyomozás. Ez a tény új megvilágításba helyezi az ügy súlyosságát és az áldozatok védelmének hiányosságait.",
       "importance": 5
     },
     {
-      "title": "Már öt gyanúsítottja van az aranykonvoj-ügynek",
-      "summary": "A nagyszabású aranykonvoj-ügyben, mely feltehetően korrupciós cselekményekre utal, már öt gyanúsítottat azonosítottak. A nyomozás a közbeszerzések és hivatali visszaélések gyanúját vizsgálja.",
+      "title": "Félmilliárd forint közpénzt kapott a fideszes cég hiányos pályázattal",
+      "summary": "Molnár Áron dokumentumokkal igazolta, hogy egy fideszes cég félmilliárd forintot kapott a Nemzeti Kulturális Alaptól úgy, hogy pályázatát sem töltötte ki rendesen. Az eset újabb kérdéseket vet fel a közpénzek elosztásának átláthatóságával kapcsolatban.",
+      "importance": 5
+    },
+    {
+      "title": "Mozgalom indult a Balaton kisajátításos védelméért",
+      "summary": "Az SOS Balaton nevű új mozgalom szerint a kormánynak akár kisajátításokkal is meg kellene védenie a Balatont a túlzott beépítésektől. Céljuk a tó természeti értékeinek megőrzése és a közérdek érvényesítése.",
       "importance": 4
     },
     {
-      "title": "Ukrajna köszönetet mondott Magyarországnak az EU-csatlakozási tárgyalások vétójának feloldásáért",
-      "summary": "Az ukrán külügyminiszter köszönetét fejezte ki Magyarországnak, amiért feloldotta vétóját Ukrajna Európai Uniós csatlakozási tárgyalásainak folytatása ügyében. Ez a lépés fontos diplomáciai fordulatot jelent a két ország viszonyában és Ukrajna uniós integrációjában.",
+      "title": "Visszakapják Tordai és Jakab parlamenti büntetését",
+      "summary": "A bíróság döntése értelmében Tordai Bence és Jakab Péter visszakapja a Kövér László által kiszabott rekordösszegű parlamenti büntetését. Az ítélet a parlamenti szólásszabadság és a büntetések jogszerűségének kérdését érinti.",
       "importance": 4
-    },
-    {
-      "title": "Menzacégeket vizsgál a versenyhivatal tiltott megállapodás gyanúja miatt",
-      "summary": "A Gazdasági Versenyhivatal (GVH) menzacégeket vizsgál tiltott versenykorlátozó megállapodás gyanúja miatt, ami a közétkeztetési piac tisztességét érintheti. A vizsgálat célja a fogyasztók és a közpénzek védelme.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Halálos houthi támadások szaúdi repülőterek ellen",
-      "summary": "Három ember vesztette életét houthi támadásokban szaúd-arábiai repülőtereken, a hivatalos szervek tájékoztatása szerint. Az incidensek súlyosbítják a regionális feszültségeket a Közel-Keleten.",
+      "title": "Orosz rakétacsapás buszokra: több tucat halott Ukrajnában",
+      "summary": "Az orosz erők buszokat célzó rakétacsapásában legalább 30 ember vesztette életét Ukrajnában, miközben az ország elleni halálos támadások tovább fokozódnak. Az incidens rávilágít a polgári lakosságot sújtó folyamatos erőszakra és a konfliktus eszkalációjára.",
       "importance": 5
     },
     {
-      "title": "Elhunyt a spanyol kilakoltatási tüntetések szimbóluma, Maricarmen Abascal",
-      "summary": "Meghalt a 87 éves Maricarmen Abascal, akinek kilakoltatása Spanyolország-szerte lakhatási tüntetéseket váltott ki és a szociális igazságtalanság szimbólumává vált. Halála újra felhívta a figyelmet a súlyos lakhatási válságra.",
-      "importance": 4
+      "title": "Jogellenesnek minősítették András herceg házkutatási engedélyeit",
+      "summary": "A bíróság jogellenesnek találta az András herceg otthonainak átkutatására kiadott engedélyeket, ami jelentősen befolyásolhatja a volt herceg elleni nyomozást. Az ítélet komoly jogi precedenst teremthet a brit királyi család tagjait érintő ügyekben.",
+      "importance": 5
     },
     {
-      "title": "Németország legnagyobb kémbotrányát robbantotta ki egy gyerekelhelyezési ügy",
-      "summary": "Egy elmérgesedett gyerekelhelyezési ügy vezetett Németország legnagyobb kémbotrányához a hidegháború óta, amely mélyrehatóan érintheti a nemzetbiztonságot. Az eset rávilágít a magánéleti konfliktusok és a nemzetbiztonsági kockázatok összefüggéseire.",
-      "importance": 4
+      "title": "Brit tengerészt vádolnak orosz kémkedésre való felkészüléssel",
+      "summary": "Egy brit haditengerészeti tengerészt bíróság elé állítottak azzal a váddal, hogy Oroszországnak próbált meg titkos információkat átjátszani. Az ügy nemzetközi biztonsági aggályokat vet fel és rávilágít az orosz kémtevékenység fenyegetésére.",
+      "importance": 5
     },
     {
-      "title": "Több mint 190 millió dollár eltulajdonítását ismerte el egy CIA-tiszt",
-      "summary": "Egy korábbi CIA-tiszt beismerte, hogy hamisított titkos kormányzati programot hozott létre több mint 190 millió dollár, köztük aranyrudak ellopására. Az ügy rávilágít a titkosszolgálati ügynökökkel kapcsolatos korrupciós kockázatokra.",
-      "importance": 3
+      "title": "Felfüggesztettek 45 skót rendőrt nők elleni bűncselekmények miatt",
+      "summary": "Negyvenöt skót rendőrt függesztettek fel a nőket érintő állítólagos bűncselekmények miatt, jelentette be a főkapitány. Az eset súlyos kérdéseket vet fel a rendőrségen belüli visszaélésekről és a bizalom helyreállításának szükségességéről.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Microsoft új, Nvidia-chippel szerelt AI PC-ket mutatott be megújult Windows 11-gyel",
-      "summary": "A Microsoft új, Nvidia-chippel ellátott mesterséges intelligencia PC-ket dobott piacra, frissített Windows 11 operációs rendszerrel. Ez a lépés jelentős előrelépést jelent a személyi számítógépek AI-képességeinek bővítésében.",
+      "title": "A Google ügynöki mesterséges intelligenciát visz a Gemini-be vállalkozások számára",
+      "summary": "A Google ügynöki mesterséges intelligencia funkciókat vezet be a Gemini platformjába, elsősorban vállalkozások számára. Ez a lépés jelentősen kibővítheti az AI alkalmazási területeit az üzleti szektorban.",
       "importance": 5
     },
     {
-      "title": "A mesterséges intelligencia chipek iránti kereslet rekordnyereséget hozott a Samsungnak",
-      "summary": "A mesterséges intelligencia chipek iránti hatalmas kereslet 80 milliárd dolláros rekordnyereséget eredményezett a Samsung számára, jelezve az AI iparág exponenciális növekedését. Ez a gazdasági adat aláhúzza az AI technológia alapvető fontosságát a modern gazdaságban.",
-      "importance": 4
+      "title": "Az OpenAI bevétele a várakozások alatt maradt 20 milliárd dollárral",
+      "summary": "Az OpenAI bevétele a jelentések szerint 20 milliárd dollárral kevesebb, mint az előzetesen várták, ami rávilágít a mesterséges intelligencia piacának kihívásaira. Ez az adat fontos jelzés a befektetők és az iparági elemzők számára.",
+      "importance": 5
     },
     {
-      "title": "A Meta új AI eszközöket vezet be a gyermekbántalmazó hirdetések felderítésére",
-      "summary": "A Meta új mesterséges intelligencia alapú eszközöket vezet be a gyermekek szexuális bántalmazására utaló, rejtett hirdetések felderítésére platformjain. Ez a fejlesztés kulcsfontosságú lépés a gyermekek online védelmében és a káros tartalmak elleni küzdelemben.",
-      "importance": 4
+      "title": "Az USA kizárja a tech cégeket a zöldkártya programból képzett külföldi munkások számára",
+      "summary": "Az Egyesült Államok megtiltotta a Microsoft, az Adobe és más nagy IT-cégeknek, hogy részt vegyenek egy zöldkártya programban képzett külföldi munkavállalók számára. Ez a döntés komoly hatással lehet a tech iparág munkaerőpiacára és a globális tehetségek vonzására.",
+      "importance": 5
     },
     {
-      "title": "A ChatGPT egy új felülettel vizuálisabbá válik",
-      "summary": "A ChatGPT egy új, vizuálisabb felület bevezetésével fejlődik, ami lehetővé teszi a felhasználók számára, hogy intuitívabb módon kommunikáljanak a mesterséges intelligenciával. Ez az update tovább növeli a chatbot sokoldalúságát és felhasználói élményét.",
-      "importance": 3
+      "title": "Az Asos megerősítette az ügyféladatok feltörését",
+      "summary": "Az Asos megerősítette az ügyféladatok megsértését, miután hackerek rosszindulatú alkalmazásértesítéseket küldtek. Az incidens rávilágít az online kiskereskedelmi platformok adatvédelmi kockázataira és a kiberbiztonság fontosságára.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Először ketyegtek atommag-órák",
-      "summary": "Tudósoknak első alkalommal sikerült atommag-órákat működtetniük, ami áttörést jelent az időmérés és az alapvető fizika kutatásában. Ez a felfedezés új lehetőségeket nyit a precíziós mérések és a fizikai állandók vizsgálata terén.",
+      "title": "Először ketyegtek atomórák",
+      "summary": "Tudósoknak először sikerült működésre bírniuk atomórákat, ami forradalmi áttörés a precíziós időmérésben. Ez a technológia új lehetőségeket nyithat meg a navigáció, a gravitációs mérések és a fizikai alapjelenségek kutatásában.",
       "importance": 5
     },
     {
-      "title": "A NASA hatalmas mennyiségű holdadatot tett közzé az Artemis II küldetésből",
-      "summary": "A NASA jelentős mennyiségű holdadatot hozott nyilvánosságra a történelmi Artemis II repülésből, amelyek értékes betekintést nyújtanak a Hold környezetébe és geológiájába. Ezek az adatok kulcsfontosságúak lehetnek a jövőbeli holdkutatások és emberes küldetések tervezéséhez.",
+      "title": "Az Egyesült Arab Emírségek első űrszondája aszteroidához tart",
+      "summary": "Az Egyesült Arab Emírségek sikeresen befejezte az arab világ első önálló űrszondájának küldetését, amely most egy aszteroida felé tart. Ez a teljesítmény mérföldkő az ország űrprogramjában és a nemzetközi űrkutatásban.",
+      "importance": 5
+    },
+    {
+      "title": "A NASA hatalmas mennyiségű holdadatot tett közzé az Artemis II-ről",
+      "summary": "A NASA jelentős mennyiségű holdadatot tett elérhetővé a történelmi Artemis II küldetésből. Ezek az adatok kulcsfontosságúak lehetnek a jövőbeli holdkutatásokhoz és a Hold összetételének jobb megértéséhez.",
       "importance": 4
     },
     {
-      "title": "A genom hozzáférhetősége feltárja a betegségkockázatot, amit a génexpresszió nem mutat ki",
-      "summary": "Új kutatások szerint a genom hozzáférhetősége olyan betegségkockázatokat tárhat fel, amelyeket a hagyományos génexpressziós vizsgálatok nem képesek kimutatni. Ez a felfedezés mélyebb betekintést nyújthat a betegségek kialakulásába és új diagnosztikai módszerek kifejlesztéséhez vezethet.",
+      "title": "A genomi hozzáférés feltárja a betegségi kockázatokat, amiket a génexpresszió nem",
+      "summary": "Egy új kutatás szerint a genomi hozzáférés elemzése olyan betegségi kockázatokat tár fel, amelyeket a génexpressziós adatok nem mutatnak ki. Ez a megközelítés forradalmasíthatja a diagnosztikát és a személyre szabott orvoslást.",
       "importance": 4
-    },
-    {
-      "title": "Az emlősök korai elődje úszni, szopni és nyelni is tudott",
-      "summary": "Felfedezték, hogy az emlősök egy korai elődje már képes volt úszni, szopni és nyelni is, ami új megvilágításba helyezi az emlősök evolúciós fejlődését. Ez az ősi faj egyedülálló adaptációival segíti a tudósokat az emlősök korai életmódjának megértésében.",
-      "importance": 3
     }
   ],
-  "sports": [
-    {
-      "title": "Így tervezték a budapesti olimpia pénzügyi hátterét: Olimpiai lottó és tao",
-      "summary": "Áprilisban tervezet készült a budapesti olimpia pénzügyi hátteréről, mely szerint 4,7 milliárd eurós hasznot reméltek olimpiai lottó és tao bevételekből. A tervek betekintést nyújtanak egy lehetséges jövőbeli nagyszabású sportesemény gazdasági alapjaiba.",
-      "importance": 4
-    },
-    {
-      "title": "Az X kiterjeszti „Gametime” sportközpontját az MLB-vel",
-      "summary": "Az X (korábbi Twitter) kibővíti „Gametime” sportközpontját az NFL-en túl az MLB (Major League Baseball) eseményeivel, ezzel szélesítve a sporttartalmak körét platformján. Ez a lépés növeli a felhasználók sporteseményekhez való hozzáférését és a platform sportközvetítési szerepét.",
-      "importance": 3
-    },
-    {
-      "title": "Magyar Péter „szánalmasnak” nevezte a Fradi ultráit",
-      "summary": "Magyar Péter \"igazán szánalmasnak\" kommentálta a Fradi ultráinak akcióját, akik bosszút akarnak állni Kálnoki-Kiss Attilán. Az eset rávilágít a futballszurkolói kultúra és a közéleti szereplők közötti feszültségekre.",
-      "importance": 3
-    },
-    {
-      "title": "Vitézy Dávid újraindítja a Diákváros projektet",
-      "summary": "Vitézy Dávid bejelentette, hogy \"újraindítják a Diákváros projektet\", ami Budapesten egy jelentős fejlesztési terv a hallgatók számára. Bár elsősorban oktatási és lakhatási célú, egy ilyen projekt gyakran tartalmaz sportlétesítményeket is, amelyek a diákok sportéletét szolgálhatják.",
-      "importance": 2
-    }
-  ]
+  "sports": []
 }

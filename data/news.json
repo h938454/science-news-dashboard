@@ -1,269 +1,188 @@
 {
-  "Telex": [
-    {
-      "title": "Van, ahol még a nap is kisüt vasárnap",
-      "link": "https://telex.hu/belfold/2026/10/11/idojaras-elorejelzes-borus-ido-eso",
-      "summary": "Az ország nagy részén eláll az eső, de a keleti országrészben marad a borús idő."
-    },
-    {
-      "title": "Súlyos támadás érte a szaúdi főváros repterét, 12-en meghaltak, 309-en megsérültek",
-      "link": "https://telex.hu/kulfold/2026/10/11/szaud-arabia-rijad-repter-tamadas-jemen-huszik",
-      "summary": "A szaúdi kormány vezette katonai koalíció a szombati támadást háborús bűncselekménynek nevezte, és válaszlépést ígért a jemeni húszi lázadók ellen. Trump pedig gondolkodik, hogy beszálljon a húszik elleni harcba."
-    },
-    {
-      "title": "Andrej Babiš szerint hatalmas pofon Európának Trump és Putyin megállapodása",
-      "link": "https://telex.hu/kulfold/2026/10/11/andrej-babis-csehorszag-trump-es-putyin-megallapodasa-hatalmas-pofon",
-      "summary": "A cseh miniszterelnök európai választ vár az amerikaiak és oroszok dízelmegállapodására."
-    },
-    {
-      "title": "Diplomáciai bravúr kell ahhoz, hogy Magyar Péter zöld is maradjon, és a lengyelekkel se vesszen össze",
-      "link": "https://telex.hu/nevertek/2026/10/11/tisza-kormany-zold-klimapolitika-lengyelorszag-eu-ets",
-      "summary": "Továbbra is Európa egyik leginkább szénfüggő gazdasága Lengyelország, így ellentart a zöldítésnek és az emissziókereskedelem szigorításának. Varsó számít ebben Magyarországra, de a V4 felélesztését felülírhatja a hazai zöldpolitika."
-    },
-    {
-      "title": "Roisín O'Donnell: Fészek (részlet)",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/10/11/roisin-o-donnell-feszek-reszlet",
-      "summary": "Olvasson bele az ír Roisín O'Donnell feszültséggel teli, olvasmányos regényébe, amely megrázó képet fest a párkapcsolati erőszakról!"
-    },
-    {
-      "title": "Úszó könyvtárak, amelyek az irodalom zászlaja alatt hajóznak",
-      "link": "https://telex.hu/eszkombajn/2026/10/11/konyvtarhajo-laosz-svedorszag-norvegia-epos",
-      "summary": "Laoszban és Skandináviában sok helyen ma is vízi járműveknek köszönhetően jutnak olvasnivalóhoz azok, akik eldugott, nehezen megközelíthető településeken élnek."
-    },
-    {
-      "title": "A túrázók rovására terjeszkedik a hadsereg, a lőgyakorlatok miatt bakonyi útvonalakat szüntettek meg",
-      "link": "https://telex.hu/szepkilatas/2026/10/11/bakony-katonai-terulet-megszuntetett-turautvonalak",
-      "summary": "Összesen 70 kilométernyi turistautat szüntettek meg vagy helyeztek át az elmúlt néhány hónapban a hadsereg fokozódó lőtéri tevékenysége miatt. Az áthelyezett túrautak felfestése még tart, az életveszélyesnek minősített katonai területek határait azonban sokszor nagyítóval kell keresniük a túrázóknak."
-    },
-    {
-      "title": "Ruszin-Szendi Romulusz szerint katonákkal írattak róla jelentéseket",
-      "link": "https://telex.hu/belfold/2026/10/11/ruszin-szendi-romulusz-magyar-honvedseg-elemzesek",
-      "summary": "A miniszter várja, hogy jelentkezzen az ezt elrendelő „szánalmas, kicsinyes, hazafiatlan, bajtársiatlan, gyáva, politikailag manipulált ember”."
-    },
-    {
-      "title": "Miért sikeresebbek exportban a cseh és a lengyel cégek, mint a magyarok?",
-      "link": "https://telex.hu/g7/vallalat/2026/10/11/export-siker-cseh-lengyel-cegek-magyarok-hozzadott-ertek",
-      "summary": "Magyarország a régió legnyitottabb gazdasága, de exportjában kisebb a hazai hozzáadott érték, mint a cseh és a lengyel kivitelben. A különbség a vállalati termelékenységben és méretben is kiütközik."
-    },
-    {
-      "title": "A kezdés után 8 másodperccel kapott hatalmas potyagólt a Bayern",
-      "link": "https://telex.hu/sport/2026/10/10/manuel-neuer-bundesliga-potyagol-augsburg",
-      "summary": "Manuel Neuer belerúgta a labdát a letámadó csatárba, akinek ezután csak az üresen álló kapuba kellett passzolnia."
-    },
-    {
-      "title": "Visszautasította az Exim exportösztönző magántőkealap kezelője a politikai összefonódásra vonatkozó feltételezéseket",
-      "link": "https://telex.hu/gazdasag/2026/10/10/exim-exportosztonzo-magantokealap-feljelentes-kapitany-istvan",
-      "summary": "Kapitány István pénteken közölte, hogy két újabb, összesen 166 milliárdos ügyben tett feljelentést."
-    },
-    {
-      "title": "Elegük lett, hogy az erdőtüzek miatt betegek a gyerekek, ezért inkább elmentek tűzoltónak",
-      "link": "https://telex.hu/kulfold/2026/10/10/erdotuz-indonezia-borneo-tuzoltok",
-      "summary": "Az indonéziai Borneó szigetén rendszeresek az erdőtüzek, de az idei év mindent felülmúlt. Egyes falvakban az anyák összefogtak, hogy javítsanak a helyzeten. Mások gondatlanság miatt beperelték az elnököt."
-    },
-    {
-      "title": "58 ezer milliárd forinttal kisebb uniós költségvetést javasoltak az írek, mindkét oldalról nekik estek",
-      "link": "https://telex.hu/gazdasag/2026/10/10/eu-koltsegvetes-mff-2028-2034-europai-unio-tanacsa-ir-elnokseg-sarokszamok",
-      "summary": "A németek túl kicsinek, az EP-ből túl nagynak tartották a nyolc százalékos csökkentést a 2028-ban induló hétéves költségvetés tervezetén."
-    },
-    {
-      "title": "Tóth Gabi zuglói fellépése miatt bejelentést tesz az ÁSZ-nál a kerület polgármestere",
-      "link": "https://telex.hu/belfold/2026/10/10/toth-gabi-nka-radics-bela-rozsa-andras-zuglo",
-      "summary": "Az énekes a fideszes Radics Béla kampányrendezvényén lépett fel, ami Rózsa András szerint felveti a tiltott kampányfinanszírozás gyanúját."
-    },
-    {
-      "title": "Trump: Eljött az ideje, hogy Ukrajnának új elnöke legyen",
-      "link": "https://telex.hu/kulfold/2026/10/10/trump-eljott-az-ideje-hogy-ukrajnanak-uj-elnoke-legyen",
-      "summary": "Az amerikai elnök szerint Zelenszkij sok megállapodást megköthetett volna, de valamiért soha nem tette."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Leváltották a jászberényi kórház főigazgatóját",
+      "link": "https://444.hu/2026/10/11/levaltottak-a-jaszberenyi-korhaz-foigazgatojat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az eddigi ápolási igazgató lett a kórház megbízott vezetője."
+    },
+    {
+      "title": "Négyen meghaltak, miután az Isaias hurrikán elérte a szárazföldet",
+      "link": "https://444.hu/2026/10/11/negyen-meghaltak-miutan-az-isaias-hurrikan-elerte-a-szarazfoldet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "És miatta még nagyobb lett az üzemanyag-válság."
+    },
+    {
+      "title": "Hajótörés miatt több mint százan meghaltak Dzsibuti partjainál, sokan eltűntek",
+      "link": "https://444.hu/2026/10/11/hajotores-miatt-tobb-mint-szazan-meghaltak-dzsibuti-partjainal-sokan-eltuntek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A keresés tart a túlélők után."
+    },
+    {
+      "title": "Zelenszkij: Ukrajna leállítja az orosz olajfinomítók elleni támadásokat, ha Oroszország felhagy az energetikai infrastruktúra támadásával",
+      "link": "https://444.hu/2026/10/11/zelenszkij-ukrajna-leallitja-az-orosz-olajfinomitok-elleni-tamadasokat-ha-oroszorszag-felhagy-az-energetikai-infrastruktura-tamadasaval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Rácz András szerint azonban az esetlegesen leszállítható orosz gázolaj mennyisége elhanyagolhatóan kicsi, ezért teljes tévedés arra számítani, hogy ez a mennyiség érdemben befolyásolhatja jelenlegi amerikai üzemanyagárakat."
+    },
+    {
+      "title": "Csomót találtak a pápa tüdejében",
+      "link": "https://444.hu/2026/10/11/csomot-talaltak-a-papa-tudejeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Hamarosan megoperálják."
+    },
+    {
+      "title": "A világ legviccesebb haldoklása",
+      "link": "https://444.hu/jo/2026/10/11/a-vilag-legviccesebb-haldoklasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ozzy Osbourne posztumusz megjelent, második önéletrajzi könyve, az Utolsó kenet elképesztő fájdalmakról és emberi drámákról szól. De a világ egyik legidiótább, egyben legszerencsésebb embere holtában is elsősorban nevettetni akar."
+    },
+    {
+      "title": "A kormányfő és a kormányfő-helyettes elleni lehetséges merénylet miatt ülnek össze a lengyel biztonsági szolgálatok",
+      "link": "https://444.hu/2026/10/11/a-kormanyfo-es-a-kormanyfo-helyettes-elleni-lehetseges-merenylet-miatt-ulnek-ossze-a-lengyel-biztonsagi-szolgalatok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A tanácskozást azért szervezik, mert a rendőrség Donald Tusk és Wladyslaw Kosiniak-Kamysz elleni lehetséges merényletről kapott információt."
+    },
+    {
+      "title": "Az isztambuli egyezmény ratifikálását kérik a kormánytól a magyar női lapok szerkesztőségei",
+      "link": "https://444.hu/2026/10/11/az-isztambuli-egyezmeny-ratifikalasat-kerik-a-kormanytol-a-magyar-noi-lapok-szerkesztosegei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Arra kérik a civileket, a szakmai szervezeteket és a sajtó képviselőit, hogy csatlakozzanak a kampányhoz, és az azonos céllal indított petícióhoz."
+    },
+    {
+      "title": "Hadházy Ákos feljelentést tesz tűzijáték-ügyben",
+      "link": "https://444.hu/2026/10/11/hadhazy-akos-feljelentest-tesz-tuzijatek-ugyben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A belügy vizsgálata nem nyugtatta meg, szerinte kétszer fizethettek a petárdákért és a rakétákért."
+    },
+    {
+      "title": "A fideszes képviselő szerint Tóth Gabit nem kampányrendezvényre hívták Debrecenbe",
+      "link": "https://444.hu/2026/10/11/a-fideszes-kepviselo-szerint-toth-gabit-nem-kampanyrendezvenyre-hivtak-debrecenbe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Széles Diána fideszes képviselő szerint, a „tiszás besúgórendszerben mindenki gyanús lehet, aki egy színpadon áll egy ellenzéki városvezetővel”, de szerinte ettől még jó emberek lehetnek, ahogy Tóth Gabi is."
+    },
+    {
+      "title": "Balatonkenesén esett a legtöbb eső az elmúlt 24 órában",
+      "link": "https://444.hu/2026/10/11/egy-honapra-is-eleg-eso-esett-budapesten-az-elmult-24-oraban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Egy hónapra is elegendő."
+    },
+    {
+      "title": "Umami #8: A konyhák Kurt Cobain-Odüsszeusza halálában lett igazi legenda",
+      "link": "https://444.hu/2026/10/11/umami-8-a-konyhak-kurt-cobain-odusszeusza-halalaban-lett-igazi-legenda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Anthony Bourdain személyisége, története még halála után nyolc évvel is izgalomban tartja a fél világot. Sűrű történet ez, van benne minden, gimis romantika, keménydrogos gasztrorocksztárság, értelmiségi álomkarrier, médiaglória, és mindemögött örvénylő bűntudat és depresszió."
+    },
+    {
+      "title": "Szabadon engedték a korábban őrizetbe vett Csótány Néppárt vezetőit Indiában",
+      "link": "https://444.hu/2026/10/11/szabadon-engedtek-a-korabban-orizetbe-vett-csotany-neppart-vezetoit-indiaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az ifjúsági mozgalom vezetői azt írták a közösségi médiában, hogy „a csótányok sosem halnak meg!”"
+    },
+    {
+      "title": "Komjáthi Imre a fiatalok elérésében példát mutat a vén csataló Orbánnak",
+      "link": "https://444.hu/2026/10/11/komjathi-imre-a-fiatalok-elereseben-peldat-mutat-a-ven-csatalo-orbannak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Saját Discord-szerver! Öt-nyolc kilométer futás! Metallica! Stalker 2! Normalitás!"
+    },
     {
       "title": "Babiš sokkolónak nevezte Trump és Putyin megállapodását az orosz olajtermékekről",
       "link": "https://444.hu/2026/10/11/babis-sokkolonak-nevezte-trump-es-putyin-megallapodasat-az-orosz-olajtermekekrol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "„Értem, hogy Trump választások előtt áll, ám Európa számára ez hatalmas pofon. Meglátjuk, mit szólnak hozzá az európai kollégák” – mondta a cseh miniszterelnök."
-    },
-    {
-      "title": "Tizenkét halottja van a rijádi reptér elleni fegyveres támadásnak",
-      "link": "https://444.hu/2026/10/11/tizenket-halottja-van-a-rijadi-repter-elleni-fegyveres-tamadasnak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A repülőtér ellen a héten már három támadást is végrehajtottak, amikben négyen meghaltak, többen megsebesültek, egy repülőgép pedig súlyosan megrongálódott.​"
-    },
-    {
-      "title": "1956 előzményei: a vas és acél országát ígérve forgatta fel a kommunista párt a magyar társadalmat",
-      "link": "https://444.hu/2026/10/11/1956-elozmenyei-a-vas-es-acel-orszagat-igerve-forgatta-fel-a-kommunista-part-a-magyar-tarsadalmat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Rákosi-rendszer munkát, lakást és felemelkedést ígért a legszegényebbeknek, miközben a kommunista párt egyre inkább maga döntötte el, ki számít értékes embernek, és kinek milyen jövő juthat. Egyetlen betű az osztálynaplóban akár a továbbtanulás sorsát is megpecsételhette. Az 1956-os forradalom 70. évfordulójára az ELTE történészprofesszora háromrészes cikksorozatban mutatja be, a magyar társadalom miként jutott el október 23-ig."
-    },
-    {
-      "title": "Most tátjuk a szánkat a szexista-perverz magyar poprapen, pedig már az első ismert magyar költő is szex közben fingó nőkről verselt",
-      "link": "https://444.hu/2026/10/10/most-tatjuk-a-szankat-a-szexista-perverz-magyar-poprapen-pedig-mar-az-elso-ismert-magyar-kolto-is-szex-kozben-fingo-nokrol-verselt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Csezmiczei János is álnéven tolta a mocskosabbnál mocskosabb szövegeket, a mentegetőzése pedig a mai fülnek is ismerős lehet: a költészet csak játék, meg egyébként is, a humanisták epigrammáinak semmi köze a valósághoz. Vini, Mollywood és KKevin már elengedték az időmértékes flowt, de a Suttyó Summer fejet hajthatna az öreg Janus előtt."
-    },
-    {
-      "title": "Trump: Eljött az ideje, hogy Ukrajnának új elnöke legyen",
-      "link": "https://444.hu/2026/10/10/trump-eljott-az-ideje-hogy-ukrajnanak-uj-elnoke-legyen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Zelenszkij és az amerikai elnök a nemrég bejelentett orosz-amerikai dízel megállapodás miatt feszülnek egymásnak."
-    },
-    {
-      "title": "Bemászott a tigris ketrecébe egy férfi egy angliai állatparkban, meghalt",
-      "link": "https://444.hu/2026/10/10/bemaszott-a-tigris-ketrecebe-egy-ferfi-egy-angliai-allatparkban-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az még nem világos, hogy hogyan jutott be."
-    },
-    {
-      "title": "10 nappal a kivégzése után kiengedték a kórházból Christa Pike-ot",
-      "link": "https://444.hu/2026/10/10/10-nappal-sikertelen-kivegzese-utan-kiengedtek-a-korhazbol-christa-pike-ot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A nőt 1996-ban ítélték halálra, alig húszéves korában. Szeptember 30-án két adag halálos injekciót élt túl."
-    },
-    {
-      "title": "Kármán András: A vagyonadó 5 százalékát közcélokra is fel lehet majd ajánlani",
-      "link": "https://444.hu/2026/10/10/karman-andras-a-vagyonado-5-szazalekat-kozcelokra-is-fel-lehet-majd-ajanlani?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Vagyonadót azok fizetnek majd, akik egymilliárd forint fölötti nettó vagyonnal rendelkeznek."
-    },
-    {
-      "title": "Fegyelmi eljárást indított Cristiano Ronaldo ellen a Portugál Labdarúgó Szövetség",
-      "link": "https://444.hu/2026/10/10/fegyelmi-eljarast-inditott-cristiano-ronaldo-ellen-a-portugal-labdarugo-szovetseg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy Nemzetek Ligája-meccs előtt elhagyta a válogatott edzőtáborát, miután összekülönbözött Jorge Jesus szövetségi kapitánnyal."
-    },
-    {
-      "title": "Vitézy Dávid elküldte a levelet Mészáros cégének: ki vannak rúgva a Déli körvasút építéséből",
-      "link": "https://444.hu/2026/10/10/vitezy-david-elkuldte-a-levelet-meszaros-cegenek-ki-vannak-rugva-a-deli-korvasut-epitesebol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az alapos gyanú szerint a kivitelezési közbeszerzés során jogsértő összejátszás történt."
-    },
-    {
-      "title": "Újabb támadás érte a rijádi nemzetközi repülőteret",
-      "link": "https://444.hu/2026/10/10/ujabb-tamadas-erte-a-rijadi-nemzetkozi-repuloteret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Valószínűleg ismét a jemeni hútik lőtték a repteret. Rijádban a következő napokban energetikai és befektetési konferenciákat rendeznek, ezeket nem mondták le."
-    },
-    {
-      "title": "Újabb késes támadás történt egy lengyelországi iskolában, a héten már a harmadik, több helyen szünetet rendeltek el",
-      "link": "https://444.hu/2026/10/10/ujabb-keses-tamadas-tortent-egy-lengyelorszagi-iskolaban-a-heten-mar-a-harmadik-tobb-helyen-szunetet-rendeltek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A támadások sokkolták Lengyelországot, ahol az iskolai erőszak új jelenségnek számít. Számos szülő úgy döntött, egyelőre nem engedi gyermekét iskolába."
-    },
-    {
-      "title": "Az olasz kormányon próbálják a svájciak leverni a szilveszteri tűzesetben megsérült olasz állampolgárok kórházi számláit",
-      "link": "https://444.hu/2026/10/10/az-olasz-kormanyon-probaljak-a-svajciak-leverni-a-szilveszteri-tuzesetben-megserult-olasz-allampolgarok-korhazi-szamlait?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A crans-montanai tűzvészben hat olasz kiskorú vesztette életét, 16 olasz állampolgár pedig megsérült."
-    },
-    {
-      "title": "Szibériai népek halnak ki Putyin ukrajnai háborújában",
-      "link": "https://444.hu/2026/10/10/sziberiai-nepek-halnak-ki-putyin-ukrajnai-haborujaban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Néhány száz fős falvak, néhány ezres kisebbségek szenvedik arányosan a legnagyobb veszteségeket a fronton. Az orosz mércével is koldusszegény férfiak jó pénzt kapnak bevonuláskor, de a háború végső soron nyelvük, kultúrájuk, népük felszámolásával fenyeget."
-    },
-    {
-      "title": "Rákay Philip: „Gyomorforgató az a vádaskodással vegyes rágalmazáshullám, amely hetek óta a személyemet övezi”",
-      "link": "https://444.hu/2026/10/10/rakay-philip-gyomorforgato-az-a-vadaskodassal-vegyes-ragalmazashullam-amely-hetek-ota-a-szemelyemet-ovezi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Rákay Philip a földügylete kapcsán indult nyomozásról szóló hírekre reagál."
     }
   ],
   "HVG": [
     {
-      "title": "Fegyveresek támadták meg a rijádi nemzetközi repülőteret, 12-en meghaltak, több mint 300-an megsérültek",
-      "link": "https://hvg.hu/vilag/20261011_fegyveres-tamadas-rijadi-nemzetkozi-repuloter-szaud-arabia-halalos-aldozatok",
-      "summary": "A szaúdi katonai vezetés a jemeni húszikat tette felelőssé a repülőtér elleni támadásért és háborús bűncselekményt emleget. A halottak között amerikai állampolgárok is vannak, Donald Trump elfogadhatatlannak nevezte a támadást."
+      "title": "„Micsoda morális csőd néhány liter gázolajért” – keményen bírálják Trumpot európai politikusok",
+      "link": "https://hvg.hu/vilag/20261011_trump-putyin-megallapodas-gazolaj-biralat-babis-nemet-miniszterek-zelenszkij",
+      "summary": "Német miniszterek és Andrej Babis cseh kormányfő is bírálta Donald Trump amerikai elnök megállapodását Oroszországgal és Trump kijelentését, miszerint Ukrajnának új elnök kellene."
     },
     {
-      "title": "A fekete hattyú esete a globális alumíniumhiánnyal: megjósolhatatlan, micsoda felfordulás jöhet",
-      "link": "https://hvg.hu/360/20261011_hvg-globalis-aluminiumhiany-obolterseg-kina-europa-usa",
-      "summary": "Küszködnek az alumíniumtermelés tizedét adó öbölbeli arab olvasztók, kínálati válságot okozva. A kiesés főként Európát és az USA-t sújtja."
+      "title": "„Biztonságot a nőknek és gyerekeknek” – a Terézanyu írójának kezdeményezésére összefogtak a női lapok",
+      "link": "https://hvg.hu/elet/20261011_isztambuli-egyezmeny-noi-lapok-racz-zsuzsa-terezanyu-ratifikalas-osszefogas-kampany",
+      "summary": "A leánygyermekek világnapján indítottak kampányt a magyar női lapok: arra kérik a kormányt, hogy ha már áprilisban „történelmi lehetőség” adódott erre, léptessék életbe az isztambuli egyezményt."
     },
     {
-      "title": "Bloomberg: A populisták elveszítik a globalizáció elleni harcot",
-      "link": "https://hvg.hu/vilag/20261011_bloomberg-a-populistak-elveszitik-a-globalizacio-elleni-harcot",
-      "summary": "Tíz évvel a Brexit és Trump első győzelme után a világgazdaság jobban összefonódik, mint amikor még csak kezdődött a populisták felemelkedése – mutat rá Shawn Donnan, aki a globális gazdasági kérdések szakértője a hírügynökségnél."
+      "title": "FT: orosz merényletekre figyelmeztetik az európai védelmi vállalatok vezetőit a nyugati titkosszolgálatok",
+      "link": "https://hvg.hu/vilag/20261011_europai-vedelmi-vallalatok-vezetok-merenyletek-figyelmeztetes-europai-titkosszolgalatok",
+      "summary": "Az európai hírszerző szolgálatok szerint a hadiipari óriások mellett a kisebb cégek is célponttá válhatnak, különösen a dróngyártók. Napirendre került a vezetők személyvédelmének megerősítése."
     },
     {
-      "title": "Az AirPods vajon mi? Teszten a nagyok bajszát húzogató Huawei FreeBuds Neo",
-      "link": "https://hvg.hu/tudomany/20261011_huawei-freebuds-neo-zajszuros-fulhallgato-teszt-velemeny",
-      "summary": "Lekerekített formákkal gurít nagyot a Huawei új fülhallgatója. A FreeBuds Neo több képessége is a csúcskategóriát idézi, miközben az ára abszolút nem elrugaszkodott."
+      "title": "Amikor egy egyszerűnek tűnő rétes okozza a legnagyobb fejtörést: végigkövettük az egy éven át tartó hazai szakácsversenyt",
+      "link": "https://hvg.hu/360/20261011_amit-egy-even-at-tarto-szakacsversenybol-lathatunk-a-magyar-gasztronomiarol",
+      "summary": "Franciaországban mindenki ismeri a hasonló szakmai megmérettetéseket, nálunk még a szakmában is kevesen, pedig a Czifray-mesterkurzus lassan húsz éve igyekszik pótolni a hazai szakácsoktatás hézagjait. Végignéztük az idei ciklust, ahol hagymás tarte Tatin-t, beurre blanc-nal készült halat, nyulas fogásokat láthattunk, és arra kerestük a választ, mi a jövője a Molnár B. Tamás és Bittera Dóra nevéhez köthető gasztronómiai műhelynek."
     },
     {
-      "title": "Az NDK utolsó füstös lehelete: alig használt búcsúzó szériás Trabi vár új gazdára",
-      "link": "https://hvg.hu/cegauto/20261011_az-ndk-utolso-fustos-lehelete-alig-hasznalt-bucsuzo-szerias-trabi-var-uj-gazdara",
-      "summary": "Ez a különleges Trabant 1.1 Universal Last Edition 444 eddig kevesebb mint 7 ezer kilométer hagyott maga mögött."
+      "title": "Telefonra gyorsan felpattintható mikrofonnal állt elő a Sony",
+      "link": "https://hvg.hu/tudomany/20261011_sony-ecm-ax-10-okostelefonos-mikrofon",
+      "summary": "A világ első és eddig egyetlen Eclipsa Audio tanúsítvánnyal rendelkező mikrofonjaként mutatta be új, ECM-AX10 modelljét a Sony. A gyakorlatban ez teltebb és természetesebb hangzást jelenthet a videókban."
     },
     {
-      "title": "És akkor Pötterbing Ödön is számolgathat, kell-e vagyonadót fizetnie",
-      "link": "https://hvg.hu/gazdasag/20261011_es-akkor-vagyonado-kata-olimpia-vhid-parkolas-inflacio",
-      "summary": "Bemutatták a vagyonadó és a megreformált kata részleteit; leparancsolták Mészáros Lőrinc cégét a Déli Körvasút építéséről és kizárják a többi vasútépítési munkából; Budapest is a 2036-os olimpiára pályázók közé került. Ez a HVG heti gazdasági összefoglalója."
+      "title": "Zelenszkij: Ukrajna nem támad több orosz olajfinomítót, ha Oroszország leállítja az ukrán energiainfrastruktúra elleni csapásait",
+      "link": "https://hvg.hu/vilag/20261011_volodimir-zelenszkij-ukrajna-oroszorszag-olajfinomitok-donald-trump",
+      "summary": "Az ukrán államfő azután szólal meg, hogy Donald Trump előzőleg arról beszélt, Zelenszkij „problémákat akar okozni a világnak” azzal, hogy továbbra is engedélyezi az orosz finomítók elleni támadásokat."
     },
     {
-      "title": "Fegyelmi eljárást indított Cristiano Ronaldo ellen a portugál szövetség",
-      "link": "https://hvg.hu/sport/20261010_labdarugas-portugal-valogatott-cristiano-ronaldo-fegyelmi-eljaras",
-      "summary": "A portugál klasszis idő előtt hagyta el a válogatott edzőtáborát, mondván, Jorge Jesus szövetségi kapitány kétszer is megszegte a neki tett ígéretét."
+      "title": "XIV. Leó pápa közölte, hogy csomót találtak a tüdejében, hamarosan megműtik",
+      "link": "https://hvg.hu/vilag/20261011_xiv-leo-papa-tudocsomo-mutet",
+      "summary": "A katolikus egyházfő szerint a csomót korai stádiumban fedezték fel, napokon belül sor kerülhet az operációra."
     },
     {
-      "title": "A Vidéki prókátor elővette Orbán Viktor egyik márciusi interjúját, és talált egy érdekes részt",
-      "link": "https://hvg.hu/itthon/20261010_videki-prokator-orban-viktor-interju",
-      "summary": "A volt miniszterelnök az ukrán aranykonvoj elfogása utáni napon adta a rádiós interjút, akkor még kormányfőként."
+      "title": "Merényletet tervezhettek Donald Tusk ellen, rendkívüli tanácskozást hívtak össze Lengyelországban",
+      "link": "https://hvg.hu/vilag/20261011_donald-tusk-merenyletterv-lengyelorszag-rendkivuli-tanacskozas",
+      "summary": "A rendőrség emellett egy Wladyslaw Kosiniak-Kamysz védelmi miniszter elleni merénylettervről is értesült."
     },
     {
-      "title": "Feljelenti a zuglói polgármester Tóth Gabit",
-      "link": "https://hvg.hu/elet/20261010_toth-gabi-rozsa-andras-zuglo-hanko-feljelentes",
-      "summary": "Molnár Áron péntek esti videója adta az apropót."
+      "title": "„Többször kaptunk közben idegösszeroppanást” – így készül egy nyolc méter hosszú csendes könyv",
+      "link": "https://hvg.hu/360/20261011_hvg-bodi-kati-silent-book-konyv-mint-mutargy-eggsistence",
+      "summary": "Kétszer 27 festett kép betűk nélkül egy különleges kötetben: ez az Eggsistence, a HVG címlapos csapatában is dolgozó Bódi Kati képzőművész most megjelent silent bookja."
     },
     {
-      "title": "Tigris mart halálra egy férfit, aki bemászott a kifutóba egy angliai állatparkban",
-      "link": "https://hvg.hu/vilag/20261010_anglia-yorkshire-wildlife-park-tigris-halalos-tigristamadas",
-      "summary": "Az eset a Yorkshire Wildlife Parkban történt."
+      "title": "Lancet Bizottság: Az AI és az atomháború is elhozhatja az apokalipszist az évszázad végére",
+      "link": "https://hvg.hu/tudomany/20261011_emberiseg-kihalasa-mesterseges-intelligencia-nuklearis-haboru-atomhaboru-lancet-bizottsag",
+      "summary": "A 35 szakértőből álló testület szerint a mesterséges intelligencia rosszindulatú felhasználása a klímaváltozásnál is jobban fenyeget az emberiség kipusztulásával."
     },
     {
-      "title": "Egykor Németország fő terrorelhárító szaktekintélye volt a most lebukott kémfőnök, aki sértettségből és pénzért válhatott árulóvá",
-      "link": "https://hvg.hu/360/20261010_nemetorszag-kembotrany-august-hanning-bnd-azerbajdzsan-kina",
-      "summary": "August Hanning 12 év alatt kétezer titkos dokumentum birtokába jutott, amelyeket Kínának és Azerbajdzsánnak adhatott el. Az iratokat korábbi közeli munkatársa és irodavezetője, Manfred Dankesreiter csempészte ki a német hírszerzéstől. Jelenleg mindketten előzetes letartóztatásban vannak."
+      "title": "„Sírtam, amikor megláttam az első rakományt” – Európa kötelező célokkal fékezné az élelmiszer-pazarlást",
+      "link": "https://hvg.hu/eurologus/20261011_elemiszermentes-segely-szocialis-ellatas-pulse-eu",
+      "summary": "Bukarestben hatszáz ember meleg ételéhez járulnak hozzá az üzletekből és gyártóktól megmentett élelmiszerek egyetlen szervezeten át. Magyarországon fejenként évente több mint húsz kilogramm még elfogyasztható étel kerül a háztartási hulladékba. Az EU másfél évtizednyi „ajánlott” célkitűzés után kötelező csökkentést írt elő 2030-ra, ennek ellenére nem minden adományozás kötelező, és nem minden kidobott élelmiszer lett volna megmenthető."
     },
     {
-      "title": "Trump: Ideje, hogy új elnöke legyen Ukrajnának",
-      "link": "https://hvg.hu/vilag/20261010_egyesult-allamok-ukrajna-donald-trump-volodimir-zelenszkij",
-      "summary": "Az amerikai elnök szerint Zelenszkij „problémákat akar okozni a világnak” az orosz finomítók elleni támadásokkal."
+      "title": "Ez történt: Odalett az egyik legjobb munka",
+      "link": "https://hvg.hu/tudomany/20261011_ai-hibakereses-f35-kinai-lezer-vilagur-hete-margaret-hamilton-ai-enzimek",
+      "summary": "Összegyűjtöttük egy cikkbe a hét legérdekesebb, legolvasottabb technológiai és tudományos témáit."
     },
     {
-      "title": "Ezekkel a számokkal lehetett nyerni a héten az ötös lottón",
-      "link": "https://hvg.hu/elet/20261010_otos-lotto-nyeroszamok-szerencsejatek",
-      "summary": "Mutatjuk a Jokert is."
+      "title": "Négy nap alatt már a harmadik Yandex-adatközpontot éri ukrán dróncsapás",
+      "link": "https://hvg.hu/vilag/20261011_yandex-adatkozpont-ukran-droncsapas-oroszorszag-haboru-ukrajna",
+      "summary": "Ezúttal az orosz informatikai vállalat vlagyimiri létesítményét támadták. A dróncsapás után az objektum működése leállt, a szolgáltatások egy része elérhetetlenné vált."
     },
     {
-      "title": "Elfogadhatatlannak nevezte a halálbüntetést a pápa",
-      "link": "https://hvg.hu/elet/20261010_papa-vatikan-halalbuntetes",
-      "summary": "A Vatikán kiáll az ellen is, hogy élőben közvetítsenek egy kivégzést az Egyesült Államokban."
+      "title": "Hadházy Ákos feljelentést tesz az augusztus 20-i tűzijáték kivizsgálását lezáró belügyminisztériumi jelentés után",
+      "link": "https://hvg.hu/itthon/20261011_hadhazy-akos-feljelentes-augusztus-20-tuzijatek-belugyminiszterium-jelentes",
+      "summary": "A volt országgyűlési képviselő szerint a jelentés leginkább az ügy elkenésére jó és nem ad választ a legfontosabb kérdésekre."
     },
     {
-      "title": "Visszavitték a börtönbe a két méreginjekciót túlélő Christa Pike-ot",
-      "link": "https://hvg.hu/vilag/20261010_christa-pike-kivegzes-halalos-itelet-injekcio-tennessee-borton-visszaszallitas",
-      "summary": "A halálra ítélt nőt a rácsok mögött kezelik tovább."
+      "title": "Pénzben és halottakban is sokba került Amerikának a most lezárt iraki háború, amiből Irán húzhat hasznot",
+      "link": "https://hvg.hu/360/20261011_amerikai-kivonulas-irakbol-siita-miliciak-iran-elonyos-helyzetben-a-holnap-hatarai-hvg",
+      "summary": "A fellendülés jeleit mutató, de ingatag és sebezhető Irakot hagy hátra az USA. A biztonsági vákuumot Irán és az általa támogatott iraki fegyveres alakulatok tölthetik be, ami kockázatot jelenthet a térségben."
     }
   ],
   "BBC": [
     {
-      "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering."
     },
     {
-      "title": "Man dies after tiger attack at wildlife park",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
+      "title": "Buildings swept away as flash floods hit central Nepal",
+      "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country."
     },
     {
-      "title": "US justice department investigates TV networks over Trump pool coverage",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
-      "summary": "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
+      "title": "Wildlife park remains closed after fatal tiger attack",
+      "link": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday."
     },
     {
-      "title": "MPs seek to overturn ruling that stops police being sued for failings",
-      "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-      "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
+      "title": "UK does not support Trump's Russia diesel deal, says Streeting",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
+      "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine."
     },
     {
-      "title": "UK launches flood taskforce to prepare for extreme winter weather",
-      "link": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
+      "title": "Pope Leo to have surgery after lump found on lung",
+      "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\"."
     },
     {
-      "title": "Northern Lights stun UK down to England's south coast",
-      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity."
-    },
-    {
-      "title": "Three friends on their student debt: one paid off, one chipping away and one creeping up",
+      "title": "Three friends on their student debt: One paid off, one chipping away and one creeping up",
       "link": "https://www.bbc.co.uk/news/articles/c9rk3k25vmxko?at_medium=RSS&at_campaign=rss",
       "summary": "Lizzy, Charlotte and Libby studied at the same time, but their student debt now looks very different."
     },
@@ -273,24 +192,9 @@
       "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid."
     },
     {
-      "title": "AI is creating a 'human premium' for art made by people. But will it hold?",
+      "title": "AI is creating a 'human premium' for art made by people, but will it hold?",
       "link": "https://www.bbc.co.uk/news/articles/c5vgjm3gk7rzo?at_medium=RSS&at_campaign=rss",
       "summary": "Amid a surge in AI content, many are placing extra value on art that's obviously made by a human. But can that last, asks Ros Atkins"
-    },
-    {
-      "title": "Toxicity and uncertainty await Man City - will their season even matter?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead."
-    },
-    {
-      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
-      "link": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically."
-    },
-    {
-      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
     },
     {
       "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
@@ -298,14 +202,34 @@
       "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance."
     },
     {
+      "title": "I was told I had depression for 14 years until I got sectioned - it was bipolar",
+      "link": "https://www.bbc.co.uk/news/articles/ck3rer7e4rngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kimberley Atkinson assumed her symptoms were depression until her behaviour started to change dramatically."
+    },
+    {
+      "title": "Northern Lights dazzle skies across the UK",
+      "link": "https://www.bbc.co.uk/news/articles/c9rkyey458xdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The natural phenomenon, known as the Aurora Borealis, is the result of increased solar activity."
+    },
+    {
+      "title": "Ukraine strikes Russian data centre again despite Trump warning",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
+    },
+    {
+      "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night."
+    },
+    {
+      "title": "Toxicity and uncertainty await Man City as they prepare to take on Liverpool",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvy0rp14xz7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Manchester City visit Liverpool on Sunday with a lot of uncertainty hanging over them. Phil McNulty looks at what lies ahead."
+    },
+    {
       "title": "Why are so many four-year-olds not potty-trained before school?",
       "link": "https://www.bbc.co.uk/news/articles/c5x2vnp4jrkdo?at_medium=RSS&at_campaign=rss",
       "summary": "A third of school starters in the West Midlands last year were not toilet-trained, a survey suggests."
-    },
-    {
-      "title": "'Tiger attack horror' and Trump tells Zelensky 'time to go'",
-      "link": "https://www.bbc.co.uk/news/articles/cw5yn710m8d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The majority of the papers on Sunday are dominated by a man who was attacked by a tiger at a wildlife park near Doncaster."
     }
   ],
   "TechCrunch": [

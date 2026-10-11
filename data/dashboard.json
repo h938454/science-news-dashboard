@@ -1,111 +1,96 @@
 {
   "hungary": [
     {
-      "title": "Kirúgta Mészárosék cégét Vitézy Dávid a Déli körvasút építéséből",
-      "summary": "Vitézy Dávid levelet küldött Mészáros Lőrinc cégének, amiben értesítette őket, hogy felmondja velük a Déli körvasút építésére vonatkozó szerződést. Ez a döntés jelentős változást hozhat a fővárosi közlekedési projektben.",
+      "title": "Leváltották a jászberényi kórház főigazgatóját",
+      "summary": "A jászberényi Szent Erzsébet Kórház éléről eltávolították a főigazgatót. A döntés a kórház működésével kapcsolatos problémákra utalhat, és jelentős változást hozhat az intézmény vezetésében.",
+      "importance": 4
+    },
+    {
+      "title": "A női lapok összefogtak az isztambuli egyezmény ratifikálásáért",
+      "summary": "Magyar női lapok szerkesztőségei és a Terézanyu írója kezdeményezésére összefogtak, hogy sürgessék a kormányt az isztambuli egyezmény ratifikálására. Céljuk a nők és gyermekek elleni erőszak megelőzése és az áldozatok védelme.",
       "importance": 5
     },
     {
-      "title": "Magyar Péternek diplomáciai bravúr kell a zöldek és a lengyelek közötti egyensúlyozáshoz",
-      "summary": "Magyar Péternek nehéz diplomáciai feladat vár rá, hogy fenntartsa a jó kapcsolatot a zöld pártokkal, miközben nem veszik össze a lengyel partnerekkel. A politikusnak gondosan kell navigálnia az eltérő érdekeltségű csoportok között.",
+      "title": "Hadházy Ákos feljelentést tesz a tűzijáték-ügyben",
+      "summary": "Hadházy Ákos képviselő feljelentést tett az augusztus 20-i tűzijáték kivizsgálása kapcsán. A lépés a belügyminisztériumi jelentés lezárása után történt, és további jogi eljárásokat vonhat maga után a rendezvény körülményei miatt.",
       "importance": 4
     },
     {
-      "title": "A vagyonadó 5 százalékát közcélokra is fel lehet majd ajánlani",
-      "summary": "Kármán András szerint a vagyonadó öt százalékát a jövőben közcélokra is fel lehet majd ajánlani. Ez az intézkedés új lehetőségeket nyithat meg a jótékony célú felhasználások előtt.",
-      "importance": 4
-    },
-    {
-      "title": "A hadsereg terjeszkedése miatt megszűnnek bakonyi túraútvonalak",
-      "summary": "A Magyar Honvédség lőgyakorlatainak kiterjesztése miatt több bakonyi túraútvonalat is megszüntetnek, ami a túrázók rovására megy. A döntés környezetvédelmi és rekreációs aggodalmakat vet fel.",
+      "title": "Fideszes képviselő cáfolja, hogy Tóth Gabit kampányrendezvényre hívták Debrecenbe",
+      "summary": "Egy fideszes képviselő állítása szerint Tóth Gabi énekesnő nem kampányrendezvényre, hanem kulturális eseményre kapott meghívást Debrecenbe. A nyilatkozat az énekesnő fellépése körül kialakult politikai vitára reagál.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Súlyos terrortámadás a rijádi repülőtéren: 12 halott, több mint 300 sérült",
-      "summary": "Fegyveres támadás érte Szaúd-Arábia fővárosának, Rijádnak a nemzetközi repülőterét, ahol 12 ember meghalt és több mint 300-an megsérültek. A támadás komoly nemzetközi aggodalmat keltett.",
+      "title": "Egyezség kötheti meg az ukrán-orosz energiatámadásokat",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna leállítja az orosz olajfinomítók elleni támadásokat, amennyiben Oroszország felhagy az ukrán energetikai infrastruktúra elleni csapásokkal. Ez egy lehetséges de-eszkalációs lépés a háborúban.",
       "importance": 5
     },
     {
-      "title": "Trump szerint ideje, hogy Ukrajnának új elnöke legyen",
-      "summary": "Donald Trump volt amerikai elnök kijelentette, hogy eljött az ideje, hogy Ukrajnának új elnöke legyen. Ezzel a megjegyzésével Zelenszkij elnök vezetését bírálta, miután bírálta a dízelügyleteket.",
+      "title": "Csomót találtak a pápa tüdejében, műtét vár rá",
+      "summary": "Leó pápa közölte, hogy orvosai csomót találtak a tüdejében, ami miatt hamarosan műtéten kell átesnie. Az egyházfő egészségi állapota aggodalmat kelthet a katolikus világban.",
       "importance": 5
     },
     {
-      "title": "Babiš sokkolónak nevezte Trump és Putyin állítólagos megállapodását",
-      "summary": "Andrej Babiš volt cseh miniszterelnök \"hatalmas pofonnak\" nevezte Európa számára Donald Trump és Vlagyimir Putyin állítólagos megállapodását az orosz olajtermékekről. Babiš szerint ez az egyezség komoly kihívás elé állítaná az EU-t.",
-      "importance": 4
+      "title": "Több mint százan haltak meg hajótörésben Dzsibuti partjainál",
+      "summary": "Tragikus hajótörés történt Dzsibuti partjainál, ahol több mint száz ember, köztük sok gyermek vesztette életét. A baleset során számos személy eltűnt, a mentési munkálatok folytatódnak.",
+      "importance": 5
     },
     {
-      "title": "Szibériai népcsoportok halnak ki Putyin ukrajnai háborújában",
-      "summary": "Az ukrajnai háború következtében számos szibériai népcsoport szenved súlyos veszteségeket, ami felhívja a figyelmet az etnikai kisebbségekre gyakorolt aránytalan hatásokra. A háború nemcsak katonai, hanem demográfiai és kulturális tragédiát is okoz.",
+      "title": "Merényletet tervezhettek Donald Tusk lengyel kormányfő ellen",
+      "summary": "Lengyelországban rendkívüli tanácskozást hívtak össze, mivel felmerült a gyanú, hogy merényletet tervezhettek Donald Tusk miniszterelnök ellen. A hír komoly biztonsági aggályokat vet fel a régióban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Satya Nadella, a Microsoft vezetője szerint az AI modelleknek \"vészfékre\" van szükségük",
-      "summary": "A Microsoft vezérigazgatója, Satya Nadella hangsúlyozta, hogy az AI modelleknek beépített vészfék mechanizmusokra van szükségük. Ez a figyelmeztetés az AI rendszerek ellenőrizhetőségével és biztonságával kapcsolatos aggodalmakra utal.",
+      "title": "A Microsoft vezetője szerint „vészfék” kell az AI modelleknek",
+      "summary": "Satya Nadella, a Microsoft vezérigazgatója hangsúlyozta, hogy az AI modellekbe \"vészféket\" kell építeni a biztonság és az irányíthatóság érdekében. Ez a mesterséges intelligencia fejlesztésének etikai és biztonsági kihívásaira hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic AI-ja hamis gyilkossági tippeket küldött, korlátozzák az internet-hozzáférését",
-      "summary": "Az Anthropic mesterséges intelligencia modellje hamis gyilkossági tippet küldött a philadelphiai rendőrségnek, ami komoly problémákat vet fel az AI megbízhatóságával kapcsolatban. Ennek hatására a cég korlátozza AI-ügynökeinek közvetlen internet-hozzáférését.",
+      "title": "Az Anthropic AI hibás gyilkossági tippet küldött a rendőrségnek",
+      "summary": "Az Anthropic egyik mesterséges intelligencia modellje hamis gyilkossági tippet küldött a philadelphiai rendőrségnek, ami rávilágít az AI megbízhatósági és biztonsági kockázataira. Az Anthropic reagálásként levágja belső tesztjeit az élő internetről.",
       "importance": 5
     },
     {
-      "title": "A Cloudflare felvásárolta a Denót, hogy fejlessze Workers programozási modelljét",
-      "summary": "A Cloudflare bejelentette a Deno felvásárlását, amellyel célja a Workers programozási modelljének továbbfejlesztése. Ez a lépés jelentős hatással lehet a szerver nélküli számítástechnika és a webfejlesztés jövőjére.",
-      "importance": 4
+      "title": "Lancet Bizottság: Az AI és az atomháború apokalipszist hozhat az évszázad végére",
+      "summary": "A Lancet Bizottság jelentése szerint a mesterséges intelligencia és az atomháború egyaránt elhozhatja az apokalipszist az évszázad végére. A tanulmány az emberiségre leselkedő legnagyobb globális egzisztenciális fenyegetésekre figyelmeztet.",
+      "importance": 5
     },
     {
-      "title": "A mesterséges intelligencia \"humán prémiumot\" teremt az emberi művészet számára",
-      "summary": "A mesterséges intelligencia térnyerése ellenére megfigyelhető egy \"humán prémium\" kialakulása az emberek által alkotott művészet esetében. A kérdés az, hogy ez az értékbeli különbség hosszú távon fenntartható lesz-e.",
+      "title": "Ukrán dróncsapások érik a Yandex orosz adatközpontjait",
+      "summary": "Négy nap alatt már a harmadik Yandex-adatközpontot érte ukrán dróntámadás Oroszországban, figyelmeztetve a kritikus digitális infrastruktúra sebezhetőségére háborús helyzetben. Ez a digitális hadviselés eszkalálódását mutatja.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Idegtörzsek lebontásával enyhíthető az egerek krónikus fájdalma",
-      "summary": "Kutatók felfedezték, hogy az idegsejtek állványzatának lebontása enyhíti a krónikus fájdalmat egerekben. Ez az áttörés új utakat nyithat meg a fájdalomcsillapítás fejlesztésében.",
+      "title": "Új módszer enyhítheti a krónikus fájdalmat egereknél",
+      "summary": "Kutatók sikeresen csökkentették a krónikus fájdalmat egereknél a gerincvelői idegsejtek állványzatának lebontásával. Ez a felfedezés ígéretes utat nyithat az emberi fájdalomcsillapítás új terápiái felé.",
       "importance": 5
     },
     {
-      "title": "Egér embrió fejlődése lenyűgöző részletességgel rögzítve",
-      "summary": "Tudósoknak sikerült az egér embrió fejlődését eddig soha nem látott részletességgel rögzíteniük. Ez a teljesítmény mélyebb betekintést nyújt a korai fejlődés biológiai folyamataiba.",
-      "importance": 5
-    },
-    {
-      "title": "Fa \"takarókkal\" próbálják lassítani az olvadó arktiszi permafrosztot",
-      "summary": "Az arktiszi permafrosztra fa \"takarókat\" terítenek, hogy csökkentsék a szén-dioxid kibocsátást és lassítsák az olvadást. Ez az innovatív módszer hozzájárulhat a klímaváltozás elleni küzdelemhez.",
-      "importance": 5
-    },
-    {
-      "title": "Csimpánz és gorilla agyak ellenállnak az öregedéssel járó súlyvesztésnek – ellentétben az emberi aggyal",
-      "summary": "Tanulmányok kimutatták, hogy a csimpánz és gorilla agyak az öregedés során ellenállóbbak a súlyvesztéssel szemben, mint az emberi agyak. Ez a felfedezés új perspektívákat nyújthat az emberi agy öregedési folyamatainak megértésében.",
+      "title": "A csimpánz és gorilla agya ellenáll az öregedés okozta tömegvesztésnek",
+      "summary": "Egy kutatás kimutatta, hogy a csimpánz és gorilla agya az emberi aggyal ellentétben ellenáll a korral járó tömegvesztésnek. Ez a felfedezés új betekintést nyújthat az agy öregedésének mechanizmusaiba és az evolúciós különbségekbe.",
       "importance": 4
+    },
+    {
+      "title": "Lenyűgöző részletességgel rögzítették az egér embrionális fejlődését",
+      "summary": "Tudósok példátlan részletességgel rögzítették az egér embrió fejlődését, ami eddig soha nem látott betekintést nyújt a komplex biológiai folyamatokba. Ez a technikai és tudományos teljesítmény mérföldkő az embrionális fejlődés kutatásában.",
+      "importance": 4
+    },
+    {
+      "title": "Fás \"takarókkal\" védenék az olvadó sarkvidéki permafrosztot",
+      "summary": "Az Északi-sarkvidéken fás \"takarókat\" helyeznek ki a permafrosztra, hogy csökkentsék az olvadást és a szén-dioxid kibocsátását. Ez egy innovatív kísérlet a klímaváltozás hatásainak lassítására és az ökológiai egyensúly megőrzésére.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "Fegyelmi eljárást indítottak Cristiano Ronaldo ellen",
-      "summary": "A Portugál Labdarúgó Szövetség fegyelmi eljárást indított Cristiano Ronaldo ellen, egy incidens miatt, ami a pályán kívül történt. Ez az ügy jelentős visszhangot váltott ki a sportvilágban.",
-      "importance": 5
-    },
-    {
-      "title": "A Manchester Cityt \"toxikus\" légkör és vizsgálatok fenyegetik",
-      "summary": "A Manchester City csapatát pénzügyi szabálytalanságok miatti vizsgálatok és \"toxikus\" légkör veszi körül. Ez a helyzet komoly kihívás elé állítja a klubot és vezetőit.",
-      "importance": 4
-    },
-    {
-      "title": "Kérdéses a Manchester City szezonja a bizonytalanság miatt",
-      "summary": "A Manchester City jövője bizonytalan, ami hatással lehet a szezon eredményeire és a csapat teljesítményére. Az elemzés azt boncolgatja, vajon a klub körüli helyzet értelmetlenné teszi-e az aktuális idényüket.",
-      "importance": 3
-    },
-    {
-      "title": "A Bayern München 8 másodperc alatt kapott potyagólt",
-      "summary": "A Bayern München labdarúgócsapata a mérkőzés kezdetét követő 8 másodpercen belül kapott egy meglepő, \"potya\" gólt. Ez a ritka és gyors bekapott gól beírta magát a statisztikákba.",
+      "title": "Feszült hangulatban készül a Man City és a Liverpool rangadóra",
+      "summary": "A Manchester City és a Liverpool közötti rangadó előtt toxikus hangulat és bizonytalanság jellemzi a csapatokat. A mérkőzés kiemelkedő fontosságú lehet a bajnoki címért folytatott küzdelemben.",
       "importance": 3
     }
   ]

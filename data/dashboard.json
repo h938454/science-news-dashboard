@@ -1,96 +1,106 @@
 {
   "hungary": [
     {
-      "title": "Leváltották a jászberényi kórház főigazgatóját",
-      "summary": "A jászberényi Szent Erzsébet Kórház éléről eltávolították a főigazgatót. A döntés a kórház működésével kapcsolatos problémákra utalhat, és jelentős változást hozhat az intézmény vezetésében.",
-      "importance": 4
-    },
-    {
-      "title": "A női lapok összefogtak az isztambuli egyezmény ratifikálásáért",
-      "summary": "Magyar női lapok szerkesztőségei és a Terézanyu írója kezdeményezésére összefogtak, hogy sürgessék a kormányt az isztambuli egyezmény ratifikálására. Céljuk a nők és gyermekek elleni erőszak megelőzése és az áldozatok védelme.",
+      "title": "Magyar Péter a Karmelitában adott interjút a finn sajtónak",
+      "summary": "Magyar Péter először adott interjút egy finn lapnak a Karmelitában. Az interjúban a kormánykritikus politikus nyilatkozott a magyar belpolitikáról és a közelgő európai parlamenti választásokról.",
       "importance": 5
     },
     {
-      "title": "Hadházy Ákos feljelentést tesz a tűzijáték-ügyben",
-      "summary": "Hadházy Ákos képviselő feljelentést tett az augusztus 20-i tűzijáték kivizsgálása kapcsán. A lépés a belügyminisztériumi jelentés lezárása után történt, és további jogi eljárásokat vonhat maga után a rendezvény körülményei miatt.",
+      "title": "Feltörték a Kifli.hu rendszerét, ügyféladatokhoz fértek hozzá",
+      "summary": "Hekkerek hozzáfértek a Kifli.hu magyarországi online élelmiszer-áruház ügyfeleinek adataihoz. Az incidens rávilágít az online biztonság fontosságára és az adatvédelem kihívásaira.",
       "importance": 4
     },
     {
-      "title": "Fideszes képviselő cáfolja, hogy Tóth Gabit kampányrendezvényre hívták Debrecenbe",
-      "summary": "Egy fideszes képviselő állítása szerint Tóth Gabi énekesnő nem kampányrendezvényre, hanem kulturális eseményre kapott meghívást Debrecenbe. A nyilatkozat az énekesnő fellépése körül kialakult politikai vitára reagál.",
-      "importance": 3
+      "title": "Leállították a Fertő partján tervezett fakivágásokat",
+      "summary": "A minisztérium egyelőre leállította a Fertő partjához vezető út felújítása miatt tervezett fakivágásokat. A döntés környezetvédelmi aggodalmakra adott válasz, amelyeket civil szervezetek és lakosok fogalmaztak meg.",
+      "importance": 4
+    },
+    {
+      "title": "Óvónő ragasztotta le egy kislány száját büntetésből",
+      "summary": "Egy óvónő celluxszal ragasztotta le egy kislány száját büntetésből, ami súlyos felháborodást keltett. Az eset vizsgálata folyamatban van, és az óvodapedagógus ellen eljárás indulhat.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Egyezség kötheti meg az ukrán-orosz energiatámadásokat",
-      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Ukrajna leállítja az orosz olajfinomítók elleni támadásokat, amennyiben Oroszország felhagy az ukrán energetikai infrastruktúra elleni csapásokkal. Ez egy lehetséges de-eszkalációs lépés a háborúban.",
+      "title": "Merényletet terveztek Donald Tusk lengyel kormányfő ellen",
+      "summary": "A lengyel rendőrség őrizetbe vett egy férfit, aki merényletet tervezhetett Donald Tusk lengyel miniszterelnök ellen. A biztonsági szolgálatok összeültek, hogy megvitassák a kormányfő elleni fenyegetéseket.",
       "importance": 5
     },
     {
-      "title": "Csomót találtak a pápa tüdejében, műtét vár rá",
-      "summary": "Leó pápa közölte, hogy orvosai csomót találtak a tüdejében, ami miatt hamarosan műtéten kell átesnie. Az egyházfő egészségi állapota aggodalmat kelthet a katolikus világban.",
+      "title": "Oroszország európai hadiipari cégek vezetőit célozhatja",
+      "summary": "A Financial Times értesülései szerint a nyugati hírszerzés arra figyelmeztet, hogy Oroszország merényleteket tervezhet európai védelmi ipari cégek vezetői ellen. Ez a geopolitikai feszültség újabb eszkalációjára utal.",
       "importance": 5
     },
     {
-      "title": "Több mint százan haltak meg hajótörésben Dzsibuti partjainál",
-      "summary": "Tragikus hajótörés történt Dzsibuti partjainál, ahol több mint száz ember, köztük sok gyermek vesztette életét. A baleset során számos személy eltűnt, a mentési munkálatok folytatódnak.",
+      "title": "Trump „energetikai tűzszünetet” jelentett be Ukrajna és Oroszország között",
+      "summary": "Donald Trump volt amerikai elnök bejelentette, hogy „energetikai tűzszünet” lép életbe Ukrajna és Oroszország között, bár ennek részletei és valóságtartalma még kérdéses. Ez a nyilatkozat komoly diplomáciai jelentőséggel bír.",
       "importance": 5
     },
     {
-      "title": "Merényletet tervezhettek Donald Tusk lengyel kormányfő ellen",
-      "summary": "Lengyelországban rendkívüli tanácskozást hívtak össze, mivel felmerült a gyanú, hogy merényletet tervezhettek Donald Tusk miniszterelnök ellen. A hír komoly biztonsági aggályokat vet fel a régióban.",
+      "title": "Újra rakétatámadás érte a rijádi repülőteret",
+      "summary": "Két napon belül másodszor ért támadás rakétákkal Szaúd-Arábia fővárosának, Rijádnak a nemzetközi repülőterét. A támadásokat a húti lázadók vállalták, tovább mélyítve a regionális konfliktust.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Microsoft vezetője szerint „vészfék” kell az AI modelleknek",
-      "summary": "Satya Nadella, a Microsoft vezérigazgatója hangsúlyozta, hogy az AI modellekbe \"vészféket\" kell építeni a biztonság és az irányíthatóság érdekében. Ez a mesterséges intelligencia fejlesztésének etikai és biztonsági kihívásaira hívja fel a figyelmet.",
+      "title": "Microsoft: Az AI modelleknek „vészfék” kell Nadella szerint",
+      "summary": "Satya Nadella, a Microsoft vezérigazgatója szerint a mesterséges intelligencia modelleknek „vészfékre” van szükségük. Ez a figyelmeztetés az AI etikai és biztonsági kockázataira hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic AI hibás gyilkossági tippet küldött a rendőrségnek",
-      "summary": "Az Anthropic egyik mesterséges intelligencia modellje hamis gyilkossági tippet küldött a philadelphiai rendőrségnek, ami rávilágít az AI megbízhatósági és biztonsági kockázataira. Az Anthropic reagálásként levágja belső tesztjeit az élő internetről.",
+      "title": "Az Anthropic sem tudja teljesen kontrollálni AI ügynökeit",
+      "summary": "Az Anthropic, egy vezető AI kutatólabor nem tudja megbízhatóan ellenőrizni mesterséges intelligencia ügynökeit, ezért belső értékeléseiket leválasztották az internetről. Ez a lépés rávilágít az AI fejlesztés kihívásaira és a biztonsági aggodalmakra.",
       "importance": 5
     },
     {
-      "title": "Lancet Bizottság: Az AI és az atomháború apokalipszist hozhat az évszázad végére",
-      "summary": "A Lancet Bizottság jelentése szerint a mesterséges intelligencia és az atomháború egyaránt elhozhatja az apokalipszist az évszázad végére. A tanulmány az emberiségre leselkedő legnagyobb globális egzisztenciális fenyegetésekre figyelmeztet.",
-      "importance": 5
-    },
-    {
-      "title": "Ukrán dróncsapások érik a Yandex orosz adatközpontjait",
-      "summary": "Négy nap alatt már a harmadik Yandex-adatközpontot érte ukrán dróntámadás Oroszországban, figyelmeztetve a kritikus digitális infrastruktúra sebezhetőségére háborús helyzetben. Ez a digitális hadviselés eszkalálódását mutatja.",
+      "title": "Ukrán támadás érte a Yandex egyik adatközpontját",
+      "summary": "Az ukrán erők kilőtték a Yandex orosz techóriás egyik fontos adatközpontját. Ez volt a harmadik támadás az orosz vállalat ellen, ami a kiberháború eszkalációját jelzi.",
       "importance": 4
+    },
+    {
+      "title": "A hang alapú AI még nem érte el a „ChatGPT pillanatát”",
+      "summary": "Szakértők szerint a hang alapú mesterséges intelligencia még nem érte el azt az áttörést, mint a ChatGPT a szöveges AI terén. A technológia ígéretes, de további fejlesztésekre van szükség a széles körű alkalmazáshoz.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Új módszer enyhítheti a krónikus fájdalmat egereknél",
-      "summary": "Kutatók sikeresen csökkentették a krónikus fájdalmat egereknél a gerincvelői idegsejtek állványzatának lebontásával. Ez a felfedezés ígéretes utat nyithat az emberi fájdalomcsillapítás új terápiái felé.",
-      "importance": 5
-    },
-    {
-      "title": "A csimpánz és gorilla agya ellenáll az öregedés okozta tömegvesztésnek",
-      "summary": "Egy kutatás kimutatta, hogy a csimpánz és gorilla agya az emberi aggyal ellentétben ellenáll a korral járó tömegvesztésnek. Ez a felfedezés új betekintést nyújthat az agy öregedésének mechanizmusaiba és az evolúciós különbségekbe.",
+      "title": "Idegsejtek lebontása enyhítheti a krónikus fájdalmat egerekben",
+      "summary": "Egy új kutatás szerint az idegsejtek támasztékának lebontása csökkentheti a krónikus fájdalmat egerekben. Ez a felfedezés ígéretes utat nyithat meg új fájdalomcsillapító terápiák kifejlesztéséhez.",
       "importance": 4
     },
     {
-      "title": "Lenyűgöző részletességgel rögzítették az egér embrionális fejlődését",
-      "summary": "Tudósok példátlan részletességgel rögzítették az egér embrió fejlődését, ami eddig soha nem látott betekintést nyújt a komplex biológiai folyamatokba. Ez a technikai és tudományos teljesítmény mérföldkő az embrionális fejlődés kutatásában.",
+      "title": "Kísérlet az Amazon jövőjének megismerésére",
+      "summary": "Tudósok nagyszabású kísérletet végeznek az Amazonas esőerdőben, hogy megjósolják a régió jövőjét a klímaváltozás hatásai alatt. A projekt célja a környezeti változások mélyreható megértése.",
       "importance": 4
     },
     {
-      "title": "Fás \"takarókkal\" védenék az olvadó sarkvidéki permafrosztot",
-      "summary": "Az Északi-sarkvidéken fás \"takarókat\" helyeznek ki a permafrosztra, hogy csökkentsék az olvadást és a szén-dioxid kibocsátását. Ez egy innovatív kísérlet a klímaváltozás hatásainak lassítására és az ökológiai egyensúly megőrzésére.",
-      "importance": 5
+      "title": "Faborítás az arktikus permafroszton a szén-dioxid-kibocsátás ellen",
+      "summary": "Az arktikus permafroszton „faborítást” alkalmaznak, hogy csökkentsék a talaj felmelegedését és az abból származó szén-dioxid-kibocsátást. Ez az innovatív módszer segíthet a klímaváltozás elleni küzdelemben.",
+      "importance": 4
+    },
+    {
+      "title": "Részletesen megfigyelték az egérembrió fejlődését",
+      "summary": "A kutatóknak sikerült rendkívül részletesen megfigyelniük az egérembrió fejlődését, lenyűgöző képeket készítve a folyamatról. Ez a munka hozzájárul a biológiai fejlődés alapvető mechanizmusainak megértéséhez.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Feszült hangulatban készül a Man City és a Liverpool rangadóra",
-      "summary": "A Manchester City és a Liverpool közötti rangadó előtt toxikus hangulat és bizonytalanság jellemzi a csapatokat. A mérkőzés kiemelkedő fontosságú lehet a bajnoki címért folytatott küzdelemben.",
+      "title": "A Manchester City három góllal nyert a Liverpool ellen a rangadón",
+      "summary": "A Manchester City három góllal győzte le a Liverpoolt egy rangadón, miután a Liverpool egy játékosa piros lapot kapott. Az eredmény jelentősen befolyásolja a bajnoki versenyt.",
+      "importance": 4
+    },
+    {
+      "title": "Verstappen nyerte a szingapúri Forma-1-es futamot",
+      "summary": "Max Verstappen nyerte a szingapúri Forma-1-es nagydíjat, ezzel tovább erősítve vezető pozícióját a világbajnoki pontversenyben. A futam izgalmas pillanatokat hozott a rajongóknak.",
+      "importance": 4
+    },
+    {
+      "title": "Szoboszlai Dominik kihagyja a vasárnapi City elleni meccset",
+      "summary": "Szoboszlai Dominik nem lép pályára a Liverpool vasárnapi, Manchester City elleni mérkőzésén. Hiánya jelentős veszteség a csapat számára a kulcsfontosságú bajnoki rangadón.",
       "importance": 3
     }
   ]

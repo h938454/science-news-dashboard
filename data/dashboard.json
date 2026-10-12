@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Könnyű azt mondani a kamasznak, hogy ne szedjen nyugtatót, ha nincs, aki segítsen neki",
-      "summary": "A fiatalok mentális egészségi problémáinak kezelése gyakran elhanyagolt terület, különösen a nyugtatókhoz való hozzáférés és a megfelelő segítségnyújtás hiánya miatt. Ez a probléma rávilágít a támogató rendszerek fejlesztésének szükségességére, amelyek valódi alternatívát nyújtanak a gyógyszeres kezelés helyett.",
+      "title": "Magyar Péter nekiment a lemondott főügyésznek, Fürcht Pál azonnal jelezte, hogy kész vallomást tenni",
+      "summary": "Magyar Péter komoly vádakat fogalmazott meg a lemondott főügyész, Fürcht Pál ellen. Fürcht azonnal jelezte, hogy kész együttműködni a hatóságokkal és vallomást tenni az ügyben, ami tovább mélyíti a politikai botrányt.",
+      "importance": 5
+    },
+    {
+      "title": "Újabb uniós panaszt nyújtott be a Spar a magyar kiskereskedelmi különadó miatt",
+      "summary": "A Spar ismét panaszt tett az Európai Unióban a magyar kormány kiskereskedelmi különadója ellen. A cég szerint a különadó diszkriminatív és sérti az uniós jogot, ami komoly gazdasági és jogi következményekkel járhat.",
       "importance": 4
     },
     {
-      "title": "Ügyfelek adataihoz fért hozzá a hekker, aki feltörte a Kifli rendszerét",
-      "summary": "A Kifli.hu online élelmiszer-kereskedő rendszerét hekkerek törték fel, akik ügyfelek személyes adataihoz férhettek hozzá. Az eset rávilágít az online platformok adatbiztonságának kritikus fontosságára és a felhasználók érzékeny adatainak védelmére.",
+      "title": "20 milliárd forintot szórt ki a Bethlen Gábor Alap fideszes kötődésű határon túli szervezeteknek a választások előtt",
+      "summary": "A Bethlen Gábor Alap 20 milliárd forintnyi támogatást osztott szét a választások előtt fideszes kötődésű határon túli szervezeteknek. Az eset felveti a politikai finanszírozás átláthatóságának és a kampánybefolyásolásnak a kérdését.",
       "importance": 4
     },
     {
-      "title": "Bejutottunk a frissen felújított győri MCC-központba, és leesett az állunk",
-      "summary": "Felújítottak egy új Mathias Corvinus Collegium (MCC) központot Győrben, melynek részletes bemutatása rávilágít az intézmény terjeszkedésére és a jövőbeni terveire. Az új létesítmény hozzájárul a tehetséggondozás bővítéséhez a régióban.",
-      "importance": 3
-    },
-    {
-      "title": "Leváltották a jászberényi kórház főigazgatóját",
-      "summary": "A jászberényi kórház főigazgatóját menesztették, ami komoly változásokat jelez az intézmény vezetésében és működésében. Az okok és a várható következmények még tisztázatlanok, de hatással lehetnek a helyi egészségügyi ellátásra.",
-      "importance": 3
+      "title": "Ezek a gyerekek nem kellenek a magyar társadalomnak – az utolsó percben vagyunk, hogy megoldjuk a kórházban élő kisbabák sorsát",
+      "summary": "Egy kritikus társadalmi probléma hívja fel a figyelmet azokra a gyerekekre, akik csecsemőkoruk óta kórházakban élnek, mert a magyar társadalom nem tudja vagy nem akarja őket befogadni. Sürgős megoldásokra van szükség a sorsuk rendezéséhez.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "A lengyel rendőrség őrizetbe vette a férfit, aki merényletet tervezett Donald Tusk ellen",
-      "summary": "A lengyel rendőrség letartóztatott egy férfit, akit Donald Tusk lengyel miniszterelnök elleni merényletkísérlet tervezésével gyanúsítanak. Az eset komoly biztonsági aggályokat vet fel Európában, és rávilágít a politikai vezetők elleni fenyegetésekre.",
+      "title": "A Deloitte segített Roman Abramovics vagyonának elrejtésében, elkerülve az adókat",
+      "summary": "A BBC vizsgálata szerint a világ egyik legnagyobb könyvvizsgáló cége, a Deloitte segített Roman Abramovics orosz milliárdosnak meghamisítani dokumentumokat, hogy elkerülje a vagyonára kivetett adókat. Az eset rávilágít a nemzetközi adóelkerülési praktikákra.",
       "importance": 5
     },
     {
-      "title": "Donald Trump szerint Oroszország és Ukrajna megállapodott egy „energetikai tűzszünetben”",
-      "summary": "Donald Trump volt amerikai elnök azt állítja, hogy Oroszország és Ukrajna titokban megállapodott egy energetikai tűzszünetben. Ukrajna üdvözölte az ötletet, ám Oroszország részéről egyelőre nincs megerősítés, ami kétségeket ébreszt a bejelentés hitelességével kapcsolatban.",
+      "title": "A brit miniszterelnök szerint Oroszország beavatkozott a 2016-os Brexit-szavazásba",
+      "summary": "A brit miniszterelnök egyértelműen kijelentette, hogy Oroszország beavatkozott a 2016-os Brexit-népszavazásba. Ez a súlyos állítás a demokratikus folyamatokba való külföldi beavatkozás kérdését veti fel.",
       "importance": 5
     },
     {
-      "title": "A Financial Times cikke szerint Oroszország merényleteket tervez európai hadiipari cégek vezetői ellen",
-      "summary": "A Financial Times riportja szerint Oroszország merényleteket tervez európai hadiipari vállalatok vezetői ellen. Ez a hír súlyosan növeli a feszültséget Európa és Oroszország között, és új szintre emeli a hibrid hadviselés fenyegetését.",
-      "importance": 5
+      "title": "Egy halott, 11 sérült a második houthi támadásban a rijádi repülőtéren",
+      "summary": "A houthi lázadók két napon belül másodszor is támadást intéztek a rijádi repülőtér ellen, amelynek következtében egy ember meghalt és tizenegyen megsérültek. Az incidens tovább súlyosbítja a térségben uralkodó feszültségeket.",
+      "importance": 4
     },
     {
-      "title": "Több mint százharminckilencen, köztük gyerekek haltak meg, amikor egy hajó felborult Dzsibuti partjainál",
-      "summary": "Az ENSZ tájékoztatása szerint több mint százharminckilenc ember, köztük sok gyerek vesztette életét, amikor egy hajó felborult Dzsibuti partjainál. A tragédia ismét rávilágít a migrációs útvonalak veszélyeire és a humanitárius segítségnyújtás sürgősségére.",
+      "title": "A Reform párt az Egyesült Királyságban az asszervátumi rendszer öt évre történő felfüggesztését és a kérelmezők kitoloncolását ígéri",
+      "summary": "Az Egyesült Királyság Reform pártja egy radikális bevándorlási politikát javasol, amely szerint öt évre felfüggesztenék az asszervátumi rendszert és kitoloncolnák a menedékkérőket. Ez a terv jelentős társadalmi és jogi vitákat válthat ki.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Microsoft: Az AI modelleknek vészfékre van szükségük, mondja Satya Nadella",
-      "summary": "Satya Nadella, a Microsoft vezérigazgatója szerint az AI modelleknek beépített „vészfékre” van szükségük a biztonságos és etikus működés érdekében. Ez a kijelentés hangsúlyozza az AI fejlesztésében rejlő kockázatokat és a felelős szabályozás fontosságát.",
+      "title": "A Microsoft vezérigazgatója, Satya Nadella szerint az AI modelleknek „vészfékre” van szükségük",
+      "summary": "Satya Nadella, a Microsoft vezérigazgatója hangsúlyozta, hogy a mesterséges intelligencia modelleknél elengedhetetlen egy „vészfék” beépítése. Ez a kijelentés rávilágít az AI etikai és biztonsági kihívásaira a technológiai óriások szemében.",
       "importance": 5
     },
     {
-      "title": "A Microsoft elnöke szerint az AI kevésbé szabályozott, mint a tej",
-      "summary": "A Microsoft elnöke aggodalmát fejezte ki az AI szabályozásának hiánya miatt, kijelentve, hogy az mesterséges intelligencia még a tejnél is kevésbé ellenőrzött. Ez a megjegyzés sürgős szabályozási intézkedésekre ösztönzi a döntéshozókat az AI gyors fejlődésével párhuzamosan.",
+      "title": "Az ukránok kiütötték az orosz Google-t, mire padlót fogott a fél webet leuraló orosz bothálózat is",
+      "summary": "Az ukrán kibertámadások sikeresen megbénították az orosz Google szolgáltatásait, ami dominóeffektust indított el a fél internetet uraló orosz botnet hálózatban is. Ez az eset rávilágít a kibertámadások stratégiai jelentőségére.",
       "importance": 5
     },
     {
-      "title": "Áttörés az önvezető teherautók terén: akadály hárult el az útjukból",
-      "summary": "Jelentős akadály hárult el az önvezető teherautók fejlesztése előtt, ami felgyorsíthatja az autonóm járművek bevezetését a logisztikában. Ez a fejlemény jelentős hatással lehet a közlekedésre és az ellátási láncokra globálisan.",
+      "title": "Elhárult egy akadály az önvezető teherautók elől",
+      "summary": "Fontos szabályozási vagy technológiai akadály hárult el az önvezető teherautók piacán, elősegítve a technológia szélesebb körű elterjedését. Ez a fejlemény jelentős mértékben befolyásolhatja a logisztikai és szállítmányozási iparágat.",
       "importance": 4
     },
     {
-      "title": "Az Apple HomeView lehet az első sikeres okosotthon termékük?",
-      "summary": "Az Apple várhatóan bemutatja a HomeView nevű okosotthon eszközét, és a szakértők azt találgatják, hogy ez lesz-e a cég első igazán sikeres terméke ezen a piacon. Az Apple belépése jelentős versenyt támaszthat az okosotthon szektorban.",
-      "importance": 3
+      "title": "A Cloudflare felvásárolja a Denót, hogy javítsa Workers programozási modelljét",
+      "summary": "A Cloudflare felvásárolta a Denót, a JavaScript és TypeScript futtatókörnyezetet, azzal a céllal, hogy továbbfejlessze és optimalizálja a Workers nevű, szerver nélküli számítástechnikai platformját. Ez az akvizíció kulcsfontosságú lehet a felhőalapú alkalmazások fejlesztésében.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az idegsejtek támasztékának lebontása enyhíti az egerek krónikus fájdalmát",
-      "summary": "Kutatók felfedezték, hogy az idegsejteket körülvevő támasztó struktúra lebontása képes enyhíteni a krónikus fájdalmat egerekben. Ez az áttörés új utakat nyithat a krónikus fájdalom kezelésére irányuló gyógyszerek fejlesztésében.",
+      "title": "Idegi sejtek támogató szerkezetének lebontása enyhíti az egerek krónikus fájdalmát",
+      "summary": "Egy ígéretes kutatás szerint az idegi sejteket támogató specifikus szerkezet lebontása képes volt enyhíteni a krónikus fájdalmat egereknél. Ez a felfedezés új utakat nyithat meg a fájdalomcsillapítás területén.",
       "importance": 5
     },
     {
-      "title": "Erdős „takarókat” telepítenek az arktiszi permafrosztra a szén-dioxid-kibocsátás csökkentésére",
-      "summary": "Az arktiszi permafrosztra erdős „takarókat” telepítenek, hogy csökkentsék a szén-dioxid-kibocsátást és lassítsák a klímaváltozást. Ez az innovatív környezetvédelmi projekt a permafroszt olvadásának megállítására és a szén tárolására irányuló új stratégiákat vizsgálja.",
+      "title": "Az anyai bélbaktériumok elősegítik a neurofejlődési rendellenességeket egérutódokban",
+      "summary": "A kutatók megállapították, hogy az anyai bélbaktériumok szerepet játszhatnak az egérutódok neurofejlődési rendellenességeinek kialakulásában. Ez a felfedezés fontos betekintést nyújt a mikrobiom és az agy fejlődésének kapcsolatába.",
       "importance": 5
     },
     {
-      "title": "Az anyai bélbaktériumok elősegíthetik az egérutódok idegrendszeri fejlődési rendellenességeit",
-      "summary": "Egy tanulmány szerint az anyaállatok bélbaktériumai összefüggésbe hozhatók az egérutódok idegrendszeri fejlődési rendellenességeivel. Ez a felfedezés alapvető biológiai betekintést nyújt, és potenciális egészségügyi következményekkel járhat az emberi terhességre nézve.",
+      "title": "Találtak egy égitestet a Naprendszer „közelében”, melynek felhői a Földhöz hasonlóan változnak",
+      "summary": "A csillagászok egy új égitestet fedeztek fel a Naprendszer határán, amelynek felhőmintázata a Földéhez hasonlóan változik. Ez a felfedezés izgalmas lehetőségeket rejt a bolygókeletkezés és az exobolygók kutatásában.",
       "importance": 4
     },
     {
-      "title": "Vajon az AI „lenyúlja” majd a tudósok felfedezéseit? Néhány kutató borúlátó jövőképet lát",
-      "summary": "Kutatók egy része aggódik, hogy a mesterséges intelligencia képes lesz „ellopni” a tudományos felfedezéseket, még mielőtt az emberi kutatók publikálnák őket. Ez a dilemma felveti az AI és a tudományos kutatás etikai és gyakorlati kihívásait.",
+      "title": "A gyermekrák tüneteit könnyű figyelmen kívül hagyni – mire figyeljünk",
+      "summary": "Fontos tudnivalókat gyűjtöttek össze a gyermekrák gyakran nehezen felismerhető tüneteiről, segítve a szülőket és orvosokat a korai diagnózisban. A korai felismerés kulcsfontosságú a sikeres kezeléshez.",
       "importance": 4
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "A dél-afrikai tesztmérkőzés rávilágít, miért nem tudnak a csapatok megegyezni a rossz fényviszonyok melletti játékról",
+      "summary": "Egy dél-afrikai krikett tesztmérkőzés során felmerült problémák ismét megmutatták, hogy a sportágban nincs konszenzus arról, hogyan kellene szabályozni a játékot rossz fényviszonyok esetén. Ez a vita befolyásolja a játékosok biztonságát és a mérkőzések menetét.",
+      "importance": 5
+    },
+    {
+      "title": "Felfüggesztette a Tisza-frakció a vadászatokon pózoló Kaprinyák Tibort",
+      "summary": "A Tisza párt frakciója felfüggesztette Kaprinyák Tibort, miután vadászatokon készült fotókon pózolt, ami vitát váltott ki a párt belső köreiben. Bár a hír politikai, a vadászat mint tevékenység sportként is értelmezhető.",
+      "importance": 3
+    },
+    {
+      "title": "A gyermekrák tüneteit könnyű figyelmen kívül hagyni – mire figyeljünk",
+      "summary": "Fontos tudnivalókat gyűjtöttek össze a gyermekrák gyakran nehezen felismerhető tüneteiről, segítve a szülőket és orvosokat a korai diagnózisban. A korai felismerés kulcsfontosságú a sikeres kezeléshez, és az egészséges életmód prevenciós szerepe is kiemelkedő.",
+      "importance": 1
+    },
+    {
+      "title": "A nők a menopauzáról beszélnek – az egészségügyi rendszereknek figyelniük kell",
+      "summary": "Egyre több nő szólal meg a menopauzáról, hangsúlyozva a témával kapcsolatos társadalmi tudatosság és az egészségügyi rendszerek megfelelő reagálásának fontosságát. Bár nem közvetlenül sport, az egészség és a fizikai aktivitás szempontjából releváns.",
+      "importance": 1
+    }
+  ]
 }

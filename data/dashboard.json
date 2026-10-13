@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Kényes vallomásra készül a volt főügyész, Fürcht Pál",
-      "summary": "Magyar Péter bejelentése szerint Fürcht Pál volt főügyész terhelő vallomásra készül a volt kormánypártok számára. A politikus állítása szerint telefonján üzenetben tárolja a volt főügyész állításait, ami komoly politikai feszültségeket kelthet.",
+      "title": "Magyar Péter: A paksi atomerőmű a Duna rendkívül alacsony vízállása ellenére is működik",
+      "summary": "Magyar Péter szerint az atomerőmű biztonságosan működik a fenékküszöbnek köszönhetően, annak ellenére, hogy a Duna vízállása történelmi mélyponton van. Ez a kritikus infrastruktúra stabilitására hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Távozik a HUN-REN régi vezetése, amellyel a kormány nem működött együtt",
-      "summary": "A Magyar Kutatási Hálózat (HUN-REN) korábbi vezetése, amellyel a kormány kizártnak tartotta az együttműködést, távozik posztjáról. Ez a döntés komoly változásokat hozhat a magyar tudományos kutatás irányításában és finanszírozásában.",
+      "title": "Vizsgálóbizottságok hallgatnák meg Orbán Viktort, de eddig ez nem történt meg",
+      "summary": "Három tényfeltáró bizottság is felvetette Orbán Viktor meghallgatásának szükségességét, azonban ez a mai napig nem valósult meg. A kormányfő meghallgatása a bizottságok munkája szempontjából lenne fontos.",
       "importance": 4
     },
     {
-      "title": "Orbán Viktor nélkül tartja a Fidesz az október 23-i ünnepséget",
-      "summary": "Kiderült, hogy Áder János, Bóka János és Schmidt Mária mond beszédet a Fidesz október 23-i Bem téri ünnepségén. Orbán Viktor miniszterelnök idén nem lesz a szónokok között, ami eltér a korábbi évek gyakorlatától.",
-      "importance": 4
-    },
-    {
-      "title": "Orbán Viktor és Magyar Péter az ukrán pénzszállítmány ügyéről",
-      "summary": "Orbán Viktor kijelentette, hogy megtett volna intézkedéseket az ukrán pénzszállítmány ügyében, ha kellett volna. Ezzel szemben Magyar Péter azt állítja, hogy az ő fellépése zsarolta ki az ukránoktól azt, amit Orbánnak nem sikerült elérnie.",
+      "title": "Pályázatot írtak ki a közmédia vezérigazgatói posztjára",
+      "summary": "Nyílt pályázat keretében keresik az új vezérigazgatót a közmédia élére. Ez a pozíció kulcsfontosságú a magyarországi tájékoztatás és médiapiac szempontjából.",
       "importance": 3
+    },
+    {
+      "title": "A Fidesz támogatja Magyar Péter alkohol- és drogtesztre vonatkozó javaslatát a parlamentben",
+      "summary": "A kormánypárt támogatja Magyar Péter indítványát, amely kötelező alkohol- és drogtesztet vezetne be a parlamenti képviselők számára. A javaslat a közéleti szereplők felelősségét hangsúlyozza.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Oroszország ukrán energiaellátó létesítményeket támadott Trump tűzszünet-bejelentése óta",
-      "summary": "Volodimir Zelenszkij ukrán elnök szerint az orosz erők hat ukrán energiaipari létesítményt támadtak meg azóta, hogy Donald Trump tűzszünetet jelentett be. Ez a lépés súlyosbítja Ukrajna energetikai helyzetét a hidegebb hónapok előtt.",
+      "title": "Az MI5 vezetője Oroszország, Irán és a mesterséges intelligencia felől érkező fenyegetésekre figyelmeztet",
+      "summary": "A brit elhárítás vezetője szerint az Egyesült Királyságot komoly fenyegetések érik Oroszországból, Iránból és a mesterséges intelligencia fejlődéséből. Ezek a veszélyek meghaladják a hidegháború idején tapasztaltakat.",
       "importance": 5
     },
     {
-      "title": "Globális következményekkel járó háború dúl Jemenben",
-      "summary": "Jemen sivatagi harcmezején egy olyan konfliktus zajlik, amelynek messzemenő globális következményei vannak. A háború hatással van a regionális stabilitásra és a nemzetközi energiapiacra.",
+      "title": "Franciaországban a Nemzeti Tömörülés a megszorítások pártjára állt, utat mutatva az európai szélsőjobbnak",
+      "summary": "A válsággal küzdő Franciaországban Marine Le Pen pártja a megszorítások mellett foglalt állást, jelezve egy lehetséges irányváltást az európai szélsőjobb politikájában. Ez komoly hatással lehet a kontinens politikai térképére.",
+      "importance": 5
+    },
+    {
+      "title": "Zelenszkij szerint a szövetségesek nem figyelmeztették Kijevet az orosz rakétatámadásokra",
+      "summary": "Az ukrán elnök kijelentette, hogy a szövetséges országok nem tájékoztatták Kijevet a legutóbbi orosz rakétatámadásokról. Ez feszültséget jelezhet a nemzetközi szövetségi viszonyokban és befolyásolhatja Ukrajna védelmi képességét.",
       "importance": 4
     },
     {
-      "title": "Két török állampolgárt gyanúsítanak Starlink-állomás felgyújtásával Németországban",
-      "summary": "Németországban őrizetbe vettek két török állampolgárt, akiket azzal vádolnak, hogy felgyújtottak egy Starlink-állomást Lengyelországban. Az eset felveti a kritikus infrastruktúra elleni támadásokkal kapcsolatos aggodalmakat.",
+      "title": "Kémkedés gyanújával őrizetbe vettek egy japán újságírót Oroszországban",
+      "summary": "Az orosz hatóságok kémkedés vádjával őrizetbe vettek egy japán újságírót. Az eset további feszültséget okozhat a két ország kapcsolatában és aggodalmakat vet fel a sajtószabadsággal kapcsolatban.",
       "importance": 4
-    },
-    {
-      "title": "Nagy-Britannia nem tűr el fenyegetéseket a területén – Miliband bekérette az iráni nagykövetet",
-      "summary": "David Miliband brit külügyminiszter kijelentette, hogy Nagy-Britannia nem tolerálja a területén érő fenyegetéseket, és bekérette az iráni nagykövetet. Ez a diplomáciai lépés a két ország közötti feszültséget jelzi.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Meta bemutatta első \"frontier\" mesterséges intelligencia modelljét, a Muse Wondert",
-      "summary": "A Meta kiadta első, élvonalbeli mesterséges intelligencia modelljét, a Muse Wondert. Ez az új fejlesztés jelentős előrelépést jelenthet az AI kutatásában és a széleskörű alkalmazások terén.",
+      "title": "A Pluto Security 42 millió dolláros befektetést kap, miközben az AI új fejfájást okoz a vállalati biztonsági csapatoknak",
+      "summary": "A Pluto Security 42 millió dolláros tőkebefektetést vont be, mivel a mesterséges intelligencia új kihívások elé állítja a vállalati biztonsági rendszereket. Ez a befektetés a kibervédelem és az AI összefonódó jövőjét mutatja.",
       "importance": 5
     },
     {
-      "title": "A Microsoft elnöke szerint az Egyesült Királyság ideális az AI szabályozás élére",
-      "summary": "A Microsoft elnöke úgy véli, az Egyesült Királyság a legmegfelelőbb helyzetben van ahhoz, hogy irányt szabjon a mesterséges intelligencia szabályozásának. Ez a nyilatkozat kiemeli az AI jogi és etikai kereteinek globális jelentőségét.",
+      "title": "A Bumble társkereső alkalmazás 1,3 milliárd dolláros felvásárlási megállapodást kötött",
+      "summary": "A népszerű online társkereső platform, a Bumble, 1,3 milliárd dolláros felvásárlási egyezményt írt alá, ami a randevúpiac jelentős átrendeződését jelzi. Ez az akvizíció befolyásolhatja a digitális társkeresés jövőjét.",
       "importance": 4
     },
     {
-      "title": "AI startup percek alatt generál engedélyezésre kész építési terveket",
-      "summary": "Egy mesterséges intelligencia startup azt állítja, hogy percek alatt képes engedélyezésre kész építési terveket előállítani. Ez a technológia forradalmasíthatja az építőipar tervezési folyamatait és felgyorsíthatja a projektek megvalósítását.",
+      "title": "Az Apple új okosotthon termékeket mutatott be, köztük okoszárat és termosztátot",
+      "summary": "Az Apple kibővítette okosotthon kínálatát új termékekkel, mint például okoszárral, termosztáttal és videó kaputelefonnal. Ezzel a vállalat tovább erősíti pozícióját a gyorsan növekvő okosotthon piacon.",
       "importance": 4
     },
     {
-      "title": "A Google új Fitbit Edge eszköze a Fitbit és a Pixel Watch közötti rést hidalja át",
-      "summary": "A Fitbit Edge a Google válasza a köztes kategória igényeire, pozicionálva magát a Fitbit Air és a Pixel Watch közé. Ez az új viselhető eszköz bővítheti a Google ökoszisztémáját és új felhasználói szegmenseket célozhat meg.",
+      "title": "A Google és SpaceX ex-vezetője által alapított Satlyt 8 millió dollárt gyűjtött AI műholdas rendszerekre",
+      "summary": "A Satlyt startup, amelyet egy volt Google és SpaceX termékmenedzser alapított, 8 millió dollár befektetést szerzett mesterséges intelligenciát futtató műholdak fejlesztésére. Ez a technológia az űrben történő adatfeldolgozásban hozhat áttörést.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Közgazdasági Nobel-díjat adományoztak a válságban lévő gazdaságok stabilizálásával foglalkozó munkáért",
-      "summary": "Az idei közgazdasági Nobel-díjat olyan kutatásért ítélték oda, amely a válságban lévő gazdaságok stabilizálására fókuszál. Ez a munka kulcsfontosságú a globális pénzügyi kihívások megértésében és kezelésében.",
+      "title": "Egy migrén elleni gyógyszer 40%-kal növelheti a vetélés kockázatát",
+      "summary": "Egy kutatás szerint bizonyos migrén elleni gyógyszerek akár 40%-kal is növelhetik a vetélés kockázatát. Ez az információ rendkívül fontos a terhességet tervező vagy váró nők számára és orvosi konzultációt tesz szükségessé.",
       "importance": 5
     },
     {
-      "title": "Díjnyertes mikroszkópos képet diszkvalifikáltak AI használata miatt",
-      "summary": "Egy elismert mikroszkópos képet visszavontak egy pályázatból, mivel mesterséges intelligenciát használtak az előállításához. Az eset rávilágít az AI tudományos etikai kérdéseire és a kutatási integritásra.",
+      "title": "A decentralizált mesterséges intelligencia energiafelhasználásáról több bizonyítékra van szükség",
+      "summary": "A kutatók szerint több adatot kell gyűjteni a decentralizált mesterséges intelligencia energiafelhasználásáról, hogy felmérhessék annak környezeti hatásait. Ez a téma kritikus az AI fenntartható fejlődése szempontjából.",
       "importance": 4
     },
     {
-      "title": "Az alvásban rejtőző jelek előrejelezhetik a jövőbeli egészségi állapotot",
-      "summary": "Kutatók felfedezték, hogy az alvás során megjelenő rejtett jelek képesek előre jelezni egyén jövőbeli egészségi állapotát. Ez a felismerés új diagnosztikai lehetőségeket nyithat meg és hozzájárulhat a betegségek korai felismeréséhez.",
+      "title": "Hová tűnik a műanyag, amikor a mikrobák lebontják?",
+      "summary": "A tudósok azt vizsgálják, hogy mi történik a műanyaggal, miután a mikrobák elkezdik lebontani azt. Ennek megértése kulcsfontosságú a műanyagszennyezés elleni küzdelemben és új újrahasznosítási módszerek kifejlesztésében.",
       "importance": 4
     },
     {
-      "title": "Az orvosok akadémiai szerepe létfontosságú az egészségügyi kutatáshoz",
-      "summary": "Fontos, hogy az orvosok az akadémiai szférában maradjanak, mert nélkülük az egészségügyi kutatás színvonala csökkenne. A klinikai tapasztalat és az elméleti tudás ötvözése elengedhetetlen a fejlődéshez.",
+      "title": "Egy új detektor állítólag meg tudja különböztetni az AI által generált és az ember által írt tartalmat",
+      "summary": "Egy új technológia azt állítja, képes megállapítani, hogy egy adott szöveget mesterséges intelligencia vagy ember írta-e. Ez az eszköz nagy jelentőséggel bírhat az oktatásban, a kiadói iparban és a szerzői jogi kérdésekben.",
       "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Alexander Zverev lesz a férfi tenisz új világelsője",
-      "summary": "Alexander Zverev a férfi tenisz új világelsője lesz, ami jelentős fordulatot jelent a sportág élmezőnyében. Ez a siker kiemelkedő mérföldkő a német játékos karrierjében.",
+      "title": "Fegyveres rablás áldozata lett otthonában Gulácsi Péter",
+      "summary": "A magyar válogatott kapusát, Gulácsi Pétert fegyveresek rabolták ki saját otthonában. Az eset a sportvilágot és a közvéleményt is sokkolta.",
       "importance": 5
+    },
+    {
+      "title": "Az UEFA cigányozás miatt büntette a magyar válogatottat, elmarad a következő idegenbeli meccs szurkolói támogatása",
+      "summary": "Az UEFA büntetést szabott ki a magyar labdarúgó-válogatottra rasszista megnyilvánulások miatt, így a következő idegenbeli mérkőzésen nem lehetnek magyar szurkolók. Ez komoly üzenet a sportágban terjedő diszkrimináció ellen.",
+      "importance": 5
+    },
+    {
+      "title": "A futballszabályozó lemondana, ha a Man City ügyébe politikai beavatkozás történne",
+      "summary": "A brit futballszabályozó vezetője jelezte, lemondana, ha politikai beavatkozás történne a Manchester City elleni pénzügyi szabálytalansági ügybe. Ez rávilágít a sport integritásának védelmére és a független szabályozás fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "Jelentés szerint az angol futballklubok többsége pénzügyi katasztrófa szélén áll",
+      "summary": "Egy friss jelentés aggasztó képet fest az angol futballklubok pénzügyi helyzetéről, állítva, hogy többségük a csőd szélén áll. Ez a helyzet komoly változásokat követelhet a sportág finanszírozásában és működésében.",
+      "importance": 4
     }
   ]
 }

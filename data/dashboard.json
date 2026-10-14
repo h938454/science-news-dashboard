@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar Péter: Macron látogatja Magyarországot, új gyermekvédelmi törvény készül",
-      "summary": "Magyar Péter bejelentette, hogy Emmanuel Macron francia elnök október 23-án Budapestre érkezik, és szóba került egy új gyermekvédelmi törvény előkészítése is. Ez a hír jelentős diplomáciai eseményre és belpolitikai változásokra utal.",
+      "title": "Orbán Viktor politikai helyzetértékelése",
+      "summary": "Orbán Viktor miniszterelnök politikai helyzetértékelést tart a Fidesz–KDNP kihelyezett frakcióülésén. Beszédében várhatóan a hazai és nemzetközi eseményekre, valamint a kormánypártok jövőbeli terveire tér ki.",
       "importance": 5
     },
     {
-      "title": "Lemondott Tótth András energetikai államtitkár",
-      "summary": "Váratlanul lemondott Tótth András, az energetikai államtitkár posztjáról, ami jelentős változást jelez a kormányzati energiapolitikában. A lemondás okai egyelőre nem nyilvánosak, de hatással lehetnek a szektor jövőjére.",
+      "title": "Lemondott főügyész állításai politikai nyomásról",
+      "summary": "A lemondott főügyész érdeke egybevág Magyar Péter állításaival, miszerint politikai nyomásgyakorlás történt az ügyészségen. Ez az ügy kiemelten fontos a jogállamiság és az igazságszolgáltatás függetlensége szempontjából.",
+      "importance": 5
+    },
+    {
+      "title": "A Szabályozott Tevékenységek Felügyeleti Hatóságának elnöke lemondott",
+      "summary": "Lemondott Nagy László, a Szabályozott Tevékenységek Felügyeleti Hatóságának (SZTFH) elnöke, ami hatósági és közigazgatási változásokra utal. Döntésének okai és következményei elemzés tárgyát képezik.",
       "importance": 4
     },
     {
-      "title": "Új elnök a Magyar Energetikai és Közmű-szabályozási Hivatal élén",
-      "summary": "Losonczy Gézát nevezték ki a Magyar Energetikai és Közmű-szabályozási Hivatal (MEKH) új elnökévé, ami fontos pozíció az ország energiapiacának és közműveinek felügyeletében. Az új vezető kinevezése stratégiai jelentőségű lehet a szektor számára.",
+      "title": "Pályázat a közmédia új vezérigazgatói posztjára",
+      "summary": "A Független Közmédia Testület kiírta a közmédia vezérigazgatói pályázatát, amely új korszakot hozhat az intézmény életébe. Az új vezetőtől a megújult, eddig nem látott tartalmú közmédia kialakítását várják.",
       "importance": 4
-    },
-    {
-      "title": "A kórházak minőségi mutatók alapján kaphatnak plusz finanszírozást",
-      "summary": "Hegedűs Zsolt bejelentése szerint a kórházak jövőben minőségi mutatók alapján kaphatnak kiegészítő finanszírozást, ami reformot jelenthet az egészségügyi rendszerben. A cél a betegellátás színvonalának javítása és a hatékonyság növelése.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "A pápánál tüdőrákot diagnosztizáltak, de sikeresen megműtötték",
-      "summary": "A Vatikán bejelentette, hogy a pápánál tüdőrákot állapítottak meg, de az azt követő műtét sikeres volt. Az egyházfő egészségi állapota világszerte nagy érdeklődésre tart számot.",
+      "title": "A pápa rákos diagnózisa aggodalmakat kelt",
+      "summary": "A pápa rákos megbetegedésének híre világszerte kérdéseket vet fel a katolikus egyház jövőjével kapcsolatban. Az esemény súlyos következményekkel járhat a hívők és az egyház vezetésére nézve.",
       "importance": 5
     },
     {
-      "title": "Ukrajnait állítanak bíróság elé a Nord Stream gázvezetékek felrobbantásával vádolva",
-      "summary": "Németországban megkezdődik egy ukrán férfi pere, akit a Nord Stream gázvezetékek felrobbantásával vádolnak. Az ügy komoly geopolitikai feszültségeket és nemzetközi vizsgálatokat von maga után.",
+      "title": "A Starlink korlátozása Ukrajnában politikai okokra vezethető vissza",
+      "summary": "Zelenszkij egyik tanácsadója szerint az ukrajnai Starlink hálózat hozzáférésének korlátozása politikai helyzettel függ össze. Ez a lépés jelentős hatással van a háborús kommunikációra és stratégiai műveletekre.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij: A szövetségesek nem figyelmeztettek az orosz rakétatámadásokra",
-      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki, hogy a szövetségesek nem figyelmeztették Kijevet a legutóbbi orosz rakétatámadásokra. Ez a nyilatkozat feszültségeket jelezhet a szövetségesek közötti kommunikációban és a támogatás mértékében.",
+      "title": "Lakóházak romokban az orosz támadások után Ukrajnában",
+      "summary": "Képsorok mutatják a romokban heverő lakóházakat az orosz támadások után Ukrajnában, kiemelve a konfliktus pusztító civil hatását. A tragédia tovább mélyíti az ország humanitárius válságát.",
       "importance": 4
     },
     {
-      "title": "Újabb 1600 névvel bővült az Oroszországgal szembeni uniós szankciós lista",
-      "summary": "Az Európai Unió újabb 1600 személlyel és entitással bővítette az Oroszországgal szembeni szankciós listáját. Ez a lépés tovább szigorítja a Moszkvára nehezedő gazdasági és politikai nyomást az ukrajnai háború miatt.",
+      "title": "Az amerikai infláció a vártnál magasabb a félidős választások előtt",
+      "summary": "Az Egyesült Államok inflációja a vártnál nagyobb mértékben emelkedett a félidős választások előtt, ami gazdasági és politikai aggodalmakat vált ki. Ez befolyásolhatja a szavazók hangulatát és a gazdaságpolitikát.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az FBI letartóztatta az OpenAI egyik alkalmazottját kémkedés gyanújával",
-      "summary": "Az FBI letartóztatta az OpenAI egyik alkalmazottját, aki ellen az a vád, hogy rejtett felvevőeszközt helyezett el egy tárgyalóteremben. Az eset súlyos biztonsági aggályokat vet fel a technológiai szektorban.",
+      "title": "Kína tömegesen vásárolja az Nvidia AI processzorait",
+      "summary": "Kína hatalmas mennyiségben szerzi be az Nvidia grafikus processzorait, hogy felpörgesse mesterséges intelligencia fejlesztéseit, ami a globális chip-háború legújabb fejezete. Ez komoly feszültségeket okoz a technológiai szuperhatalmak között.",
       "importance": 5
     },
     {
-      "title": "Az Igazságügyi Minisztérium szerint észak-koreaiak több tucat amerikai vállalatba hatoltak be",
-      "summary": "Az amerikai Igazságügyi Minisztérium bejelentése szerint észak-koreai hackerek több tucat amerikai cégnél hajtottak végre sikeres beszivárgásokat. Ez a hír kiemeli a nemzetállamok által támogatott kibertámadások növekvő fenyegetését.",
+      "title": "Asztali fúziós eszköz fejlesztésén dolgozik egy vállalat",
+      "summary": "A Cambridge Heavy Industries csendben egy asztali méretű fúziós berendezésen dolgozik, ami áttörést jelenthet az energiaelőállításban. Ha sikeres, ez forradalmasíthatja a tiszta energiaforrásokat.",
       "importance": 5
     },
     {
-      "title": "A Cerebras vezérigazgatója szerint mindenki otthonában lesz személyes mesterséges intelligencia asszisztens",
-      "summary": "A Cerebras vezérigazgatója szerint a közeljövőben mindenki számára elérhetővé válnak a személyes mesterséges intelligencia asszisztensek. Ez a vízió a mesterséges intelligencia mindennapi életre gyakorolt mélyreható hatását vetíti előre.",
+      "title": "Személyes AI asszisztensek jövője otthonainkban",
+      "summary": "A Cerebras vezérigazgatója szerint közel állunk egy olyan jövőhöz, ahol mindenkinek lesz személyes AI asszisztense otthon. Ez átalakíthatja a mindennapi életünket és a technológiához való viszonyunkat.",
       "importance": 4
     },
     {
-      "title": "A Facebook nagyobb kontrollt biztosít a felhasználóknak az algoritmusai felett",
-      "summary": "A Facebook lehetővé teszi a felhasználóknak, hogy nagyobb mértékben szabályozzák az őket érintő algoritmusokat, például a hírfolyam tartalmát. Ez a lépés a felhasználói élmény javítását és az átláthatóság növelését célozza.",
+      "title": "Robotok gyári feladatcseréje perceken belül",
+      "summary": "Az Industrial Next célja, hogy a gyári robotok hetek helyett percek alatt válthassanak feladatot. Ez jelentősen növelné az ipari automatizálás rugalmasságát és hatékonyságát.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Gyógyíthatják-e a GLP-1 típusú gyógyszerek az agyat?",
-      "summary": "Az elhízás kezelésére használt GLP-1 típusú gyógyszerek új alkalmazási lehetőségeket mutatnak az addikció és a depresszió kezelésében. Ez a felfedezés forradalmasíthatja a neurológiai és pszichiátriai betegségek terápiáját.",
+      "title": "Kína rendkívüli tudományos felemelkedése és globális hatása",
+      "summary": "Kína rendkívüli felemelkedése a tudományos kutatásban alapjaiban változtatja meg a világot. Ez az átrendeződés a globális tudományos dominanciában komoly következményekkel járhat.",
       "importance": 5
     },
     {
-      "title": "Asztali fúziós eszközt fejlesztettek ki",
-      "summary": "A Cambridge Heavy Industries titokban egy asztali méretű fúziós eszközt épített, ami komoly előrelépést jelenthet a tiszta energiatermelés felé. Ez az innováció potenciálisan átalakíthatja az energetikai szektort.",
+      "title": "Látás-helyreállító chipet ültettek be első páciensbe",
+      "summary": "A Science Corporation beültette látás-helyreállító chipjét első Stargardt-kóros páciensébe, ami áttörést jelenthet a vakság gyógyításában. Ez a technológia reményt adhat millióknak.",
       "importance": 5
     },
     {
-      "title": "Látás-helyreállító chipet ültettek be első betegbe",
-      "summary": "A Science Corporation sikeresen beültette látás-helyreállító chipjét egy Stargardt-betegségben szenvedő páciensbe. Ez az áttörés reményt adhat számos látássérült embernek.",
+      "title": "Atomméretű spinnelérés 2D d-hullámú altermágneseknél",
+      "summary": "Egy kutatás atomméretű spinnelérést mutatott be 2D d-hullámú altermágneseknél, helikális alagúthatás révén. Ez alapvető felfedezés a fizika és az anyagtudomány területén.",
       "importance": 4
     },
     {
-      "title": "Kutatási adatok megőrzése az AI-alapú integritásellenőrzéshez",
-      "summary": "A jövőbeli mesterséges intelligencia-alapú integritásellenőrzések érdekében kiemelten fontos a kutatási adatok megőrzése és hozzáférhetővé tétele. Ez a lépés hozzájárulhat a tudományos megbízhatóság és transzparencia növeléséhez.",
+      "title": "Hova tűnik a műanyag, amikor a mikrobák lebontják?",
+      "summary": "Kutatók vizsgálják, hova tűnik a műanyag, miután a mikrobák lebontják, hogy jobban megértsék a folyamatot. Ez a felfedezés segíthet a műanyagszennyezés elleni küzdelemben és új újrahasznosítási módszerek kifejlesztésében.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Fegyveres rablás áldozata lett Gulácsi Péter otthonában",
-      "summary": "Fegyveresek rabolták ki Gulácsi Péter magyar válogatott labdarúgót a saját otthonában. Az eset sokkolta a sportvilágot és a közvéleményt.",
-      "importance": 4
+      "title": "Első anti-focistafeleség-botrány Magyarországon Görög Zita főszereplésével",
+      "summary": "Magyarországon robbant ki a világ első „anti-focistafeleség”-botránya, Görög Zita részvételével, amely a sportolók magánélete körüli társadalmi diskurzust kavarta fel. Az ügy széles körű visszhangot váltott ki a médiában és a közvéleményben.",
+      "importance": 2
     },
     {
-      "title": "Az UEFA eltiltotta a magyar szurkolókat a rasszista megnyilvánulások miatt",
-      "summary": "Az UEFA büntetést szabott ki a magyar labdarúgó-válogatottra a szurkolók rasszista viselkedése miatt, így a csapat következő idegenbeli mérkőzésén nem lehetnek magyar nézők. Az ítélet komoly visszhangot váltott ki a sportkörökben.",
-      "importance": 4
+      "title": "Man City elnökkel vacsorázott egy politikus, törölt bejegyzésekkel",
+      "summary": "Két vendéglátóipari vacsoráról derült ki, hogy egy politikus a Manchester City elnökével vacsorázott, melyekről törölték a nyilvántartásokat. Az eset felveti az átláthatóság és az összeférhetetlenség kérdéseit a sport és a politika találkozásánál.",
+      "importance": 2
+    },
+    {
+      "title": "Közalkalmazott öt állást zsonglőrködve hamisított betegséget",
+      "summary": "Egy közalkalmazott sminkkel tettette a betegséget, hogy öt állást tudjon egyszerre végezni, ami egy bírósági ügyben derült ki. Ez az eset az emberi teljesítőképesség és a munkaerőpiaci kihívások extrém példája.",
+      "importance": 1
+    },
+    {
+      "title": "Tigristámadás áldozatára emlékezik a család",
+      "summary": "Egy család megemlékezik „melegszívű és megnyerő” rokonukról, akit tigristámadás ölt meg. A tragikus esemény rávilágít az ember és a természet találkozásának veszélyeire, és a vadvédelem fontosságára.",
+      "importance": 1
     }
   ]
 }

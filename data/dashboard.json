@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Az állam elismerte a Szuverenitásvédelmi Hivatal jogsértését",
-      "summary": "A Szuverenitásvédelmi Hivatal jogsértő módon járt el az Átlátszóval szemben, amit az állam is elismert. Ennek következtében 3,8 millió forint sérelemdíjat fizetnek a szervezetnek.",
+      "title": "Kórházban ragadt csecsemők ügyét vizsgáló testületet hoz létre a minisztérium",
+      "summary": "A Szociális és Családügyi Minisztérium külön testületet alakít a kórházban rekedt csecsemők sorsának rendezésére. A kezdeményezés az árvaházak túlzsúfoltságára és a gyermekvédelem hiányosságaira is rávilágít.",
       "importance": 5
     },
     {
-      "title": "Uniós jogot sért a migránscsempészek szabadon bocsátása",
-      "summary": "Az Orbán-kormány rendeletével számos migránscsempész került szabadlábra a börtönből. Ez a lépés uniós jogot sért, ami komoly következményekkel járhat Magyarországra nézve.",
+      "title": "A Fidesz-kormány is felelős a gyermekvédelem helyzetéért – mondja a szociális államtitkár",
+      "summary": "A szociális államtitkár elismerte a Fidesz-kormány felelősségét a gyermekvédelemben tapasztalható hiányosságokért és problémákért, ami ritka önkritika a kormányzati kommunikációban.",
       "importance": 5
     },
     {
-      "title": "Felfüggesztették Fürcht Pál főügyészt, újabb fegyelmi eljárás indult ellene",
-      "summary": "A legfőbb ügyész felfüggesztette Fürcht Pál volt főügyészt, és újabb fegyelmi eljárást kezdeményezett ellene. Az ügy a Magyar Péterhez köthető SMS-ekkel is összefüggésbe hozható, amelyekben állítólagos visszaélésekről volt szó.",
+      "title": "Felmentették a Katonai Nemzetbiztonsági Szolgálat volt igazgatóját",
+      "summary": "Felmentették a Katonai Nemzetbiztonsági Szolgálat korábbi igazgatóját Ruszin-Szendi Romulusz javaslatára, mely döntés a szervezet vezetésében történt jelentős változást jelez.",
       "importance": 4
     },
     {
-      "title": "Volt igazságügyi minisztereket hallgatna meg a végrehajtási bizottság",
-      "summary": "A végrehajtási visszaéléseket vizsgáló bizottság több volt igazságügyi minisztert is meghallgatna az ügy feltárása érdekében. Céljuk a magyar jogrendszerben tapasztalt visszásságok tisztázása.",
+      "title": "Magyarországon az EU egyik legdrágább a mobiltelefonálás",
+      "summary": "Magyarországon az egyik legdrágább a mobiltelefonálás az Európai Unióban. Ez a tény jelentős terhet ró a lakosságra és a vállalkozásokra egyaránt.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrajna újraindítja az orosz finomítók elleni támadásokat",
-      "summary": "Ukrajna bejelentette, hogy újraindítja az orosz finomítók elleni támadásokat, mivel Oroszország nem tartotta be az energia-tűzszünetet. Ez a lépés eszkalálhatja a háborút és globális energiaellátási problémákat okozhat.",
-      "importance": 5
-    },
-    {
-      "title": "Iskolaomlás Pakisztánban: több mint harminc halott",
-      "summary": "Egy pakisztáni iskola mennyezete beszakadt, aminek következtében legalább 33 diák és egy tanár vesztette életét. A mentési munkálatok tovább zajlanak, de a túlélők száma valószínűleg nem nő.",
-      "importance": 5
-    },
-    {
-      "title": "Éhínséget és inflációt okozhat az orosz élelmiszerstratégia",
-      "summary": "Rácz András szerint Oroszország stratégiája az élelmiszerhiányra épül, ami éhínséget okozhat a világpiacon. Ez Európában növekvő inflációs nyomáshoz vezethet, destabilizálva a gazdaságot.",
+      "title": "Súlyos baleset a Csalagútnál: kisbusz ütközött tehervonattal",
+      "summary": "Súlyos baleset történt a Csalagút francia oldalánál, ahol egy kisbusz borult oldalára, majd összeütközött egy tehervonattal. Az incidensben 19 ember sérült meg.",
       "importance": 4
     },
     {
-      "title": "Az elmúlt 84 év leghevesebb esőzése sújtja Isztambult",
-      "summary": "Isztambulban az elmúlt 84 év legintenzívebb esőzése okoz pusztítást, hatalmas áradásokat és fennakadásokat idézve elő a városban. A helyzet rendkívül súlyos, és a mentőalakulatok folyamatosan dolgoznak.",
+      "title": "Putyin az ukrán dróntámadásokról: Előre kellett volna látnunk",
+      "summary": "Vlagyimir Putyin szerint Oroszországnak előre kellett volna látnia az ukrán dróntámadások fokozódását. Mindeközben Ukrajna bejelentette, folytatni fogja a csapásokat orosz célpontok ellen.",
+      "importance": 5
+    },
+    {
+      "title": "Több száz IDF vizsgálat eredmény nélkül a civilek megölése ügyében",
+      "summary": "A BBC Verify kutatása szerint az izraeli védelmi erők (IDF) által civilek megölésével kapcsolatos több száz vizsgálat még mindig nyilvános eredmény nélkül van. Ez aggályokat vet fel az elszámoltathatósággal kapcsolatban.",
+      "importance": 5
+    },
+    {
+      "title": "Húsz éve vádolják szexuális visszaéléssel, most bíróság elé kerül Russell Brand",
+      "summary": "Russell Brand brit komikust és színészt húsz éve folyamatosan vádolják szexuális visszaélésekkel. Most először kerül bíróság elé az ügyben, miután korábbi áldozatok is megszólaltak.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Kormányok élnek vissza online hirdetésekkel kémprogramok terjesztésére",
-      "summary": "A Citizen Lab szerint egyes kormányok online hirdetéseket használnak fel arra, hogy „zero-click” kémprogramokkal törjenek be emberek eszközeibe. Ez súlyos aggodalmakat vet fel a kiberbiztonság és a magánélet védelmével kapcsolatban, globális szinten.",
+      "title": "Kormányok kémprogramokkal törhetik fel embereket online hirdetéseken keresztül",
+      "summary": "Kormányok használnak „nulla kattintásos” kémprogramokat az emberek feltörésére online hirdetéseken keresztül. Ez súlyos adatvédelmi és biztonsági aggályokat vet fel világszerte.",
       "importance": 5
     },
     {
-      "title": "Az MI nyertese egy tőzsdezuhanást elszenvedő ország",
-      "summary": "A mesterséges intelligencia fejlődésének legnagyobb nyertese meglepő módon egy olyan ország, ahol a tőzsdét is le kellett állítani a brutális esés miatt. Ez rávilágít az MI gazdasági hatásainak összetettségére és váratlan következményeire.",
+      "title": "A Starlink kritikus szerepe az orosz-ukrán háborúban",
+      "summary": "A Starlink műholdas internethálózat kritikus szerepet játszik az orosz-ukrán háborúban, kommunikációt biztosítva a frontvonalon. Ez felveti a technológia hadviselésben betöltött kettős felhasználásának kérdéseit.",
+      "importance": 5
+    },
+    {
+      "title": "A Meta nyílt forráskódú AI modellt indított Mac-ekre",
+      "summary": "A Meta egy nyílt forráskódú, Macs számítógépeken is futtatható AI modellt dobott piacra. Ezzel a mesterséges intelligencia elérhetőségét szélesíti és ösztönzi a fejlesztéseket.",
       "importance": 4
     },
     {
-      "title": "Stabilizálódik az Elon Musk Starlink szolgáltatása Ukrajnában",
-      "summary": "Elon Musk Starlink műholdas internetszolgáltatása, amelyet katonai célokra is használnak Ukrajnában, fokozatosan helyreáll és tovább javul. Ez kritikus fontosságú a kommunikáció és a hadműveletek szempontjából a háborús övezetben.",
-      "importance": 4
-    },
-    {
-      "title": "Mesterséges intelligencia tervezte chipekkel a számítási válság ellen",
-      "summary": "A Ricursive Intelligence AI által tervezett chipekkel kívánja megoldani a számítási kapacitás (compute crisis) problémáját. Ez a megközelítés forradalmasíthatja a hardverfejlesztést és az MI-alkalmazások jövőjét.",
+      "title": "A Volvo az Nvidiával fokozza az önvezető technológia fejlesztését",
+      "summary": "A Volvo fokozza együttműködését az Nvidiával az autonóm vezetés fejlesztésében. Céljuk a kéz nélküli vezetés bevezetését az autóikban a jövőben.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Magyar kutatók találtak kilökődött szupermasszív fekete lyukakat",
-      "summary": "Tíz évvel ezelőtti előrejelzéseket megerősítve magyar kutatóknak sikerült megtalálniuk a galaxisok közepéről kilökődött szupermasszív fekete lyukakat. Ez jelentős áttörés a csillagászatban és a magyar tudomány számára is elismerés.",
+      "title": "A világ időmérői változtatnak az időbeállításon a „negatív másodperc” elkerülésére",
+      "summary": "A világ időmérői felülvizsgálják az időbeállítás módját, hogy elkerüljék a katasztrofális „negatív másodperc” bevezetését. Ez súlyos problémákat okozhatna a digitális rendszerekben.",
       "importance": 5
     },
     {
-      "title": "Közelebb a világ egy fontos természetvédelmi célhoz, mint hitték",
-      "summary": "A tudósok meglepő módon arra jutottak, hogy a világ közelebb van egy főbb természetvédelmi cél eléréséhez, mint azt korábban gondolták. Ez pozitív hír a környezetvédelem számára, új reményt adva a bolygó jövőjével kapcsolatban.",
+      "title": "A zátonyépítő korallok közel fele kihalási kockázattal néz szembe",
+      "summary": "A zátonyépítő korallok közel fele magasabb kihalási kockázattal néz szembe. Ez súlyos következményekkel járhat a tengeri ökoszisztémákra és a biológiai sokféleségre nézve.",
+      "importance": 5
+    },
+    {
+      "title": "Egy 75 000 éves seb erőszakosabb neandervölgyi életre utal",
+      "summary": "Egy 75 000 éves neandervölgyi seb arra utal, hogy életmódjuk erőszakosabb lehetett, mint azt korábban gondolták. Ez új megvilágításba helyezi az emberi evolúció ezen szakaszát.",
       "importance": 4
     },
     {
-      "title": "Gyógyszergyártás mini emberi bélrendszeren, állatok helyett",
-      "summary": "Az Intero Biosystems azt javasolja, hogy a gyógyszergyártók mini emberi bélrendszereken teszteljenek állatok helyett. Ez etikusabb és potenciálisan hatékonyabb megközelítést kínálhat a gyógyszerfejlesztésben.",
+      "title": "Az AI erodálja a PhD hallgatók kritikus gondolkodását?",
+      "summary": "Felmerül a kérdés, hogy a mesterséges intelligencia erodálja-e a PhD hallgatók kritikus gondolkodási és elemzési képességeit. Ez hosszú távon hatással lehet a tudományos kutatás minőségére.",
       "importance": 4
-    },
-    {
-      "title": "AI vagy ember? Egy detektor állítólag felismeri az ötletek eredetét",
-      "summary": "Egy új detektor állítólag képes megmondani, hogy egy ötlet mesterséges intelligenciától vagy embertől származik-e. Ez alapvető fontosságú lehet a tudományos integritás és a szerzői jog szempontjából az AI térnyerésével.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Fegyveresek rabolták ki Gulácsi Péter otthonát",
-      "summary": "Gulácsi Péter magyar labdarúgó otthonából 200 ezer euró értékben vittek el táskákat és ékszereket fegyveresek. Az eset nagy port kavart a sportvilágban és a közvéleményben.",
+      "title": "Második meccsét is megnyerte a Fradi az EL-ben",
+      "summary": "A Ferencváros a második csoportmérkőzését is megnyerte az Európa Ligában. Ezzel tovább növelte esélyeit a továbbjutásra és erősítette pozícióját a nemzetközi mezőnyben.",
       "importance": 5
     },
     {
-      "title": "Man City futballista eltolta a bírót, lap nélkül megúszta",
-      "summary": "A Manchester City egyik játékosa erővel arrébb lökött egy bírót a pályán, de meglepő módon még lapot sem kapott az esetért. A vitatott incidens felkavarta a sportszellem és a játékvezetés körüli vitákat.",
+      "title": "Huszonnégy évre eltiltottak egy bundázó szerb teniszezőt",
+      "summary": "Huszonnégy évre eltiltottak egy szerb teniszezőt mérkőzések manipulálásáért. Ez súlyos büntetés és egyértelmű üzenet a sportág tisztaságának megőrzéséért folytatott küzdelemben.",
       "importance": 4
     },
     {
-      "title": "Fehérjeporok biztonságossága sportolók és fiatalok számára",
-      "summary": "Szakértők vizsgálják a fehérjeporok biztonságosságát, különösen a fiatalok és sportolók körében történő fogyasztásuk kapcsán. Fontos tudni, hogy milyen kockázatokat rejthetnek ezek a kiegészítők az egészségre nézve.",
-      "importance": 1
+      "title": "43 év korkülönbséggel játszottak asztalitenisz-Eb-n",
+      "summary": "Szokatlan, 43 éves korkülönbség volt megfigyelhető az asztalitenisz Európa-bajnokság egyik mérkőzésén. Ez bemutatta a sportág generációkat átívelő jellegét és sokszínűségét.",
+      "importance": 3
     },
     {
-      "title": "Pamut alsóneműk műanyag tartalom vizsgálata",
-      "summary": "Egy friss teszt során kiderült, hogy a pamut alsóneműk 15 százaléka műanyagot tartalmaz. Ez a megállapítás befolyásolhatja a sportolók és aktív életmódot élők ruházati választásait, a komfort és a teljesítmény szempontjából is.",
-      "importance": 1
+      "title": "Új luxusjachtot vett Lionel Messi",
+      "summary": "Lionel Messi, az argentin focista egy új, luxusjachtot vásárolt. A hajó öt kabinnal és külön jetskigarázzsal is rendelkezik, bemutatva a sportolók extravagáns életmódját.",
+      "importance": 2
     }
   ]
 }

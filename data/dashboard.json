@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Kórházban ragadt csecsemők ügyét vizsgáló testületet hoz létre a minisztérium",
-      "summary": "A Szociális és Családügyi Minisztérium külön testületet alakít a kórházban rekedt csecsemők sorsának rendezésére. A kezdeményezés az árvaházak túlzsúfoltságára és a gyermekvédelem hiányosságaira is rávilágít.",
-      "importance": 5
-    },
-    {
-      "title": "A Fidesz-kormány is felelős a gyermekvédelem helyzetéért – mondja a szociális államtitkár",
-      "summary": "A szociális államtitkár elismerte a Fidesz-kormány felelősségét a gyermekvédelemben tapasztalható hiányosságokért és problémákért, ami ritka önkritika a kormányzati kommunikációban.",
+      "title": "Alaposan visszaesett a csődeljárás alatt álló Bayer Construct bevétele",
+      "summary": "A Tiborcz-üzlettárshoz, Balázs Attilához köthető Bayer Construct cég bevétele 30 milliárd forinttal zuhant, még a csődhelyzet előtt megrogyott a vállalat. A cég jelenleg is csődeljárás alatt áll.",
       "importance": 5
     },
     {
       "title": "Felmentették a Katonai Nemzetbiztonsági Szolgálat volt igazgatóját",
-      "summary": "Felmentették a Katonai Nemzetbiztonsági Szolgálat korábbi igazgatóját Ruszin-Szendi Romulusz javaslatára, mely döntés a szervezet vezetésében történt jelentős változást jelez.",
+      "summary": "Ruszin-Szendi Romulusz javaslatára felmentették a Katonai Nemzetbiztonsági Szolgálat korábbi igazgatóját. A döntés hátteréről és indokairól részletesebb információ nem vált nyilvánossá.",
       "importance": 4
     },
     {
-      "title": "Magyarországon az EU egyik legdrágább a mobiltelefonálás",
-      "summary": "Magyarországon az egyik legdrágább a mobiltelefonálás az Európai Unióban. Ez a tény jelentős terhet ró a lakosságra és a vállalkozásokra egyaránt.",
+      "title": "A Szociális és Családügyi Minisztérium külön testületet hoz létre a kórházban ragadt csecsemők ügyére",
+      "summary": "A minisztérium külön testületet állít fel, hogy megoldja a kórházban ragadt csecsemők helyzetét, akikről szüleik nem tudnak vagy nem akarnak gondoskodni. Cél a gyermekek mielőbbi családba kerülése és biztonságos elhelyezése.",
       "importance": 4
+    },
+    {
+      "title": "Alig van ország az EU-ban, ahol olyan drága a mobilozás, mint Magyarországon",
+      "summary": "Az Európai Unióban Magyarországon az egyik legmagasabb a mobilszolgáltatások ára, ami jelentős terhet ró a lakosságra. Ez az adat rávilágít a hazai távközlési piac sajátosságaira és a fogyasztók nehézségeire.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Súlyos baleset a Csalagútnál: kisbusz ütközött tehervonattal",
-      "summary": "Súlyos baleset történt a Csalagút francia oldalánál, ahol egy kisbusz borult oldalára, majd összeütközött egy tehervonattal. Az incidensben 19 ember sérült meg.",
+      "title": "Putyin az ukrán dróntámadásokról: Előre kellett volna látnunk",
+      "summary": "Vlagyimir Putyin orosz elnök elismerte, hogy az ukrán dróntámadásokra valószínűleg fel kellett volna készülniük. Nyilatkozata rávilágít az orosz védelem kihívásaira és a háború dinamikájának változására.",
+      "importance": 5
+    },
+    {
+      "title": "Súlyos baleset történt a Csalagút bejáratánál",
+      "summary": "Egy kisbusz az oldalára borult, majd tehervonatnak ütközött a Csalagút francia oldalán, ahol 19 ember megsérült. A baleset forgalmi fennakadásokat okozott a kulcsfontosságú nemzetközi útvonalon.",
       "importance": 4
     },
     {
-      "title": "Putyin az ukrán dróntámadásokról: Előre kellett volna látnunk",
-      "summary": "Vlagyimir Putyin szerint Oroszországnak előre kellett volna látnia az ukrán dróntámadások fokozódását. Mindeközben Ukrajna bejelentette, folytatni fogja a csapásokat orosz célpontok ellen.",
-      "importance": 5
+      "title": "Öt rakétával támadták a húszik az ádeni elnöki palotát",
+      "summary": "A jemeni húszik öt rakétával intéztek támadást az ádeni elnöki palota ellen, ami tovább élezi a konfliktust a régióban. A támadás komoly biztonsági aggályokat vet fel a jemeni polgárháborúban.",
+      "importance": 4
     },
     {
-      "title": "Több száz IDF vizsgálat eredmény nélkül a civilek megölése ügyében",
-      "summary": "A BBC Verify kutatása szerint az izraeli védelmi erők (IDF) által civilek megölésével kapcsolatos több száz vizsgálat még mindig nyilvános eredmény nélkül van. Ez aggályokat vet fel az elszámoltathatósággal kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Húsz éve vádolják szexuális visszaéléssel, most bíróság elé kerül Russell Brand",
-      "summary": "Russell Brand brit komikust és színészt húsz éve folyamatosan vádolják szexuális visszaélésekkel. Most először kerül bíróság elé az ügyben, miután korábbi áldozatok is megszólaltak.",
+      "title": "15 év börtönre ítélték a volt északír pártvezetőt gyermekek szexuális bántalmazásáért",
+      "summary": "Jeffrey Donaldson, a volt északír DUP-vezér 15 év börtönbüntetést kapott gyermekek szexuális bántalmazásának vádjával. Az eset nagy port kavart a brit politikában és közvéleményben, rávilágítva a politikai elit felelősségére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Kormányok kémprogramokkal törhetik fel embereket online hirdetéseken keresztül",
-      "summary": "Kormányok használnak „nulla kattintásos” kémprogramokat az emberek feltörésére online hirdetéseken keresztül. Ez súlyos adatvédelmi és biztonsági aggályokat vet fel világszerte.",
+      "title": "A Meta nyílt súlyú MI-modellt indít Mac-ekre",
+      "summary": "A Meta egy új, nyílt súlyú mesterséges intelligencia modellt bocsátott ki, amely Mac számítógépeken is futtatható. Ez a lépés jelentősen hozzájárulhat az MI-kutatás és fejlesztés demokratizálásához, szélesebb körben elérhetővé téve a technológiát.",
       "importance": 5
     },
     {
-      "title": "A Starlink kritikus szerepe az orosz-ukrán háborúban",
-      "summary": "A Starlink műholdas internethálózat kritikus szerepet játszik az orosz-ukrán háborúban, kommunikációt biztosítva a frontvonalon. Ez felveti a technológia hadviselésben betöltött kettős felhasználásának kérdéseit.",
-      "importance": 5
-    },
-    {
-      "title": "A Meta nyílt forráskódú AI modellt indított Mac-ekre",
-      "summary": "A Meta egy nyílt forráskódú, Macs számítógépeken is futtatható AI modellt dobott piacra. Ezzel a mesterséges intelligencia elérhetőségét szélesíti és ösztönzi a fejlesztéseket.",
+      "title": "A Volvo fokozottan támaszkodik az Nvidiára a teljesen önvezető autók fejlesztésében",
+      "summary": "A Volvo megnöveli együttműködését az Nvidia-val, hogy továbbfejlessze kéz nélküli, automatizált vezetési technológiáját. Ez a partnerség az autóipar és az MI-szektor növekvő összefonódását mutatja, gyorsítva az önvezető autók elterjedését.",
       "importance": 4
     },
     {
-      "title": "A Volvo az Nvidiával fokozza az önvezető technológia fejlesztését",
-      "summary": "A Volvo fokozza együttműködését az Nvidiával az autonóm vezetés fejlesztésében. Céljuk a kéz nélküli vezetés bevezetését az autóikban a jövőben.",
+      "title": "Az SK Hynix Kínai exportengedélyekért cserébe amerikai gyárat építhet",
+      "summary": "Az SK Hynix chipgyártó tárgyalásokat folytat chipgyártó berendezések Kínába irányuló exportjáról, cserébe egy amerikai gyár felépítéséért. Ez a lépés kulcsfontosságú a globális chipellátási láncban és a geopolitikai érdekek összehangolásában.",
       "importance": 4
+    },
+    {
+      "title": "Kijött a GTA VI utolsó előzetese a novemberi megjelenés előtt",
+      "summary": "Megjelent a rendkívül várt Grand Theft Auto VI videojáték utolsó előzetese, ami a novemberi megjelenés előtt tovább fokozza a rajongók izgalmát. A GTA sorozat a játékipar egyik legbefolyásosabb franchise-a, hatalmas várakozás előzi meg az új részt.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A világ időmérői változtatnak az időbeállításon a „negatív másodperc” elkerülésére",
-      "summary": "A világ időmérői felülvizsgálják az időbeállítás módját, hogy elkerüljék a katasztrofális „negatív másodperc” bevezetését. Ez súlyos problémákat okozhatna a digitális rendszerekben.",
+      "title": "A világ közelebb áll egy főbb természetvédelmi célhoz, mint gondolták a tudósok",
+      "summary": "A kutatók felfedezték, hogy a földi természetvédelmi erőfeszítések szélesebb területet fednek le, mint korábban hitték. Ez a hír reményt ad a globális biodiverzitás megőrzéséért folytatott küzdelemben, és új stratégiák kidolgozására ösztönöz.",
       "importance": 5
     },
     {
-      "title": "A zátonyépítő korallok közel fele kihalási kockázattal néz szembe",
-      "summary": "A zátonyépítő korallok közel fele magasabb kihalási kockázattal néz szembe. Ez súlyos következményekkel járhat a tengeri ökoszisztémákra és a biológiai sokféleségre nézve.",
-      "importance": 5
-    },
-    {
-      "title": "Egy 75 000 éves seb erőszakosabb neandervölgyi életre utal",
-      "summary": "Egy 75 000 éves neandervölgyi seb arra utal, hogy életmódjuk erőszakosabb lehetett, mint azt korábban gondolták. Ez új megvilágításba helyezi az emberi evolúció ezen szakaszát.",
+      "title": "A világ időmérői felülvizsgálják az időbeállítás módját a katasztrofális 'negatív másodperc' elkerülése érdekében",
+      "summary": "A nemzetközi időmérő szervezetek felülvizsgálják a szökőmásodpercek kezelésének módját egy potenciálisan katasztrofális 'negatív másodperc' elkerülése érdekében. Ez alapvető változás lehet az időmérésben és a technológiai rendszerek működésében.",
       "importance": 4
     },
     {
-      "title": "Az AI erodálja a PhD hallgatók kritikus gondolkodását?",
-      "summary": "Felmerül a kérdés, hogy a mesterséges intelligencia erodálja-e a PhD hallgatók kritikus gondolkodási és elemzési képességeit. Ez hosszú távon hatással lehet a tudományos kutatás minőségére.",
+      "title": "Egy 75 000 éves seb arra utal, hogy a neandervölgyi élet erőszakosabb volt, mint gondoltuk",
+      "summary": "Egy ősi seb elemzése arra utal, hogy a neandervölgyiek élete erőszakosabb volt, mint azt korábban feltételezték, valószínűleg gyakoriak voltak a konfliktusok. Ez a felfedezés új megvilágításba helyezi a korai emberi társadalmakat és viselkedésüket.",
       "importance": 4
+    },
+    {
+      "title": "Az MI erodálja a PhD hallgatók kritikus gondolkodási és elemzési készségeit?",
+      "summary": "A tudományos közösség aggódik amiatt, hogy a mesterséges intelligencia eszközei negatívan befolyásolhatják a PhD hallgatók kritikus gondolkodását és elemzőképességét. Ez fontos kérdéseket vet fel a jövő tudományos oktatásával és a kutatás integritásával kapcsolatban.",
+      "importance": 3
     }
   ],
   "sports": [
     {
       "title": "Második meccsét is megnyerte a Fradi az EL-ben",
-      "summary": "A Ferencváros a második csoportmérkőzését is megnyerte az Európa Ligában. Ezzel tovább növelte esélyeit a továbbjutásra és erősítette pozícióját a nemzetközi mezőnyben.",
-      "importance": 5
-    },
-    {
-      "title": "Huszonnégy évre eltiltottak egy bundázó szerb teniszezőt",
-      "summary": "Huszonnégy évre eltiltottak egy szerb teniszezőt mérkőzések manipulálásáért. Ez súlyos büntetés és egyértelmű üzenet a sportág tisztaságának megőrzéséért folytatott küzdelemben.",
+      "summary": "A Ferencváros labdarúgócsapata megnyerte második mérkőzését az Európa Ligában, ezzel tovább erősítve pozícióját a csoportban. Ez a siker fontos a klub nemzetközi szereplése szempontjából és örömet okoz a szurkolóknak.",
       "importance": 4
     },
     {
-      "title": "43 év korkülönbséggel játszottak asztalitenisz-Eb-n",
-      "summary": "Szokatlan, 43 éves korkülönbség volt megfigyelhető az asztalitenisz Európa-bajnokság egyik mérkőzésén. Ez bemutatta a sportág generációkat átívelő jellegét és sokszínűségét.",
+      "title": "Huszonnégy évre eltiltottak egy bundázó szerb teniszezőt",
+      "summary": "Egy szerb teniszezőt 24 évre eltiltottak a sporttól bundázás miatt, ami az egyik leghosszabb eltiltás a sportág történetében. Az eset rávilágít a sport integritásának védelmére és a csalások elleni szigorú fellépésre.",
+      "importance": 4
+    },
+    {
+      "title": "Új luxusjachtot vett Messi, öt kabinnal és jetskigarázzsal",
+      "summary": "Lionel Messi, a világhírű labdarúgó új luxusjachtot vásárolt, amely öt kabinnal és külön jetskigarázzsal is rendelkezik. A hír a sportoló gazdagságát és életmódját mutatja be, nagy érdeklődésre tartva számot a rajongók körében.",
       "importance": 3
     },
     {
-      "title": "Új luxusjachtot vett Lionel Messi",
-      "summary": "Lionel Messi, az argentin focista egy új, luxusjachtot vásárolt. A hajó öt kabinnal és külön jetskigarázzsal is rendelkezik, bemutatva a sportolók extravagáns életmódját.",
-      "importance": 2
+      "title": "Hosszú Katinka: Annyira jólesett, amikor jött egy kudarc",
+      "summary": "Hosszú Katinka, a magyar úszólegenda egy podcast interjúban beszélt arról, hogy a kudarcok miként segítették fejlődését és megerősítették. Ez inspiráló üzenet a sportolóktól és a nagyközönség számára egyaránt a kitartásról.",
+      "importance": 3
     }
   ]
 }

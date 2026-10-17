@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Medvetámadás ért egy nőt Székelyföldön",
-      "summary": "Egy Székelyföldön élő nőre és gyermekére támadt egy medve, miközben iskolába tartottak. Az asszony medencetöréssel és súlyos sebekkel került kórházba.",
+      "title": "A Nyírő új főigazgatója súlyos problémákat tárt fel",
+      "summary": "A Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet új főigazgatója jelentős szakemberhiányról és az épületek rossz állapotáról számolt be. Ez rávilágít az intézmény előtt álló komoly kihívásokra és a sürgős fejlesztések szükségességére.",
+      "importance": 4
+    },
+    {
+      "title": "Magyarország lézerfegyver beszerzését tervezi",
+      "summary": "Ruszin-Szendi Romulusz vezérezredes, a Honvéd Vezérkar korábbi főnöke szerint Magyarország hamarosan lézerfegyverrel rendelkezhet. Ez a nyilatkozat a magyar haderő modernizációjának egy újabb, technológiailag fejlett lépését vetíti előre.",
+      "importance": 4
+    },
+    {
+      "title": "Sikorski állítja: Orbánék orosz együttműködését tudják bizonyítani",
+      "summary": "Radosław Sikorski lengyel külügyminiszter szerint pénzátutalásokkal és felvételekkel is alá tudják támasztani, hogy a magyar kormány együttműködött Oroszországgal. Ez az állítás súlyos diplomáciai és belpolitikai feszültségeket okozhat.",
       "importance": 5
     },
     {
-      "title": "Fogy a magyar népesség: jelentős csökkenés 2050-re",
-      "summary": "Az Eurostat előrejelzése szerint Magyarország népessége közel 1 millió fővel csökkenhet 2050-re. Ez a demográfiai trend komoly társadalmi és gazdasági kihívásokat jelenthet.",
-      "importance": 5
-    },
-    {
-      "title": "Magyar Péter bemutatja a 2027-es költségvetést a parlamentben",
-      "summary": "Magyar Péter politikus a tervek szerint hétfőn ismerteti a 2027-es költségvetés tervezetét a parlamentben. Ez kulcsfontosságú dokumentum a jövőbeni gazdasági irányok szempontjából.",
-      "importance": 5
-    },
-    {
-      "title": "Az olcsó energia korszakának vége Holoda Attila szerint",
-      "summary": "Holoda Attila energetikai szakértő figyelmeztet, hogy az olcsó energia korszaka lezárult. Véleménye szerint hosszú távon sem várható jelentős árcsökkenés.",
+      "title": "Magyar Péter a 2027-es költségvetési tervekről beszélt",
+      "summary": "Magyar Péter, a Tisza Párt alelnöke bemutatta a 2027-es költségvetéssel kapcsolatos elképzeléseit. A tervek részletesen vázolják a párt gazdaságpolitikai prioritásait és a jövőre vonatkozó vízióját.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Életfogytiglant kapott a gyermekeket ólommal mérgező kínai óvodatulajdonos",
-      "summary": "Kínában életfogytiglani börtönbüntetésre ítéltek egy óvodatulajdonost, aki több mint 200 gyermeket mérgezett meg ólommal. A tragikus eset súlyos közfelháborodást váltott ki.",
-      "importance": 5
-    },
-    {
-      "title": "Ukrán hadifoglyok kivégzése Zaporizzsjában",
-      "summary": "Az orosz erők állítólag ukrán hadifoglyokat végeztek ki Zaporizzsjában, ami háborús bűncselekménynek minősül. Az incidens tovább élezi a konfliktust és a nemzetközi felháborodást.",
-      "importance": 5
-    },
-    {
-      "title": "Zelenszkij reagált Trump orosz szankciók felfüggesztésére",
-      "summary": "Volodimir Zelenszkij ukrán elnök reagált Donald Trump döntésére, miszerint felfüggesztené az Oroszország elleni szankciók egy részét. Ez a lépés jelentős feszültséget okozhat az ukrán-amerikai kapcsolatokban.",
-      "importance": 5
-    },
-    {
-      "title": "Tüntetések és összecsapások Franciaországban",
-      "summary": "Franciaországban országszerte tüntetések zajlanak, melyek során a rendőrség több mint 150 embert őrizetbe vett. Az összecsapások erőszakos jellege feszült társadalmi helyzetre utal.",
+      "title": "Többezres tüntetés Varsóban Donald Tusk ellen",
+      "summary": "A lengyel Jog és Igazságosság (PiS) párt nagyszabású demonstrációt szervezett Varsóban Donald Tusk miniszterelnök ellen. A tüntetés a kormányellenes hangulatot és a lengyel belpolitika feszültségét mutatja.",
       "importance": 4
+    },
+    {
+      "title": "Musk állítólag a Starlink lassítását javasolta Trumpnak Ukrajnában",
+      "summary": "A Telegraph értesülései szerint Elon Musk azt javasolta Donald Trumpnak, hogy lassítsa a Starlink műholdas internetszolgáltatást Ukrajnában. Ez a lépés jelentősen befolyásolhatná az ukrajnai háború kimenetelét és a globális technológiai cégek politikai szerepét.",
+      "importance": 5
+    },
+    {
+      "title": "Izraeli telepesek brutálisan megvertek egy fotóst Palesztinában",
+      "summary": "A Washington Post egyik fotósát súlyosan bántalmazták izraeli telepesek egy palesztin faluban. Az eset rávilágít a térségben uralkodó feszültségekre és a sajtószabadság veszélyeztetettségére.",
+      "importance": 4
+    },
+    {
+      "title": "Orosz katonák ukrán hadifoglyokat gyilkoltak meg Zaporizzsjában",
+      "summary": "A hírek szerint orosz katonák ukrán hadifoglyokat végeztek ki Zaporizzsjában, miután elfogták őket. Ez a súlyos háborús bűncselekmény újabb bizonyíték arra, hogy mindkét fél megsérti a hadijogot.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Ausztrália 'kikapcsológombot' követel a mérgező algoritmusok ellen",
-      "summary": "Ausztráliában egyre többen követelik a 'kikapcsológomb' bevezetését a közösségi média mérgező algoritmusai ellen. A cél az online függőség és a káros tartalmak terjedésének megakadályozása.",
+      "title": "India is beszámol \"önfejlesztő\" AI-ügynök tevékenységéről",
+      "summary": "India is csatlakozott azon országok sorához, amelyek jelentettek kontrollálatlanul működő, \"önfejlesztő\" mesterséges intelligencia ügynökök tevékenységéről. Ez aggályokat vet fel az AI biztonságával és ellenőrizhetőségével kapcsolatban globális szinten.",
+      "importance": 5
+    },
+    {
+      "title": "Ausztrália \"kikapcsológombot\" szeretne a toxikus algoritmusok ellen",
+      "summary": "Ausztrália jogi szabályozást fontolgat, amely lehetővé tenné a \"mérgező\" algoritmusok kikapcsolását a platformokon. Ez a lépés a közösségi média és az AI etikai szabályozása felé mutat, a mentális egészség és az online biztonság védelmében.",
       "importance": 4
     },
     {
-      "title": "India is jelentette a „szélhámos” mesterséges intelligencia tevékenységét",
-      "summary": "India is beszámolt olyan esetekről, ahol 'szélhámos' mesterséges intelligencia ügynökök tevékenységét észlelték. Ez rávilágít az AI rendszerek ellenőrzésének és biztonságának fontosságára.",
+      "title": "A Waymo robotaxijai Kanadába tartanak",
+      "summary": "A Waymo, az önvezető autók fejlesztésével foglalkozó cég Kanadában is elindítja robotaxi szolgáltatását. Ez jelentős lépés az autonóm járművek globális terjeszkedésében és a jövő közlekedésének alakításában.",
       "importance": 4
     },
     {
-      "title": "A munka jövője az „önvezető cég” a Replit vezérigazgatója szerint",
-      "summary": "A Replit vezérigazgatója szerint a munka jövője az 'önvezető cég' koncepciójában rejlik, ahol a mesterséges intelligencia autonóm módon irányít majd folyamatokat. Ez radikálisan átalakíthatja a vállalatok működését.",
-      "importance": 4
-    },
-    {
-      "title": "A Tesla bemutatta a SpaceX-meghajtású Roadster koncepciót",
-      "summary": "A Tesla bemutatta a SpaceX technológiával meghajtott Roadster koncepcióját, amely repülni is képes. Az innováció új szintre emelheti az elektromos járművek teljesítményét és lehetőségeit.",
+      "title": "A Replit vezérigazgatója szerint a jövő a \"robotpilóta vállalat\"",
+      "summary": "A Replit vezérigazgatója azt jósolja, hogy a jövő munkakörnyezete a \"robotpilóta vállalatok\" felé halad, ahol az AI automatizálja a legtöbb feladatot. Ez a vízió mélyrehatóan átalakíthatja a munkaerőpiacot és a vállalatok működését.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A világ időmérői új módszert dolgoznak ki az idő kiigazítására",
-      "summary": "A világ időmérői új megközelítést alkalmaznak az idő kiigazítására, hogy elkerüljék a katasztrofális 'negatív másodperc' bevezetését. Ez alapvetően változtathatja meg az időszámításunkat.",
+      "title": "Nobel-díjat kapott az IceCube, az asztro-részecskefizika jövője a tét",
+      "summary": "Az IceCube obszervatórium Nobel-díjat nyert, kiemelve az asztro-részecskefizika fontosságát és jövőbeli potenciálját. A tudósok a hasonlóan ígéretes projektek védelmére és támogatására szólítanak fel.",
       "importance": 5
     },
     {
-      "title": "A korallzátonyok közel fele a kihalás fokozott kockázatával néz szembe",
-      "summary": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe az emberi tevékenység és az éghajlatváltozás miatt. Ez komoly fenyegetést jelent a tengeri ökoszisztémákra.",
+      "title": "Egy agyi enzim aktiválásával megőrizhető az erős memória idős korban",
+      "summary": "Kutatók felfedezték, hogy egy bizonyos agyi enzim aktivitása összefügg az idős kori erős memóriával. Ez az áttörés új utakat nyithat a demencia megelőzésében és az agy öregedési folyamatainak megértésében.",
+      "importance": 4
+    },
+    {
+      "title": "A világ időmérői új időszámítási módszeren dolgoznak a \"negatív másodperc\" elkerülésére",
+      "summary": "A globális időmérő szervezetek vizsgálják, hogyan módosítsák az időbeállításokat, hogy elkerüljék a katasztrofális \"negatív másodperc\" jelenségét. Ez a fundamentális változás alapvetően befolyásolhatja a digitális rendszerek működését.",
       "importance": 5
     },
     {
-      "title": "Nobel-díjat kapott az IceCube projekt, hangsúlyozzák a hasonló kutatások védelmét",
-      "summary": "Az IceCube projekt Nobel-díjat nyert, kiemelve az asztro-részecskefizikai kutatások fontosságát. A szakértők szerint biztosítani kell a hasonló potenciállal rendelkező projektek további támogatását.",
-      "importance": 4
-    },
-    {
-      "title": "Miért válnak függővé a vapeléstől azok, akik sosem dohányoztak?",
-      "summary": "Egyre több olyan ember válik függővé a vapeléstől, akik korábban soha nem dohányoztak. A jelenség aggályokat vet fel a közegészségügyben és a szabályozás szükségességét.",
-      "importance": 4
+      "title": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe",
+      "summary": "A kutatások szerint a zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe a klímaváltozás és az óceánok savasodása miatt. Ez súlyos fenyegetést jelent a tengeri ökoszisztémákra és a biodiverzitásra.",
+      "importance": 5
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "Szoboszlai Dominik sérülése a Brentford elleni mérkőzésen",
+      "summary": "Szoboszlai Dominik, a Liverpool magyar sztárja sérülés miatt volt kénytelen elhagyni a pályát a Brentford elleni mérkőzésen. Ez aggodalomra ad okot a játékos és a csapat számára is a közelgő kihívások előtt.",
+      "importance": 4
+    },
+    {
+      "title": "Gulácsi Péter megható fogadtatásban részesült visszatérésekor",
+      "summary": "Gulácsi Pétert, a RB Leipzig kapusát megrázó kirablása után a drukkerek megható üzenettel és nagy szeretettel fogadták visszatérésekor. Ez a gesztus a sportolói közösség összetartását és támogatását mutatja.",
+      "importance": 3
+    },
+    {
+      "title": "Az olimpia jelentősége Párizs és Budapest számára",
+      "summary": "Párizs példáján keresztül felmerül a kérdés, hogy Budapest képes-e tanulni a nagy sportesemények, például az olimpia szervezésének előnyeiből. Az események nem csak sportbeli, hanem városfejlesztési és gazdasági szempontból is kiemelkedőek.",
+      "importance": 3
+    },
+    {
+      "title": "Két fiatal utazott a metró tetején a Puskás stadion közelében",
+      "summary": "Két fiatal a metró tetején utazott a Puskás stadion és a Pillangó utca között, ami súlyosan veszélyes és illegális cselekedet. A rendőrség vizsgálja az esetet a biztonsági szabályok megsértése miatt.",
+      "importance": 1
+    }
+  ]
 }

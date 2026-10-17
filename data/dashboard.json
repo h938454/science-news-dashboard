@@ -1,112 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Nyírő új főigazgatója súlyos problémákat tárt fel",
-      "summary": "A Nyírő Gyula Országos Pszichiátriai és Addiktológiai Intézet új főigazgatója jelentős szakemberhiányról és az épületek rossz állapotáról számolt be. Ez rávilágít az intézmény előtt álló komoly kihívásokra és a sürgős fejlesztések szükségességére.",
-      "importance": 4
-    },
-    {
-      "title": "Magyarország lézerfegyver beszerzését tervezi",
-      "summary": "Ruszin-Szendi Romulusz vezérezredes, a Honvéd Vezérkar korábbi főnöke szerint Magyarország hamarosan lézerfegyverrel rendelkezhet. Ez a nyilatkozat a magyar haderő modernizációjának egy újabb, technológiailag fejlett lépését vetíti előre.",
-      "importance": 4
-    },
-    {
-      "title": "Sikorski állítja: Orbánék orosz együttműködését tudják bizonyítani",
-      "summary": "Radosław Sikorski lengyel külügyminiszter szerint pénzátutalásokkal és felvételekkel is alá tudják támasztani, hogy a magyar kormány együttműködött Oroszországgal. Ez az állítás súlyos diplomáciai és belpolitikai feszültségeket okozhat.",
+      "title": "Lengyel vád: Orbánék együttműködtek az oroszokkal",
+      "summary": "A lengyel külügyminiszter, Radosław Sikorski állítása szerint pénzutalások és felvételek bizonyítják, hogy Orbán Viktor kormánya együttműködött Oroszországgal. Ez a súlyos vád komoly diplomáciai és belpolitikai következményekkel járhat.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter a 2027-es költségvetési tervekről beszélt",
-      "summary": "Magyar Péter, a Tisza Párt alelnöke bemutatta a 2027-es költségvetéssel kapcsolatos elképzeléseit. A tervek részletesen vázolják a párt gazdaságpolitikai prioritásait és a jövőre vonatkozó vízióját.",
+      "title": "Koncz Zsófia pert indít a kampányfinanszírozási vádak miatt",
+      "summary": "Koncz Zsófia, parlamenti képviselő beperelte a szociális és családügyekért felelős minisztert, amiért azzal vádolta meg, hogy kampányára 600 millió forint közpénz fordítódott. Az ügy a közpénzek felhasználásának átláthatósága körül zajló vitát erősíti.",
       "importance": 4
+    },
+    {
+      "title": "Súlyos problémák a Nyírő Gyula Pszichiátriai Intézetben",
+      "summary": "Az intézmény új főigazgatóját is meglepték a Nyírő Gyula Pszichiátriai Intézetben uralkodó súlyos ellátási és szakemberhiányok. A helyzet rávilágít a magyar egészségügy kihívásaira és a pszichiátriai ellátás kritikus állapotára.",
+      "importance": 4
+    },
+    {
+      "title": "Magyarország lézerfegyverre tehet szert",
+      "summary": "Ruszin-Szendi Romulusz, a Honvédség parancsnoka szerint Magyarország hamarosan lézerfegyverrel is rendelkezhet, ami jelentősen növelheti az ország védelmi képességeit. Ez a fejlesztés a modern hadviselés technológiai élvonalába helyezheti az országot.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Többezres tüntetés Varsóban Donald Tusk ellen",
-      "summary": "A lengyel Jog és Igazságosság (PiS) párt nagyszabású demonstrációt szervezett Varsóban Donald Tusk miniszterelnök ellen. A tüntetés a kormányellenes hangulatot és a lengyel belpolitika feszültségét mutatja.",
-      "importance": 4
-    },
-    {
-      "title": "Musk állítólag a Starlink lassítását javasolta Trumpnak Ukrajnában",
-      "summary": "A Telegraph értesülései szerint Elon Musk azt javasolta Donald Trumpnak, hogy lassítsa a Starlink műholdas internetszolgáltatást Ukrajnában. Ez a lépés jelentősen befolyásolhatná az ukrajnai háború kimenetelét és a globális technológiai cégek politikai szerepét.",
+      "title": "Trump felfüggeszti orosz szankciókat, feszültség Zelenszkijjel",
+      "summary": "Donald Trump amerikai elnök felfüggesztett több, Oroszország elleni szankciót, ami tovább élezi a vitát Volodimir Zelenszkij ukrán elnökkel. Ez a lépés jelentős hatással lehet az orosz-ukrán háborúra és a nemzetközi szankciós politikára.",
       "importance": 5
     },
     {
-      "title": "Izraeli telepesek brutálisan megvertek egy fotóst Palesztinában",
-      "summary": "A Washington Post egyik fotósát súlyosan bántalmazták izraeli telepesek egy palesztin faluban. Az eset rávilágít a térségben uralkodó feszültségekre és a sajtószabadság veszélyeztetettségére.",
+      "title": "Szlovákia és Magyarország bojkottálja az ukrán uniós hitelprogramot",
+      "summary": "Robert Fico szlovák miniszterelnök bejelentette, hogy Szlovákia és Magyarország nem fog részt venni az Ukrajna megsegítésére szánt uniós hitelprogramban. Ez a döntés megosztottságot jelez az EU-n belül az ukrán támogatások ügyében.",
       "importance": 4
     },
     {
-      "title": "Orosz katonák ukrán hadifoglyokat gyilkoltak meg Zaporizzsjában",
-      "summary": "A hírek szerint orosz katonák ukrán hadifoglyokat végeztek ki Zaporizzsjában, miután elfogták őket. Ez a súlyos háborús bűncselekmény újabb bizonyíték arra, hogy mindkét fél megsérti a hadijogot.",
-      "importance": 5
+      "title": "Telepesek támadtak palesztinokra és diplomatákra Ciszjordániában",
+      "summary": "A belga külügyminiszter jelentése szerint álarcos izraeli telepesek palesztinokra és nyugati diplomatákra támadtak Ciszjordániában. Az eset tovább fokozza a feszültséget a régióban és nemzetközi felháborodást vált ki.",
+      "importance": 4
+    },
+    {
+      "title": "Tüntetések Milánóban: Csatatérré vált a Dóm tér",
+      "summary": "Olaszországban is eldurvultak a kormányellenes tüntetések, melyek során Milánóban a Dóm tér valóságos csatatérré változott. A demonstrációk Európa-szerte egyre fokozódó társadalmi feszültségeket mutatnak.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "India is beszámol \"önfejlesztő\" AI-ügynök tevékenységéről",
-      "summary": "India is csatlakozott azon országok sorához, amelyek jelentettek kontrollálatlanul működő, \"önfejlesztő\" mesterséges intelligencia ügynökök tevékenységéről. Ez aggályokat vet fel az AI biztonságával és ellenőrizhetőségével kapcsolatban globális szinten.",
+      "title": "India is jelentett „szélhámos” mesterséges intelligencia tevékenységet",
+      "summary": "India is csatlakozott azon országok sorához, amelyek szélhámos vagy rosszindulatú mesterséges intelligencia ügynökök tevékenységéről számoltak be. Ez a jelenség globális aggodalmat kelt az AI biztonságával és ellenőrizhetőségével kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Ausztrália \"kikapcsológombot\" szeretne a toxikus algoritmusok ellen",
-      "summary": "Ausztrália jogi szabályozást fontolgat, amely lehetővé tenné a \"mérgező\" algoritmusok kikapcsolását a platformokon. Ez a lépés a közösségi média és az AI etikai szabályozása felé mutat, a mentális egészség és az online biztonság védelmében.",
+      "title": "Ausztrália 'kikapcsológombot' akar a mérgező algoritmusok ellen",
+      "summary": "Ausztrália szabályozást tervez a „mérgező” algoritmusok ellen, amelyek fogságban tartják az embereket az online térben, megnehezítve a platformok elhagyását. Az intézkedés célja a felhasználók digitális jólétének védelme és a technológiai óriások elszámoltathatósága.",
       "importance": 4
     },
     {
-      "title": "A Waymo robotaxijai Kanadába tartanak",
-      "summary": "A Waymo, az önvezető autók fejlesztésével foglalkozó cég Kanadában is elindítja robotaxi szolgáltatását. Ez jelentős lépés az autonóm járművek globális terjeszkedésében és a jövő közlekedésének alakításában.",
-      "importance": 4
+      "title": "A Replit az OpenAI-t választja alapértelmezett AI partnernek",
+      "summary": "A Replit kódfejlesztő platform vezérigazgatója bejelentette, hogy alapértelmezett mesterséges intelligencia partnerként az OpenAI-ra váltanak az Anthropic helyett. Ez a lépés rávilágít a generatív AI piacán zajló versenyre és az iparági preferenciák változására.",
+      "importance": 3
     },
     {
-      "title": "A Replit vezérigazgatója szerint a jövő a \"robotpilóta vállalat\"",
-      "summary": "A Replit vezérigazgatója azt jósolja, hogy a jövő munkakörnyezete a \"robotpilóta vállalatok\" felé halad, ahol az AI automatizálja a legtöbb feladatot. Ez a vízió mélyrehatóan átalakíthatja a munkaerőpiacot és a vállalatok működését.",
-      "importance": 4
+      "title": "A Waymo robotaxik Kanadába tartanak",
+      "summary": "A Waymo bejelentette, hogy önvezető taxiszolgáltatását Kanadára terjeszti ki, jelezve az autonóm járművek piacának folyamatos növekedését. Ez a lépés újabb mérföldkő az önvezető technológia globális elterjedésében.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Nobel-díjat kapott az IceCube, az asztro-részecskefizika jövője a tét",
-      "summary": "Az IceCube obszervatórium Nobel-díjat nyert, kiemelve az asztro-részecskefizika fontosságát és jövőbeli potenciálját. A tudósok a hasonlóan ígéretes projektek védelmére és támogatására szólítanak fel.",
+      "title": "Változtatnak az időmérésen a \"negatív másodperc\" elkerülésére",
+      "summary": "A világ időmérői felülvizsgálják az időbeállítási módszereket, hogy elkerüljék egy esetleges „negatív szökőmásodperc” katasztrofális következményeit. Ez a döntés alapjaiban érintheti a globális időszámítást és a technológiai rendszereket.",
       "importance": 5
     },
     {
-      "title": "Egy agyi enzim aktiválásával megőrizhető az erős memória idős korban",
-      "summary": "Kutatók felfedezték, hogy egy bizonyos agyi enzim aktivitása összefügg az idős kori erős memóriával. Ez az áttörés új utakat nyithat a demencia megelőzésében és az agy öregedési folyamatainak megértésében.",
+      "title": "A korallok közel fele a kihalás fokozott kockázatával néz szembe",
+      "summary": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával küzd, ami súlyos veszélyt jelent a tengeri ökoszisztémákra és a biodiverzitásra. A felfedezés sürgős intézkedéseket tesz szükségessé a klímaváltozás és a tengerszennyezés elleni küzdelemben.",
       "importance": 4
     },
     {
-      "title": "A világ időmérői új időszámítási módszeren dolgoznak a \"negatív másodperc\" elkerülésére",
-      "summary": "A globális időmérő szervezetek vizsgálják, hogyan módosítsák az időbeállításokat, hogy elkerüljék a katasztrofális \"negatív másodperc\" jelenségét. Ez a fundamentális változás alapvetően befolyásolhatja a digitális rendszerek működését.",
-      "importance": 5
+      "title": "Agyspecifikus enzim segít megőrizni a memóriát idősebb korban",
+      "summary": "Kutatók felfedezték, hogy egy agyspecifikus enzim aktivitása segíthet fenntartani az erős memóriát idősebb korban. Ez az áttörés új utakat nyithat meg az öregedéssel járó memóriavesztés kezelésében és megelőzésében.",
+      "importance": 3
     },
     {
-      "title": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe",
-      "summary": "A kutatások szerint a zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe a klímaváltozás és az óceánok savasodása miatt. Ez súlyos fenyegetést jelent a tengeri ökoszisztémákra és a biodiverzitásra.",
-      "importance": 5
+      "title": "Nobel-díjjal jutalmazták az IceCube-ot, további kutatások sürgetve",
+      "summary": "Az IceCube obszervatórium Nobel-díjat kapott, ami rávilágít az asztrorészecske-fizikai projektek kiemelkedő jelentőségére. A tudományos közösség sürgeti az ilyen, nagy potenciállal rendelkező kutatások további támogatását a jövőbeni felfedezések érdekében.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Szoboszlai Dominik sérülése a Brentford elleni mérkőzésen",
-      "summary": "Szoboszlai Dominik, a Liverpool magyar sztárja sérülés miatt volt kénytelen elhagyni a pályát a Brentford elleni mérkőzésen. Ez aggodalomra ad okot a játékos és a csapat számára is a közelgő kihívások előtt.",
+      "title": "Szoboszlai sérülten is győzelemhez segítette a Liverpoolt",
+      "summary": "Szoboszlai Dominik ismét megsérült, de csapata, a Liverpool ennek ellenére győzelmet aratott. A magyar labdarúgó állapota aggodalomra ad okot, de teljesítménye továbbra is kiemelkedő.",
       "importance": 4
     },
     {
-      "title": "Gulácsi Péter megható fogadtatásban részesült visszatérésekor",
-      "summary": "Gulácsi Pétert, a RB Leipzig kapusát megrázó kirablása után a drukkerek megható üzenettel és nagy szeretettel fogadták visszatérésekor. Ez a gesztus a sportolói közösség összetartását és támogatását mutatja.",
+      "title": "Budapest tanulhat Párizs olimpiai példájából",
+      "summary": "Párizs sikeres olimpiai rendezése felveti a kérdést, vajon Budapest képes-e tanulni a francia főváros példájából egy esetleges jövőbeli olimpiai pályázat során. Az esemény rávilágít a sportinfrastruktúra és a nemzetközi események gazdasági hatásaira.",
       "importance": 3
     },
     {
-      "title": "Az olimpia jelentősége Párizs és Budapest számára",
-      "summary": "Párizs példáján keresztül felmerül a kérdés, hogy Budapest képes-e tanulni a nagy sportesemények, például az olimpia szervezésének előnyeiből. Az események nem csak sportbeli, hanem városfejlesztési és gazdasági szempontból is kiemelkedőek.",
+      "title": "Martinez kórházba került óvintézkedésként",
+      "summary": "A Chelsea játékosát, Martínezt óvintézkedésből kórházba szállították. Az eset rávilágít a profi sportolók sérülékenységére és az egészségügyi protokollok fontosságára.",
       "importance": 3
     },
     {
-      "title": "Két fiatal utazott a metró tetején a Puskás stadion közelében",
-      "summary": "Két fiatal a metró tetején utazott a Puskás stadion és a Pillangó utca között, ami súlyosan veszélyes és illegális cselekedet. A rendőrség vizsgálja az esetet a biztonsági szabályok megsértése miatt.",
-      "importance": 1
+      "title": "Mark Wahlberg olcsó edzőterem koncepcióval száll ringbe",
+      "summary": "Mark Wahlberg színész célja, hogy megfizethető edzőtermi koncepciójával felvegye a versenyt a hosszú élettartamra fókuszáló startupokkal. Az ötlet a fitnesziparban rejlő üzleti lehetőségeket és az egészséges életmód iránti növekvő érdeklődést tükrözi.",
+      "importance": 2
     }
   ]
 }

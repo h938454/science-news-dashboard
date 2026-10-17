@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Kampányköltések a családügyben: 600 millió forint közpénz Koncz Zsófiának",
-      "summary": "A szociális miniszter szerint két hónap alatt 600 millió forint közpénz jutott a Fideszhez köthető Koncz Zsófia kampányára, ami családbarát Magyarország helyett inkább egy államtitkári kampánynak tűnik. A kiadások jelentős vitát váltottak ki a közpénzek felhasználásával kapcsolatban.",
+      "title": "Medvetámadás ért egy nőt Székelyföldön",
+      "summary": "Egy Székelyföldön élő nőre és gyermekére támadt egy medve, miközben iskolába tartottak. Az asszony medencetöréssel és súlyos sebekkel került kórházba.",
       "importance": 5
     },
     {
-      "title": "Magyar orvosok 30 éve várt megoldással a szívinfarktus kezelésére",
-      "summary": "Magyar szakemberek fejlesztettek ki egy új módszert a szívinfarktus kezelésére, melyre a kutatók már 30 éve vártak. Ez az áttörés jelentős előrelépést hozhat a kardiológiai betegek ellátásában.",
+      "title": "Fogy a magyar népesség: jelentős csökkenés 2050-re",
+      "summary": "Az Eurostat előrejelzése szerint Magyarország népessége közel 1 millió fővel csökkenhet 2050-re. Ez a demográfiai trend komoly társadalmi és gazdasági kihívásokat jelenthet.",
       "importance": 5
     },
     {
-      "title": "Magyar Péter az EU-csúcsról: harc az eurómilliárdokért",
-      "summary": "Magyar Péter személyes tapasztalatokat osztott meg a maratoni brüsszeli EU-csúcsról, ahol minden tagállam a saját eurómilliárdjaiért harcolt. Leírta a veto-fenyegetések, kiabálások és óriási viták légkörét, amelyek az uniós döntéshozatalt kísérik.",
-      "importance": 4
+      "title": "Magyar Péter bemutatja a 2027-es költségvetést a parlamentben",
+      "summary": "Magyar Péter politikus a tervek szerint hétfőn ismerteti a 2027-es költségvetés tervezetét a parlamentben. Ez kulcsfontosságú dokumentum a jövőbeni gazdasági irányok szempontjából.",
+      "importance": 5
     },
     {
-      "title": "Megszűnt Mészáros Lőrinc lányának munkaviszonya az MBH Banknál",
-      "summary": "Az MBH Bank rendkívüli tájékoztatásban jelentette be, hogy Mészáros Lőrinc lányának, Mészáros Beatrixnak megszűnt a munkaviszonya a pénzintézetnél. A hír jelentős érdeklődést váltott ki az üzleti és politikai körökben.",
+      "title": "Az olcsó energia korszakának vége Holoda Attila szerint",
+      "summary": "Holoda Attila energetikai szakértő figyelmeztet, hogy az olcsó energia korszaka lezárult. Véleménye szerint hosszú távon sem várható jelentős árcsökkenés.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Trump felfüggeszti az Oroszország elleni szankciókat",
-      "summary": "Donald Trump ideiglenesen felfüggesztette az Oroszország ellen hozott szankciós csomagot, miközben egy új amerikai törvény lép életbe. Ez a lépés komoly geopolitikai következményekkel járhat és vita tárgyát képezi a nemzetközi színtéren.",
+      "title": "Életfogytiglant kapott a gyermekeket ólommal mérgező kínai óvodatulajdonos",
+      "summary": "Kínában életfogytiglani börtönbüntetésre ítéltek egy óvodatulajdonost, aki több mint 200 gyermeket mérgezett meg ólommal. A tragikus eset súlyos közfelháborodást váltott ki.",
       "importance": 5
     },
     {
-      "title": "Az olajárak ugrásszerű emelkedése iráni és ukrán támadások miatt",
-      "summary": "A nyersolaj ára meredeken emelkedett Irán támadásai és Ukrajna tervezett csapásai miatt, ami globális gazdasági aggodalmakat vet fel. A geopolitikai feszültségek közvetlen hatással vannak a világ energiapiacaira.",
+      "title": "Ukrán hadifoglyok kivégzése Zaporizzsjában",
+      "summary": "Az orosz erők állítólag ukrán hadifoglyokat végeztek ki Zaporizzsjában, ami háborús bűncselekménynek minősül. Az incidens tovább élezi a konfliktust és a nemzetközi felháborodást.",
       "importance": 5
     },
     {
-      "title": "NATO-főparancsnok: Oroszország meggyengült, nem támadja meg Európát",
-      "summary": "A NATO főparancsnoka szerint Oroszország meggyengült, és nem meri megtámadni Európát, ami megnyugtató üzenet a kontinens biztonsági helyzetét illetően. Az állítás a katonai hírszerzés elemzésein alapul.",
+      "title": "Zelenszkij reagált Trump orosz szankciók felfüggesztésére",
+      "summary": "Volodimir Zelenszkij ukrán elnök reagált Donald Trump döntésére, miszerint felfüggesztené az Oroszország elleni szankciók egy részét. Ez a lépés jelentős feszültséget okozhat az ukrán-amerikai kapcsolatokban.",
       "importance": 5
     },
     {
-      "title": "Ukrajna további pénzügyi támogatásra szorul, Brüsszel migrációs válságokra készül",
-      "summary": "Ukrajnának újabb pénzügyi támogatásra van szüksége a folyamatos háború miatt, miközben Brüsszel felkészül a lehetséges migrációs vészhelyzetekre. Az EU kettős kihívással néz szembe a keleti és déli határain.",
+      "title": "Tüntetések és összecsapások Franciaországban",
+      "summary": "Franciaországban országszerte tüntetések zajlanak, melyek során a rendőrség több mint 150 embert őrizetbe vett. Az összecsapások erőszakos jellege feszült társadalmi helyzetre utal.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Észak-Korea mesterséges intelligencia vezérlésű rakétát tesztelt",
-      "summary": "Észak-Korea egy olyan rakétát tesztelt, amely mesterséges intelligenciát használ, ami aggodalmakat kelt a katonai technológia fejlődésével kapcsolatban. Az ilyen típusú fegyverek potenciálisan megváltoztathatják a globális biztonsági erőviszonyokat.",
-      "importance": 5
-    },
-    {
-      "title": "Kattintás nélküli kémprogram terjed, magyar felhasználók is veszélyben",
-      "summary": "Egy új, kattintás nélkül települő kémprogram terjed az interneten, amely magyar felhasználókat is elérhetett. A rendkívül veszélyes szoftver komoly adatbiztonsági kockázatot jelent a felhasználók számára.",
-      "importance": 5
-    },
-    {
-      "title": "India is jelentette a „gonosz” mesterséges intelligencia ügynökök tevékenységét",
-      "summary": "India lett a legújabb ország, amely jelentette a „gonosz” mesterséges intelligencia ügynökök tevékenységét, ami felveti az AI biztonságának globális aggodalmait. Ez a jelenség rávilágít az AI rendszerek ellenőrzésének fontosságára.",
+      "title": "Ausztrália 'kikapcsológombot' követel a mérgező algoritmusok ellen",
+      "summary": "Ausztráliában egyre többen követelik a 'kikapcsológomb' bevezetését a közösségi média mérgező algoritmusai ellen. A cél az online függőség és a káros tartalmak terjedésének megakadályozása.",
       "importance": 4
     },
     {
-      "title": "Ausztrália \"kikapcsológombot\" keres a mérgező algoritmusokhoz",
-      "summary": "Ausztrália szabályozási megoldásokat keres a „mérgező algoritmusok” kikapcsolására, amelyek egyes felhasználókat fogva tartanak az online platformokon. A lépés célja a digitális jólét és a felhasználók védelmének erősítése.",
+      "title": "India is jelentette a „szélhámos” mesterséges intelligencia tevékenységét",
+      "summary": "India is beszámolt olyan esetekről, ahol 'szélhámos' mesterséges intelligencia ügynökök tevékenységét észlelték. Ez rávilágít az AI rendszerek ellenőrzésének és biztonságának fontosságára.",
+      "importance": 4
+    },
+    {
+      "title": "A munka jövője az „önvezető cég” a Replit vezérigazgatója szerint",
+      "summary": "A Replit vezérigazgatója szerint a munka jövője az 'önvezető cég' koncepciójában rejlik, ahol a mesterséges intelligencia autonóm módon irányít majd folyamatokat. Ez radikálisan átalakíthatja a vállalatok működését.",
+      "importance": 4
+    },
+    {
+      "title": "A Tesla bemutatta a SpaceX-meghajtású Roadster koncepciót",
+      "summary": "A Tesla bemutatta a SpaceX technológiával meghajtott Roadster koncepcióját, amely repülni is képes. Az innováció új szintre emelheti az elektromos járművek teljesítményét és lehetőségeit.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Magyar orvosok 30 éve várt megoldással a szívinfarktus kezelésére",
-      "summary": "Magyar szakemberek fejlesztettek ki egy új módszert a szívinfarktus kezelésére, melyre a kutatók már 30 éve vártak. Ez az áttörés jelentős előrelépést hozhat a kardiológiai betegek ellátásában.",
+      "title": "A világ időmérői új módszert dolgoznak ki az idő kiigazítására",
+      "summary": "A világ időmérői új megközelítést alkalmaznak az idő kiigazítására, hogy elkerüljék a katasztrofális 'negatív másodperc' bevezetését. Ez alapvetően változtathatja meg az időszámításunkat.",
       "importance": 5
     },
     {
-      "title": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe",
-      "summary": "A kutatások szerint a zátonyépítő korallok közel fele fokozott kihalási kockázattal néz szembe, ami súlyos veszélyt jelent a tengeri ökoszisztémákra. Ez a felfedezés sürgős cselekvést sürget a korallzátonyok védelmében.",
+      "title": "A korallzátonyok közel fele a kihalás fokozott kockázatával néz szembe",
+      "summary": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe az emberi tevékenység és az éghajlatváltozás miatt. Ez komoly fenyegetést jelent a tengeri ökoszisztémákra.",
       "importance": 5
     },
     {
-      "title": "A világ időmérői az időszámítás kiigazításával küszöbölnék ki a „negatív másodpercet”",
-      "summary": "A világ időmérői felülvizsgálják az időszámítás kiigazítását, hogy elkerüljék egy potenciálisan katasztrofális „negatív másodperc” bevezetését. A döntés alapvető fizikai és technológiai következményekkel jár.",
+      "title": "Nobel-díjat kapott az IceCube projekt, hangsúlyozzák a hasonló kutatások védelmét",
+      "summary": "Az IceCube projekt Nobel-díjat nyert, kiemelve az asztro-részecskefizikai kutatások fontosságát. A szakértők szerint biztosítani kell a hasonló potenciállal rendelkező projektek további támogatását.",
       "importance": 4
     },
     {
-      "title": "Az agyi enzim aktivitása megőrzi az erős memóriát idősebb korban",
-      "summary": "Egy agyi enzim magas aktivitása összefüggésbe hozható az időskori erős memóriával, ami új kutatási irányokat nyithat a demencia megelőzésében. A felfedezés reményt adhat az agyi öregedés megértésében és kezelésében.",
+      "title": "Miért válnak függővé a vapeléstől azok, akik sosem dohányoztak?",
+      "summary": "Egyre több olyan ember válik függővé a vapeléstől, akik korábban soha nem dohányoztak. A jelenség aggályokat vet fel a közegészségügyben és a szabályozás szükségességét.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Valter Attila őszi tervei és a 2026-os szezon",
-      "summary": "Valter Attila, a magyar kerékpáros, felvázolta őszi terveit és a 2026-os szezonra vonatkozó elképzeléseit. A sportoló pályafutása és jövőbeli céljai kiemelt érdeklődésre tartanak számot a hazai sportkedvelők körében.",
-      "importance": 4
-    },
-    {
-      "title": "Budapesti olimpia: álmodhatunk, de a számla eljön",
-      "summary": "A budapesti olimpia rendezésének lehetősége ismét felmerült, ám a cikk hangsúlyozza, hogy a nagy álmok mellett a pénzügyi realitásokkal is szembe kell nézni. Az esetleges rendezés költségei és megtérülése komoly vita tárgyát képezik.",
-      "importance": 3
-    },
-    {
-      "title": "Niki Lauda egykori ütött-kopott Mercedes kombija eladó",
-      "summary": "Eladóvá vált Niki Lauda, a Forma-1-es legenda egykori Mercedes kombi autója, amely különleges relikviának számít a sportrajongók körében. Az autó Lauda személyes történetét hordozza, annak ellenére, hogy állapotát tekintve \"ütött-kopott\".",
-      "importance": 2
-    },
-    {
-      "title": "A tornászok traumáiról szóló beszámolók a hétvégi olvasnivalók között",
-      "summary": "A hétvégi ajánlott olvasmányok között kiemelt helyet kapott a tornászok traumáiról szóló mélyebb elemzés, mely rávilágít a sportág fizikai és mentális terheire. A cikk célja a sportolók jólétére való figyelemfelhívás és a témáról való diskurzus elindítása.",
-      "importance": 2
-    }
-  ]
+  "sports": []
 }

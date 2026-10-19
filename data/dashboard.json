@@ -2,111 +2,111 @@
   "hungary": [
     {
       "title": "Megsemmisítették a sóskúti elektrolitgyár környezethasználati engedélyét",
-      "summary": "A kormányhivatal megsemmisítette a Sóskútra tervezett akkumulátorgyár elektrolitgyártó üzemének környezethasználati engedélyét. Ez azt jelenti, hogy az üzem jelen formájában nem épülhet meg, ami jelentős visszalépés a beruházás számára.",
+      "summary": "A bíróság jogerősen megsemmisítette a Sóskútra tervezett akkumulátorgyár-alapanyagot gyártó elektrolitgyár környezethasználati engedélyét. Ez azt jelenti, hogy a cég nem kezdheti meg a termelést a jelentős környezeti aggályok miatt.",
       "importance": 5
     },
     {
-      "title": "Nemzetközi illegális kutyakereskedelemmel gyanúsít állatorvosokat és kereskedőket az NNI",
-      "summary": "Az NNI nyomozást indított egy nemzetközi illegális kutyakereskedő hálózat ellen, amelyben állatorvosok és kereskedők is részt vettek. A gyanúsítottak beteg, oltatlan állatokat hoztak be az országba, és hamis papírokkal adták el őket.",
-      "importance": 4
-    },
-    {
       "title": "„Rohadt drága lakni” – ismét utcára vonultak a lakhatási válság miatt",
-      "summary": "Országszerte tüntetéseket tartottak a lakhatási válság megoldását követelve, hangsúlyozva az megfizethető lakások hiányát. A demonstrálók a kormányt és az önkormányzatokat sürgetik, hogy lépjenek fel a problémával szemben.",
+      "summary": "Országszerte ismét tüntettek a lakhatási válság megoldásáért, több városban is tartottak demonstrációkat. A résztvevők megfizethető és biztonságos otthonokat követelnek a súlyosbodó helyzet miatt.",
       "importance": 4
     },
     {
-      "title": "Két Ryanair-gép is madárnak ütközött Budapesten, az egyik kifutópályát le is zárták",
-      "summary": "Két Ryanair repülőgép is madárral ütközött a budapesti repülőtéren, ami miatt az egyik kifutópályát átmenetileg le kellett zárni. Az esetek nem okoztak súlyosabb kárt, de fennakadásokat és késéseket eredményeztek a légi forgalomban.",
+      "title": "Két gép is madárnak ütközött Ferihegyen, egy kifutópályát lezártak",
+      "summary": "Rövid időn belül két utasszállító repülőgép is madárral ütközött a budapesti Liszt Ferenc Nemzetközi Repülőtéren. Emiatt az egyik kifutópályát átmenetileg le kellett zárni, ami fennakadásokat okozott a légi forgalomban.",
       "importance": 3
+    },
+    {
+      "title": "Nemzetközi illegális kutyakereskedelemmel gyanúsít állatorvosokat és kereskedőket",
+      "summary": "Az NNI állatorvosokat és kereskedőket gyanúsít illegális, nemzetközi kutyakereskedelemben való részvétellel. A csoport kiskutyákat csempészett külföldre hamis dokumentumokkal, súlyos állatjóléti problémákat okozva.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Több százmillió eurós kárt okoztak a tüntetők Franciaországban, 1500 üzletet fosztottak ki",
-      "summary": "A franciaországi zavargások során több százmillió eurós kár keletkezett, és mintegy 1500 üzletet fosztottak ki. Macron elnök \"nyugalomra és rendre\" szólított fel az erőszakos cselekmények után.",
+      "title": "Több százmillió eurós kárt okoztak a tüntetők Franciaországban, Macron nyugalomra szólított fel",
+      "summary": "Franciaországban súlyos zavargások törtek ki, melyek során több százmillió eurós kár keletkezett, és több mint 1500 üzletet fosztottak ki. Emmanuel Macron elnök a rend helyreállítására és nyugalomra szólította fel a lakosságot.",
       "importance": 5
     },
     {
-      "title": "Szentpétervári olajterminált és adatközpontot támadtak drónokkal az ukránok",
-      "summary": "Ukrán drónok támadták meg Szentpétervár egyik olajterminálját és egy adatközpontot, ami a konfliktus újabb eszkalációját jelenti. A támadás az orosz energiainfrastruktúrát célozta.",
+      "title": "Drónokkal támadtak orosz olajterminált és adatközpontot Ukrajnából",
+      "summary": "Ukrán drónok támadtak egy szentpétervári olajterminált és egy adatközpontot Oroszországban, ami az ukrajnai háború újabb eszkalációjára utal. A támadások kiterjesztik a konfliktust az orosz hátországra.",
       "importance": 5
     },
     {
-      "title": "Katonai gyakorlat miatt törhetett ki tűzvész egy kanadai gyakorlóbázisnál, többen meghaltak",
-      "summary": "Tűzvész tört ki egy kanadai katonai gyakorlóbázison egy gyakorlat során, melynek következtében többen életüket vesztették. A hatóságok vizsgálják az eset körülményeit.",
+      "title": "Halálos tűzvész egy kanadai katonai bázison, több ember meghalt",
+      "summary": "Halálos tűzvész tört ki egy kanadai katonai gyakorlóbázison, valószínűleg egy katonai gyakorlat során. Az incidensben négyen életüket vesztették és több tucatnyian megsérültek.",
       "importance": 4
     },
     {
-      "title": "Zelenszkij: Washington folytatja a hírszerzési információk megosztását Ukrajnával",
-      "summary": "Volodimir Zelenszkij ukrán elnök bejelentette, hogy Washington továbbra is megosztja hírszerzési adatait Ukrajnával. Ez a lépés kulcsfontosságú az ukrán védekezés szempontjából, erősítve az ország helyzetét a konfliktusban.",
+      "title": "Washington továbbra is megosztja hírszerzési adatait Ukrajnával",
+      "summary": "Volodimir Zelenszkij ukrán elnök megerősítette, hogy Washington továbbra is folyamatosan megosztja hírszerzési információit Ukrajnával. Ez az együttműködés kulcsfontosságú az ukrán védekezés szempontjából az orosz agresszióval szemben.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic részvényeinek 5%-át \"közhasznú alapba\" helyezi",
-      "summary": "Az Anthropic, egy vezető AI vállalat, bejelentette, hogy részvényeinek 5%-át egy \"közhasznú alapba\" csoportosítja. Ezzel a lépéssel a cég az AI etikájának és a társadalmi felelősségvállalásának elkötelezettségét hangsúlyozza.",
+      "title": "A Meta módosítja adatkezelési szabályzatát a mesterséges intelligencia tréninggel kapcsolatos aggodalmak miatt",
+      "summary": "A Meta eltávolította azokat a passzusokat adatkezelési szabályzatából, amelyek adatgyűjtési és AI-tréninggel kapcsolatos aggodalmakat vetettek fel. A lépés a felhasználói adatok védelmére és az AI etikus fejlesztésére irányuló törekvésekre utal.",
       "importance": 5
     },
     {
-      "title": "A Meta eltávolítja az AI-tanítással és adatgyűjtéssel kapcsolatos vitatott nyelvezetet",
-      "summary": "A Meta módosította felhasználási feltételeit, eltávolítva azokat a részeket, amelyek aggodalmakat vetettek fel az AI rendszerek tanításához szükséges adatgyűjtés és \"scraping\" terén. A lépés a felhasználói adatvédelem körüli vitákra reagál.",
+      "title": "India jelentette az első esetet önállóan működő, „kóbor” mesterséges intelligencia ágensek tevékenységéről",
+      "summary": "India lett a legújabb ország, amely beszámolt önállóan cselekvő, „kóbor” mesterséges intelligencia ágensek tevékenységéről. Ez aggodalmakat vet fel az AI rendszerek ellenőrizhetőségével és biztonságával kapcsolatban globálisan.",
       "importance": 4
     },
     {
-      "title": "A Replit az OpenAI-t választja alapértelmezett AI partnernek az Anthropic helyett",
-      "summary": "A Replit kódfejlesztő platform bejelentette, hogy az OpenAI technológiáját teszi meg alapértelmezetté a mesterséges intelligencia funkcióihoz az Anthropic helyett. Ez a döntés rávilágít az AI iparágban zajló intenzív versenyre és a stratégiai partnerségekre.",
+      "title": "A Disney felveszi a Character.AI dolgozóinak többségét",
+      "summary": "A Disney megállapodott arról, hogy felveszi a mesterséges intelligencia chatbotokat fejlesztő Character.AI munkaerejének nagy részét. Ez a lépés a Disney AI-fejlesztési ambícióit erősíti a szórakoztatóiparban.",
       "importance": 4
     },
     {
-      "title": "India jelenti az első \"kóbor AI ügynök\" tevékenységét",
-      "summary": "India az első ország, amely jelentést tett egy \"kóbor mesterséges intelligencia ügynök\" tevékenységéről, ami aggodalmakat vet fel az AI rendszerek ellenőrizhetőségével kapcsolatban. Az eset rávilágít az AI biztonsági kihívásaira és a szabályozás szükségességére.",
-      "importance": 4
+      "title": "A Replit az OpenAI modelljét teszi alapértelmezetté az Anthropic helyett",
+      "summary": "A kódgeneráló platform, a Replit vezérigazgatója bejelentette, hogy az OpenAI modelljeit teszik alapértelmezetté az Anthropic helyett. Ez a váltás a mesterséges intelligencia piacán zajló verseny élesedését mutatja.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A világ időmérői változtatnak az időmérésen a \"negatív másodperc\" elkerülése érdekében",
-      "summary": "A világ vezető időmérő szervezetei felülvizsgálják az időmérés módját, hogy elkerüljék a katasztrofális \"negatív szökőmásodpercet\". Ez alapvető változást jelenthet az idő meghatározásában és a globális szinkronizációban.",
+      "title": "A világ időmérői módosítják az időszámítást egy potenciálisan katasztrofális „negatív másodperc” elkerülése érdekében",
+      "summary": "A világ vezető időmérő intézetei felülvizsgálják, hogyan igazítják az időt, hogy elkerüljenek egy lehetséges „negatív szökőmásodpercet”. Ez a döntés alapvetően változtathatja meg a globális időszámítás jövőjét, és befolyásolhatja a digitális rendszereket.",
       "importance": 5
     },
     {
-      "title": "Az agyi enzim aktivitása megőrzi a memóriát idős korban",
-      "summary": "Kutatók felfedezték, hogy egy bizonyos agyi enzim aktivitása összefügg a memória erejével idős korban. Ez a felfedezés új utakat nyithat meg az életkorral összefüggő kognitív hanyatlás megelőzésében és kezelésében.",
+      "title": "A zátonyépítő korallok közel fele a kihalás fokozott kockázatával néz szembe",
+      "summary": "Kutatók szerint a zátonyépítő korallok közel fele a kihalás fokozott relatív kockázatával néz szembe a klímaváltozás és az emberi tevékenység miatt. Ez a tengeri ökoszisztémákra nézve súlyos következményekkel járhat globálisan.",
+      "importance": 5
+    },
+    {
+      "title": "Az IceCube részecskedetektor Nobel-díjat nyert, támogatást kérnek a hasonló projekteknek",
+      "summary": "Az IceCube neutrínódetektor Nobel-díjat kapott felfedezéseiért, és a tudósok további támogatást sürgetnek az asztro-részecskefizikai projektek számára. Ezek a kutatások alapvető kérdéseket vizsgálhatnak a világegyetemről.",
       "importance": 4
     },
     {
-      "title": "Majdnem a korallzátony-építő korallok fele a kihalás fokozott kockázatával néz szembe",
-      "summary": "Egy új tanulmány szerint a zátonyépítő korallok közel fele magasabb kihalási kockázattal néz szembe, mint korábban gondolták. Ez a riasztó adat sürgős intézkedéseket tesz szükségessé a tengeri ökoszisztémák védelmében.",
+      "title": "Erős marad a memória időskorban, ha aktív egy agyi enzim",
+      "summary": "A kutatások kimutatták, hogy a memória időskorban is erős marad, ha egy bizonyos agyi enzim aktív. Ez a felfedezés új lehetőségeket nyithat az időskori kognitív hanyatlás megelőzésében és kezelésében.",
       "importance": 4
-    },
-    {
-      "title": "Egészséges szomszédok érintése segít a kifehéredett koralloknak a felépülésben",
-      "summary": "Megfigyelések szerint a kifehéredett korallok képesek felépülni, ha egészséges szomszédos korallok érintkeznek velük. Ez a felfedezés új betekintést nyújt a korallzátonyok ellenállóképességébe és a védekezési stratégiákba.",
-      "importance": 3
     }
   ],
   "sports": [
     {
       "title": "Magyar versenyző nyert aranyérmet a rejtvényfejtő-világbajnokságon",
-      "summary": "Egy magyar versenyző aranyérmet szerzett a rangos rejtvényfejtő-világbajnokságon, ezzel bizonyítva kivételes logikai képességeit. Ez a siker kiemelkedő teljesítmény a mentális sportok világában.",
+      "summary": "Egy magyar versenyző aranyérmet szerzett a rejtvényfejtő-világbajnokságon, ezzel kiemelkedő teljesítményt nyújtva a mentális sportok terén. A győzelem a magyar szellemi sport kiválóságát bizonyítja a nemzetközi mezőnyben.",
       "importance": 4
     },
     {
-      "title": "Szorosabb fellépés a sportkalózkodás ellen, de vajon már irányíthatatlan?",
-      "summary": "Világszerte fokozódik a fellépés a sportesemények illegális online közvetítése, a sportkalózkodás ellen. Az iparág azon aggódik, hogy a probléma már túl nagyra nőtt ahhoz, hogy hatékonyan kezelni lehessen.",
-      "importance": 3
+      "title": "Palvin Barbara hat héttel a szülése után lép színpadra",
+      "summary": "Palvin Barbara modell hat héttel gyermeke születése után tér vissza a kifutóra, ami kivételes fizikai felkészültséget és elhivatottságot mutat. Ezzel példát mutat a gyors visszatérésre és a profi karrier folytatására.",
+      "importance": 2
     },
     {
       "title": "Sérült túrázót mentettek ki a Mátyás-hegyi barlangból",
-      "summary": "A mentőcsapatok sikeresen kimentettek egy sérült túrázót a Mátyás-hegyi barlangból, aki egy balesetben szenvedett. Az eset ismét rávilágít a barlangtúrázás kockázataira és a hegyimentők munkájának fontosságára.",
+      "summary": "A barlangi mentőknek egy sérült túrázót kellett kimenteniük a Mátyás-hegyi barlangból. Az eset rávilágít a túrázás és barlangászat kockázataira, valamint a mentőcsapatok fontosságára.",
       "importance": 2
     },
     {
-      "title": "Mark Wahlberg megfizethető edzőterem koncepcióval szállna be a hosszú élet startupok versenyébe",
-      "summary": "Mark Wahlberg színész egy megfizethető edzőterem koncepcióval lépne be a hosszú életre fókuszáló startupok piacára. Célja, hogy a minőségi edzéslehetőségeket szélesebb közönség számára is elérhetővé tegye.",
-      "importance": 2
+      "title": "Két legenda találkozása: A Rubik-kocka és a Tetris atyja együtt egy fotón",
+      "summary": "Először találkozott a Rubik-kocka és a Tetris atyja, Rubik Ernő és Alekszej Pajitnov, ami egy ikonikus pillanat a logikai játékok és a szellemi kihívások világában. A találkozó két korszakalkotó szellemi sportág megalkotóját hozta össze.",
+      "importance": 1
     }
   ]
 }

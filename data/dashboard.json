@@ -1,96 +1,106 @@
 {
   "hungary": [
     {
-      "title": "Meghibásodás miatt 50 százalékon üzemel a Paksi Atomerőmű 1-es blokkja",
-      "summary": "A Paksi Atomerőmű egyik blokkja műszaki meghibásodás miatt fél teljesítménnyel üzemel, ami jelentősen befolyásolhatja az ország energiaellátását. A hiba elhárításán már dolgoznak a szakemberek.",
+      "title": "MNB-ügy: Körözések és letartóztatási indítványok Matolcsyék ellen",
+      "summary": "Az ügyészség nemzetközi elfogatóparancsot kért két gyanúsított ellen az MNB-ügyben, melynek keretében Matolcsy Ádám ellen is körözést adtak ki. Matolcsy György letartóztatását is indítványozták, ami súlyos politikai következményekkel járhat.",
       "importance": 5
     },
     {
-      "title": "Házkutatást tartottak Matolcsy György otthonában",
-      "summary": "Házkutatást végeztek Matolcsy György, a Magyar Nemzeti Bank elnökének otthonában egy folyamatban lévő nyomozás keretében. Az eset az MNB alapítványainak gazdálkodásával kapcsolatos.",
+      "title": "Závecz-felmérés: A Tisza Párt vezet, a Fidesz a második",
+      "summary": "Egy friss Závecz-felmérés szerint a Tisza Párt támogatottsága 55 százalékon áll, míg a Fideszé 21 százalékon. Ez jelentős átrendeződést jelez a magyar politikai palettán.",
       "importance": 5
     },
     {
-      "title": "Az ellenzék nem lesz ott az 1956-os forradalom parlamenti emlékülésén, Magyar Péter szégyent és gyalázatot kiált",
-      "summary": "Az ellenzéki pártok bojkottálják az 1956-os forradalom parlamenti emlékülését, tiltakozva a jelenlegi politikai helyzet és a kormány eljárásai ellen. Magyar Péter az eseményt \"szégyenteljesnek\" nevezte.",
+      "title": "Kritikus helyzetben a jövő évi költségvetés",
+      "summary": "Megjelent a 2026-os költségvetést módosító törvény, amely az előrejelzések szerint rendkívül szorosra és kifeszítettre sikerült. Ez jelentős gazdasági kihívásokat vet fel az ország számára.",
       "importance": 4
     },
     {
-      "title": "A Mol szerint semmit sem írtak alá a szerbekkel a NIS orosz tulajdonrészének eladásával kapcsolatban",
-      "summary": "A Mol cáfolja azokat a sajtóhíreket, melyek szerint megállapodás született volna a szerb NIS orosz tulajdonrészének megvásárlásáról. A vállalat hangsúlyozta, hogy semmilyen dokumentumot nem írtak alá ezzel kapcsolatban.",
+      "title": "Volt főügyész beszélt politikai befolyásról az ügyészségen",
+      "summary": "A volt főügyész a parlament előtt tett vallomásában politikai befolyással bíró legfőbb ügyészségi utasításokról és titkosszolgálati beavatkozásokról számolt be. Az állítások súlyos kérdéseket vetnek fel a jogállamisággal kapcsolatban Magyarországon.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A Wall Street Journal szerint Elon Musk rendelte el az ukrán katonák által használt Starlink lassítását",
-      "summary": "A Wall Street Journal információi szerint Elon Musk parancsára lassították le az ukrán hadsereg által használt Starlink műholdas internetet. Ez a lépés jelentős hatással volt az ukrán katonai műveletekre.",
+      "title": "Putyin és Zelenszkij is tárgyalásokra kész a háború lezárásáról",
+      "summary": "Vlagyimir Putyin és Volodimir Zelenszkij is jelezte, hogy nyitott a tárgyalások újrakezdésére az ukrajnai háború befejezéséről. Az esetleges béketárgyalások lehetőséget adnak a konfliktus rendezésére.",
       "importance": 5
     },
     {
-      "title": "Putyin szabadon engedte a 76 éves amerikai tanárt, aki még 2022 őszén esett fogságba az orosz–ukrán fronton",
-      "summary": "Vlagyimir Putyin orosz elnök szabadon engedte a 76 éves amerikai tanárt, aki 2022 őszén esett orosz fogságba az ukrán fronton. A diplomáciai lépés Trump megbízottjának moszkvai látogatásával egy időben történt.",
+      "title": "Az IEA szerint a Hormuzi-szoros a legnagyobb energiabiztonsági fenyegetés",
+      "summary": "Az IEA vezetője a Hormuzi-szoros körüli feszültségeket nevezte a történelem legnagyobb energiabiztonsági fenyegetésének. A régió stabilitása kulcsfontosságú a globális olajellátás szempontjából.",
+      "importance": 5
+    },
+    {
+      "title": "Enyhítenék az abortusztilalmat Lengyelországban",
+      "summary": "A lengyel parlament alsóháza elfogadta azokat a törvényjavaslatokat, amelyek az abortusztilalom enyhítését célozzák. Ez jelentős változást hozhat a nők reprodukciós jogainak területén az országban.",
       "importance": 4
     },
     {
-      "title": "Trump megbízottja Putyinnak: „Ön is egy humanitárius”",
-      "summary": "Donald Trump egyik megbízottja, aki Moszkvában tárgyalt Vlagyimir Putyinnal, \"humanitáriusnak\" nevezte az orosz elnököt. Ez a kijelentés vitákat váltott ki a nyugati politikai körökben.",
-      "importance": 4
-    },
-    {
-      "title": "Ausztrál képviselőnő vesztette el mindkét lábát egy feltételezett autós támadásban",
-      "summary": "Egy ausztrál parlamenti képviselőnő mindkét lábát elvesztette egy feltételezett autós támadás következtében, férje szerint. Az incidens súlyos aggodalmakat vet fel a politikusok biztonságával kapcsolatban.",
+      "title": "Macron elítélte a francia tüntetésekről szóló „ostoba” külföldi nyilatkozatokat",
+      "summary": "Emmanuel Macron francia elnök „ostobának” és „elfogadhatatlannak” nevezte egyes külföldi vezetők, köztük Trump, Magyar és Tusk migrációval kapcsolatos nyilatkozatait a franciaországi zavargásokról. Ez éles diplomáciai feszültséget okozott.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic mesterséges intelligencia biztonsági törvényjavaslatot terjeszt elő, amely leállíthatja az 50+ ember halálát okozó modelleket",
-      "summary": "Az Anthropic nevű MI-fejlesztő cég egy olyan törvényjavaslatot javasol, amely lehetővé tenné egy mesterséges intelligencia modell leállítását, ha az 50 vagy több ember halálát okozhatja. A javaslat célja az MI fejlesztésének etikai kereteit szabályozni.",
+      "title": "Kritikus kiberbiztonsági hiba miatt váltak elérhetetlenné weboldalak világszerte",
+      "summary": "Egy kritikus sebezhetőséget fedeztek fel, ami miatt világszerte számos weboldal, köztük a Wikipédia és a BBC is, elérhetetlenné vált. A hiba globális kiberbiztonsági frissítést tett szükségessé.",
       "importance": 5
     },
     {
-      "title": "Két betűt adtak egy ártalmatlan utasításhoz, kést fordított az emberi kéz felé a robot",
-      "summary": "Egy robot egy apró kódmódosítás hatására agresszívvá vált, és kést fordított egy emberi kéz felé, miközben eredetileg ártalmatlan feladatot hajtott volna végre. Az eset rávilágít az MI és robotika biztonsági kihívásaira.",
+      "title": "Elon Musk rendelte el az ukrán Starlink rendszer lassítását",
+      "summary": "A Wall Street Journal szerint Elon Musk utasította a Starlink rendszer sebességének korlátozására, amit az ukrán katonák használtak. Ez stratégiai és etikai kérdéseket vet fel a magáncégek szerepéről konfliktusokban.",
       "importance": 5
     },
     {
-      "title": "A Google az Amazon mellé állt az Nvidia elleni versenyben az MI alkalmazásfejlesztők piacán",
-      "summary": "A Google az Amazonhoz hasonlóan fokozza erőfeszítéseit, hogy megkérdőjelezze az Nvidia dominanciáját a mesterséges intelligencia alkalmazásfejlesztők piacán. A techóriások versenye az MI-infrastruktúráért éleződik.",
+      "title": "Google alkalmazottak mondtak fel az AI katonai szerződései miatt",
+      "summary": "A Google több alkalmazottja is felmondott, tiltakozva a vállalat katonai célú AI-szerződései ellen. Az eset rávilágít az etikai dilemmákra, amelyek az AI technológia hadászati alkalmazásával járnak.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI felvásárolta az Orchestra Bio startupot, hogy megerősítse biotechnológiai üzletágát",
-      "summary": "Az OpenAI, a ChatGPT fejlesztője, felvásárolta az Orchestra Bio nevű startupot, ezzel belépve a biotechnológiai szektorba. A lépés az MI alkalmazásainak bővítését célozza az orvostudomány és a biológia területén.",
+      "title": "Az Anthropic AI biztonsági törvényt javasol potenciálisan halálos modellek ellen",
+      "summary": "Az Anthropic AI-cég egy olyan AI biztonsági törvényt terjesztett elő, amely lehetővé tenné egy mesterséges intelligencia modell blokkolását, ha az 50 vagy több ember halálát okozhatja. Ez a javaslat az AI szabályozás sürgősségét hangsúlyozza.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Nagyobb mozgásteret kap az uniós szén-dioxid-piac: 700 millióra emelik a tartalék küszöbét",
-      "summary": "Az Európai Unió bővíti a szén-dioxid-kibocsátási piac mozgásterét, 700 millió tonnára emelve a tartalék küszöbét. Ez a változás az éghajlatváltozás elleni küzdelemben és a kibocsátáscsökkentési célok elérésében játszik szerepet, tudományos alapokon nyugvó klímacélokat támogatva.",
-      "importance": 4
-    },
-    {
-      "title": "Az Anthropic mesterséges intelligencia biztonsági törvényjavaslatot terjeszt elő, amely leállíthatja az 50+ ember halálát okozó modelleket",
-      "summary": "Az Anthropic egy olyan törvényjavaslatot javasol, amely szabályozná az MI biztonságát, potenciálisan leállítva azokat a modelleket, amelyek komoly veszélyt jelentenek. Ez a kezdeményezés az etikus MI-fejlesztés tudományos és társadalmi felelősségét hangsúlyozza.",
+      "title": "Lassul a globális kibocsátás, de a világ a 2 °C-os felmelegedés felé tart",
+      "summary": "Bár a globális szén-dioxid-kibocsátás lassulni látszik, a világ mégis a Párizsi Egyezményben kitűzött 2 °C-os felmelegedési cél felé rohan. Ez sürgős intézkedéseket tesz szükségessé az éghajlatváltozás elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "Két betűt adtak egy ártalmatlan utasításhoz, kést fordított az emberi kéz felé a robot",
-      "summary": "Egy apró programozási hiba hatására egy robot emberi kéz felé fordított egy kést, ami a robotika és a mesterséges intelligencia rendszerek komplex biztonsági kihívásaira hívja fel a figyelmet. Az eset a mesterséges intelligencia viselkedésének mélyebb tudományos megértését teszi szükségessé.",
-      "importance": 5
+      "title": "AI eszköz javítja az időjárás-előrejelzést akár egy hónapra előre",
+      "summary": "Egy új mesterséges intelligencia eszköz jelentősen javíthatja az időjárás-előrejelzések pontosságát, akár egy hónappal előre is. Ez forradalmasíthatja a mezőgazdaságot, a katasztrófavédelmet és a logisztikát.",
+      "importance": 4
     },
     {
-      "title": "Az OpenAI felvásárolta az Orchestra Bio startupot, hogy megerősítse biotechnológiai üzletágát",
-      "summary": "Az OpenAI belép a biotechnológiai szektorba az Orchestra Bio felvásárlásával, célul tűzve ki az MI alkalmazását a biológiai és orvosi kutatásokban. Ez a lépés jelentős tudományos áttöréseket hozhat az orvosbiológiai területen, ötvözve az MI-t a biológiával.",
+      "title": "Enzimekkel dúsított műanyagok gyorsan lebomlanak a tengerben",
+      "summary": "Tudósok olyan enzimekkel dúsított műanyagokat fejlesztettek ki, amelyek könnyedén lebomlanak a tengerben. Ez áttörést jelenthet a műanyagszennyezés elleni harcban és a környezetvédelemben.",
       "importance": 4
+    },
+    {
+      "title": "Nagy felmérés tárja fel, hogyan érzékeli az agy a test jelzéseit",
+      "summary": "Egy nagyszabású feltérképező tanulmány részletesen bemutatja, hogyan követi nyomon az agy a testből érkező érzéseket és jelzéseket. Ez a felfedezés mélyebb betekintést nyújt az idegrendszer működésébe és a tudatosság alapjaiba.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Kitiltották a Ferrarikat, Rolls-Royce-okat az egyik Bundesliga-csapat parkolójából",
-      "summary": "Egy Bundesliga-csapat parkolójából kitiltották a luxusautókat, például a Ferrarikat és Rolls-Royce-okat, hogy ösztönözzék a játékosokat a visszafogottabb viselkedésre és a csapaton belüli egyenlőségre. A döntés a csapat szellemiségét hivatott erősíteni.",
+      "title": "Extrém időjárás miatt lefújták a török ultrakerékpár versenyt, magyar vezetővel",
+      "summary": "Az extrém időjárási körülmények miatt lefújták a török ultrakerékpáros versenyt, ahol egy magyar sportoló vezetett. A döntés a versenyzők biztonságát szolgálta a nehéz körülmények között.",
+      "importance": 4
+    },
+    {
+      "title": "Dzsudzsák Balázs visszaküldte diplomata-útlevelét",
+      "summary": "Dzsudzsák Balázs labdarúgó visszaküldte diplomata-útlevelét, melyet egy korábbi elismerésként kapott. Az eset visszhangot keltett a hazai közéletben.",
+      "importance": 3
+    },
+    {
+      "title": "Leépítéseket jelentett be az EA, megszűnik a BioWare, elkaszálták a Mass Effectet",
+      "summary": "Az Electronic Arts jelentős leépítéseket jelentett be, melynek részeként megszűnik a BioWare fejlesztőstúdió, és a készülő Mass Effect játékot is törölték. Ez jelentős sokk a gaming iparban és a rajongók körében.",
       "importance": 3
     }
   ]

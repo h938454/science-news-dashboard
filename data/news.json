@@ -1,83 +1,67 @@
 {
-  "Telex": [
-    {
-      "title": "A Liverpool hétgólos meccsen verte Gulácsiékat a BL-ben, nagy gólokat láttunk a PSG-Barcán",
-      "link": "https://telex.hu/sport/2026/10/20/bajnokok-ligaja-psg-barca-pool-villarreal",
-      "summary": "4-2-re nyertek a címvédő franciák, a Barcelona először kapott ki ebben a szezonban. Varga Barnabás egy félidőt kapott a City ellen, az angolok ötöt vágtak a csapatának."
-    },
-    {
-      "title": "Zelenszkij szerint Ukrajna nem veszíti el a háborút, de embereit igen",
-      "link": "https://telex.hu/kulfold/2026/10/20/oslo-zelenszkij-witkoff-targyalas",
-      "summary": "Az ukrán elnök Oslóban tárgyalt, Jared Kushner főtárgyaló, az amerikai elnök veje videón keresztül kapcsolódott be."
-    },
-    {
-      "title": "Öt év börtönt is kaphatnak Olaszországban az erőszakos tüntetők, a fiatalok büntethetősége is szigorodik",
-      "link": "https://telex.hu/kulfold/2026/10/20/olaszorszag-giorgia-meloni-bejelentes-tuntetes-eroszak-jogszabaly",
-      "summary": "Giorgia Meloni miniszterelnök kedd esti bejelentésében az elmúlt napok zavargásaira reagált, fel fognak lépni az erőszakkal szemben."
-    },
-    {
-      "title": "Drónra kötözve mentettek ki egy sebesült katonát a frontvonalról az ukránok",
-      "link": "https://telex.hu/kulfold/2026/10/20/dron-ukrajna-sebesult-katona-mentes",
-      "summary": "A katona olyan helyszínen sérült meg, ahol a hagyományos módon történő kimenekítés kivitelezhetetlen volt."
-    },
-    {
-      "title": "A szerb ellenzék a választási csalásokat megakadályozó magyar tapasztalatokat felhasználva győzné le Vučićot",
-      "link": "https://telex.hu/kulfold/2026/10/20/szerbia-valasztas-vajdasag-megfigyelok-de-vmu-crta",
-      "summary": "Az elnöki szék után a kormányfőit megcélzó Aleksandar Vučić pártjának nem csak egységes kihívóval, de a korábbiaknál hatékonyabb választási megfigyelőkkel kell számolnia. A magyar DE! Akcióközösség is ott lesz a Vajdaságban vasárnap. Utána a nemzeti tanácsi választáson a Fideszhez és a szerb ellenzékhez kötődő magyar szervezetek szállnak harcba egymással."
-    },
-    {
-      "title": "Az EU egyezkedne az USA-val a Nemzetközi Büntetőbíróság elleni szankciók visszavonásáról",
-      "link": "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-kaja-kallas-nemzetkozi-buntetobirosag",
-      "summary": "Még van idő a diplomáciára az uniós külügyi főképviselő szerint."
-    },
-    {
-      "title": "Kövér László szerint az oktatási rendszer rosszabb állapotban van, mint 16 évvel ezelőtt volt",
-      "link": "https://telex.hu/belfold/2026/10/20/kover-laszlo-kozter-interjo-oktatas-felelosseg-fidesz",
-      "summary": "Persze sok szempontból nincs, de a rossz a pedagógusok hibája is. Két óra húszperces interjút adott a volt házelnök."
-    },
-    {
-      "title": "A brit terrorelhárítás újra letartóztatott két férfit, akiket korábban a légierő egyik támaszpontjánál kapcsoltak le",
-      "link": "https://telex.hu/kulfold/2026/10/20/nagy-britannia-legiero-tamaszpont-letartoztatas-iran-hirszerzes",
-      "summary": "Korábban öt férfit tartóztattak le terrorgyanú miatt a Fairfordnál található légibázis közelében, most kettejüket azzal gyanúsítják, hogy az iráni hírszerzéssel álltak kapcsolatban."
-    },
-    {
-      "title": "Magyar Péter: A rezsicsökkentés megtartásában nem, a családtámogatások kérdésében viszont nagy vita volt a kormányban",
-      "link": "https://telex.hu/belfold/2026/10/20/magyar-peter-miniszterelnok-elo-interju-telex-koltsegvetes",
-      "summary": "A miniszterelnök szerint mesterművet rakott az asztalra Kármán András pénzügyminiszter, mert úgy sikerült a vállalásaikat teljesíteni, hogy közben harmadára csökkentik az államháztartási hiányt."
-    },
-    {
-      "title": "Kármán András megmutatta, hogy hol szeretne spórolni az állam a működésén 2027-ben",
-      "link": "https://telex.hu/gazdasag/2026/10/20/karman-andras-ado-koltsegvetes-budzse-novekedes",
-      "summary": "Folytatódik a költségvetést magyarázó kormányzati roadshow, az egyre több részlet megismerése után is egyelőre pozitív az összkép a 2027-es büdzséről."
-    },
-    {
-      "title": "Lakos Esztert a Tiszából a legnagyobb európai parlamenti frakció egyik alelnökévé választották",
-      "link": "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-lakos-eszter-europai-neppart",
-      "summary": "A tíz helyért kilenc eddigi alelnök és három új jelölt indult."
-    },
-    {
-      "title": "Először választott magyar társelnököt egy európai parlamenti frakció",
-      "link": "https://telex.hu/kulfold/2026/10/20/eu-europai-parlament-patriotak-europaert-gal-kinga",
-      "summary": "Gál Kinga a Fideszből eddig papíron a Patrióták Európáért második számú vezetője volt, most hivatalosan is Jordan Bardella egyenrangú társa lett a frakció élén."
-    },
-    {
-      "title": "Két hónappal meghosszabbították az eljárási határidőt Havasi Bertalan illetményigénye ügyében",
-      "link": "https://telex.hu/belfold/2026/10/20/havasi-bertalan-kozszolgalati-dontobizottsag-illetmeny",
-      "summary": "Indoklás nem szerepel a dokumentumban, Havasi szerint „láthatóan megfontolt és alapos grémium vizsgálódik ebben a rendkívül összetett ügyben”."
-    },
-    {
-      "title": "Már húsz éve annak, hogy Sofia Coppola modern rocksztárt csinált Marie Antoinette-ből",
-      "link": "https://telex.hu/after/2026/10/20/20-eves-sofia-coppola-marie-antoinette-filmje",
-      "summary": "A bemutatásakor még sokat kritizált alkotás azóta kultfilmmé vált, most pedig Versailles-ban kiállítással, egy új könyvvel és Coppola néhai édesanyjának forgatási felvételeiből készült dokumentumfilmmel ünneplik az évfordulóját."
-    },
-    {
-      "title": "Térképes keresővel böngészhető, kinek és mennyi közpénzt adott a Bethlen Gábor Alapkezelő",
-      "link": "https://telex.hu/belfold/2026/10/20/bethlen-gabor-alapkezelo-tamogatasok-terkepes-kereso",
-      "summary": "Az új adattárban az elmúlt öt év támogatási adatai válnak kereshetővé, a feltöltés és az adatok frissítése folyamatos."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Több helyszínen akciózik a főügyészség MNB-ügyben",
+      "link": "https://444.hu/2026/10/21/tobb-helyszinen-akciozik-a-fougyeszseg-mnb-ugyben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Estére ígértek részleteket."
+    },
+    {
+      "title": "Olyan súlyosan roncsolódtak a terepjáróval szándékosan elgázolt képviselőnő lábai, hogy mindkettőt amputálni kellett",
+      "link": "https://444.hu/2026/10/21/olyan-sulyosan-roncsolodtak-a-terepjaroval-szandekosan-elgazolt-kepviselono-labai-hogy-mindkettot-amputalni-kellett?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Helen Haines felépülése hosszú folyamat lesz, nyilatkozta az ausztrál képviselőnő férje."
+    },
+    {
+      "title": "Belgrád szerint aláírták a NIS orosz tulajdonrészének eladásáról szóló szerződést a Mollal",
+      "link": "https://444.hu/2026/10/21/belgrad-szerint-alairtak-a-nis-orosz-tulajdonreszenek-eladasarol-szolo-szerzodest-a-mollal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az USA egy éve vezetett be szankciókat a szerbiai cég ellen az orosz többségi tulajdon miatt."
+    },
+    {
+      "title": "Büntetőeljárás fenyegeti Héder Barnát, 50 millió forinttal tartozik, senki sem tudja elérni, a cégét felszámolják",
+      "link": "https://444.hu/2026/10/21/buntetoeljaras-fenyegeti-heder-barnat-50-millio-forinttal-tartozik-senki-sem-tudja-elerni-a-ceget-felszamoljak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A párizsi olimpia óta nem hajlandó fizetni a stábtagjainak."
+    },
+    {
+      "title": "Takarítsd fel a rendetlenséget, amit csináltál, mondta Russell Brand egy nőnek, miután megerőszakolta",
+      "link": "https://444.hu/2026/10/21/takaritsd-fel-a-rendetlenseget-amit-csinaltal-mondta-russell-brand-egy-nonek-miutan-megeroszakolta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Zajlik a többszörös nemi erőszakkal vádolt sztár tárgyalása Londonban."
+    },
+    {
+      "title": "A NER sötét titkai, a korrupt egyház szembenézése",
+      "link": "https://444.hu/2026/10/21/a-ner-sotet-titkai-a-korrupt-egyhaz-szembenezese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Élet a halál után egy ukrán városban. Forrongások Párizsban. A költségvetés részletei. A vereség okai a DPK-táborban. Ez a 444 napindító hírlevele."
+    },
+    {
+      "title": "Elon Musk a SpaceX és a Tesla egyesülésével növelné befolyását",
+      "link": "https://444.hu/2026/10/21/elon-musk-a-spacex-es-a-tesla-egyesulesevel-novelne-befolyasat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A szavazatok 56 százaléka fölött rendelkezne."
+    },
+    {
+      "title": "Az amerikaiak még nem adták fel: Witkoff azért megy szerdán Moszkvába, hogy mégis megpróbálja egy asztalhoz ültetni Putyint Zelenszkijjel és Trumppal",
+      "link": "https://444.hu/2026/10/21/az-amerikaiak-meg-nem-adtak-fel-witkoff-azert-megy-szerdan-moszkvaba-hogy-megis-megprobalja-egy-asztalhoz-ultetni-putyint-zelenszkijjel-es-trumppal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Nem lesz könnyű dolga. Az amerikai elnök békeügyi különmegbízottja előzőleg az ukrán elnökkel tárgyalt."
+    },
+    {
+      "title": "Pár nap alatt 250 embert gyilkoltak meg a drónok az olajban gazdag Abyeiben",
+      "link": "https://444.hu/2026/10/21/par-nap-alatt-250-embert-gyilkoltak-a-dronok-az-olajban-gazdag-abyeiben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Legutóbb zsúfolt piacteret ért a támadás."
+    },
+    {
+      "title": "Mindenkinél legyen esernyő, mert akinél nem lesz, az bizonyára meg fog ázni",
+      "link": "https://444.hu/2026/10/21/mindenkinel-legyen-esernyo-mert-akinel-nem-lesz-az-bizonyara-meg-fog-azni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Jó hírünk van, országos eső jön."
+    },
+    {
+      "title": "A rendőrségi béremelés messze van a vágyott 50 százaléktól",
+      "link": "https://444.hu/2026/10/21/a-rendorsegi-beremeles-messze-van-a-vagyott-50-szazalektol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Pósfai Gábor elfogadja a kritikákat, de szerinte az elődei mulasztása túl nagy, az idő túl kevés volt."
+    },
+    {
+      "title": "A NER működésének sötét titkaiba láthatunk bele, ha tényleg kitálal a volt főügyész",
+      "link": "https://444.hu/2026/10/21/a-ner-mukodesenek-sotet-titkaiba-lathatunk-bele-ha-tenyleg-kitalal-a-volt-fougyesz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Parlamenti tényfeltáró bizottságba várják délután Fürcht Pált, az egykor fontos ügyekben nyomozó, azóta azonban politikai nyomásgyakorlásról beszélő volt főügyészt. A Völner-Schadl-ügyről és Magyar Péter telefonos ügyéről is beszél a várakozások szerint, előbbi ráadásul Magyar Péter politikai felemelkedésének egyik fontos mozzanata volt, felmerült benne Rogán Antal neve, és erről beszélt Varga Judit is a hírhedt diktafonos felvételen is."
+    },
     {
       "title": "Mark Carney örülhet, nagyot bukott az albertai szeparatista mozgalom",
       "link": "https://444.hu/2026/10/20/mark-carney-orulhet-nagy-pofont-kapott-az-albertai-szeparatista-mozgalom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -92,195 +76,125 @@
       "title": "Kövér László: Az oktatási rendszer rosszabb állapotban van, mint 16 éve",
       "link": "https://444.hu/2026/10/20/kover-laszlo-az-oktatasi-rendszer-rosszabb-allapotban-van-mint-16-eve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A volt házelnök a KözBeszédnek adott interjújában engedett meg magának némi önkritikus hangnemet."
-    },
-    {
-      "title": "A Demokratikus Koalíció elkezdte a terepmunkát",
-      "link": "https://444.hu/2026/10/20/a-demokratikus-koalicio-elkezdte-a-terepmunkat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Nyugati téren."
-    },
-    {
-      "title": "Zebegény kiskirálya megint nem hagyta, hogy feloszlassa magát a képviselő-testület",
-      "link": "https://444.hu/2026/10/20/zebegeny-kiskiralya-megint-nem-hagyta-hogy-feloszlassa-magat-a-kepviselo-testulet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ferenczy Ernő fél éve különböző eszközökkel akadályozza, hogy új választást tarthassanak a településen. A jegyző visszautasította, hogy ő asszisztálna ehhez, de azt is mondta: nem fogja a polgármester kezét hátracsavarni, ha nem veszi napirendre az önfeloszlatást."
-    },
-    {
-      "title": "Magyar Péter Budapesten fogadta az izraeli elnököt",
-      "link": "https://444.hu/2026/10/20/magyar-peter-budapesten-fogadta-az-izraeli-elnokot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Jichák Hercog találkozott magyar kollégájával, Baka Andrással is."
-    },
-    {
-      "title": "„Hogy ha lesz egy csettintés, legyünk, akik erre válaszolunk. De fog-e valaki csettinteni?” – ilyen volt az első DPK-tábor",
-      "link": "https://444.hu/2026/10/20/hogy-ha-lesz-egy-csettintes-legyunk-akik-erre-a-valaszolunk-de-fog-e-valaki-csettinteni-ilyen-volt-az-elso-dpk-tabor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A hétvégén Lakiteleken találkozott a volt kormánypárt Digitális Polgári Körökbe szerveződött kemény magja. A Hungarikum Ligetben tartott tábor hivatalos programjai mellett a kiscsoportos beszélgetéseken került igazán elő a kérdés: hogyan tovább a választási vereség után? Aztán megérkezett Orbán Viktor, és egyetlen mondattal agyoncsapta az egész mozgolódást."
-    },
-    {
-      "title": "Az ukrán nagykövet szerint még idén találkozik Magyar Péter és Volodimir Zelenszkij",
-      "link": "https://444.hu/2026/10/20/az-ukran-nagykovet-szerint-meg-iden-talalkozik-magyar-peter-es-volodimir-zelenszkij?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az Európai Unió kérésére mindkét vezető rábólintott a találkozóra."
-    },
-    {
-      "title": "Véget ér a román kormányválság, a negyedik miniszterelnök-jelöltet megszavazta a parlament",
-      "link": "https://444.hu/2026/10/20/veget-er-a-roman-kormanyvalsag-a-negyedik-miniszterelnok-jeloltet-megszavazta-a-parlament?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A pártok csaknem fél évig nem tudtak megegyezni, ki legyen Ilie Bolojan utódja."
-    },
-    {
-      "title": "Junior Prima díjat kapott Bábel Vilmos, a 444 újságírója",
-      "link": "https://444.hu/2026/10/20/junior-prima-dijat-kapott-babel-vilmos-a-444-ujsagiroja?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Fontos cikkek egész sorát írta meg az elmúlt egy évben, most megkapta a kiemelkedő 30 év alatti tehetségeknek járó díjat."
-    },
-    {
-      "title": "Kármán András a 2027-es költségvetésről: A nemzetközi energiaárak jelentik a legkomolyabb kockázatot",
-      "link": "https://444.hu/2026/10/20/karman-andras-a-2027-es-koltsegvetesrol-a-nemzetkozi-energiaarak-jelentik-a-legkomolyabb-kockazatot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A reklámadó a tervek szerint 3,75 százalék lesz, és a nemzetközi platformoknak is fizetniük kell. A 15 százalékosra emelt társasági adó 3000-5000 céget érinthet. Az állam úgynevezett rezsivédelmi kiadásait 232 milliárddal emelik."
-    },
-    {
-      "title": "Polyák Gábor bocsánatot kért a Klubrádiótól, de nem gondolja, hogy automatikusan járna a rádiónak a frekvencia",
-      "link": "https://444.hu/2026/10/20/polyak-gabor-bocsanatot-kert-a-klubradiotol-de-nem-gondolja-hogy-automatikusan-jarna-a-radionak-a-frekvencia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Viszont rövidesen új frekvenciapályázatot hirdet a Médiatanács, amire a Klubrádió is pályázhat."
-    },
-    {
-      "title": "„Hogyne tértem volna vissza? Itt van a családom” – ilyen az élet a halál után a városban, ami kétszer is gazdát cserélt",
-      "link": "https://444.hu/2026/10/20/hogyne-tertem-volna-vissza-itt-van-a-csaladom-ilyen-az-elet-a-halal-utan-a-varosban-ami-ketszer-is-gazdat-cserelt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Mihajlo a feleségét, a lányát és három unokáját is elveszítette, amikor 2022 márciusában az oroszok lebombázták a házat, ahol éltek. Miután az oroszok megszállták Izjumot, a férfinak is menekülnie kellett, de a város felszabadítása után visszaköltözött."
-    },
-    {
-      "title": "Ötszáz katonát vezényel Milánóba az olasz kormány a napok óta tartó tüntetések és fosztogatások után",
-      "link": "https://444.hu/2026/10/20/otszaz-katonat-vezenyel-milanoba-az-olasz-kormany-a-napok-ota-tarto-tuntetesek-es-fosztogatasok-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Hétvégére újabb tüntetéseket jelentettek be."
-    },
-    {
-      "title": "Házkutatást tartott a Petőfi-film ügyében vizsgálódó NAV a Nemzeti Filmintézetben",
-      "link": "https://444.hu/2026/10/20/hazkutatast-tartott-a-petofi-film-ugyeben-vizsgalodo-nav-a-nemzeti-filmintezetben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kutatás célja a Most vagy soha! című film által igénybe vett támogatások igényléséhez, odaítéléséhez, folyósításához, elszámolásához, valamint a játékfilm megvalósításához kötődő iratok, illetve egyéb tárgyi bizonyítási eszközök felkutatása és lefoglalása."
     }
   ],
   "HVG": [
     {
-      "title": "Az ukránok soha nem látott módon, egy nagy teherbírású drónnal mentettek ki egy sebesült katonát a frontvonalról",
-      "link": "https://hvg.hu/vilag/20261020_ukran-dron-menekites-frontvonal-sebesult-katona",
-      "summary": "Egy olyan katonát kellett kiszabadítani, aki már 491 napja vesztegelt egy oroszok által körülvett megfigyelőálláson."
+      "title": "A ChatGPT-t is beveszi a végrendeletébe egy anya, hogy gondoskodjon a fiáról",
+      "link": "https://hvg.hu/tudomany/20261021_chatgpt-mesterseges-intelligencia-vegrendelet-gyermekneveles",
+      "summary": "Végrendeletben rögzítené egy Abu-Dzabiban élő édesanya, hogy gyermeke gyámja a jövőben kérje ki a mesterséges intelligencia tanácsát a gyermek életét érintő döntésekkel kapcsolatban."
     },
     {
-      "title": "Meloni: Öt év börtönt kaphat, aki erőszakos tüntetésen vesz részt",
-      "link": "https://hvg.hu/vilag/20261020_meloni-olaszorszag-eroszakos-tuntetes-milano",
-      "summary": "Súlyosbító körülmény, ha az elkövető eltakarja az arcát vagy megsebesít valakit."
+      "title": "Fának csapódott a motoros, az elé kanyarodó autós meg sem állt",
+      "link": "https://hvg.hu/cegauto/20261021_fanak-csapodott-a-motoros-az-ele-kanyarodo-autos-meg-sem-allt",
+      "summary": "Az autóst korábban eltiltották a vezetéstől."
     },
     {
-      "title": "Gál Kinga lett a Patrióták Európáért EP-képviselőcsoport társ-frakcióvezetője",
-      "link": "https://hvg.hu/gazdasag/20261020_gal-kinga-patriotak-europaert-ep-kepviselocsoport-tars-frakciovezeto",
-      "summary": "A Fidesz szerint nagy siker Gál megválasztása, mert még soha nem volt EP-frakcióvezető magyar képviselő."
+      "title": "Óriásrazzia volt az MNB-ügyben, az ügyészség mellett az NNI, a BRFK, az NVSZ és a KR részvételével",
+      "link": "https://hvg.hu/gazdasag/20261021_mnb-ugy-razzia",
+      "summary": "Több helyszínen megjelent az ügyészség az MNB-ügyben, de részleteket nem árultak el."
     },
     {
-      "title": "Magyar Péter: Csoda, hogy Kármán Andrásnak maradt még hajszála a költségvetés összeállítása után",
-      "link": "https://hvg.hu/itthon/20261020_magyar-peter-karman-andras-hajszal-koltsegvetes-ebx",
-      "summary": "A miniszterelnök szerint kemény alkudozások mentek a miniszterek között a büdzsé megtárgyalásakor. Bár vétózás végül nem volt, de az megesett, hogy valaki azt mondta, ezt így nem tudja elfogadni."
+      "title": "Súlyosan káros lehet az egészségre egy nyomkodható gyerekjáték",
+      "link": "https://hvg.hu/elet/20261021_nyomkodhato-gyerekjatek-vizsgalat-karos-egeszseg-vegyszerek",
+      "summary": "A vizsgált squishy játékok 89 százaléka megbukott a kormányhivatalok ellenőrzésén."
     },
     {
-      "title": "A Honvédelmi és Rendvédelmi Bizottság leszavazta a Covid-oltatlan katonák rehabilitációját",
-      "link": "https://hvg.hu/itthon/20261020_oltatlan-katonak-koronavirus-honvedelmi-rendvedelmi-bizottsag-parlament-rehabilitacio",
-      "summary": "A miniszter zárt ajtók mögött tudta ismertetni és indokolni az álláspontját, de a tiszás képviselők jogtechnikai problémákat is találtak a javaslatban. A világjárvány alatt több száz katonát küldtek úgy fizetés nélküli szabadságra, hogy nem vállalhattak közben másodállást."
+      "title": "Kisebb földrengés volt Székesfehérvár közelében",
+      "link": "https://hvg.hu/itthon/20261021_kisebb-foldrenges-volt-szekesfehervar-kozeleben",
+      "summary": "Az erőssége 2-es volt, károkról nem érkezett bejelentés."
     },
     {
-      "title": "Még mindig hiába vár a pénzére Havasi Bertalan, aki szerint túl jól áll a költségvetés",
-      "link": "https://hvg.hu/itthon/20261020_havasi-bertalan-magyar-peter-illetmeny-meghosszabbitott-hatarido-eljaras-felfuggesztes",
-      "summary": "A Fidesz kommunikációs igazgatója a felmentési időre járó pénzét követeli Magyar Pétertől, miután a Miniszterelnökség májusban felmentette pozíciójából."
+      "title": "A Ferrari vezérét lenyűgözte a Tesla repülő autós őrültsége",
+      "link": "https://hvg.hu/cegauto/20261021_a-ferrari-vezeret-lenyugozte-a-tesla-orult-repulo-autoja",
+      "summary": "Szerinte ilyen ötletekre van szükség, hogy érdekesek legyenek az autók."
     },
     {
-      "title": "Búcsúzik a Subaru legendás boxermotorja, Európában teljesen átalakul a kínálat",
-      "link": "https://hvg.hu/cegauto/20261020_subaru-boxermotor-bucsu-europa-elektromos-autok",
-      "summary": "A ralis bubogás lassan a múlté lehet."
+      "title": "Szerb pénzügyminiszter: aláírták a szerbiai NIS orosz tulajdonrészének eladásáról szóló szerződést a Mollal",
+      "link": "https://hvg.hu/gazdasag/20261021_mol-nis-szerbia-szerzodes-alairas",
+      "summary": "Sinisa Mali megerősítette, hogy az ügylet nyomán növekedne Szerbia részesedése a vállalatban. Elmondása szerint írásos megállapodás született arról, hogy a szerb állam tulajdonrésze mintegy 30-ról 35 százalékra emelkedjen."
     },
     {
-      "title": "Baj van a Telekomnál: sokaknál nem megy a TV",
-      "link": "https://hvg.hu/tudomany/20261020_magyar-telekom-tv-uzemzavar-leallas",
-      "summary": "Fennakadások vannak a Telekom TV-szolgáltatásában. A cég szakemberei már dolgoznak a hiba elhárításán."
+      "title": "Vitézy Dávid és Takács Árpád egymásnak feszültek Mészáros Lőrinc volt veje miatt",
+      "link": "https://hvg.hu/kkv/20261021_vitezy-takacs-homlok-zsolt-kozbeszerzes-meszaros-cicaharc",
+      "summary": "A fideszes képviselő szerint politikai bosszú miatt vesztett el egy közbeszerzést egymilliárd forinttal kedvezőbb ajánlatával Mészáros Lőrinc exveje, Homlok Zsolt. A közlekedési miniszter szerint az egész közbeszerzés a Fidesz-korszakban bonyolódott. Egyébként minden arra utal, hogy Mészáros Lőrinc cseppet sem kedveli a volt vejét."
     },
     {
-      "title": "A nagy Lebowski Jézusa most zsebtolvajnak áll – interjú John Turturróval",
-      "link": "https://hvg.hu/360/20261020_john-turturro-interju-zsebtolvaj-new-york-coen-testverek-buscemi-gandolfini",
-      "summary": "Úgy senki sem tud bowlinggolyót nyalogatni, mint ő. A nagy Lebowskiról, Steve Buscemiről és az éneklő James Gandolfiniről is beszélgettünk John Turturróval, akinek új filmje, Az utolsó New York-i zsebtolvaj csütörtökön kerül a mozikba."
+      "title": "Korrupció, kegyencrendszer és hasra esés – Orbánt leléptették a magyarok, minta nélkül maradtak a MAGA-republikánusok?",
+      "link": "https://hvg.hu/360/20261021_lapszemle-orbanizmus-trump-amerikai-jobboldal-magyarorszag",
+      "summary": "Hiába tűnt vonzónak az amerikai politika szereplőinek a magyar illiberális példa, ez a politika nem dob nagyot az életszínvonalon, ezért nem tudja megnyerni a szavazók jelentős részét – fejti ki Brian Goodman, az Arizonai Állami Egyetem tanára. Kérdés, mi lesz most a posztliberalizmussal, hogy az orbáni modellnek vége."
     },
     {
-      "title": "Elutasította a bíróság Sam Altman húgának a keresetét, amiben gyerekkori szexuális bántalmazással vádolta az OpenAI vezetőjét",
-      "link": "https://hvg.hu/tudomany/20261020_sam-altman-szexualis-bantalmazas-kereset-open-ai",
-      "summary": "A bíróság azután utasította el a nő keresetét, hogy nem jelent meg a kötelező, független orvosi vizsgálaton."
+      "title": "Vissza kell fizetnie 130 milliót a telkén épült luxusvilla kinézetű borfeldolgozó miatt a volt mádi polgármesternek",
+      "link": "https://hvg.hu/itthon/20261021_mad-tatarka-jozsef-boraszat-luxusvilla-hadhazy-integritas-hatosag",
+      "summary": "Az ügyben Hadházy Ákos tett bejelentést az Integritás Hatóságnál."
     },
     {
-      "title": "Meghalt Kyle Kennedy, Robert és Ethel Kennedy unokája",
-      "link": "https://hvg.hu/elet/20261020_meghalt-kyle-kennedy-robert-es-ethel-kennedy-lanyunokaja",
-      "summary": "A hatóságok nem tudják, mi okozta a halálát a 2020-ban súlyos gerincvelő-sérülést szenvedett nőnek."
+      "title": "Bedugult Budapest környéke: 12 kilométeres kocsisor az M0-son, 9 kilométeres az M5-ösön",
+      "link": "https://hvg.hu/cegauto/20261021_m0-m5-autopalya-dugo-torlodas-baleset",
+      "summary": "A helyzet persze a főváros szinte minden részére kihat."
     },
     {
-      "title": "Különleges mezzel ünnepli a Ferencváros az '56-os forradalom 70. évfordulóját",
-      "link": "https://hvg.hu/elet/20261020_ferencvaros-56-forradalom-szabadsagharc-70-evfordulo-mez",
-      "summary": "Arról is megemlékeznek, hogy a klub 1956-ban kapta vissza a nevét és a színeit."
+      "title": "Két megállapodás volt a Fidesz és a 100 milliárd forintot elégető Gondosóra-program között",
+      "link": "https://hvg.hu/gazdasag/20261021_gondosora-koltseg-4ig-fidesz-adatkezeles-aktivistak-aktivalas",
+      "summary": "A Gondosóra fenntartója először 2023-ban, majd 2025-ben szerződött a Fidesszel, a párt aktivistái így vehette részt a programban részt vevő idősek felkeresésében. A programra a költségvetés 106 milliárd forintot költött – eredetileg uniós pénzből valósult volna meg, de a problémák miatt kivették az uniós finanszírozásból."
     },
     {
-      "title": "Itt egy 90%-os megoldás az örök vegyi anyagok problémájára",
-      "link": "https://hvg.hu/tudomany/20261020_orok-vegyi-anyag-megsemmisitese-szuro-membran-palladium",
-      "summary": "Amerikai kutatók egy olyan, palládiummal bevont membránt készítettek, ami képes feltörni a szén és a fluor közötti rendkívül erős kötést."
+      "title": "Vége van, nem kap több frissítést a Windows, amit mai napig milliók használnak",
+      "link": "https://hvg.hu/tudomany/20261021_microsoft-windows-11-24h2-tamogatas-vege-frissitesek",
+      "summary": "Rengeteg felhasználót érinthet a Microsoft döntése, amelynek értelmében lekerült a támogatott Windows 11-kiadások listájáról a 24H2."
     },
     {
-      "title": "Justitia visszatért – bejártuk a Kúria megújult épületét és megnéztük, mire költöttek 41 milliárdot",
-      "link": "https://hvg.hu/kultura/20261020_justitia-visszatert-bejartuk-a-kuria-megujult-epuletet-es-leesett-az-allunk",
-      "summary": "A Kúria épületének felújítása a NER kevés épeszű, nem lopásra optimalizált, felesleges kivagyiságot és hamis múltteremtést célzó projektjeinek egyike. Átgondolt műemléki rekonstrukcióról van szó, amelyhez csupán a tetőtérben illesztették hozzá a vitatott bírói klubot."
+      "title": "Kivégeztek egy 77 éves férfit Floridában",
+      "link": "https://hvg.hu/vilag/20261021_kivegzes-florida-vietnami-veteran-usa",
+      "summary": "William Reevest egy 1986-ban elkövetett gyilkosságért ítélték halálra, majd több mint 30 évet töltött a halálsoron."
     },
     {
-      "title": "A kételkedés teheti megbízhatóbbá a mesterséges intelligenciát",
-      "link": "https://hvg.hu/tudomany/20261020_mesterseges-intelligencia-megbizhatosag-ketelkedes-magyar-kutatas",
-      "summary": "Nemcsak jó döntést kell hozni, hanem azt is fel kell mérni, mennyire biztos az adott döntés. Egy magyar-argentin kutatócsoport olyan módszert dolgozott ki, amely javítja a mélytanuló rendszerek bizonytalanságkezelését."
+      "title": "Magyarországon a Mercedes akár 1169 lóerős őrült sport SUV-ja",
+      "link": "https://hvg.hu/cegauto/20261021_magyarorszagon-az-akar-1169-loeros-mercedes-amg-gt-suv",
+      "summary": "Megkezdődött a pár napja leleplezett Mercedes-AMG GT SUV hivatalos hazai forgalmazása."
     }
   ],
   "BBC": [
     {
-      "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\"."
+      "title": "Lawyer caught by BBC offering to make illegal-worker fine go away",
+      "link": "https://www.bbc.co.uk/news/articles/c30rln4pz58xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Because of our investigation, the home secretary has ordered a review of how fines are issued and collected."
     },
     {
-      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+      "link": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
+    },
+    {
+      "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
       "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington."
+      "summary": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine."
     },
     {
-      "title": "UK government to make Jackdaw gas field announcement",
-      "link": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-    },
-    {
-      "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-      "link": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
-    },
-    {
-      "title": "King praises Strait of Hormuz peace efforts at glittering banquet",
+      "title": "King praises Oman's Strait of Hormuz peace efforts at glittering banquet",
       "link": "https://www.bbc.co.uk/news/articles/c8040qgryqd3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Sultan of Oman, leader of a Middle Eastern strategic partner, is welcomed to Windsor for a state visit."
     },
     {
-      "title": "Elon Musk says Tesla-SpaceX merger being considered",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history."
     },
     {
-      "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
+      "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+      "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
+    },
+    {
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "link": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "summary": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
     },
     {
       "title": "Schools should recognise antisemitism as distinct form of harm, review says",
       "link": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
       "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
-    },
-    {
-      "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
-      "link": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault."
-    },
-    {
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The closures are announced as the corporation continues to try to save £500m over two years."
     },
     {
       "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
@@ -293,9 +207,9 @@
       "summary": "It is 60 years since one of Wales' darkest days, when a mining community changed forever."
     },
     {
-      "title": "Ali G is back. But is the character past its sell-by date?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse."
+      "title": "Lyse Doucet: Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
     },
     {
       "title": "I left state secrets on the train - I'm proof you can recover from the biggest mistake of your life",
@@ -303,16 +217,26 @@
       "summary": "Top civil servant Richard Jackson recounts that fateful day and how he recovered in the aftermath."
     },
     {
-      "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
-      "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+      "title": "Sex, lies and police spies: The disputed story of the 'creepy' undercover officer",
+      "link": "https://www.bbc.co.uk/news/articles/c4gm2dlrxlgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Andrew Coles denies claims he deceived a young woman into sex while infiltrating an activist group."
+    },
+    {
+      "title": "Watch: BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+      "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
+    },
+    {
+      "title": "The Papers: 'Burnham faces climate revolt' and 'Harry wants to fix feud'",
+      "link": "https://www.bbc.co.uk/news/articles/c84g1qyvvkgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several papers lead on remarks from the Duke of Sussex yesterday, where he said he hoped to reconcile with his family."
     }
   ],
   "TechCrunch": [
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
       "title": "SpaceX and Tesla boards form special committees to review merger",
@@ -322,7 +246,7 @@
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
       "title": "Anthropic’s cloud partnerships are getting messy",
@@ -332,7 +256,7 @@
     {
       "title": "SpaceX’s AI business is beating expectations",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
@@ -345,7 +269,7 @@
       "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving."
     },
     {
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy."
     },
@@ -362,15 +286,15 @@
     {
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+      "summary": "Eric Schmidt’s fortune is about to get even bigger."
     },
     {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals."
+      "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals."
     },
     {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
       "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
       "summary": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
     },
@@ -386,6 +310,11 @@
     }
   ],
   "Nature": [
+    {
+      "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+      "link": "https://www.nature.com/articles/d41586-026-03355-x",
+      "summary": "<p>Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03355-x\">doi:10.1038/d41586-026-03355-x</a></p>The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely out of reach."
+    },
     {
       "title": "Is it ‘moon-stroke’, or a chill?",
       "link": "https://www.nature.com/articles/d41586-026-02975-7",
@@ -455,11 +384,6 @@
       "title": "Nepal’s disaster is an urgent wake-up call",
       "link": "https://www.nature.com/articles/d41586-026-03314-6",
       "summary": "<p>Nature, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03314-6\">doi:10.1038/d41586-026-03314-6</a></p>Record-breaking avalanches and floods are signs of things to come. Scientists must evaluate and respond to growing risks in mountain regions."
-    },
-    {
-      "title": "Toxic chemicals in fentanyl revealed by speedy technique",
-      "link": "https://www.nature.com/articles/d41586-026-03317-3",
-      "summary": "<p>Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03317-3\">doi:10.1038/d41586-026-03317-3</a></p>Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug."
     }
   ]
 }

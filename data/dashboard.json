@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Kövér László: Az oktatási rendszer rosszabb állapotban van, mint 16 éve",
-      "summary": "Kövér László, az Országgyűlés elnöke szerint az oktatási rendszer állapota rosszabb, mint 16 évvel ezelőtt. A házelnök ezzel a kormány oktatáspolitikáját is kritizálta.",
+      "title": "Óriásrazzia volt az MNB-ügyben, az ügyészség mellett az NNI, a BRFK, az NVSZ és a KR részvételével",
+      "summary": "Több hatóság bevonásával nagyszabású razziát tartottak egy MNB-ügyben, melynek részletei még tisztázatlanok. Az akció során számos helyszínen vizsgálódtak, jelezve az ügy komolyságát.",
+      "importance": 5
+    },
+    {
+      "title": "Olyan súlyosan roncsolódtak a terepjáróval szándékosan elgázolt képviselőnő lábai, hogy mindkettőt amputálni kellett",
+      "summary": "Egy képviselőnő lábai súlyosan megsérültek, miután szándékosan elgázolták egy terepjáróval, ami miatt mindkettőt amputálni kellett. Az eset kapcsán büntetőeljárás indult a tettes ellen.",
+      "importance": 5
+    },
+    {
+      "title": "A NER működésének sötét titkaiba láthatunk bele, ha tényleg kitálal a volt főügyész",
+      "summary": "Egy volt főügyész esetleges kitálalása rávilágíthat a NER működésének eddig rejtett részleteire és esetleges sötét titkaira. Ez komoly politikai következményekkel járhat.",
       "importance": 4
     },
     {
-      "title": "Magyar Péter: A rezsicsökkentés megtartásában nem, a családtámogatások kérdésében viszont nagy vita volt a kormányban",
-      "summary": "Magyar Péter állítása szerint a kormányon belül heves vita zajlott a családtámogatásokról, bár a rezsicsökkentés fenntartásában nem volt nézeteltérés. Ez rávilágít a kormány belső működésére és prioritásaira.",
-      "importance": 5
-    },
-    {
-      "title": "Lakos Esztert a Tiszából a legnagyobb európai parlamenti frakció egyik alelnökévé választották",
-      "summary": "Lakos Eszter, a Tisza Párt EP-képviselője a legnagyobb európai parlamenti frakció (Renew Europe) egyik alelnökévé vált. Ez történelmi siker a magyar politikusok számára, hiszen korábban nem töltött be magyar képviselő ilyen magas tisztséget egy ekkora frakcióban.",
-      "importance": 5
-    },
-    {
-      "title": "Házkutatást tartott a Petőfi-film ügyében vizsgálódó NAV a Nemzeti Filmintézetben",
-      "summary": "A Nemzeti Adó- és Vámhivatal (NAV) házkutatást végzett a Nemzeti Filmintézetben, a Petőfi-film körüli vizsgálat részeként. Az intézkedés a közpénzek felhasználásának átláthatóságával kapcsolatos aggályokat veti fel.",
+      "title": "Kövér László: Az oktatási rendszer rosszabb állapotban van, mint 16 éve",
+      "summary": "Kövér László nyilatkozata szerint az oktatási rendszer állapota az elmúlt 16 év legrosszabb szintjén van. Ez a kritika az oktatásügyben szükséges sürgős változásokra hívja fel a figyelmet.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij szerint Ukrajna nem veszíti el a háborút, de embereit igen",
-      "summary": "Volodimir Zelenszkij ukrán elnök kijelentette, hogy Ukrajna nem fogja elveszíteni a háborút, de hangsúlyozta az emberi veszteségek tragédiáját. Ez a háború elhúzódó és emberéleteket követelő természetére mutat rá.",
+      "title": "Az amerikaiak még nem adták fel: Witkoff azért megy szerdán Moszkvába, hogy mégis megpróbálja egy asztalhoz ültetni Putyint Zelenszkijjel és Trumppal",
+      "summary": "Az amerikai különmegbízott Moszkvába utazik azzal a céllal, hogy békés tárgyalásokra ösztönözze Putyint, Zelenszkijt és Trumpot. Ez a lépés az ukrajnai konfliktus diplomáciai rendezésére irányuló erőfeszítések része.",
       "importance": 5
     },
     {
-      "title": "Olaszországban öt év börtönt is kaphatnak az erőszakos tüntetők, a fiatalok büntethetősége is szigorodik",
-      "summary": "Az olasz kormány törvényt fogadott el, mely szerint akár öt év börtönbüntetés is járhat az erőszakos tüntetéseken való részvételért. Ez a lépés a közelmúltbeli zavargások és fosztogatások visszaszorítását célozza.",
+      "title": "Pár nap alatt 250 embert gyilkoltak meg a drónok az olajban gazdag Abyeiben",
+      "summary": "Az olajban gazdag Abyei régióban dróntámadások következtében 250 ember vesztette életét néhány nap alatt. A tragédia rávilágít a térség feszült biztonsági helyzetére és a civil áldozatok számára.",
+      "importance": 5
+    },
+    {
+      "title": "A megélhetési válság miatt Európa-szerte utcára vonulnak az emberek, a tüntetésekre pedig örömmel rácsatlakoznak a vandálok és fosztogatók is",
+      "summary": "A megélhetési válság miatt Európa-szerte tüntetések robbantak ki, melyekhez gyakran vandálok és fosztogatók is csatlakoznak. Ez a helyzet komoly társadalmi feszültségeket és biztonsági kihívásokat okoz.",
       "importance": 4
     },
     {
-      "title": "Az ukránok drónra kötözve mentettek ki egy sebesült katonát a frontvonalról",
-      "summary": "Az ukrán erők egyedülálló módon, nagy teherbírású drón segítségével mentettek ki egy sebesült katonát a frontvonalról. Ez a módszer új lehetőségeket nyit a sebesültmentésben a modern hadviselésben.",
+      "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+      "summary": "Franciaország megosztott abban a kérdésben, hogy kit terhel a felelősség a zavargásokért és milyen tanulságokat kellene levonni belőlük. A társadalmi feszültségek és a mélyreható problémák továbbra is megosztják az országot.",
       "importance": 4
-    },
-    {
-      "title": "Az EU egyezkedne az USA-val a Nemzetközi Büntetőbíróság elleni szankciók visszavonásáról",
-      "summary": "Az Európai Unió tárgyalásokat kezdeményezne az Egyesült Államokkal a Nemzetközi Büntetőbíróság elleni szankciók visszavonásáról. Ez a diplomáciai lépés a kétoldalú kapcsolatok és a nemzetközi jogrend erősítését célozza.",
-      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Elon Musk szerint a Tesla és a SpaceX egyesülése is elképzelhető",
-      "summary": "Elon Musk bejelentette, hogy a Tesla és a SpaceX egyesülésének lehetőségét fontolgatják, melynek vizsgálatára már különbizottságok is alakultak. Egy ilyen lépés gyökeresen átalakíthatja a technológiai és űripari piacot.",
+      "title": "SpaceX and Tesla boards form special committees to review merger",
+      "summary": "A SpaceX és a Tesla igazgatótanácsai különbizottságokat hoztak létre a két vállalat esetleges egyesülésének felülvizsgálatára. Ez a lépés jelentős átalakulást hozhat Elon Musk birodalmában.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic egy olyan AI biztonsági törvényjavaslatot dolgoz ki, ami 50+ ember halála esetén blokkolhatná a modelleket",
-      "summary": "Az Anthropic egy olyan mesterséges intelligencia biztonsági törvényjavaslatot terjesztene elő, amely blokkolhat egy AI modellt, ha az potenciálisan több mint 50 ember halálát okozhatja. Ez komoly etikai és szabályozási kérdéseket vet fel az AI fejlesztésében.",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary": "Az Anthropic mesterséges intelligencia biztonsági törvényjavaslatot terjesztett elő, amely korlátozná azokat az AI-modelleket, amelyek potenciálisan több mint 50 ember halálát okozhatják. A javaslat az AI etikai és biztonsági kihívásaira fókuszál.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI felvásárolta az Orchestra Biot, hogy megerősítse biotechnológiai üzletágát",
-      "summary": "Az OpenAI felvásárolta az Orchestra Bio nevű startupot, ezzel erősítve pozícióját a biotechnológiai szektorban. A lépés az AI alkalmazási területeinek bővülését jelzi.",
+      "title": "Vége van, nem kap több frissítést a Windows, amit mai napig milliók használnak",
+      "summary": "Egy széles körben használt Windows verzió már nem kap több frissítést, ami biztonsági kockázatokat jelenthet milliók számára. A felhasználóknak érdemes mihamarabb újabb verzióra váltaniuk.",
       "importance": 4
     },
     {
-      "title": "A Google az Amazon után támadja az Nvidia dominanciáját az AI appfejlesztők piacán",
-      "summary": "A Google az Amazon mellé állva kezdte ki az Nvidia dominanciáját az AI alkalmazásfejlesztők piacán. Ez fokozódó versenyt jelez a mesterséges intelligencia hardver és platform szektorában.",
+      "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+      "summary": "A Google a Gemini AI asszisztens személyesebb verzióját hozza el az autókba, ami tovább integrálja a mesterséges intelligenciát a mindennapi életbe. Ez új lehetőségeket nyit meg az autózás és az interakció terén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Új fosszília-leletek kérdőjelezik meg a Föld öt nagy tömeges kihalási eseményéről szóló elméletet",
-      "summary": "Egy újonnan felfedezett, hatalmas fosszília-gyűjtemény megkérdőjelezi a Föld öt nagy kihalási eseményéről alkotott jelenlegi elképzeléseket. Ez a felfedezés átírhatja bolygónk őstörténetét és az élővilág fejlődésének megértését.",
+      "title": "Global emissions slow — but world hurtles towards 2 °C of warming",
+      "summary": "Bár a globális károsanyag-kibocsátás lassul, a világ továbbra is gyors ütemben halad a 2 °C-os felmelegedési határ felé. Ez aggasztó kilátásokat vetít előre a klímaváltozás elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "90%-os megoldást találtak az \"örök vegyi anyagok\" (PFAS) problémájára",
-      "summary": "Tudósok 90%-os hatékonyságú megoldást találtak az \"örök vegyi anyagok\" (PFAS) problémájára, amelyek a környezetben felhalmozódva veszélyeztetik az egészséget. Ez az áttörés jelentős lépés a környezeti szennyezés elleni küzdelemben.",
+      "title": "Body clock disruptions contribute to one in four cases of depression, suggests large study",
+      "summary": "Egy nagyszabású tanulmány szerint a szervezet belső órájának zavarai hozzájárulnak a depressziós esetek negyedéhez. Ez a felfedezés új utakat nyithat a depresszió kezelésében és megelőzésében.",
+      "importance": 5
+    },
+    {
+      "title": "Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions",
+      "summary": "Egy új, hatalmas fosszilis leletanyag megkérdőjelezi a Föld öt nagy kihalási eseményéről szóló eddigi elméletet. Ez a felfedezés átírhatja a bolygó történelmének megértését.",
       "importance": 4
     },
     {
-      "title": "Egy nagyszabású tanulmány szerint a depressziós esetek negyedéhez hozzájárulnak a biológiai óra zavarai",
-      "summary": "Egy nagyszabású tanulmány szerint a depressziós esetek negyedéhez hozzájárulnak a biológiai óra zavarai. Ez a felismerés új utakat nyithat a depresszió megelőzésében és kezelésében.",
+      "title": "Europe and the rest of the world must come up with an answer to US science strategy",
+      "summary": "Európának és a világ többi részének választ kell adnia az Egyesült Államok tudományos stratégiájára, hogy megőrizze versenyképességét a globális kutatási és fejlesztési területen. Ez a felhívás a nemzetközi tudományos együttműködés fontosságát hangsúlyozza.",
       "importance": 4
-    },
-    {
-      "title": "Gyors technikával azonosították a fentanilban lévő mérgező vegyi anyagokat",
-      "summary": "Egy gyors és hatékony technika segítségével azonosították a fentanilban található mérgező vegyi anyagokat. Ez a módszer kulcsfontosságú lehet a drogelemzésben és a közegészségügyi beavatkozásokban.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Liverpool hétgólos meccsen verte Gulácsiékat a BL-ben, nagy gólokat láttunk a PSG-Barcán",
-      "summary": "A Bajnokok Ligája mérkőzésein a Liverpool magabiztos győzelmet aratott Gulácsi Péter csapata ellen, míg a PSG és a Barcelona rangadóján is számos látványos gól esett. Az európai futball elitje újabb izgalmas fordulót hozott.",
-      "importance": 5
+      "title": "Magyarországon a Mercedes akár 1169 lóerős őrült sport SUV-ja",
+      "summary": "Magyarországon is megjelent a Mercedes egy extrém, 1169 lóerős sport SUV modellje, amely a luxus és a kiemelkedő teljesítmény ötvözését képviseli. Az autógyártó ezzel a sportos és erőteljes modellel célozza meg a vásárlókat.",
+      "importance": 3
     },
     {
-      "title": "Különleges mezzel ünnepli a Ferencváros az '56-os forradalom 70. évfordulóját",
-      "summary": "A Ferencváros labdarúgócsapata egyedi, emlékmezzel tiszteleg az 1956-os forradalom és szabadságharc 70. évfordulója előtt. Ezzel a gesztussal a sportklub a nemzeti történelmi esemény jelentőségét emeli ki.",
-      "importance": 4
+      "title": "Fának csapódott a motoros, az elé kanyarodó autós meg sem állt",
+      "summary": "Egy motoros fának csapódott, miután egy autó hirtelen elé kanyarodott, melynek vezetője nem állt meg a baleset után. Az eset rávilágít a közúti biztonság fontosságára és a motorosok veszélyeztetettségére, akik gyakran vesznek részt sporttevékenységekben.",
+      "importance": 2
+    },
+    {
+      "title": "A Ferrari vezérét lenyűgözte a Tesla repülő autós őrültsége",
+      "summary": "A Ferrari vezérigazgatóját lenyűgözte a Tesla repülő autóval kapcsolatos innovációja, mely a technológia és a mobilitás jövőjét feszegeti. Ez a hír a gyors, extrém teljesítményű járművek iránti érdeklődésre utal, amelyek szorosan kapcsolódnak a motorsport kultúrához.",
+      "importance": 2
+    },
+    {
+      "title": "Büntetőeljárás fenyegeti Héder Barnát, 50 millió forinttal tartozik, senki sem tudja elérni, a cégét felszámolják",
+      "summary": "Héder Barnát, ismert sportkommentátort és újságírót büntetőeljárás fenyegeti jelentős adósságai miatt, cégét felszámolják. Ez a hír egy, a magyar sportvilághoz szorosan köthető közéleti személyiség problémáiról szól.",
+      "importance": 1
     }
   ]
 }

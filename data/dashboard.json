@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Matolcsyék hatalmas céghálót építettek magántőkealapok mögé bújva",
-      "summary": "A jegybank volt vezetője, Matolcsy György családjához köthető, bonyolult céghálózatot lepleztek le, amely magántőkealapok mögé bújtatva működött. A jelentés szerint a csoport végül egy „világ legbénább csalásával” buktatta le magát.",
+      "title": "A főváros megkapta a kormány 120 milliárdos támogatását, de 90 milliárdot levontak szolidaritási adóként",
+      "summary": "Budapest megkapta a kormánytól a 120 milliárd forintos támogatást, ám ebből azonnal levontak 90 milliárd forint szolidaritási adót. Ez a lépés jelentős vitát váltott ki a főváros és a kormány között az önkormányzatok finanszírozásáról.",
       "importance": 5
     },
     {
-      "title": "Politikailag befolyásolt ügyészségi utasításokról beszélt a volt főügyész",
-      "summary": "A volt főügyész, Fürcht Pál vallomása szerint politikai utasítások és titkosszolgálati beavatkozások jellemezték a Legfőbb Ügyészség működését. A nyilatkozat komoly aggodalmakat vet fel az igazságszolgáltatás függetlenségével kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Závecz Research: A Tisza Pártnak 4,2 millió, a Fidesz-KDNP-nek 1,6 millió híve van",
-      "summary": "Egy friss Závecz Research felmérés szerint a Tisza Párt támogatottsága jelentősen megnőtt, elérve a 4,2 millió potenciális szavazót. Ezzel szemben a Fidesz-KDNP tábora mindössze 1,6 millióra csökkent, ami politikai átrendeződést jelez.",
+      "title": "Magyar Péter: A hazát megosztani bűn",
+      "summary": "Magyar Péter kiemelte, hogy a nemzeti egység megőrzése kiemelten fontos, és bűnnek tartja az ország megosztását. Felszólalásában a politikai megosztottság káros hatásaira hívta fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "A kormány leállította a magyarorszag.hu weboldalt kiberbiztonsági hiba miatt",
-      "summary": "A magyar kormány ideiglenesen leállította a magyarorszag.hu hivatalos weboldalt egy több országot érintő, súlyos kiberbiztonsági sebezhetőség miatt. A lépés a felhasználói adatok védelmét szolgálja, miközben a szakemberek dolgoznak a hiba elhárításán.",
+      "title": "Orbán Ráhel és Tiborcz István brit magániskolákba íratták gyermekeiket",
+      "summary": "A miniszterelnök lánya és veje Nagy-Britannia neves magániskoláiba adták be gyermekeiket. Ez a döntés komoly visszhangot váltott ki a hazai közéletben, rávilágítva a társadalmi egyenlőtlenségekre.",
       "importance": 4
+    },
+    {
+      "title": "Az I. kerület 2028-tól betiltaná az Airbnb-t a budai Várban",
+      "summary": "Az I. kerületi önkormányzat célja, hogy 2028-tól teljesen megtiltsa az Airbnb típusú rövid távú szálláskiadást a Budai Vár területén. Ezzel a lépéssel a helyi lakók nyugalmát és a turisztikai jelleg megőrzését szeretnék biztosítani.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Putyin kész tárgyalni Ukrajnával, de közben tovább lövi Kijevet",
-      "summary": "Vlagyimir Putyin orosz elnök állítólag tárgyalási készségét fejezte ki Ukrajnával kapcsolatban az amerikai félnek, miközben az orosz erők továbbra is Kijevet támadják. Ez a kettős üzenet kétségeket ébreszt Oroszország valódi szándékaival kapcsolatban a békefolyamatot illetően.",
+      "title": "A Nemzetközi Büntetőbíróság kapta a Szaharov-díjat az emberi jogok védelméért",
+      "summary": "Az Európai Parlament az emberi jogok védelméért járó Szaharov-díjjal ismerte el a Nemzetközi Büntetőbíróság munkáját. A díj a jogállamiság és az emberi jogok globális előmozdításában betöltött szerepüket hangsúlyozza.",
       "importance": 5
     },
     {
-      "title": "Észak-Korea újraindítja a hangszórós propagandát a határon",
-      "summary": "Észak-Korea bejelentette, hogy újraindítja a Dél-Korea felé irányuló hangszórós propagandát a határon, válaszul a dél-koreai aktivisták hasonló akcióira. Ez a lépés jelentősen növeli a feszültséget a két ország között a Koreai-félszigeten.",
+      "title": "Újszülött ikrek küzdenek a túlélésért Jemenben, miközben a konfliktus éhínséget okoz",
+      "summary": "Jemenben újszülött ikrek élete forog kockán a folyamatos konfliktus és az abból eredő súlyos éhínség miatt. A humanitárius válság továbbra is gyermekek millióit érinti a térségben, sürgős nemzetközi segítséget igényelve.",
+      "importance": 5
+    },
+    {
+      "title": "17 orosz halászhajónak épp ott volt dolga, ahol tenger alatti kábelek futnak",
+      "summary": "Jelentések szerint 17 orosz halászhajó tevékenykedett stratégiailag érzékeny területeken, ahol kritikus tenger alatti adatkábelek futnak. Ez a tény aggodalmakat kelt a tenger alatti infrastruktúra biztonsága kapcsán, és geopolitikai feszültségeket szül.",
       "importance": 4
     },
     {
-      "title": "Amerikai diplomatákat menekítenek ki Szaúd-Arábiából",
-      "summary": "Az Egyesült Államok diplomatákat evakuál Szaúd-Arábiából, ami a régióban kialakult biztonsági helyzet romlására utal. A lépés aggodalmakat kelt a tágabb közel-keleti stabilitás kapcsán.",
-      "importance": 4
-    },
-    {
-      "title": "A lengyel parlament alsóháza elfogadta az abortusztilalmat enyhítő törvényjavaslatokat",
-      "summary": "A lengyel parlament alsóháza történelmi lépést tett az abortusztörvények enyhítése felé, elfogadva a kapcsolódó törvényjavaslatokat. Ez a döntés jelentős változást hozhat a nők reproduktív jogai terén Lengyelországban.",
+      "title": "Németország intenzív kémkedés célpontja, orosz gyanúsított letartóztatása után",
+      "summary": "A német belügyminiszter szerint Németország intenzív kémkedés célpontja, különösen egy orosz kémgyanúsított letartóztatása után. Az eset rávilágít az országot érő külső hírszerzési fenyegetésekre, és a nemzetközi feszültségek növekedésére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Metát rekordösszegű, 25 milliárd dolláros bírsággal sújtották",
-      "summary": "A Meta Platformsot 25 milliárd dollárnak (körülbelül 8000 milliárd forintnak) megfelelő rekordösszegű bírsággal sújtották adatvédelmi szabálytalanságok miatt. A döntés rávilágít a techóriások adatkezelési gyakorlatával kapcsolatos szigorodó ellenőrzésre és a felhasználói adatvédelem fontosságára.",
+      "title": "Mesterséges intelligencia fedezett fel egy óriási kiberbiztonsági hibát",
+      "summary": "Egy mesterséges intelligencia rendszer azonosított egy jelentős kiberbiztonsági rést, ami rávilágít az AI kettős szerepére a biztonság terén. Képességei egyszerre jelentenek potenciális fenyegetést és hatékony védelmi eszközt.",
       "importance": 5
     },
     {
-      "title": "A Tesla robotaxi videókat mutatott be, és megkezdte az Optimus robotok gyártását",
-      "summary": "A Tesla bemutatta robotaxi videóit, egyúttal bejelentette az Optimus robotok gyártásának elindítását Kaliforniában, miközben profitja 43%-kal esett. A vállalat nagyban épít az önvezető járművekre és a robotikára jövőbeli növekedésében.",
+      "title": "Kínai hackerek vállalatok ezreit kémkedték meg az IT-óriás ConnectWise feltörésével",
+      "summary": "Kínai hackerek ezer vállalat adatbiztonságát sértették meg egy jelentős IT-szolgáltató, a ConnectWise rendszereinek feltörésével. Ez az eset komoly aggodalmakat vet fel a globális ellátási láncok és a vállalati adatok biztonsága kapcsán.",
+      "importance": 5
+    },
+    {
+      "title": "Ki fizeti az adót, ha az AI dolgozik majd az emberek helyett?",
+      "summary": "A mesterséges intelligencia terjedése felveti a kérdést, hogy mi történik a munkavállalók utáni adóbevételekkel, ha az AI veszi át az emberi munkaerő szerepét. Ez a jövőbeli gazdasági rendszerek alapvető kihívása, amelyre a kormányoknak fel kell készülniük.",
       "importance": 4
     },
     {
-      "title": "Milliárdos befektetések az AI startupokba: Flapping Airplanes és Legora",
-      "summary": "Két AI startup, a Flapping Airplanes és a Legora is jelentős befektetést vonzott, előbbi 1 milliárd dollárt 6 milliárd dolláros értékeléssel, utóbbi 550 millió dollárt 8,8 milliárd dolláros értékelés mellett. Ez a trend az AI szektorba áramló hatalmas tőke továbbra is növekvő erejét mutatja.",
-      "importance": 4
-    },
-    {
-      "title": "Nemzetközi kiberbiztonsági riasztás a PHP és az internetes sebezhetőségek miatt",
-      "summary": "Egy széles körben használt programozási nyelv, a PHP körüli nemzetközi kiberbiztonsági riasztás, valamint más online biztonsági incidensek „rossz napot” hoztak az internet számára. Ezek az események hangsúlyozzák a digitális infrastruktúra sebezhetőségét és a folyamatos biztonsági frissítések szükségességét.",
+      "title": "Az Uber bevezeti a ChatGPT Worköt mind a 30 000 alkalmazottja számára",
+      "summary": "Az Uber bejelentette, hogy minden alkalmazottjának bevezeti a ChatGPT Worköt, ezzel jelentős lépést téve a mesterséges intelligencia munkafolyamatokba való integrálásában. Ez a lépés mutatja az AI térnyerését a nagyvállalati környezetben és a munkaerőpiac átalakulását.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Mesterséges intelligencia eszköz javítja az időjárás-előrejelzést egy hónapra előre",
-      "summary": "Tudósok egy mesterséges intelligencia eszközt fejlesztettek ki, amely akár egy hónapra előre is jelentősen javítja az időjárás-előrejelzések pontosságát. Ez az áttörés forradalmasíthatja a mezőgazdaságot, a katasztrófavédelmet és az energiaágazatot.",
+      "title": "Lassulnak a globális kibocsátások – de a világ 2°C felé tart",
+      "summary": "Bár a globális szén-dioxid-kibocsátások lassulása megfigyelhető, a Föld továbbra is a kritikus 2 Celsius-fokos felmelegedési cél felé halad. Ez sürgős és fokozott fellépést igényel az éghajlatváltozás elleni küzdelemben a katasztrofális következmények elkerülésére.",
       "importance": 5
     },
     {
-      "title": "A globális emissziók lassulnak, de a világ a 2 °C-os felmelegedés felé tart",
-      "summary": "Bár a globális szén-dioxid-kibocsátás lassuló tendenciát mutat, a világ továbbra is gyorsulva halad a 2 °C-os globális felmelegedési cél túllépése felé. Ez kiemeli a klímaváltozás elleni fellépés sürgető szükségességét.",
-      "importance": 5
-    },
-    {
-      "title": "Cukorbetegség és ADHD gyógyszereket tesztelnek Alzheimer-betegeken",
-      "summary": "Egy új tanulmány keretében cukorbetegség és ADHD kezelésére szolgáló gyógyszereket tesztelnek Alzheimer-kórban szenvedő betegeken. A kutatás reményt adhat új kezelési módszerek felfedezésére a neurodegeneratív betegség ellen.",
+      "title": "Egy mesterséges intelligencia eszköz javítja az időjárás-előrejelzéseket akár egy hónapra előre",
+      "summary": "Tudósok kifejlesztettek egy mesterséges intelligencián alapuló eszközt, amely akár egy hónapra előre is képes pontosabb időjárás-előrejelzéseket készíteni. Ez jelentős előrelépést jelent a meteorológia és a katasztrófavédelem számára, segítve a felkészülést a szélsőséges időjárásra.",
       "importance": 4
     },
     {
-      "title": "Magyar tudósok véletlen felfedezése írhatja át a gyógyszerek világát",
-      "summary": "Magyar tudósok egy csoportja véletlenül olyan felfedezést tett, amely potenciálisan átformálhatja a gyógyszerfejlesztés jövőjét. A pontos részletek még kidolgozás alatt állnak, de az eredmények jelentős hatással lehetnek a gyógyászatra.",
+      "title": "A gyermekkori agyi fejlődés előrejelzi a tinédzserkori depressziót és szorongást",
+      "summary": "Egy kutatás kimutatta, hogy a gyermekkori agyi fejlődés mintázatai alapján előre jelezhető a későbbi tinédzserkori depresszió és szorongás kockázata. Ez a felfedezés segíthet a korai beavatkozásban és a megelőzésben, javítva a mentális egészségügyi ellátást.",
+      "importance": 4
+    },
+    {
+      "title": "Enzimekkel beágyazott műanyagok könnyen lebomlanak a tengerben",
+      "summary": "Kutatók olyan új típusú műanyagokat fejlesztettek ki, amelyekbe enzimeket ágyaztak be, lehetővé téve, hogy a tengeri környezetben könnyebben lebomoljanak. Ez az innováció reményt ad a tengeri műanyagszennyezés elleni harcban, csökkentve az ökológiai lábnyomot.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A Man Utd kapitánya, Fernandes bírálta Carrick menedzsert a BL-kiesés után",
-      "summary": "A Manchester United csapatkapitánya, Bruno Fernandes élesen bírálta Carrick menedzsert a Bajnokok Ligájában elszenvedett megalázó vereség után. A csapaton belüli feszültség a gyenge teljesítmény következtében nő.",
-      "importance": 3
+      "title": "A kormány átvilágítja az elmúlt négy évben rendezett állami finanszírozású nagy nemzetközi sportrendezvényeket",
+      "summary": "A magyar kormány vizsgálatot indít az elmúlt négy évben államilag finanszírozott nagyszabású nemzetközi sportesemények kapcsán. Az átvilágítás célja az események pénzügyi hátterének és lebonyolításának ellenőrzése, valamint az esetleges visszaélések feltárása.",
+      "importance": 4
+    },
+    {
+      "title": "Zavarta a fűnyíró hangja, láncfűrésszel kergette meg szomszédját egy férfi Egerben",
+      "summary": "Egy egri férfi láncfűrésszel kergette meg szomszédját, mert zavarta a fűnyíró hangja, ami heves konfliktushoz vezetett. Az eset a helyi rendőrségi jelentések szerint garázdaság miatt történt.",
+      "importance": 1
+    },
+    {
+      "title": "Egy nyugdíjas dekoratőr Pokémon kártyái 1,5 millió fontért keltek el",
+      "summary": "Egy nyugdíjas dekoratőr több évtizeden át gyűjtött Pokémon kártyagyűjteménye 1,5 millió fontért kelt el egy aukción. Ez az eset rávilágít a ritka gyűjtői tárgyak, például a gyűjtői kártyák értékére a popkultúrában.",
+      "importance": 1
+    },
+    {
+      "title": "Halálos balesetet okozott egy nő Utah-ban, mert pornót nézett telefonján vezetés közben",
+      "summary": "Egy nő halálos balesetet okozott Utah-ban, miután vezetés közben pornót nézett a telefonján, ezzel súlyosan megsértve a közlekedési szabályokat. A baleset a figyelmetlen vezetés súlyos következményeire hívja fel a figyelmet.",
+      "importance": 1
     }
   ]
 }

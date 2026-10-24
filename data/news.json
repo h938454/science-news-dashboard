@@ -162,11 +162,6 @@
       "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
     },
     {
-      "title": "Watch: Trees ripped up as Storm Austen batters Britain",
-      "link": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
-      "summary": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads."
-    },
-    {
       "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
       "link": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
       "summary": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines."
@@ -179,17 +174,27 @@
     {
       "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
       "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+      "summary": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended."
+    },
+    {
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+    },
+    {
+      "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+      "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher."
+    },
+    {
+      "title": "Celebrity Traitors left on a knife edge after a trip to the field of screams",
+      "link": "https://www.bbc.co.uk/news/articles/c6jdmrz00v7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A newly earned special power left one contestant with a big decision to make in Friday's episode."
     },
     {
       "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
       "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
-    },
-    {
-      "title": "Watch: Prince William on how he once dreamed of becoming 'DJ Xara'",
-      "link": "https://www.bbc.co.uk/news/videos/c6q8nd7n91eyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Prince of Wales made a surprise appearance on the Graham Norton Show as part of a special edition to mark the Earthshot Prize."
     },
     {
       "title": "Bayern Munich manager Kompany taken to hospital after collapsing at training",
@@ -212,27 +217,37 @@
       "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way."
     },
     {
-      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention."
+      "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+      "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare."
     },
     {
-      "title": "Why should I stockpile and what will I need?",
-      "link": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK government has warned households to have three days of essential supplies on hand."
+      "title": "Strictly's new presenters - after frosty reviews have they warmed up?",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjxp1rjne8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Josh Widdicombe, Emma Willis and Johannes Radebe have split opinion but are getting into the groove, critics say."
     },
     {
-      "title": "'It's been relentless': IT workers scramble to fix PHP flaw described as worst crisis in years",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
-    },
-    {
-      "title": "Oil spill washes up on UAE beaches after tanker strike",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
+      "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
     {
       "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
       "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
@@ -264,7 +279,7 @@
       "summary": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants."
     },
     {
-      "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+      "title": "What some of Anthropic’s backers are worth before its IPO",
       "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
       "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
     },
@@ -292,21 +307,6 @@
       "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
       "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
       "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law."
-    },
-    {
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
-    },
-    {
-      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-      "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope."
-    },
-    {
-      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-      "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
     }
   ],
   "Nature": [
@@ -338,7 +338,7 @@
     {
       "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
       "link": "https://www.nature.com/articles/d41586-026-03383-7",
-      "summary": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03383-7\">doi:10.1038/d41586-026-03383-7</a></p>Diagnostic start-ups inch towards the goal of Holmes’s failed company, Theranos, to run a multitude of tests on drops of blood."
+      "summary": "<p>Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03383-7\">doi:10.1038/d41586-026-03383-7</a></p>You Can See Everything brings blood-testing start-ups back into the public eye. They persevere in Theranos’s shadow."
     },
     {
       "title": "Rebody",

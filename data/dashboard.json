@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Euronews: Szervezési hiba miatt volt szerény az '56-os ünnepségek külföldi vendéglistája",
-      "summary": "Az Euronews cikke szerint szervezési hibák miatt számos európai vezető, mint Macron, Tusk és Meloni, későn kapott meghívást az 1956-os forradalom budapesti megemlékezésére, ezért nem tudtak részt venni. Ez a késedelmes kommunikáció magyarázhatja az ünnepségek szerényebb külföldi részvételét.",
+      "title": "Orbán Ráhel távozott Tiborcz István egyik cégének éléről",
+      "summary": "Orbán Ráhel, a miniszterelnök lánya, már nem vezeti férje, Tiborcz István egyik cégét, ahol a márkaépítésért felelt. A változás a hazai üzleti és politikai körökben is figyelmet kapott.",
       "importance": 5
     },
     {
-      "title": "A Patrióták Európáért frakció az Európai Bizottsághoz fordult a magyarországi demokratikus jogok védelmében",
-      "summary": "A Patrióták Európáért frakció az Európai Bizottsághoz nyújtott be beadványt, aggodalmát fejezve ki a magyarországi demokratikus jogok helyzete miatt. A lépés az uniós jogállamisági vitákba illeszkedik, és további nyomás alá helyezheti Magyarországot.",
+      "title": "Kósa Lajos szerint még sokan rács mögé kerülhetnek a Matolcsy-ügyben",
+      "summary": "Kósa Lajos fideszes képviselő nyilatkozata szerint a Matolcsy György letartóztatásával összefüggő ügyben még \"rengeteg embert el fognak vinni\". Ez a nyilatkozat tovább mélyíti a hazai politikai feszültségeket és a korrupciógyanú körüli vitákat.",
       "importance": 5
     },
     {
-      "title": "Bús Balázs a börtönből üzent: „Politikai koncepciós eljárás áldozata vagyok”",
-      "summary": "Bús Balázs, aki jelenleg börtönben van, ismét üzent, állítva, hogy politikai koncepciós eljárás áldozata. Nyilatkozata újból felveti a magyar igazságszolgáltatás függetlenségével kapcsolatos kérdéseket.",
+      "title": "Benyújtották a sportösszeférhetetlenségi törvényt",
+      "summary": "Benyújtották azt a törvénytervezetet, amely megtiltaná a politikusoknak, hogy sportszervezetek vezetői tisztségeit töltsék be. A javaslat célja a sport és a politika szétválasztása.",
       "importance": 4
     },
     {
-      "title": "Sportállamtitkár: Soha nem ajánlottam fel a lemondásomat",
-      "summary": "A sportállamtitkár nyilatkozatában cáfolta azokat a híreszteléseket, amelyek szerint felajánlotta volna lemondását. Az ügy politikai spekulációkhoz vezetett a sportigazgatás vezetői pozíciója körül.",
-      "importance": 3
+      "title": "Szén-dioxidból és vízből készül üzemanyag Szegeden",
+      "summary": "Szegeden kutatók szén-dioxid és víz felhasználásával dolgoznak üzemanyag előállításán, ami ígéretes lépés lehet a fenntartható repülőgépes üzemanyagok fejlesztésében. Bár a széles körű alkalmazásig még hosszú az út, a technológia komoly potenciállal bír.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Feltörték az AfD emailjeit: Alice Weidel hazudhatott",
-      "summary": "Megtörték a német szélsőjobboldali AfD párt emailjeit, amiből kiderült, hogy a párt vezetője, Alice Weidel, vélhetően hazudott. Az ügy komoly politikai következményekkel járhat Németországban.",
+      "title": "Két katonai repülőgép ütközött össze a Fülöp-szigeteken, négy pilóta meghalt",
+      "summary": "A Fülöp-szigetek hadseregének két repülőgépe ütközött össze a levegőben, aminek következtében mind a négy pilóta életét vesztette. A tragédia okait még vizsgálják.",
       "importance": 5
     },
     {
-      "title": "Macron rasszista terrortámadásnak nevezte a párizsi lövöldözést",
-      "summary": "Emmanuel Macron francia elnök rasszista terrortámadásnak minősítette a pénteki párizsi lövöldözést, mely több ember halálát okozta. A nyilatkozat súlyosbítja a Franciaországban uralkodó feszült helyzetet.",
+      "title": "Lelőtték otthonában a bolgár Szlavi Binevet, volt EP-képviselőt és sportvezetőt",
+      "summary": "Otthonában gyilkolták meg Szlavi Binevet, a Bolgár Taekwondo Szövetség elnökét és korábbi európai parlamenti képviselőt. A gyilkosság körülményei ismeretlenek.",
       "importance": 5
     },
     {
-      "title": "Izrael lezárt egy ciszjordániai várost és lerombol terrorista otthonokat",
-      "summary": "Izrael lezárta egy ciszjordániai várost, és olyan házakat bontott le, amelyekről azt állítja, hogy terroristák otthonai voltak. Az akció tovább feszíti a helyzetet a régióban, és emberi jogi aggályokat vet fel.",
+      "title": "Helyreállt az ukrán erők hozzáférése a Starlinkhez",
+      "summary": "Az ukrán fegyveres erők újra stabil hozzáférést kaptak a Starlink műholdas internethez, miután korábban korlátozásokat vezettek be. Ez kritikus fontosságú az ukrán kommunikáció és hadműveletek szempontjából.",
       "importance": 5
     },
     {
-      "title": "Nyilvánosságra kerültek egykori uniós biztos orosz kapcsolatai",
-      "summary": "Nyilvánosságra hozták egy korábbi uniós biztos orosz kapcsolataira utaló üzenetváltásokat, ami komoly aggodalmakat vet fel az uniós intézmények integritásával kapcsolatban. Az eset rávilágít az orosz befolyásgyakorlás kockázataira Európában.",
+      "title": "Kína is korlátozhatja a technológiai exportot, mint Amerika",
+      "summary": "Kína jelezte, hogy ő is alkalmazhat korlátozásokat a technológiai exportra vonatkozóan, hasonlóan az Egyesült Államokhoz. Ez egy újabb lépés a két nagyhatalom közötti technológiai verseny és kereskedelmi háború eszkalációjában.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI többé nem képzi AI modelljeit az élő interneten, jelentős kockázatokra hivatkozva",
-      "summary": "Az OpenAI bejelentette, hogy a továbbiakban nem képzi mesterséges intelligencia modelljeit az élő interneten, jelentős kockázatokra hivatkozva. Ez a döntés mélyrehatóan befolyásolhatja az AI fejlesztésének jövőjét és az online adatfelhasználást.",
+      "title": "Az OpenAI leállítja AI modelljeinek valós idejű internetes képzését \"jelentős kockázatok\" miatt",
+      "summary": "Az OpenAI bejelentette, hogy a jövőben nem képzi mesterséges intelligencia modelljeit valós idejű internetes adatokon, \"jelentős kockázatokra\" hivatkozva. Ez a lépés komoly hatással lehet az AI fejlesztésének irányára és az adatbiztonsági protokollokra.",
       "importance": 5
     },
     {
-      "title": "Helyreállt az ukrán erők hozzáférése a Starlinkhez",
-      "summary": "Az ukrán fegyveres erők számára helyreállt a hozzáférés a Starlink műholdas internetszolgáltatáshoz, ami kritikus fontosságú a kommunikáció és a hadműveletek szempontjából. A szolgáltatás zavara jelentős kihívást jelentett Kijevnek.",
-      "importance": 5
-    },
-    {
-      "title": "Az Egyesült Királyság 100 millió fontot fektet egy „világelső” AI Biológiai Biztonsági Laborba",
-      "summary": "Az Egyesült Királyság 100 millió fontos befektetéssel hozza létre a világ első, mesterséges intelligenciára fókuszáló biológiai biztonsági laboratóriumát. A létesítmény célja az AI által generált biológiai fenyegetések felderítése és kezelése.",
+      "title": "Az \"Agent cloud\" startup, a Daytona, 1 milliárd dolláros értékelést ért el",
+      "summary": "A Daytona, egy \"agent cloud\" startup, sikeresen elérte az 1 milliárd dolláros piaci értékelést jelentős befektetésekkel. Ez a mérföldkő a mesterséges intelligencia és a felhőalapú szolgáltatások gyors fejlődését mutatja.",
       "importance": 4
     },
     {
-      "title": "Páciensek személyes és egészségügyi adatai kerültek veszélybe a Quest Diagnostics hackertámadása során",
-      "summary": "A Quest Diagnostics laboratóriumi óriás megerősítette, hogy hackertámadás következtében páciensek személyes és egészségügyi adatai kerültek veszélybe. Az incidens rávilágít az egészségügyi adatok biztonságának kritikus fontosságára.",
+      "title": "Az inDrive 2027-ben robotaxi teszteket tervez Közép-Ázsiában",
+      "summary": "Az Uber riválisa, az inDrive, azt tervezi, hogy 2027-től robotaxi teszteket indít Közép-Ázsiában, együttműködve a Pony AI-jal és az Nvidiával. Ez a lépés jelentős előrelépést jelenthet az önvezető járművek elterjedésében.",
+      "importance": 4
+    },
+    {
+      "title": "A Commonwealth Fusion Systems 85 millió dollárt kap fúziós félvezetőkhöz",
+      "summary": "A Commonwealth Fusion Systems 85 millió dolláros finanszírozást szerzett fúziós energiához szükséges félvezetők fejlesztésére. Ez az összeg felgyorsíthatja az áttörést a fenntartható fúziós energia terén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Első alkalommal: A CRISPR erős „prime editing” módszere közvetlenül változtatja meg a DNS-t az emberi testben",
-      "summary": "A CRISPR technológia egy új, „prime editing” nevű változata első alkalommal módosította közvetlenül a DNS-t az emberi testben. Ez az áttörés új reményt ad genetikai betegségek gyógyítására.",
+      "title": "Áttörés a CRISPR technológiában: \"prime editing\" közvetlenül változtatja meg az emberi DNS-t",
+      "summary": "Jelentős áttörést értek el a CRISPR technológiában, egy \"prime editing\" módszerrel, amely közvetlenül képes módosítani az emberi DNS-t a szervezetben. Ez új távlatokat nyit a genetikai betegségek gyógyításában.",
       "importance": 5
     },
     {
       "title": "A Moderna mRNA vakcinája majdnem felére csökkenti a bőrrák visszatérésének kockázatát",
-      "summary": "Egy új Moderna mRNA vakcina majdnem felére csökkenti a bőrrák visszatérésének kockázatát, ami jelentős előrelépést jelent a rákterápiában. Ez a felfedezés új utakat nyithat meg más rákos megbetegedések kezelésében is.",
+      "summary": "A Moderna által kifejlesztett mRNA vakcina ígéretes eredményeket mutat a bőrrák visszatérésének kockázatának csökkentésében, közel 50%-kal. Ez új reményt ad a rákterápiában.",
       "importance": 5
     },
     {
-      "title": "Ijesztően gyakoribb lett a stroke a fiatalok körében, és nem tudni, miért",
-      "summary": "Aggasztóan megnőtt a stroke előfordulása a fiatalabb korosztály körében, anélkül, hogy az okát teljes mértékben azonosítani tudták volna. Ez a jelenség sürgős kutatásokat igényel a közegészségügyi kockázatok megértéséhez.",
+      "title": "Túléli-e a matematika az AI-t? Terence Tao \"Maths 2.0\" világot sürget",
+      "summary": "Terence Tao, Fields-érmes matematikus, felveti a kérdést, hogyan adaptálódhat a matematika a mesterséges intelligencia korában, és egy \"Maths 2.0\" világra szólít fel. Ez a diskurzus az AI tudományra gyakorolt hatásáról szól.",
       "importance": 4
     },
     {
-      "title": "Fizikusok sikeresen csapdába ejtették az elektron antianyag megfelelőjét",
-      "summary": "Fizikusoknak sikerült sikeresen csapdába ejteniük az elektron antianyag megfelelőjét, a pozitront, ami jelentős áttörés az antianyag kutatásában. Ez a felfedezés hozzájárulhat az univerzum alapvető törvényeinek jobb megértéséhez.",
+      "title": "Fizikusoknak sikerült csapdába ejteni az elektron antianyag megfelelőjét",
+      "summary": "Fizikusok sikeresen csapdába ejtették az elektron antianyag megfelelőjét, a pozitront, ami fontos lépés az antianyag alapvető tulajdonságainak megértésében és új technológiák fejlesztésében.",
       "importance": 4
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "Cristiano Ronaldo több mint 2 milliárd dollárt keresett focistaként",
+      "summary": "Cristiano Ronaldo lett az első focista, aki pályafutása során több mint 2 milliárd dollárt keresett. Ez az összeg kiemeli a modern sport gazdasági méretét és a sportolók pénzügyi erejét.",
+      "importance": 5
+    },
+    {
+      "title": "Gianni Infantino felnevetett a lemondását firtató kérdésre",
+      "summary": "Gianni Infantino, a FIFA elnöke nevetve reagált arra a kérdésre, hogy a botrányok miatt lemond-e tisztségéről, ezzel jelezve, hogy nem tervezi a távozását. A nyilatkozat a FIFA irányításával kapcsolatos vitákat erősíti.",
+      "importance": 4
+    },
+    {
+      "title": "Lelőtték otthonában a Bolgár Taekwondo Szövetség elnökét",
+      "summary": "Otthonában meggyilkolták a Bolgár Taekwondo Szövetség elnökét, Slavi Binevet. Az eset rávilágít a sportvezetői pozíciókhoz kapcsolódó potenciális veszélyekre és a sportvilágon kívüli befolyásokra.",
+      "importance": 4
+    },
+    {
+      "title": "Vincent Kompany, a Bayern München edzője hetekig tartó felépülés előtt áll",
+      "summary": "Vincent Kompany, a Bayern München edzője egészségügyi problémák miatt hetekig tartó felépülésre kényszerül. A klubnak így az elkövetkező időszakban helyettesítenie kell kulcsfontosságú vezetőjét.",
+      "importance": 2
+    }
+  ]
 }

@@ -1,83 +1,47 @@
 {
-  "Telex": [
-    {
-      "title": "Mozgó autóból lőttek egy szabadidőközpontra Ausztráliában, négyen megsérültek",
-      "link": "https://telex.hu/kulfold/2026/10/25/ausztralia-lovoldozes-boxverseny-szorakozohely-auto-serultek",
-      "summary": "A központban éppen bokszversenyt tartottak, egy 19 éves nő kritikus állapotban van."
-    },
-    {
-      "title": "A százhúsz éves svájci csodareggeli",
-      "link": "https://telex.hu/gasztro/2026/10/25/a-szazhusz-eves-svajci-csodareggeli",
-      "summary": "Az éjszakai zabpehely az utóbbi évek legmenőbb egészséges reggelije – de hogyan nézett ki az eredeti 120 éve, és mi köze van hozzá Thomas Mann híres regényének?"
-    },
-    {
-      "title": "Megbírságolták a Szent Imre Kórházat, ahol későn ismerték fel egy idős nő halálos infarktusát",
-      "link": "https://telex.hu/direkt36/2026/10/25/megbirsagoltak-a-szent-imre-korhazat-ahol-keson-ismertek-fel-egy-idos-no-halalos-infarktusat",
-      "summary": "A Direkt36 írta meg részletesen Piroska történetét, aki nem kapott állapotának megfelelő ellátást és néhány órával később meghalt. Két év telt el azóta, a kórház most először fejezte ki részvétét a családnak."
-    },
-    {
-      "title": "II. világháborús bomba hatástalanítása miatt lezárták az Üllői út egy szakaszát",
-      "link": "https://telex.hu/belfold/2026/10/25/ii-vilaghaborus-bomba-hatastalanitasa-miatt-lezartak-az-ulloi-ut-egy-szakaszat",
-      "summary": "Egy építkezésen került elő egy újabb rombolóbomba, a Thököly út és Haladás utca közötti szakaszt zárták le, amíg dolgoznak a tűzszerészek."
-    },
-    {
-      "title": "Hivatalos: Rónai Egon a Network4-nél folytatja",
-      "link": "https://telex.hu/after/2026/10/25/ronai-egon-network4-atv-media",
-      "summary": "A szórakoztató és sportcsatornákkal bíró médiavállalat saját gyártású közéleti műsorokkal erősít."
-    },
-    {
-      "title": "Magyar Péter az ellenzék október 23-i megemlékezéséről: A korábban közpénzen kitartott fideszes propagandisták egymást püfölték és a valódi újságírókat fenyegették",
-      "link": "https://telex.hu/belfold/2026/10/25/magyar-peter-oktober-23-megemlekezes-fidesz-mi-hazank",
-      "summary": "A miniszterelnök szerint a „fejetlen ellenzék” méltatlanul viselkedett a nemzeti ünnepen."
-    },
-    {
-      "title": "Igazi sztár lett a dél-koreai kikötőváros csatornájába tévedt cápa, de pár hét után sikerült visszaterelni a tengerbe",
-      "link": "https://telex.hu/kulfold/2026/10/25/del-korea-puszan-csatorna-capa-tenger-mentes",
-      "summary": "Bukangi többször is visszatért a szűk mesterséges csatornába, ahol több mint másfél millió rajongó várt rá az elmúlt hetekben."
-    },
-    {
-      "title": "Maszkos fiatalok verték szét Barcelona belvárosát",
-      "link": "https://telex.hu/kulfold/2026/10/25/barcelona-spanyolorszag-rongalas-tuntetes-vandalizmus",
-      "summary": "A város polgármestere szerint a rongálásnak nincs köze a lakhatási válság miatti tüntetéshez, ez csak „öncélú erőszak” volt."
-    },
-    {
-      "title": "A túlaranyozott Fehér Házat és az iráni háborút is élesen bírálta Barack Obama egy demokrata kampányrendezvényen",
-      "link": "https://telex.hu/kulfold/2026/10/25/egyesult-allamok-felidos-valasztasok-barack-obama-kampany-kritika-donald-trump",
-      "summary": "„Ez a választás az utolsó és legjobb esélyünk arra, hogy legalább részben megfékezzük ennek a kormányzatnak az ostobaságait” – fogalmazott a volt elnök."
-    },
-    {
-      "title": "Ha Stallone városába jössz, tiszteletben kell tartanod a törvényeit",
-      "link": "https://telex.hu/after/2026/10/25/heti-streamingajanlo-tulsa-kiralya-jaga-a-titkosugynok",
-      "summary": "Heti streamingajánlónkban egy szláv mítosz modern feldolgozása, Sylvester Stallone maffiás sorozata és a Cyberpunk sorozat új évada is helyet kapott."
-    },
-    {
-      "title": "Mindenki győzelemre készül: Vučić átmentené a hatalmát, az egyetemisták listája pedig megbuktatná a rendszerét",
-      "link": "https://telex.hu/kulfold/2026/10/25/szerbia-parlamenti-valasztas-vucic-egyetemista-lista-srdanovic-elozetes",
-      "summary": "Az újvidéki előtető leomlása óta kibontakozó mozgalom minden korábbinál komolyabb kihívás elé állítja a szerb politikát másfél évtizede uraló Vučićot, aki arra készül, hogy az elnökiből visszaüljön a kormányfői székbe. A szerbiai civilek mellett Magyarországról is érkeztek aktivisták, hogy megakadályozzák a csalásokat a vasárnapi parlamenti választáson."
-    },
-    {
-      "title": "Michelisz tripla dobogóval jött vissza a bajnokság 2. helyére Csöcsiangban",
-      "link": "https://telex.hu/sport/2026/10/25/michelisz-norbert-turaauto-tcr-world-tour-kina-csocsiang-tripla-dobogo",
-      "summary": "A Hyundai két kettős győzelmet is aratott, Michelisz az időmérő megnyerése után három 2. helyet szerzett. Már csak három pilótának van esélye a bajnoki címre."
-    },
-    {
-      "title": "Szerbiában már tudják, mikor indul a személyszállítás a Budapest–Belgrád-vasútvonalon",
-      "link": "https://telex.hu/belfold/2026/10/25/budapest-belgrad-vasutvonal-szerbia",
-      "summary": "A szerb vasútvállalat már azt is közölte, naponta hány járat indul majd a szerb és magyar fővárosok között és mennyibe kerülnek majd a jegyek."
-    },
-    {
-      "title": "A brit miniszterelnök kész a szabad mozgás visszaállításáról tárgyalni az EU-val",
-      "link": "https://telex.hu/kulfold/2026/10/25/andy-burnham-egyesult-kiralysag-europai-unio-szabad-mozgas-targyalas",
-      "summary": "Andy Burnham szerint az elmúlt években változtak a migrációs kihívások, amiről őszinte beszélgetést kell folytatni az EU-val."
-    },
-    {
-      "title": "Kárpáti panorámatúra a Prahova-völgy felett: páholyból néztük a Bucsecs falait",
-      "link": "https://telex.hu/transtelex/2026/10/25/tura-erdely-bucsecs-hegyseg",
-      "summary": "A Prahova-völgy fölé tornyosuló Baj-hegység gerincének pont azért érdemes nekivágni, amit ígér is: szelíden hullámzó, végtelen gyepes hátakat, ahonnan zavartalanul bámulhatjuk a Kárpátok sziklafalait."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
+    {
+      "title": "A Kreml szerint megkezdődtek Putyin, Trump és Hszi Csin-ping novemberi találkozójának előkészületei",
+      "link": "https://444.hu/2026/10/25/a-kreml-szerint-megkezdodtek-putyin-trump-es-hszi-csin-ping-novemberi-talalkozojanak-elokeszuletei?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Trump szerint viszont elsősorban nem Ukrajnáról, hanem a nukleáris leszerelésről tárgyalnának."
+    },
+    {
+      "title": "A nők már tüntettek, aláírtak, kampányoltak – most a kormányon a sor",
+      "link": "https://444.hu/2026/10/25/a-nok-mar-tuntettek-alairtak-kampanyoltak-most-a-kormanyon-a-sor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Tüntettek, több mint 25 ezren írtak alá, női lapok fogtak össze, a döntéshozók még mindig társadalmi nyomásra várnak az Isztambuli Egyezmény ügyében. Meddig kell még a nőknek kampányolniuk azért, hogy a biztonságuk politikai prioritás legyen?"
+    },
+    {
+      "title": "Az izraeli hadsereg lezárja egész Ciszjordániát a választások napjára",
+      "link": "https://444.hu/2026/10/25/az-izraeli-hadsereg-lezarja-egesz-ciszjordaniat-a-valasztasok-napjara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az összes szárazföldi átkelő zárva tart majd, a palesztin munkavállalók nem léphetnek be az izraeli telepekre."
+    },
+    {
+      "title": "A kerületi polgármesterek a parkolási rendszer visszavonását követelik",
+      "link": "https://444.hu/2026/10/25/a-keruleti-polgarmesterek-a-parkolasi-rendszer-visszaallitasat-kovetelik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "És újraindítanák a Budapesti Önkormányzatok Szövetségét. Szerintük Karácsony Gergely különalkujával veszélyezteti a főváros működését."
+    },
+    {
+      "title": "Musk elismerte, hogy a cége korlátozta az ukránok számára létfontosságú internetszolgáltatást",
+      "link": "https://444.hu/2026/10/25/musk-elismerte-hogy-a-cege-korlatozta-az-ukranok-szamara-letfontossagu-internetszolgaltatast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Eddig hazudott, most az ukránokat hibáztatja."
+    },
+    {
+      "title": "Két évvel a beteg halála után részvétét fejezte ki a Szent Imre Kórház a „szakmai mulasztás” miatt",
+      "link": "https://444.hu/2026/10/25/ket-evvel-a-beteg-halala-utan-reszvetet-fejezte-ki-a-szent-imre-korhaz-a-szakmai-mulasztas-miatt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A beteg kérése ellenére nem végeztek rajta EKG-t, amely kimutatta volna a szívinfarktus jeleit."
+    },
+    {
+      "title": "Most vagy soha – rendszerváltó hangulatban szavaz Szerbia",
+      "link": "https://444.hu/2026/10/25/most-vagy-soha-rendszervalto-hangulatban-szavaz-szerbia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Hosszú évek után először hiszik el a szerbek, hogy leválthatják Vučićot. A sorsdöntő választáson magyar önkéntesek is segítenek megakadályozni a csalásokat. Helyszíni tudósítás a szerb választásokról."
+    },
+    {
+      "title": "Rónai Egon a Network4-hez igazol",
+      "link": "https://444.hu/2026/10/25/ronai-egon-a-network4-hez-igazol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A szórakoztató csatornacsoport közéleti tartalmakkal erősít, és együttműködik a miniszterelnök öccsének lapjával."
+    },
     {
       "title": "Megvan, mikor fut be a belgrádi gyors",
       "link": "https://444.hu/2026/10/25/megvan-mikor-fut-be-a-belgradi-gyors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -91,7 +55,7 @@
     {
       "title": "Magyar Péter és Schmidt Mária is fennakadt azon, hogy Toroczkai szerint 1956-ban a magyarok nem az orosz megszállás ellen küzdöttek",
       "link": "https://444.hu/2026/10/25/magyar-peter-es-schmidt-maria-is-fennakadt-azon-hogy-toroczkai-szerint-1956-ban-a-magyarok-nem-az-orosz-megszallas-ellen-kuzdottek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A miniszterelnök szerint döbbenetes mélységbe süllyedt a Mi Hazánk elnöke, amikor puhatestűnek nevezte a honfitársait."
+      "summary": "A miniszterelnök szerint döbbenetes mélységbe süllyedt a Mi Hazánk elnöke, amikor puhatestűnek nevezte a honfitársait. Frissítés: tavaly."
     },
     {
       "title": "Mire jó a Fauda?",
@@ -112,131 +76,86 @@
       "title": "A brit miniszterelnök szerint tárgyalni kell az EU és Nagy-Britannia közti szabad mozgás visszaállításáról",
       "link": "https://444.hu/2026/10/25/a-brit-miniszterelnok-szerint-targyalni-kell-az-eu-es-nagy-britannia-kozti-szabad-mozgas-visszaallitasarol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Tíz éve volt a népszavazás a Brexitről, most megint sokat beszélnek arról, miért volt ez rossz ötlet."
-    },
-    {
-      "title": "Újraválasztották Le Pen pártjának élére Jordan Bardellát",
-      "link": "https://444.hu/2026/10/25/ujravalasztottak-le-pen-partjanak-elere-jordan-bardellat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Más jelölt nem volt."
-    },
-    {
-      "title": "Umami #9: Mindig maradjon egy kis titok! – 30 éves a Rosenstein, Budapest egyetlen családi csúcsétterme",
-      "link": "https://444.hu/2026/10/25/umami-9-mindig-maradjon-egy-kis-titok-30-eves-a-rosenstein-budapest-egyetlen-csaladi-csucsetterme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Magyarországon alig találni többgenerációs családi vendéglőt, de a Rosenstein harminc éve állja a sarat. Meg tudták tartani a magyaros és a pesti zsidó klasszikusokat, sőt a hosszú étlapot is, miközben elindultak saját termékekkel, és saját alapanyagokat is termelnek. Vendég: Rosenstein Róbert."
-    },
-    {
-      "title": "Holló a hollónak nem vájja ki a szemét, a rétisas nem kapkod legyek után",
-      "link": "https://444.hu/2026/10/24/hollo-a-hollonak-nem-vajja-ki-a-szemet-a-retisas-nem-kapkod-legyek-utan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Mi történik, amikor Corvus coraxok találkoznak Haliaeetus albicillákkal a Pacsmagi-tavak természetvédelmi területen?"
-    },
-    {
-      "title": "Szombat este egyik pillanatról a másikra 5,19 milliárd forinttal lett gazdagabb egy ember Magyarországon",
-      "link": "https://444.hu/2026/10/24/szombat-este-egyik-pillanatrol-a-masikra-519-milliard-forinttal-lett-gazdagabb-egy-ember-magyarorszagon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egyedül ő ikszelte be pont azt az 5 számot a lottón, amit be kellett ikszelni,  nagy öröm lehet ez számára."
-    },
-    {
-      "title": "Bekeményített a trónörökös, hiába akart liberalizálni a parlament, tiltott marad az abortusz Liechtensteinben",
-      "link": "https://444.hu/2026/10/24/bekemenyitett-a-tronorokos-hiaba-akart-liberalizalni-a-parlament-tiltott-marad-az-abortusz-liechtensteinben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Alajosnak megvan a maga meggyőződése, és ki is tart mellette."
-    },
-    {
-      "title": "Hogy ne feledjétek: rendőri erőszaktól Nagy Imre újratemetéséig",
-      "link": "https://444.hu/2026/10/24/hogy-ne-feledjetek-rendori-eroszaktol-nagy-imre-ujratemeteseig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "1988-ban még gumibottal verték szét az 1956-ra emlékezőket, egy évvel később már 250 ezren búcsúztatták Nagy Imrét a Hősök terén. Ezt mutatja be archív felvételek keresztül Elbert Márta dokumentumfilmje."
-    },
-    {
-      "title": "A győri tűzoltók megmentettek egy galambot",
-      "link": "https://444.hu/2026/10/24/a-gyori-tuzoltok-megmentettek-egy-galambot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Fejjel lefele lógott."
-    },
-    {
-      "title": "Ess, eső, ess, három hétig ess!",
-      "link": "https://444.hu/2026/10/24/ess-eso-ess-harom-hetig-ess?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az egyik front jóformán még el sem ment, de vasárnap este már jön is a következő."
     }
   ],
   "HVG": [
     {
-      "title": "Orbán elárulta, mit csinált Párizsban, miután felbukkant róla egy újabb rejtélyes fotó",
-      "link": "https://hvg.hu/itthon/20261025_orban-elarulta-mit-csinalt-parizsban-miutan-felbukkant-rola-egy-ujabb-foto-ahogy-egy-padon-ul-egyedul-egy-temetoben",
-      "summary": "A volt kormányfő – aki a Blikknek árulta el, mit csinált Párizsban október 23-án – olyan edző lett, aki már el sem megy a saját csapata meccsére – állapítja meg Dull Szabolcs politikai elemző."
+      "title": "Kiderült, hol folytatja az ATV-től 15 év után távozó Rónai Egon",
+      "link": "https://hvg.hu/itthon/20261025_ronai-egon-atv-tavozas-network4-media-group-bejelentes",
+      "summary": "A Network4, amely korábban az RTL-től Papp Gergőt és a közmédiából Borbás Marcsit is leigazolta, hivatalossá tette, hogy Rónai is nekik fog dolgozni."
     },
     {
-      "title": "Világháborús bomba miatt lezárták és kiürítették az Üllői út egy részét",
-      "link": "https://hvg.hu/itthon/20261025_bomba-lezaras-rendorseg-ulloi-ut-18-kerulet",
-      "summary": "A robbanótestet egy építkezés közben találták meg."
+      "title": "Az oroszbarátság lezárása után az Emírségekkel indul világhódító útra az OMV",
+      "link": "https://hvg.hu/360/20261025_hvg-ausztria-abudhabi-omv-uj-vezer-emma-delaney-olaj-gaz",
+      "summary": "Bár az osztrák OMV gyorsabban nyitott volna a tiszta energiák felé, az olaj és a gáz drágulásának irdatlan haszna más irányba tereli."
     },
     {
-      "title": "Donald Trump előzetesen leadta a szavazatát Floridában",
-      "link": "https://hvg.hu/vilag/20261025_donald-trump-szavazat-florida-felidos-valasztas-egyesult-allamok",
-      "summary": "A korrupcióról és Iránról is véleményt mondott az amerikai elnök, miután golfozott egyet."
+      "title": "„Három órája az enyém a telefon” – nagy a baj az iPhone Duo kijelzőjével, sorra jönnek a panaszok",
+      "link": "https://hvg.hu/tudomany/20261025_apple-iphone-duo-belso-kijelzo-meghibasodas",
+      "summary": "Pillanatok alatt tönkremegy az iPhone Duo hajlítható kijelzője, a panaszok alapján pedig minden tulajdonosnál pontosan ugyanaz a probléma jelentkezik."
     },
     {
-      "title": "Marine Le Pen szövetségese, Jordan Bardella marad a francia szélsőjobboldal pártja élén",
-      "link": "https://hvg.hu/vilag/20261025_jordan-bardella-nepi-tomorules-szelsojobb-marine-le-pen",
-      "summary": "Bardellát újra megválasztották a Népi Tömörülés elnökének, igaz, nem is volt kivel versenyeznie a tisztségért. Az Orléans-ban tartott kongresszust tiltakozások kísérték."
+      "title": "Visszavonatnák Karácsonnyal a parkolási rendszer átalakítását a kerületi polgármesterek",
+      "link": "https://hvg.hu/itthon/20261025_budapest-parkolas-budapesti-onkormanyzatok-szovetsege",
+      "summary": "A Budapesti Önkormányzatok Szövetségét élesztené újjá nyolc kerületi polgármester, akik nekimennének a főváros-kormány parkolási alkujának is."
     },
     {
-      "title": "Pár nappal az izraeli választások előtt ellenzéki tömegtüntetés volt Tel-Avivban",
-      "link": "https://hvg.hu/vilag/20261025_izrael-valasztas-ellenzeki-tuntetes-tel-aviv-hamasz-terror-tamadas-oktober-7",
-      "summary": "A demonstrálók vizsgálóbizottságot követeltek a Hamász 2023-as terrortámadása körüli mulasztások feltárására. Ezt Benjamin Netanjahu megtagadta."
+      "title": "December 13-án indulhatnak a vonatok Belgrádból Budapestre és Bécsbe",
+      "link": "https://hvg.hu/gazdasag/20261025_december-13-an-indulhatnak-a-vonatok-belgradbol-budapestre-es-becsbe",
+      "summary": "Budapestig körülbelül három, Bécsig hat óra lesz a menetidő Belgrádból, a menetjegyek ára még nem ismert."
     },
     {
-      "title": "„A gyerekek számára 1956 tananyag, és éppoly távoli, mint a Neander-völgyi előember”",
-      "link": "https://hvg.hu/360/20261025_hvg-generaciok-viszonya-56hoz-evfordulo-miklosi-laszlo-steigervald-krisztian",
-      "summary": "1956 a nagyszüleinknek még életélmény lehetett, a szüleinknek családi történet, a gyerekeinknek viszont már történelem. Egyéni sorsokkal, döntési helyzetekkel mégis közel lehet hozni számukra a 70 évvel ezelőtt történteket."
+      "title": "„A hatalom, a párt elfajult, mostanra csak a kisebbség diktatúrája” – magántörténelmi portré Nagy Imréről",
+      "link": "https://hvg.hu/360/20261025_hvg-kulturalis-ajanlo-nagy-imre-janosi-katalin-1956-daniel-kehlmann-moa-herngren",
+      "summary": "Daniel Kehlmann színdarabjában görbe tükröt tart a manapság menő és divatos mentorprogramoknak. Moa Hergren Nehézsúlyú szépség című könyve fitneszthriller, a súlyvesztéssel járó rémálom, egy hétköznapi kalóriatábla. A csaknem elfeledett Charles Silver Csipkerózsika című tündérjátéta a Müpában. Ez a HVG kulturális ajánlója."
     },
     {
-      "title": "Íme az ország legjobb alapítványi gimnáziumainak rangsora",
-      "link": "https://hvg.hu/360/20261025_ime-az-orszag-legjobb-alapitvanyi-gimnaziumainak-rangsora",
-      "summary": "A HVG top 100 gimnáziumi rangsora összeállításánál lehetőség van különböző alrangsorok kialakítására is. Ezúttal az ország legjobb alapítványi és magániskoláit mutatjuk be."
+      "title": "Engedélye sem volt, és a fuvar után hozzáírt egy nullát a számlához a csaló taxis",
+      "link": "https://hvg.hu/itthon/20261025_csalo-taxis-engedely-nelkul-bankkartya-terminal-keszpenz-taska-mobiltelefon-rendorseg-budapest-belvaros",
+      "summary": "Változatos módszerekkel károsította meg főként külföldi utasait a nő."
     },
     {
-      "title": "Több mint egymilliárdot kapott az MCC a Matolcsy-féle jegybanki alapítványoktól",
-      "link": "https://hvg.hu/itthon/20261025_mcc-mnb-alapitvany-tamogatas-padme-1-1-milliard",
-      "summary": "Az összeghez nyolc év alatt jutott hozzá a fideszes elitképző, de nem teljesen világos, mire ment el pontosan a pénz."
+      "title": "Reagan és Gorbacsov 40 éve majdnem megegyezett a teljes nukleáris leszerelésről, aztán győzött a realitás",
+      "link": "https://hvg.hu/360/20261025_hvg-reagan-es-gorbacsov-reykjavikban-leszerelesi-start-csillaghaborus-bloff",
+      "summary": "Kudarcnak tűnt négy évtizede Ronald Reagan és Mihail Gorbacsov reykjavíki tárgyalása, de az USA és a Szovjetunió vezetője az izlandi fővárosban győződött meg arról, hogy a nukleáris leszerelés végrehajtható, és ez elvezetett a hidegháború végéhez."
     },
     {
-      "title": "Nekiment Magyar Péter a Mi Hazánk elnökének: ez „szánalmas és vérlázító”",
-      "link": "https://hvg.hu/itthon/20261025_magyar-peter-mi-hazank-toroczkai-laszlo-szanalmas-verlazito-oktober-23",
-      "summary": "„Orbán Balázs a tíz ujját megnyalta Toroczkai áruló beszéde után” – értékelt a miniszterelnök."
+      "title": "Spanyolországban rongáltak a tüntetők, Olaszországban csillapodott a helyzet",
+      "link": "https://hvg.hu/vilag/20261025_barcelona-olaszorszag-tuntetesek-zavargasok-putyin-reakcio",
+      "summary": "Putyin eközben visszautasította, hogy Oroszország állna az európai zavargások mögött."
     },
     {
-      "title": "Kiderültek az egészségügyi béremelés részletei, jön a betegbiztonsági reform és a betegelégedettség-mérés",
-      "link": "https://hvg.hu/itthon/20261025_hegedus-zsolt-egeszsegugy-beremeles-betegbiztonsag",
-      "summary": "A miniszter szerint az eddigi legszélesebb körű bérrendezést tervezik végrehajtani az egészségügy nem orvosi munkaköreiben, évente 192 milliárdból, 123 ezer dolgozót érintve."
+      "title": "Ez az eredménye, ha a Commodore 64 kirándul a Cyberpunk 2077 világába",
+      "link": "https://hvg.hu/tudomany/20261025_commodore77-retrogep-commodore64-es-cyberpunk-2077-video-megrendeles",
+      "summary": "Mintha csak a múlt és a jövő találkozna egy látványos eszközben. A Commodore 77 a legendás Commodore 64 számítógép és a Cyberpunk 2077 univerzumának találkozásából született. A végeredmény pedig egyszerre retró számítógép, gyűjtői tárgy és egy meglehetősen látványos technológiai időutazás."
     },
     {
-      "title": "Az Orbán-kormány valós problémára húzta fel brutális ukránellenes kampányát – mit kezd ezzel Magyar Péter?",
-      "link": "https://hvg.hu/360/20261025_hvg-magyar-ukran-viszony-kisebbsegi-jogok-anyanyelvhasznalat-magyar-peter-volodimir-zelenszkij",
-      "summary": "Lépésről lépésre – az egykori Tisza-jelszónál alkalmasabb kifejezést keresni sem lehetne annak leírására, ami a magyar–ukrán viszonyban április óta történik. Ezt jelzi az anyanyelvhasználati törvény elfogadása és a két ország vezetőjének lassan formálódó kapcsolata is."
+      "title": "Oroszország készen áll a háromoldalú ukrajnai rendezési tárgyalásokra",
+      "link": "https://hvg.hu/vilag/20261025_oroszorszag-keszen-all-a-haromoldalu-ukrajnai-rendezesi-targyalasokra",
+      "summary": "A Kreml szerint november 4. után lehetséges egyáltalán beszélni erről."
     },
     {
-      "title": "Történelmi esély a befektetőknek, hogy Magyarország be akar kerülni az euróövezetbe",
-      "link": "https://hvg.hu/360/20261025_koltsegvetes-lapszemle-esely-befektetok-2027-euroovezet",
-      "summary": "A magyar euróbevezetés első lépcsőjének tekinthető 2027-es költségvetés iránya jó, a változások mélyek, alapvetőek és átfogóak, ám ha Magyar Péterék elbátortalanodnak, az súlyos következményekkel járhat."
+      "title": "Nemigen van, aki a brazil elnökválasztáson jobban drukkol Flávio Bolsonarónak, mint 27 évre elítélt apja, akinek kegyelmet ígért",
+      "link": "https://hvg.hu/360/20261025_hvg-flavio-bolsonaro-kontur-jair-bolsonaro-brazilia-elnokvalasztas",
+      "summary": "Politikusdinasztia születését jelentheti, ha a brazil elnökválasztást Jair Bolsonaro szélsőjobboldali volt államfő legidősebb fia, Flávio nyeri. A szövetségi törvényhozásban már négy rokona is bent van."
     },
     {
-      "title": "A rejtett kamerák leleplezhetők egy mobilra rakható olcsó kütyüvel",
-      "link": "https://hvg.hu/tudomany/20261025_ledes-okostelefon-kiegeszito-rejtett-kamerak-megtalalasa",
-      "summary": "Sokak tartanak a rejtett kameráktól, amelyek titokban készítenek felvételeket. Még ha ezek nem is kerülnek nyilvánosságra, kínosak lehetnek a felvétel alanyai számára. Egy okostelefon-kiegészítő képes lehet leleplezni ezeket az eldugott kukkolókat."
+      "title": "A kórházakat is bevonhatják a drága gyógyszerek finanszírozásába egy törvénytervezet szerint",
+      "link": "https://hvg.hu/itthon/20261025_draga-gyogyszerek-terapia-finanszirozas-egyedi-meltanyossag-betegseg-torvenytervezet-neak-korhazak",
+      "summary": "Több ponton is szigorítanának az egyedi méltányosság alapján megítélt terápiák támogatásán."
     },
     {
-      "title": "60 éves a világ ura: ősrégi patinás, fickós vagány és a legújabb Toyota Corollákkal szülinapoztunk",
-      "link": "https://hvg.hu/cegauto/20261025_60-eves-a-vilag-ura-osregi-patinas-fickos-vagany-legujabb-toyota-corolla-teszt-velemeny",
-      "summary": "Egyetlen másik autóból sem adtak el olyan brutális mennyiséget, mint a Toyota Corollából. A bestseller japán népautó 60. születésnapi buliján az eredeti ősmodellt, a legizgalmasabb hátsókerék-hajtású változatot és a legújabb hibrid verziót is meghajtottuk."
+      "title": "A brit miniszterelnök tárgyalna az EU-val a szabad mozgás helyreállításáról",
+      "link": "https://hvg.hu/vilag/20261025_nagy-britannia-eu-allampolgarok-szabad-mozgas-targyalas-andy-burnham-brexit",
+      "summary": "Andy Burnham szerint viszont Nagy-Britannia nem csatlakozik az euróövezethez vagy a schengeni térséghez."
     },
     {
-      "title": "És akkor a költségvetést kihozták, Matolcsyt bevitték",
-      "link": "https://hvg.hu/gazdasag/20261025_es-akkor-koltsegvetes-matolcsy-mnb-ado-szabalyok-arres",
-      "summary": "Letartóztatták Matolcsy Györgyöt, a kormány bemutatta a 2027-es költségvetés és a jövő évi adószabályok főbb részleteit, megszűnik az árrésstop. Ez a HVG heti gazdasági összefoglalója."
+      "title": "Több száz nő történetét írtam meg, és most nem tudom elengedni őket",
+      "link": "https://hvg.hu/360/20261025_premium-hirlevelek-kokett-nok-utcai-bantalmazas-ujsagiras-hatas",
+      "summary": "Mekkora hatása lehet egy cikknek?"
     }
   ],
   "BBC": [
-    {
-      "title": "Meghan broke contact with father in letter citing abuse claims",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
-    },
     {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
@@ -245,32 +164,22 @@
     {
       "title": "Burnham open to 'honest discussion' on EU free movement",
       "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+      "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
     },
     {
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
     },
     {
-      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+      "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
     },
     {
-      "title": "Watch: Who are the candidates in Brazil's presidential election?",
-      "link": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
-    },
-    {
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
-    },
-    {
-      "title": "Moment of jeopardy as King embarks on Caribbean tour",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+      "title": "Meghan broke contact with father in letter citing abuse claims",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren."
     },
     {
       "title": "Why the charts are full of old songs - and so are your playlists",
@@ -283,14 +192,24 @@
       "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?"
     },
     {
+      "title": "Why the King's Caribbean tour could be 'biggest risk of his reign'",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6gvg1r2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The meticulously-planned visit takes in three countries in nine days - but is not without jeopardy."
+    },
+    {
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+    },
+    {
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
+    },
+    {
       "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
       "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
       "summary": "More than a million people flocked to Busan to catch a glimpse of the female dusky shark they called Bukangi."
-    },
-    {
-      "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-      "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-      "summary": "Flávio Bolsonaro, the son of Brazil's imprisoned former president, is presenting a strong challenge to Lula, 80, who is seeking a fourth term in office."
     },
     {
       "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
@@ -298,17 +217,27 @@
       "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet."
     },
     {
+      "title": "Four-year-old girl dies after fall from tower block",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34vzrj865o?at_medium=RSS&at_campaign=rss",
+      "summary": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say."
+    },
+    {
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries."
+    },
+    {
       "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
       "link": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
       "summary": "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
-    },
-    {
-      "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
-      "link": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
-      "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
     {
       "title": "Starlink seems to be working normally again in Ukraine",
       "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
@@ -378,11 +307,6 @@
       "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
       "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
       "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products."
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-      "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion."
     }
   ],
   "Nature": [

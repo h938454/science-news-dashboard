@@ -1,112 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Elfogatóparancsot adtak ki a lélegeztetőgép-biznisz egyik főszereplője ellen, a NAV Ausztriában is nyomoz",
-      "summary": "A rendőrség elfogatóparancsot adott ki a lélegeztetőgép-beszerzési botrány egyik kulcsszereplője, Majer Bálint ellen. A NAV eközben Ausztriában is razziázott az ügyben, amely a külföldi beszerzéseket vizsgálja.",
+      "title": "Elfogatóparancs és nemzetközi razzia a lélegeztetőgép-botrányban",
+      "summary": "Elfogatóparancsot adtak ki a lélegeztetőgép-biznisz egyik kulcsszereplője, Majer Bálint ellen. A NAV Ausztriában is hajtott végre razziákat a beszerzések ügyében.",
       "importance": 5
     },
     {
-      "title": "Feketelistára került az iváncsai akkumulátorgyár",
-      "summary": "Az iváncsai akkumulátorgyárat feketelistára tették, ami súlyos következményekkel járhat a projekt finanszírozására és megvalósítására nézve. Ez a döntés komoly visszhangot váltott ki gazdasági és környezetvédelmi körökben egyaránt.",
+      "title": "Bírság és feketelista az iváncsai akkumulátorgyárnál",
+      "summary": "Az iváncsai akkumulátorgyárat 100 millió forintra bírságolták felszín alatti vizek szennyezése miatt. A létesítmény emiatt feketelistára került.",
       "importance": 4
     },
     {
-      "title": "Sólyom Zoltán biztosítási szakember lett a Szerencsejáték Zrt vezérigazgatója",
-      "summary": "Sólyom Zoltán biztosítási szakembert nevezték ki a Szerencsejáték Zrt. új vezérigazgatójává. A kinevezés várhatóan új irányt szab a vállalat működésének és stratégiájának.",
+      "title": "Új vezérigazgató a Szerencsejáték Zrt. élén",
+      "summary": "Sólyom Zoltán biztosítási szakember veszi át a Szerencsejáték Zrt. vezérigazgatói posztját. Kinevezésével a cég új stratégiai irányba léphet.",
       "importance": 3
     },
     {
-      "title": "Súlyosbítaná az ügyészség a volt CBA-tulajdonos büntetését, bűnügyi felügyeletet kérnek rá",
-      "summary": "Az ügyészség súlyosbítaná az adócsalásért elítélt egykori CBA-tulajdonos büntetését, és bűnügyi felügyelet alá helyezését kérvényezi a hamarosan esedékes szabadulása előtt. Az ügy jogi eljárása továbbra is zajlik.",
+      "title": "Súlyosbítaná az ügyészség a volt CBA-tulajdonos büntetését",
+      "summary": "Az ügyészség súlyosabb büntetést indítványoz a korábban adócsalásért elítélt volt CBA-tulajdonosra. Az ügy rávilágít a korrupcióellenes harc kihívásaira.",
       "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Rekordrészvétel mellett zajlottak az izraeli választások, Netanjahu szerint az arab szavazók csalást kísérelnek meg",
-      "summary": "Rekordmagas részvétel jellemezte az izraeli választásokat, amelyek eredményei jelentős hatással lehetnek Gázára és a tágabb régióra. Benjamin Netanjahu miniszterelnök azzal vádolta az arab szavazókat, hogy megpróbálják ellopni a választást.",
+      "title": "Szoros izraeli választás, Netanjahu vádjai",
+      "summary": "Az izraeli exit pollok szoros eredményt mutattak, Netanjahu pártja a legtöbb szavazatot kapta, de a blokkjával szembeni ellenzék vezethet. Netanjahu az arab szavazókat vádolja a választások ellopásával.",
       "importance": 5
     },
     {
-      "title": "Iránnak kémkedett az RAF Fairford légibázisnál elfogott férfi, vádat emeltek ellene",
-      "summary": "Két személyt állítottak bíróság elé Nagy-Britanniában, akik állítólag Iránnak kémkedtek az RAF Fairford légibázisnál. Az eset súlyos nemzetbiztonsági aggályokat vet fel.",
+      "title": "Tűzszünet Herszonban, diplomáciai egyeztetések Putyinnal",
+      "summary": "Tűzszünetet hosszabbítottak meg az ukrajnai Herszon régióban, ami reményt adhat a civil lakosságnak. Eközben Norvégia és Finnország vezetői ritka telefonbeszélgetést folytattak Putyinnal, a regionális biztonság kérdéseiről.",
       "importance": 4
     },
     {
-      "title": "Ritka hívást folytattak Norvégia és Finnország vezetői Putyinnal",
-      "summary": "Norvégia és Finnország vezetői rendkívüli telefonbeszélgetést folytattak Vlagyimir Putyin orosz elnökkel. A ritka diplomáciai kapcsolatfelvétel a regionális biztonsági aggodalmak tükrében történt.",
+      "title": "Az EU figyelné a közösségi médiát a határvédelemért",
+      "summary": "Az Európai Bizottság új javaslata szerint az uniós határvédelmi ügynökség a közösségi médiát is figyelhetné. Ez a lépés adatvédelmi aggályokat vet fel a polgárok körében.",
       "importance": 4
     },
     {
-      "title": "Norvég sajtóorgánumok perelik a Metát AI-val történő tartalomlopás miatt",
-      "summary": "Több norvég sajtóorgánum közösen pereli be a Metát, mert nem akarják, hogy a cég mesterséges intelligencia segítségével lopja és használja fel tartalmaikat. Az ügy precedensértékű lehet az AI-alapú tartalomfelhasználás jövőjére nézve.",
-      "importance": 4
+      "title": "Flávio Bolsonaro, Brazíliai politikai botrány külföldi szálakkal",
+      "summary": "A Reuters információi szerint Flávio Bolsonaro az Egyesült Államokban tartózkodik, miközben Brazíliában illegális kampánypénzek miatt vizsgálják. Az ügy nemzetközi visszhangot kapott.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az Apple bemutatta új 14 hüvelykes MacBook Pro-ját M6 chippel és kiadta az iOS 27.2-t",
-      "summary": "Az Apple bemutatta a 14 hüvelykes MacBook Pro új verzióját az M6 chippel, jelentősen növelve a teljesítményt és az energiahatékonyságot. Emellett kiadták az iOS 27.2-t is új Siri AI nyelvekkel és biztonsági javításokkal.",
+      "title": "Az Apple bemutatta új 14 hüvelykes MacBook Pro-ját M6 chippel",
+      "summary": "Az Apple piacra dobta legújabb 14 hüvelykes MacBook Pro modelljét, melyet az erőteljes M6 chippel szereltek fel. Az újítások jelentős teljesítményjavulást ígérnek a felhasználóknak.",
       "importance": 5
     },
     {
-      "title": "A Google Genie 4 világmodellje hangot, valósághűbb világokat és valós idejű irányítást kapott",
-      "summary": "A Google Genie 4 világmodellje jelentős frissítéseket kapott, többek között hangtámogatást, realisztikusabb virtuális világokat és valós idejű irányítási lehetőségeket. Ez a fejlesztés új szintre emeli a szimulációs és AI-alkalmazások lehetőségeit.",
+      "title": "A Google Genie 4 világmodellje hangot és valósághűbb világokat kapott",
+      "summary": "A Google AI kutatólaboratóriuma bemutatta a Genie 4 világmodell továbbfejlesztését, mely audio képességekkel és még valósághűbb szimulált világokkal büszkélkedhet. Az új verzió valós idejű irányítást is lehetővé tesz.",
       "importance": 4
     },
     {
-      "title": "Az Egyesült Államok kormánya szerint hackerek kritikus PHP webes hibákat használnak ki",
-      "summary": "Az Egyesült Államok kormánya figyelmeztetést adott ki, miszerint hackerek aktívan kihasználják a kritikus PHP webes biztonsági réseket. Ez a fenyegetés számos weboldalt és alkalmazást érinthet világszerte.",
+      "title": "Norvég média perli a Metát mesterséges intelligencia tartalomlopás miatt",
+      "summary": "Több norvég sajtóorgánum közösen pereli be a Metát, mert állításuk szerint a cég mesterséges intelligenciával lopja a tartalmaikat. Az ügy precedensértékű lehet az AI és a szerzői jog viszonyában.",
       "importance": 4
     },
     {
-      "title": "Az Opera új webes szabványt vezet be az AI helyi futtatásához a böngészőben",
-      "summary": "Az Opera egy új webes szabványt mutatott be, amely lehetővé teszi a felhasználók számára, hogy mesterséges intelligencia modelleket futtassanak közvetlenül a böngészőjükben. Ez a lépés jelentősen növelheti a felhasználói adatvédelem szintjét és a személyre szabott AI-élményeket.",
+      "title": "Kritikus PHP webhibákat használnak ki hackerek",
+      "summary": "Az amerikai kormány figyelmeztetést adott ki, miszerint hackerek aktívan kihasználnak kritikus PHP webhibákat. A weboldalak üzemeltetőinek sürgősen frissíteniük kell rendszereiket a biztonsági kockázatok elkerülése érdekében.",
       "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Az AI által generált hamis hivatkozásokat kutatási visszaélésnek kell tekinteni, fontos a nyilvános felügyelet",
-      "summary": "A tudományos közösség aggódik az AI által generált, nem létező hivatkozások miatt, amelyeket kutatási visszaélésnek kell kezelni. Az AI-alapú eszközök megbízhatóságának biztosításához elengedhetetlen a független nyilvános felügyelet.",
+      "title": "Az EU duplázna a párizsi klímacélon, nagy az alkalmazkodás megtérülése",
+      "summary": "Az Európai Unióban a párizsi klímacél duplájával számolnak, ami ambiciózusabb lépéseket jelentene a környezetvédelemben. A szakértők szerint az alkalmazkodás hosszú távon jelentős megtérülést hozhat.",
       "importance": 5
     },
     {
-      "title": "A globális klímaügyi testület a túlélésért küzd: miért kell megmenteni az IPCC-t?",
-      "summary": "Az Éghajlatváltozási Kormányközi Testület (IPCC), a globális klímakutatás kulcsfontosságú szervezete, túléléséért küzd. Fennmaradása elengedhetetlen a megbízható klímatudományos információk biztosításához és a klímapolitika alakításához.",
-      "importance": 5
-    },
-    {
-      "title": "Rejtélyes, vibráló agyjelek segíthetnek a tudat titkainak feltárásában",
-      "summary": "Kutatók szerint a rejtélyes, vibráló agyjelek kulcsfontosságúak lehetnek a tudat mechanizmusainak megértésében. E felfedezés új utakat nyithat meg a neurológiai betegségek kezelésében és a mesterséges intelligencia fejlesztésében.",
+      "title": "Eltűnt a jég Szlovénia legmagasabb csúcsáról",
+      "summary": "Szlovénia legmagasabb csúcsáról, a Triglavról eltűnt a jég, ami aggasztó jele a klímaváltozásnak. Ez a jelenség rávilágít a globális felmelegedés regionális hatásaira.",
       "importance": 4
     },
     {
-      "title": "Gyógyszercégek milliárdokat fektetnek pszichedelikus szerekbe a kudarcok ellenére",
-      "summary": "A gyógyszercégek milliárdos befektetésekkel fordulnak a pszichedelikus szerek kutatása felé, annak ellenére, hogy ezen a területen még sok a bizonytalanság és a szabályozási akadály. Ezen szerek potenciális terápiás alkalmazása rendkívül ígéretes.",
+      "title": "Az AI által hallucinált hivatkozások kutatási szabálysértésnek minősülnek",
+      "summary": "A tudományos közösség szerint az AI által generált, nem létező hivatkozások használata kutatási szabálysértésnek tekintendő. Ez felveti a mesterséges intelligencia etikus alkalmazásának kérdését a tudományos munkában.",
       "importance": 4
+    },
+    {
+      "title": "Gyászolják a csillagászok a NASA pusztuló űrszondáját",
+      "summary": "A NASA egyik nagyra becsült űrszondája hamarosan elpusztul a légkörben, ami mély szomorúsággal tölti el a csillagászokat. Az űreszköz évtizedekig szolgált fontos adatgyűjtéssel.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Mbappé bocsánatot kért, miután kedvenc mémje miatt diktátornak nevezte Mao Ce-tungot",
-      "summary": "Kylian Mbappé, a világhírű focista, bocsánatot kért, miután egy mém megosztásával Mao Ce-tungot diktátornak nevezte, ami komoly vitát váltott ki a közösségi médiában. Az eset rávilágít a sportolók politikai kijelentéseinek súlyára.",
+      "title": "Kubatov Gábort ismét a Fradi elnökévé választották",
+      "summary": "Kubatov Gábort újraválasztották a Ferencvárosi Torna Club elnökévé, de mandátuma 2027 elején lejár. Ez a hír meghatározó a magyar labdarúgásban.",
+      "importance": 5
+    },
+    {
+      "title": "Mbappé és a \"Mao elnök\" vita",
+      "summary": "Kylian Mbappé francia labdarúgó körül botrány alakult ki egy \"Mao elnök\" témájú poszt miatt. Az eset rávilágít a sportolók társadalmi felelősségére és a közösségi média kihívásaira.",
       "importance": 4
     },
     {
-      "title": "A Manchester United Carrickkel marad: Turbulens 48 óra az Old Traffordon",
-      "summary": "A Manchester United úgy döntött, Michael Carrick marad a csapat élén a közelmúltbeli turbulens időszak után. A klub vezetése bízik abban, hogy a változás stabilitást hoz a csapat számára.",
+      "title": "Helyzet a Manchester Unitednél Carrick irányítása alatt",
+      "summary": "A Manchester United továbbra is Michael Carrick-kel dolgozik a menedzseri poszton, egy rendkívül turbulens 48 óra után. A klub szurkolói izgatottan várják a további fejleményeket.",
       "importance": 3
-    },
-    {
-      "title": "A Z generáció körében egyre népszerűbb a madármegfigyelés a mentális egészség javítására",
-      "summary": "A Z generáció tagjai körében egyre többen fordulnak a madármegfigyeléshez, mint szabadidős tevékenységhez. Sokan úgy találják, hogy ez a hobbi jelentősen hozzájárul mentális egészségük megőrzéséhez és javításához.",
-      "importance": 1
-    },
-    {
-      "title": "Az izraeli és görög haditengerészet sikeresen elsüllyesztett egy hadihajót egy hadgyakorlat során",
-      "summary": "Egy közös hadgyakorlat keretében az izraeli és görög haditengerészet sikeresen elsüllyesztett egy hadihajót, ezzel bizonyítva rakétarendszereik hatékonyságát. A gyakorlat a térségbeli védelmi együttműködést erősíti.",
-      "importance": 1
     }
   ]
 }

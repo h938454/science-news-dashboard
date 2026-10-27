@@ -2,90 +2,111 @@
   "hungary": [
     {
       "title": "Felszabadult a 4,7 milliárd eurós uniós visszatérítés, amelyet Orbán Viktor évekig blokkolt",
-      "summary": "Megérkezhet az a 4,7 milliárd eurós uniós visszatérítés, amelyet a magyar kormány éveken át blokkolt. Ez az összeg jelentős gazdasági lökést adhat az országnak és enyhítheti az uniós forrásokkal kapcsolatos feszültségeket.",
+      "summary": "Magyarország számára felszabadult egy jelentős, 4,7 milliárd eurós uniós visszatérítési összeg, melyet a kormányfő korábban éveken át blokkolt. Ez az összeg kulcsfontosságú lehet a magyar gazdaság és költségvetés számára.",
       "importance": 5
     },
     {
       "title": "Aláírták a Norvég Alapról szóló megállapodást, 92 milliárd forint érkezik",
-      "summary": "Hosszú tárgyalások után aláírták a megállapodást a Norvég Alapról, melynek keretében 92 milliárd forint érkezik Magyarországra. A források klímavédelmi, innovációs és civil projektekre fordíthatók.",
-      "importance": 5
+      "summary": "Hosszú tárgyalások után aláírták a megállapodást a Norvég Alap finanszírozásáról, melynek keretében 92 milliárd forint érkezik Magyarországra. Ez a pénzügyi forrás számos civil és környezetvédelmi projektet támogathat.",
+      "importance": 4
     },
     {
       "title": "Felfüggesztették a csődeljárás alatt álló NER-óriáscég, a Bayer Construct kötvényeinek kereskedését",
-      "summary": "Felfüggesztették a Bayer Construct, a NER-hez köthető nagyvállalat kötvényeinek tőzsdei kereskedését a folyamatban lévő csődeljárás miatt. Ez a lépés jelentős bizonytalanságot okoz a cég jövője és a befektetők számára.",
+      "summary": "Felfüggesztették a csődvédelem alatt álló Bayer Construct, egy jelentős NER-hez köthető építőipari vállalat kötvényeinek kereskedését a tőzsdén. Az intézkedés a cég pénzügyi nehézségeire és a befektetői aggodalmakra utal.",
       "importance": 4
     },
     {
-      "title": "A Pénzügyminisztérium feljelentést tett Nagy Márton luxusutazásai miatt",
-      "summary": "A Pénzügyminisztérium feljelentést nyújtott be Nagy Márton gazdaságfejlesztési miniszter luxusutazásai ügyében. Az eset politikai és etikai kérdéseket vet fel a közpénzek felhasználásával kapcsolatban.",
-      "importance": 4
+      "title": "Elutasították Gyárfás Tamás perújítási indítványát",
+      "summary": "Elutasították Gyárfás Tamás perújítási indítványát, ami azt jelenti, hogy a korábbi ítélet jogerős maradt. Az ügy a magyar sportélet egyik régóta húzódó, nagy horderejű büntetőügye.",
+      "importance": 3
     }
   ],
   "world": [
     {
       "title": "Lula történelmi fordítással akadályozta meg a Bolsonaro család visszatérését a hatalomba",
-      "summary": "Lula da Silva volt elnök történelmi visszatérésével megakadályozta a Bolsonaro család újbóli hatalomra jutását Brazíliában. A választási eredmény mélyreható politikai és társadalmi változásokat hozhat az országban.",
+      "summary": "Lula da Silva elnök történelmi fordulatot ért el a brazil választásokon, megakadályozva Bolsonaro családjának visszatérését a hatalomba. Ez a győzelem jelentős irányváltást hozhat Brazília politikájában és nemzetközi kapcsolataiban.",
       "importance": 5
     },
     {
-      "title": "A román hírszerzés szerint Oroszországból irányított szabotázskísérlet okozta a brassói lőszergyár közelében keletkezett tüzet",
-      "summary": "A román hírszerzés arra utaló jeleket talált, hogy egy Oroszországból irányított szabotázskísérlet áll a brassói lőszergyár közelében keletkezett tűz hátterében. Az incidens tovább élezi a regionális feszültségeket és a biztonsági aggodalmakat.",
+      "title": "Román hírszerzés: orosz szabotázskísérlet okozta a brassói lőszergyár közelében keletkezett tüzet",
+      "summary": "A román hírszerzés szerint Oroszországból irányított szabotázskísérlet okozta a tüzet egy brassói lőszergyár közelében. Az eset rávilágít az orosz befolyásszerzésre és a regionális biztonsági kockázatokra.",
       "importance": 5
     },
     {
-      "title": "Izrael és az Egyesült Államok is az urnákhoz járul, a következmények globálisak lesznek",
-      "summary": "Izrael és az Egyesült Államok egyaránt fontos választásokra készül, melyek eredményei globális hatással lehetnek a nemzetközi politikára és a regionális konfliktusokra. A szavazások kimenetele jelentősen befolyásolhatja a Közel-Kelet és a világ jövőjét.",
-      "importance": 5
+      "title": "Izrael és az USA is a szavazófülkék elé készül, globális következményekkel",
+      "summary": "Izrael és az Egyesült Államok is hamarosan választások elé néz, melyek eredményei globális szinten is jelentős hatással lehetnek. A választások kimenetele formálhatja a nemzetközi politikát és gazdaságot.",
+      "importance": 4
     },
     {
-      "title": "Élő adásban kért bocsánatot a Vajdasági RTV híradósa: „A közszolgálati média évekig nem töltötte be a feladatát”",
-      "summary": "A vajdasági közmédia egy híradósa élő adásban kért bocsánatot a nézőktől, elismerve, hogy a közszolgálati média évekig nem teljesítette feladatát. Ez a lépés a szerbiai választások utáni politikai változásokra és a sajtószabadság javulására utal.",
+      "title": "Az új szerb vezetés elsődleges feladata az újvidéki tragédia felelőseinek elszámoltatása",
+      "summary": "A szerbiai választások után az új vezetés kiemelt feladatának tekinti az újvidéki tragédia felelőseinek elszámoltatását. Ez a lépés reményt adhat a jogállamiság erősödésére és az elszámoltathatóságra az országban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A SpaceX 40 milliárd dolláros GPU finanszírozási megállapodást kötött az Apollóval",
-      "summary": "A SpaceX hatalmas, 40 milliárd dolláros finanszírozási megállapodást kötött az Apollóval GPU-k beszerzésére. Ez az ügylet rávilágít az AI és a szuperszámítógépes képességek növekvő jelentőségére az űrtechnológiában.",
+      "title": "Anthropic figyelmeztetést ad ki „katasztrofális kockázatokra” az emberiségre nézve, tőzsdei bevezetése előtt",
+      "summary": "Az Anthropic, egy vezető mesterséges intelligencia vállalat, figyelmeztetést adott ki az emberiségre leselkedő „katasztrofális kockázatokra” a tőzsdei bevezetése előtt. Ez kiemeli az AI fejlődésével kapcsolatos etikai és biztonsági aggodalmakat.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic figyelmeztet: „katasztrofális kockázat” fenyegeti az emberiséget tőzsdei bevezetése előtt",
-      "summary": "Az Anthropic mesterséges intelligencia vállalat, tőzsdei bevezetése előtt figyelmeztetést adott ki az AI fejlesztésével járó „katasztrofális kockázatokra” vonatkozóan. Ez a nyilatkozat rávilágít az AI etikai és biztonsági kérdéseinek sürgősségére.",
-      "importance": 5
-    },
-    {
-      "title": "Egy startup önvezető markolói 600 millió dolláros új finanszírozást kaptak",
-      "summary": "Egy startup cég jelentős, 600 millió dolláros finanszírozásra tett szert önvezető markolói fejlesztésére. Ez az összeg jelzi a mesterséges intelligencia és a robotika iránti növekvő befektetői érdeklődést a nehéziparban.",
+      "title": "SpaceX 40 milliárd dolláros GPU finanszírozási megállapodást kötött az Apollóval",
+      "summary": "A SpaceX 40 milliárd dolláros finanszírozási megállapodást írt alá az Apollóval grafikus feldolgozó egységek (GPU-k) beszerzésére. Ez a hatalmas beruházás aláhúzza az AI és a gépi tanulás növekvő jelentőségét az űrtechnológiában.",
       "importance": 4
     },
     {
-      "title": "A Microsoft körülbelül 60 000 alkalmazottjának kínál felvásárlási lehetőséget",
-      "summary": "A Microsoft közel 60 000 alkalmazottjának kínál felvásárlási lehetőséget, ami jelentős átszervezésre utal a techóriásnál. Ez a lépés a technológiai szektorban zajló átalakulások jele lehet.",
+      "title": "Microsoft felvásárlásokat kínál mintegy 60 000 alkalmazottjának",
+      "summary": "A Microsoft felvásárlásokat kínál körülbelül 60 000 alkalmazottjának, ami a vállalat méretű átszervezést vagy hatékonyságnövelési törekvést jelez. Ez jelentős hatással lehet a munkaerőpiacra és a tech szektorra.",
       "importance": 4
+    },
+    {
+      "title": "Startup önvezető markolói 600 millió dolláros új finanszírozást kaptak",
+      "summary": "Egy startup, amely önvezető markolókat fejleszt, 600 millió dolláros új finanszírozást szerzett. Ez a befektetés jelzi az autonóm építőipari gépekben rejlő potenciált és a mesterséges intelligencia terjedését a nehéziparban.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "A fizikusoknak sikerült csapdába ejteni az elektron antianyag megfelelőjét",
-      "summary": "Fizikusoknak áttörést jelentő módon sikerült csapdába ejteni az elektron antianyag megfelelőjét, a pozitront. Ez a felfedezés segíthet jobban megérteni az antianyag tulajdonságait és a világegyetem eredetét.",
+      "title": "Az idegi aktivitás elindítja az autoimmun hajhullást",
+      "summary": "Új kutatások szerint az idegi aktivitás játszhat szerepet az autoimmun eredetű hajhullás, az alopecia areata kialakulásában. Ez a felfedezés új terápiás célpontokat kínálhat a betegség kezelésében.",
+      "importance": 4
+    },
+    {
+      "title": "A fizikusok sikeresen csapdába ejtették az elektron antianyag megfelelőjét",
+      "summary": "Fizikusoknak sikerült csapdába ejteniük az elektron antianyag megfelelőjét, a pozitront, ami jelentős áttörés az antianyag kutatásában. Ez hozzájárulhat az univerzum eredetének és az anyag-antianyag aszimmetriának a megértéséhez.",
+      "importance": 4
+    },
+    {
+      "title": "A tudomány meghosszabbíthatja kutyáink életét? A hosszú élettartam iránti őrület eléri a háziállatokat",
+      "summary": "A tudományos kutatások egyre inkább arra összpontosítanak, hogy hogyan lehetne meghosszabbítani a háziállatok, különösen a kutyák élettartamát. Ez a tendencia rávilágít az öregedéskutatás előrehaladására és a kísérleti terápiák iránti növekvő érdeklődésre.",
+      "importance": 3
+    },
+    {
+      "title": "Az alvásminőség csökken a vidéki közösségekben az elektromosság bevezetése után",
+      "summary": "Egy tanulmány szerint az elektromosság megjelenése után a vidéki közösségekben romlott az alvásminőség, valószínűleg a mesterséges fény és az éjszakai tevékenységek növekedése miatt. Ez a kutatás betekintést nyújt a modernizáció egészségügyi hatásaiba.",
+      "importance": 3
+    }
+  ],
+  "sports": [
+    {
+      "title": "Harry Kane kapta az Aranylabdát a férfiak mezőnyében",
+      "summary": "Harry Kane, az angol válogatott csatára nyerte el a férfi Aranylabdát, a labdarúgás legrangosabb egyéni elismerését. Ezzel a teljesítményével a világ legjobbjai közé emelkedett.",
       "importance": 5
     },
     {
-      "title": "Megtalálhatták a jóindulatú prosztata-megnagyobbodás okát",
-      "summary": "Kutatók valószínűleg felfedezték a jóindulatú prosztata-megnagyobbodás, egy sok férfit érintő állapot alapvető okát. Ez az áttörés új kezelési lehetőségeket nyithat meg.",
+      "title": "Anglia 25 év után ismét Aranylabdást ünnepel Harry Kane révén",
+      "summary": "Harry Kane Aranylabda-győzelmével véget vetett Anglia 25 éves várakozásának a férfi labdarúgásban. Ez az esemény kiemeli Kane nemzetközi elismertségét és az angol futball számára is presztízst jelent.",
       "importance": 4
     },
     {
-      "title": "Az idegi aktivitás indítja el az autoimmun hajhullást",
-      "summary": "Egy új kutatás szerint az idegi aktivitás kulcsszerepet játszik az autoimmun hajhullás, az alopecia areata kialakulásában. Ez a felfedezés új célpontokat kínálhat a betegség kezelésére.",
+      "title": "Alexia Putellas is Aranylabdát nyert a női kategóriában",
+      "summary": "A spanyol középpályás, Alexia Putellas is elnyerte az Aranylabdát, immár másodszor a női kategóriában. Ezzel ismét a női labdarúgás kiemelkedő alakjának bizonyult, erősítve a sportág globális elismerését.",
       "importance": 4
     },
     {
-      "title": "Evolúciós „játékmódot megváltoztató”: furcsa páncélos kétéltű élt az ősi tengerekben",
-      "summary": "Felfedeztek egy különös, páncélos kétéltűt, amely az ősi tengerekben élt, és \"evolúciós játékmódot megváltoztató\" jelentőséggel bír. Ez az élőlény új megvilágításba helyezi a kétéltűek fejlődését és az őskori ökoszisztémákat.",
-      "importance": 4
+      "title": "Az Aranylabda-győzelem hatása: Kane a világ legjobbjaival egy lapon említhető",
+      "summary": "Harry Kane Aranylabdás sikere megerősíti pozícióját a világ legjobb labdarúgói között, és jelentős hatással lehet karrierjére, valamint klubjára. Az elismerés globálisan is reflektorfénybe helyezi a játékos teljesítményét.",
+      "importance": 3
     }
-  ],
-  "sports": []
+  ]
 }

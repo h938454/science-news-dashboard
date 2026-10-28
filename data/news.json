@@ -1,81 +1,5 @@
 {
-  "Telex": [
-    {
-      "title": "Eltűnt a jég Szlovénia legmagasabb csúcsáról",
-      "link": "https://telex.hu/techtud/2026/10/27/szlovenia-triglav-gleccser-jeg-olvadas-klimavaltozas-klimazona",
-      "summary": "Túl meleg volt idén a Triglav gleccsernek, az utolsó jégdarabok is eltűntek."
-    },
-    {
-      "title": "Tíz év börtönt is kaphat egy amerikai nő, akit tinédzserként az apja vitt Szíriába, majd hozzáadták az Iszlám Állam egyik harcosához",
-      "link": "https://telex.hu/kulfold/2026/10/27/tiz-ev-bortont-is-kaphat-egy-amerikai-no-akit-tinedzserkent-az-apja-vitt-sziriaba-hogy-hozzaadja-az-iszlam-allam-egyik-harcosahoz",
-      "summary": "Az amerikai esküdtszék szerint a nő szabad akaratából vett részt a terrorszervezet kiképzésén."
-    },
-    {
-      "title": "Ted Bundy ölhetett meg egy több mint ötven éve meggyilkolt, 17 éves lányt",
-      "link": "https://telex.hu/kulfold/2026/10/27/egyesult-allamok-ted-bundy-gyilkossag-dns-vizsgalat",
-      "summary": "Melissa Ann Smith holttestét vadászok találták meg 1974-ben, halálát most DNS-vizsgálattal kötötték a sorozatgyilkoshoz."
-    },
-    {
-      "title": "Mácsai Pál, Székely Kriszta és Saiid is hoz egy számára fontos verset a Karakter fesztiváljára",
-      "link": "https://telex.hu/kozlemeny/2026/10/27/karakter-kortars-minifesztival-hozz-egy-verset",
-      "summary": "A választott versekhez fűződő személyes történetekről beszélgetünk november 7-én a Trafóban. Az ingyenes programra még lehet regisztrálni."
-    },
-    {
-      "title": "A párizsi klímacél duplájával számolnak az EU-ban, jól megtérülne alkalmazkodni hozzá",
-      "link": "https://telex.hu/gazdasag/2026/10/27/eu-europai-bizottsag-globalis-felmelegedes-alkalmazkodas",
-      "summary": "Az Európai Bizottság szerint arra kellene készülni, hogy az átlaghőmérséklet három fokkal túllépné az iparosodás előtti szintet 2100-ra."
-    },
-    {
-      "title": "Kubatov Gábort ismét Fradi-elnöknek választották, de 2027 elején le kell mondania",
-      "link": "https://telex.hu/sport/2026/10/27/ferencvaros-tisztujitas-kubatov-gabor-osszeferhetetlenseg",
-      "summary": "A Fidesz egykori alelnöke újabb négy évre kapott bizalmat az elnökségtől. A nagy kérdés az lesz, mi lesz februártól, amikor Kubatov már nem lehet elnök."
-    },
-    {
-      "title": "Visszafordítottak egy Las Vegasból felszálló repülőt, mert egy utas azt írta sms-ben, hogy eltéríti a gépet",
-      "link": "https://telex.hu/kulfold/2026/10/27/egyesult-allamok-las-vegas-repulogep-sms",
-      "summary": "Az egyik utaskísérő látta, mit ír, és azonnal szólt a pilótáknak."
-    },
-    {
-      "title": "Exit pollok: Netanjahu pártja kapja a legtöbb szavazatot, de a legfontosabb tévék szerint a vele szembenálló blokk vezet",
-      "link": "https://telex.hu/kulfold/2026/10/27/izrael-valasztas-gyozelem-eredmeny",
-      "summary": "Más exit pollok a kormányfő koalícióját mutatják előrébb. Az viszont minden exit pollban közös, hogy egyik koalíciónak sincs többsége. Évtizedek óta nem látott részvételi arány volt az izraeli választáson, ahol a véglegeshez közeli számok szerint a választópolgárok 77,7 százaléka szavazott, míg 2022-ben csak 70,6 százalék."
-    },
-    {
-      "title": "Töltőn sem volt, magától kigyulladt a frissen kapott rollere, a tűz miatt lakhatatlan lett egy pétervásárai nő háza",
-      "link": "https://telex.hu/belfold/2026/10/27/elektromos-roller-tuz-leegett-haz-petervasara",
-      "summary": "Azt állítja, minden szabályt betartott. Fizetett neki a biztosító, 250 ezer forintot kapott a roller forgalmazójától, de úgy érzi, nem térítették meg az összes kárt, amit az eset okozott."
-    },
-    {
-      "title": "Százmillió forintra bírságolták az iváncsai akkugyárat felszín alatti vizek szennyezése miatt",
-      "link": "https://telex.hu/belfold/2026/10/27/szazmillio-forint-birsag-ivancsa-akkugyar-allami-tamogatas-gajdos-laszlo",
-      "summary": "Gajdos László élő környezetért felelős miniszter azt is bejelentette, hogy a bírság mellett a cég két évig nem kaphat állami támogatást sem."
-    },
-    {
-      "title": "Matthew Perry sosem szabadult a függőség börtönéből",
-      "link": "https://telex.hu/after/2026/10/27/matthew-perry-dokumentumfilm-fuggoseg-jobaratok-a-testvere-es-baratai-meseltek-a-netflixes-filmben-a-sztarrol",
-      "summary": "A Netflixen megjelent új dokumentumsorozat Matthew Perry életével és nem halála körülményeivel foglalkozik. A színész barátainak és családtagjainak történeteiből ismerhetjük meg Perryt, aki egész életében gyerekkori szorongásaira próbált rácáfolni."
-    },
-    {
-      "title": "Klág Dáviddal és filmes ügyekkel folytatódik a Telex Discord-sorozata csütörtökön",
-      "link": "https://telex.hu/kozlemeny/2026/10/27/klag-daviddal-es-filmes-ugyekkel-folytatodik-a-telex-discord-sorozata-csutortokon",
-      "summary": "A Telex és a Karakter újságírójával a magyar film és kultúra helyzetéről és finanszírozásáról fogunk beszélgetni a közönség bevonásával."
-    },
-    {
-      "title": "Megszökött egy elítélt gyilkos egy amerikai börtönből, majd ellopott egy autót",
-      "link": "https://telex.hu/kulfold/2026/10/27/egyesult-allamok-tennesse-borton-szokes",
-      "summary": "Még videó is készült arról, ahogy komótosan körbejárja a kiszemelt járművet."
-    },
-    {
-      "title": "Az Európai Bizottság új javaslata szerint a közösségi médiát is figyelhetné az uniós határvédelmi ügynökség",
-      "link": "https://telex.hu/kulfold/2026/10/27/europai-bizottsag-uj-javaslat-frontex-hatarvedelem-kozossegi-media",
-      "summary": "Az új szabályok alapján a Frontex az EU területén kívül is végezhetne visszaküldési műveleteket."
-    },
-    {
-      "title": "Krimiből felnövéstörténet, felnövéstörténetből krimi",
-      "link": "https://telex.hu/karakter/konyvespolc/2026/10/27/sissel-jo-gazan-egyetlen-cseppben-kritika",
-      "summary": "A dán szerző egy rettentő bűnesettel indít, aztán azon kapjuk magunkat, hogy a bűntény egyre inkább háttérbe szorul, és a fókusz egyéb szintekre terelődik át. Kritika."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
     {
@@ -156,6 +80,16 @@
   ],
   "HVG": [
     {
+      "title": "Nemzetközi elfogatóparancs Matolcsy Ádám ellen, 794 millióért repült a volt honvédelmi miniszter, indul a Wekerle Plusz – Newscast",
+      "link": "https://hvg.hu/itthon/20261028_nemzetkozi-elfogatoparancs-matolcsy-adam-ellen-794-millioert-repult-a-volt-honvedelmi-miniszter-indul-a-wekerle-plusz-newscast",
+      "summary": "Európai és nemzetközi elfogatóparancsot adtak ki az MNB-ügyben érintett Matolcsy Ádám és Stofa György ellen kedden. Szerdától indul a Wekerle Plusz program. Továbbra sincs egyetértés a parkolás kapcsán Karácsony Gergely főpolgármester és a kerületi polgármesterek között. Szalay-Bobrovniczky Kristóf honvédelmi miniszterként 2022 és 2026 között összesen 794 millió forintért repült honvédségi gépekkel. Aláírták a Norvég Alapról szóló megállapodást, 92 milliárd forint érkezik. Kezdje a napot a HVG hírpodcastjával!"
+    },
+    {
+      "title": "Több milliárdos engedménnyel sem ment el a villapark, ahol Novák Katalin lakott",
+      "link": "https://hvg.hu/gazdasag/20261028_harom-semmi-bela-kiraly-ut-allami-villapark-arveres-vagyonkezelo",
+      "summary": "A választások előtt háromszor is meghirdette az állam, mégse kelt el a Béla király úti volt kormányzati rezidencia, pedig még az árát is levitték. Április óta nem is próbálják eladni, egyelőre nem dőlt el ugyanis, hogy a Tisza-kormánynak van-e más terve vele."
+    },
+    {
       "title": "Újabb áldozatát azonosíthatták Ted Bundynak, 37 évvel a sorozatgyilkos halála után",
       "link": "https://hvg.hu/vilag/20261027_ted-bundy-aldozat-dns-tesz-gyilkossag-sorozatgyilkos",
       "summary": "DNS-minták alapján sikerülhet megoldani egy 1974-es gyilkosságot."
@@ -219,33 +153,28 @@
       "title": "Lecsapott a NAV a lélegeztetőgép-beszerzések ügyében, Ausztriában razziázott a hatóság",
       "link": "https://hvg.hu/gazdasag/20261027_nav-lelegeztetogep-beszerzesek-razzia-orizetbe-vetelek-ausztria",
       "summary": "1,5 milliárd forintnyi vagyont foglaltak le, egy embert őrizetbe vettek, a bűnszervezet szökésben lévő egyik irányítója ellen nemzetközi elfogatóparancsot adtak ki. A hatóság több mint 660 millió forintos költségvetési károkozást vizsgál."
-    },
-    {
-      "title": "10 éve csapott le a Netflix a dél-koreai filmekre. Ami azután történt, az minden képzeletet felülmúlt",
-      "link": "https://hvg.hu/tudomany/20261027_netflix-del-koreai-sorozat-film-squid-game-streaming",
-      "summary": "A Netflix tíz évvel ezelőtt kezdte el felkarolni a dél-koreai sorozatokat, filmeket és televíziós produkciókat, ami egy új korszakot nyitott mind a platform, mind a fogyasztott tartalmak terén."
-    },
-    {
-      "title": "Magyar állampolgár, de pimaszság lett volna, ha elmegy szavazni – interjú Kevin Macdonalddal",
-      "link": "https://hvg.hu/360/20261027_kevin-macdonald-interju-oscar-dij-filmrendezo-pressburger-imre-magyar-allampolgar-cinefest",
-      "summary": "Kevin Macdonald Oscar-díjas skót filmrendező, a szintén Oscar-díjas magyar emigráns forgatókönyvíró, Pressburger Imre unokája. Gyökereit kutatva Borsodig és a Bánságig is eljutott, nagyapja kalandos életéről könyvet írt, nemrég felvette a magyar állampolgárságot, az idei CineFesten pedig az Európai Mozi Nagykövete díjjal tüntették ki. Könnyebb dolga volt-e egy híres filmessel a felmenői között, és milyen emlékeket őriz a nagyapjáról? Kik a kedvenc magyar filmesei és melyik színésznővel forgatna újra szívesen? Az utolsó skót király, A dolgok állása és A mauritániai rendezőjével beszélgettünk."
     }
   ],
   "BBC": [
+    {
+      "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+      "link": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority."
+    },
+    {
+      "title": "Watch: What happens now after close vote in Israeli election?",
+      "link": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+    },
     {
       "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
       "link": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
       "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
     },
     {
-      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
-    },
-    {
-      "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
-      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
-      "summary": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday."
+      "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
     },
     {
       "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
@@ -253,9 +182,14 @@
       "summary": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
     },
     {
-      "title": "Men abused woman after her husband drugged and advertised her online, court told",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2d83kmkkyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four men stand trial after the woman's ex-husband has pleaded guilty to drugging and raping her."
+      "title": "Thick fog to create dangerous driving conditions for UK commuters",
+      "link": "https://www.bbc.co.uk/weather/articles/c6x2wr0dwzx1o?at_medium=RSS&at_campaign=rss",
+      "summary": "After storms across the UK, the weather is set to turn calmer with mist and fog at times over the coming week."
+    },
+    {
+      "title": "Neil Young again sues Trump campaign for playing Rockin' in the Free World at rally",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7y3d0dvm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian-American musician sued Trump in 2020 over unauthorised use of song at a political event."
     },
     {
       "title": "Landline switchover could cut people off in emergency, minister warned",
@@ -263,52 +197,52 @@
       "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
     },
     {
-      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+      "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\"."
     },
     {
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+      "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
+      "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities in Utah used advanced DNA technology to solve the cold case decades after the notorious killer was executed."
     },
     {
-      "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-      "link": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-      "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims."
+      "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
     },
     {
-      "title": "China's families are now supporting more old people than kids",
-      "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest figures mark a major milestone as Beijing grapples with an ageing population."
+      "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they want to see in this year's Budget."
     },
     {
-      "title": "Trump vs Obama - which president has the star power to get out the vote?",
-      "link": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout."
+      "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+      "link": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+      "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
     },
     {
-      "title": "Man Utd stick with Carrick: Inside a turbulent 48 hours at Old Trafford",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Sport looks at the 48 hours that led to Manchester United deciding to keep under-pressure Michael Carrick as their head coach for Saturday's trip to Chelsea."
-    },
-    {
-      "title": "Watch: The Mbappé-Chairman Mao controversy explained",
-      "link": "https://www.bbc.co.uk/news/videos/cqy43w2wpy3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kylian Mbappé has apologised for \"ill-judged\" comments he made about late Chinese leader Mao Zedong."
-    },
-    {
-      "title": "Healey to promise £15m to tackle misogyny in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+    },
+    {
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+    },
     {
       "title": "The data center boom has an upside: innovation for the US grid",
       "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
@@ -373,16 +307,6 @@
       "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
       "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
       "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability."
-    },
-    {
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software."
-    },
-    {
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity."
     }
   ],
   "Nature": [
@@ -432,6 +356,11 @@
       "summary": "<p>Nature, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02814-9\">doi:10.1038/d41586-026-02814-9</a></p>Misplaced or borrowed laboratory equipment can bring experiments to a halt. Scientists explain how they stop essential kit from going missing."
     },
     {
+      "title": "Gene therapy that led to boy’s death had limited efficacy",
+      "link": "https://www.nature.com/articles/d41586-026-03449-6",
+      "summary": "<p>Nature, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03449-6\">doi:10.1038/d41586-026-03449-6</a></p>Therapy pioneered by biotechnology Chinese firm HuidaGene showed promise in animals but caused a fatal reaction in a child."
+    },
+    {
       "title": "Why pharma firms are betting billions on psychedelic drugs despite setbacks",
       "link": "https://www.nature.com/articles/d41586-026-03390-8",
       "summary": "<p>Nature, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03390-8\">doi:10.1038/d41586-026-03390-8</a></p>Regulatory pushback stalled the field. But researchers are optimistic about mind-altering drugs as potential treatments for depression and mood disorders."
@@ -455,11 +384,6 @@
       "title": "Global climate body fights for survival: why the IPCC must be saved",
       "link": "https://www.nature.com/articles/d41586-026-03403-6",
       "summary": "<p>Nature, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03403-6\">doi:10.1038/d41586-026-03403-6</a></p>The UN organization faces perhaps the most serious crisis in its nearly 40-year history — but it is too precious to lose."
-    },
-    {
-      "title": "Can scientists reliably tell if a novel is written using AI?",
-      "link": "https://www.nature.com/articles/d41586-026-03394-4",
-      "summary": "<p>Nature, Published online: 27 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03394-4\">doi:10.1038/d41586-026-03394-4</a></p>Computer scientist Tuhin Chakrabarty talks about detecting AI-generated prose — and why it matters."
     }
   ]
 }

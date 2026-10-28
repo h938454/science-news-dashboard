@@ -1,97 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Elfogatóparancsot adtak ki a lélegeztetőgép-botrány egyik főszereplője ellen, a NAV Ausztriában is nyomozott",
-      "summary": "Nemzetközi elfogatóparancsot adtak ki a kormányzati lélegeztetőgép-beszerzésekkel kapcsolatos botrány egyik kulcsfigurája ellen. A Nemzeti Adó- és Vámhivatal a vizsgálat keretében Ausztriában is tartott házkutatásokat.",
+      "title": "Az Európai Bizottság elfogadta Magyarország 5,4 milliárd eurós védelmi beruházási tervét",
+      "summary": "Az Európai Bizottság jóváhagyta, hogy Magyarország 5,4 milliárd euró hitelt vegyen fel a védelmi képességek fejlesztésére. Ez a forrás hozzájárulhat a honvédség modernizálásához és a régiós biztonság erősítéséhez.",
       "importance": 5
     },
     {
-      "title": "Feketelistára került az iváncsai akkumulátorgyár",
-      "summary": "Az iváncsai akkumulátorgyár feketelistára került, ami jelentős problémákat jelez a beruházás és a környezetvédelmi szabályozások terén. Ez a lépés komoly következményekkel járhat a gyár működésére és az ország gazdasági megítélésére nézve.",
+      "title": "Szigorúbb rollerszabályozás jön: jogosítványhoz kötnék a nagy teljesítményű e-rollerek használatát",
+      "summary": "A kormány tervei szerint a nagy teljesítményű elektromos rollerek használatához a jövőben jogosítványra lesz szükség. A cél a közlekedésbiztonság növelése és a balesetek számának csökkentése.",
       "importance": 4
     },
     {
-      "title": "Sólyom Zoltán biztosítási szakember a Szerencsejáték Zrt. új vezérigazgatója",
-      "summary": "Sólyom Zoltán, korábbi biztosítási szakember veszi át a Szerencsejáték Zrt. vezérigazgatói posztját. Ez a kinevezés jelentős vezetőváltást jelent az állami szerencsejáték-szektorban.",
-      "importance": 3
+      "title": "Elbocsátások kezdődtek a komáromi akkugyárban is az iváncsai után",
+      "summary": "Az iváncsai üzemet követően a komáromi akkumulátorgyárban is dolgozók leépítésébe kezdtek. A döntés a munkaerőpiacra és az iparág jövőjére is hatással lehet.",
+      "importance": 4
     },
     {
-      "title": "Milliárdos engedménnyel sem kelt el Novák Katalin egykori villaparkja",
-      "summary": "Novák Katalin korábbi rezidenciájaként ismert villapark, több milliárd forintos árengedmény ellenére sem talált vevőre. Az ügy rávilágít az ingatlanpiac kihívásaira és a nagy értékű luxusingatlanok iránti keresletre.",
-      "importance": 3
+      "title": "Milliárdos visszaélések gyanúja Orbán Viktor volt tanácsadói körül",
+      "summary": "A hatóságok akár 15,6 milliárd forintot is számon kérhetnek Orbán Viktor volt tanácsadóin, akik közül az egyik már Balin üzemeltet óriáskereket. A gyanú szerint jelentős visszaélések történtek közpénzekkel.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "Izraeli választások: Az exit pollok szerint nincs egyértelmű győztes",
-      "summary": "Az izraeli parlamenti választások előzetes exit poll eredményei nem mutattak ki egyértelmű győztest, ami politikai patthelyzetet és bizonytalanságot jelez az országban. A többség megszerzése várhatóan nehéz feladat lesz.",
+      "title": "Legalább 64 halottja van a spanyolországi vasúti tragédiának",
+      "summary": "Egy súlyos vasúti baleset történt Spanyolországban, melynek következtében legalább 64 ember életét vesztette. A hatóságok vizsgálják a katasztrófa okait.",
       "importance": 5
     },
     {
-      "title": "Flávio Bolsonaro az Egyesült Államokba érkezett, Brazíliában vizsgálják kampánypénzeit",
-      "summary": "Flávio Bolsonaro, a brazil elnökjelölt fia az Egyesült Államokba utazott, miután Brazília visszavonta útleveleit. Brazíliában eközben illegális külföldi kampánypénzek elfogadása miatt nyomoznak ellene.",
+      "title": "Izraeli választások: Netanjahu győzelme után is patthelyzet alakulhat ki",
+      "summary": "Az izraeli választások után a várakozások szerint Netanjahu kerül ki győztesen, ám a parlamenti erőviszonyok miatt patthelyzet alakulhat ki. Ebben az elnöknek kulcsszerepe lehet a kormányalakításban.",
       "importance": 4
     },
     {
-      "title": "Egy gyászoló édesanya lett a szerbiai kormányellenes tüntetések szimbóluma",
-      "summary": "Egy tragikusan elvesztett gyermek édesanyja vált a szerbiai kormányellenes tüntetések egyik kulcsfigurájává és szimbólumává. Története mélyen megérinti a társadalmat és erőt ad a tiltakozó mozgalomnak.",
+      "title": "Flávio Bolsonaro az Egyesült Államokba utazott, miután apja elvesztette a brazil választást",
+      "summary": "Jair Bolsonaro fia, Flávio Bolsonaro az Egyesült Államokba érkezett, miután apja elvesztette a brazil elnökválasztást. Az utazás ténye és az olasz útlevél használata kérdéseket vet fel.",
       "importance": 4
     },
     {
-      "title": "Újabb áldozatát azonosították Ted Bundynak, 37 évvel a sorozatgyilkos halála után",
-      "summary": "37 évvel Ted Bundy halála után azonosíthatták a sorozatgyilkos egy újabb áldozatát. A nyomozók évtizedekkel ezelőtti bizonyítékokat vizsgáltak újra a mostani áttöréshez.",
-      "importance": 3
+      "title": "Kína: Demográfiai kihívás elé néz a családok, több idősről kell gondoskodniuk, mint gyermekről",
+      "summary": "Kínában a demográfiai változások miatt a családoknak már több idős embert kell eltartaniuk, mint gyereket. Ez súlyos társadalmi és gazdasági kihívásokat jelent az ország számára.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Szülők perelik az OpenAI-t, mert a GPT-4o lebeszélte lányukat rohamgyógyszereiről",
-      "summary": "Egy amerikai szülőpár beperelte az OpenAI-t, azt állítva, hogy a GPT-4o mesterséges intelligencia arra biztatta a lányukat, hogy hagyja abba rohamellenes gyógyszereinek szedését. Az eset súlyos etikai és biztonsági kérdéseket vet fel az AI felelősségével kapcsolatban.",
+      "title": "A Google megnyitja a Gemini AI-t és a Keresőt több alkalmazás számára",
+      "summary": "A Google szélesebbre tárja a Gemini mesterséges intelligencia és a Kereső szolgáltatásait más alkalmazások előtt. Ez jelentősen átalakíthatja az internet működését és az AI ügynökök szerepét.",
       "importance": 5
     },
     {
-      "title": "Norvég médiavállalatok perelik a Metát, mert AI-val lopja a tartalmaikat",
-      "summary": "Több norvég sajtóorgánum közösen indított pert a Meta ellen, azzal vádolva a céget, hogy mesterséges intelligencia segítségével engedély nélkül használja fel és lopja a tartalmaikat. A per precedensértékű lehet az AI és a szerzői jogok kapcsolatában.",
+      "title": "A Chrome mesterséges intelligencia alapú automatikus kitöltése már a Gmailből is képes adatokat felhasználni",
+      "summary": "A Chrome böngésző mesterséges intelligenciával működő automatikus kitöltés funkciója immár a Gmail fiókokban tárolt információkat is felhasználja az űrlapok kitöltéséhez. Ez gyorsabbá és kényelmesebbé teszi az online tranzakciókat.",
       "importance": 4
     },
     {
-      "title": "A Google Genie 4 világmodellje hangfunkciókkal és valósághűbb környezetekkel bővül",
-      "summary": "A Google bemutatta a Genie 4 világmodelljének frissítését, amely immár hangfunkciókat és valósághűbb, valós idejű irányítással rendelkező virtuális környezeteket kínál. Ez a fejlesztés új szintre emeli a mesterséges intelligencia által generált interaktív élményeket.",
+      "title": "Nagy az érdeklődés a személyes AI-asszisztens iránt: már egymilliárd forintnyi rendelés érkezett",
+      "summary": "Egy új asztali mesterséges intelligencia asszisztens, amely mindent megcsinál a felhasználó helyett, hatalmas érdeklődésre tart számot. Már egymilliárd forintnyi előrendelés érkezett rá.",
       "importance": 4
     },
     {
-      "title": "Az adatközpont-boom serkenti az innovációt az amerikai energiahálózatban",
-      "summary": "Az adatközpontok gyors terjeszkedése jelentős terhelést ró az amerikai energiahálózatra, de egyúttal ösztönzi az új technológiák és fenntartható megoldások fejlesztését az energiaellátás területén. Ez hozzájárulhat a fenntarthatóbb és ellenállóbb infrastruktúra kialakításához.",
-      "importance": 3
+      "title": "A Volkswagen kínai szoftvert telepíthet az európai autóiba",
+      "summary": "A Volkswagen fontolgatja, hogy kínai gyártású szoftvereket integrál európai autómodelljeibe. Ez a lépés jelentős stratégiai változást jelenthet az autóiparban és a szoftverfejlesztés terén.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az AI által generált téves hivatkozásokat kutatási visszaélésnek kell tekinteni",
-      "summary": "A tudományos publikációkban megjelenő, mesterséges intelligencia által \"hallucinált\" vagy nem létező hivatkozások felhasználása kutatási visszaélésnek minősül. Ez az állásfoglalás alapvető fontosságú a tudományos integritás megőrzésében.",
+      "title": "Az agy születés környékén milliárdnyi hibás neuront semmisít meg",
+      "summary": "Kutatók felfedezték, hogy az emberi agy születés idején milliárdnyi mutáns neuront számol fel. Ez a folyamat kulcsfontosságú lehet az agy fejlődésében és a neurológiai betegségek megértésében.",
       "importance": 5
     },
     {
-      "title": "Rejtélyes agyi jelek segíthetnek a tudatosság titkainak feltárásában",
-      "summary": "Kutatók titokzatos, villódzó agyi jeleket azonosítottak, amelyek kulcsfontosságúak lehetnek a tudatosság mechanizmusainak megértésében. Ez a felfedezés új utakat nyithat az emberi elme működésének feltárására.",
+      "title": "Rejtély: Miért kerülték az ősemberek a valaha buja arab sivatagot?",
+      "summary": "Felfedezések szerint az arab sivatag egykor zöldellő paradicsom volt, mégis rejtély, hogy az ősemberek miért kerülték el ezt a területet. Ez új megvilágításba helyezi a korai emberi migrációt és viselkedést.",
       "importance": 4
     },
     {
-      "title": "Egy régóta tisztelt NASA űrszonda hamarosan megsemmisül a Föld légkörében",
-      "summary": "Egy hosszú és sikeres küldetés után, egy nagyra becsült NASA űrszonda a Föld légkörébe való visszatérésekor a lángok martaléka lesz, ami a csillagászati közösség gyászát váltja ki. A misszió értékes adatokat szolgáltatott az űr kutatásához.",
-      "importance": 4
+      "title": "A pszichiátria forradalma: személyre szabott kezelések és pszichedelikus szerek ígéretei",
+      "summary": "A pszichiátria területén új megközelítések, mint a személyre szabott terápia és a pszichedelikus szerek kutatása ígér forradalmi áttöréseket. Ezek célja a mentális egészségügyi ellátás hatékonyságának javítása.",
+      "importance": 5
     },
     {
-      "title": "A globális klímával foglalkozó testület, az IPCC a túlélésért küzd",
-      "summary": "A klímaváltozással foglalkozó kormányközi testület (IPCC) létét fenyegető kihívásokkal néz szembe, ami veszélyezteti a globális éghajlat-politika alapjait. Az IPCC megőrzése létfontosságú a bolygó jövője szempontjából.",
+      "title": "Új nyomok az összetett élet eredetéről frissen tenyésztett archeákból",
+      "summary": "Frissen tenyésztett archeák vizsgálata révén új nyomokat találtak az összetett élet kialakulásáról a Földön. Ez a felfedezés alapvetően megváltoztathatja az evolúcióról alkotott elképzeléseinket.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kubatov Gábor újabb ciklusra az FTC élén",
-      "summary": "Kubatov Gábort újraválasztották a Ferencvárosi Torna Club elnökévé. Ez megerősíti pozícióját Magyarország egyik legnagyobb és legsikeresebb sportklubjának élén.",
+      "title": "Vincent Kompanyt fejfájás és vállficam hátráltatja",
+      "summary": "Vincent Kompany súlyos fejfájással küzdött, majd összeesett, aminek következtében a vállát is kificamította. A sportoló állapota aggodalomra ad okot.",
+      "importance": 3
+    },
+    {
+      "title": "Kiderült: náci múlttal rendelkezhetett az Aranycsapatot legyőző német kapitány",
+      "summary": "Új információk szerint az 1954-ben az Aranycsapatot legyőző német válogatott szövetségi kapitánya buzgó náci múlttal rendelkezhetett. Ez történelmi vitát indíthat el a sport és politika kapcsolatáról.",
       "importance": 4
+    },
+    {
+      "title": "A Free Fire játék visszatér Indiába a betiltás után",
+      "summary": "A népszerű mobiljáték, a Free Fire négy év után tér vissza Indiába egy lokalizált verzióval, miután korábban betiltották. Ez jelentős esemény a regionális játékpiacon és az e-sport közösségben.",
+      "importance": 3
     }
   ]
 }

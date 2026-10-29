@@ -1,102 +1,91 @@
 {
   "hungary": [
     {
-      "title": "A kormány 1,75 milliárd forintos alappal töltené fel az üres háziorvosi praxisokat",
-      "summary": "A kormány jelentős, 1,75 milliárd forintos alapot hozna létre az üres háziorvosi praxisok feltöltésére. Célja a vidéki egészségügyi ellátás javítása és a fiatal orvosok vonzása a kevésbé népszerű területekre.",
+      "title": "Húszmilliárd forintnyi plusz és átalakítás jön a szociális ágazatban",
+      "summary": "Jelentős, húszmilliárd forintos pluszforrás és strukturális átalakítások várhatók a szociális ágazatban. Cél a rendszer hatékonyabbá tétele és a szolgáltatások minőségének javítása.",
       "importance": 5
     },
     {
-      "title": "Tiborcz István neve eltűnt a magántőkealapokból, Matolcsy Ádám viszont hat mögött is feltűnt",
-      "summary": "Tiborcz István, Orbán Viktor vejének neve már nem szerepel a magántőkealapok nyilvántartásában. Ezzel párhuzamosan Matolcsy Ádámot hat alap mögött is megtalálták jelentős, százmilliárdos vagyonnal.",
-      "importance": 4
-    },
-    {
-      "title": "A Schadl–Völner-ügy után is működött végrehajtói bűnszervezet – állítja egy volt végrehajtó",
-      "summary": "Egy volt bírósági végrehajtó, Kiss Ferenc állítása szerint a Schadl–Völner-páros lekapcsolása után is tovább működött egy végrehajtói bűnszervezet. A parlamenti bizottság előtt beszélt a rendszerszintű problémákról és a szabadon hozzáférhető informatikai rendszerekről.",
-      "importance": 4
-    },
-    {
-      "title": "Az Európai Bizottság hozzájárult 5,4 milliárd euró védelmi hitel felvételéhez Magyarország számára",
-      "summary": "Az Európai Bizottság jóváhagyta, hogy Magyarország 5,4 milliárd euró hitelt vegyen fel védelmi beruházásokra. Ez az összeg a honvédelem modernizálását és a katonai képességek fejlesztését szolgálja.",
+      "title": "Eltörlik a szolgálati nyugdíj bérplafonját",
+      "summary": "A kormány eltörli a szolgálati nyugdíjak bérplafonját, egy régóta fennálló adósságot rendezve ezzel. A változás sok érintett számára jelent majd anyagi könnyebbséget.",
       "importance": 5
+    },
+    {
+      "title": "Az Alkotmánybíróság dönt a készpénzes parkolás jogáról",
+      "summary": "Az Alkotmánybíróság elé kerül a kérdés, hogy alapvető jognak minősül-e készpénzzel fizetni a parkolásért. A döntés széles körben érintheti a polgárok mindennapjait.",
+      "importance": 5
+    },
+    {
+      "title": "Rekordtöbbletet ért el a magyar külkereskedelem",
+      "summary": "Szeptemberben a magyar külkereskedelem 300 milliárd forintot meghaladó többletet hozott össze. Ez a kiemelkedő teljesítmény az export és import egyensúlyának javulását jelzi.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Legalább 68 ember meghalt egy spanyolországi vonatbalesetben, azonnali vizsgálatot követelnek",
-      "summary": "Egy tragikus nagysebességű vonatbalesetben legalább 68 ember vesztette életét Spanyolországban. A legnagyobb ellenzéki párt azonnali igazságügyi vizsgálatot követel a katasztrófa okainak feltárására.",
+      "title": "Súlyos vasúti tragédia Spanyolországban, gyászt hirdettek",
+      "summary": "Spanyolországban háromnapos gyászt hirdettek egy halálos vasúti tragédia miatt, amelyben már 68 áldozatot tartanak számon. A hatóságok vizsgálják a baleset okait és körülményeit, miközben részletek derülnek ki a vezérlő és a mozdonyvezetők közötti kommunikációból.",
       "importance": 5
     },
     {
-      "title": "Netanjahu blokkja vezet az izraeli választásokon, de nincs többsége az előzetes eredmények szerint",
-      "summary": "Benjamin Netanjahu pártblokkja vezet az izraeli választásokon a részleges eredmények alapján, de egyelőre nem szerzett abszolút többséget. Orbán Viktor magyar miniszterelnök már előre gratulált neki a győzelemhez.",
+      "title": "Palesztin pártok lehetnek a királycsinálók az izraeli politikában",
+      "summary": "A rekordot döntő palesztin pártok kulcsszerepet kaphatnak az izraeli kormányalakításban, ami valószínűsíti, hogy Netanjahunak és Ejzenkotnak sem lesz többsége. Ez jelentős változást hozhat a régió politikai erőviszonyaiban.",
       "importance": 5
     },
     {
-      "title": "Healey 100 fontot ígér az energiaszámlákra és bankadót vezet be első költségvetésében az Egyesült Királyságban",
-      "summary": "Jeremy Healey brit pénzügyminiszter az első költségvetésében 100 fontos támogatást jelentett be az energiaszámlákra és új bankadót vezet be. Ezzel próbálja enyhíteni az inflációs nyomást a háztartásokon és stabilizálni a gazdaságot.",
-      "importance": 4
+      "title": "Oroszország a multipoláris világrendről tárgyalna a G20-on",
+      "summary": "Oroszország a G20-ak külügyminiszteri csúcstalálkozóján a multipoláris világrend alapjairól kíván tárgyalni. Ez a lépés rávilágít az orosz diplomácia geopolitikai ambícióira és a nemzetközi renddel kapcsolatos elképzeléseire.",
+      "importance": 5
     },
     {
-      "title": "Újabb teherhajót támadtak drónokkal a Fekete-tengeren",
-      "summary": "Újabb teherhajót ért dróntámadás a Fekete-tengeren, ami tovább növeli a feszültséget a térségben. Az incidens kihívást jelent a nemzetközi hajózás biztonságára és az élelmiszer-szállításra.",
+      "title": "Amerikai bevándorlási ügynökök adatai szivárogtak ki hackertámadásban",
+      "summary": "Több ezer amerikai határ- és bevándorlási ügynök személyes adatai szivárogtak ki egy nagyszabású hackertámadás során. Az eset komoly biztonsági aggályokat vet fel a kormányzati adatvédelemmel kapcsolatban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Microsoft 10 milliárd dollár bevételt ért el az OpenAI-tól és tíz egymást követő negyedévben rekordbevételt könyvelt el",
-      "summary": "A Microsoft 10 milliárd dollár bevételre tett szert az OpenAI-tól, miközben tíz egymást követő negyedévben is rekordbevételt könyvelhetett el. Ez a mesterséges intelligencia területén és a felhőpiacon elért hatalmas sikereket jelzi.",
+      "title": "Megjelent az Apple érintőképernyős MacBook Proja",
+      "summary": "Az Apple bemutatta régóta várt, érintőképernyős MacBook Pro laptopját, amely jelentős újítást hoz a termékcsaládba. Az új modell egyúttal új, prémium árazási szintre is emeli a hordozható számítógépeket.",
       "importance": 5
     },
     {
-      "title": "Megérkezett az érintőképernyős MacBook Pro, visszatért a világító alma",
-      "summary": "Az Apple bemutatta az új érintőképernyős MacBook Prót, melynek hátlapján tíz év után ismét világít a logó. Ez a frissítés jelentős változást hoz a cég laptopkínálatában és a felhasználói élményben.",
-      "importance": 4
-    },
-    {
-      "title": "Hacker lopott el személyes adatokat ezer honvédelmi alkalmazottról az Egyesült Államokban",
-      "summary": "Egy hacker személyes adatokat lopott el több ezer amerikai honvédelmi alkalmazottról, köztük határőrök és bevándorlási hivatalnokok adatait. Ez a súlyos adatvédelmi incidens komoly biztonsági kockázatot jelent a kormányzati szervek számára.",
+      "title": "A Google globálisan terjeszti az AI alapú hirdetéseket a keresésben",
+      "summary": "A Google világszerte kiterjeszti az AI-vezérelt keresési hirdetéseit, miközben az alapvető hirdetési növekedés lelassult. Ez a stratégiai lépés az AI erejét használná ki a bevételek fellendítésére.",
       "importance": 5
     },
     {
-      "title": "A Google globálisan terjeszti ki az AI-alapú keresési hirdetéseket és megnyitja a Geminit több alkalmazás számára",
-      "summary": "A Google globálisan bővíti az AI-alapú keresési hirdetések szolgáltatását, és megnyitja Gemini AI modelljét a külső alkalmazások számára. Ez a lépés az AI integrációját erősíti a digitális ökoszisztémában, miközben a hagyományos hirdetési bevételek növekedése lassul.",
+      "title": "A Microsoft 10 milliárd dollár bevételt könyvelt el az OpenAI-tól",
+      "summary": "A Microsoft bejelentette, hogy 10 milliárd dollár bevételt realizált az OpenAI partnerségéből. Ez a szám rávilágít a mesterséges intelligencia gazdasági jelentőségére és a két vállalat közötti szoros együttműködés sikerére.",
+      "importance": 5
+    },
+    {
+      "title": "A Google kiterjeszti a Gemini és a Keresés integrációját több alkalmazásra",
+      "summary": "A Google tovább integrálja AI-alapú Gemini modelljét és keresőmotorját más alkalmazásokba, átalakítva ezzel a webes felhasználói élményt. A lépés célja, hogy az AI-ügynökök még szélesebb körben legyenek elérhetők a felhasználók számára.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az agy milliárdnyi mutáns neuront számol fel születésünk körül",
-      "summary": "Felfedezték, hogy az agy születésünk körül milliárdnyi mutáns neuront számol fel. Ez a folyamat kulcsfontosságú az egészséges agyfejlődéshez és az idegrendszer megfelelő működéséhez.",
+      "title": "Új törpebolygót fedezhettek fel a Naprendszerben, a Plútón túl",
+      "summary": "Tudósok egy új törpebolygó nyomaira bukkantak a Naprendszer külső régiójában, a Plútón túl. Ez a potenciális felfedezés tovább bővítheti az égitestekről alkotott ismereteinket.",
       "importance": 5
     },
     {
-      "title": "Miért kerülték el az ősi emberek ezt a dús arab sivatagi paradicsomot?",
-      "summary": "Egy kutatás szerint az ősi emberek érthetetlen módon elkerültek egy termékeny arab sivatagi területet, amely korábban dús paradicsom volt. A vízellátás és a kőzetek elérhetősége befolyásolhatta az ősi települések kialakulását.",
-      "importance": 4
+      "title": "Az agy születés körüli időszakban milliárdnyi mutáns neuront számol fel",
+      "summary": "A kutatások szerint az emberi agy születésünk körüli időszakban milliárdnyi mutáns neuront likvidál. Ez a folyamat kulcsfontosságú az egészséges agyfejlődés szempontjából.",
+      "importance": 5
     },
     {
-      "title": "Szilikonok monomerjeire való depolimerizációja deoxigenatív klórozással – új út az újrahasznosításra",
-      "summary": "Egy új eljárás lehetővé teszi a szilikonok deoxigenatív klórozással történő depolimerizációját monomerjeire. Ez a technológia kulcsfontosságú lehet a szilikonhulladék újrahasznosításában és a fenntartható anyagkezelésben.",
-      "importance": 4
+      "title": "Személyre szabott terápiák és pszichedelikumok forradalmasítják a pszichiátriát",
+      "summary": "A személyre szabott terápiás megközelítések és a pszichedelikus szerek alkalmazása új lendületet ad a pszichiátriának. Ezek az innovatív módszerek reményt adnak a mentális betegségek hatékonyabb kezelésére.",
+      "importance": 5
     },
     {
-      "title": "Újonnan tenyésztett archeákból származó nyomok a komplex élet kialakulásáról",
-      "summary": "Az újonnan tenyésztett archeák tanulmányozása fontos nyomokat szolgáltat a komplex élet kialakulásáról. Ezek az ősi mikroorganizmusok alapvető betekintést nyújtanak az evolúcióba és az élet eredetébe.",
+      "title": "Új nyomok az összetett élet eredetéről frissen kultivált archaeáktól",
+      "summary": "Frissen tenyésztett archaea mikroorganizmusoktól származó új adatok szolgáltatnak nyomokat az összetett élet evolúciójához. Ez a felfedezés mélyebb betekintést nyújt a földi élet kialakulásába.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Elhagyta a kórházat a Bayern München edzője, Thomas Tuchel",
-      "summary": "Thomas Tuchel, a Bayern München edzője elhagyta a kórházat, miután öt nappal korábban összeesett egy edzésen. Jelenleg jól van, és a felépülése zökkenőmentesen halad.",
-      "importance": 4
-    },
-    {
-      "title": "Debre Szabolcs Attila lett a GeoGuessr-világbajnok",
-      "summary": "Debre Szabolcs Attila GeoGuessr-világbajnok lett, amihez stratégiai tippek és a környezeti jelek felismerése is hozzájárult. Ez egy egyedülálló e-sport siker egy magyar játékos számára.",
-      "importance": 3
-    }
-  ]
+  "sports": []
 }

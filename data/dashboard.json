@@ -1,102 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Rendőrségi nyomozás az MNB-nél: bankgarancia és titkos beszerzés ügyében",
-      "summary": "A Varga Mihály vezette Magyar Nemzeti Bankot érintő ügyekben, egy 3 milliárdos bankgarancia és egy titkosított beszerzés kapcsán is vizsgálódik a rendőrség. A nyomozás a jegybank működésének átláthatóságát érintő kérdéseket vet fel.",
+      "title": "Nyomoz a rendőrség az MNB ügyeiben, köztük egy 3 milliárdos bankgarancia miatt",
+      "summary": "A Varga Mihály vezette Magyar Nemzeti Bankot érintő ügyekben, egy titkosított beszerzés és egy 3 milliárd forintos bankgarancia kapcsán is nyomozást indított a rendőrség. A vizsgálat célja a körülmények tisztázása és az esetleges visszaélések felderítése.",
       "importance": 5
     },
     {
-      "title": "Zöld utat kapott a jövő évi költségvetés a Költségvetési Tanácstól",
-      "summary": "A Költségvetési Tanács nem talált kivetnivalót a kormány által előterjesztett jövő évi költségvetés tervezetében. Ez azt jelenti, hogy a gazdasági tervek akadálytalanul haladhatnak a parlament elé.",
+      "title": "A Költségvetési Tanács nem emelt kifogást a jövő évi költségvetéssel szemben",
+      "summary": "A Költségvetési Tanács nem talált kivetnivalót a Magyar-kormány által javasolt jövő évi költségvetés tervezetében, ezzel zöld utat adva annak parlamenti elfogadására. Ez a döntés kulcsfontosságú a nemzetgazdaság stabilitása szempontjából.",
+      "importance": 5
+    },
+    {
+      "title": "Elutasították a debreceni CATL-gyár elleni keresetet",
+      "summary": "A bíróság elutasította a debreceni civilek keresetét a tervezett CATL akkumulátorgyárral szemben, ezzel meghiúsítva az építkezés leállítására irányuló jogi próbálkozásokat. Az ítélet ellenére a tiltakozások folytatódhatnak az üzem megépítése ellen.",
       "importance": 4
     },
     {
-      "title": "Elutasították a debreceni CATL-gyár elleni civil keresetet",
-      "summary": "A bíróság elutasította azon debreceni civilek keresetét, akik a tervezett akkumulátorgyár környezeti hatásai miatt indítottak eljárást. Az ítélet megnyitja az utat a gyár építése előtt, annak ellenére, hogy a helyi lakosok továbbra is aggódnak a környezeti terhelés miatt.",
-      "importance": 4
-    },
-    {
-      "title": "Gyorsvasút-projekt: Magyar Péter és Andrej Babiš Brüsszelben lobbiznak",
-      "summary": "Magyar Péter és Andrej Babiš cseh ex-miniszterelnök találkozójukon megegyeztek abban, hogy Brüsszelben gyorsvasút-projektre gyűjtenek forrásokat. A megbeszélés egy regionális infrastrukturális beruházás lehetőségét veti fel.",
+      "title": "Prága–Budapest–Belgrád vonatjáratokról tárgyaltak a cseh–magyar kormányülésen",
+      "summary": "A cseh és magyar kormány képviselői kétoldalú tárgyalásokat folytattak a Prága–Budapest–Belgrád közötti vasúti járatok fejlesztéséről és lehetséges gyorsvasúti összeköttetésekről. Az egyeztetések a regionális infrastruktúra és közlekedési kapcsolatok megerősítését célozzák.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Kibertámadás gyanúja a Pentagonnál katonai bázisokat érintő problémák miatt",
-      "summary": "A Pentagon feltételezése szerint kibertámadás okozhatta azokat a rejtélyes fagyasztóproblémákat, amelyek számos amerikai katonai bázison tárolt élelmiszer megromlásához vezettek. A vizsgálat a nemzetbiztonságot és az élelmiszerellátást fenyegető potenciális veszélyre utal.",
+      "title": "A brit titkosszolgálat több ezer titkos adathordozót vesztett el",
+      "summary": "A brit hírszerzés bejelentette, hogy több ezer, rendkívül érzékeny és titkos információkat tartalmazó adathordozója tűnt el nyomtalanul. Ez az eset súlyos nemzetbiztonsági kockázatot jelent, és vizsgálatot indítottak az ügyben.",
       "importance": 5
     },
     {
-      "title": "Több ezer titkos adathordozót veszített el a brit titkosszolgálat",
-      "summary": "A brit hírszerzés bejelentette, hogy több ezer titkos információkat tartalmazó adathordozó tűnt el. Ez a rendkívüli biztonsági incidens komoly aggodalmakat vet fel a nemzetbiztonsággal kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Helikopterbaleset Boszniában: hárman meghaltak az EUFOR misszióban",
-      "summary": "Az EUFOR misszió egyik helikoptere lezuhant Boszniában, a tragédiában hárman életüket vesztették. Az eset rávilágít a békefenntartó műveletek kockázataira és a régió stabilitásának fontosságára.",
+      "title": "Kibertámadás gyanúja a Pentagon rejtélyes fagyasztóproblémái mögött",
+      "summary": "A Pentagon kibertámadást sejt a rejtélyes fagyasztóproblémák mögött, amelyek miatt több amerikai katonai bázison tárolt élelmiszer is megromlott. Az eset felderítése kiemelt fontosságú a nemzetbiztonság szempontjából.",
       "importance": 4
     },
     {
       "title": "Rekordszámú tagot zártak ki a Kínai Kommunista Pártból",
-      "summary": "Rekordmagas számú tagot zártak ki a Kínai Kommunista Pártból az elmúlt időszakban, ami a párton belüli tisztogatásokra és feszültségekre utal. Ez a lépés jelentős belső politikai változásokra enged következtetni.",
+      "summary": "Példátlan számú tagot, rekordmennyiséget zártak ki a Kínai Kommunista Pártból az elmúlt időszakban, ami a párton belüli fegyelmezési kampány erősödésére utal. Ez a lépés a hatalom konszolidációját és a korrupció elleni harcot célozza.",
+      "importance": 4
+    },
+    {
+      "title": "Kilakoltatják a Novaja Gazeta szerkesztőségét Moszkvában",
+      "summary": "A Kremllel kritikus, független orosz lap, a Novaja Gazeta moszkvai szerkesztőségét kilakoltatják épületéből. Ez az intézkedés újabb csapás a sajtószabadságra Oroszországban, és a kritikus hangok elhallgattatására irányul.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Kínai kémösszeesküvés lepleződött le az Nvidia vezérigazgatója ellen",
-      "summary": "Az Egyesült Államok vizsgálatot indított egy állítólagos kínai kémösszeesküvés ügyében, amelynek célpontja az Nvidia vezérigazgatója volt. Az eset a technológiai szektorban zajló geopolitikai versengést és ipari kémkedést helyezi előtérbe.",
+      "title": "A Google értéke 500 milliárd dollárral zuhant az AI-félelmek miatt",
+      "summary": "A Google piaci értéke hatalmasat, 500 milliárd dollárral esett vissza a Wall Street-en a mesterséges intelligenciával kapcsolatos aggodalmak közepette. Ez a piaci reakció rávilágít az AI technológia gyors fejlődésével járó bizonytalanságra.",
       "importance": 5
     },
     {
-      "title": "A GM 220 millió dolláros kártérítést fizetett a sofőrök adatainak eladása miatt",
-      "summary": "A General Motors 220 millió dolláros peren kívüli egyezséget kötött a vádak szerint a sofőrök privát adatainak engedély nélküli eladása miatt. Az eset rávilágít az adatvédelem és a magánélet fontosságára az autóiparban is.",
+      "title": "Milliárdos kriptovaluta érték fagyott be gyanús Binance hack után",
+      "summary": "Milliárd dolláros értékű kriptovaluta befagyasztására került sor egy gyanús Binance hack után, melynek következtében a platform felfüggesztette a kifizetéseket. Az incidens rávilágít a kriptopiactér sebezhetőségére és a biztonsági hiányosságokra.",
       "importance": 5
     },
     {
-      "title": "A Mistral megjelentette a trilliárd paraméteres AI modelljét a kiberbiztonságért",
-      "summary": "A Mistral vállalat kiadta a mesterséges intelligencia modelljének súlyait, amely trilliárd paraméterrel rendelkezik és a kiberbiztonsági célokat szolgálja. Ez a lépés jelentős áttörést jelent az AI fejlesztésében és annak gyakorlati alkalmazásában.",
+      "title": "Az AWS egybillió dolláros üzletággá válhat, de ehhez nagy befektetések szükségesek",
+      "summary": "Andy Jassy, az Amazon vezetője szerint az AWS (Amazon Web Services) hamarosan egybillió dolláros üzletté nőhet, ehhez azonban jelentős beruházásokra van szükség. A cég célja a felhőszolgáltatások piacán betöltött domináns pozíciójának megerősítése.",
       "importance": 4
     },
     {
-      "title": "A Rivian és a VW AI asszisztenssel bővíti közös vállalkozását",
-      "summary": "A Rivian kiterjeszti a Volkswagennel kötött közös vállalatát, hogy mesterséges intelligencia alapú asszisztenst is magába foglaljon. A partnerség a jövő okosautóinak fejlesztését gyorsíthatja fel.",
+      "title": "A Rivian és a VW együttműködik egy AI asszisztens fejlesztésében",
+      "summary": "A Rivian bővíti a Volkswagennel való közös vállalatát, melynek keretében mesterséges intelligencia alapú asszisztenst fejlesztenek jövőbeli járművek számára. Ez az autóiparban az AI integrációjának újabb jelentős példája, amely a vezetési élményt forradalmasíthatja.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Még a gigantikus fekete lyukak sem magyarázzák a sötét anyagot",
-      "summary": "Új kutatások szerint még a legnagyobb fekete lyukak sem elegendőek ahhoz, hogy megmagyarázzák a világegyetem sötét anyagának rejtélyét. Ez a felfedezés tovább mélyíti a kozmológia egyik legnagyobb kérdését.",
+      "title": "Jelentősen gyorsult egy új röntgen technológia",
+      "summary": "Egy innovatív röntgeneljárás 99 percről mindössze 3,5 percre csökkentette a képalkotás idejét, forradalmasítva ezzel az orvosi diagnosztikát. Ez az áttörés gyorsabb és hatékonyabb betegellátást tesz lehetővé.",
       "importance": 5
     },
     {
-      "title": "Személyre szabott terápia és pszichedelikus szerek forradalmasítják a pszichiátriát",
-      "summary": "A pszichiátria új megközelítései, mint a személyre szabott kezelések és a pszichedelikus szerek terápiás alkalmazása, új reményt adnak a mentális betegségek kezelésében. Ez a fejlődés alapvetően változtathatja meg a mentális egészségügyi ellátást.",
-      "importance": 5
-    },
-    {
-      "title": "Az agy születésünk körül milliárdnyi mutáns neuront számol fel",
-      "summary": "Megdöbbentő felfedezés, hogy az emberi agy születésünk idején milliárdnyi mutáns neuront távolít el, ezzel biztosítva a megfelelő fejlődést. Ez a folyamat kulcsfontosságú lehet a neurológiai betegségek megértésében.",
+      "title": "A nők szerepe a tudományban: jelenlét és ambíciók",
+      "summary": "Egy mélyreható elemzés vizsgálja a nők jelenlétét és ambícióit a tudományos területeken, feltárva az esetleges hiányosságok okait. A tanulmány a STEM szektor diverzitásának javítására hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Miért kerülték el az ősi emberek az egykori arab paradicsomot?",
-      "summary": "Régészeti kutatások szerint az egykor buja arab sivatagot, amely ideálisnak tűnt az élethez, az ősi emberek mégis elkerülték. A rejtélyes elkerülés okai rávilágíthatnak az emberi migráció és alkalmazkodás összetett mintázataira.",
-      "importance": 4
+      "title": "Szemétből nyerhető rostok segíthetik az egészséges táplálkozást",
+      "summary": "Szakértők szerint a háztartási hulladékban található maradékok, például zöldséghéjak és magvak, jelentős rostforrást jelenthetnek az emberi táplálkozásban. Ez a megközelítés új utakat nyithat a fenntartható és egészséges étrend kialakításában.",
+      "importance": 3
+    },
+    {
+      "title": "Vallási felmentés igényelhető az AI használata alól a munkahelyen",
+      "summary": "Lehetőség van vallási alapon felmentést kérni a mesterséges intelligencia munkahelyi használata alól bizonyos esetekben. Ez a kérdés az AI etikai és társadalmi elfogadottságát feszegeti, új jogi és morális dilemmákat felvetve a technológia korában.",
+      "importance": 2
     }
   ],
   "sports": [
     {
-      "title": "Hanga Ádám: Mindent feláldoztam az NBA-álomért",
-      "summary": "Hanga Ádám, a magyar kosárlabdázó egy podcastban mesélt arról, hogy minden áldozatot meghozott annak érdekében, hogy elérje az NBA-t. Története inspirációt nyújt a sportolói karrier felépítéséről és a kitartásról.",
+      "title": "Hanga Ádám az NBA-álmáról: „Mindent feláldoztam”",
+      "summary": "Hanga Ádám kosárlabdázó egy interjúban beszélt arról, hogy karrierje során mindent feláldozott azért, hogy elérje azt az álmát, hogy az NBA-ben játszhasson. A nyilatkozat bepillantást enged egy élsportoló eltökéltségébe és kihívásaiba.",
       "importance": 5
     },
     {
-      "title": "Fegyelmi okokból kizártak egy labdarúgót a csapatból",
-      "summary": "Egy neves labdarúgót fegyelmi okok miatt kizártak a csapat keretéből. Az eset rávilágít a profi sportolókra vonatkozó szigorú szabályokra és elvárásokra.",
-      "importance": 3
+      "title": "Hyrox atléta balesete a versenyen és az utóhatás",
+      "summary": "Egy Hyrox sportoló, aki verseny közben balesetet szenvedett, és emiatt másokat is veszélyeztetett, traumatikusnak írta le az esetet követő nyilvános kritikát. Az eset rávilágít a sportversenyek fizikai és mentális kihívásaira, valamint a közvélemény reakciójára.",
+      "importance": 2
     }
   ]
 }

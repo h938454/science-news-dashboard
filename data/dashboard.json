@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Orbán Viktor tárgyalása Aleksandar Vučić szerb elnökkel",
-      "summary": "Orbán Viktor Belgrádban találkozott Aleksandar Vučić szerb elnökkel, ahol a felek a két ország közötti kapcsolatokról és regionális kérdésekről egyeztettek. Vučić apja házában fogadta a magyar miniszterelnököt, hangsúlyozva a baráti viszonyt.",
+      "title": "Orbán és Vučić megerősítették szövetségüket Belgrádban",
+      "summary": "Orbán Viktor miniszterelnök Aleksandar Vučić szerb elnökkel tárgyalt Belgrádban, megerősítve a két ország közötti szoros kapcsolatokat a jelenlegi regionális és nemzetközi kihívások közepette. A találkozó a kétoldalú együttműködés és a regionális stabilitás jegyében zajlott.",
       "importance": 5
     },
     {
-      "title": "A Tisza Párt bemutatta első költségvetési javaslatát",
-      "summary": "A Tisza Párt áttekintette az első költségvetési javaslatát, amelyből kiderül, milyen irányba kívánják terelni a közpénzek felhasználását. Megőriznék Novák és Sulyok jótékonysági keretét, és finanszíroznák az Orbán-rendszer intézeteit is.",
-      "importance": 5
-    },
-    {
-      "title": "Viták a kormány 2027-es költségvetési tervezetéről",
-      "summary": "A kormány benyújtotta a 2027-es költségvetés tervezetét, amit a Fidesz „átverés költségvetésének” nevezett és visszavonását követeli. Magyar Péter szerint a közmédiára az ideinél 63 milliárd forinttal kevesebbet fordítanak.",
+      "title": "Bóka János szerint a kormány átverés költségvetést nyújtott be",
+      "summary": "Bóka János ellenzéki politikus élesen bírálta a kormány által benyújtott költségvetést, 'átverésnek' nevezve azt, és a gazdasági nehézségek elkenésével vádolta a kabinetet. Szerinte a tervezet nem kínál valós megoldásokat a lakosság és az ország problémáira.",
       "importance": 4
     },
     {
-      "title": "Üresen áll a Covid idején épült konténerkórház",
-      "summary": "Hegedűs Zsolt felkereste a Covid-járvány idején rekordgyorsasággal megépített konténerkórházat, amely nagyrészt üresen áll. Az építmény állapota kérdéseket vet fel a közpénzek hatékony felhasználásával kapcsolatban.",
+      "title": "Felülvizsgálhatják a gödöllői hatóanyaggyár engedélyét",
+      "summary": "Vizsgálat indulhat a gödöllői hatóanyaggyár működési engedélyének felülvizsgálatára, miután környezetvédelmi aggályok merültek fel a létesítmény kapcsán. A döntés jelentős hatással lehet a gyár jövőjére és a helyi lakosság életminőségére.",
       "importance": 4
+    },
+    {
+      "title": "Megakadt a debreceni Arany Bika felújítása",
+      "summary": "A debreceni Arany Bika Szálló felújítása komoly nehézségekbe ütközött, miután több próbálkozás is kudarcot vallott, és a projektek rendre megrekedtek. Az ikonikus épület sorsa továbbra is bizonytalan a finanszírozási és kivitelezési problémák miatt.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Az Egyesült Államok Patriot rakétákat ad el Ukrajnának",
-      "summary": "Az Egyesült Államok jóváhagyta 500 Patriot rakéta eladását Ukrajnának, ami jelentősen erősítheti az ország légvédelmi képességeit az orosz agresszióval szemben. Ez a lépés tovább mélyíti az amerikai támogatást Ukrajna felé.",
+      "title": "Tüntetések söpörnek végig Európán: Franciaországban és Németországban is utcára vonultak az emberek",
+      "summary": "Franciaországban továbbra is tömeges tüntetések zajlanak különböző társadalmi reformok ellen, míg Németországban fiatalok vonultak utcára, jelezve a növekvő társadalmi elégedetlenséget Európa-szerte. A megmozdulások hátterében gazdasági problémák és politikai döntések állnak.",
       "importance": 5
     },
     {
-      "title": "Az USA terrortámadásra figyelmeztette Oroszországot",
-      "summary": "Az Egyesült Államok hírszerzési információk alapján terrortámadás veszélyére figyelmeztette Oroszországot. A figyelmeztetés súlyos diplomáciai és biztonsági üzenet Oroszország felé.",
+      "title": "Az Egyesült Államok 500 Patriot rakéta eladását hagyta jóvá Ukrajnának",
+      "summary": "Az Egyesült Államok jóváhagyta 500 Patriot rakéta Ukrajnának történő eladását, ezzel jelentősen megerősítve az ország légvédelmi képességeit az orosz agresszióval szemben. A lépés kulcsfontosságú támogatást jelent Kijevnek a harcok folytatásához.",
       "importance": 5
     },
     {
-      "title": "G20-as csoportkép Lavrov nélkül: elutasították a közös fotót az európai diplomaták",
-      "summary": "A G20-ak külügyminiszterei törölték a hagyományos családi fotót, mert több európai ország sem akart Szergej Lavrov orosz külügyminiszterrel közös képen szerepelni. Ez a döntés az orosz diplomáciai elszigeteltségét mutatja.",
+      "title": "Alkotmányos válság Varsóban: az ellenzék puccsot emleget",
+      "summary": "Lengyelországban alkotmányos válság alakult ki, miután az ellenzék 'puccsot' emleget az igazságszolgáltatás függetlenségét érintő lépések miatt, míg a miniszterelnök a jogállamiság helyreállítását hirdeti. A politikai feszültség mélyen megosztja az országot.",
       "importance": 4
     },
     {
-      "title": "Több mint 5000 áldozata van a kongói Ebola-járványnak",
-      "summary": "A Kongói Demokratikus Köztársaságban az eddigi legsúlyosabb Ebola-járványban már több mint 5000 ember vesztette életét. A járvány továbbra is komoly kihívást jelent a helyi és nemzetközi egészségügyi szervezetek számára.",
+      "title": "Az Egyesült Államok terrortámadás veszélyére figyelmeztette Moszkvát",
+      "summary": "Az Egyesült Államok hírszerzési információk alapján figyelmeztette Moszkvát egy potenciális, közvetlen terrortámadás veszélyére, ami nemzetközi aggodalmakat váltott ki. Az orosz hatóságok vizsgálják az információkat és megerősítik a biztonsági intézkedéseket.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI-beruházások megtérülése körüli kétségek a tőzsdén",
-      "summary": "Több mint ezer milliárd dollárt söpörtek ki a tőzsdéről, mivel a befektetők nem látják tisztán, hogyan térülnek meg a hatalmas MI-beruházások. Repedések mutatkoznak az AI-költési fellendülésben.",
+      "title": "Az Apple vezérigazgatója szerint nem az AI kedvéért fejlesztenek AI-t",
+      "summary": "Az Apple vezérigazgatója kijelentette, hogy a vállalat nem pusztán a mesterséges intelligencia trendjének követése miatt integrál AI funkciókat termékeibe. Hangsúlyozta, hogy az újításoknak valós, gyakorlati értéket kell teremteniük a felhasználók számára.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI állítólag csökkentette új finanszírozási célját",
-      "summary": "Az OpenAI, az egyik vezető mesterséges intelligencia fejlesztő cég, a hírek szerint csökkentette az új finanszírozási körre vonatkozó célkitűzését. Ez a lépés kérdéseket vet fel a vállalat piaci értékével és a befektetői bizalommal kapcsolatban.",
-      "importance": 5
-    },
-    {
-      "title": "Gazdasági káoszt okozhat az AI az emberiség kiirtása előtt?",
-      "summary": "Egyre több szakértő veti fel a kérdést, hogy a mesterséges intelligencia milyen mértékű gazdasági káoszt okozhat, mielőtt esetlegesen egzisztenciális fenyegetést jelentene az emberiségre. Az MI globális munkaerőpiacra és gazdaságra gyakorolt hatása bizonytalan.",
+      "title": "Az OpenAI állítólag csökkentette a finanszírozási célját",
+      "summary": "Az OpenAI, a vezető mesterséges intelligencia kutatóvállalat, állítólag csökkentette a következő befektetési körre kitűzött finanszírozási célját, ami a befektetői környezet óvatosabbá válására utal. Ez a lépés hatással lehet az AI-fejlesztések jövőbeli ütemére.",
       "importance": 4
     },
     {
-      "title": "A Binance kriptotőzsde majdnem teljesen fedezte a hackertámadás kárát",
-      "summary": "A Binance kriptovaluta tőzsde majdnem teljes egészében fedezte a 6,3 milliárd dolláros hackertámadás okozta károkat, megnyugtatva ezzel befektetőit. Ez az eset rávilágít a kriptovilág biztonsági kihívásaira és a tőzsde válaszadási képességére.",
+      "title": "A Binance majdnem teljesen fedezte a hackertámadás kárát",
+      "summary": "A Binance kriptotőzsde bejelentette, hogy majdnem teljes egészében fedezte a hatalmas hackertámadás okozta milliárdos veszteségeket, amely az elmúlt időszak egyik legnagyobb digitális rablása volt. A cég ígéretet tett a felhasználók pénzének teljes megtérítésére, stabilizálva ezzel a piaci bizalmat.",
+      "importance": 4
+    },
+    {
+      "title": "Az Intel részvényei zuhantak, 12 milliárd dollárt veszítettek a kormányzati befektetések",
+      "summary": "Az Intel részvényeinek értéke jelentősen zuhant a tőzsdén, ami 12 milliárd dolláros veszteséget okozott a vállalatban lévő kormányzati befektetéseknek. Az esés a chipgyártási piac kihívásaival és a cég piaci pozíciójával kapcsolatos aggodalmakra utal.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Rekordmennyiségű tudományos cikket vontak vissza egy nap alatt",
-      "summary": "Egy tudományos kiadó rekordot döntve 1400 konferencia-cikk visszavonását jelentette be egyetlen napon belül. Az eset komoly kérdéseket vet fel a tudományos publikációk minőségével és ellenőrzésével kapcsolatban.",
+      "title": "Több mint 5000 halott az Ebola-járványban Kongóban",
+      "summary": "Több mint 5000 ember vesztette életét az Ebola-járványban a Kongói Demokratikus Köztársaságban, ami a valaha feljegyzett legsúlyosabb kitöréssé vált az országban. A nemzetközi közösség sürgős erőfeszítéseket tesz a járvány megfékezésére és a helyi lakosság megsegítésére.",
       "importance": 5
     },
     {
-      "title": "A fekete lyukak sem magyarázzák a sötét anyagot",
-      "summary": "A kutatások szerint még a hatalmas fekete lyukak sem adnak magyarázatot a sötét anyag rejtélyére, ami továbbra is az univerzum egyik legnagyobb megmagyarázatlan jelensége. A felfedezés új irányokat jelöl ki a fizikai kutatásokban.",
+      "title": "Még a hatalmas fekete lyukak sem magyarázzák a sötét anyagot",
+      "summary": "Új kutatások szerint a legóriásibb fekete lyukak létezése sem képes magyarázatot adni a sötét anyag rejtélyére, amelyről úgy vélik, hogy az univerzum nagy részét alkotja. Ez az eredmény tovább ösztönzi a tudósokat, hogy új elméleteket keressenek e láthatatlan anyagforma megértésére.",
+      "importance": 5
+    },
+    {
+      "title": "Az ősi emberek elkerülték az egykor buja arab paradicsomot",
+      "summary": "Kutatók felfedezték, hogy az Arab-félsziget egy része, amely egykor buja, zöldellő terület volt, ismeretlen okokból elkerülték az ősi emberi populációk. A tudósok azt vizsgálják, milyen tényezők tarthatták távol az embereket ebből a vonzó környezetből.",
       "importance": 4
     },
     {
-      "title": "Miért kerülték el az ősi emberek az egykori buja arab sivatagot?",
-      "summary": "Az egykor buja arab sivatag valaha paradicsomi körülményeket kínált, mégis úgy tűnik, az ősi emberek elkerülték. A kutatók most vizsgálják ennek okait, ami új megvilágításba helyezheti az emberiség vándorlását és alkalmazkodását.",
+      "title": "Rekordot döntő visszavonás: 1400 tudományos cikket vont vissza egy kiadó",
+      "summary": "Egy tudományos kiadó rekordmennyiségű, 1400 konferencia-előadást vont vissza egyetlen nap alatt a publikációs etika megsértése miatt, súlyos aggályokat vetve fel a tudományos integritással kapcsolatban. Az eset rávilágít a predátor folyóiratok és a minőségellenőrzés kihívásaira.",
       "importance": 4
-    },
-    {
-      "title": "A gyanús tudományos folyóiratok három vörös zászlaja",
-      "summary": "Egy napi összefoglalóban három fő 'vörös zászlóra' hívják fel a figyelmet, amelyek gyanús tudományos folyóiratokra utalnak. Ez segíti a kutatókat és olvasókat a megbízhatatlan források felismerésében és hozzájárul a tudományos integritás megőrzéséhez.",
-      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "A Nemzetközi Jégkorong Szövetség visszavette az oroszokat, több tagország kiakadt",
-      "summary": "A Nemzetközi Jégkorong Szövetség döntése, miszerint újra engedélyezi az orosz csapatok részvételét, éles vitát váltott ki és több tagország nemtetszését fejezte ki. A döntés a sport és a politika közötti feszültségeket mutatja.",
+      "title": "A Jégkorong Szövetség visszavette az oroszokat, több ország is kiakadt",
+      "summary": "A Nemzetközi Jégkorong Szövetség (IIHF) döntése értelmében visszaengedték az orosz csapatokat a nemzetközi versenyekre, ami több tagország körében felháborodást váltott ki. A döntés megosztja a sportvilágot az orosz-ukrán háborúval kapcsolatos szankciók ügyében.",
       "importance": 5
-    },
-    {
-      "title": "Kannibál tyúkok sokkolták a falura költöző budapestieket",
-      "summary": "Budapestről falura költöző embereket sokkoltak a kannibál viselkedésű tyúkok, ami szokatlan és nyugtalanító jelenségként hatott rájuk. A hír a vidéki élet meglepetéseiről szól.",
-      "importance": 1
-    },
-    {
-      "title": "Michael Douglas elárulta a jó szexjelenet titkát",
-      "summary": "Michael Douglas színész elárulta, mi az a kulcsfontosságú elem, ami nélkül szerinte nincs jó szexjelenet a filmekben. A hír a szórakoztatóipar kulisszái mögé enged betekintést.",
-      "importance": 1
-    },
-    {
-      "title": "A Celebrity Traitors győztesei fellélegeztek a titok felfedése után",
-      "summary": "A Celebrity Traitors című valóságshow nyertesei végre fellélegezhettek, miután a titokról, amit eddig őrizniük kellett, lehullt a lepel. A műsor izgalmas lezárásáról van szó, amely a pszichológiai versengés és a titoktartás témáit boncolgatja.",
-      "importance": 1
     }
   ]
 }

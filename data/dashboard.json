@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Több mint 4000 milliárd forintot mozgósít a kormány jövőre a gazdaság számára",
-      "summary": "A kormány jövőre rekordösszegű, több mint 4000 milliárd forintot fordít a gazdaság megerősítésére, melyből jelentős rész uniós forrásokból származik. Ezzel a lépéssel a növekedési célok elérését és a vállalkozások támogatását célozzák.",
+      "title": "Nyilvánosak lesznek az ügynökakták",
+      "summary": "Hamarosan nyilvánosságra hozzák a rendszerváltás előtti titkosszolgálati ügynökaktákat. A bejelentés vitát váltott ki arról, mennyire megbízhatóak a diktatúra állambiztonsági szerveinek dokumentumai.",
+      "importance": 4
+    },
+    {
+      "title": "Felújítják a balatoni vasútállomásokat",
+      "summary": "Tíz észak-balatoni vasútállomás újul meg, melyet Vitézy Dávid jelentett be. A fejlesztések célja a térség vasúti infrastruktúrájának modernizálása és a szolgáltatások minőségének javítása.",
+      "importance": 3
+    },
+    {
+      "title": "Kiderült, mennyivel emelkedik a nyugdíj",
+      "summary": "A kormány nyilvánosságra hozta, hogy a nyugdíjasoknak mennyivel emelkedik a járandóságuk. Az intézkedés sok idős ember anyagi helyzetére lesz közvetlen hatással.",
       "importance": 5
     },
     {
-      "title": "Elemzők szerint tartaná a korábban belőtt céljait az új költségvetéssel a kormány",
-      "summary": "Gazdasági elemzők szerint a kormány az új költségvetési tervekkel képes lesz fenntartani korábbi növekedési és stabilitási célkitűzéseit. Ugyanakkor felhívják a figyelmet a külső gazdasági tényezők lehetséges hatásaira.",
+      "title": "Orbán Viktor találkozott Vučić elnökkel",
+      "summary": "Aleksandar Vučić szerb elnök apja házában fogadta Orbán Viktor magyar miniszterelnököt. A találkozón a két vezető a kétoldalú kapcsolatokról és a regionális együttműködésről tárgyalt.",
       "importance": 4
-    },
-    {
-      "title": "Bóka János szerint a kormány az átverés költségvetését nyújtotta be",
-      "summary": "Bóka János, az ellenzék képviselője kritizálta a kormány új költségvetési tervezetét, „átverésnek” nevezve azt, és a gazdasági realitásoktól való elszakadásra figyelmeztetett. Szerinte a számok félrevezetőek és nem szolgálják az ország érdekeit.",
-      "importance": 4
-    },
-    {
-      "title": "Hegedűs Zsolt elment a Covid idején megépített konténerkórházba, ami már nagyrészt üresen áll",
-      "summary": "Egy újságíró felkereste a Covid-járvány idején rekordgyorsasággal felépített konténerkórházat, ahol megállapította, hogy az épület nagyrészt kihasználatlanul áll. Ez kérdéseket vet fel az állami beruházások és a járványügyi felkészültség hatékonyságával kapcsolatban.",
-      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "„A pokolból jöttünk vissza” – megérkeztek Ukrajnába a Melania Trump-féle tűzszünet alatt kimenekített oleski civilek",
-      "summary": "Melania Trump közvetítésével létrejött humanitárius tűzszünet keretében több száz civil menekült el az oroszok által megszállt Oleskiből Ukrajnába. A kitelepítettek borzalmas körülményekről számoltak be, megkönnyebbülten, de traumatizáltan érkeztek meg.",
+      "title": "Erőszakba torkolltak a németországi megélhetési válság tüntetései",
+      "summary": "Németországban a megélhetési válság miatti tüntetések erőszakba torkollva boltok kifosztásához vezettek. A növekvő elégedetlenség a gazdasági nehézségek és az infláció miatt bontakozott ki.",
       "importance": 5
     },
     {
-      "title": "Irán legfelsőbb vezetője arra utasította a katonai vezetőket, hogy földrajzi korlátozások nélküli lépéssel reagáljanak a támadásokra",
-      "summary": "Irán legfelsőbb vezetője, Ali Hamenei ajatollah azt az utasítást adta a katonai vezetőknek, hogy „földrajzi korlátozások nélküli” válaszlépésekkel reagáljanak az országot érő támadásokra. Ez a nyilatkozat súlyos feszültségeket jelez a Közel-Keleten.",
+      "title": "Alkotmányos válság Lengyelországban",
+      "summary": "Lengyelországban alkotmányos válság alakult ki; az ellenzék puccsról beszél, míg a miniszterelnök a jogállam helyreállítását említi. A helyzet a politikai rendszert és az ország jövőjét érintő súlyos feszültségeket mutat.",
       "importance": 5
     },
     {
-      "title": "Több mint 320 ezren, sokan halloweeni jelmezben tüntettek Franciaországban, Németországban fosztogatás is volt",
-      "summary": "Több százezer ember vonult utcára Franciaországban és Németországban, hogy tiltakozzon a kormányzati intézkedések ellen, sokan halloweeni jelmezben fejezték ki elégedetlenségüket. Németországban néhány helyen fosztogatásokba torkollottak a demonstrációk.",
+      "title": "Az Egyesült Királyság jövője az EU-ban",
+      "summary": "Reeves szerint az Egyesült Királyság jövőjének az Európai Unión belül kellene lennie. Ez a nyilatkozat újra fellángoltatja a Brexit utáni európai integrációról szóló vitát.",
       "importance": 4
     },
     {
-      "title": "Terrortámadásra figyelmeztette Oroszországot az Egyesült Államok",
-      "summary": "Az Egyesült Államok hírszerzési információk alapján terrortámadás veszélyére figyelmeztette Oroszországot, különösen Moszkva térségére vonatkozóan. A figyelmeztetés a polgári célpontokat fenyegető lehetséges támadásokra hívta fel a figyelmet.",
+      "title": "A király a rabszolgaságról beszél Antigua-ban",
+      "summary": "A brit király a Nemzetközösségi beszédében a rabszolgaság kérdésével foglalkozott Antigua-ban, karib-tengeri körútjának utolsó szakaszán. A beszéd nagy jelentőséggel bír a történelmi igazságtételi vitákban.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Vérfürdővel melegítenek az amerikai techcégek a közelgő választásokra",
-      "summary": "Az amerikai techcégek jelentős elbocsátásokkal és költségcsökkentésekkel készülnek a közelgő választásokra, ami „vérfürdőnek” is nevezhető a szektorban. A lépések a bizonytalan gazdasági környezetre és a politikai változásokra való felkészülést jelzik.",
+      "title": "Az Apple vezérigazgatója az AI stratégiáról",
+      "summary": "Az Apple vezérigazgatója kijelentette, hogy a cég nem akar \"öncélú\" mesterséges intelligencia termékeket piacra dobni. Ez a stratégia hangsúlyozza az AI gyakorlati alkalmazását és a felhasználói élményt a puszta technológiai innováció helyett.",
       "importance": 5
     },
     {
-      "title": "Apple CEO: a cég nem „csak az AI kedvéért akar AI-t szállítani”",
-      "summary": "Az Apple vezérigazgatója kijelentette, hogy a vállalat nem pusztán a mesterséges intelligencia divatja miatt integrálja a technológiát termékeibe, hanem kizárólag akkor, ha az valódi értéket és előnyöket nyújt a felhasználóknak. Ez hangsúlyozza az Apple gyakorlatias AI-stratégiáját.",
+      "title": "Az OpenAI csökkenti a finanszírozási célt",
+      "summary": "Az OpenAI állítólag csökkentette új finanszírozási körének célját. Ez a lépés a mesterséges intelligencia szektor befektetői hangulatának vagy a vállalat saját pénzügyi stratégiájának változására utalhat.",
       "importance": 4
     },
     {
-      "title": "Félelem az AI-buborék kipukkanásától: ismeretlen cégek fűtik a spekulációt",
-      "summary": "Aggodalmak merültek fel a mesterséges intelligencia (AI) piacán kialakuló buborék lehetséges kipukkanásával kapcsolatban, amelyet számos, kevéssé ismert cég gyors növekedése és túlértékeltsége táplál. Elemzők szerint ez a helyzet a befektetők óvatosságát teszi szükségessé.",
+      "title": "Felrobbanhat az AI-buborék?",
+      "summary": "Ismeretlen cégek táplálják azokat a félelmeket, hogy a mesterséges intelligencia buborék hamarosan kipukkadhat. Aggályok merülnek fel az AI szektor túlértékeltségével és a fenntartható növekedési kilátásaival kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Majdnem teljesen fedezte már a Binance a hackertámadás kárát",
-      "summary": "A Binance kriptovaluta tőzsde bejelentette, hogy a közelmúltban történt jelentős hackertámadás okozta károk mintegy 90%-át már fedezte. A cég ígéretet tett arra, hogy minden érintett felhasználó veszteségét megtéríti.",
-      "importance": 3
+      "title": "Az Intel részvényei zuhannak",
+      "summary": "Az Intel részvényei zuhanásba kezdtek, aminek következtében 12 milliárd dollárral csökkent a kormány részesedése. Ez a jelentős piaci visszaesés kihívásokat jelez a chipgyártó iparágban és az Intel vállalatánál.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Felülvizsgálhatják a gödöllői hatóanyaggyár engedélyét",
-      "summary": "Környezetvédelmi aggodalmak miatt felülvizsgálhatják egy gödöllői hatóanyaggyár működési engedélyét. A hatóságok a termelés környezeti hatásait és a kibocsátási értékeket vizsgálják, figyelembe véve a lakosság egészségét.",
-      "importance": 3
+      "title": "Vízkinyerés a levegőből Lego-kockákkal",
+      "summary": "Egy új módszer lehetővé teszi a víz kinyerését a levegőből, melyhez Lego-kockák és CD-lemezek is felhasználhatók. Ez az innovatív technológia potenciálisan megoldást kínálhat a vízhiányra.",
+      "importance": 5
     },
     {
-      "title": "Az NAACP keresete az xAI adatközpontjának szennyezése miatt továbbhaladhat",
-      "summary": "Bíróság engedélyezte az NAACP polgárjogi szervezet keresetét az xAI adatközpontja ellen, amely a környezetszennyezés vádjával illeti a létesítményt. Az ügy precedenst teremthet a techóriások környezeti felelősségvállalásában.",
-      "importance": 3
+      "title": "Rekordszámú tudományos cikk visszavonása",
+      "summary": "Egy tudományos kiadó egyetlen nap alatt rekordszámú, 1400 konferencia-előadást vont vissza. Ez az eset komoly kérdéseket vet fel az akadémiai publikálás integritásával és a minőségellenőrzéssel kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Az AI nem váltja ki az emberi kapcsolódást – interjú Bíró Bence Péterrel",
-      "summary": "Egy interjúban Bíró Bence Péter hangsúlyozza, hogy a mesterséges intelligencia fejlődése ellenére az emberi kapcsolódás és interakció alapvető marad. Az AI eszköz lehet, de nem pótolhatja az emberi érzelmeket és kreativitást.",
-      "importance": 2
+      "title": "A fekete lyukak sem magyarázzák a sötét anyagot",
+      "summary": "Kiderült, hogy még a rendkívül nagy fekete lyukak sem képesek megmagyarázni a sötét anyag létezését. Ez a felfedezés újabb kihívások elé állítja a kozmológusokat a világegyetem egyik legnagyobb rejtélyének megértésében.",
+      "importance": 4
     },
     {
-      "title": "A Covid idején épült konténerkórház: közegészségügyi beruházások hatékonysága",
-      "summary": "A járványügyi készültség idején felhúzott, de mára nagyrészt üresen álló konténerkórház esete felveti a közegészségügyi beruházások hatékonyságának és fenntarthatóságának kérdését. A létesítmény jövőbeni hasznosítása további vizsgálatot igényel.",
-      "importance": 2
+      "title": "Az afrikai vízellátás hiányosságai",
+      "summary": "Egy átfogó elemzés szerint jelentős hiányosságok vannak Afrika vízgazdálkodásában. Ez a helyzet sürgető beavatkozást igényel a kontinens vízellátásának és fenntarthatóságának biztosítása érdekében.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Hamilton a saját rekordját megjavítva először szerzett pole-t a Ferrarival",
-      "summary": "Lewis Hamilton új rekordot állított fel, megszerezve első pole pozícióját a Ferrari színeiben a Forma-1-ben. Ez a teljesítmény kiemelkedő a sportág történetében, megerősítve helyét a legendák között.",
+      "title": "Az orosz jégkorongozók visszatérése vitát szít",
+      "summary": "A Nemzetközi Jégkorong Szövetséget arra kötelezték, hogy vegye vissza az orosz csapatokat a versenysorozataiba, ami számos tagország felháborodását váltotta ki. Ez a döntés komoly politikai és etikai vitát gerjeszt a sportvilágban.",
       "importance": 5
     },
     {
-      "title": "A Nemzetközi Jégkorong Szövetség visszavette az oroszokat, több tagország is kiakadt",
-      "summary": "A Nemzetközi Jégkorong Szövetség (IIHF) döntése, mely szerint újra engedélyezi az orosz csapatok részvételét a nemzetközi versenyeken, komoly ellenérzéseket váltott ki számos tagország körében. Többen bojkottal fenyegetőznek az orosz-ukrán háború miatt.",
+      "title": "Hamilton először nyert Ferrari időmérőt",
+      "summary": "Lewis Hamilton először nyert időmérőt a Ferrarival, ami jelentős mérföldkő karrierjében. Ez a teljesítmény nagy reményekre ad okot a Ferrari csapat számára a jövőbeli versenyeken.",
       "importance": 4
-    },
-    {
-      "title": "Reggel alig tud kikelni az ágyból, de nappal már a sziklafalon van a 95 éves hegymászónő",
-      "summary": "Egy 95 éves hegymászónő inspiráló története mutatja be, hogy a kor nem akadályozhatja meg az embert a szenvedélye űzésében. A sziklamászás iránti elkötelezettsége példát mutat kitartásból és fizikai aktivitásból.",
-      "importance": 3
-    },
-    {
-      "title": "Kihúzták az ötös lottó nyerőszámait",
-      "summary": "Kisorsolták az ötös lottó e heti nyerőszámait, melyek több játékosnak is szerencsét hozhattak. A lottó továbbra is népszerű szerencsejáték Magyarországon.",
-      "importance": 1
     }
   ]
 }

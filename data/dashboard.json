@@ -1,102 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Nyilvánosak lesznek az ügynökakták",
-      "summary": "Hamarosan nyilvánosságra hozzák a rendszerváltás előtti titkosszolgálati ügynökaktákat. A bejelentés vitát váltott ki arról, mennyire megbízhatóak a diktatúra állambiztonsági szerveinek dokumentumai.",
-      "importance": 4
-    },
-    {
-      "title": "Felújítják a balatoni vasútállomásokat",
-      "summary": "Tíz észak-balatoni vasútállomás újul meg, melyet Vitézy Dávid jelentett be. A fejlesztések célja a térség vasúti infrastruktúrájának modernizálása és a szolgáltatások minőségének javítása.",
-      "importance": 3
-    },
-    {
-      "title": "Kiderült, mennyivel emelkedik a nyugdíj",
-      "summary": "A kormány nyilvánosságra hozta, hogy a nyugdíjasoknak mennyivel emelkedik a járandóságuk. Az intézkedés sok idős ember anyagi helyzetére lesz közvetlen hatással.",
+      "title": "Orbán Viktor a Felcsút honlapján magyarázza, hogy miért járt 45 milliárd tao-támogatás a felcsúti focinak",
+      "summary": "Orbán Viktor miniszterelnök a Felcsút FC honlapján fejtette ki, miért indokolt a 45 milliárd forintos társasági adó (TAO) támogatás a klub számára. A miniszterelnök szerint a beruházások hosszú távon megtérülő értéket teremtenek a magyar labdarúgásnak.",
       "importance": 5
     },
     {
-      "title": "Orbán Viktor találkozott Vučić elnökkel",
-      "summary": "Aleksandar Vučić szerb elnök apja házában fogadta Orbán Viktor magyar miniszterelnököt. A találkozón a két vezető a kétoldalú kapcsolatokról és a regionális együttműködésről tárgyalt.",
+      "title": "Megkérdezték Vucicot, hogy valóban Orbán beszélte-e le az erőszakról",
+      "summary": "Aleksandar Vučić szerb elnököt szembesítették azzal a felvetéssel, miszerint Orbán Viktor magyar miniszterelnök győzte meg az erőszak elkerüléséről egy korábbi helyzetben. A kérdés diplomáciai feszültségeket és a két vezető kapcsolatát érintette.",
       "importance": 4
+    },
+    {
+      "title": "„Talán egyszer még egy megfelelő közlekedési kapcsolat is kiépül Ferihegy felé” – sosem látott turistaboomot ígérnek Budapestnek, de mi lesz, ha be is következik?",
+      "summary": "Budapest soha nem látott turistaboomra számíthat a jövőben, de felmerül a kérdés, vajon a főváros infrastruktúrája – különösen a ferihegyi közlekedési kapcsolat – készen áll-e a megnövekedett forgalomra. A turisták számának emelkedése gazdasági lehetőségeket és kihívásokat is tartogat.",
+      "importance": 4
+    },
+    {
+      "title": "Meghozta Dubajból a magángép Várkonyi Andreát, Mészáros Lőrincet és a gyerekeit",
+      "summary": "Egy magánrepülőgép szállította haza Dubajból Várkonyi Andreát, Mészáros Lőrincet és gyermekeiket. Az esemény a közvélemény figyelmét felkeltve rávilágított a magyar közéleti személyiségek utazási szokásaira.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Erőszakba torkolltak a németországi megélhetési válság tüntetései",
-      "summary": "Németországban a megélhetési válság miatti tüntetések erőszakba torkollva boltok kifosztásához vezettek. A növekvő elégedetlenség a gazdasági nehézségek és az infláció miatt bontakozott ki.",
+      "title": "Zelenszkij szerint vasárnap több százezer ukrán maradt áram nélkül",
+      "summary": "Volodimir Zelenszkij ukrán elnök bejelentése szerint vasárnap több százezer ukrán háztartás maradt áram nélkül. Az energiaellátási problémákat az orosz támadások okozzák, súlyosbítva a humanitárius válságot.",
       "importance": 5
     },
     {
-      "title": "Alkotmányos válság Lengyelországban",
-      "summary": "Lengyelországban alkotmányos válság alakult ki; az ellenzék puccsról beszél, míg a miniszterelnök a jogállam helyreállítását említi. A helyzet a politikai rendszert és az ország jövőjét érintő súlyos feszültségeket mutat.",
+      "title": "Kreml: Európa „jelenlegi hozzáállása” mellett „haszontalan” lenne a részvétele a rendezési tárgyalásokon",
+      "summary": "A Kreml szerint Európa jelenlegi álláspontja miatt haszontalan lenne a kontinens részvétele az ukrajnai konfliktus rendezéséről szóló tárgyalásokon. Az orosz nyilatkozat tovább élezi a diplomáciai feszültséget Oroszország és az EU között.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Királyság jövője az EU-ban",
-      "summary": "Reeves szerint az Egyesült Királyság jövőjének az Európai Unión belül kellene lennie. Ez a nyilatkozat újra fellángoltatja a Brexit utáni európai integrációról szóló vitát.",
+      "title": "Németországban is eldurvult a megélhetési válság miatt kirobbant elégedetlenség",
+      "summary": "Németországban erőszakba torkolló fosztogatások kísérték a megélhetési válság miatt kirobbant tüntetéseket. A helyzet rávilágít az európai költségek emelkedése okozta társadalmi feszültségekre.",
       "importance": 4
     },
     {
-      "title": "A király a rabszolgaságról beszél Antigua-ban",
-      "summary": "A brit király a Nemzetközösségi beszédében a rabszolgaság kérdésével foglalkozott Antigua-ban, karib-tengeri körútjának utolsó szakaszán. A beszéd nagy jelentőséggel bír a történelmi igazságtételi vitákban.",
+      "title": "Őrizetbe vették a szerb bűnügyi rendőrség vezetőjét, Aleksandar Vučić bizalmasát",
+      "summary": "Őrizetbe vették a szerb bűnügyi rendőrség vezetőjét, Dejan Milenkovicsot, aki Aleksandar Vučić szerb elnök bizalmasának számított. Az eset rávilágít a szerbiai korrupció elleni fellépés nehézségeire és a politikai bizalmi körök érintettségére.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Apple vezérigazgatója az AI stratégiáról",
-      "summary": "Az Apple vezérigazgatója kijelentette, hogy a cég nem akar \"öncélú\" mesterséges intelligencia termékeket piacra dobni. Ez a stratégia hangsúlyozza az AI gyakorlati alkalmazását és a felhasználói élményt a puszta technológiai innováció helyett.",
+      "title": "Mindenki munkájára hatással lesz a három dolog, amit a vezérigazgatók gondolnak az AI-ról",
+      "summary": "A vezérigazgatók három kulcsfontosságú gondolata az AI-ról mindenki munkáját befolyásolni fogja a jövőben. A mesterséges intelligencia terjedése mélyreható változásokat hozhat a munkaerőpiacon és az üzleti stratégiákban.",
       "importance": 5
     },
     {
-      "title": "Az OpenAI csökkenti a finanszírozási célt",
-      "summary": "Az OpenAI állítólag csökkentette új finanszírozási körének célját. Ez a lépés a mesterséges intelligencia szektor befektetői hangulatának vagy a vállalat saját pénzügyi stratégiájának változására utalhat.",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Az Apple vezérigazgatója kijelentette, hogy a cég nem akar \"öncélúan AI-t kiadni\" termékeihez. Ez a stratégia kiemeli a praktikus alkalmazásokra való fókuszt a mesterséges intelligencia fejlesztése során.",
+      "importance": 5
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "summary": "Az OpenAI, a ChatGPT fejlesztője, a hírek szerint csökkentette új finanszírozási körének célösszegét. Ez a lépés jelezheti a piaci változásokat vagy a befektetői hangulat alakulását az AI szektorban.",
       "importance": 4
     },
     {
-      "title": "Felrobbanhat az AI-buborék?",
-      "summary": "Ismeretlen cégek táplálják azokat a félelmeket, hogy a mesterséges intelligencia buborék hamarosan kipukkadhat. Aggályok merülnek fel az AI szektor túlértékeltségével és a fenntartható növekedési kilátásaival kapcsolatban.",
-      "importance": 4
-    },
-    {
-      "title": "Az Intel részvényei zuhannak",
-      "summary": "Az Intel részvényei zuhanásba kezdtek, aminek következtében 12 milliárd dollárral csökkent a kormány részesedése. Ez a jelentős piaci visszaesés kihívásokat jelez a chipgyártó iparágban és az Intel vállalatánál.",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "summary": "Az Intel részvényeinek zuhanása 12 milliárd dollárt \"ütött ki\" a kormányzati befektetésből. A chipgyártó óriás piaci értékelésének csökkenése jelentős gazdasági hatással bír.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Vízkinyerés a levegőből Lego-kockákkal",
-      "summary": "Egy új módszer lehetővé teszi a víz kinyerését a levegőből, melyhez Lego-kockák és CD-lemezek is felhasználhatók. Ez az innovatív technológia potenciálisan megoldást kínálhat a vízhiányra.",
+      "title": "Napokon belül visszazuhanhat a Földre a NASA űrteleszkópja, miután nem sikerült megmenteni",
+      "summary": "A NASA egy űrteleszkópja napokon belül visszazuhanhat a Földre, miután a mentési kísérletek sikertelenek maradtak. Az esemény az űrhajózás kockázataira és a technikai kihívásokra hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "Rekordszámú tudományos cikk visszavonása",
-      "summary": "Egy tudományos kiadó egyetlen nap alatt rekordszámú, 1400 konferencia-előadást vont vissza. Ez az eset komoly kérdéseket vet fel az akadémiai publikálás integritásával és a minőségellenőrzéssel kapcsolatban.",
+      "title": "Ez történt: Úgy néz ki, megvan a prosztata-megnagyobbodás oka",
+      "summary": "Kutatók szerint úgy tűnik, sikerült azonosítani a prosztata-megnagyobbodás okát, ami áttörést jelenthet a betegség kezelésében. Ez az orvosi felfedezés ígéretes új terápiákhoz vezethet.",
       "importance": 5
     },
     {
-      "title": "A fekete lyukak sem magyarázzák a sötét anyagot",
-      "summary": "Kiderült, hogy még a rendkívül nagy fekete lyukak sem képesek megmagyarázni a sötét anyag létezését. Ez a felfedezés újabb kihívások elé állítja a kozmológusokat a világegyetem egyik legnagyobb rejtélyének megértésében.",
+      "title": "Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day",
+      "summary": "Egy tudományos kiadó rekordot döntött, amikor egyetlen nap alatt 1400 konferencia-előadást vont vissza. Az eset rávilágít az akadémiai publikálás integritásának problémáira és a tudományos csalásokra.",
       "importance": 4
     },
     {
-      "title": "Az afrikai vízellátás hiányosságai",
-      "summary": "Egy átfogó elemzés szerint jelentős hiányosságok vannak Afrika vízgazdálkodásában. Ez a helyzet sürgető beavatkozást igényel a kontinens vízellátásának és fenntarthatóságának biztosítása érdekében.",
+      "title": "Why did ancient humans avoid this lush paradise",
+      "summary": "A tudósok azt vizsgálják, miért kerülték el az ősi emberek azt az egykor buja paradicsomot, amely ma egy arab sivatag területén található. A kutatás új betekintést nyújthat az emberi vándorlási mintákba és az ősi ökológiai körülményekbe.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Az orosz jégkorongozók visszatérése vitát szít",
-      "summary": "A Nemzetközi Jégkorong Szövetséget arra kötelezték, hogy vegye vissza az orosz csapatokat a versenysorozataiba, ami számos tagország felháborodását váltotta ki. Ez a döntés komoly politikai és etikai vitát gerjeszt a sportvilágban.",
+      "title": "Former European champion and two-time Olympian Ciara Mageean dies aged 34",
+      "summary": "Ciara Mageean, korábbi Európa-bajnok és kétszeres olimpikon futónő 34 éves korában elhunyt. Az ír sportoló halála mélyen megrendítette a sportvilágot.",
       "importance": 5
-    },
-    {
-      "title": "Hamilton először nyert Ferrari időmérőt",
-      "summary": "Lewis Hamilton először nyert időmérőt a Ferrarival, ami jelentős mérföldkő karrierjében. Ez a teljesítmény nagy reményekre ad okot a Ferrari csapat számára a jövőbeli versenyeken.",
-      "importance": 4
     }
   ]
 }

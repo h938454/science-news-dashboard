@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Menesztették Feledy Botondot a Külügyi Intézet éléről",
-      "summary": "A minisztérium bizalomvesztés miatt azonnali hatállyal felmentette Feledy Botondot a Külügyi Intézet igazgatói posztjáról, miután megbízásaival kapcsolatban problémák merültek fel. A döntés hátterében Lázár János tárcájával való együttműködés állhat.",
+      "title": "Feledy Botondot azonnali hatállyal menesztették a Külügyi Intézet éléről",
+      "summary": "A Külgazdasági és Külügyminisztérium bizalomvesztésre hivatkozva azonnal felmentette Feledy Botondot a Külügyi Intézet éléről. Az eset kiváltó oka az lehet, hogy Feledy cége jelentős állami támogatásokat kapott, miközben Magyar Péterrel is együttműködött.",
       "importance": 5
     },
     {
-      "title": "Ókovács Szilveszter perel, nem fogadja el menesztését az Operaház éléről",
-      "summary": "Ókovács Szilveszter, az Operaház menesztett főigazgatója bírósági úton támadja meg az elbocsátását, mondván, senki nem kommunikált olyan hatékonyan az intézményben, mint ő. Menesztése 15 évnyi botrányos vezetői időszakot zár le.",
-      "importance": 5
-    },
-    {
-      "title": "Több mint kétszáz világháborús robbanótestet találtak az Üllői útnál",
-      "summary": "Pénteken kétszáznál is több második világháborús robbanótestet fedeztek fel az Üllői út közelében, ami komoly biztonsági intézkedéseket tett szükségessé. A leletek biztonságos eltávolítása megtörtént, lezárásokra is sor került.",
+      "title": "Nyomozás indult a Magyar Kereskedelmi és Ipar Kamara ingatlanvásárlásai ügyében",
+      "summary": "A rendőrség nyomozást rendelt el a Magyar Kereskedelmi és Ipar Kamara több milliárd forintos értékű ingatlanvásárlásai miatt. Az ügyben hűtlen kezelés gyanúja merült fel.",
       "importance": 4
     },
     {
-      "title": "Már fejvadászok keresik Matolcsy Ádámékat",
-      "summary": "Piaci pletykák szerint fejvadászok kutatnak Matolcsy Ádám és köre után, ami a magyar gazdasági és politikai életben várható jelentős mozgásokra utalhat. Ez a helyzet a \"kirúgások és fejvadászok\" általános trendjébe illeszkedik.",
+      "title": "Ma választja meg az Országgyűlés a legfőbb ügyészt",
+      "summary": "Az Országgyűlés mai ülésén szavaz a következő legfőbb ügyész személyéről, aki az ország egyik legfontosabb jogi pozícióját tölti be. A jelölt várhatóan hosszú távon irányítja majd az ügyészségi munkát.",
+      "importance": 4
+    },
+    {
+      "title": "Új intézményt hoz létre a Tisza Párt: a Működő és Emberséges Magyarország Intézetet",
+      "summary": "A Tisza Párt bejelentette egy új intézmény, a Működő és Emberséges Magyarország Intézet létrehozását. Célja, hogy szakmai alapon dolgozzon ki jövőképet és megoldásokat az ország problémáira.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Orosz bombázás végzett több tucat civillel egy ukrán segélyközpontban",
-      "summary": "Az orosz erők egy ukrán faluban, Zaporizzsja közelében bombáztak le egy segélyosztó központot, amely legalább 24-26 ember halálát okozta. A támadás humanitárius segélyre váró civileket sújtott.",
+      "title": "Az Egyesült Államok iráni célpontokat támadott a félidős választások előtt",
+      "summary": "Az amerikai erők katonai csapásokat mértek Iránhoz köthető célpontokra egy szigeten, a félidős választások előtt. Az akció feszültséget generál a térségben.",
       "importance": 5
     },
     {
-      "title": "Zelenszkij kész Törökországban találkozni Putyinnal",
-      "summary": "Volodimir Zelenszkij ukrán elnök kifejezte hajlandóságát, hogy Törökországban találkozzon Vlagyimir Putyin orosz elnökkel, ami potenciális diplomáciai áttörést jelenthet a konfliktus rendezésében. A találkozó részletei még nem tisztázottak.",
+      "title": "Az amerikaiak a félidős választások urnáihoz járulnak",
+      "summary": "Az Egyesült Államokban megkezdődtek a félidős választások, amelyek Trump elnökségének lezárását is meghatározhatják. A voksolás eldönti a Kongresszus erőviszonyait.",
+      "importance": 5
+    },
+    {
+      "title": "Előzetes megállapodás született a Brexit élelmiszer-export szabályainak egyszerűsítéséről",
+      "summary": "Az Egyesült Királyság és az EU vázlatos megállapodásra jutott a Brexit utáni élelmiszer-exporttal kapcsolatos bürokrácia csökkentéséről. Ez jelentősen megkönnyítheti a kereskedelmet.",
       "importance": 4
     },
     {
-      "title": "Rekordköltés és feszült várakozás az amerikai félidős választások előtt",
-      "summary": "Az amerikai félidős választási kampány minden eddigi rekordot megdöntött a költések terén, miközben a közvélemény-kutatások bizonytalan eredményeket mutatnak. A küzdelem a Szenátusért és a Képviselőházért kulcsfontosságú az ország jövője szempontjából.",
-      "importance": 4
-    },
-    {
-      "title": "Öt és fél év börtönbüntetésre ítéltek egy orosz újságírót Moszkvában",
-      "summary": "Egy moszkvai bíróság öt és fél év börtönbüntetésre ítélte a The Insider főszerkesztőjét, ami újabb súlyos csapás az oroszországi sajtószabadságra. Az ítélet nemzetközi felháborodást váltott ki.",
-      "importance": 4
+      "title": "Orosz légicsapás ért egy harkivi kórházat, több mint 60 sérült",
+      "summary": "Orosz légicsapás sújtott egy kórházat az ukrajnai Harkivban, aminek következtében több mint 60 ember megsérült. Az eset a polgári infrastruktúra elleni támadások súlyosságát mutatja.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic a mesterséges intelligencia öntanuló képességének küszöbén áll",
-      "summary": "Az Anthropic, egy vezető AI kutatóvállalat figyelmeztet, hogy mesterséges intelligencia modelljeik közel állnak az önfejlesztő (RSI) képességekhez, ami komoly etikai és biztonsági kérdéseket vet fel. Az AI-ügynökök használatának költségei is meredeken emelkednek.",
-      "importance": 5
-    },
-    {
-      "title": "Kibertámadás érte európai boltok fagyasztórendszereit",
-      "summary": "Hét európai országban értek kibertámadások boltok fagyasztórendszereit, ami óriási mennyiségű élelmiszer tönkremeneteléhez vezetett. Az incidens rávilágít a kritikus infrastruktúrák sérülékenységére és a kiberbiztonság fontosságára.",
-      "importance": 5
-    },
-    {
-      "title": "Német politikusok iPhone-jait törhették fel kémprogrammal",
-      "summary": "A német hatóságok vizsgálják annak lehetőségét, hogy politikusok iPhone-jai válhattak kémprogramok áldozatává, ami súlyos nemzetbiztonsági és adatvédelmi aggályokat vet fel. Az eset rávilágít a digitális biztonság sebezhetőségére.",
+      "title": "Mesterséges intelligencia funkciók érkeznek az Apple Watch-ba",
+      "summary": "Az Apple Watch-on megkezdődött az AI-alapú beszélgetés-összefoglaló és visszatekerő funkciók béta tesztelése. Ez jelentősen bővíti az okosóra kommunikációs képességeit.",
       "importance": 4
     },
     {
-      "title": "A Snap pert rendezett a fiatalkori depressziót okozó vádak ügyében",
-      "summary": "A Snap, a Snapchat anyavállalata peren kívüli megállapodásra jutott olyan vádak ügyében, melyek szerint platformja hozzájárult tinédzserek depressziójához és étkezési zavaraihoz. Az eset a közösségi média mentális egészségre gyakorolt hatására hívja fel a figyelmet.",
+      "title": "A Reddit korlátozza a hozzáférést az AI-modellek miatt, más weboldalak is követhetik",
+      "summary": "A Reddit korlátozza platformjához való hozzáférését, reagálva a mesterséges intelligencia modellek adatgyűjtésére. Ez a trend más weboldalaknál is megjelenhet, megváltoztatva az online tartalmak elérhetőségét.",
+      "importance": 5
+    },
+    {
+      "title": "Az Anthropic figyelmeztet: közel a \"self-building\" mesterséges intelligencia",
+      "summary": "Az Anthropic MI-fejlesztő cég arra figyelmeztet, hogy a mesterséges intelligencia közel áll a \"reverzív önfejlesztő intelligencia\" (RSI) képesség eléréséhez. Ez azt jelenti, hogy az MI képes lehet önmagát továbbfejleszteni.",
+      "importance": 5
+    },
+    {
+      "title": "Az MI adatközpontok veszélyeztethetik az Egyesült Királyság kibocsátási céljait",
+      "summary": "A BBC vizsgálata szerint a mesterséges intelligencia adatközpontjainak növekvő energiaigénye alááshatja az Egyesült Királyság kibocsátáscsökkentési céljait. Az MI terjedése komoly környezeti kihívás elé állítja az infrastruktúrát.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "A kanyaró visszatérése aggodalomra ad okot",
-      "summary": "Míg más vírusok kerültek a figyelem középpontjába, a kanyaró csendben visszatért, ami újabb közegészségügyi kihívást jelent. A járványok gyors azonosításához szükséges lépések kiemelten fontosak a megelőzés érdekében.",
+      "title": "Tudósok a valaha vizsgált legkisebb skálán észleltek jeleket",
+      "summary": "Tudósok történelmi áttöréssel a valaha felfedezett legkisebb skálán, a nullánál is kisebb távolságokon észleltek jeleket. Ez új dimenziókat nyithat a kvantumfizikában.",
       "importance": 5
     },
     {
-      "title": "A Föld erőforrásai fenntartják az emberiséget, de nagy áron",
-      "summary": "Az emberiség létfenntartásához a Föld erőforrásai elengedhetetlenek, ám ezek kihasználása súlyos környezeti és gazdasági költségekkel jár. A fenntarthatóság kérdése kritikus bolygónk jövője szempontjából.",
-      "importance": 5
-    },
-    {
-      "title": "Új agyi szondák forradalmasítják az idegtudományt",
-      "summary": "A \"Neuropixels\" nevű új agyi szondák egyszerre több száz agysejt működését képesek nyomon követni, forradalmasítva ezzel az idegtudományi kutatásokat. Ez az eszköz a neurológiai betegségek megértésében hozhat áttörést.",
+      "title": "A kanyaró lopva visszatért, miközben más vírusra terelődött a figyelem",
+      "summary": "A kanyaró újabb járványai jelentek meg világszerte, miközben a közegészségügyi figyelem más vírusokra, például a Covid-19-re fókuszált. Ez felhívja a figyelmet az oltási lemaradások veszélyeire.",
       "importance": 4
     },
     {
-      "title": "A \"faji tudomány\" cáfolata a tudományos ökorrekció diadala",
-      "summary": "A kutatók sikeresen cáfolták a \"faji tudomány\" elméleteit, bemutatva a tudományos ökorrekció erejét és fontosságát. Ez a felfedezés nagy győzelem a tudományos integritás és a társadalmi igazságosság számára.",
+      "title": "A Neuropixels forradalmasítja az idegtudományt több száz agysejt egyszerre történő nyomon követésével",
+      "summary": "A Neuropixels nevű új technológia lehetővé teszi több száz agysejt aktivitásának egyidejű nyomon követését, forradalmasítva ezzel az idegtudományi kutatásokat. Ezáltal mélyebb betekintést nyerhetünk az agy működésébe.",
+      "importance": 5
+    },
+    {
+      "title": "Nagy-Britanniában nagyszabású kutatás indult a „mindörökké vegyi anyagokról”",
+      "summary": "Az Egyesült Királyságban nagyszabású tanulmány indult a PFAS néven ismert, úgynevezett „mindörökké vegyi anyagok” emberek szervezetére gyakorolt hatásának vizsgálatára. Ezek a környezetben és az emberi szervezetben is felhalmozódó anyagok komoly egészségügyi kockázatot jelentenek.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A FIFA titokban négy millió dollár adót fizetett Infantino helyett",
-      "summary": "A FIFA a nyilvánosan ígért átláthatóság ellenére titokban négy millió dollár adót fizetett Gianni Infantino elnök helyett. Ez az eset komoly kérdéseket vet fel a szervezet pénzügyi gyakorlatával és elszámoltathatóságával kapcsolatban.",
-      "importance": 4
+      "title": "Romlott a mellkason térdelt spanyol focista állapota, újra kellett éleszteni",
+      "summary": "Súlyosan romlott egy spanyol labdarúgó állapota, akit az ellenfél kapusa térdelt mellkason egy mérkőzésen, és újra kellett éleszteni. A sportoló életéért küzdenek a kórházban.",
+      "importance": 5
     },
     {
-      "title": "Kiemelkedő teljesítményt nyújtott a húszéves olasz sportoló",
-      "summary": "Egy húszéves olasz sportoló olyan kiemelkedő teljesítményt mutatott be, amelyre még sokáig keresni fogják a magyarázatot a szakértők. A fiatal tehetség jövője ígéretesnek tűnik, és valószínűleg egy nagy sportesemény győztese lehetett.",
+      "title": "864 lóerős V12-es és kézi váltó az új jubileumi Pagani szupersportautóban",
+      "summary": "A Pagani bemutatta legújabb jubileumi szupersportautóját, amely 864 lóerős V12-es motorral és kézi váltóval érkezik. Ez a jármű a mérnöki precizitás és a luxus sportautó-tervezés csúcsát képviseli.",
       "importance": 3
+    },
+    {
+      "title": "720 lóerős a legújabb biturbó V6-os Audi RS5 sportkombi",
+      "summary": "Az Audi bemutatta az RS5 sportkombi legújabb változatát, amely biturbó V6-os motorjával 720 lóerő leadására képes. Ez a modell ötvözi a családi autó praktikumát a sportautók teljesítményével.",
+      "importance": 3
+    },
+    {
+      "title": "Vészjóslóan sötét hangulatú a legújabb Cadillac Escalade",
+      "summary": "A Cadillac bemutatta az Escalade legújabb verzióját, amely sötét és \"vészjósló\" dizájnjával hívja fel magára a figyelmet. A luxus SUV a márka új stílusirányzatát képviseli.",
+      "importance": 2
     }
   ]
 }

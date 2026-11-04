@@ -1,91 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Magyar: Vagyonosodási vizsgálat indítványozása korábbi és jelenlegi vezető politikusok ellen",
-      "summary": "Magyar Péter javaslatot tett a NAV-nak, hogy indítson vagyonosodási vizsgálatot egykori és mai kormányfők, miniszterek, képviselők és államtitkárok ellen. Ez a lépés jelentős lehet a politikai elszámoltathatóság és a korrupcióellenes harc szempontjából.",
-      "importance": 5
-    },
-    {
-      "title": "Nyomozás indult a Kisfaludy Program 475 milliárd forintja miatt",
-      "summary": "Kapitány István feljelentése nyomán nyomozás indult a 475 milliárd forintos Kisfaludy Program körül. A vizsgálat célja a közpénzek felhasználásának átláthatósága és a lehetséges visszaélések felderítése.",
-      "importance": 5
-    },
-    {
-      "title": "Orbán Viktor 2023-as kazahsztáni útja több mint 50 millió forint közpénzbe került",
-      "summary": "Az RTL beszámolója szerint Orbán Viktor 2023-as kazahsztáni látogatása több mint 50 millió forintnyi adófizetői pénzbe került. A közpénzek ilyen mértékű felhasználása kérdéseket vet fel a kormányzati kiadások átláthatóságával kapcsolatban.",
+      "title": "A Revolut kivezeti Magyarországról a tőzsdei árukkal kapcsolatos szolgáltatásait",
+      "summary": "A Revolut fintech cég megszünteti a tőzsdei árukkal kapcsolatos kereskedési szolgáltatásait magyarországi ügyfelei számára. A döntés a szigorodó szabályozói környezettel magyarázható, amely érinti a kripto- és tőzsdei termékeket.",
       "importance": 4
     },
     {
-      "title": "Ókovács Szilvesztert menesztették az Operaház éléről",
-      "summary": "Ókovács Szilveszter távozott az Operaház éléről, mely esemény kapcsán közéleti szereplők is megnyilvánultak. A kulturális intézmények vezetőváltásai gyakran politikai felhangokkal bírnak.",
+      "title": "Összesen 159 millió forint végkielégítést kapott Orbán Viktor és nyolc minisztere",
+      "summary": "Orbán Viktor miniszterelnök és nyolc minisztere összesen 159 millió forint végkielégítésben részesült a mandátumuk lejártakor. A kifizetések a vonatkozó jogszabályok alapján járó juttatások részei.",
+      "importance": 5
+    },
+    {
+      "title": "Elkaszálta az Alkotmánybíróság, hogy a Kúria bűncselekménynek nyilvánította a kis értékű rongálást okozó falfirkát",
+      "summary": "Az Alkotmánybíróság megsemmisítette a Kúria azon határozatát, amely bűncselekménynek minősítette a kis értékű rongálást okozó falfirkát. A döntés hatással lehet a vandalizmus jogi megítélésére és a szólásszabadság korlátaira.",
+      "importance": 4
+    },
+    {
+      "title": "Mit kell nézni a 6-os kartonokon, és mit jelentenek a rajta olvasható bejegyzések?",
+      "summary": "A 6-os kartonok az állambiztonsági szolgálatok által készített ügynökakták fontos részei, melyek betekintést nyújtanak a beszervezési folyamatokba. Tartalmuk megértése kulcsfontosságú a közelmúlt történelmének átláthatóságához és a társadalmi párbeszédhez.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Trump bejelentette: az USA megszünteti Izraelnek nyújtott évi négymilliárd dolláros támogatását",
-      "summary": "Donald Trump bejelentette, hogy az Egyesült Államok az év végén leállítja az Izraelnek nyújtott évi négymilliárd dolláros támogatást. Ez a lépés jelentősen befolyásolhatja a közel-keleti régió dinamikáját és az amerikai külpolitikát.",
+      "title": "\"Ez egy katasztrófa\": dühös republikánusok Trumpot hibáztatják a félidős választási vereségért",
+      "summary": "Az amerikai félidős választások súlyos republikánus vereséggel zárultak, ami belső feszültségeket szült a pártban. Számos republikánus Donald Trumpot, és az általa támogatott jelölteket tette felelőssé a gyenge eredményért.",
       "importance": 5
     },
     {
-      "title": "Az amerikai választók számára a gazdaság és a demokrácia állapota a legfontosabb kérdés",
-      "summary": "Egy friss felmérés szerint az amerikai választók legfőbb aggodalma a gazdaság állapota és a demokrácia jövője. Ezek a témák kulcsfontosságúak az amerikai választások előtt, és jelzik a társadalmi feszültségeket.",
+      "title": "A Kreml reméli, Trump a félidős választások után is folytatja béketeremtő erőfeszítéseit",
+      "summary": "A Kreml kifejezte reményét, hogy Donald Trump az amerikai félidős választások után is aktívan részt vesz a béketeremtő erőfeszítésekben. Ez Oroszország és az Egyesült Államok közötti kapcsolatok lehetséges alakulására utalhat, különös tekintettel az ukrajnai háborúra.",
+      "importance": 4
+    },
+    {
+      "title": "Hackertámadás érte a francia vérbank hűtőit",
+      "summary": "Hackerek betörtek a francia vérellátó rendszerbe, és manipulálták a vérbanki hűtők hőmérsékletét. A támadás jelentős egészségügyi kockázatot jelentett, és súlyos aggodalmakat vet fel a kritikus infrastruktúra kiberbiztonságával kapcsolatban.",
       "importance": 5
     },
     {
-      "title": "Emelkedik az ukrajnai halálos áldozatok száma orosz támadások után",
-      "summary": "Oroszország segélyközpontot, hospice-t és kórházat támadott Ukrajnában, melynek következtében emelkedett a halálos áldozatok száma. Az orosz-ukrán háború továbbra is pusztítást és emberi szenvedést okoz.",
-      "importance": 5
-    },
-    {
-      "title": "Lemondott a spanyol közlekedési miniszter egy halálos vonatbaleset miatt",
-      "summary": "A spanyol közlekedési miniszter lemondott tisztségéről egy 69 halálos áldozattal járó vonatbaleset következtében. A tragédia nyomán felmerült a felelősség kérdése a közlekedésbiztonság területén.",
+      "title": "Ukrán nemzetbiztonsági és rendvédelmi tisztviselőket vesztegetett meg egy bűnszervezet, hogy zavartalanul működtethesse a csalós telefonközpontját",
+      "summary": "Egy bűnszervezet ukrán nemzetbiztonsági és rendvédelmi tisztviselőket vesztegetett meg, hogy illegális csaló telefonközpontjuk zavartalanul működhessen. Az eset rávilágít az ukrajnai korrupció továbbra is fennálló súlyos problémáira.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic rendszert fejleszt az AI-modellek azonosítására",
-      "summary": "Az Anthropic egy olyan rendszeren dolgozik, amely lehetővé teszi az AI-modellek identitásának bizonyítását. Ez a fejlesztés kulcsfontosságú lehet az AI-generált tartalmakkal kapcsolatos bizalom és átláthatóság növelésében.",
-      "importance": 5
-    },
-    {
-      "title": "A növekvő energiaigény miatt adatközpontok régi sugárhajtóműveket használnak",
-      "summary": "Az adatközpontok egyre inkább régi sugárhajtóműveket alkalmaznak az energiaellátás biztosítására, mivel az új áramforrásokra való várakozás meghosszabbodik. Ez a megoldás rávilágít az iparág növekvő energiaéhségére és az innovatív, de potenciálisan környezetvédelmi aggályokat felvető alternatívákra.",
+      "title": "A Google ellenállásba ütközik az iskolákat érintő mesterséges intelligencia korlátozása miatt",
+      "summary": "A Google szembesül az oktatási intézmények felháborodásával egy olyan terv miatt, amely letiltaná a keresést azon iskolák számára, amelyek korlátozzák az AI használatát. A döntés a mesterséges intelligencia oktatásban betöltött szerepéről szóló szélesebb vitát gerjeszti.",
       "importance": 4
     },
     {
-      "title": "Évekkel korábban figyelmeztettek az észak-koreai hackerek taktikájára a Binance-támadás előtt",
-      "summary": "Kutatók már évekkel a 6,3 milliárd dolláros Binance heiszt előtt figyelmeztettek az észak-koreai hackerek módszereire. Ez az eset rávilágít a kiberbiztonsági fenyegetésekre és a kriptovaluta-piac sérülékenységére.",
+      "title": "Az Anthropic olyan rendszeren dolgozik, amely igazolná az AI modellek identitását",
+      "summary": "Az Anthropic kutatói egy olyan rendszer fejlesztésén fáradoznak, amely lehetővé tenné a mesterséges intelligencia modellek egyedi azonosítását és eredetiségének igazolását. Ez a technológia kulcsfontosságú lehet az AI átláthatóságának és megbízhatóságának növelésében a dezinformáció elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "A Google lehetővé teszi az iskoláknak, hogy kikapcsolják az AI-eszközöket, de a keresés kárára",
-      "summary": "A Google felajánlja az iskoláknak, hogy letilthatják az AI-eszközeit, de ez a Kereső funkcionalitásának feláldozásával jár. A döntés rávilágít az AI oktatásban betöltött szerepének komplexitására, valamint az adatvédelem és a funkcionalitás közötti kompromisszumokra.",
+      "title": "Az adatközpontok régi sugárhajtóműveket használnak az energiaellátási problémák miatt",
+      "summary": "Az adatközpontok egyre gyakrabban fordulnak régi sugárhajtóművekhez, hogy áthidalják az energiaellátásban tapasztalható késedelmeket és növekvő igényeket. Ez az innovatív megoldás rávilágít a hatalmas energiaigényre és a hagyományos hálózatok korlátaira a technológiai fejlődésben.",
       "importance": 4
+    },
+    {
+      "title": "Az Orbital Matter 3D-nyomtatta az első merev gerendát az űr vákuumában",
+      "summary": "Az Orbital Matter sikeresen 3D-nyomtatta az első merev szerkezeti gerendát a világűr vákuumában, jelentős mérföldkövet elérve az űrbeli gyártásban. Ez a technológiai áttörés új lehetőségeket nyit meg az űrbeli építkezés és infrastruktúra fejlesztése terén.",
+      "importance": 5
     }
   ],
   "science": [
     {
-      "title": "Már az 1,5 Celsius-fokos felmelegedés sem elég a sarki jégtakaró súlyos károsodásának elkerülésére",
-      "summary": "A legújabb kutatások szerint már a párizsi éghajlatvédelmi egyezményben célul kitűzött 1,5 Celsius-fokos globális felmelegedés sem elegendő a sarki jégtakaró súlyos károsodásának megakadályozására. Ez aggasztó jövőképet fest a klímaváltozás hatásairól és a tengerszint-emelkedésről.",
+      "title": "Angliában hamarosan elérhetőek lesznek a \"több rákot kimutató\" vérvizsgálatok a háziorvosi rendelőkben",
+      "summary": "Angliában tesztelik az új, \"több rákot kimutató\" vérvizsgálatokat háziorvosi rendelőkben, melyek a rák korai diagnózisát célozzák. Ez jelentős előrelépést jelenthet a rákkezelés hatékonyságában és a betegek túlélési esélyeinek növelésében.",
       "importance": 5
     },
     {
-      "title": "Több rákfajtát is kimutató vérvizsgálatok válnak elérhetővé háziorvosi rendelőkben",
-      "summary": "Hamarosan bizonyos háziorvosi rendelőkben is elérhetővé válnak olyan vérvizsgálatok, amelyek több rákfajtát is képesek kimutatni. Ez a fejlesztés forradalmasíthatja a rák korai felismerését és javíthatja a betegek túlélési esélyeit.",
-      "importance": 5
-    },
-    {
-      "title": "Történelmi Marburg-vírus járvány utalhat a vírus hosszú távú rejtőzködésére",
-      "summary": "Egy történelmi Marburg-vírus járvány arra utal, hogy a vírus hosszú távon is rejtőzködhet a gazdaszervezetekben. Ez a felfedezés fontos a jövőbeli járványok megelőzésében és a vírussal kapcsolatos kutatásokban.",
+      "title": "Megváltoztatja a közösségi média a gyerekek agyát? Íme, amit a tudomány mond.",
+      "summary": "Kutatók vizsgálják, hogy a közösségi média használata milyen hatással van a gyermekek agyának fejlődésére és mentális egészségére. Az eddigi tudományos eredmények kulcsfontosságúak a digitális korban élő fiatalok jólétének megértéséhez és védelméhez.",
       "importance": 4
     },
     {
-      "title": "A biotechnológiai cégek nem fizetnek a Föld genetikai adatainak használatáért",
-      "summary": "A biotechnológiai vállalatoknak fizetniük kellene a Föld genetikai adatainak felhasználásáért, azonban ezt gyakran elmulasztják. Ez a probléma etikai és jogi kérdéseket vet fel a biológiai sokféleség megőrzése és az erőforrások méltányos megosztása kapcsán.",
+      "title": "Rejtélyes lépfenejárvány pusztítja a vízilovakat Afrikában – aggodalmak a humán terjedés miatt",
+      "summary": "Rejtélyes lépfenejárvány tört ki Afrikában, amely nagyszámú víziló pusztulását okozza, aggodalmakat keltve a humán terjedés lehetőségével kapcsolatban. A betegség monitorozása kulcsfontosságú az állat- és emberi egészség szempontjából.",
+      "importance": 4
+    },
+    {
+      "title": "Felgyorsul a Parkinson-kór kezelésének fejlődése",
+      "summary": "Jelentős előrelépések történtek a Parkinson-kór kezelésében, új terápiák és megközelítések ígérnek javulást a betegek életminőségében. A kutatások célja a betegség progressziójának lassítása és tüneteinek enyhítése.",
       "importance": 4
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "\"Életem legnehezebb napjai\" – mondja Owono kapus a Tenerife játékosának halála után",
+      "summary": "Owono, a kapus mély gyászát fejezte ki a Tenerife egyik játékosának tragikus halála után, amelyet élete legnehezebb napjainak nevezett. A futballvilágot megrázta a tragédia, és sokan fejezték ki részvétüket.",
+      "importance": 4
+    },
+    {
+      "title": "A Hyrox olimpiai ambíciói véget vethetnek a triatlonnak?",
+      "summary": "A Hyrox, egy új fitneszverseny-formátum, olimpiai státuszra törekszik, ami felveti a kérdést, hogy veszélyeztetheti-e a triatlon jövőjét. Az új sportágak megjelenése átrendezi a versenysportok világát és az olimpiai programot.",
+      "importance": 4
+    },
+    {
+      "title": "A budapesti olimpia még csak lehetőség, a NOlimpia névért viszont már elindult a verseny",
+      "summary": "Bár a budapesti olimpia megrendezése még csak elképzelés, már megkezdődött a verseny a \"NOlimpia\" elnevezés jogaiért. A téma élénk vitákat vált ki a városban a lehetséges előnyök és hátrányok kapcsán.",
+      "importance": 3
+    },
+    {
+      "title": "Erődök csapnak össze iskolákkal az év legjobb épülete versenyén. Szavazzon!",
+      "summary": "Építészeti versenyen mérik össze erejüket erődök és iskolák épületei, ahol a közönség szavazata is döntő lehet. A megmérettetés célja az év legjobb épületének kiválasztása, és a kiemelkedő építészeti alkotások bemutatása.",
+      "importance": 2
+    }
+  ]
 }

@@ -80,6 +80,11 @@
   ],
   "HVG": [
     {
+      "title": "Minden jel szerint nehéz nap köszönthet a republikánusokra – az amerikai félidős választásokról közvetítünk",
+      "link": "https://hvg.hu/vilag/20261103_usa-felidos-valasztasok-trump-szenatus-kepviselohaz",
+      "summary": "Képesek-e a demokraták fordítani az erőviszonyokon a szövetségi törvényhozás mindkét kamarájában? Belenyúlhat-e még Trump a választásokba? Segíthet a republikánusokon a választókerületek utolsó pillanatos újrarajzolása? Az amerikai félidős választásokról tudósítunk."
+    },
+    {
       "title": "„A 150 év török hódoltság a sok, nem a Fidesz 16 éve” – így igazíthatták el a választási aktivistákat egy vajdasági hangfelvétel szerint",
       "link": "https://hvg.hu/itthon/20261103_szerbia-hangfelvetel-aktivistak-eligazitas-aleksandar-vucic-orban-viktor-valasztas",
       "summary": "A Szabad Magyar Szó által megosztott felvétel információik szerint pár héttel az április 12-i választás előtt készült a levélszavazatokról."
@@ -125,7 +130,7 @@
       "summary": "A félmillió dolláros autókra ráadásul nem ritkán további százezereket költenek, hogy még egyedibbé tegyék őket."
     },
     {
-      "title": "„A hálózat több mint 90 százalékát hazafias alapon szervezték be”",
+      "title": "„A hálózat több mint 90 százalékát hazafias alapon szervezték be a '60-as évek elejétől”",
       "link": "https://hvg.hu/360/20261103_takacs-tibor-interju-allambiztonsag-1956-kadar-rendszer-ugynokaktak",
       "summary": "Az ÁVH romjaiból épült fel a Kádár-korszak állambiztonsága, ám a módszerek eltérők voltak: már nem a társadalom totális megfigyelésére törekedtek, és szigorúbb politikai kontroll alatt is működtek, mint a Rákosi-éra mindenható ávósai. Takács Tibor történésszel, az Állambiztonsági Szolgálatok Történeti Levéltárának tudományos kutatójával beszélgettünk."
     },
@@ -148,18 +153,33 @@
       "title": "Megvan az Újszínház és a Madách Színház új igazgatója",
       "link": "https://hvg.hu/kultura/20261103_megvan-az-ujszinhaz-es-a-madach-szinhaz-uj-igazgatoja",
       "summary": "Az új igazgatók 2027. január 31-én állnak munkába."
-    },
-    {
-      "title": "Kis mennyiségben is szívás lehet a kannabisz, elég aggasztó dologra bukkantak a kutatók",
-      "link": "https://hvg.hu/tudomany/20261103_kannabisz-stroke-sziv-es-errendszeri-megbetegedesek-kutatas-veszely",
-      "summary": "Növelheti a szív- és érrendszeri megbetegedések kockázatát a kannabiszfogyasztás, és úgy tűnik, hogy az sem jár jobban, aki nem rendszeres fogyasztó."
     }
   ],
   "BBC": [
     {
+      "title": "When will we know the results?",
+      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks."
+    },
+    {
+      "title": "US voters name economy and state of democracy as top issues, poll says",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+      "summary": "A major election day survey suggests voters are the most unhappy with the economy."
+    },
+    {
       "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
       "link": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country."
+    },
+    {
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "link": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rising star fended off a challenge from Republican Mike Collins, pushing the crucial swing state deeper into Democratic control."
+    },
+    {
+      "title": "The key US Senate races to watch",
+      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
+      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide."
     },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
@@ -172,9 +192,9 @@
       "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
     },
     {
-      "title": "Seven flights across Europe targeted by suspected bomb threats",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats."
+      "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+      "summary": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner."
     },
     {
       "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
@@ -182,14 +202,9 @@
       "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him."
     },
     {
-      "title": "How 'mogging' went from toxic term to mainstream",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgj371jjk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mogging, named Collins English Dictionary's word of the year, was once the preserve of the manosphere but has become part of everyday discourse."
-    },
-    {
-      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
-      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning."
     },
     {
       "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
@@ -197,49 +212,49 @@
       "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble."
     },
     {
-      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says."
+      "title": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+      "link": "https://www.bbc.co.uk/news/articles/c50me7ywd1wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mountbatten-Windsor has been summonsed to give evidence in a businessman's High Court fraud trial."
     },
     {
-      "title": "Third teen arrested after Halloween party stabbings",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdg7l2nd9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Five teenage boys, aged 16 and 17, were found with stab wounds at the party on Saturday night."
+      "title": "Scammers using AI-generated images of missing pets to demand reward money",
+      "link": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
+      "summary": "Owners says threats to kill their cats unless they sent money left them angry and terrified."
     },
     {
-      "title": "A simple guide to the midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-      "summary": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency."
+      "title": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+      "link": "https://www.bbc.co.uk/news/articles/cxvgd4drmevro?at_medium=RSS&at_campaign=rss",
+      "summary": "The media personality and businesswoman says she's worked on her acting for series two of All's Fair."
     },
     {
-      "title": "When will we know the results?",
-      "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks"
-    },
-    {
-      "title": "The key US Senate races to watch",
-      "link": "https://www.bbc.co.uk/news/articles/cqy7ljkprvjko?at_medium=RSS&at_campaign=rss",
-      "summary": "All eyes are on a handful of Senate races that will decide control of the prized upper chamber. Here's a quick guide."
-    },
-    {
-      "title": "The elections that could define Trump's closing chapter",
-      "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
-    },
-    {
-      "title": "Which stars have made the leap into US politics? Try our quiz",
-      "link": "https://www.bbc.co.uk/news/articles/cwj34rm146kno?at_medium=RSS&at_campaign=rss",
-      "summary": "It's been a dramatic campaign - but how much have you picked up along the way? Take our quiz."
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+      "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under."
     }
   ],
   "TechCrunch": [
     {
-      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were &#8220;crushing consensus expectations.&#8221; Yet, retail investors were lukewarm on the company on Tuesday, with the stock trading slightly down. That&#8217;s because Palantir&#8217;s enterprise sales, its big growth area, showed signs of slowing. First, the good [&#8230;]"
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
     },
     {
-      "title": "Orbital Matter 3D printed the first rigid beam in the vacuum of space",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+    },
+    {
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+    },
+    {
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
+    },
+    {
+      "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
       "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
       "summary": "An in-space construction first could be an enabler for the space data centers of the future."
     },
@@ -292,21 +307,6 @@
       "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
       "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
       "summary": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-    },
-    {
-      "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-      "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-      "summary": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance."
-    },
-    {
-      "title": "Apple restricts dating apps and AI companions to users 18 and up",
-      "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "summary": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-    },
-    {
-      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-      "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
     }
   ],
   "Nature": [

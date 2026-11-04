@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Magyar: A NAV vagyonosodási vizsgálatot indíthat egykori és mai kormányfők, miniszterek, képviselők és államtitkárok ellen",
-      "summary": "Magyar Péter bejelentette, hogy a NAV-hoz fordul, kérve korábbi és jelenlegi kormányzati tisztségviselők vagyonosodási vizsgálatát. Ez jelentős politikai és korrupcióellenes lépéseket indíthat el a magyar közéletben.",
+      "title": "Magyar: Vagyonosodási vizsgálat indítványozása korábbi és jelenlegi vezető politikusok ellen",
+      "summary": "Magyar Péter javaslatot tett a NAV-nak, hogy indítson vagyonosodási vizsgálatot egykori és mai kormányfők, miniszterek, képviselők és államtitkárok ellen. Ez a lépés jelentős lehet a politikai elszámoltathatóság és a korrupcióellenes harc szempontjából.",
       "importance": 5
     },
     {
-      "title": "RTL: Több mint 50 millió forint közpénzbe került Orbán Viktorék 2023-as kazahsztáni útja",
-      "summary": "Az RTL információi szerint Orbán Viktor miniszterelnök kazahsztáni útja több mint 50 millió forint adófizetői pénzbe került. A téma a közpénzek felhasználásának átláthatóságát és a kiadások indokoltságát veti fel.",
+      "title": "Nyomozás indult a Kisfaludy Program 475 milliárd forintja miatt",
+      "summary": "Kapitány István feljelentése nyomán nyomozás indult a 475 milliárd forintos Kisfaludy Program körül. A vizsgálat célja a közpénzek felhasználásának átláthatósága és a lehetséges visszaélések felderítése.",
+      "importance": 5
+    },
+    {
+      "title": "Orbán Viktor 2023-as kazahsztáni útja több mint 50 millió forint közpénzbe került",
+      "summary": "Az RTL beszámolója szerint Orbán Viktor 2023-as kazahsztáni látogatása több mint 50 millió forintnyi adófizetői pénzbe került. A közpénzek ilyen mértékű felhasználása kérdéseket vet fel a kormányzati kiadások átláthatóságával kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Kiléptették Ókovácsot az Operaházból, Siklósi Beatrix kommentben hiányolta L. Simon kiállását, aki erre közölte, hogy az ő kirúgását sem kifogásolta senki",
-      "summary": "Ókovács Szilveszter, az Operaház korábbi vezetője távozott, ami vitát váltott ki a kulturális szféra prominens szereplői között. Az eset rávilágít a kulturális intézmények körüli feszültségekre és a véleménynyilvánítás szabadságára.",
-      "importance": 4
-    },
-    {
-      "title": "Nyomozás indult Kapitány István feljelentése nyomán a Kisfaludy Program 475 milliárdja miatt",
-      "summary": "Kapitány István feljelentést tett a Kisfaludy Program keretében elköltött 475 milliárd forint miatt, ami nyomozáshoz vezetett. A gyanú szerint jelentős közpénzek eltérő módon kerültek felhasználásra, felvetve a korrupció lehetőségét.",
+      "title": "Ókovács Szilvesztert menesztették az Operaház éléről",
+      "summary": "Ókovács Szilveszter távozott az Operaház éléről, mely esemény kapcsán közéleti szereplők is megnyilvánultak. A kulturális intézmények vezetőváltásai gyakran politikai felhangokkal bírnak.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Az amerikai félidős választások eredményei és hatása",
-      "summary": "Milliók járulnak az urnákhoz az Egyesült Államokban a félidős választásokon, melynek kimenetele kulcsfontosságú lehet Trump jövője és az amerikai belpolitika számára. Az eredmények befolyásolhatják a globális politikát is.",
+      "title": "Trump bejelentette: az USA megszünteti Izraelnek nyújtott évi négymilliárd dolláros támogatását",
+      "summary": "Donald Trump bejelentette, hogy az Egyesült Államok az év végén leállítja az Izraelnek nyújtott évi négymilliárd dolláros támogatást. Ez a lépés jelentősen befolyásolhatja a közel-keleti régió dinamikáját és az amerikai külpolitikát.",
       "importance": 5
     },
     {
-      "title": "Emelkedik a halálos áldozatok száma Ukrajnában az orosz támadások után",
-      "summary": "Ukrajnában tovább emelkedik a halálos áldozatok száma, miután Oroszország segélyközpontokat, hospicét és kórházat támadott. Az események súlyos humanitárius válságot és a háború eszkalációját jelzik.",
+      "title": "Az amerikai választók számára a gazdaság és a demokrácia állapota a legfontosabb kérdés",
+      "summary": "Egy friss felmérés szerint az amerikai választók legfőbb aggodalma a gazdaság állapota és a demokrácia jövője. Ezek a témák kulcsfontosságúak az amerikai választások előtt, és jelzik a társadalmi feszültségeket.",
       "importance": 5
     },
     {
-      "title": "Trump bejelentette, hogy az Egyesült Államok az év végén megszünteti az Izraelnek nyújtott évi négymilliárd dolláros támogatást",
-      "summary": "Donald Trump bejelentette, hogy az Egyesült Államok az év végén megszünteti Izraelnek nyújtott évi négymilliárd dolláros támogatását. Ez a döntés jelentős változást hozhat az Egyesült Államok közel-keleti politikájában és a regionális erőviszonyokban.",
-      "importance": 4
+      "title": "Emelkedik az ukrajnai halálos áldozatok száma orosz támadások után",
+      "summary": "Oroszország segélyközpontot, hospice-t és kórházat támadott Ukrajnában, melynek következtében emelkedett a halálos áldozatok száma. Az orosz-ukrán háború továbbra is pusztítást és emberi szenvedést okoz.",
+      "importance": 5
     },
     {
-      "title": "Lemondott a spanyol közlekedési miniszter a halálos vonatbaleset miatt",
-      "summary": "A spanyol közlekedési miniszter lemondott pozíciójáról egy 69 halálos áldozattal járó vonatbaleset következtében. A döntés politikai felelősségvállalást és a közbiztonsági aggályok kezelését jelzi.",
+      "title": "Lemondott a spanyol közlekedési miniszter egy halálos vonatbaleset miatt",
+      "summary": "A spanyol közlekedési miniszter lemondott tisztségéről egy 69 halálos áldozattal járó vonatbaleset következtében. A tragédia nyomán felmerült a felelősség kérdése a közlekedésbiztonság területén.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az AI startup Fal értéke 16 milliárd dollárra duplázódott",
-      "summary": "Az AI-inferenciával foglalkozó startup, a Fal értékelése 16 milliárd dollárra duplázódott a hatalmas kereslet miatt. Ez a fejlemény az AI szektor gyors növekedését és a befektetői bizalmat tükrözi.",
+      "title": "Az Anthropic rendszert fejleszt az AI-modellek azonosítására",
+      "summary": "Az Anthropic egy olyan rendszeren dolgozik, amely lehetővé teszi az AI-modellek identitásának bizonyítását. Ez a fejlesztés kulcsfontosságú lehet az AI-generált tartalmakkal kapcsolatos bizalom és átláthatóság növelésében.",
       "importance": 5
     },
     {
-      "title": "Évekkel a Binance elleni 6,3 milliárd dolláros hekkelés előtt figyelmeztettek az észak-koreai hackerekre",
-      "summary": "Kutatók már évekkel a Binance elleni, 6,3 milliárd dolláros kripto hekkelés előtt figyelmeztettek az észak-koreai hackerek taktikájára. Az eset rávilágít a kibervédelem hiányosságaira és a nemzetállami fenyegetésekre.",
-      "importance": 5
-    },
-    {
-      "title": "A Netflix új AI Felfedezés füllel segít hangulat alapján filmet találni",
-      "summary": "A Netflix új mesterséges intelligencia alapú Felfedezés fület vezetett be, amely segít a felhasználóknak hangulatuk alapján filmet vagy sorozatot találni. Ez a funkció tovább személyre szabja a felhasználói élményt és az AI fogyasztói integrációját mutatja.",
+      "title": "A növekvő energiaigény miatt adatközpontok régi sugárhajtóműveket használnak",
+      "summary": "Az adatközpontok egyre inkább régi sugárhajtóműveket alkalmaznak az energiaellátás biztosítására, mivel az új áramforrásokra való várakozás meghosszabbodik. Ez a megoldás rávilágít az iparág növekvő energiaéhségére és az innovatív, de potenciálisan környezetvédelmi aggályokat felvető alternatívákra.",
       "importance": 4
     },
     {
-      "title": "Az Orbital Matter először nyomtatott merev gerendát az űr vákuumában",
-      "summary": "Az Orbital Matter 3D nyomtatással elkészítette az első merev gerendát az űr vákuumában. Ez az áttörés új lehetőségeket nyithat meg az űrbeli építkezés és infrastruktúra fejlesztése terén.",
+      "title": "Évekkel korábban figyelmeztettek az észak-koreai hackerek taktikájára a Binance-támadás előtt",
+      "summary": "Kutatók már évekkel a 6,3 milliárd dolláros Binance heiszt előtt figyelmeztettek az észak-koreai hackerek módszereire. Ez az eset rávilágít a kiberbiztonsági fenyegetésekre és a kriptovaluta-piac sérülékenységére.",
+      "importance": 5
+    },
+    {
+      "title": "A Google lehetővé teszi az iskoláknak, hogy kikapcsolják az AI-eszközöket, de a keresés kárára",
+      "summary": "A Google felajánlja az iskoláknak, hogy letilthatják az AI-eszközeit, de ez a Kereső funkcionalitásának feláldozásával jár. A döntés rávilágít az AI oktatásban betöltött szerepének komplexitására, valamint az adatvédelem és a funkcionalitás közötti kompromisszumokra.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Már a 1,5 Celsius-fok sem elég a sarkvidéki jégtakaró megóvására",
-      "summary": "Kutatók szerint a globális felmelegedés 1,5 Celsius-fokos korlátozása sem elegendő a sarkvidéki jégtakaró súlyos károsodásának megakadályozására. Ez aggasztó jel a klímaváltozás elleni küzdelemben, és sürgetőbb intézkedéseket tesz szükségessé.",
+      "title": "Már az 1,5 Celsius-fokos felmelegedés sem elég a sarki jégtakaró súlyos károsodásának elkerülésére",
+      "summary": "A legújabb kutatások szerint már a párizsi éghajlatvédelmi egyezményben célul kitűzött 1,5 Celsius-fokos globális felmelegedés sem elegendő a sarki jégtakaró súlyos károsodásának megakadályozására. Ez aggasztó jövőképet fest a klímaváltozás hatásairól és a tengerszint-emelkedésről.",
       "importance": 5
     },
     {
-      "title": "A történelmi Marburg-vírus járvány hosszú távú vírusrejtőzködésre utal",
-      "summary": "Egy történelmi Marburg-vírus járvány vizsgálata arra utal, hogy a vírus képes hosszú távon rejtőzködni az élő szervezetben. Ez új kihívásokat jelent a járványügyi felkészültség és a víruskutatás számára.",
+      "title": "Több rákfajtát is kimutató vérvizsgálatok válnak elérhetővé háziorvosi rendelőkben",
+      "summary": "Hamarosan bizonyos háziorvosi rendelőkben is elérhetővé válnak olyan vérvizsgálatok, amelyek több rákfajtát is képesek kimutatni. Ez a fejlesztés forradalmasíthatja a rák korai felismerését és javíthatja a betegek túlélési esélyeit.",
+      "importance": 5
+    },
+    {
+      "title": "Történelmi Marburg-vírus járvány utalhat a vírus hosszú távú rejtőzködésére",
+      "summary": "Egy történelmi Marburg-vírus járvány arra utal, hogy a vírus hosszú távon is rejtőzködhet a gazdaszervezetekben. Ez a felfedezés fontos a jövőbeli járványok megelőzésében és a vírussal kapcsolatos kutatásokban.",
       "importance": 4
     },
     {
-      "title": "Miért bukott el a \"játékváltó\" koleszterinszint-csökkentő gyógyszer a klinikai teszteken?",
-      "summary": "Egy ígéretes, \"játékváltóként\" beharangozott koleszterinszint-csökkentő gyógyszer megbukott a klinikai vizsgálatokon. A kudarc okainak megértése kulcsfontosságú a jövőbeli gyógyszerfejlesztés szempontjából.",
-      "importance": 4
-    },
-    {
-      "title": "Az AI-alapú pályázatértékelés konzervatívabbá teheti a tudományt?",
-      "summary": "Felvetődik a kérdés, hogy a mesterséges intelligencia által végzett kutatási pályázatok értékelése konzervatívabbá teheti-e a tudományt. Ez a vita alapvető kérdéseket vet fel az innováció és az objektivitás viszonyáról a kutatásfinanszírozásban.",
+      "title": "A biotechnológiai cégek nem fizetnek a Föld genetikai adatainak használatáért",
+      "summary": "A biotechnológiai vállalatoknak fizetniük kellene a Föld genetikai adatainak felhasználásáért, azonban ezt gyakran elmulasztják. Ez a probléma etikai és jogi kérdéseket vet fel a biológiai sokféleség megőrzése és az erőforrások méltányos megosztása kapcsán.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Nincs közvetlen sport hír a rendelkezésre álló forrásokban",
-      "summary": "A megadott hírforrásokban nem találhatóak közvetlenül sporttal kapcsolatos hírek. Ez az elem hiánypótló jelleggel került be a JSON struktúra fenntartása érdekében.",
-      "importance": 1
-    },
-    {
-      "title": "Nincs releváns sport tartalom",
-      "summary": "A dashboard szerkesztéséhez rendelkezésre bocsátott hírek között nem szerepel releváns sport tartalom. Ezért a bejegyzés célja a JSON formátum betartása.",
-      "importance": 1
-    },
-    {
-      "title": "A sport szekció üresen maradt (információhiány miatt)",
-      "summary": "A feldolgozandó anyag nem tartalmazott elegendő sport témájú hírt ahhoz, hogy ezt a szekciót releváns tartalommal töltsük fel.  További hírek szükségesek a kategória hiteles kitöltéséhez.",
-      "importance": 1
-    },
-    {
-      "title": "Hiányzó sport hírek: Nem sikerült 4 fontos cikket azonosítani",
-      "summary": "Bár a feladat 4 fontos sport hír kiválasztását kérte, a megadott forrásokból nem volt lehetséges ennyi releváns tételt azonosítani. A listában nem szerepeltek sport témájú cikkek.",
-      "importance": 1
-    }
-  ]
+  "sports": []
 }

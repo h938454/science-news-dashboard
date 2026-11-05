@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Lemondott Merkely Béla, a Semmelweis Egyetem rektora",
-      "summary": "A Semmelweis Egyetem rektora, Merkely Béla váratlanul benyújtotta lemondását, ami jelentős változást hozhat az intézmény vezetésében. A távozás okairól egyelőre keveset tudni.",
-      "importance": 5
-    },
-    {
-      "title": "Közel 150 millió forint közpénzből repült Szijjártó Péter Japánba és Azerbajdzsánba",
-      "summary": "Szijjártó Péter külügyminiszter két legutóbbi külföldi útja – Japánba és Azerbajdzsánba – összesen közel 150 millió forint adófizetői pénzbe került. Az eset rávilágít a kormányzati utazások költségeire és átláthatóságára.",
+      "title": "Kozármisleny visszavonta Matolcsy György díszpolgári címét",
+      "summary": "Kozármisleny önkormányzata visszavonta Matolcsy György, a Magyar Nemzeti Bank elnökének díszpolgári címét. A döntést a 2013-as jegybanktörvény elfogadásával kapcsolatos nyilatkozatai és a közfelháborodás váltotta ki.",
       "importance": 4
     },
     {
-      "title": "Papp István ÁBTL-főosztályvezető a beszervezési dossziékról: A nagyjából egymillió oldal rengeteg érzékeny adatot tartalmaz",
-      "summary": "Az Állambiztonsági Szolgálatok Történeti Levéltárának főosztályvezetője szerint az ügynökakták hatalmas mennyiségű, érzékeny és potenciálisan romboló információt rejtenek. Nyilvánosságra hozataluk súlyos társadalmi következményekkel járhat Magyarországon.",
+      "title": "A kormány megvonná az MMA-tól a jogot a kulturális pénzek elosztásában",
+      "summary": "A kormány törvényjavaslatot terjesztett be, amely megvonná a Magyar Művészeti Akadémiától (MMA) a kulturális támogatások elosztásának jogát. Ez jelentős változásokat hozhat a magyar kulturális élet finanszírozási rendszerében.",
+      "importance": 4
+    },
+    {
+      "title": "Orosz külügyminiszter-helyettes: Magyarország nem kap jobb ajánlatot az oroszokénál",
+      "summary": "Az orosz külügyminiszter-helyettes szerint Magyarország nem számíthat az oroszokénál kedvezőbb ajánlatra sem az energetika, sem a gazdaság terén. A kijelentés az orosz-magyar kapcsolatok és az energiapolitika szempontjából hordoz súlyos üzeneteket.",
       "importance": 5
     },
     {
-      "title": "„Lehet, hogy itt a Tiszával szembejött a valóság” – mi a 2027-es költségvetés legnagyobb politikai kockázata?",
-      "summary": "A HVG elemzése szerint a 2027-es költségvetés körüli bizonytalanságok komoly politikai kockázatot jelentenek a kormánynak. Az előirányzott kiadások és bevételek finanszírozása számos kihívás elé állíthatja az országot a közeljövőben.",
+      "title": "Létrejön az Országos Élőkörnyezet-felügyeleti Főhatóság",
+      "summary": "Új országos főhatóság alakul az élőkörnyezet felügyeletére és védelmére. A szervezet célja a környezetvédelmi szabályok hatékonyabb érvényesítése és a fenntarthatósági célok előmozdítása.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "A világ nem dőlhet hátra a félidős választások után sem, de lesznek eszközök Trump külföldi akcióinak megfékezésére",
-      "summary": "Az amerikai félidős választások eredményei ellenére Donald Trump továbbra is jelentős befolyással bírhat a nemzetközi politikára. Elemzők szerint azonban léteznek jogi és politikai eszközök külföldi akcióinak korlátozására.",
-      "importance": 5
-    },
-    {
-      "title": "Váratlanul irányt váltottak az USA-ba tartó orosz üzemanyag-szállító hajók",
-      "summary": "Oroszország az Egyesült Államokba tartó üzemanyagszállító hajóit hirtelen eltérítette, ami geopolitikai feszültségeket és energiaellátási bizonytalanságot jelezhet. A lépés mögött valószínűleg politikai döntések és stratégiai megfontolások állnak.",
-      "importance": 5
-    },
-    {
-      "title": "Tucatnyi európai repülőjáratot kellett eltéríteni bombafenyegetések miatt",
-      "summary": "Bombafenyegetések miatt számos európai repülőjáratot kellett eltéríteni, komoly fennakadásokat okozva a légiközlekedésben és biztonsági riasztást kiváltva. A hatóságok vizsgálják az esetek hátterét és igyekeznek azonosítani az elkövetőket.",
+      "title": "Russell Brandot nemi erőszak és szexuális zaklatás miatt elítélték",
+      "summary": "Russell Brand brit komikust és színészt több vádpontban is bűnösnek találták nemi erőszak és szexuális zaklatás ügyében. Az ítélet komoly visszhangot váltott ki a nemzetközi médiában és a közvéleményben.",
       "importance": 4
     },
     {
-      "title": "„Lázban ég”: hogyan erősíti fel a legerősebb El Niño a tájfunokat Kelet-Ázsiában",
-      "summary": "A jelenlegi, rendkívül erős El Niño jelenség felerősíti a tájfunokat Kelet-Ázsiában, súlyos pusztítással fenyegetve a térséget. Ez rávilágít a klímaváltozás és a természeti jelenségek közötti komplex összefüggésekre, valamint az éghajlati rendszerek sebezhetőségére.",
+      "title": "Zelenszkij sürgős segítséget kért Ukrajna energiaellátásához",
+      "summary": "Volodimir Zelenszkij ukrán elnök haladéktalan nemzetközi segítséget sürgetett országa energiaellátásának helyreállításához az orosz támadások után. Az ukrán infrastruktúra elleni folyamatos támadások komoly humanitárius kihívást jelentenek.",
+      "importance": 5
+    },
+    {
+      "title": "Az Egyesült Királyságban három év után először emelték a kamatokat 4%-ra",
+      "summary": "Az Egyesült Királyság jegybankja 4%-ra emelte az alapkamatot, ami az első ilyen mértékű emelés több mint három év után. A döntés jelentős hatással lehet a brit gazdaságra és a háztartások pénzügyeire.",
+      "importance": 4
+    },
+    {
+      "title": "Bombariadó-fenyegetések Európa-szerte a légitársaságok és repülőterek ellen",
+      "summary": "Európai légitársaságokat és repülőtereket célzó bombariadó-fenyegetések történtek, már másodszor egy héten belül. Az esetek komoly fennakadásokat okoznak a légi forgalomban és fokozott biztonsági intézkedéseket tesznek szükségessé.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI már a 2028-as választások befolyásolására törekszik",
-      "summary": "Az OpenAI, a mesterséges intelligencia fejlesztő cég, már most aktívan igyekszik befolyásolni a 2028-as választásokat, ami komoly etikai és társadalmi kérdéseket vet fel az AI szerepével kapcsolatban. Aggályok merülnek fel az információmanipuláció és a demokratikus folyamatokra gyakorolt hatás miatt.",
-      "importance": 5
-    },
-    {
-      "title": "A Meta felvásárolta a Conductor AI kódoló startupot",
-      "summary": "A Meta felvásárolta az AI-alapú kódoló startupot, a Conductort, ezzel erősítve pozícióját a mesterséges intelligencia területén. A lépés valószínűleg hozzájárul a Meta saját AI-fejlesztéseinek felgyorsításához és a jövőbeni termékeinek innovációjához.",
-      "importance": 5
-    },
-    {
-      "title": "Hackerek loptak DreamHost ügyfélfájlokat és postaládákat egy hónapokig tartó támadás során",
-      "summary": "A DreamHost webhoszting szolgáltatót hónapokig tartó kibertámadás érte, melynek során ügyféladatokat és e-mail postaládákat loptak el. Az eset súlyos adatvédelmi aggályokat vet fel és rávilágít a kiberbiztonság folyamatos kihívásaira.",
+      "title": "A Meta szerint a választási ellenállás megnehezítheti az AI terjeszkedését",
+      "summary": "A Meta arra figyelmeztet, hogy az adatközpontok elleni választói ellenállás akadályozhatja mesterséges intelligencia infrastruktúrájának bővítését. Ez aggodalomra ad okot a nagy technológiai cégek számára az AI fejlesztésében és globális terjeszkedésében.",
       "importance": 4
     },
     {
-      "title": "Az Amazon szakít a GrubHubbal, az Uber Eats-et választja a Prime szolgáltatáshoz",
-      "summary": "Az Amazon felmondta együttműködését a GrubHubbal, és az Uber Eats-szel lép partnerségre Prime előfizetői számára, ezzel módosítva az online ételrendelési szolgáltatását. Ez a stratégiai váltás jelentős átrendeződést hozhat az ételkiszállítási piacon és befolyásolhatja a versenytársakat.",
+      "title": "Az OpenAI új kiberbiztonsági modellt adott ki",
+      "summary": "Az OpenAI egy új kiberbiztonsági modellt mutatott be, amely a kibertámadások felderítését és megelőzését célozza. Ez jelentős lépés lehet a digitális biztonság javítása felé, különösen az AI-alapú fenyegetések korában.",
+      "importance": 4
+    },
+    {
+      "title": "A Zipline 21,5 milliárd dolláros értékelést ért el a drónos kézbesítés bővülésével",
+      "summary": "A drónos kézbesítéssel foglalkozó Zipline cég értékelése 21,5 milliárd dollárra emelkedett, miközben a Walmart is bővíti velük való együttműködését. Ez a dróntechnológia és logisztika fejlődésének fontos mérföldköve, amely megváltoztathatja a csomagszállítást.",
+      "importance": 4
+    },
+    {
+      "title": "A Dropbox megvásárolta a Tigris Datát AI infrastruktúrájának erősítésére",
+      "summary": "A Dropbox 350 millió dollárért felvásárolta a Tigris Datát, hogy jelentősen megerősítse mesterséges intelligencia infrastruktúráját. A felvásárlás célja az AI-alapú szolgáltatások gyorsabb fejlesztése és bővítése a felhőalapú tárolás területén.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "AI ügynökök vezérelnek egy automatizált biológiai laboratóriumot, amely DNS-t szekvenál és mást is végez",
-      "summary": "Mesterséges intelligencia alapú ügynökök irányítanak egy teljesen automatizált biológiai laboratóriumot, amely képes önállóan DNS-t szekvenálni és más komplex feladatokat elvégezni. Ez forradalmasíthatja a biológiai kutatás módszereit és felgyorsíthatja a felfedezéseket.",
-      "importance": 5
-    },
-    {
-      "title": "Parkinson-kór: az agyon túlmutató felfedezések",
-      "summary": "Új kutatások szerint a Parkinson-kór nem csupán az agyat érinti, hanem a test más részein is megfigyelhetőek patológiás elváltozások, például az emésztőrendszerben. Ez a felfedezés új terápiás utakat nyithat meg a betegség korai felismerésében és kezelésében.",
-      "importance": 5
-    },
-    {
-      "title": "Egyedülálló bolygóroncs szolgáltat nyomokat Naprendszerünk jövőjével kapcsolatban",
-      "summary": "Csillagászok egy olyan bolygóroncsot fedeztek fel, amelynek vizsgálata révén betekintést nyerhetünk a Naprendszer jövőjébe és a bolygók evolúciós folyamataiba. Ez a felfedezés alapvető kérdésekre adhat választ az univerzumról és a csillagászati objektumok sorsáról.",
+      "title": "Fogyasztói okosórákkal észlelhető a magas vérnyomás jele",
+      "summary": "Egy új kutatás szerint a kereskedelemben kapható okosórák képesek lehetnek a magas vérnyomás korai jeleinek észlelésére, még a klinikai diagnózis előtt. Ez forradalmasíthatja a szív- és érrendszeri betegségek otthoni monitorozását és megelőzését.",
       "importance": 4
     },
     {
-      "title": "Ősi DNS-vizsgálatok feltárják a kelta és germán nyelvek terjedését",
-      "summary": "Az ősi DNS elemzése forradalmasítja a kelta és germán nyelvek elterjedésének megértését, bemutatva a népvándorlások és kulturális interakciók komplexitását. A genetikai adatok összekapcsolása a nyelvtudománnyal új perspektívát nyújt a történelem értelmezéséhez.",
+      "title": "AI ügynökök működtetnek egy automatizált biológiakutatási laboratóriumot",
+      "summary": "Mesterséges intelligencia által vezérelt ügynökök működtetnek egy teljesen automatizált biológiakutatási laboratóriumot, amely képes DNS szekvenálásra és komplex kísérletekre. Ez a fejlesztés jelentősen felgyorsíthatja a tudományos felfedezéseket és az orvosi innovációkat.",
+      "importance": 5
+    },
+    {
+      "title": "Megváltoztatja a közösségi média a gyermekek agyát? A tudomány válaszol",
+      "summary": "Tudományos kutatások vizsgálják, hogy a közösségi média milyen hatással van a gyermekek agyának fejlődésére és viselkedésére. Az eredmények rávilágítanak a digitális technológia hosszú távú pszichológiai és neurológiai következményeire, fontos iránymutatást adva a szülőknek és a pedagógusoknak.",
+      "importance": 5
+    },
+    {
+      "title": "Egyedülálló bolygóroncsok árulnak el titkokat Naprendszerünk jövőjéről",
+      "summary": "Csillagászok egyedülálló bolygóroncsokat fedeztek fel, amelyek értékes információkat szolgáltatnak a Naprendszerünk és más bolygórendszerek jövőbeni evolúciójáról. Ez a felfedezés új betekintést nyújt az univerzum dinamikájába.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Cristiano Ronaldo bejelentette visszavonulását a portugál válogatottól",
-      "summary": "Cristiano Ronaldo, a futballvilág egyik legnagyobb alakja, hivatalosan is bejelentette, hogy visszavonul a portugál nemzeti válogatottól. Ezzel egy korszak zárult le a nemzetközi futballban, melyet számtalan rekord és győzelem fémjelzett.",
+      "title": "Európa-liga: Milan – Ferencváros",
+      "summary": "A Ferencváros labdarúgócsapata az Európa-liga csoportkörében mérkőzik meg a Milan együttesével, ami a szezon egyik legfontosabb találkozója. A mérkőzés eredménye döntő lehet a továbbjutás szempontjából, és hatalmas érdeklődés kíséri.",
       "importance": 5
+    },
+    {
+      "title": "Botrány: Mussolinit éltette a karlendítő Fradi-tábor Milánóban",
+      "summary": "A Ferencváros szurkolóinak egy csoportja Mussolinit éltetett és karlendítéssel provokált Milánó főterén egy nemzetközi mérkőzés előtt. Az eset komoly felháborodást váltott ki, és rontja a magyar futball és a klub hírnevét.",
+      "importance": 4
+    },
+    {
+      "title": "Harmadjára is eladják a Vidit",
+      "summary": "A székesfehérvári Vidi labdarúgócsapatát harmadjára is megpróbálják értékesíteni, ami a klub körüli tulajdonosi bizonytalanságot jelzi. A sikeres tulajdonosváltás kulcsfontosságú a csapat hosszú távú stabilitása és finanszírozása szempontjából.",
+      "importance": 3
+    },
+    {
+      "title": "32 év után véget ért az Audi A8 gyártása",
+      "summary": "Három évtized után leállították az Audi A8 luxusmodell gyártását, ami egy korszak lezárását jelenti az autógyártásban. Bár nem közvetlen sportesemény, a nagyteljesítményű autók gyártásának befejezése érdekelheti az autóversenyek és autósportok kedvelőit is, mint az autós kultúra része.",
+      "importance": 1
     }
   ]
 }

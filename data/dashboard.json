@@ -1,112 +1,102 @@
 {
   "hungary": [
     {
-      "title": "Kozármisleny visszavonta Matolcsy György díszpolgári címét",
-      "summary": "Kozármisleny önkormányzata visszavonta Matolcsy György, a Magyar Nemzeti Bank elnökének díszpolgári címét. A döntést a 2013-as jegybanktörvény elfogadásával kapcsolatos nyilatkozatai és a közfelháborodás váltotta ki.",
-      "importance": 4
-    },
-    {
-      "title": "A kormány megvonná az MMA-tól a jogot a kulturális pénzek elosztásában",
-      "summary": "A kormány törvényjavaslatot terjesztett be, amely megvonná a Magyar Művészeti Akadémiától (MMA) a kulturális támogatások elosztásának jogát. Ez jelentős változásokat hozhat a magyar kulturális élet finanszírozási rendszerében.",
-      "importance": 4
-    },
-    {
-      "title": "Orosz külügyminiszter-helyettes: Magyarország nem kap jobb ajánlatot az oroszokénál",
-      "summary": "Az orosz külügyminiszter-helyettes szerint Magyarország nem számíthat az oroszokénál kedvezőbb ajánlatra sem az energetika, sem a gazdaság terén. A kijelentés az orosz-magyar kapcsolatok és az energiapolitika szempontjából hordoz súlyos üzeneteket.",
+      "title": "Új környezetvédelmi csúcsszerv jön létre januártól",
+      "summary": "Januártól új országos hatáskörű főhatóság veszi át az Élővizek és Élőhelyek Országos Felügyeleti Főigazgatóságától a környezetvédelmi felügyeleti feladatokat. Az Országos Élőkörnyezet-felügyeleti Főhatóság célja a természetvédelmi szabályozás egységesítése és a hatékonyság növelése.",
       "importance": 5
     },
     {
-      "title": "Létrejön az Országos Élőkörnyezet-felügyeleti Főhatóság",
-      "summary": "Új országos főhatóság alakul az élőkörnyezet felügyeletére és védelmére. A szervezet célja a környezetvédelmi szabályok hatékonyabb érvényesítése és a fenntarthatósági célok előmozdítása.",
+      "title": "A kormány megvonná az MMA-tól a jogot, hogy beleszóljon a kulturális pénzek elosztásába",
+      "summary": "A kormány tervezete szerint megvonnák a Magyar Művészeti Akadémiától (MMA) azt a jogot, hogy érdemben beleszóljon a kulturális állami támogatások elosztásába. Ez jelentősen átalakíthatja a kulturális szektor finanszírozási rendszerét és befolyási viszonyait.",
       "importance": 4
+    },
+    {
+      "title": "Magyarország senkitől nem kap majd az oroszokénál jobb ajánlatot az orosz külügyminiszter-helyettes szerint",
+      "summary": "Alekszandr Grusko orosz külügyminiszter-helyettes nyilatkozata szerint Magyarország nem számíthat az oroszokénál kedvezőbb ajánlatra energiaellátás terén. Ez a kijelentés aláhúzza Magyarország energiafüggőségét Oroszországtól és befolyásolhatja az ország külpolitikai mozgásterét.",
+      "importance": 4
+    },
+    {
+      "title": "Hogy került Lezsák Sándor neve az ügynökaktákba?",
+      "summary": "Lezsák Sándor neve felmerült az ügynökaktákban, ami komoly politikai és erkölcsi kérdéseket vet fel a múlt titkosszolgálati tevékenységével kapcsolatban. Az ügy vizsgálata rávilágíthat a rendszerváltás előtti időszak máig ható következményeire és a közéleti szereplők hátterére.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Russell Brandot nemi erőszak és szexuális zaklatás miatt elítélték",
-      "summary": "Russell Brand brit komikust és színészt több vádpontban is bűnösnek találták nemi erőszak és szexuális zaklatás ügyében. Az ítélet komoly visszhangot váltott ki a nemzetközi médiában és a közvéleményben.",
-      "importance": 4
-    },
-    {
-      "title": "Zelenszkij sürgős segítséget kért Ukrajna energiaellátásához",
-      "summary": "Volodimir Zelenszkij ukrán elnök haladéktalan nemzetközi segítséget sürgetett országa energiaellátásának helyreállításához az orosz támadások után. Az ukrán infrastruktúra elleni folyamatos támadások komoly humanitárius kihívást jelentenek.",
+      "title": "Russell Brandot nemi erőszak és szexuális zaklatás vádjában bűnösnek találták",
+      "summary": "A brit komikust és színészt, Russell Brandet bűnösnek találták több rendbeli nemi erőszak és szexuális zaklatás vádjában. Az ítélet széles körű vitát váltott ki a szórakoztatóiparban a hatalmi visszaélésekről és az áldozatok védelméről.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Királyságban három év után először emelték a kamatokat 4%-ra",
-      "summary": "Az Egyesült Királyság jegybankja 4%-ra emelte az alapkamatot, ami az első ilyen mértékű emelés több mint három év után. A döntés jelentős hatással lehet a brit gazdaságra és a háztartások pénzügyeire.",
+      "title": "Kalifornia kormányzója 548 halálbüntetést törölt el egyetlen döntéssel",
+      "summary": "Kalifornia leköszönő kormányzója, Gavin Newsom egyetlen döntéssel érvénytelenítette az állam összes, 548 halálbüntetését. Ez a történelmi lépés a halálbüntetés elleni mozgalom jelentős győzelmét jelenti az Egyesült Államokban.",
+      "importance": 5
+    },
+    {
+      "title": "Mielőbbi segítséget kért Zelenszkij Ukrajna energiaellátásához",
+      "summary": "Volodimir Zelenszkij ukrán elnök sürgős nemzetközi segítséget kért országa energiaellátásának biztosításához az orosz támadások okozta károk miatt. Az energiaellátás kritikus fontosságú a polgári lakosság és a háborús erőfeszítések szempontjából egyaránt.",
       "importance": 4
     },
     {
-      "title": "Bombariadó-fenyegetések Európa-szerte a légitársaságok és repülőterek ellen",
-      "summary": "Európai légitársaságokat és repülőtereket célzó bombariadó-fenyegetések történtek, már másodszor egy héten belül. Az esetek komoly fennakadásokat okoznak a légi forgalomban és fokozott biztonsági intézkedéseket tesznek szükségessé.",
-      "importance": 4
+      "title": "Bocsánatot kért, majd lemondott Paraguay elnöke az OTP által is finanszírozott Ueno bank összeomlása után",
+      "summary": "Paraguay elnöke bocsánatot kért, majd lemondott, miután az OTP által is finanszírozott Ueno bank összeomlott. A botrány rávilágít a nemzetközi banki kapcsolatok kockázataira és a pénzintézetek felügyeletének fontosságára.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "A Meta szerint a választási ellenállás megnehezítheti az AI terjeszkedését",
-      "summary": "A Meta arra figyelmeztet, hogy az adatközpontok elleni választói ellenállás akadályozhatja mesterséges intelligencia infrastruktúrájának bővítését. Ez aggodalomra ad okot a nagy technológiai cégek számára az AI fejlesztésében és globális terjeszkedésében.",
+      "title": "A főbb tech részvények zuhannak, az amerikai félidős választások növelik az AI lassulásától való félelmeket",
+      "summary": "A vezető technológiai vállalatok részvényei jelentős esést mutattak, mivel az amerikai félidős választások eredményei felerősítik az aggodalmakat az AI-fejlesztések lassulása iránt. Ez a trend jelezheti a befektetői bizalom csökkenését és a gazdasági bizonytalanság növekedését a tech szektorban.",
+      "importance": 5
+    },
+    {
+      "title": "A Meta, a Google és a TikTok bepereli Kalifornia főügyészét a tinédzserek közösségi média törvénye miatt",
+      "summary": "A Meta, a Google és a TikTok közösen pereli be Kalifornia főügyészét egy új törvény miatt, amely a tinédzserek közösségi médiahasználatát szabályozná. Az ügy jelentős jogi precedenst teremthet a technológiai cégek felelősségvállalásával és a felhasználók adatvédelmével kapcsolatban.",
       "importance": 4
     },
     {
-      "title": "Az OpenAI új kiberbiztonsági modellt adott ki",
-      "summary": "Az OpenAI egy új kiberbiztonsági modellt mutatott be, amely a kibertámadások felderítését és megelőzését célozza. Ez jelentős lépés lehet a digitális biztonság javítása felé, különösen az AI-alapú fenyegetések korában.",
+      "title": "Az Airbnb 2027 első felében mesterséges intelligencia alapú utazási ügynököt indít",
+      "summary": "Az Airbnb bejelentette, hogy 2027 első felében egy mesterséges intelligencia alapú utazási ügynököt vezet be, amely forradalmasíthatja az utazástervezést. Ez a fejlesztés új szintre emelheti a személyre szabott szolgáltatásokat a turizmusban.",
       "importance": 4
     },
     {
-      "title": "A Zipline 21,5 milliárd dolláros értékelést ért el a drónos kézbesítés bővülésével",
-      "summary": "A drónos kézbesítéssel foglalkozó Zipline cég értékelése 21,5 milliárd dollárra emelkedett, miközben a Walmart is bővíti velük való együttműködését. Ez a dróntechnológia és logisztika fejlődésének fontos mérföldköve, amely megváltoztathatja a csomagszállítást.",
-      "importance": 4
-    },
-    {
-      "title": "A Dropbox megvásárolta a Tigris Datát AI infrastruktúrájának erősítésére",
-      "summary": "A Dropbox 350 millió dollárért felvásárolta a Tigris Datát, hogy jelentősen megerősítse mesterséges intelligencia infrastruktúráját. A felvásárlás célja az AI-alapú szolgáltatások gyorsabb fejlesztése és bővítése a felhőalapú tárolás területén.",
-      "importance": 4
+      "title": "Az OpenAI új kiberbiztonsági modellt adott ki – elég ez?",
+      "summary": "Az OpenAI kiadott egy új mesterséges intelligencia alapú kiberbiztonsági modellt, amely ígéretes lehet a digitális fenyegetések elleni védekezésben. A kérdés azonban, hogy ez a fejlesztés elegendő-e a folyamatosan fejlődő kiberbűnözés kihívásainak kezelésére.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Fogyasztói okosórákkal észlelhető a magas vérnyomás jele",
-      "summary": "Egy új kutatás szerint a kereskedelemben kapható okosórák képesek lehetnek a magas vérnyomás korai jeleinek észlelésére, még a klinikai diagnózis előtt. Ez forradalmasíthatja a szív- és érrendszeri betegségek otthoni monitorozását és megelőzését.",
-      "importance": 4
-    },
-    {
-      "title": "AI ügynökök működtetnek egy automatizált biológiakutatási laboratóriumot",
-      "summary": "Mesterséges intelligencia által vezérelt ügynökök működtetnek egy teljesen automatizált biológiakutatási laboratóriumot, amely képes DNS szekvenálásra és komplex kísérletekre. Ez a fejlesztés jelentősen felgyorsíthatja a tudományos felfedezéseket és az orvosi innovációkat.",
+      "title": "Egyedülálló bolygóroncsok árulkodnak Naprendszerünk sorsáról",
+      "summary": "Tudósok egyedülálló bolygóroncsokat azonosítottak, amelyek kulcsfontosságú információkat rejtenek Naprendszerünk múltjáról és jövőjéről. Ez a felfedezés új betekintést nyújt a bolygórendszerek evolúciójába és a kozmikus folyamatok megértésébe.",
       "importance": 5
     },
     {
-      "title": "Megváltoztatja a közösségi média a gyermekek agyát? A tudomány válaszol",
-      "summary": "Tudományos kutatások vizsgálják, hogy a közösségi média milyen hatással van a gyermekek agyának fejlődésére és viselkedésére. Az eredmények rávilágítanak a digitális technológia hosszú távú pszichológiai és neurológiai következményeire, fontos iránymutatást adva a szülőknek és a pedagógusoknak.",
-      "importance": 5
+      "title": "Milliók szenvednek a hosszú Covidtól, de most jött egy nagyon jó hír",
+      "summary": "Bár milliók küzdenek világszerte a hosszú Covid tüneteivel, ígéretes kutatási eredmények jelentek meg a gyógyításukkal kapcsolatban. Ez a fejlemény reményt adhat a betegeknek és új irányt mutathat a betegség kezelésének kutatásában.",
+      "importance": 4
     },
     {
-      "title": "Egyedülálló bolygóroncsok árulnak el titkokat Naprendszerünk jövőjéről",
-      "summary": "Csillagászok egyedülálló bolygóroncsokat fedeztek fel, amelyek értékes információkat szolgáltatnak a Naprendszerünk és más bolygórendszerek jövőbeni evolúciójáról. Ez a felfedezés új betekintést nyújt az univerzum dinamikájába.",
+      "title": "Vajon a közösségi média megváltoztatja-e a gyerekek agyát? Íme, amit a tudomány mond",
+      "summary": "Tudományos kutatások vizsgálják, hogy a közösségi média használata milyen hatással van a gyermekek agyának fejlődésére és mentális egészségére. Az eredmények alapvetőek lehetnek a szülői útmutatás és az oktatáspolitika alakításában.",
       "importance": 4
+    },
+    {
+      "title": "Hipertónia jeleinek opportunista észlelése fogyasztói okosórával",
+      "summary": "Kutatók kimutatták, hogy a fogyasztói okosórák segítségével opportunista módon észlelhetők a magas vérnyomás (hipertónia) jelei. Ez a technológia forradalmasíthatja a korai diagnózist és a megelőző egészségügyi ellátást.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Európa-liga: Milan – Ferencváros",
-      "summary": "A Ferencváros labdarúgócsapata az Európa-liga csoportkörében mérkőzik meg a Milan együttesével, ami a szezon egyik legfontosabb találkozója. A mérkőzés eredménye döntő lehet a továbbjutás szempontjából, és hatalmas érdeklődés kíséri.",
+      "title": "Milánóban nyert a Ferencváros",
+      "summary": "A Ferencváros labdarúgócsapata nagy sikert aratott Milánóban, megnyerve mérkőzését. Ez a győzelem jelentős előrelépést jelent a csapat nemzetközi szereplésében és növeli presztízsét.",
       "importance": 5
     },
     {
-      "title": "Botrány: Mussolinit éltette a karlendítő Fradi-tábor Milánóban",
-      "summary": "A Ferencváros szurkolóinak egy csoportja Mussolinit éltetett és karlendítéssel provokált Milánó főterén egy nemzetközi mérkőzés előtt. Az eset komoly felháborodást váltott ki, és rontja a magyar futball és a klub hírnevét.",
-      "importance": 4
-    },
-    {
-      "title": "Harmadjára is eladják a Vidit",
-      "summary": "A székesfehérvári Vidi labdarúgócsapatát harmadjára is megpróbálják értékesíteni, ami a klub körüli tulajdonosi bizonytalanságot jelzi. A sikeres tulajdonosváltás kulcsfontosságú a csapat hosszú távú stabilitása és finanszírozása szempontjából.",
+      "title": "Harmadjára is megpróbálják eladni a Vidit",
+      "summary": "Harmadik alkalommal is megkísérlik eladni a Videoton (Vidi) labdarúgóklubot, ami a csapat pénzügyi nehézségeire és tulajdonosi bizonytalanságára utal. Az eladás sikere kritikus lehet a klub jövője szempontjából.",
       "importance": 3
-    },
-    {
-      "title": "32 év után véget ért az Audi A8 gyártása",
-      "summary": "Három évtized után leállították az Audi A8 luxusmodell gyártását, ami egy korszak lezárását jelenti az autógyártásban. Bár nem közvetlen sportesemény, a nagyteljesítményű autók gyártásának befejezése érdekelheti az autóversenyek és autósportok kedvelőit is, mint az autós kultúra része.",
-      "importance": 1
     }
   ]
 }

@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Az OTP alkotmányjogi panaszt nyújtott be a kamatstop miatt",
-      "summary": "Az OTP Bank alkotmányjogi panaszt terjesztett elő a kamatstop intézkedés ellen, ami jelentős jogi és gazdasági lépés a pénzintézet részéről. A bank ezzel a lépéssel a kormányzati beavatkozás alkotmányosságát kérdőjelezi meg.",
+      "title": "Drágul az autópálya matrica: jelentős áremelkedés jön",
+      "summary": "Az éves autópálya matrica ára 62 560 forintra emelkedik, míg a tíznapos 6990 forintba, az éves megyei matrica pedig 7280 forint lesz. Az emelés a gépjárműtulajdonosok széles körét érinti.",
       "importance": 5
     },
     {
-      "title": "Jelentősen drágulnak a sztrádamatricák 2024-től",
-      "summary": "Az éves sztrádamatrica ára 62 560 forintra, a tíznaposé 6990 forintra, míg az éves megyei matrica 7280 forintra emelkedik 2024-ben. Az áremelkedés minden autós pénztárcáját érinti.",
+      "title": "Átfogó vizsgálat indul a magyar médiapiacon",
+      "summary": "A médiahatóság vizsgálatot indít a teljes magyar médiapiacon, melynek során a KESMA, a 4iG és az Indamedia is ellenőrzés alá kerül. A lépés célja a piaci koncentráció és működés áttekintése.",
       "importance": 4
     },
     {
-      "title": "A kormány az Európai Beruházási Bank segítségével lendítené fel a gazdaságot",
-      "summary": "A magyar kormány gazdaságélénkítő intézkedéseket tervez, melyekhez az Európai Beruházási Bank (EBB) is komoly pénzügyi támogatást nyújt. Ez a lépés a gazdasági növekedés serkentését célozza.",
+      "title": "A Fidesz fordulatot vett az önkormányzatok támogatásában",
+      "summary": "A Fidesz váratlanul megerősítette támogatását az önkormányzatok felé, jelezve egy lehetséges irányváltást a helyi közigazgatással kapcsolatos politikájában. Ez jelentős hatással lehet a települések fejlődésére.",
       "importance": 4
     },
     {
-      "title": "Átfogó vizsgálat alá vonja a médiahatóság a magyar médiapiacot",
-      "summary": "A médiahatóság bejelentette, hogy átfogó vizsgálatot indít a magyar médiapiac szereplőinél, beleértve a KESMA-t, a 4iG-t és az Indamédiát is. A vizsgálat a piaci verseny és a szabályok betartását hivatott ellenőrizni.",
+      "title": "Gazdaságélénkítést tervez a kormány az Európai Beruházási Bankkal",
+      "summary": "A magyar kormány az Európai Beruházási Bank (EIB) segítségével tervezi meglökni a gazdaságot. Az együttműködés célja a növekedés ösztönzése és a gazdasági stabilitás erősítése.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Stephen Miller lesz Trump kabinetfőnöke, Goebbelshez és Sztálinhoz hasonlítják",
-      "summary": "Stephen Miller, akit kritikusan Goebbelshez és Sztálinhoz hasonlítanak, lesz Donald Trump új kabinetfőnöke. Kinevezése komoly politikai vitákat és aggodalmakat váltott ki az Egyesült Államokban.",
+      "title": "Stephen Miller lesz Trump új kabinetfőnöke",
+      "summary": "Stephen Miller, akit korábban Goebbelshez és Sztálinhoz is hasonlítottak, Donald Trump új kabinetfőnöke lesz. Kinevezése várhatóan éles csatákat vetít előre az amerikai politikában.",
       "importance": 5
     },
     {
-      "title": "Patthelyzet alakult ki Izraelben Netanjahu kiütésére irányuló kísérletekben",
-      "summary": "Izraelben politikai patthelyzet jellemzi Netanjahu miniszterelnök eltávolítására irányuló kísérleteket, melyek súlyos árat fizettethetnek a kezdeményezőkkel. A helyzet a régió stabilitását is befolyásolhatja.",
+      "title": "Bukott a paraguayi elnök egy nagybank összeomlása miatt",
+      "summary": "A paraguayi elnököt leváltották, miután egy hozzá köthető nagybank összeomlott. Az ex-elnököt jelenleg katonai létesítményben őrzik a fejlemények miatt.",
       "importance": 5
     },
     {
-      "title": "Újabb bombafenyegetések hulláma sújtja az európai légitársaságokat",
-      "summary": "Európai légitársaságok ellen újabb bombafenyegetések érkeztek, ami biztonsági riadót okozott több országban. Az incidensek fennakadásokat okoznak a légiközlekedésben és komoly aggodalmakat vetnek fel.",
+      "title": "Történelmi női államfőjelölt Németországban: Ilse Aigner",
+      "summary": "Ilse Aigner bajor politikust tartják esélyesnek arra, hogy Németország első női államfője legyen, ami történelmi esemény lenne az ország számára. Ez jelentős mérföldkő a német politikában.",
       "importance": 4
     },
     {
-      "title": "Zelenszkij Klicskót hibáztatja Kijev energiaellátási problémáiért",
-      "summary": "Volodimir Zelenszkij ukrán elnök Vitalij Klicsko kijevi polgármestert tette felelőssé a főváros kritikus energiaellátási helyzetéért. A vádak belső feszültségeket jeleznek a háború sújtotta ország vezetésén belül.",
+      "title": "Kisrepülő zuhant egy német autópályára, ketten meghaltak",
+      "summary": "Egy kisrepülőgép lezuhant egy német autópályára, melynek következtében ketten életüket vesztették. A baleset a forgalmas útvonalon történt, nagy felfordulást okozva.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI 11 milliárd dolláros tőkeemelést hajt végre, 1,25 billió dolláros értékelés mellett",
-      "summary": "Az OpenAI, a vezető mesterséges intelligencia vállalat további 11 milliárd dollár tőkét gyűjtött, ezzel értéke elérte az 1,25 billió dollárt. Ez a hatalmas befektetés az AI-szektor folyamatos növekedését és jelentőségét mutatja.",
+      "title": "Az OpenAI állítólag 11 milliárd dolláros tőkét vont be",
+      "summary": "Az OpenAI, a mesterséges intelligencia egyik vezető fejlesztője, további 11 milliárd dolláros tőkebevonásról számolt be, 1,25 billió dolláros cégérték mellett. Ez jelentősen erősíti a vállalat pozícióját az AI szektorban.",
       "importance": 5
     },
     {
-      "title": "A Tesla 2027-ben leállítja a Cybertruck gyártását",
-      "summary": "A Tesla bejelentette, hogy 2027-ben leállítja a Cybertruck modell gyártását. Ez a döntés komoly hatással lehet a cég jövőbeli stratégiájára és az elektromos járművek piacára.",
+      "title": "Microsoft adatközpont építési területére törtek be Amszterdamban",
+      "summary": "Klímavédelmi és palesztinpárti aktivisták hatoltak be egy épülő Microsoft adatközpont területére Amszterdamban. Két csoport is tiltakozott a beruházás ellen, kiemelve annak környezeti és társadalmi hatásait.",
       "importance": 4
     },
     {
-      "title": "Több száz, mesterséges intelligencia alapú hackelő eszköz került nyilvánosságra",
-      "summary": "Számos, Artex AI nevű mesterséges intelligencia alapú hackelő eszköz került nyilvánosan hozzáférhetővé az interneten. Ez súlyos kiberbiztonsági kockázatot jelenthet a vállalatok és felhasználók számára.",
+      "title": "Változások jönnek az App Store-ban: 18-as karikát kapnak az appok",
+      "summary": "Alapvető változások várhatók az App Store-ban, számos iPhone-os applikáció 18-as korhatár besorolást kaphat. Ez jelentősen befolyásolhatja az alkalmazásfejlesztőket és a felhasználókat.",
       "importance": 4
     },
     {
-      "title": "Az AI-részvények emelkednek, miután billiók tűntek el a piacokról",
-      "summary": "A mesterséges intelligencia (AI) cégek részvényei emelkedést mutatnak, miután a piacokról billiók tűntek el más területeken. Ez arra utal, hogy a befektetők az AI-t látják a gazdasági bizonytalanság egyik stabil pontjának.",
+      "title": "Kiberbiztonsági riasztás: nyilvánosan hozzáférhetővé váltak Artex AI hackereszközök",
+      "summary": "Több száz Artex AI alapú hackereszköz vált nyilvánosan hozzáférhetővé az interneten, ami komoly kiberbiztonsági kockázatot jelent. A sebezhetőség lehetővé teheti rosszindulatú támadások végrehajtását.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Megtalálták a folyamatot, amely megmutatja, mi volt az ősrobbanás utáni pillanatban",
-      "summary": "42 év kutatás után végre sikerült azonosítani azt a folyamatot, amely betekintést enged az ősrobbanás utáni első pillanatokba. Ez a felfedezés alapvető jelentőségű a kozmológia és az univerzum eredetének megértése szempontjából.",
+      "title": "Só helyettesítésével milliók élete menthető meg évente",
+      "summary": "Évente közel 3 millió ember halála lenne elkerülhető világszerte, ha a hagyományos sót egészségesebb alternatívára cserélnénk. Kutatók szerint a nátrium bevitel csökkentése jelentősen javítaná a közegészséget.",
       "importance": 5
     },
     {
-      "title": "Úttörő génszerkesztési technika a koleszterinszint tartós csökkentésére",
-      "summary": "Kutatók egy úttörő CRISPR génszerkesztési technikát fejlesztettek ki az ANGPTL3 gén módosítására, amely a lipid (koleszterin) szint tartós csökkentését ígéri. Ez áttörést hozhat a szív- és érrendszeri betegségek kezelésében.",
+      "title": "MI-ügynökök tervezik és futtatják a robotizált laboratóriumokat",
+      "summary": "Új mesterséges intelligencia ügynökök képesek robotizált laboratóriumokat tervezni és önállóan működtetni. Ez forradalmasíthatja a tudományos kutatást és a kísérletek elvégzését.",
       "importance": 5
     },
     {
-      "title": "Évente közel 3 millió haláleset lenne megelőzhető, ha lecserélnénk a sót",
-      "summary": "Egy kutatás szerint évente 2,96 millióval kevesebb ember halna meg, ha a hagyományos sót egészségesebb alternatívára cserélnék az étrendben. Ez a felfedezés komoly közegészségügyi potenciállal bír.",
+      "title": "CRISPR génszerkesztés tartós lipidszint-csökkentésért",
+      "summary": "A CRISPR bázisszerkesztés alkalmazásával tartós lipidszint-csökkentés érhető el, ami áttörést jelenthet a szív- és érrendszeri betegségek kezelésében. A technológia ígéretes gyógyászati lehetőségeket kínál.",
       "importance": 4
     },
     {
-      "title": "Mesterséges intelligencia tervez és üzemeltet robotizált laboratóriumokat",
-      "summary": "Mesterséges intelligencia (AI) alapú rendszerek képesek már laboratóriumokat tervezni és robotok segítségével üzemeltetni, automatizálva a tudományos kutatási folyamatokat. Ez forradalmasíthatja a kísérleti tudományokat.",
+      "title": "Okosórák detektálhatják a magas vérnyomás jeleit",
+      "summary": "Fogyasztói okosórák képesek lehetnek a magas vérnyomás (hipertónia) jeleinek opportunisztikus észlelésére. Ez új lehetőségeket nyithat az otthoni egészségügyi monitorozásban és a korai diagnózisban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Kubatov Gábor határozottan elítéli a fradisták milánói botrányát",
-      "summary": "Kubatov Gábor, a Ferencváros elnöke nyilatkozatában élesen elítélte a szurkolók milánói viselkedését, hangsúlyozva, hogy nem fogja eltűrni a rendbontást. Kiemelte, hogy a klub a rend fenntartását helyezi előtérbe, még ha ez a szurkolói létszám csökkenésével is jár.",
+      "title": "Félmilliárd forintos állami támogatás a Fradinak",
+      "summary": "Az állami légiirányító cég félmilliárd forintot juttatott a Ferencvárosnak, a NER-médiának pedig több százmillió jutott. Az állami finanszírozás a sport és a média területén is megmutatkozik.",
       "importance": 3
+    },
+    {
+      "title": "Vezetéstechnikai tréning Magyarországon: gumifüst és adrenalin",
+      "summary": "Magyarország egyik legmenőbb vezetéstechnikai tréningjén jártak, ahol a résztvevők extrém körülmények között fejleszthették vezetési tudásukat. Az esemény a biztonságos, de élménydús autózásra fókuszált.",
+      "importance": 3
+    },
+    {
+      "title": "Készül az animációs John Wick film, Keanu Reeves visszatér",
+      "summary": "Animációs John Wick film készül, amelyben Keanu Reeves is visszatér, hogy hangját adja a címszereplőnek. A produkció tovább bővíti az akciófilm-franchise univerzumát.",
+      "importance": 2
+    },
+    {
+      "title": "Stranger Things spin-off sorozat érkezik a Netflixre 2028-ban",
+      "summary": "A népszerű Stranger Things sorozat egy spin-offja érkezik a Netflixre 2028-ban, kiegészítve az eredeti történet világát. A bejelentés nagy érdeklődést váltott ki a rajongók körében.",
+      "importance": 2
     }
   ]
 }

@@ -1,200 +1,281 @@
 {
-  "Telex": [],
+  "Telex": [
+    {
+      "title": "Vagyonadó: újabb kiskapukat zárnának be, külföldre költözni sem biztos menekülőút",
+      "link": "https://telex.hu/gazdasag/2026/11/09/vagyonado-adooptimalizacio-mutargy-ingatlan-cegertek",
+      "summary": "A kormány pontosítaná a vagyonadó szabályait, szűkítené az elkerülés lehetőségeit, és a külföldre költözést is megnehezítené az exitadóval."
+    },
+    {
+      "title": "Nyakon szúrhattak valakit Jamie Foxx halloweeni házibuliján",
+      "link": "https://telex.hu/after/2026/11/09/jamie-foxx-halloween-buli-incidens-rendorseg-letartoztatas",
+      "summary": "Az Oscar-díjas színész minden évben nagyszabású halloweeni bulit tart a kaliforniai otthonában. Az ideit a rendőrök oszlatták fel."
+    },
+    {
+      "title": "Az OTP hivatalosan elismert menekültek bankszámláit szüntette meg, az ombudsman eljárást indított",
+      "link": "https://telex.hu/belfold/2026/11/09/ombudsman-eljarast-inditott-otp-bank-magyar-helsinki-menekultek-bizottsag",
+      "summary": "A bank a menekültektől tartózkodási engedélyt követel, de a Magyar Helsinki Bizottság szerint ez teljesíthetetlen feltétel."
+    },
+    {
+      "title": "Trump csak poénkodott, amikor bedobta, hogy a ketrecharcos cég vezetőjét kéri fel a Fehér Ház szóvivőjének",
+      "link": "https://telex.hu/kulfold/2026/11/09/donald-trump-feher-hazi-szovivo-dana-white-ufc-ketreharc-csak-vicc",
+      "summary": "A poén szerinte onnan jött, hogy ha Dana White-ot harcosok kísérnék a sajtótájékoztatóra, az újságírók nem mernének annyira szórakozni vele."
+    },
+    {
+      "title": "Estek az Nvidia részvényei, miután belső vizsgálat indult a vezérigazgató kínai kémnővel folytatott viszonya miatt",
+      "link": "https://telex.hu/gazdasag/2026/11/09/nvidia-eses-jensen-huang-vizsgalat-kinai-kemno-botrany",
+      "summary": "Donald Trump bevédte szövetségesét: szerinte Jensen Huang „remek ember” és a botrány ellenére is maradnia kellene a csipgyártó cég élén."
+    },
+    {
+      "title": "A Lezsák-hiba miatt felajánlotta lemondását Cseh Gergő Bendegúz, az Állambiztonsági Szolgálatok Történeti Levéltárának főigazgatója",
+      "link": "https://telex.hu/ugynokaktak/2026/11/09/lezsak-hiba-felajanlotta-lemondasat-cseh-gergo-bendeguz-allambiztonsagi-szolgalatok-torteneti-leveltaranak-foigazgatoja",
+      "summary": "Mivel a Nemzetbiztonsági Bizottság hétfői rendkívüli ülésén a Tisza képviselői nem jelentek meg, az nem volt határozatképes, ezért gyorsan berekesztették. Az ülésen megjelent viszont Péterfalvi Attila, a NAIH elnöke, aki bejelentette, hogy az adatbázisban történt keveredések ügyében hivatalból eljárást indított."
+    },
+    {
+      "title": "Tisza Party gained a point, while Fidesz lost six among total population, survey shows",
+      "link": "https://telex.hu/english/2026/11/09/tisza-party-gained-a-point-while-fidesz-lost-six-among-total-population",
+      "summary": "According to Medián's November survey, the Tisza Party stands at 55 percent and Fidesz at 16 percent overall."
+    },
+    {
+      "title": "Hiába ment el Cseh Gergő Bendegúz és Péterfalvi Attila is, elmaradt a Nemzetbiztonsági Bizottság ülése",
+      "link": "https://telex.hu/ugynokaktak/2026/11/09/nemzetbiztonsagi-bizottsag-ules-ugynokaktak-tisza-part-magyar-peter-abtl",
+      "summary": "Mivel a Tisza képviselői nem jelentek meg, határozatképtelen volt a bizottsági ülés. De a bizottsági tagok és a sajtó a teremben kérdezhette a levéltár vezetőit."
+    },
+    {
+      "title": "Megvannak a jelöltek az Európai Központi Bank élére",
+      "link": "https://telex.hu/gazdasag/2026/11/09/holland-spanyol-jegybank-korabbi-elnok-europai-kozponti-bank-jelolt",
+      "summary": "Christine Lagarde október végén jelentette be, hogy jövő év elején távozik az elnöki posztról."
+    },
+    {
+      "title": "Közel negyven év után látogatott pápa Argentínába, XIV. Leó jól bele is állt Javier Mileibe",
+      "link": "https://telex.hu/kulfold/2026/11/09/xiv-leo-papa-kritika-javier-milei-argentina",
+      "summary": "Az egyházfő kritizálta az argentin elnök megszorításait és a nyers stílusát is."
+    },
+    {
+      "title": "Török Gábor szerint először került egy ligába a Fidesz és a Mi Hazánk",
+      "link": "https://telex.hu/belfold/2026/11/09/torok-gabor-eloszor-kerult-egy-ligaba-a-fidesz-es-a-mi-hazank-median",
+      "summary": "A Medián friss felmérése alapján Toroczkai pártja 7 százalékpontra közelítette meg a Fideszt."
+    },
+    {
+      "title": "Meghalt a kórházban a krakkói lövöldözés elkövetője",
+      "link": "https://telex.hu/kulfold/2026/11/09/meghalt-krakko-lovoldozo-korhaz",
+      "summary": "A 24 éves Michał Oksiński hétfőn kora reggel halt meg."
+    },
+    {
+      "title": "Pilóták és légiutas-kísérők perlik a Wizz Airt, az ügyek az Alkotmánybíróság elé kerültek",
+      "link": "https://telex.hu/belfold/2026/11/09/pilotak-legiutas-kiserok-perlik-wizz-airt-alkotmanybirosag-vizsgalja",
+      "summary": "Az Alkotmánybíróság döntése a teljes magyar munkaerőpiacra hatással lehet."
+    },
+    {
+      "title": "Térképen a háziorvoshiány: van, ahol 22 éve nincs orvos, kétszázhúsz településtől fél óra az út a sürgősségire",
+      "link": "https://telex.hu/belfold/2026/11/09/praxisterkep-haziorvosok-korzetek-szama-betoltetlen-orvoshiany-adatok",
+      "summary": "Közel 1,4 millió ember él olyan körzetben, ahol nincs állandó háziorvos. A betöltetlen praxis, a szegénység, a lakosság elöregedése és a halálozás egymást erősítő tényezők. A hazai alapellátás kínzó problémái válnak láthatóvá az interaktív térképre tett adatokból."
+    },
+    {
+      "title": "Medián: A Tisza Párt 1 százalékpontot nyert, a Fidesz 6-ot veszített a teljes népességben",
+      "link": "https://telex.hu/belfold/2026/11/09/median-partpreferenciak-november-felmeres-tisza-part-fidesz",
+      "summary": "A novemberi felmérés alapján a Tisza Párt 55, a Fidesz 16 százalékon áll a teljes népességben."
+    }
+  ],
   "Portfolio": [],
   "444": [
     {
-      "title": "Azbesztet találtak a hányattatott sorsú gyömrői konténeriskola körül, egyelőre letakarták",
-      "link": "https://444.hu/2026/11/08/azbesztet-talaltak-a-hanyattatott-sorsu-gyomroi-konteneriskola-korul-egyelore-letakartak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Magyar Péter épp nemrég jelentette be, hogy 11 milliárd forintból megépítik az általános iskola új épületét, az évek óta húzódó felújításra pontot téve, de ez úgy tűnik, nem lesz olyan egyszerű."
+      "title": "Unikornist láttak a perkátai Őzikertben",
+      "link": "https://444.hu/2026/11/09/unikornist-lattak-a-perkatai-ozikertben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Állati."
     },
     {
-      "title": "Felébredt a kómából és állami kitüntetést kap a két rendőr, akik megállították a krakkói merénylőt",
-      "link": "https://444.hu/2026/11/08/felebredt-a-komabol-es-allami-kituntetest-kap-a-ket-rendor-akik-megallitottak-a-krakkoi-merenylot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Mindketten súlyos sérüléseket szenvedtek a tűzpárbajban. A halálos áldozatok száma a férfi családjával együtt már összesen kilenc főnél jár."
+      "title": "Mi van veled, Schwarzmilzferner?",
+      "link": "https://444.hu/2026/11/09/mi-van-veled-schwarzmilzferner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Ez volt az utolsó gleccser az Allgäui-Alpokban, de egy év alatt úgy megfogyatkozott, hogy a tudósok szerint elvesztette gleccserjellegét."
     },
     {
-      "title": "„A házelnök asszony azért meg ne lássa” – parlamenti pronyó, csöcsös miniszterelnöki rihiröhi",
-      "link": "https://444.hu/2026/11/08/a-hazelnok-asszony-azert-meg-ne-lassa-parlamenti-pronyo-csocsos-miniszterelnoki-rihirohi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kormány és a frakció nemi összetételére tekintve azt lehet hinni, hogy új korszakot élünk, de talán még van mit tenni."
+      "title": "A Lezsák-botrány miatt felajánlotta a lemondását Cseh Gergő Bendegúz levéltár-főigazgató",
+      "link": "https://444.hu/2026/11/09/a-lezsak-botrany-miatt-felajanlotta-a-lemondasat-cseh-gergo-bendeguz-leveltar-foigazgato?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Már pénteken közölte a Kossuth rádióban, hogy ezt fogja tenni."
     },
     {
-      "title": "„Talán az, hogy könyveket olvasunk, csak egy fura, pár száz évig tartó történelmi fennakadás”",
-      "link": "https://444.hu/jo/2026/11/08/talan-az-hogy-konyveket-olvasunk-csak-egy-fura-par-szaz-evig-tarto-tortenelmi-fennakadas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Először járt hazánkban Joe Hill amerikai regényíró, aki már rég nem csupán arról híres, hogy Stephen King fia. A Szarvak, a Locke & Key képregények és a magyarul most megjelenő Kín király szerzőjét az olvasás haláláról, az AI veszélyeiről és apjával való kapcsolatának alakulásáról is kérdeztük."
+      "title": "A tiszások nem mentek el, elmaradt a nemzetbiztonsági bizottság ügynökügyi ülése",
+      "link": "https://444.hu/2026/11/09/a-tiszasok-nem-mentek-el-elmaradt-a-nemzetbiztonsagi-bizottsag-ugynokugyi-ulese?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Előre lehetett tudni, hogy ez lesz."
     },
     {
-      "title": "40 millió forintot fizetett a pénzes hongkongi egy darab fehér szarvasgombáért egy nemzetközi árverésen",
-      "link": "https://444.hu/2026/11/08/40-millio-forintot-fizetett-a-kinai-tanar-egy-albai-feher-szarvasgombaert-egy-nemzetkozi-arveresen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Az a fehér a párnán a drága gomba."
+      "title": "„Botrányos és jogellenes” – a kisbefektetők kiborultak a NER-cégek miatt született új törvényen, azt kérik az államfőtől, ne írja alá",
+      "link": "https://444.hu/2026/11/09/botranyos-es-jogellenes-a-kisbefektetok-kiborultak-a-ner-cegek-miatt-szuletett-uj-torvenyen-azt-kerik-az-allamfotol-ne-irja-ala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Érdekvédelmi szövetségük szerint a törvénnyel vége a legfontosabb kisbefektető-védelmi előírásnak."
     },
     {
-      "title": "A szociális minisztérium feljelentést tett az Erzsébet-táborok több mint egymilliárd forintos reklámozása miatt, Havasi Bertalan szerint a Tisza a gyermeküdültetést vette célba",
-      "link": "https://444.hu/2026/11/08/a-szocialis-miniszterium-feljelentest-tett-az-erzsebet-taborok-tobb-mint-egymilliard-forintos-reklamozasa-miatt-havasi-bertalan-szerint-a-tisza-a-gyermekudultetest-vette-celba?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Orbán Viktor titkárságának szóvivője szerint „ordas hazugság”, hogy a szóban forgó összeget át lehetett volna csoportosítani."
+      "title": "Krakkói vérengzés: belehalt sérüléseibe a merénylő",
+      "link": "https://444.hu/2026/11/09/krakkoi-verengzes-belehalt-seruleseibe-a-merenylo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A 24 éves lengyel férfi a kórházban halt meg a hétfőre virradó éjszaka."
     },
     {
-      "title": "Sporttörténelmi káosz jöhet a jégkorongban: a nemzetközi szövetség kirúgta Norvégiát a juniorvébéről, és visszavette a helyére Oroszországot",
-      "link": "https://444.hu/2026/11/08/sporttortenelmi-kaosz-johet-a-jegkorongban-a-nemzetkozi-szovetseg-kirugta-norvegiat-a-juniorveberol-es-visszavette-a-helyere-oroszorszagot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Norvégia, Dánia, Svédország, Finnország, Lettország és Csehország már kijelentették: nem hajlandók az oroszokkal játszani. A botránysorozat a Nemzetközi Sportdöntőbíróság ítélete nyomán dagad egyre nagyobbra."
+      "title": "Értelem és csöcsök",
+      "link": "https://444.hu/2026/11/09/ertelem-es-csocsok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Kiszámíthatatlan olívaolaj, az olvasás halála, oroszbarátság extrákkal és Trump árulása a 444 napindító hírlevelében."
     },
     {
-      "title": "A krakkói vérengzésnek nincs magyar áldozata és sérültje, de egy brit és egy osztrák turista is meghalt",
-      "link": "https://444.hu/2026/11/08/a-krakkoi-verengzesnek-nincs-magyar-aldozata-es-serultje-de-egy-brit-es-egy-osztrak-turista-is-meghalt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A szombati lövöldözést hivatalosan is terrorcselekménnyé minősítették a hatóságok."
+      "title": "Medián: Újabb mélyponton a Fidesz, ismét nőtt a Tisza támogatottsága",
+      "link": "https://444.hu/2026/11/09/median-ujabb-melyponton-a-fidesz-ismet-nott-a-tisza-tamogatottsaga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Száz emberből 59 úgy érzi, jó irányba mennek a dolgok az országban."
     },
     {
-      "title": "A volt KDNP-s miniszter, Nógrádi László szerint megfigyelt volt, nem pedig megfigyelő, sorkatonai szolgálata idején a tudta nélkül állítottak ki róla nyilvántartási kartont",
-      "link": "https://444.hu/2026/11/08/a-volt-kdnp-s-miniszter-nogradi-laszlo-szerint-megfigyelt-volt-nem-pedig-megfigyelo-sorkatonai-szolgalata-idejen-a-tudta-nelkul-allitottak-ki-rola-nyilvantartasi-kartont?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "„Határozottan kijelentem: soha nem végeztem besúgói tevékenységet, senkiről nem írtam jelentést” – írja a volt miniszter egy levélben."
+      "title": "„Csak egy kis móka volt” – Trump valójában nem is akarta felkérni az UFC-s Dana White-ot fehér házi sajtófőnöknek",
+      "link": "https://444.hu/2026/11/09/csak-egy-kis-moka-volt-trump-valojaban-nem-is-akarta-felkerni-az-ufc-s-dana-white-ot-feher-hazi-sajtofonoknek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Noha a harcosaival karöltve rendszeresen verhették volna az újságírókat."
     },
     {
-      "title": "„Komoly meglepetésként ért, hogy engem választottak erre a feladatra” – bizalomhiánnyal indokolja visszalépését a frissen kinevezett tankerületi vezető",
-      "link": "https://444.hu/2026/11/08/komoly-meglepeteskent-ert-hogy-engem-valasztottak-erre-a-feladatra-bizalomhiannyal-indokolja-visszalepeset-a-frissen-kinevezett-tankeruleti-vezeto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Akkor lépett vissza az Észak-budapesti Tankerület vezetői posztjáról, amikor elkezdődött volna a munkája."
+      "title": "Élve megúszta az óceánjáró zongorista, kilenc órát töltött a vízben, mire megtalálták és kimentették",
+      "link": "https://444.hu/2026/11/09/elve-meguszta-az-oceanjaro-zongorista-kilenc-orat-toltott-a-vizben-mire-megtalaltak-es-kimentettek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Van az a helyzet, amikor az El Nino-jelenség életet ment."
     },
     {
-      "title": "Két sebész épp a közelben ebédelt, amikor eldördültek az első lövések Krakkó főterén, ők látták el a tűzpárbajban megsérült rendőröket és a merénylőt is",
-      "link": "https://444.hu/2026/11/08/ket-sebeszorvos-epp-a-kozelben-ebedelt-amikor-eldordultek-az-elso-lovesek-krakko-foteren-ok-lattak-el-a-tuzparbajban-megserult-rendoroket-es-a-merenylot-is?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "„Ha életek megmentéséről van szó, nem számít, ki kicsoda” – mondta később egyikük. Mindketten elismert sebészek a városban, a családjaikkal voltak étteremben, amikor a merénylő lövöldözni kezdett."
+      "title": "Tűz ütött ki egy kínai toronyházban, legalább 14-en meghaltak",
+      "link": "https://444.hu/2026/11/09/tuz-utott-ki-egy-kinai-toronyhazban-legalabb-14-en-meghaltak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Azt még vizsgálják, hogy mi okozta a tüzet a város központjában álló toronyházban."
     },
     {
-      "title": "„Okos drónokkal” fogja a MÁV felügyelni a hozzá tartozó üzemi területeket",
-      "link": "https://444.hu/2026/11/08/okos-dronokkal-fogja-a-mav-felugyelni-a-hozza-tartozo-uzemi-teruleteket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A drónok a vasúttársaság vezérigazgatója szerint „magyar AI-technológiának köszönhetően felismerik a kritikus mozgást és értesítik a helyszínt őrző kollégáinkat”."
+      "title": "„Felháborító, nevetséges és teljesen irreális” – az amerikai külügyminiszter kiborult az irániak követelésein",
+      "link": "https://444.hu/2026/11/09/felhaborito-nevetseges-es-teljesen-irrealis-az-amerikai-kulugyminiszter-kiborult-az-iraniak-kovetlesein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Marco Rubio elismerte: nem történt érdemi előrelépés a háború lezárását célzó tárgyalásokon, és nem látszik közelinek a megállapodás."
     },
     {
-      "title": "Az Értelem és érzelem 2026-ban sem váltja meg a világot, de nem is ez a dolga",
-      "link": "https://444.hu/jo/2026/11/08/az-ertelem-es-erzelem-2026-ban-sem-valtja-meg-a-vilagot-de-nem-is-ez-a-dolga?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Nagy kérdés volt, hogy teljesít majd az 1995-ös, etalonnak számító feldolgozáshoz képest. de igazából kér méricskélni: jó nézni, és ez a lényeg."
+      "title": "Kivégeztek három embert Iránban, akiket a hatóságok azzal vádoltak, hogy „fegyveres zavargásokban” vettek részt",
+      "link": "https://444.hu/2026/11/09/kivegeztek-harom-embert-iranban-akiket-a-hatosagok-azzal-vadoltak-hogy-fegyveres-zavargasokban-vettek-reszt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A kivégzések száma növekszik az Iszlám Köztársaságban azóta, hogy az Egyesült Államok és Izrael háborút indított ellene 2026 februárjában."
     },
     {
-      "title": "A szaúdi fővárost támadták a húszik, a húszik szerint Jemenben szaúdi rakéták öltek meg gyerekeket",
-      "link": "https://444.hu/2026/11/08/a-szaudi-fovarost-tamadtak-a-huszik-jemenben-pedig-a-huszik-szerint-szaudi-raketak-oltek-meg-gyerekeket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A szaúdiak olyan koalíciót vezetnek, amely több mint egy évtizede harcol a húszik ellen, támogatva Jemen nemzetközileg elismert kormányát. A konfliktus az iráni háború miatt eszkalálódott."
+      "title": "Vizsgálatot indít a Trump-tanácsadó vezérigazgatója ellen az Nvidia, miután kiderült, hogy kínai kémnővel volt viszonya",
+      "link": "https://444.hu/2026/11/09/vizsgalatot-indit-a-trump-tanacsado-vezerigazgatoja-ellen-az-nvidia-miutan-kiderult-hogy-kinai-kemnovel-volt-viszonya?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Jensen Huang elismerte a kapcsolatát Alice Huanggal, és azt írta: „teljes felelősséget vállalok a tetteimért”."
     },
     {
-      "title": "Jövő héten annyit fog esni, mint már rég nem, és egyik nap akár 20 fok is lehet",
-      "link": "https://444.hu/2026/11/08/jovo-heten-annyit-fog-esni-mint-mar-reg-nem-es-egyik-nap-akar-20-fok-is-lehet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Ilyen mennyiségű eső már a talaj mélyebb rétegeit is átnedvesíti, vége lehet az aszálynak."
+      "title": "Trump árulása",
+      "link": "https://444.hu/2026/11/09/trump-arulasa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Az elfelejtett munkásosztály hangjaként lett elnök tíz éve, ezt a képet pedig a legsúlyosabb botrányok sem tudták megingatni. Abból viszont óriási republikánus vereség lett, amikor elfelejtették, mi a fontos a saját táboruknak. Az elitellenes politika kitermelte az új elitet, ami szembekerült a választókkal."
     }
   ],
   "HVG": [
     {
-      "title": "Forgalmas úton szállt le egy Cessna Floridában, majd belerongyolt egy pickupba",
-      "link": "https://hvg.hu/cegauto/20261108_cessna-kisrepulogep-kenyszerleszallas-florida-forgalmas-ut",
-      "summary": "Mindenki megúszta a bizarr balesetet."
+      "title": "Így működött a lélegeztetőgép-biznisz milliárdjait tisztára mosó céghálózat",
+      "link": "https://hvg.hu/itthon/20261109_lelegeztetogep-biznisz-milliardok-ceghalo",
+      "summary": "Nyomozati dokumentumok alapján fejtette fel a Népszabadság, hogy milyen bonyolult céghálón át pörgették a hatalmas összegeket – ez a NAV-nak csak hat év után tűnt fel."
     },
     {
-      "title": "Rijádi felhőkarcolót támadtak meg a jemeni lázadók",
-      "link": "https://hvg.hu/vilag/20261108_felhokarcolot-tamadtak-a-jemeni-lazadok-rijad-kozpontjaban",
-      "summary": "Az Aramco szaúdi állami olajvállalat székhelyét támadták az Irán támogatását élvező jemeni húszi lázadók - közölte vasárnap a szaúdi energetikai minisztérium."
+      "title": "251%-kal is gyorsabban mozoghatnak az alaszkai gleccserek a csapadék hatására",
+      "link": "https://hvg.hu/tudomany/20261109_alaszkai-gleccserek-kutatas-mozgas-sebesseg-eso",
+      "summary": "Nagy hatással van a jégmozgásra a heves esőzés egy friss kutatás szerint."
     },
     {
-      "title": "Forma-1: Norris idén harmadik futamát nyerte Sao Paulóban",
-      "link": "https://hvg.hu/sport/20261108_formula-1-sao-paulo-nagydij-lando-norris-mclaren",
-      "summary": "Verstappen szűk 15 másodperccel maradt le a McLaren pilótája mögött."
+      "title": "Eljárást kezdeményezett az OTP ellen a Helsinki Bizottság, mert a bank önkényesen megszüntette a menekültek számláit",
+      "link": "https://hvg.hu/kkv/20261109_otp-helsinki-bizottsag-menekultek-diszkriminacio",
+      "summary": "Olyan dokumentumot követelt a bank a legálisan itt tartózkodó menekültektől, ami nem is létezik."
     },
     {
-      "title": "Elrendelték a nyomozást Ruszin-Szendi három feljelentésére",
-      "link": "https://hvg.hu/gazdasag/20261108_elrendeltek-a-nyomozast-ruszin-szendi-harom-feljelentesere",
-      "summary": "Tizenkét milliárdos tanácsadói „szerződést” is vizsgál az ügyészség."
+      "title": "Olcsóbb lett a kötelező biztosítás, de nem minden autós jár jól",
+      "link": "https://hvg.hu/cegauto/20261109_kgfb-2026-kotelezo-biztositas-atlagdij-biztositovaltas",
+      "summary": "Elkezdődött az évente aktuális kgfb-kampány."
     },
     {
-      "title": "RTL: azbesztet találtak a gyömrői iskola mellett",
-      "link": "https://hvg.hu/zhvg/20261108_rtl-azbesztet-talaltak-a-gyomroi-iskola-mellett",
-      "summary": "Félszáz helybéli család követel újabb vizsgálatokat."
+      "title": "Mi lesz a Díjnet sorsa a Telekom és az MVM lelépése után?",
+      "link": "https://hvg.hu/gazdasag/20261109_dijnet-online-szamlafizetes-telekom-mvm-next",
+      "summary": "A Telekom és az MVM is megszüntette együttműködését a Díjnettel, amelyen így már alig maradt országos szolgáltató. Igaz, a cég nem aggódik, nemrég is kötött új megállapodásokat."
     },
     {
-      "title": "Útlevél az almás mennyországba? Teszten az iPhone Duo",
-      "link": "https://hvg.hu/tudomany/20261108_szetnyithato-iphone-duo-apple-teszt-velemeny",
-      "summary": "Kipróbáltuk, hogy milyen mobil a gyakorlatban az Apple első szétnyitható okostelefonjaként jegyzett iPhone Duo, mely elsősorban útlevélhez hasonló kialakításáról, matt hajlékony kijelzőjéről és barátságtalan árcédulájáról ismerszik meg."
+      "title": "Euforikus hangulatba került a harvardi professzor a félidős választások miatt",
+      "link": "https://hvg.hu/360/20261109_felidos-valasztas-harvardi-professzor-euforia-zeit-lapszemle",
+      "summary": "A populisták bukásának receptjét adta meg a Daniel Ziblatt politológus a Zeitnek. Mi az, amiért a republiánusok mostani kudarca további optimizmusra ad okot?"
     },
     {
-      "title": "„Reszketek még most is” – centiken múlt a frontális ütközés az M0-ás üldözésnél",
-      "link": "https://hvg.hu/cegauto/20261108_reszketek-meg-most-is-centiken-mult-a-frontalis-utkozes-az-m0-as-uldozesnel",
-      "summary": "Hat rendőrautó üldözött szerda éjjel egy forgalommal szemben menekülő sofőrt az M0-áson, több autós is életveszélybe került. Egy rendőrszakszervezeti vezető az RTL-nek azt monta, az üldözést sokkal hamarabb lezárhatták volna"
+      "title": "Február 1-jétől indul a Filmszemle, AI-filmekkel is lehet nevezni",
+      "link": "https://hvg.hu/kultura/20261109_februar-1-jetol-indul-a-filmszemle-ai-filmekkel-is-kehet-nevezni",
+      "summary": "A 46. Magyar Filmszemle 2027. február 1-7. között lesz a Corvin moziban. A Szemlére az alkotók november 9-től nevezhetik alkotásaikat."
     },
     {
-      "title": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
-      "link": "https://hvg.hu/vilag/20261108_donald-trump-feher-haz-szovivo-dana-white-mma-ketrecharc",
-      "summary": "Az amerikai elnök az MMA globális szervezetének elnökét kérte fel a Fehér Ház szóvivői posztjára. Dana White már úton is van Washingtonba."
+      "title": "Régóta várt biztonsági funkciót kap a WhatsApp",
+      "link": "https://hvg.hu/tudomany/20261109_whatsapp-telefonszam-elrejtese",
+      "summary": "A WhatsApp már teszteli azt a megoldást, ami segítené elrejteni a felhasználó telefonszámát mások elől."
     },
     {
-      "title": "Mit lát egy baba a születésekor a világból?",
-      "link": "https://hvg.hu/hvgkonyvek/20261108_mit-lat-egy-baba-a-szuletesekor-a-vilagbol",
-      "summary": "A látás az emberi érzékszervek közül a legösszetettebb, és ennek fejlődése tart a legtovább. Születésekor a baba számára a világ még szürkének és homályosnak tűnik. Szerkesztett részlet a Mi jár a kisbabám fejében? című könyvből."
+      "title": "Botrányos és jogellenes a kisbefektetők szerint a Tisza a NER-cégek átvételére szabott új törvénye",
+      "link": "https://hvg.hu/gazdasag/20261109_tebesz-kisbefektetok-tiltakozas-ner-cegek-atvetele-uj-torveny-4ig-mbh-baka-andras",
+      "summary": "A Tőzsdei Egyéni Befektetők Érdekvédelmi Szövetsége szerint a kisbefektetői jogokat teljesen kiiktató változtatások is bekerültek a tőkepiaci törvénybe, ezért azt kéri Baka Andrástól, ne írja alá a jogszabályt."
     },
     {
-      "title": "Love bombing és ghosting kétszáz évvel ezelőtt: megnéztük az új Értelem és érzelmet",
-      "link": "https://hvg.hu/kultura/20261108_ertelem-es-erzelem-jane-austen-filmkritika-mozi",
-      "summary": "Tud-e még valami újat mondani egy ezredik Jane Austen-regényadaptáció? Hogyan lehet frissé tenni egy több mint kétszáz éves történetet? És egyáltalán ki hajlandó megpróbálni? Kritika az Értelem és érzelem című filmről."
+      "title": "Kilenc órán át hánykolódott a Csendes-óceánban, élve megúszta a hajó zongoristája",
+      "link": "https://hvg.hu/vilag/20261109_oceanjaro-hajo-baleset-vizbe-esett-zongorista-kimentes-csendes-ocean",
+      "summary": "A férfit két horgász mentette meg a kaliforniai partoktól 32 kilométerre. Túlélésében az is szerepet játszhatott, hogy idén rekordmeleg az óceán az El Niño miatt."
     },
     {
-      "title": "Így térhetnek vissza a szégyenpadról az oroszok a junior hoki-vébére",
-      "link": "https://hvg.hu/sport/20261108_jegkorong-u20-vilagbajnoksag-hoki-orosz-norveg-csapat-ukrajnai-haboru",
-      "summary": "Több ország tiltakozása ellenére rehabilitálták az orosz csapatot, indulhatnak az U20-as jégkorong-vébén"
+      "title": "A csehek után az olaszok is bevezethetik a 150 km/órás autópálya-tempót",
+      "link": "https://hvg.hu/cegauto/20261109_olaszorszag-autopalya-sebesseghatar-150-km-ora",
+      "summary": "Az egyik feltétele, hogy az adott szakaszon legyen átlagsebesség-mérés."
     },
     {
-      "title": "„Mondja el mindenki a történetét!'- Az ügynökaktákról ír Péterfy Gergely az én hetemben",
-      "link": "https://hvg.hu/360/20261108_az-en-hetem-peterfy-gergely-ugynokaaktak",
-      "summary": "Az én hetem című sorozatunkban négy író öt megadott kulcsszót felhasználva ír arról, miként élte meg az elmúlt hetet. Péterfy Gergelynek most ezek jutottak: nyitottaktak.hu, elháritas, bukóforduló, forgószínpad, ultrafasiszta."
+      "title": "Duplájára nőtt a Fiat 4 millió forintos villanyautójának hatótávja – és az ára is",
+      "link": "https://hvg.hu/cegauto/20261109_duplajara-nott-a-fiat-topolino-4-millio-forintos-villanyautojanak-hatotavja-cavalier-tuning",
+      "summary": "A Fiat Topolino sokkal élhetőbbé, de sajnos jelentősen drágábbá is vált."
     },
     {
-      "title": "Súlyos vonatbaleset történt Egyiptomban, több, mint százan megsérültek",
-      "link": "https://hvg.hu/vilag/20261108_egyiptom-vonat-baleset-serultek",
-      "summary": "Legalább 7 halálos áldozata van a Kairó határában történt vonatszerencsétlenségnek."
+      "title": "Nyakon szúrtak egy vendéget Jamie Foxx halloweeni buliján",
+      "link": "https://hvg.hu/elet/20261109_nyakon-szurtak-egy-vendeget-jamie-foxx-halloweeni-bulijan",
+      "summary": "Az Oscar-díjas színész villáját ellepték a rendőrök, a gyanúsítottat letartóztatták."
     },
     {
-      "title": "Kiderült, miért lépett vissza beiktatása napján a kinevezett tankerületigazgató",
-      "link": "https://hvg.hu/elet/20261108_kiderult-miert-lepett-vissza-beiktatasa-napjan-a-kinevezett-tankeruletigazgato",
-      "summary": "Balogh Tamás László a közösségi oldalán magyarázza meg a lépést."
+      "title": "Pilóták és légiutas-kísérők perlik a Wizz Airt, ügyük a munka törvénykönyvét is átírhatja",
+      "link": "https://hvg.hu/kkv/20261109_wizz-air-per-pilotak-legiutas-kiserok-alkotmanybirosag-munka-torvenykonyve",
+      "summary": "A dolgozók 73,5 millió forintot követelnek a légitársaságtól, pereik már az Alkotmánybíróság előtt vannak."
     },
     {
-      "title": "Krakkói lövöldözés: nincs magyar áldozat, újabb részletek derültek ki az ámokfutásról",
-      "link": "https://hvg.hu/vilag/20261108_krakko-lovoldozes-amokfutas-gyilkossag-aldozatok",
-      "summary": "Hat halálos áldozata van a lengyelországi Krakkóban szombaton történt terrortámadásnak. A merénylő állapota válságos."
+      "title": "Véget ért a Sztárban sztár, megvan a győztes",
+      "link": "https://hvg.hu/kultura/20261109_veget-ert-a-sztarban-sztar-megvan-a-gyoztes",
+      "summary": "Vasárnap lezárult a szavazás a TV2 stúdiójában: a nézői voksok alapján Takács Nikolas lett a Sztárban Sztár 2026-os győztese."
     }
   ],
   "BBC": [
     {
-      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
-      "link": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two doctors were eating near the city's Main Market Square when a gunman began firing at random."
+      "title": "What do we know Jensen Huang's affair?",
+      "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
     },
     {
-      "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+      "title": "Inside the French drug gangs recruiting children to kill",
+      "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited."
+    },
+    {
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home."
+    },
+    {
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast."
     },
     {
       "title": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
       "link": "https://www.bbc.co.uk/news/articles/cm2d6kk0wzw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jill says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
+      "summary": "The woman says she was flown to the Fayed family's Balnagown estate, where she was repeatedly assaulted."
     },
     {
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success."
-    },
-    {
-      "title": "Dense fog threatens Monday morning rush-hour disruption",
+      "title": "Thick fog disrupts morning travel as yellow weather warnings in effect",
       "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Fog could disrupt Monday morning’s commute"
+      "summary": "Fog is causing disruption on Monday morning amid Met Office yellow weather warnings for many across England, Wales and Northern Ireland."
     },
     {
-      "title": "Government looking at banning under-16s from Vinted and eBay",
-      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "link": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
     },
     {
-      "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
-      "summary": "But the Pentagon said the defence secretary would not be deterred by \"phony investigations\"."
+      "title": "Government's EV targets expected to be reduced this week",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
     },
     {
-      "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London."
+      "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+      "link": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday."
     },
     {
       "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
@@ -202,37 +283,37 @@
       "summary": "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
     },
     {
-      "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-      "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police Scotland said three officers were hurt as they responded to reports of a large disturbance in streets close to the Ovo Hydro venue in Glasgow."
+      "title": "Society needs to act to help white working-class pupils, inquiry says",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyqql26xe8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The education secretary says she is backing the inquiry to \"get to the heart of the barriers holding children back\"."
     },
     {
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush."
+      "title": "What's your love language - and does it actually mean anything?",
+      "link": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating."
+    },
+    {
+      "title": "Doing these things now will help you save money at Christmas",
+      "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
+    },
+    {
+      "title": "The Silicon Valley superstar engulfed by personal scandal",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
     },
     {
       "title": "The Papers:  'There are more like Brand' and 'Steep cuts to EV targets'",
       "link": "https://www.bbc.co.uk/news/articles/cx30eg5593gmo?at_medium=RSS&at_campaign=rss",
       "summary": "A minister warns \"there are more like [Russell] Brand\" and the government plans \"cuts to EV targets\" - some of Monday's headlines."
-    },
-    {
-      "title": "My parents chose to die together and I was left to grieve alone",
-      "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
-      "summary": "Els and Jan sought medical intervention to end their lives after 50 happy years of marriage, leaving behind their only child."
-    },
-    {
-      "title": "Ambika Mod wants to change how South Asian women are seen on-screen",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
-      "summary": "The actress joins the cast of Black Doves for the second season of Netflix's spy thriller."
-    },
-    {
-      "title": "He spent $50,000 on Labubus but now the craze is dying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+    },
     {
       "title": "Apps to distract you from the endless cycle of doomscrolling",
       "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
@@ -302,14 +383,14 @@
       "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
       "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
       "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
-    },
-    {
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form."
     }
   ],
   "Nature": [
+    {
+      "title": "COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target",
+      "link": "https://www.nature.com/articles/d41586-026-03631-w",
+      "summary": "<p>Nature, Published online: 09 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03631-w\">doi:10.1038/d41586-026-03631-w</a></p>Scientists say governments must commit to carbon dioxide removal if world is to bring temperatures back down to safer limits."
+    },
     {
       "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
       "link": "https://www.nature.com/articles/d41586-026-03595-x",
@@ -379,11 +460,6 @@
       "title": "Spider snooze stages",
       "link": "https://www.nature.com/articles/d41586-026-03487-0",
       "summary": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03487-0\">doi:10.1038/d41586-026-03487-0</a></p>How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved."
-    },
-    {
-      "title": "Why not to wait even a few minutes before fleeing a tsunami",
-      "link": "https://www.nature.com/articles/d41586-026-03539-5",
-      "summary": "<p>Nature, Published online: 04 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03539-5\">doi:10.1038/d41586-026-03539-5</a></p>Simulation shows that hesitating can be the difference between making it to safety and not."
     }
   ]
 }

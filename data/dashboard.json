@@ -1,112 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Azbesztet találtak a hányattatott sorsú gyömrői konténeriskola körül, egyelőre letakarták",
-      "summary": "A gyömrői konténeriskola körüli területen azbesztet fedeztek fel, amit ideiglenesen letakartak. Az ügy a fenntartó tankerület felelősségét veti fel és aggodalmakat kelt a közegészségügy terén.",
-      "importance": 4
+      "title": "Medián: Újabb mélyponton a Fidesz, ismét nőtt a Tisza támogatottsága",
+      "summary": "A Medián friss felmérése szerint a Tisza Párt támogatottsága egy százalékponttal nőtt, míg a Fidesz hat százalékpontot vesztett a teljes népesség körében. Ez a változás jelentős politikai átrendeződést jelezhet a hazai közéletben.",
+      "importance": 5
     },
     {
-      "title": "A szociális minisztérium feljelentést tett az Erzsébet-táborok több mint egymilliárd forintos reklámozása miatt",
-      "summary": "A Szociális Minisztérium feljelentést nyújtott be az Erzsébet-táborok egymilliárd forintot meghaladó reklámozása ügyében. Havasi Bertalan szerint a Tisza Párt a gyermeküdültetési programot vette célba, politikai támadássá téve az ügyet.",
-      "importance": 4
+      "title": "Az OTP jogellenesen szüntette meg menekültek bankszámláit, eljárás indult",
+      "summary": "Az OTP Bank jogellenesen szüntette meg hivatalosan elismert menekültek bankszámláit, ami miatt az ombudsman és a Helsinki Bizottság is eljárást indított. Az ügy a banki szolgáltatásokhoz való hozzáférés és a menekültügyi jogok súlyos megsértését veti fel.",
+      "importance": 5
     },
     {
-      "title": "Elrendelték a nyomozást Ruszin-Szendi három feljelentésére",
-      "summary": "Nyomozást indítottak Ruszin-Szendi Romulusz korábbi vezérkari főnök három feljelentése ügyében. A volt vezető valószínűleg hivatali visszaélés, illetve katonai titok megsértése miatt tett bejelentést.",
-      "importance": 3
+      "title": "Súlyos háziorvoshiány: több száz településen nincs orvos, fél óra a sürgősségi",
+      "summary": "Országszerte kritikus a háziorvoshiány, egyes településeken akár 22 éve nincs állandó orvos. Ez komoly kockázatot jelent a lakosság egészségügyi ellátására, mivel több mint kétszáz településről csak fél óra alatt érhető el a sürgősségi ellátás.",
+      "importance": 5
     },
     {
-      "title": "Kiderült, miért lépett vissza beiktatása napján a kinevezett tankerületigazgató",
-      "summary": "Egy frissen kinevezett tankerületigazgató bizalomhiányra hivatkozva lépett vissza beiktatása napján. Az eset rávilágít az oktatásirányítás kihívásaira és a szakemberek elégedetlenségére a rendszerben.",
-      "importance": 3
+      "title": "Így működött a lélegeztetőgép-biznisz milliárdjait tisztára mosó céghálózat",
+      "summary": "Részletes beszámoló tárja fel, hogyan működött az a céghálózat, amely a koronavírus-járvány idején beszerzett lélegeztetőgépekkel kapcsolatos milliárdos ügyleteket mosott tisztára. Az ügy súlyos korrupciós vádakat vet fel, és rávilágít a közpénzek elköltésének átláthatatlanságára.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "A krakkói vérengzésnek nincs magyar áldozata és sérültje, de egy brit és egy osztrák turista is meghalt",
-      "summary": "A krakkói lövöldözésben nem sérült meg és nem halt meg magyar állampolgár, de két külföldi turista életét vesztette. A hatóságok további részleteket közöltek a tragédiáról és az ámokfutásról.",
-      "importance": 5
-    },
-    {
-      "title": "Felébredt a kómából és állami kitüntetést kap a két rendőr, akik megállították a krakkói merénylőt",
-      "summary": "Kómából ébredt a krakkói lövöldözésben megsérült egyik rendőr, társával együtt állami kitüntetést kapnak. Hősiességükkel megakadályozták a további áldozatokat és egy súlyosabb tragédiát.",
+      "title": "Kínai toronyházban ütött ki tűz, legalább 14-en meghaltak",
+      "summary": "Kínában tűz ütött ki egy toronyházban, melynek következtében legalább 14 ember életét vesztette. A tragédia okait még vizsgálják a hatóságok, a mentés és a kárfelmérés folyamatban van.",
       "importance": 4
     },
     {
-      "title": "A szaúdi fővárost támadták a húszik, a húszik szerint Jemenben szaúdi rakéták öltek meg gyerekeket",
-      "summary": "A jemeni húszik rakétatámadást hajtottak végre Szaúd-Arábia fővárosa ellen. Ugyanakkor azt állítják, hogy szaúdi rakéták öltek meg gyerekeket Jemenben, ami tovább élezi a konfliktust.",
+      "title": "Iránban kivégeztek három embert „fegyveres zavargások” vádjával",
+      "summary": "Iránban három embert végeztek ki azzal a váddal, hogy fegyveres zavargásokban vettek részt. Az eset tovább súlyosbítja a nemzetközi aggodalmakat az ország emberi jogi helyzete és a politikai elnyomás miatt.",
       "importance": 4
     },
     {
-      "title": "The Trump coalition is shattered - what will Republicans do now?",
-      "summary": "Az amerikai félidős választásokat követően Donald Trump koalíciója szétzilálódott, ami komoly kérdéseket vet fel a Republikánus Párt jövőbeli stratégiájával kapcsolatban. Az amerikai politikai tájkép jelentős átalakulás előtt állhat.",
+      "title": "Az amerikai külügyminiszter „felháborító” és „irreális” iráni követelésekről beszélt",
+      "summary": "Az amerikai külügyminiszter felháborodását fejezte ki az iráni követelések miatt, amelyeket „nevetségesnek és teljesen irreálisnak” nevezett. Ez a kijelentés tovább növeli a feszültséget a két ország között, és befolyásolhatja a nukleáris tárgyalásokat.",
+      "importance": 4
+    },
+    {
+      "title": "Megvannak az Európai Központi Bank élére jelöltek",
+      "summary": "Bemutatták az Európai Központi Bank élére jelölt személyeket, akik közül kikerül majd a következő elnök. A döntés kulcsfontosságú lesz az eurózóna gazdasági stabilitása szempontjából, és befolyásolhatja a monetáris politikát.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "summary": "Az Nvidia vizsgálatot indít vezérigazgatója, Jensen Huang és egy feltételezett kínai kém közötti kapcsolat ügyében. Az eset komoly biztonsági és üzleti aggályokat vet fel a tech óriásnál.",
+      "title": "Nvidia-botrány: esnek a részvények a vezérigazgató kínai kémnővel folytatott viszonya miatt",
+      "summary": "Az Nvidia részvényei estek, miután belső vizsgálat indult Jensen Huang vezérigazgató kínai kémnővel feltételezett viszonya miatt. Az ügy komoly aggodalmakat vet fel a vállalati biztonság és a nemzetbiztonság terén, különösen a félvezetőiparban.",
       "importance": 5
     },
     {
-      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-      "summary": "A Binance pénzügyi vezetője távozik posztjáról, miután a céget egy 6,3 milliárd dolláros hackertámadás érte. A távozás a kriptovaluta iparágban tapasztalható folyamatos kihívásokra és biztonsági réseire utal.",
+      "title": "Régóta várt biztonsági funkciót kap a WhatsApp",
+      "summary": "A WhatsApp egy régóta várt új biztonsági funkciót vezet be, amely tovább erősíti a felhasználók adatainak védelmét. Ez a frissítés a privát üzenetváltások biztonságának javítását célozza, különösen az érzékeny adatok védelmében.",
       "importance": 4
     },
     {
-      "title": "Parents want safer phones for kids. These companies are answering the call.",
-      "summary": "A szülők egyre inkább biztonságosabb okostelefonokat keresnek gyermekeik számára, amire több technológiai cég is megoldásokat kínál. Ez a tendencia új termékek és szolgáltatások megjelenését eredményezi a piacon.",
-      "importance": 3
+      "title": "Duplájára nőtt a Fiat 4 millió forintos villanyautójának hatótávja – az ára is emelkedett",
+      "summary": "A Fiat népszerű villanyautójának hatótávja megduplázódott egy frissítésnek köszönhetően, azonban ezzel együtt az ára is emelkedett. A fejlesztés a kisfogyasztású elektromos járművek piacát befolyásolhatja, növelve az elérhetőséget, de magasabb költséggel.",
+      "importance": 4
     },
     {
-      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-      "summary": "A Tesla Cybertruck hosszú várakozás után piacra került, ezzel lezárult a jármű körüli 'kísérleti' fázis. Az elektromos teherautó jövőbeli szerepe a mobilitásban még kérdéses, de a szállítások megkezdődtek.",
-      "importance": 3
+      "title": "Távozik a Binance pénzügyi igazgatója egy milliárdos hackertámadás után",
+      "summary": "A Binance kriptotőzsde pénzügyi igazgatója távozik posztjáról, miután a céget egy 6,3 milliárd dolláros hackertámadás érte. A lépés rávilágít a kriptopiac biztonsági kihívásaira és a vezetői felelősségre egy ilyen súlyos incidens után.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
-      "summary": "A CRISPR génszerkesztési technológia egy új formáját, a bázisszerkesztést sikeresen alkalmazták a lipidek hosszú távú csökkentésére. Ez áttörést jelenthet a szív- és érrendszeri betegségek, például a magas koleszterinszint kezelésében.",
+      "title": "Elindult a COP31 klímakonferencia, miközben a bolygó túllépheti az 1,5 °C-os célt",
+      "summary": "Megkezdődött a COP31 klímakonferencia, miközben a bolygó egyre közelebb kerül az 1,5 Celsius-fokos felmelegedési cél túllépéséhez. A tárgyalások kritikus fontosságúak a jövőbeni éghajlatvédelem szempontjából, és sürgős intézkedéseket sürgetnek.",
       "importance": 5
     },
     {
-      "title": "These AI agents design your perfect robot-powered lab — and run it for you",
-      "summary": "Mesterséges intelligencia (AI) ügynökök képesek robotizált laboratóriumokat tervezni és működtetni, automatizálva a kísérletezést. Ez forradalmasíthatja a tudományos kutatást, felgyorsítva a felfedezéseket és a tesztelést.",
-      "importance": 4
+      "title": "Áttörés a CRISPR génszerkesztésben: tartós lipidszint-csökkentés in vivo",
+      "summary": "Kutatók áttörést értek el a CRISPR génszerkesztési technológia in vivo alkalmazásában az ANGPTL3 gén szerkesztésével a tartós lipidszint-csökkentés érdekében. Ez a felfedezés új utakat nyithat a szív- és érrendszeri betegségek, például a magas koleszterinszint kezelésében.",
+      "importance": 5
     },
     {
-      "title": "Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch",
-      "summary": "Fogyasztói okosórákkal opportunista módon észlelhetők a magas vérnyomás jelei anélkül, hogy orvosi eszközökre lenne szükség. Ez a technológia segíthet a korai diagnózisban és a betegség menedzselésében a mindennapokban.",
-      "importance": 4
+      "title": "2026 lehet a legmelegebb év, figyelmeztetnek a tudósok a klímabeszélgetések kezdetén",
+      "summary": "Tudósok előrejelzése szerint 2026 lehet a valaha mért legmelegebb év, miközben megkezdődnek az éghajlatváltozással kapcsolatos nemzetközi tárgyalások. Ez a prognózis sürgős fellépésre ösztönöz a globális felmelegedés ellen, kiemelve a klímaváltozás gyorsulását.",
+      "importance": 5
     },
     {
-      "title": "Hydrogen Derivatives Enable Cost-Effective Carbon Neutrality in China",
-      "summary": "Kína hidrogénszármazékok felhasználásával törekszik költséghatékonyan elérni a karbonsemlegességet. Ez egy fontos lépés a globális klímaváltozás elleni küzdelemben és az energiaátmenetben, potenciálisan új iparágakat teremtve.",
+      "title": "Okosórával is észlelhető a magas vérnyomás: új lehetőségek a korai diagnózisban",
+      "summary": "Fogyasztói okosórák segítségével opportunista módon észlelhetők a magas vérnyomás jelei, ami forradalmasíthatja a korai diagnózist. Ez a technológia jelentősen hozzájárulhat a népegészségügyi szűrésekhez és a megelőzéshez anélkül, hogy invazív beavatkozásra lenne szükség.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Sporttörténelmi káosz jöhet a jégkorongban: a nemzetközi szövetség kirúgta Norvégiát a juniorvébéről, és visszavette a helyére Oroszországot",
-      "summary": "A nemzetközi jégkorongszövetség kizárta Norvégiát a junior világbajnokságról, majd visszavette Oroszországot a helyére. Ez a döntés komoly sporttörténelmi káoszt és vitákat generál a nemzetközi sportdiplomáciában.",
-      "importance": 5
-    },
-    {
-      "title": "Forma-1: Norris idén harmadik futamát nyerte Sao Paulóban",
-      "summary": "Lando Norris nyerte a Sao Paulói Forma-1-es futamot, ezzel idén már harmadik győzelmét aratta. A versenyszezon izgalmas fordulatokat tartogat, és Norris teljesítménye felkeltette a figyelmet.",
-      "importance": 4
-    },
-    {
-      "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-      "summary": "Két embert letartóztattak, miután rendőrök megsérültek egy verekedésben egy illegális ökölvívó rendezvény külső területén. Az eset az illegális sporteseményekkel járó veszélyekre és a rendőrségi beavatkozás szükségességére hívja fel a figyelmet.",
-      "importance": 2
-    },
-    {
-      "title": "Trump bedurvult: egy ketrecharcost akar rászabadítani a fehér házi tudósítókra",
-      "summary": "Donald Trump volt elnök egy ketrecharcosra utalva fenyegette meg a Fehér Ház tudósítóit, ezzel tovább eszkalálva a politikai retorikát. A kijelentés a sport agresszív oldalát használja metaforaként a verbális támadásra.",
-      "importance": 1
-    }
-  ]
+  "sports": []
 }

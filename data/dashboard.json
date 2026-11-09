@@ -1,91 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Medián: Újabb mélyponton a Fidesz, ismét nőtt a Tisza támogatottsága",
-      "summary": "A Medián friss felmérése szerint a Tisza Párt támogatottsága egy százalékponttal nőtt, míg a Fidesz hat százalékpontot vesztett a teljes népesség körében. Ez a változás jelentős politikai átrendeződést jelezhet a hazai közéletben.",
+      "title": "Őrizetbe vették Orbán Áront és társait",
+      "summary": "Az Orbán Áronhoz köthető ügyben összesen négy embert vettek őrizetbe, akiket a Gyorskocsi utcai fogdába szállítottak további kihallgatásra. Egy férfit gyanúsítottak meg felbújtóként, ami a nyilvánosság figyelmének középpontjába került.",
       "importance": 5
     },
     {
-      "title": "Az OTP jogellenesen szüntette meg menekültek bankszámláit, eljárás indult",
-      "summary": "Az OTP Bank jogellenesen szüntette meg hivatalosan elismert menekültek bankszámláit, ami miatt az ombudsman és a Helsinki Bizottság is eljárást indított. Az ügy a banki szolgáltatásokhoz való hozzáférés és a menekültügyi jogok súlyos megsértését veti fel.",
-      "importance": 5
+      "title": "Árhullám várható a Tiszán a sok eső miatt",
+      "summary": "A közelmúltbeli heves esőzések következtében jelentős árhullámra lehet számítani a Tiszán, ahol a vízszint akár közel három métert is emelkedhet a következő napokban. A hatóságok felkészültek a védekezésre és figyelmeztetik a lakosságot.",
+      "importance": 4
     },
     {
-      "title": "Súlyos háziorvoshiány: több száz településen nincs orvos, fél óra a sürgősségi",
-      "summary": "Országszerte kritikus a háziorvoshiány, egyes településeken akár 22 éve nincs állandó orvos. Ez komoly kockázatot jelent a lakosság egészségügyi ellátására, mivel több mint kétszáz településről csak fél óra alatt érhető el a sürgősségi ellátás.",
-      "importance": 5
+      "title": "Menesztették a Szegedi Tudományegyetem kancellárját",
+      "summary": "Kirúgták a Szegedi Tudományegyetem kancellárját, ami komoly változást jelent az intézmény vezetésében. A döntés hátterében álló okokról egyelőre keveset tudni, de az esemény jelentős visszhangot váltott ki az oktatási szférában.",
+      "importance": 4
     },
     {
-      "title": "Így működött a lélegeztetőgép-biznisz milliárdjait tisztára mosó céghálózat",
-      "summary": "Részletes beszámoló tárja fel, hogyan működött az a céghálózat, amely a koronavírus-járvány idején beszerzett lélegeztetőgépekkel kapcsolatos milliárdos ügyleteket mosott tisztára. Az ügy súlyos korrupciós vádakat vet fel, és rávilágít a közpénzek elköltésének átláthatatlanságára.",
-      "importance": 5
+      "title": "Harmadára estek vissza a kínai webshop rendelések a vámok miatt",
+      "summary": "A bevezetett vámok hatására drasztikusan, harmadára csökkentek a Temu, Shein és AliExpress oldalakról érkező rendelések. Ez érzékenyen érinti a magyar fogyasztókat és a piacot, rávilágítva a nemzetközi e-kereskedelem szabályozói nyomására.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Kínai toronyházban ütött ki tűz, legalább 14-en meghaltak",
-      "summary": "Kínában tűz ütött ki egy toronyházban, melynek következtében legalább 14 ember életét vesztette. A tragédia okait még vizsgálják a hatóságok, a mentés és a kárfelmérés folyamatban van.",
-      "importance": 4
+      "title": "Több mint 400 ezer orosz katona halhatott meg az ukrajnai háborúban",
+      "summary": "Kiszivárgott adatok szerint az orosz–ukrán háborúban eddig több mint 400 ezer orosz katona vesztette életét, ami óriási emberveszteséget jelent. Ez a szám rávilágít a konfliktus súlyos mértékére és humanitárius következményeire.",
+      "importance": 5
     },
     {
-      "title": "Iránban kivégeztek három embert „fegyveres zavargások” vádjával",
-      "summary": "Iránban három embert végeztek ki azzal a váddal, hogy fegyveres zavargásokban vettek részt. Az eset tovább súlyosbítja a nemzetközi aggodalmakat az ország emberi jogi helyzete és a politikai elnyomás miatt.",
-      "importance": 4
+      "title": "Russell Brandet tíz és fél év börtönre ítélték szexuális erőszak miatt",
+      "summary": "A brit komikust és színészt, Russell Brandet szexuális erőszak és támadás miatt tíz és fél év börtönbüntetésre ítélték. Az ítélet széles körű visszhangot váltott ki, és ismét felhívta a figyelmet a hasonló bűncselekmények elleni fellépésre.",
+      "importance": 5
     },
     {
-      "title": "Az amerikai külügyminiszter „felháborító” és „irreális” iráni követelésekről beszélt",
-      "summary": "Az amerikai külügyminiszter felháborodását fejezte ki az iráni követelések miatt, amelyeket „nevetségesnek és teljesen irreálisnak” nevezett. Ez a kijelentés tovább növeli a feszültséget a két ország között, és befolyásolhatja a nukleáris tárgyalásokat.",
-      "importance": 4
+      "title": "Nvidia botrány: pénz, szex, AI és Kína hatása a világgazdaságra",
+      "summary": "Jensen Huang, az Nvidia vezérigazgatójának állítólagos kínai kémekkel való kapcsolata komoly botrányt robbantott ki, amely az Nvidia kínai ambícióit és a globális gazdaságot is megrázhatja. Az ügy rávilágít a technológiai óriások geopolitikai sebezhetőségére és a mesterséges intelligencia körüli pénzügyi kockázatokra.",
+      "importance": 5
     },
     {
-      "title": "Megvannak az Európai Központi Bank élére jelöltek",
-      "summary": "Bemutatták az Európai Központi Bank élére jelölt személyeket, akik közül kikerül majd a következő elnök. A döntés kulcsfontosságú lesz az eurózóna gazdasági stabilitása szempontjából, és befolyásolhatja a monetáris politikát.",
+      "title": "Franciaország Iránt vádolja hűtőrendszerek elleni kibertámadásért",
+      "summary": "Franciaország Iránt tette felelőssé a szupermarketek és vérbankok hűtőrendszereit érő tömeges kibertámadásokért, ami komoly nemzetközi feszültséget okoz. Ez az incidens rávilágít a kritikus infrastruktúrák digitális biztonságának fontosságára.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Nvidia-botrány: esnek a részvények a vezérigazgató kínai kémnővel folytatott viszonya miatt",
-      "summary": "Az Nvidia részvényei estek, miután belső vizsgálat indult Jensen Huang vezérigazgató kínai kémnővel feltételezett viszonya miatt. Az ügy komoly aggodalmakat vet fel a vállalati biztonság és a nemzetbiztonság terén, különösen a félvezetőiparban.",
+      "title": "Anthropic új AI modelleket ad ki, hangsúlyos a felelős AI fejlesztés",
+      "summary": "Az Anthropic bemutatta új Mythos és Fable AI modelljeit, miközben továbbra is kiemelt figyelmet fordít a felelős mesterséges intelligencia fejlesztésére. A cég célja, hogy az innováció mellett garantálja az AI etikus és biztonságos alkalmazását.",
       "importance": 5
     },
     {
-      "title": "Régóta várt biztonsági funkciót kap a WhatsApp",
-      "summary": "A WhatsApp egy régóta várt új biztonsági funkciót vezet be, amely tovább erősíti a felhasználók adatainak védelmét. Ez a frissítés a privát üzenetváltások biztonságának javítását célozza, különösen az érzékeny adatok védelmében.",
+      "title": "AI hardver startup értéke megháromszorozódott, elérte a 3 milliárd dollárt",
+      "summary": "A Nominal nevű AI hardver startup értéke mindössze nyolc hónap alatt 3 milliárd dollárra ugrott, ami a mesterséges intelligencia szektor rendkívüli növekedését mutatja. Ez a beruházás a terület iránti fokozott piaci érdeklődést tükrözi.",
       "importance": 4
     },
     {
-      "title": "Duplájára nőtt a Fiat 4 millió forintos villanyautójának hatótávja – az ára is emelkedett",
-      "summary": "A Fiat népszerű villanyautójának hatótávja megduplázódott egy frissítésnek köszönhetően, azonban ezzel együtt az ára is emelkedett. A fejlesztés a kisfogyasztású elektromos járművek piacát befolyásolhatja, növelve az elérhetőséget, de magasabb költséggel.",
+      "title": "Az Anthropic turbinákat vásárol, az AI energiaigénye aggasztó",
+      "summary": "Az Anthropic 3,4 milliárd dollár értékben vásárolt turbinákat, csatlakozva az AI-iparág növekvő energiaéhségéhez, különösen a földgáz-felhasználás terén. Ez az eset rávilágít az AI-rendszerek hatalmas energiaigényére és annak környezeti hatásaira.",
       "importance": 4
     },
     {
-      "title": "Távozik a Binance pénzügyi igazgatója egy milliárdos hackertámadás után",
-      "summary": "A Binance kriptotőzsde pénzügyi igazgatója távozik posztjáról, miután a céget egy 6,3 milliárd dolláros hackertámadás érte. A lépés rávilágít a kriptopiac biztonsági kihívásaira és a vezetői felelősségre egy ilyen súlyos incidens után.",
+      "title": "A Waymo robotaxik szoftveres javítás után is előztek iskolabuszokat",
+      "summary": "Szövetségi jelentések szerint a Waymo önvezető taxijai egy szoftveres frissítés után is szabálytalanul előztek iskolabuszokat, ami súlyos biztonsági aggályokat vet fel. Az eset rávilágít az autonóm járművek megbízhatóságának folyamatos tesztelésének szükségességére.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Elindult a COP31 klímakonferencia, miközben a bolygó túllépheti az 1,5 °C-os célt",
-      "summary": "Megkezdődött a COP31 klímakonferencia, miközben a bolygó egyre közelebb kerül az 1,5 Celsius-fokos felmelegedési cél túllépéséhez. A tárgyalások kritikus fontosságúak a jövőbeni éghajlatvédelem szempontjából, és sürgős intézkedéseket sürgetnek.",
+      "title": "Az El Niño több mint klímasokk – egészségügyi válságot is okozhat",
+      "summary": "Az extrém El Niño jelenség nem csupán az éghajlatot, hanem a közegészséget is súlyosan befolyásolhatja világszerte, új kihívásokat támasztva a járványok és természeti katasztrófák terén. A jelenség mélyreható hatása miatt a tudósok fokozottan figyelmeztetnek.",
       "importance": 5
     },
     {
-      "title": "Áttörés a CRISPR génszerkesztésben: tartós lipidszint-csökkentés in vivo",
-      "summary": "Kutatók áttörést értek el a CRISPR génszerkesztési technológia in vivo alkalmazásában az ANGPTL3 gén szerkesztésével a tartós lipidszint-csökkentés érdekében. Ez a felfedezés új utakat nyithat a szív- és érrendszeri betegségek, például a magas koleszterinszint kezelésében.",
+      "title": "Elindult a COP31 klímakonferencia a 1,5 °C-os cél túllépésének küszöbén",
+      "summary": "Megkezdődött a COP31 klímakonferencia, miközben a bolygó egyre közelebb kerül a kritikus 1,5 °C-os globális felmelegedési cél túllépéséhez. A résztvevők sürgős és hatékony intézkedéseket sürgetnek a klímaváltozás elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "2026 lehet a legmelegebb év, figyelmeztetnek a tudósok a klímabeszélgetések kezdetén",
-      "summary": "Tudósok előrejelzése szerint 2026 lehet a valaha mért legmelegebb év, miközben megkezdődnek az éghajlatváltozással kapcsolatos nemzetközi tárgyalások. Ez a prognózis sürgős fellépésre ösztönöz a globális felmelegedés ellen, kiemelve a klímaváltozás gyorsulását.",
-      "importance": 5
+      "title": "Óriásira nőtt az ózonlyuk, 10 éve nem volt ekkora",
+      "summary": "Az ózonlyuk az utóbbi tíz év legnagyobb méretét érte el, ami aggodalomra ad okot a környezetvédelem szempontjából. Kutatók szerint a jelenség mögött természetes meteorológiai tényezők állnak, de a hosszú távú hatásokat még vizsgálják.",
+      "importance": 4
     },
     {
-      "title": "Okosórával is észlelhető a magas vérnyomás: új lehetőségek a korai diagnózisban",
-      "summary": "Fogyasztói okosórák segítségével opportunista módon észlelhetők a magas vérnyomás jelei, ami forradalmasíthatja a korai diagnózist. Ez a technológia jelentősen hozzájárulhat a népegészségügyi szűrésekhez és a megelőzéshez anélkül, hogy invazív beavatkozásra lenne szükség.",
+      "title": "Az AI átalakította a matematikát – így jutottunk el idáig",
+      "summary": "A mesterséges intelligencia alapjaiban változtatta meg a matematika kutatását és alkalmazását, új eszközöket és megközelítéseket kínálva komplex problémák megoldására. Az AI és a matematika közötti szinergia forradalmasítja a tudományos felfedezéseket.",
       "importance": 4
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "Kane és Bellingham kritikus véleményt fogalmazott meg az angol válogatott vb-szerepléséről",
+      "summary": "Harry Kane és Jude Bellingham nyíltan kifejezték erős véleményüket az angol válogatott legutóbbi világbajnoki szereplésének értékelése során. Ez rávilágít a csapaton belüli elvárásokra és a jövőbeli teljesítmény javításának szükségességére.",
+      "importance": 3
+    }
+  ]
 }

@@ -1,97 +1,91 @@
 {
   "hungary": [
     {
-      "title": "Őrizetbe vették Orbán Áront és társait",
-      "summary": "Az Orbán Áronhoz köthető ügyben összesen négy embert vettek őrizetbe, akiket a Gyorskocsi utcai fogdába szállítottak további kihallgatásra. Egy férfit gyanúsítottak meg felbújtóként, ami a nyilvánosság figyelmének középpontjába került.",
+      "title": "Kezdeményezik az Orbán Áron-féle embercsempészügy gyanúsítottjainak letartóztatását",
+      "summary": "Az ügyészség kezdeményezte négy gyanúsított letartóztatását egy embercsempészügyben, amelyhez Orbán Viktor öccse, Orbán Áron neve is köthető. A gyanúsítottakat este a Gyorskocsi utcai fogdába szállították.",
       "importance": 5
     },
     {
-      "title": "Árhullám várható a Tiszán a sok eső miatt",
-      "summary": "A közelmúltbeli heves esőzések következtében jelentős árhullámra lehet számítani a Tiszán, ahol a vízszint akár közel három métert is emelkedhet a következő napokban. A hatóságok felkészültek a védekezésre és figyelmeztetik a lakosságot.",
+      "title": "Magyar Péter: Ma újfent egy történelmi fordulóponthoz érkeztünk, akár akarjuk, akár nem",
+      "summary": "Magyar Péter Facebook-posztjában jelentette be, hogy fontos bejelentéseket tesz, és szerinte Magyarország egy történelmi fordulóponthoz érkezett. Nyilatkozataival továbbra is a hazai politikai élet egyik központi szereplője maradt.",
       "importance": 4
     },
     {
-      "title": "Menesztették a Szegedi Tudományegyetem kancellárját",
-      "summary": "Kirúgták a Szegedi Tudományegyetem kancellárját, ami komoly változást jelent az intézmény vezetésében. A döntés hátterében álló okokról egyelőre keveset tudni, de az esemény jelentős visszhangot váltott ki az oktatási szférában.",
+      "title": "Felmentették a Szegedi Tudományegyetem kancellárját, aki nemrég NER-közeli cégek nyomulásáról beszélt",
+      "summary": "Fülöp Tamást, a Szegedi Tudományegyetem kancellárját felmentették tisztségéből, miután korábban kritikusan nyilatkozott a kormánypártokhoz köthető cégek egyetemi térnyeréséről. Az eset felveti az egyetemi autonómia kérdéseit.",
       "importance": 4
     },
     {
-      "title": "Harmadára estek vissza a kínai webshop rendelések a vámok miatt",
-      "summary": "A bevezetett vámok hatására drasztikusan, harmadára csökkentek a Temu, Shein és AliExpress oldalakról érkező rendelések. Ez érzékenyen érinti a magyar fogyasztókat és a piacot, rávilágítva a nemzetközi e-kereskedelem szabályozói nyomására.",
-      "importance": 4
+      "title": "Meghalt egy 20 éves fiatal, miután egy autó a parkoló kocsijukba csapódott Nyíregyházán",
+      "summary": "Halálos baleset történt Nyíregyházán, amikor egy ittas sofőr autójával egy parkoló kocsiba csapódott. Az eseten egy 20 éves fiatal a helyszínen életét vesztette, és többen megsérültek.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Több mint 400 ezer orosz katona halhatott meg az ukrajnai háborúban",
-      "summary": "Kiszivárgott adatok szerint az orosz–ukrán háborúban eddig több mint 400 ezer orosz katona vesztette életét, ami óriási emberveszteséget jelent. Ez a szám rávilágít a konfliktus súlyos mértékére és humanitárius következményeire.",
+      "title": "Kiszivárgott adatok szerint Oroszország már több mint 400 ezer katonát veszített a háborúban",
+      "summary": "Kiszivárgott hírszerzési adatok szerint Oroszország az orosz–ukrán háborúban eddig több mint 400 ezer katonát veszíthetett. Ez a szám magában foglalja az elesetteket és a sebesülteket, rávilágítva a konfliktus emberi költségére.",
       "importance": 5
     },
     {
-      "title": "Russell Brandet tíz és fél év börtönre ítélték szexuális erőszak miatt",
-      "summary": "A brit komikust és színészt, Russell Brandet szexuális erőszak és támadás miatt tíz és fél év börtönbüntetésre ítélték. Az ítélet széles körű visszhangot váltott ki, és ismét felhívta a figyelmet a hasonló bűncselekmények elleni fellépésre.",
-      "importance": 5
-    },
-    {
-      "title": "Nvidia botrány: pénz, szex, AI és Kína hatása a világgazdaságra",
-      "summary": "Jensen Huang, az Nvidia vezérigazgatójának állítólagos kínai kémekkel való kapcsolata komoly botrányt robbantott ki, amely az Nvidia kínai ambícióit és a globális gazdaságot is megrázhatja. Az ügy rávilágít a technológiai óriások geopolitikai sebezhetőségére és a mesterséges intelligencia körüli pénzügyi kockázatokra.",
-      "importance": 5
-    },
-    {
-      "title": "Franciaország Iránt vádolja hűtőrendszerek elleni kibertámadásért",
-      "summary": "Franciaország Iránt tette felelőssé a szupermarketek és vérbankok hűtőrendszereit érő tömeges kibertámadásokért, ami komoly nemzetközi feszültséget okoz. Ez az incidens rávilágít a kritikus infrastruktúrák digitális biztonságának fontosságára.",
+      "title": "Russell Brand 10 és fél év börtönt kapott nemi erőszak és szexuális zaklatás miatt",
+      "summary": "Russell Brand brit komikust és médiaszemélyiséget tíz és fél év börtönbüntetésre ítélték nemi erőszak és szexuális zaklatás vádjával. Az ítéletet több felperes vallomása alapján hozták meg egy hónapok óta tartó per után.",
       "importance": 4
+    },
+    {
+      "title": "Franciaország Iránt vádolja a hűtőrendszereket ért kibertámadással",
+      "summary": "Franciaország hivatalosan is Iránt vádolta meg egy széles körű kibertámadás elkövetésével, amely élelmiszerboltok és vérbankok hűtőrendszereit érte. Az incidens súlyos fennakadásokat okozott a kritikus infrastruktúrában és nemzetközi feszültséget generált.",
+      "importance": 4
+    },
+    {
+      "title": "Robbanás történt egy törökországi acélgyárban, legalább 16 ember meghalt",
+      "summary": "Súlyos robbanás rázott meg egy acélgyárat Törökországban, amelynek következtében legalább 16 ember életét vesztette és sokan megsérültek. A hatóságok vizsgálják a tragédia okát, amely valószínűleg üzemi hiba volt.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Anthropic új AI modelleket ad ki, hangsúlyos a felelős AI fejlesztés",
-      "summary": "Az Anthropic bemutatta új Mythos és Fable AI modelljeit, miközben továbbra is kiemelt figyelmet fordít a felelős mesterséges intelligencia fejlesztésére. A cég célja, hogy az innováció mellett garantálja az AI etikus és biztonságos alkalmazását.",
+      "title": "Jensen Huang, az Nvidia vezérigazgatójának állítólagos kínai kémekkel való kapcsolata árnyékot vet a cég kínai ambícióira",
+      "summary": "Jensen Huang, az Nvidia vezérigazgatójának állítólagos viszonya egy kínai kémmel vizsgálatot indított, komoly kérdéseket vetve fel a cég Kínával kapcsolatos üzleti terveiről. Az eset rávilágít a techóriások és a geopolitikai biztonság közötti feszültségre.",
       "importance": 5
     },
     {
-      "title": "AI hardver startup értéke megháromszorozódott, elérte a 3 milliárd dollárt",
-      "summary": "A Nominal nevű AI hardver startup értéke mindössze nyolc hónap alatt 3 milliárd dollárra ugrott, ami a mesterséges intelligencia szektor rendkívüli növekedését mutatja. Ez a beruházás a terület iránti fokozott piaci érdeklődést tükrözi.",
+      "title": "Az Anthropic a jelentések szerint folytatja tőzsdei bevezetési terveit",
+      "summary": "Az AI-kutatással foglalkozó Anthropic cég, a ChatGPT egyik fő riválisa, a hírek szerint aktívan készül a tőzsdei bevezetésre (IPO). Ez jelentős lépés a mesterséges intelligencia iparágban, és komoly befektetői érdeklődésre számíthat.",
       "importance": 4
     },
     {
-      "title": "Az Anthropic turbinákat vásárol, az AI energiaigénye aggasztó",
-      "summary": "Az Anthropic 3,4 milliárd dollár értékben vásárolt turbinákat, csatlakozva az AI-iparág növekvő energiaéhségéhez, különösen a földgáz-felhasználás terén. Ez az eset rávilágít az AI-rendszerek hatalmas energiaigényére és annak környezeti hatásaira.",
+      "title": "A Nominal AI hardver startup értéke 8 hónap alatt megháromszorozódott, elérve a 3 milliárd dollárt",
+      "summary": "A Nominal nevű AI hardver startup rendkívül gyors növekedést mutatott, mindössze nyolc hónap alatt megháromszorozta értékét, és elérte a 3 milliárd dollárt. Ez a teljesítmény az AI szektorba áramló hatalmas befektetéseket és a piaci bizalmat jelzi.",
       "importance": 4
     },
     {
-      "title": "A Waymo robotaxik szoftveres javítás után is előztek iskolabuszokat",
-      "summary": "Szövetségi jelentések szerint a Waymo önvezető taxijai egy szoftveres frissítés után is szabálytalanul előztek iskolabuszokat, ami súlyos biztonsági aggályokat vet fel. Az eset rávilágít az autonóm járművek megbízhatóságának folyamatos tesztelésének szükségességére.",
-      "importance": 4
+      "title": "A YouTube streaming adatai visszatérnek a Billboard slágerlistáira, véget vetve egy nagy vitának",
+      "summary": "Hosszú vita után a YouTube streaming adatai ismét bekerülnek a Billboard hivatalos zenei slágerlistáinak számításába. Ez jelentős változást hoz a zeneiparban és a dalok népszerűségének mérésében, tükrözve a digitális platformok növekvő befolyását.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Az El Niño több mint klímasokk – egészségügyi válságot is okozhat",
-      "summary": "Az extrém El Niño jelenség nem csupán az éghajlatot, hanem a közegészséget is súlyosan befolyásolhatja világszerte, új kihívásokat támasztva a járványok és természeti katasztrófák terén. A jelenség mélyreható hatása miatt a tudósok fokozottan figyelmeztetnek.",
+      "title": "A szuper El Niño több, mint klímasokk – egészségügyi is",
+      "summary": "A jelenlegi szuper El Niño jelenség nem csupán éghajlati zavarokat okoz, hanem jelentős egészségügyi kockázatokat is hordoz magában világszerte. Hatásaival járványok és élelmezési problémák is megjelenhetnek, súlyosbítva a globális kihívásokat.",
       "importance": 5
     },
     {
-      "title": "Elindult a COP31 klímakonferencia a 1,5 °C-os cél túllépésének küszöbén",
-      "summary": "Megkezdődött a COP31 klímakonferencia, miközben a bolygó egyre közelebb kerül a kritikus 1,5 °C-os globális felmelegedési cél túllépéséhez. A résztvevők sürgős és hatékony intézkedéseket sürgetnek a klímaváltozás elleni küzdelemben.",
+      "title": "Óriásira nőtt az ózonlyuk, 10 éve nem volt ekkora – az is kiderült, miért",
+      "summary": "Az ózonlyuk az Antarktisz felett az elmúlt tíz év legnagyobb méretét érte el, ami aggodalomra ad okot. A tudósok megpróbálják megfejteni, mi okozta a váratlan növekedést, amihez a klímaváltozás is hozzájárulhat.",
       "importance": 5
     },
     {
-      "title": "Óriásira nőtt az ózonlyuk, 10 éve nem volt ekkora",
-      "summary": "Az ózonlyuk az utóbbi tíz év legnagyobb méretét érte el, ami aggodalomra ad okot a környezetvédelem szempontjából. Kutatók szerint a jelenség mögött természetes meteorológiai tényezők állnak, de a hosszú távú hatásokat még vizsgálják.",
+      "title": "Kiderült, miért élnek kevesebb ideig a nagytestű kutyák, és amit találtak, az az ember számára is hasznos lehet",
+      "summary": "Kutatók megfejtették a nagytestű kutyák rövidebb élettartamának okait, és az eredmények potenciálisan az emberi öregedési folyamatok megértéséhez is hozzájárulhatnak. A tanulmány új távlatokat nyit az élettartam-kutatásban és az egészséges öregedés megértésében.",
       "importance": 4
     },
     {
-      "title": "Az AI átalakította a matematikát – így jutottunk el idáig",
-      "summary": "A mesterséges intelligencia alapjaiban változtatta meg a matematika kutatását és alkalmazását, új eszközöket és megközelítéseket kínálva komplex problémák megoldására. Az AI és a matematika közötti szinergia forradalmasítja a tudományos felfedezéseket.",
+      "title": "A mesterséges intelligencia átalakította a matematikát – íme, hogyan jutottunk el idáig",
+      "summary": "A mesterséges intelligencia forradalmasította a matematika számos területét, új eszközöket és módszereket kínálva komplex problémák megoldására. Ez a fejlődés alapjaiban változtatja meg a matematikai kutatást és oktatást, új felfedezésekhez vezetve.",
       "importance": 4
     }
   ],
-  "sports": [
-    {
-      "title": "Kane és Bellingham kritikus véleményt fogalmazott meg az angol válogatott vb-szerepléséről",
-      "summary": "Harry Kane és Jude Bellingham nyíltan kifejezték erős véleményüket az angol válogatott legutóbbi világbajnoki szereplésének értékelése során. Ez rávilágít a csapaton belüli elvárásokra és a jövőbeli teljesítmény javításának szükségességére.",
-      "importance": 3
-    }
-  ]
+  "sports": []
 }

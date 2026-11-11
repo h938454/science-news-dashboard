@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Átfogó NKA-reformot jelentett be Tarr Zoltán: mi lesz a Librivel és a fóliázással?",
-      "summary": "Tarr Zoltán átfogó Nemzeti Kulturális Alap (NKA) reformot jelentett be, beleértve a Demeter Szilárd és Orbán János Dénes vezette intézmények felülvizsgálatát. Kérdés, hogy ez hogyan érinti a Líra Kiadót és a könyvek fóliázására vonatkozó szabályozást.",
+      "title": "Az Ideális Áron Bt.-től zűrös kavarásokon át az embercsempészet vádjáig: így vezetett Orbán Áron útja a Gyorskocsi utcába",
+      "summary": "Részletes beszámoló Orbán Áron üzleti ügyeiről és az embercsempészet vádjáról, amely a letartóztatásához vezetett. A Telex szerint a hatóságok tudomása ellenére is folytatta tevékenységét.",
       "importance": 5
     },
     {
-      "title": "Hadházy Ákos: Rogán Cecília 180 ezres büntetéssel úszta meg luxusvillája illegális építését",
-      "summary": "Hadházy Ákos szerint Rogán Cecília 180 ezer forintos büntetéssel zárta a tihanyi medencés luxusvillája illegális építése ügyében indult eljárást. A politikus a büntetés mértékét aránytalannak találja.",
+      "title": "Bizalmi szavazást kért maga ellen a debreceni színház igazgatója, kétharmaddal küldték el a színház éléről",
+      "summary": "A Debreceni Csokonai Színház igazgatója bizalmi szavazást kezdeményezett saját maga ellen, melyet kétharmados többséggel elveszített, ezért távoznia kellett a színház éléről.",
       "importance": 4
     },
     {
-      "title": "Meglódultak az üzemanyagárak, aggasztó az infláció havi üteme",
-      "summary": "Jelentősen nőttek az üzemanyagárak, az éves infláció pedig 2 százalékra emelkedett. Különösen aggasztó a havi áremelkedés üteme, amely a háztartások kiadásait terheli.",
-      "importance": 5
+      "title": "VKF: közeledtek az álláspontok, de még nincs megállapodás a jövő évi bérekről",
+      "summary": "A Versenyszféra és a Kormány Állandó Konzultációs Fórumán közeledtek az álláspontok a jövő évi bérekről, de egyelőre még nem született megállapodás. A tárgyalások folytatódnak a felek között.",
+      "importance": 4
     },
     {
-      "title": "Milliárdokat fizet a főváros a 4-es metró peres ügyei miatt",
-      "summary": "Budapestnek milliárdos nagyságrendű összegeket kell fizetnie a 4-es metró építésével kapcsolatos peres ügyek rendezése miatt. Ez jelentős terhet ró a fővárosi költségvetésre.",
+      "title": "Nyilvános a Boston Consulting hat tanulmánya, amiket az előző kormányzat készíttetett az egészségügy átalakításáról",
+      "summary": "Nyilvánosságra hozták azt a hat tanulmányt, melyeket a Boston Consulting készített az előző kormányzat megbízásából az egészségügy átalakításáról. A dokumentumokat korábban el akarták titkolni.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Hatalmas tömegbaleset Bulgáriában: tizenegyen meghaltak, ötvenen megsérültek",
-      "summary": "Egy bolgár autópályán történt súlyos tömegbalesetben tizenegyen vesztették életüket és mintegy ötven sérültet szállítottak kórházba. A baleset okait még vizsgálják.",
+      "title": "Magas rangú amerikai katonát tartóztattak le Angliában, orosz kémkedéssel vádolják",
+      "summary": "Egy magas rangú amerikai katonatisztet tartóztattak le az Egyesült Királyságban azzal a gyanúval, hogy Oroszországnak kémkedett. Az eset komoly nemzetközi feszültséget okozhat a két ország között.",
       "importance": 5
     },
     {
-      "title": "Hátizsákba rejtett bomba ölt meg egy rendőrt Oviedóban",
-      "summary": "Spanyolországban, Oviedóban egy hátizsákba rejtett bomba felrobbanása végzett egy rendőrrel, a hatóságok az elkövetőt keresik. Az eset terrorista akcióra utaló jeleket mutat.",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "summary": "Részletes beszámoló egy teljesen lerombolt ukrán frontvárosról, amelyet Oroszország magának követel. A cikk a háború pusztítását és a civilek szenvedését mutatja be.",
+      "importance": 5
+    },
+    {
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Az amerikai képviselőház egyelőre elutasította a védelmi miniszter, Pete Hegseth elleni impeachment eljárás megindítására vonatkozó javaslatot. Ez befolyásolja az amerikai politikai helyzetet és a kormányzat stabilitását.",
       "importance": 4
     },
     {
-      "title": "Trump szerint rendkívül valószínűtlen az USA újabb iráni támadása",
-      "summary": "Donald Trump volt amerikai elnök kijelentette, hogy \"rendkívül valószínűtlennek\" tartja az Egyesült Államok újabb támadását Irán ellen. Ezzel enyhítette a régióban kialakult feszültséget.",
-      "importance": 5
-    },
-    {
-      "title": "Energiacsata a nagyhatalmak között: mi vár a számláinkra?",
-      "summary": "Globális energiaharc zajlik a nagyhatalmak között, ami jelentős hatással lehet a fogyasztók energiaszámláira világszerte. A geopolitikai feszültségek befolyásolják az energiaellátást és az árakat.",
-      "importance": 5
+      "title": "Világszerte csökkenhet 2026-ban a károsanyag-kibocsátás, de nincs ok az örömre",
+      "summary": "Előrejelzések szerint 2026-ban globálisan csökkenhet a károsanyag-kibocsátás, azonban az előrelépés nem elegendő a klímacélok eléréséhez. A jelentés szerint további drasztikus intézkedések szükségesek.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jensen Huang, az Nvidia vezérigazgatójának kínai kémbotránya veszélyezteti a vállalat ambícióit",
-      "summary": "Az Nvidia vezérigazgatójának, Jensen Huangnak egy feltételezett kínai kémhez fűződő viszonya megkérdőjelezi a vállalat kínai piaci ambícióit. A botrány súlyos következményekkel járhat az iparágra nézve.",
+      "title": "Vészkapcsolót épített az OpenAI, 35 másodperc alatt leállítja a veszélyes mesterséges intelligenciát",
+      "summary": "Az OpenAI egy \"vészkapcsolót\" fejlesztett, amely lehetővé teszi a veszélyes mesterséges intelligencia rendszerek 35 másodpercen belüli leállítását. Ez jelentős lépés az AI biztonság és a kockázatkezelés felé.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic mesterséges intelligencia cég tőzsdei bevezetésre készül",
-      "summary": "Az Anthropic, egy vezető mesterséges intelligencia fejlesztő cég, a hírek szerint tőzsdei bevezetéssel (IPO) tervezi folytatni a növekedését. Ez fontos lépés az AI-szektor finanszírozásában.",
+      "title": "Students passing university assessments in minutes using AI, regulator warns",
+      "summary": "Egy szabályozó szerv figyelmeztet, hogy az egyetemi hallgatók percek alatt teljesítik a vizsgáikat mesterséges intelligencia segítségével. Ez komoly etikai és oktatási kihívásokat vet fel a felsőoktatásban.",
+      "importance": 5
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "summary": "Az OpenAI és az Anthropic is új felügyeleti szabályokkal szembesül New Yorkban, miután életbe lépett az állam AI biztonsági törvénye. Ez a mesterséges intelligencia szabályozásának erősödését jelzi az Egyesült Államokban.",
       "importance": 4
     },
     {
-      "title": "Franciaország Iránt hibáztatja élelmiszerboltok és vérbankok elleni tömeges hackertámadásokért",
-      "summary": "Franciaország Iránt tette felelőssé olyan nagyszabású kibertámadásokért, amelyek élelmiszerboltok fagyasztórendszereit és vérbankokat céloztak meg. Az incidens súlyos infrastruktúra elleni fenyegetést jelent.",
-      "importance": 5
-    },
-    {
-      "title": "A Fervo 12 milliárd dollár értékű megrendelést kapott geotermikus technológiájára",
-      "summary": "A Fervo nevű vállalat 12 milliárd dollár értékű megrendeléseket gyűjtött be geotermikus energia technológiájára. Ez komoly áttörést jelent a megújuló energiaforrások fejlesztésében és alkalmazásában.",
+      "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+      "summary": "Megjelent a Google Pixel Tag, egy 30 dolláros, Android-kompatibilis eszköz, amely az Apple AirTag közvetlen konkurenciája. Ez új lehetőségeket nyit a tárgykövetés terén az Android felhasználók számára.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az El Niño több mint éghajlati, egészségügyi sokkot is okoz",
-      "summary": "A szuper El Niño jelenség nem csupán éghajlati sokkot jelent, hanem komoly egészségügyi következményekkel is jár világszerte. Az extrém időjárási események közvetlen hatással vannak a népegészségügyre.",
+      "title": "California votes to give record $8.4 billion to medical research",
+      "summary": "Kalifornia állam rekordösszegű, 8,4 milliárd dolláros támogatást szavazott meg orvosi kutatásokra. Ez hatalmas lökést adhat az egészségügyi innovációknak és a gyógyászati felfedezéseknek.",
       "importance": 5
     },
     {
-      "title": "Megkezdődik a COP31 klímakonferencia, miközben a bolygó túllépi az 1,5 °C-os célkitűzést",
-      "summary": "Elindult a COP31 klímakonferencia, miközben a globális felmelegedés már az 1,5 °C-os kritikus határérték túllépésével fenyeget. A tárgyalások célja a további felmelegedés megfékezése.",
+      "title": "Some people are resistant to dementia — here’s what their genes can teach us",
+      "summary": "Kutatók azt vizsgálják, hogyan ellenállnak egyes emberek a demenciának, remélve, hogy génjeik kulcsot rejtenek a betegség megértéséhez és kezeléséhez. Ez áttörést hozhat a neurodegeneratív betegségek elleni küzdelemben.",
       "importance": 5
     },
     {
-      "title": "Egy év \"Marson\" töltött idő után tér vissza a NASA tudósa",
-      "summary": "Egy NASA tudós egy évet töltött egy szimulált Mars-misszión, elszigetelten a külvilágtól, hogy valós körülményeket modellezzenek. A kísérlet kulcsfontosságú adatokkal szolgál a jövőbeli űrutazásokhoz.",
+      "title": "A practically perfect plesiosaur",
+      "summary": "Felfedeztek egy szinte tökéletes állapotban fennmaradt plesiosaurust, amely ritka betekintést nyújt a dinoszauruszok korába. A lelet rendkívüli jelentőséggel bír a paleontológia számára.",
       "importance": 4
     },
     {
-      "title": "A demenciával szemben ellenálló emberek génjei segíthetnek a gyógyításban",
-      "summary": "Kutatók olyan embereket vizsgálnak, akik genetikailag ellenállóak a demenciával szemben, remélve, hogy megtalálják a betegség elleni védelem titkát. Ez áttörést hozhat a demencia kezelésében és megelőzésében.",
+      "title": "How microbes can secure the critical minerals the world needs",
+      "summary": "A kutatók azt vizsgálják, hogyan segíthetnek a mikrobák a világ számára nélkülözhetetlen kritikus ásványi anyagok biztosításában. Ez fenntarthatóbb bányászati és erőforrás-gazdálkodási megoldásokat ígér a jövőben.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Arsène Wenger lehet Infantino kihívója a FIFA élén",
-      "summary": "A BBC értesülései szerint Arsène Wenger, a legendás futballedző, lehetséges kihívója lehet Gianni Infantinónak a FIFA elnöki posztjáért. Ez komoly változásokat hozhat a nemzetközi labdarúgó-szövetség vezetésében.",
+      "title": "„Nehéz döntések” előtt áll az anyagilag megszorult Győri ETO KC",
+      "summary": "Az egyik legsikeresebb magyar kézilabda klub, a Győri ETO KC súlyos anyagi problémákkal küzd, ami nehéz döntések meghozatalára kényszeríti a vezetőséget. Ez komoly hatással lehet a csapat jövőjére és teljesítményére.",
       "importance": 4
+    },
+    {
+      "title": "The Monaco summit that will decide the future of Carrick and Man Utd",
+      "summary": "Monacóban rendeznek egy csúcstalálkozót, amelyen Michael Carrick és a Manchester United jövőjéről döntenek. Ez kulcsfontosságú lehet a klub és a menedzser számára a közelgő szezonra nézve.",
+      "importance": 4
+    },
+    {
+      "title": "Emlékezetkiesés, hallucináció – rejtélyes rosszullétek miatt nyomoznak a Santa Barbarai-i félmaraton után",
+      "summary": "Rejtélyes rosszullétek, köztük emlékezetkiesés és hallucinációk miatt indult nyomozás a Santa Barbarai-i félmaraton után. Az eset aggodalmakat vet fel a sportesemények biztonságával kapcsolatban a résztvevők körében.",
+      "importance": 3
+    },
+    {
+      "title": "Több mint 40 év után megszűnhet a délegyházi naturista oázis",
+      "summary": "Több mint negyven év működés után bezárhat a délegyházi naturista oázis, mely a rekreáció és szabadidős tevékenységek kedvelt helyszíne volt. A döntés számos hazai és külföldi látogatót érint.",
+      "importance": 2
     }
   ]
 }

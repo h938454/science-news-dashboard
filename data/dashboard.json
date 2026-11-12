@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "A Varga Judit – Magyar Péter botrány és annak politikai utóhatásai",
-      "summary": "A volt igazságügyi miniszter parlamenti meghallgatása után Magyar Péter a közösségi médiában reagált Varga Judit nyilatkozataira, tartásdíj-vitába bonyolódva. A politikai botrány továbbra is uralja a hazai közbeszédet, mélyreható következményekkel járva a pártpolitikára.",
+      "title": "Újabb beruházásoktól vonja vissza a kiemelt státuszt a kormány",
+      "summary": "A kormány ismét több, korábban kiemeltnek minősített beruházástól vonja vissza ezt a státuszt, amely a szabályozási környezet egyszerűsítését és a gyorsabb megvalósítást célozta. Ez a döntés hatósági eljárások felgyorsítását lehetővé tevő intézkedéseket érint.",
       "importance": 5
     },
     {
-      "title": "Előzetes letartóztatásba került a volt rendészeti államtitkár fia",
-      "summary": "A bíróság elrendelte Orbán Áron, egy volt rendészeti államtitkár fiának előzetes letartóztatását. Az ügy széleskörű médiafigyelmet kapott, kiemelve a befolyásos családok tagjainak jogi felelősségét.",
+      "title": "Razziázott a NAV a lakiteleki Népfőiskola Alapítványnál",
+      "summary": "A Nemzeti Adó- és Vámhivatal büntetőeljárás és nyomozás keretében tartott házkutatást a Lezsák Sándorhoz köthető lakiteleki Népfőiskola Alapítványnál, tisztázatlan ügyek miatt. A hatóságok célja az alapítvány működésével kapcsolatos információk gyűjtése volt.",
+      "importance": 5
+    },
+    {
+      "title": "Viták a sürgősségi fogamzásgátló tabletták vénykötelességéről",
+      "summary": "Takács Péter, az Egészségügyi Államtitkárság vezetője szerint a javaslat, mely eltörölné a sürgősségi fogamzásgátló vénykötelességét, azt eredményezné, hogy a 14 éves lányok is könnyedén hozzájuthatnának. Ez a kijelentés élénk társadalmi és politikai vitát váltott ki a hozzáférésről és az oktatás szerepéről.",
       "importance": 4
     },
     {
-      "title": "A kormány lemondta a szociális munkások konferenciáját",
-      "summary": "Az utolsó pillanatban mondta le a kormány a szociális munkások konferenciáját, egyes képviselők a sajtónyilvánosságot jelölték meg okként. Az esemény elmaradása kritikát váltott ki a szakma képviselői körében.",
-      "importance": 3
-    },
-    {
-      "title": "Titkosszolgálati meghallgatások Szijjártó Péter BYD-vel kapcsolatos ügye miatt",
-      "summary": "A nemzetbiztonsági bizottság meghallgatta az Információs Hivatal és az Alkotmányvédelmi Hivatal vezetőit Szijjártó Péter külügyminiszter BYD-vel kapcsolatos ügyében. Az eset a nemzetbiztonsági aggályokat veti fel a külgazdasági stratégia és a kínai befolyás kapcsán.",
-      "importance": 4
+      "title": "Nemzetközi darknet bűnözőkre csaptak le, 45 embert Magyarországon fogtak el",
+      "summary": "Egy 14 országra kiterjedő rendőrségi akció keretében 45, fegyverrel és drogokkal kereskedő darknetes felhasználót vettek őrizetbe Magyarországon. A művelet a kiberbűnözés elleni globális küzdelem fontos lépése volt.",
+      "importance": 5
     }
   ],
   "world": [
     {
-      "title": "Spanyolországban tüntetések és összecsapások a sztrájk során",
-      "summary": "Több tízezren vonultak utcára Spanyolországban megfizethető lakhatást és magasabb béreket követelve, ami általános sztrájkba torkollott, Barcelonában összecsapásokkal. A tüntetések a romló gazdasági körülményekre és az életszínvonalra hívják fel a figyelmet.",
+      "title": "Greta Thunberg éles kritikát fogalmazott meg a klímacsúcson",
+      "summary": "Greta Thunberg aktivista a COP31 klímacsúcson ismét figyelmeztette a világ vezetőit, hogy \"meggyilkolják a bolygót\", sürgetve a radikálisabb fellépést az éghajlatváltozás ellen. Üzenete szerint az eddigi erőfeszítések elégtelenek a katasztrófa elkerüléséhez.",
       "importance": 4
     },
     {
-      "title": "Áttörés nélkül zárultak az orosz-ukrán tárgyalások a háború utáni biztonságról",
-      "summary": "Az orosz-ukrán tárgyalások a háború utáni biztonság kérdésével foglalkoztak, azonban áttörés nélkül értek véget. A konfliktus rendezésére irányuló diplomáciai erőfeszítések továbbra is bizonytalan kimenetelűek, fenntartva a feszültséget.",
+      "title": "A Kreml elégedett az orosz-amerikai tárgyalásokkal a jövőbeni egyeztetésekről",
+      "summary": "A Kreml nagy elégedettségét fejezte ki Vlagyimir Putyin orosz elnök és az amerikai elnöki különmegbízott közötti tárgyalások eredményével. A felek megállapodtak abban, hogy a jövőben folytatni fogják a párbeszédet kulcsfontosságú nemzetközi kérdésekben.",
       "importance": 5
     },
     {
-      "title": "Több ezer iskolát fenyegettek meg bombariadóval Európában",
-      "summary": "Több ezer iskolát érintettek bombariadó-fenyegetések Olaszországban, Skóciában és Észak-Írországban, amelyek feltehetően szervezett akciók voltak. Az esetek komoly zavart és aggodalmat okoztak az érintett országok oktatási rendszereiben és a közbiztonságban.",
-      "importance": 4
+      "title": "Az EU ötszáz áramfejlesztőt ígért Ukrajnának",
+      "summary": "Az Európai Unió további segélyt nyújt Ukrajnának a tél közeledtével, ötszáz áramfejlesztővel támogatva az ország energiainfrastruktúráját. Ez a lépés az orosz támadások sújtotta ukrán lakosság és intézmények ellátását hivatott biztosítani.",
+      "importance": 5
     },
     {
-      "title": "A WHO egészségügyi vészhelyzetet hirdetett az El Niño miatt",
-      "summary": "Az Egészségügyi Világszervezet (WHO) egészségügyi vészhelyzetet hirdetett az El Niño éghajlati jelenség súlyosbodása miatt. Ez a lépés rávilágít a globális felmelegedés és a szélsőséges időjárási események egyre növekvő egészségügyi kockázataira, különösen a trópusi régiókban.",
+      "title": "Orosz hadihajót talált el egy ukrán drón a Finn-öbölben",
+      "summary": "Egy orosz hadihajót ukrán dróncsapás ért a Finn-öbölben, ami jelentős incidensnek számít a háborúban. Ez az esemény rávilágít az ukrán erők növekvő képességére a tengeri célpontok elleni támadásokra.",
       "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Az OpenAI negyedéves bevétele először lépte át a 10 milliárd dollárt",
-      "summary": "Az OpenAI, a ChatGPT fejlesztője, a hírek szerint első alkalommal lépte át a 10 milliárd dolláros negyedéves bevételt. Ez a mérföldkő rávilágít a mesterséges intelligencia iparág gyors növekedésére és az OpenAI domináns piaci pozíciójára a generatív AI területén.",
+      "title": "A SpaceX 74 milliárd dollárt fektetne be amerikai AI-központokba",
+      "summary": "A SpaceX több mint 74 milliárd dolláros beruházást tervez texasi és arizonai mesterséges intelligencia (AI) központokba. Ez a hatalmas összegű befektetés rávilágít a vállalat törekvésére, hogy vezető szerepet töltsön be az AI fejlesztésében és alkalmazásában.",
       "importance": 5
     },
     {
-      "title": "A kongresszus beidézi Jensen Huangot a feltételezett kínai kémügy miatt",
-      "summary": "Jensen Huangot, az Nvidia vezérigazgatóját a kongresszus elé hívják, hogy válaszoljon a feltételezett kínai kémügyekkel kapcsolatos vádakra. Az ügy komoly aggodalmakat vet fel a tech-ipar és a nemzetbiztonság kereszteződésében, befolyásolva a chipgyártási stratégiákat.",
+      "title": "Jensen Huang felemelkedése és bukása: Az AI-óriás botrányba keveredett",
+      "summary": "Jensen Huang, az Nvidia vezérigazgatója, akit az AI vízionáriusának tartottak, botrányokba keveredett, melyek megkérdőjelezik hírnevét és a vállalat jövőjét. Az események egy tehetséges, de vitatott vezető bukását mutatják be.",
       "importance": 5
     },
     {
-      "title": "Távozik a Meta infrastruktúra vezetője",
-      "summary": "Hosszú idő után távozik posztjáról a Meta infrastruktúra vezetője. Ez a változás jelentős lehet a cég jövőbeli technológiai fejlesztései és működési stratégiái szempontjából, különösen az AI-infrastruktúra kiépítése terén.",
-      "importance": 3
+      "title": "A Google Kereső új frissítése jobb válaszokat ígér",
+      "summary": "A Google legújabb Kereső frissítése azt ígéri, hogy még összetettebb kérdésekre is pontosabb és relevánsabb válaszokat ad majd, kihasználva a mesterséges intelligencia fejlődését. Ez a fejlesztés tovább finomítja a felhasználói élményt és a keresési eredmények minőségét.",
+      "importance": 4
     },
     {
-      "title": "720 millió dolláros befektetéssel erősödik a brit Fractile az AI chipek versenyében",
-      "summary": "A brit Fractile 720 millió dolláros befektetéssel erősíti pozícióját a mesterséges intelligencia chipek fejlesztésének versenyében. Ez a jelentős tőkeinjekció jelzi a terület iránti hatalmas piaci érdeklődést és a technológia stratégiai fontosságát a globális AI-piacon.",
+      "title": "A United Airlines blokkolja az AI-alapú ügynököket a foglalásoknál biztonsági okokból",
+      "summary": "A United Airlines megtiltotta a mesterséges intelligencia alapú ügynökök használatát a járatfoglalásokhoz, kiberbiztonsági kockázatokra hivatkozva. Ez a lépés rávilágít az AI technológiák növekvő elterjedésével járó új kihívásokra és a vállalatok biztonsági protokolljaira.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Az első ikonikus fekete lyuk képe kiállja a tudományos vizsgálatot",
-      "summary": "Az Event Horizon Telescope által rögzített első fekete lyuk kép továbbra is pontosnak bizonyul a legújabb tudományos vizsgálatok szerint. Ez megerősíti a kép jelentőségét az asztrofizikában és a fekete lyukak megértésében, valamint a relativitáselmélet kísérleti igazolásában.",
+      "title": "Rekordméretű ebola járvány: telekommunikációs adatok segítettek a terjedés rekonstruálásában",
+      "summary": "Egy rekordméretű ebola járvány korai terjedését telefonos adatok segítségével rekonstruálták a kutatók, ami új módszereket kínál a betegségek nyomon követésére. Ez a megközelítés létfontosságú lehet a jövőbeni járványok megfékezésében.",
       "importance": 5
     },
     {
-      "title": "A DeepMind rendkívül erős mesterséges intelligenciája lenyűgözi a tudósokat a genomtérképezésben",
-      "summary": "A DeepMind egy ultraerős mesterséges intelligenciája, amely a genomtérképezést végzi, lenyűgözte a tudósokat. Ez az áttörés új lehetőségeket nyithat a genetikában és az orvostudományban, gyorsítva a betegségek kutatását és a személyre szabott terápiák fejlesztését.",
+      "title": "Az eddigi legrészletesebb agyterületi atlasz készült el, amely számos betegséggel kapcsolatos",
+      "summary": "Elkészült egy hatalmas agyterületi atlasz, amely számos betegséggel, például Parkinson-kórral és Alzheimer-kórral is összefüggésbe hozható, a valaha volt legrészletesebb térképezést nyújtva. Ez a felfedezés alapvető fontosságú lehet az agyi betegségek megértésében és kezelésében.",
       "importance": 5
     },
     {
-      "title": "A kaktuszokat súlyosan veszélyezteti az aszály a felmelegedő világban",
-      "summary": "Az extrém aszályok súlyosan veszélyeztetik az ikonikus kaktuszfajokat, akár kihaláshoz is vezethetnek a felmelegedő világban. Ez a jelenség rávilágít az éghajlatváltozás ökológiai következményeire és a biodiverzitás megőrzésének sürgősségére.",
-      "importance": 4
+      "title": "Az RSV-vakcinák rendkívüli sikere a fertőzések visszaszorításában",
+      "summary": "Az RSV elleni vakcinák adatai a fertőzések drámai csökkenését mutatják, ami kiemelkedő sikert jelent a veszélyes vírussal szembeni védekezésben. A védőoltások hatékonysága jelentős előrelépést jelent a közegészségügyben.",
+      "importance": 5
     },
     {
-      "title": "Mikroműanyagok az óriás hangyászok vérében és az óceán színében",
-      "summary": "Mikroműanyagokat találtak brazíliai óriás hangyászok vérében, emellett megfigyelték, hogy a Csendes-óceáni Nagy Szemétfolt közelében megváltoztatják az óceán színét. Ezek a felfedezések tovább erősítik a mikroműanyag-szennyezés globális és mélyreható hatásait az ökoszisztémákra.",
-      "importance": 4
+      "title": "Még a brazíliai óriás hangyászok vérében is találtak mikroműanyagot",
+      "summary": "Kutatók felfedezték, hogy Brazília távoli területein élő óriás hangyászok vérében is kimutathatók mikroműanyagok, ami azt jelzi, hogy a környezeti szennyezés már a legérintetlenebb élőhelyeket is elérte. Ez a megdöbbentő felfedezés rávilágít a globális mikroműanyag-szennyezés súlyosságára és az ökoszisztémákra gyakorolt hatására.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "Ottawa megtiltja az orosz válogatott kanadai fellépését az ukrajnai háború miatt",
-      "summary": "Ottawa bejelentette, hogy az orosz válogatott nem léphet kanadai földre, amíg tart az ukrajnai háború. Ez a döntés rávilágít a sport és a geopolitika közötti szoros összefüggésekre, valamint az orosz agresszió nemzetközi elítélésére a sportdiplomáciában.",
+      "title": "Pochettino a Manchester United látókörébe került, Carrick menedzser pedig felmentették",
+      "summary": "Mauricio Pochettino neve felmerült a Manchester United lehetséges edzőjelöltjei között, miközben a klub felmentette Michael Carrick ideiglenes menedzseri feladatai alól. A klubnál zajló változások a jövőbeni szakmai irányvonalat jelzik.",
       "importance": 5
-    },
-    {
-      "title": "Mauricio Pochettino és a Manchester United kapcsolata egy évtizedes történet",
-      "summary": "Mauricio Pochettino és a Manchester United közötti kapcsolat már egy évtizedre nyúlik vissza, utalva a menedzser régóta tartó lehetséges érdeklődésére vagy a klub iránti vonzódására. Ez a hír felkavarja a labdarúgóvilágot, különösen a csapat jövőjét illetően a Premier League-ben.",
-      "importance": 4
-    },
-    {
-      "title": "Szigorítanák a törvényt, ami Kubatov Gábor Fradi elnöki posztját érintheti",
-      "summary": "Egy tervezett törvénymódosítás célja a politikai szerepet is betöltő személyek sportklubokban való vezetői pozícióinak korlátozása. Ez a változtatás közvetlenül érintheti Kubatov Gábor Ferencváros elnöki tisztségét, és szélesebb vitát válthat ki a sport és a politika összefonódásáról Magyarországon.",
-      "importance": 4
-    },
-    {
-      "title": "A Lamborghini új neveket jegyzett be jövőbeli szuperautóihoz",
-      "summary": "A Lamborghini két új nevet is bejegyzett, amelyek a vállalat következő generációs szuperautóihoz tartozhatnak. Ez a lépés betekintést enged a luxus sportautók jövőjébe, és izgalmas várakozást generál a márka rajongói körében, reflektálva az autóipari innovációra.",
-      "importance": 2
     }
   ]
 }

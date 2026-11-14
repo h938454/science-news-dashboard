@@ -1,102 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Megtalálták Seszták Miklós elrejtett készpénz-milliárdjait",
-      "summary": "Az NVVH nyomozói erdőkben, raktárakban és széfekben bukkantak Seszták Miklós korábbi miniszter elrejtett készpénz-milliárdjaira. Az eset nagy politikai és közfelháborodást váltott ki.",
+      "title": "Leleplezték Seszták Miklós elrejtett milliárdjait",
+      "summary": "Az NVVH nyomozói megtalálták és lefoglalták Seszták Miklós KDNP-s politikus erdőkben, raktárakban és széfekben elrejtett készpénztartalékait, amelyek milliárdokra rúgnak. Az ügy óriási felháborodást keltett a közvéleményben, a politikus ellen korrupciós vádak merültek fel.",
       "importance": 5
     },
     {
-      "title": "Munkaszüneti nap lett december 24-e Magyarországon",
-      "summary": "Megjelent a miniszteri rendelet, ami hivatalosan is munkaszüneti nappá nyilvánítja december 24-ét, így karácsonykor hosszú hétvége várható. Ez jelentős változás a hazai munkavállalók és családok számára.",
+      "title": "Debreceni tragédia: látássérült sofőr gázolta el a vak apát és kislányát",
+      "summary": "Egy látássérült sofőr Debrecenben elgázolt egy vak apát és kislányát a zebrán. Különösen megrázóvá teszi az esetet, hogy a gázoló maga is egy látássérült-egyesület tagja, ahová az áldozat is járt.",
       "importance": 4
     },
     {
-      "title": "Látássérült sofőr gázolt el vak apát és kislányát Debrecenben",
-      "summary": "Egy látássérült sofőr Debrecenben elgázolt egy vak apát és kislányát a zebrán, ráadásul a gázoló ugyanabba a látássérült-egyesületbe járt, mint az áldozat. Az eset tragikus és megdöbbentő körülmények között történt.",
+      "title": "Járványügyi intézkedések a Szent János Kórházban rühfertőzés miatt",
+      "summary": "Rühfertőzés ütötte fel a fejét a Szent János Kórházban, ami miatt járványügyi intézkedéseket vezettek be az intézményben. A helyzet a betegek és az egészségügyi személyzet biztonságát is érinti.",
       "importance": 4
     },
     {
-      "title": "Felmentették a tíz méterről tarkón lövő magyar betörőt",
-      "summary": "Egy magyar férfi tíz méterről tarkón lőtt egy menekülő betörőt, majd felmentették, és állítása szerint újra megtenné. Az ügy komoly vitát váltott ki az önvédelem határai körül.",
-      "importance": 4
+      "title": "Megjelent a december 24-ét munkaszüneti nappá nyilvánító rendelet",
+      "summary": "Hivatalosan is megjelent a miniszteri rendelet, amely a december 24-ét munkaszüneti nappá nyilvánító törvényhez kapcsolódik. Ez az intézkedés jelentősen befolyásolja a magyarországi munkavállalók karácsonyi ünnepi időszakát.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Oroszország Finnország NATO-ból való kilépését követeli a békéért cserébe",
-      "summary": "A Bild német lap értesülései szerint Oroszország azt követeli Finnországtól, hogy hagyja el a NATO-t a béketárgyalások fejében. Ez súlyos geopolitikai következményekkel járna Európa biztonságára nézve.",
+      "title": "Történelmi találkozó: Trump, Putyin és Hszi Csin-ping tárgyalhat jövő héten",
+      "summary": "A Fehér Ház szerint Donald Trump, Vlagyimir Putyin és Hszi Csin-ping történelmi jelentőségű közös találkozóra készül jövő héten Kínában. Az esemény jelentős hatással lehet a globális geopolitikai helyzetre és a nemzetközi kapcsolatokra.",
       "importance": 5
     },
     {
-      "title": "A Microsoft globális szolgáltatáskimaradása 24 órás káoszt okozott",
-      "summary": "A Microsoft szolgáltatásai világszerte több mint 24 órán keresztül leálltak, amit a cég mély bocsánatkéréssel nyugtázott. Az eset súlyos fennakadásokat okozott vállalatoknak és egyéni felhasználóknak egyaránt.",
+      "title": "Országos repülési tilalom az Egyesült Államokban „rendkívüli körülmények” miatt",
+      "summary": "Az Egyesült Államok kormánya „rendkívüli körülményekre” hivatkozva elrendelte az összes belföldi járat felszállási tilalmát, ami a 2001. szeptember 11-i események óta a leghosszabb ideig tartó országos kényszerleállás. A döntés hatalmas fennakadásokat okozott a légi közlekedésben.",
+      "importance": 5
+    },
+    {
+      "title": "Nyomozás indult David Walliams brit humorista ellen zaklatási vádak miatt",
+      "summary": "Nyomozást indított a rendőrség David Walliams neves brit humorista és televíziós személyiség ellen, miután friss, súlyos szexuális zaklatási vádak merültek fel ellene. Az ügy nagy port kavart a brit szórakoztatóiparban.",
       "importance": 4
     },
     {
-      "title": "Nyomozás indult David Walliams brit komikus ellen súlyos vádak miatt",
-      "summary": "David Walliams brit komikus ellen nyomozás indult súlyos szexuális bűncselekmények gyanúja miatt. Az ügy rávilágít a szórakoztatóiparban felmerülő problémákra.",
-      "importance": 4
-    },
-    {
-      "title": "Légtérzárat rendeltek el az Egyesült Államokban \"rendkívüli körülményekre\" hivatkozva",
-      "summary": "Az Egyesült Államok kormánya országos légtérzárat rendelt el \"rendkívüli körülményekre\" hivatkozva, ami komoly zavarokat okozott a légi közlekedésben. A tilalom pontos okai aggodalmat keltettek.",
+      "title": "Putyin kompromisszumképtelenül növeli békeajánlatának feltételeit Ukrajnával szemben",
+      "summary": "Vlagyimir Putyin orosz elnök a BBC elemzője szerint kompromisszumképtelenül növeli a békeajánlatának feltételeit Ukrajnával szemben. Ez a hozzáállás tovább nehezíti a konfliktus diplomáciai megoldását és a békés rendezés kilátásait.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Microsoft globális szolgáltatáskimaradása súlyos felhőkrízissé vált",
-      "summary": "A Microsoft email és felhőszolgáltatásainak több mint 24 órás kimaradása globális krízissé eszkalálódott, rávilágítva a digitális infrastruktúra sebezhetőségére. Az eset hatalmas fennakadásokat okozott világszerte.",
+      "title": "Helyreálltak a Microsoft szolgáltatásai az egynapos globális leállás után",
+      "summary": "A Microsoft bejelentette, hogy egy napig tartó globális leállás után teljes mértékben helyreálltak szolgáltatásai, beleértve az e-mail és felhőalapú rendszereket. Az incidens globális felhőválsággá fajult, számos felhasználó és vállalat munkáját akadályozva.",
       "importance": 5
     },
     {
-      "title": "Jensen Huang távozása hatalmas űrt hagy az MI startupok finanszírozásában",
-      "summary": "Jensen Huang, az Nvidia vezérigazgatójának távozása komoly bizonytalanságot és finanszírozási hiányt okoz az MI startupok szektorában. Az ügy az Nvidia exporttilalmaival és politikai nyomással is összefügg.",
+      "title": "Politikai vizsgálat indult az Nvidia ellen, Jensen Huang és Trump állítólagos „tervével” kapcsolatban",
+      "summary": "Az amerikai demokraták vizsgálatot indítottak az Nvidia ellen, élesen bírálva Jensen Huang vezérigazgatót és Donald Trump volt elnököt egy állítólagos „összeesküvés” miatt. Az ügy az AI-chipek exportkorlátozásait és a technológiai óriás befolyását érinti.",
       "importance": 5
     },
     {
-      "title": "A ChatGPT új Pénztárca funkcióval bővül, mellyel MI ügynökök vásárolhatnak",
-      "summary": "A ChatGPT bevezeti a Pénztárca funkciót, amely lehetővé teszi az MI ügynökök számára a vásárlást és fizetést online. Ez jelentős előrelépést jelent az MI automatizálásban és a fogyasztói interakciókban.",
+      "title": "Új funkció a ChatGPT-ben: AI-ügynökök vásárolhatnak és fizethetnek helyetted",
+      "summary": "A ChatGPT új „Wallet” funkciója lehetővé teszi, hogy az AI-ügynökök önállóan vásároljanak és fizessenek a felhasználók nevében. Ez a fejlesztés jelentős lépés az AI mindennapi kereskedelmi folyamatokba való integrálásában, automatizálva a online vásárlásokat.",
       "importance": 4
     },
     {
-      "title": "Uber adatszivárgás: sofőrök jogosítványadatait lopták el",
-      "summary": "Az Uber megerősítette, hogy hackerek több ezer sofőr jogosítványadatát lopták el egy adatbetörés során. Az eset rávilágít a kiberbiztonsági kockázatokra és az adatvédelem fontosságára.",
+      "title": "Visszalépés a SpaceX Starship rakéta tesztelésében",
+      "summary": "A SpaceX Starship rakétájának „dupla-kapás” tesztje során visszalépés történt, ami késlelteti a projekt előrehaladását. Ez a kudarc kihívást jelenthet a Starship fejlesztésében, amely kulcsfontosságú a SpaceX űrrepülési ambíciói szempontjából.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Új CRISPR terápia áll az első FDA engedély előtt génmódosításra",
-      "summary": "Egy úttörő CRISPR terápia küszöbön áll, hogy megkapja az FDA első engedélyét gének testen belüli módosítására. Ez hatalmas áttörést jelent a génterápiában és számos betegség kezelésében.",
+      "title": "Úttörő CRISPR terápia küszöbén az első FDA engedély",
+      "summary": "Egy úttörő CRISPR génszerkesztő terápia az első olyan kezelés lehet, amely megkapja az FDA engedélyét a gének testben történő módosítására. Ez a fejlesztés hatalmas áttörést jelenthet számos genetikai betegség gyógyításában, új korszakot nyitva a medicinában.",
       "importance": 5
     },
     {
-      "title": "Az RSV vakcinák elsöprő sikereket mutatnak a fertőzések csökkentésében",
-      "summary": "Az RSV elleni vakcinák adatai a veszélyes vírus elleni oltások lenyűgöző sikerét igazolják, drámaian csökkentve a fertőzéseket. Ez jelentős előrelépés a közegészségügyben, különösen a kisgyermekek védelmében.",
+      "title": "Az RSV vakcinák drámaian csökkentik a fertőzéseket, lenyűgöző sikerről tanúskodnak az adatok",
+      "summary": "Az új adatok szerint az RSV (respiratórikus szinciciális vírus) elleni vakcinák rendkívül sikeresen csökkentik a fertőzéseket, megdöbbentő hatékonyságot mutatva a veszélyes vírussal szemben. Ez a fejlemény jelentősen javíthatja a közegészségügyet, különösen a csecsemők és idősek körében.",
+      "importance": 5
+    },
+    {
+      "title": "Teljesen elromlott az éghajlat? Amit az adatok mutatnak",
+      "summary": "A Nature cikke azt vizsgálja, hogy az adatok szerint mennyire súlyos a klímaváltozás helyzete, és van-e még visszaút. A legfrissebb tudományos eredmények alapján elemzi a bolygó hőmérsékleti, időjárási és ökoszisztémára gyakorolt változásait.",
       "importance": 4
     },
     {
-      "title": "Felfedezték az öregedést gyulladás nélkül hajtó fehérjét",
-      "summary": "Tudósok azonosítottak egy fehérjét, amely gyulladásos reakciók kiváltása nélkül befolyásolja az öregedési folyamatokat. Ez új utakat nyithat az öregedés mechanizmusainak megértésében és lassításában.",
-      "importance": 4
-    },
-    {
-      "title": "A fekete lyuk ikonikus első képe kiállta a vizsgálatot",
-      "summary": "A fekete lyukról készült első ikonikus kép, melyet a tudósok bemutattak, alapos vizsgálat után is helytállónak bizonyult. Ez megerősíti a korábbi asztrofizikai megfigyelések pontosságát.",
+      "title": "Egy mesterséges intelligencia „szerelő” bepillant más neurális hálózatok „fekete dobozába”",
+      "summary": "Kutatók kifejlesztettek egy mesterséges intelligencia „szerelőt”, amely képes bepillantani más neurális hálózatok működésébe, feltárva azok döntéshozatali folyamatait. Ez az áttörés segíthet az AI rendszerek megbízhatóságának és átláthatóságának javításában, kezelve a „fekete doboz” problémáját.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Fél évre börtönbe zárták a verekedő MMA-harcosokat Abu-Dzabiban",
-      "summary": "Két híres MMA-harcos fél évre börtönbe került egy abu-dzabi szálloda halljában történt verekedés miatt. Az eset rontja a sportág és a profi sportolók megítélését.",
+      "title": "Halálos balesetben érintett kapus 12 mérkőzésre szóló eltiltást kapott",
+      "summary": "Egy kapus, aki halálos közúti balesetben volt érintett, 12 mérkőzésre szóló eltiltást kapott a sportági szövetségtől. Az eset rávilágít a sportolók felelősségére a pályán kívül is, és komoly következményekkel jár a karrierjére nézve.",
       "importance": 4
     },
     {
-      "title": "12 meccses eltiltást kapott a halálos gázolásban érintett kapus",
-      "summary": "Egy kapust 12 mérkőzésre eltiltottak, miután halálos gázolásban volt érintett. Az ítélet súlyos következményekkel jár a sportoló karrierjére nézve és felhívja a figyelmet a felelősségre.",
-      "importance": 4
+      "title": "Egy 150 millió forintos Mercedes 190 repít vissza a DTM aranykorába",
+      "summary": "Egy közel 150 millió forint értékű, legendás Mercedes 190-es autót mutat be a cikk, amely a DTM (Német Túraautó Bajnokság) 90-es évekbeli fénykorát idézi meg. Ez az ikonikus versenyautó a motorsport történetének egyik meghatározó darabja.",
+      "importance": 2
+    },
+    {
+      "title": "Buszsofőrt büntettek meg, amiért lovakat engedett fel a járatra",
+      "summary": "Egy buszsofőrt nem kitüntettek, hanem megróttak azért, mert két lovat engedett fel a járatára. Az eset abszurditása miatt vált hírhedtté, és sokak szerint vérlázító a sofőrrel szembeni eljárás.",
+      "importance": 1
+    },
+    {
+      "title": "A Children in Need 2026 kampánya 90 másodpercben",
+      "summary": "A BBC bemutatja a Children in Need 2026-os jótékonysági kampányának összefoglalóját, amely 90 másodpercben sűríti össze az események legfontosabb pillanatait. Az akció célja a hátrányos helyzetű gyermekek támogatása, gyakran fizikai kihívásokkal és sztárfellépésekkel.",
+      "importance": 1
     }
   ]
 }

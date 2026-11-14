@@ -1,97 +1,112 @@
 {
   "hungary": [
     {
-      "title": "A Seszták-ügy: elásott milliárdok és politikai feszültség",
-      "summary": "Egy elásott pénzösszeggel kapcsolatos botrány rázza meg a magyar politikai életet, melynek középpontjában Seszták Miklós áll. Külföldi lapok is beszámolnak az eseményekről, miközben a KDNP visszakérné tőle mandátumát, és a szereplők nyilatkoznak az ügyről.",
+      "title": "Fegyelmi eljárást indít Seszták ellen a KDNP, felfüggesztik a tagságát",
+      "summary": "A Kereszténydemokrata Néppárt fegyelmi eljárást indított Seszták Miklós volt miniszter ellen, és felfüggeszti párttagságát az ellene zajló büntetőeljárás miatt. A párt ezzel elhatárolódik az elásott pénzzel kapcsolatos botránytól.",
       "importance": 5
     },
     {
-      "title": "Fűtés nélkül maradtak a Bosnyák téri lakók engedély nélküli rendszer miatt",
-      "summary": "A Bayer Construct által épített Bosnyák téri lakóházakban leállt a fűtés, mivel a vállalatnak nincs engedélye a fűtési rendszer üzemeltetésére. A lakók fagyoskodnak, az ügyben vizsgálat indult a hatóságok részéről.",
+      "title": "A BBC-től a Reutersig bejárta a nemzetközi sajtót Seszták Miklós ügye és az elásott milliárdok híre",
+      "summary": "Seszták Miklós volt miniszter ügye, mely során elásott milliárdokat találtak egy erdőben, széles körű nemzetközi figyelmet kapott. A BBC-től a Reutersig számos külföldi lap számolt be a botrányról, rávilágítva az eset globális visszhangjára.",
       "importance": 4
     },
     {
-      "title": "Rühfertőzés terjed a Szent János kórház pszichiátriai osztályán",
-      "summary": "Rühfertőzés ütötte fel a fejét a Szent János kórház pszichiátriai osztályán, ami aggodalomra ad okot a betegek és az egészségügyi személyzet körében. Az intézmény a szükséges intézkedéseket megteszi a továbbterjedés megakadályozására és a fertőzöttek kezelésére.",
+      "title": "Magyar Tudományos Akadémia Kutatóhálózat néven fog tovább működni a HUN-REN",
+      "summary": "A HUN-REN kutatóhálózat új néven, Magyar Tudományos Akadémia Kutatóhálózatként folytatja működését. Ez a névváltozás a magyar tudományos életben betöltött szerepének és struktúrájának változását jelzi.",
       "importance": 4
     },
     {
-      "title": "Magas árak a budapesti karácsonyi vásárokon: 7500 forintos hamburger",
-      "summary": "Jelentősen megemelkedtek az árak a budapesti karácsonyi vásárok nyitónapján, ahol egy hamburgerért 7500 forintot is elkérnek. Ez sokak számára elérhetetlenné teszi a kínálatot és rontja az ünnepi hangulatot.",
-      "importance": 3
+      "title": "A CEU rektora nem zárja ki, hogy ismét egyetemi képzéseket indítsanak Budapesten",
+      "summary": "A Közép-európai Egyetem rektora nyitott arra, hogy ismét elindítsanak bizonyos képzéseket Budapesten, annak ellenére, hogy az egyetem Bécsbe helyezte át székhelyét. Ez a lépés lehetőséget teremthet az egyetem és a főváros közötti tudományos kapcsolatok újraépítésére.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrajna NATO-tagsága a Donbászért cserébe: amerikai javaslat Zelenszkijnek",
-      "summary": "Az Egyesült Államok felvetette Ukrajna NATO-csatlakozásának lehetőségét, amennyiben az ország lemondana a Donbász régióról. Zelenszkij elmondása szerint ez komoly dilemma elé állítja őket a háború közepette.",
+      "title": "Zelenszkij szerint az amerikaiak felvetették, hogy Ukrajna a Donbaszért cserébe NATO-tag lehetne",
+      "summary": "Volodimir Zelenszkij ukrán elnök szerint az Egyesült Államok felvetette a lehetőséget, hogy Ukrajna lemondjon a Donbasz régióról cserébe a NATO-tagságért. Ez egy lehetséges kompromisszumos megoldás lenne az orosz-ukrán háborúban, de eddig nem történt hivatalos javaslat.",
       "importance": 5
     },
     {
-      "title": "Trump, Putyin és Hszi történelmi találkozója Kínában",
-      "summary": "A Fehér Ház megerősítette, hogy Donald Trump, Vlagyimir Putyin és Hszi Csin-ping jövő héten találkozik Kínában egy történelmi megbeszélésen. Az ukrán háború sorsa várhatóan nem kerül terítékre a tárgyalásokon.",
-      "importance": 5
-    },
-    {
-      "title": "Hajóbaleset New Orleansban: sétahajó borult fel egy tartályhajóval való ütközés után",
-      "summary": "Egy sétahajó borult fel New Orleansban, miután összeütközött egy tartályhajóval a vízen. Az eset során több sérültet is jelentettek, a hatóságok pedig vizsgálják az ütközés körülményeit.",
+      "title": "Szombaton több mint százezren vonultak utcára Franciaországban",
+      "summary": "Több mint százezren vettek részt szombaton Franciaország-szerte tartott tüntetéseken, melyek különféle szociális és politikai kérdések miatt szerveződtek. A demonstrációk a francia társadalom széles körű elégedetlenségét tükrözik.",
       "importance": 4
     },
     {
-      "title": "Globális repülőjárat-káosz az USA-ban rendszerhiba miatt",
-      "summary": "Az amerikai légügyi hatóságok minden belföldi járatot a földre parancsoltak egy rendkívüli rendszerhiba miatt. Ez hatalmas káoszt és késéseket okozott az Egyesült Államok légi közlekedésében, megbénítva a légi forgalmat.",
+      "title": "24 év után újra demokrata kormányzót választottak Alaszkában",
+      "summary": "Alaszkában 24 év után először választottak demokrata párti kormányzót, ami jelentős politikai változást jelez az állam vezetésében. Ez az eredmény rávilágít az amerikai politikai preferenciák dinamikus változására.",
+      "importance": 4
+    },
+    {
+      "title": "Rézvezeték-felújítás okozta az országos légiközlekedés leállását az Egyesült Államokban",
+      "summary": "Az amerikai közlekedési miniszter szerint egy rutin rézvezeték-felújítás okozta a légiközlekedés országos leállását az Egyesült Államokban. Az incidens rávilágított a kritikus infrastruktúrák sebezhetőségére és a technikai hibák széleskörű hatására.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A Jensen Huang botrány: Nvidia, AI és politikai vizsgálat",
-      "summary": "A Jensen Huang vezette Nvidia és az AI-iparág politikai vizsgálatok kereszttüzébe került Kína és az exporttilalmak miatt. A botrány hatalmas lyukat üt az AI startupok finanszírozásán, és vezetőváltási pletykák is felmerültek.",
+      "title": "805 millió euróra büntették a Metát Olaszországban, mert engedély nélkül fért hozzá a felhasználók fotóihoz",
+      "summary": "A Metát 805 millió euróra büntették Olaszországban, mert a cég engedély nélkül fért hozzá felhasználók fotóihoz. Ez a jelentős bírság a személyes adatok védelmének és a techóriások felelősségének fontosságára hívja fel a figyelmet.",
       "importance": 5
     },
     {
-      "title": "ChatGPT új \"Wallet\" funkciója: AI-ügynökök vásárolhatnak helyetted",
-      "summary": "A ChatGPT bemutatta új Wallet funkcióját, mellyel az AI-ügynökök képesek lesznek vásárolni és fizetni a felhasználók helyett. Ez a fejlesztés gyökeresen megváltoztathatja az online vásárlás élményét és automatizálását.",
+      "title": "Kínai AI-modellek az exporttilalom alá eső Nvidia chipekkel működnek – problémát jelenthet Jensen Huangnak",
+      "summary": "Kiderült, hogy Kína legerősebb mesterséges intelligencia modelljei az exporttilalom alá eső Nvidia chipekkel működnek. Ez potenciálisan jelentős diplomáciai és üzleti problémákat okozhat az Nvidia vezérigazgatójának, Jensen Huangnak, és a chipiparnak.",
+      "importance": 5
+    },
+    {
+      "title": "A ChatGPT új Pénztárca funkciója lehetővé teszi, hogy AI-ügynökök vásároljanak és fizessenek helyetted",
+      "summary": "A ChatGPT új \"Pénztárca\" funkciója forradalmasíthatja az online vásárlást, lehetővé téve a mesterséges intelligencia ügynökök számára, hogy önállóan intézzenek vásárlásokat és fizetéseket. Ez jelentősen megváltoztathatja a fogyasztói élményt és az e-kereskedelmet.",
       "importance": 4
     },
     {
-      "title": "Microsoft globális felhőválsága egy e-mail kimaradásból",
-      "summary": "A Microsoft egy e-mail kimaradása globális felhőválsággá eszkalálódott, ami számos szolgáltatást érintett világszerte. Az incidens rávilágított a felhőszolgáltatások sérülékenységére és a rendszerek összekapcsoltságára.",
+      "title": "Az Uber megerősítette, hogy hackerek elloptak több ezer sofőr jogosítvány-adatait egy adatvédelmi incidens során",
+      "summary": "Az Uber megerősítette, hogy egy adatvédelmi incidens során hackerek több ezer sofőr jogosítvány-adatait tulajdonították el. Az eset újabb figyelmeztetés a vállalatok számára az adatok biztonságos kezelésének és a kiberbiztonság fontosságára.",
       "importance": 4
-    },
-    {
-      "title": "Uber adatvédelmi incidens: több ezer sofőr jogosítványadatai lopták el",
-      "summary": "Az Uber megerősítette, hogy hackerek több ezer sofőr jogosítványadataihoz fértek hozzá egy adatvédelmi incidens során. A cég vizsgálja az esetet és értesíti az érintetteket, miközben a felhasználók biztonságáért aggódnak.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Úttörő CRISPR terápia: az első FDA engedély génmódosításra a testen belül",
-      "summary": "Hamarosan megkaphatja az FDA első génmódosító CRISPR-terápiája az engedélyt, amely forradalmasíthatja a genetikai betegségek kezelését. Ez jelenti az első ilyen jellegű beavatkozást a testen belül, új reményt adva a betegeknek.",
+      "title": "Teljesen elszállt az éghajlat? Amit az adatok mutatnak",
+      "summary": "A klímaváltozással kapcsolatos legújabb adatok elemzése azt vizsgálja, mennyire súlyos a helyzet. A kutatók részletes áttekintést nyújtanak arról, hogy a jelenlegi trendek milyen jövőt vetítenek előre, és milyen beavatkozásokra lehet szükség.",
       "importance": 5
     },
     {
-      "title": "Az RSV vakcinák rendkívüli sikere a veszélyes vírus ellen",
-      "summary": "Az új RSV (respiratórikus szinciciális vírus) vakcinák legfrissebb adatai a fertőzések drasztikus csökkenését mutatják. A védőoltások lenyűgöző sikert értek el a csecsemőket és időseket egyaránt veszélyeztető vírus elleni küzdelemben.",
+      "title": "Új CRISPR terápia áll az FDA első, testen belüli génmódosító engedélye előtt",
+      "summary": "Egy új CRISPR alapú génterápia várhatóan megkapja az FDA első engedélyét a testen belüli génmódosításra, ami áttörést jelenthet az orvostudományban. Ez forradalmi lehetőségeket nyithat meg számos örökletes betegség kezelésében, közvetlenül a beteg szervezetén belül.",
+      "importance": 5
+    },
+    {
+      "title": "Egy agyterületet több betegséggel is összekötő, valaha volt legrészletesebb atlasz készült el",
+      "summary": "Elkészült egy hatalmas agyterületi atlasz, amely számos betegséggel, például Parkinson-kórral és Alzheimer-kórral is összefüggésbe hozható régiókat térképez fel. Ez az eddigi legrészletesebb térkép új utakat nyithat a neurológiai kutatásban és a célzott kezelések fejlesztésében.",
       "importance": 4
     },
     {
-      "title": "Az öregedést hajtó fehérje felfedezése gyulladás nélkül",
-      "summary": "A kutatók egy olyan fehérjét azonosítottak, amely gyulladás nélkül is hozzájárul az öregedési folyamatokhoz a szervezetben. Ez a felfedezés új utakat nyithat az öregedés elleni terápiák fejlesztésében és az élettartam meghosszabbításában.",
-      "importance": 4
-    },
-    {
-      "title": "Klímaváltozás: mennyire \"készült el\" a bolygó? Az adatok tükrében",
-      "summary": "A Nature elemzése a klímaváltozás jelenlegi állapotáról és jövőbeli kilátásairól szól, megválaszolva a kérdést, hogy mennyire \"készült el\" a bolygó. Az adatok aggasztó képet festenek az éghajlatváltozás felgyorsulásáról.",
+      "title": "Az RSV vakcinák drasztikusan csökkentik a fertőzéseket: az adatok a védőoltások döbbenetes sikerét mutatják a veszélyes vírus ellen",
+      "summary": "Az RSV (légúti óriássejtes vírus) elleni vakcinák rendkívüli hatékonyságot mutattak a fertőzések csökkentésében, jelentős mértékben javítva a közegészségügyi helyzetet. Az adatok szerint az oltások drasztikusan hozzájárulnak a veszélyes vírus terjedésének megakadályozásához, különösen a veszélyeztetett csoportokban.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Halálos ütközés a focipályán: 12 meccses eltiltás a kapusnak",
-      "summary": "Egy kapus 12 meccses eltiltást kapott, miután úgy tarolta le ellenfelét a pályán, hogy az belehalt sérüléseibe. A tragikus eset sokkolta a sportvilágot, és súlyos következményekkel járt a vétkes játékos számára.",
+      "title": "Kétgólos győzelem Grúziában, Magyarország kedden visszajuthat az NL elit divíziójába",
+      "summary": "A magyar labdarúgó-válogatott kétgólos győzelmet aratott Grúzia ellen, ezzel nagy lépést tett az NL elit divíziójába való visszajutás felé. A keddi mérkőzésen dőlhet el a feljutás sorsa, ami óriási siker lenne a magyar foci számára.",
       "importance": 5
+    },
+    {
+      "title": "Wales sokkolta Új-Zélandot, 73 év után megszakítva a vereségsorozatot",
+      "summary": "Wales történelmi győzelmet aratott Új-Zéland ellen rögbiben, ezzel véget vetve egy 73 éve tartó vereségsorozatnak, ami a sportvilág egyik leghosszabbja volt. Ez az eredmény jelentős mérföldkő a walesi sport történetében, és hatalmas ünneplést váltott ki.",
+      "importance": 4
+    },
+    {
+      "title": "Így uralta le a NER a magyar foci szponzorációját",
+      "summary": "A NER jelentős mértékben uralja a magyar labdarúgás szponzorációját, ami befolyásolja a sportág anyagi hátterét és működését. Ez a jelenség rávilágít a politika és a sport összefonódására Magyarországon, és vitákat generál a sport függetlenségéről.",
+      "importance": 4
+    },
+    {
+      "title": "Szoboszlai kezd, megvan a kik lesznek ott a kezdő sípszónál Georgia ellen",
+      "summary": "Szoboszlai Dominik, a magyar labdarúgó-válogatott csapatkapitánya is a kezdő tizenegyben kapott helyet a Grúzia elleni, kiemelten fontos Nemzetek Ligája mérkőzésen. Ez a hír kiemelt fontosságú volt a magyar szurkolók számára, akik nagy reményekkel várták a feljutásról döntő összecsapást.",
+      "importance": 3
     }
   ]
 }

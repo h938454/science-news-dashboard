@@ -1,111 +1,96 @@
 {
   "hungary": [
     {
-      "title": "Unger Anna a Seszták-ügyről: Pontosan tudták, hol keressék a pénzt",
-      "summary": "Az ügyvédi iroda egykori vezetője, Unger Anna szerint a nyomozók tudták, hol keressék a Seszták-ügyben előkerült 6,5 milliárd forintot. Hozzátette, hogy ilyen nagy összeggel még az Államkincstár sem találkozott egyben.",
+      "title": "Seszták-ügy: Unger Anna a 6,5 milliárd forintról",
+      "summary": "Unger Anna, a Seszták-ügy kulcsfigurája részletesen beszélt a 6,5 milliárd forint sorsáról, utalva arra, hogy a pénzt nem csak földbe ásva, hanem egy madáretetőben is tárolták. Kijelentései további politikai reakciókat váltottak ki, többek között Deutsch Tamás és a Fidesz részéről is.",
       "importance": 5
     },
     {
-      "title": "Kétnapos kihelyezett frakcióülést tart a Tisza Párt",
-      "summary": "A Tisza Párt frakciója a jövő héten kétnapos kihelyezett ülést tart, ahol várhatóan a párt jövőbeli stratégiáját és az aktuális politikai kérdéseket vitatják meg. Ez az első ilyen ülésük a választások óta, jelezve az új politikai erő szerveződését.",
+      "title": "Kovács Gergely volt szoci belügyminiszterrel erősít a XII. kerületben",
+      "summary": "Kovács Gergely, a XII. kerület új polgármestere Lamperth Mónikát, korábbi szocialista belügyminisztert kéri fel munkája segítésére, erősítve csapatát a helyi önkormányzatnál. Ez a lépés jelentős változást hozhat a kerület politikai vezetésében.",
       "importance": 4
     },
     {
-      "title": "A magyar jövedelmek nőttek, de a lakásárak elszálltak mellettük",
-      "summary": "Az elmúlt tíz évben a magyar jövedelmek csaknem megháromszorozódtak, azonban a lakásárak növekedési üteme még ennél is gyorsabb volt. Ez a tendencia jelentős kihívások elé állítja a lakásvásárlókat és a lakhatási válságot mélyíti.",
+      "title": "A Fidesz az Alkotmánybírósághoz fordult az Otthon Start Program kivezetése miatt",
+      "summary": "A Fidesz-frakció az Alkotmánybírósághoz fordult, mert nem ért egyet az Otthon Start Program tervezett kivezetésével. A párt szerint a program megszüntetése súlyosan érintené a lakáshoz jutni vágyó családokat.",
       "importance": 4
     },
     {
-      "title": "Az ELTE 3,8 milliárd forintot kap a kutatóközpontok béremelésére",
-      "summary": "Az Eötvös Loránd Tudományegyetemhez csatolt kutatóközpontok dolgozóinak elmaradt béremelésére 3,8 milliárd forintos támogatást kap az államtól. A pénz a korábbi ígéretek ellenére elmaradt emeléseket hivatott pótolni.",
-      "importance": 4
+      "title": "Rendőrségi nyomozás indult a kecskeméti piarista óvodában történt fizikai fenyítés ügyében",
+      "summary": "A rendőrség vizsgálatot indított egy kecskeméti piarista óvodában, ahol felmerült a gyanú, hogy egy óvónő fizikai fenyítést alkalmazott a gyerekekkel szemben. Az eset felháborodást váltott ki, és a gyermekvédelem fontosságára hívja fel a figyelmet.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "Három tartályhajó futott aknára a Hormuzi-szorosban",
-      "summary": "A Hormuzi-szorosban, a világ egyik legfontosabb olajszállítási útvonalán három tartályhajó futott aknára, ami súlyos geopolitikai feszültségeket és olajpiaci aggodalmakat vet fel. Az incidens háttere egyelőre tisztázatlan, de a régió stabilitását fenyegeti.",
+      "title": "Észtország lezárja Oroszországgal közös határát szabotázskísérlet miatt",
+      "summary": "Észtország bejelentette, hogy szabotázskísérlet miatt lezárja az orosz határát, ami tovább élezi a feszültséget a két ország között. A lépés jelentős geopolitikai következményekkel járhat a térségben.",
       "importance": 5
     },
     {
-      "title": "Több százezren tüntettek Prágában a közmédia függetlenségéért",
-      "summary": "Csehország fővárosában, Prágában több százezren vonultak utcára, hogy a közszolgálati televízió függetlenségének megőrzését követeljék a kormány médiapolitikájával szemben. A tiltakozások a sajtószabadság melletti kiállást hangsúlyozták.",
+      "title": "Zelenszkij sürgeti az Egyesült Államokat és Muskot a Starlink korlátozások feloldására",
+      "summary": "Volodimir Zelenszkij ukrán elnök felszólította az Egyesült Államokat és Elon Muskot, hogy oldják fel a Starlink műholdas internet szolgáltatás korlátozásait Ukrajnában. Kijelentette, hogy a történelem \"jó oldalán\" kell állniuk ebben a kritikus helyzetben.",
+      "importance": 5
+    },
+    {
+      "title": "Három tartályhajó futott aknára a Hormuzi-szorosban",
+      "summary": "Jelentések szerint három tartályhajó is aknára futott a stratégiai fontosságú Hormuzi-szorosban, ami aggodalmakat keltett a nemzetközi hajózás biztonsága és a régió stabilitása miatt. A támadás elkövetője egyelőre ismeretlen.",
       "importance": 4
     },
     {
-      "title": "Észtország lezárja Oroszországgal közös határát szabotázskísérlet miatt",
-      "summary": "Észtország bejelentette, hogy lezárja Oroszországgal közös határát egy feltételezett szabotázskísérlet miatt, ami tovább növeli a feszültséget a két ország között. A lépés biztonsági okokból szükséges és az Európai Unió keleti határának védelmét szolgálja.",
-      "importance": 4
-    },
-    {
-      "title": "Zelenszkij felszólította az USA-t és Musk-ot a Starlink korlátozások feloldására",
-      "summary": "Volodimir Zelenszkij ukrán elnök sürgette az Egyesült Államokat és Elon Muskot, hogy oldják fel a Starlink műholdas internet-szolgáltatás Ukrajnára vonatkozó korlátozásait. Szerinte a lépés kulcsfontosságú lenne a háborúban, és „a történelem jó oldalára” állítaná őket.",
+      "title": "Százezrek tiltakoztak Prágában a kormány médiapolitikája ellen",
+      "summary": "Több százezer ember vonult utcára Prágában, hogy tiltakozzon a cseh kormány médiapolitikája ellen, a közmédia függetlenségét követelve. A demonstráció a sajtószabadság melletti kiállás fontos megnyilvánulása volt.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jensen Huang, az Nvidia vezérigazgatójának távozása, és annak hatása az AI szektorra",
-      "summary": "Jensen Huang, az Nvidia vezérigazgatójának távozása jelentős űrt hagyott az AI startup finanszírozásban, ami aggodalomra ad okot a befektetők és alapítók körében. A lépés potenciálisan átrendezi a mesterséges intelligencia iparág erőviszonyait.",
+      "title": "Indiai chip startup 24 millió dolláros tőkeinjekciót kap az AI szenzorpiacon",
+      "summary": "A Bharat Semi nevű indiai chip startup 24 millió dolláros magvető befektetést szerzett, célul tűzve ki a globális AI szenzorpiacot. Ez a finanszírozás jelentős előrelépést jelenthet az indiai technológiai szektor és a mesterséges intelligencia fejlesztése terén.",
+      "importance": 4
+    },
+    {
+      "title": "Jensen Huang távozása nagy űrt hagy az AI startup finanszírozásban",
+      "summary": "A Jensen Huang körüli fejlemények komoly aggodalmakat váltanak ki az AI iparágban, különösen a startupok finanszírozása terén. Vállalati befektetők és alapítók szerint ez jelentős hatással lehet az iparág jövőjére.",
       "importance": 5
     },
     {
-      "title": "Ki véd meg a mesterséges intelligenciától? – Szakértő az EUfóriában",
-      "summary": "Hidvégi Fanni digitális jogi szakértő az EUfóriában beszélt arról, hogyan védhet meg minket a jog és a szabályozás a mesterséges intelligencia potenciális veszélyeitől. A beszélgetés az AI etikai és jogi kérdéseire fókuszált, kiemelve a szabályozás fontosságát.",
+      "title": "A Tesla elindítja a Cybercab előrendeléseket személyes használatra",
+      "summary": "A Tesla megnyitotta a Cybercab szolgáltatás előrendeléseit „személyes használatra”, földrajzi korlátozásokkal és havi 299 dolláros díjjal. Ez a lépés a cég robotaxi stratégiájának következő fázisát jelzi.",
       "importance": 4
     },
     {
-      "title": "A Tesla elindítja a Cybercab előrendeléseket „személyes használatra”",
-      "summary": "A Tesla megnyitotta a Cybercab szolgáltatás előrendelését „személyes használatra”, bizonyos földrajzi korlátozásokkal és havi 299 dolláros díjjal. Ez egy új lépés az önvezető járművek és a mobilitási szolgáltatások fejlődésében, mely a jövő közlekedését formálhatja.",
+      "title": "Rutin karbantartási frissítés okozta az amerikai légi járatok leállását",
+      "summary": "Az amerikai közlekedési miniszter szerint egy „rutin” berendezésfrissítés volt az oka az országszerte történt járatkimaradásoknak és késéseknek, amelyek több ezer repülőjáratot érintettek. Ez rávilágít a kritikus infrastruktúra digitális biztonságának fontosságára.",
       "importance": 4
-    },
-    {
-      "title": "Egy startup úszó adatközpontokat akar működtetni az óceán hőjével",
-      "summary": "Egy fiatal startup cég az óceán hőjének felhasználásával szeretne lebegő adatközpontokat működtetni, amire a befektetők is felfigyeltek. Ez az innovatív megoldás a zöld technológiák és az infrastruktúra jövőjét mutathatja a fenntartható adatszolgáltatás terén.",
-      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Úttörő CRISPR terápia áll az FDA jóváhagyása előtt",
-      "summary": "Egy új CRISPR terápia áll az amerikai Élelmiszer- és Gyógyszerügyi Hivatal (FDA) jóváhagyása előtt, mely az első lehet, ami génszerkesztéssel módosítja a géneket a testben. Ez az áttörés új korszakot nyithat a genetikai betegségek kezelésében.",
+      "title": "Úttörő CRISPR terápia várhatóan megkapja az FDA első emberi génszerkesztési engedélyét",
+      "summary": "Egy újszerű CRISPR-terápia hamarosan megkaphatja az FDA első engedélyét, amellyel közvetlenül a testben lehet majd géneket szerkeszteni. Ez áttörést jelenthet számos genetikai betegség kezelésében.",
       "importance": 5
     },
     {
-      "title": "A fekete lyukról készült ikonikus első kép kiállja az ellenőrzést",
-      "summary": "A fekete lyukról készült első ikonikus kép, melyet világszerte ünnepeltek, alapos tudományos vizsgálatok után is helytállónak bizonyult. Ez megerősíti a kép hitelességét és a tudományos megfigyelések pontosságát az asztrofizikában.",
+      "title": "Eddigi legrészletesebb agyi atlasz készült el, mely betegségekkel hozható összefüggésbe",
+      "summary": "A kutatók egy masszív agyi atlaszt hoztak létre, amely a legrészletesebb a maga nemében, és számos betegséggel hozható összefüggésbe. Ez az adatbázis kulcsfontosságú lehet az agyi rendellenességek mélyebb megértéséhez és kezeléséhez.",
       "importance": 4
     },
     {
-      "title": "Az RSV vakcinák drámaian csökkentik a fertőzéseket",
-      "summary": "Az új adatok szerint az RSV (respiratory syncytial virus) elleni vakcinák rendkívüli sikerrel csökkentik a veszélyes vírus okozta fertőzéseket. Ez jelentős előrelépést jelent a közegészségügyben, különösen a gyermekek és idősek védelmében.",
+      "title": "Az RSV oltások drámaian csökkentik a fertőzéseket",
+      "summary": "Az új adatok szerint az RSV (respiratory syncytial virus) elleni oltások rendkívüli sikerrel csökkentik a fertőzések számát. Ez jelentős előrelépés a veszélyes vírus elleni küzdelemben, különösen a gyermekek és idősek védelmében.",
       "importance": 4
     },
     {
-      "title": "Felfedezték az öregedést gyulladás nélkül hajtó fehérjét",
-      "summary": "A kutatók felfedeztek egy fehérjét, amely az öregedés folyamatát vezérli anélkül, hogy gyulladást váltana ki a szervezetben. Ez a felfedezés alapvető betekintést nyújt az öregedés mechanizmusába és új terápiás lehetőségeket nyithat.",
+      "title": "Felfedeztek egy fehérjét, amely gyulladás nélkül lassítja az öregedést",
+      "summary": "Tudósok azonosítottak egy fehérjét, amely az öregedési folyamatokat irányítja anélkül, hogy gyulladást váltana ki a szervezetben. Ez a felfedezés új utakat nyithat az öregedés elleni küzdelemben és az élettartam meghosszabbításában.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A Tenerife először lépett pályára csatáruk tragikus halála óta",
-      "summary": "A Tenerife labdarúgócsapata először lépett pályára csatáruk, a tragikusan elhunyt Kike García halála óta, mély fájdalommal és a játékos emlékének tiszteletére. A mérkőzés megható pillanatokkal teli volt a sportközösség számára.",
-      "importance": 4
-    },
-    {
-      "title": "Borics Ádám ájultra fojtotta eddig veretlen ellenfelét",
-      "summary": "A magyar ketrecharcos, Borics Ádám lenyűgöző teljesítménnyel, ájultra fojtotta eddig veretlen ellenfelét, ezzel ismét bizonyítva helyét a sportág élmezőnyében. Győzelme a magyar MMA számára is kiemelkedő sikert jelent.",
-      "importance": 4
-    },
-    {
-      "title": "A könnyekkel küszködő McIlroy édesapjának ajánlotta rekordbeállító győzelmét",
-      "summary": "Rory McIlroy golfozó könnyekkel küszködve, édesapjának ajánlotta rekordbeállító győzelmét, aki betegséggel küzd. A sportoló személyes és érzelmes pillanata nagy visszhangot váltott ki, megmutatva a sportolók emberi oldalát.",
-      "importance": 3
-    },
-    {
-      "title": "Cselgáncsbajnok indul a francia elnökválasztáson",
-      "summary": "Egy ismert cselgáncsbajnok meglepetésszerűen bejelentette indulását a francia elnökválasztáson, ezzel felkavarva a politikai vizeket. A sportolói háttérrel rendelkező jelölt belépése új dinamikát hozhat a kampányba.",
+      "title": "Cselgáncsbajnok okoz meglepetést a francia elnökválasztási versenyben",
+      "summary": "Egy ismert cselgáncsbajnok váratlanul bejelentette, hogy indul a francia elnökválasztáson, ezzel meglepetést okozva a politikai életben. A sportoló háttere és népszerűsége felkavarhatja a hagyományos politikai erőviszonyokat.",
       "importance": 3
     }
   ]

@@ -1,81 +1,5 @@
 {
-  "Telex": [
-    {
-      "title": "A kutyapárti Kovács Gergely Gyurcsány egykori miniszterét, Lamperth Mónikát kérte fel polgármesteri tanácsadónak",
-      "link": "https://telex.hu/belfold/2026/11/15/lamperth-monika-hegyvidek-tanacsado-kovacs-gergely",
-      "summary": "Újabb csavar a Hegyvidék önkormányzatának mozgalmas életében: Lamperth Mónika egykori belügyminiszter, aki a szocialistákkal Gyurcsány alatt szakított, később a Fideszhez közeledett, majd attól is eltávolodott. A Telexnek elmondta, most Kovács Gergely kérésére a polgármester munkáját fogja segíteni."
-    },
-    {
-      "title": "Unger Anna: A nyomozók pontosan tudták, hol keressék a Seszták-ügyben előkerült pénzeket",
-      "link": "https://telex.hu/belfold/2026/11/15/sesztak-miklos-nvvh-unger-anna-hazon-kivul",
-      "summary": "Az NVVH elnöke nem árulta el, honnan szerezték meg ezeket az információkat. Annyit azért elmondott, hogy madáretetőben is voltak elrejtve pénzek."
-    },
-    {
-      "title": "A magyar jövedelmek tíz év alatt csaknem megháromszorozódtak, a lakásárak mégis elhúztak mellettük",
-      "link": "https://telex.hu/gazdasag/2026/11/15/eurostat-ingatlan-vasarlas-jovedelemhez-kepest-felmeres-magyarorszag",
-      "summary": "Az Eurostat azt nézte meg, hogyan változtak a lakásárak a háztartások jövedelméhez képest. Magyarországon az unióban a harmadik legnagyobb mértékben nőtt a kettő aránya 2015 és 2025 között."
-    },
-    {
-      "title": "Megalázó helyzet volt eddig, ez majd könnyíteni fog a nők fájdalmán – nők a vény nélküli esemény utáni tablettáról",
-      "link": "https://telex.hu/video/2026/11/15/esemeny-utani-tabletta-venykotelesseg-eltorles-tisza-kormany",
-      "summary": "Eddig sokan előre tartottak tőle, hogy egyszer majd szükségük lesz rá, de a bejelentés után szabadabbnak érzik magukat. Takács Péter cukorkás reakcióján többen felháborodtak."
-    },
-    {
-      "title": "Kétnapos kihelyezett frakcióülést tart a Tisza",
-      "link": "https://telex.hu/belfold/2026/11/15/magyar-peter-tisza-frakcio-frakcioules",
-      "summary": "Csütörtökön és pénteken tanácskoznak a tiszás képviselők."
-    },
-    {
-      "title": "Begyűjtötték a nedves törlőkendőket, aztán cseszegetik a csatornázási műveket",
-      "link": "https://telex.hu/belfold/2026/11/15/budapest-ujpest-duna-part-nedves-torlokendok-szennyezes-szemet-gyujtes-aktivistak-nagy-david",
-      "summary": "A kutyapártos Nagy Dávid önkéntes takarítást szervezett az újpesti Duna-parton, ahol tömegével gyűltek össze a fertőző hulladéknak számító törlőkendők."
-    },
-    {
-      "title": "Csatáruk tragikus halála óta először lépett pályára a Tenerife",
-      "link": "https://telex.hu/sport/2026/11/15/tenerife-jesus-de-miguel-megemlekezes",
-      "summary": "Jesús de Miguel azt követően halt meg, hogy az ellenfél kapusa mellkasba térdelte egy ütközés során."
-    },
-    {
-      "title": "Inkább atomerőművet akarnak a szomszédba az amerikaiak, mint adatközpontot",
-      "link": "https://telex.hu/kulfold/2026/11/15/midterm-gazdasag-ai-adossag-allamkotveny-dollar-elektor",
-      "summary": "Megrángatta a piacokat az amerikai félidős választások eredménye. Mit hozhat a demokraták előretörése az Egyesült Államok és a világgazdaság számára? Az Elektor című műsorunkban szakértőket kérdeztünk."
-    },
-    {
-      "title": "Eddig veretlen ellenfelét fojtotta ájultra a ketrecharcos Borics Ádám",
-      "link": "https://telex.hu/sport/2026/11/15/mma-ketrecharc-borics-adam",
-      "summary": "Az első percben padlóra küldték a magyar MMA-csillagot, de végül Borics dagesztáni ellenfele ájult bele egy trükkös fojtásba."
-    },
-    {
-      "title": "Több százezren tüntettek Prágában a közszolgálati tévé függetlenségének védelmében",
-      "link": "https://telex.hu/kulfold/2026/11/15/tobb-szazezren-tuntettek-pragaban-a-kozszolgalati-teve-fuggetlensegenek-vedelmeben",
-      "summary": "A kormánypárt eltörölné az üzembentartási díjat és szerényebb költségvetési forrásból finanszírozná a cseh közszolgálati adókat. Andrej Babiš kormánya az eddigi legnagyobb tüntetéssel nézett szembe vasárnap."
-    },
-    {
-      "title": "3,8 milliárdot kap az ELTE a hozzá csatolt kutatóközpontok dolgozóinak elmaradt béremelésére",
-      "link": "https://telex.hu/techtud/2026/11/15/hun-ren-magyar-kutatasi-halozatt-beremeles-elte",
-      "summary": "Miután a dolgozók nem kapták meg a beígért 30 százalékos átlagos béremelést tavaly."
-    },
-    {
-      "title": "A fotók, amik nélkül nem mozdult volna meg a világ ’56 után",
-      "link": "https://telex.hu/belfold/2026/11/15/az-emberseg-hidja-1956-foto",
-      "summary": "Az ötvenhatos forradalmat dokumentáló osztrák sajtófotósok képeiből nyílt kiállítás Bécsben. A kiadatlan kordokumentumok ’56 menekültjei mellett az őket fogadó Ausztriát is bemutatják."
-    },
-    {
-      "title": "Tényleg az igazságosság, a fejlődés és az őszinteség költségvetése lesz a jövő évi?",
-      "link": "https://telex.hu/g7/kozelet/2026/11/15/koltsegvetes-2027-igazsagossag-fejlodes-oszinteseg-kritika",
-      "summary": "Bár nagy elmozdulás történt ezekbe az irányokba, további több ezermilliárd forint átcsoportosítására és még tisztességesebb kommunikációra lenne szükség. A Levegő Munkacsoport elnökének véleménycikke."
-    },
-    {
-      "title": "Így lyukasztotta ki a ködtakarót a Mátra és a Bükk",
-      "link": "https://telex.hu/techtud/2026/11/15/idojaras-kod-eszaki-kozephegyseg-matra-bukk",
-      "summary": "Látványos időjárási jelenséget örökítettek meg a vasárnap délelőtti műholdfelvételek."
-    },
-    {
-      "title": "Legendás kedvenceink: a gesztenyepüré aromák nélkül",
-      "link": "https://telex.hu/gasztro/2026/11/15/legendas-magyar-kedvencek-gesztenyepure",
-      "summary": "Mitől lesz igazán fantasztikus a házi gesztenyepüré? Nem attól, amit hozzáadunk, hanem attól, amit kihagyunk belőle."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
     {
@@ -156,6 +80,21 @@
   ],
   "HVG": [
     {
+      "title": "A Fidesznek az összeomlás jutott eszébe Unger Anna Seszták-ügyben adott interjújáról",
+      "link": "https://hvg.hu/itthon/20261115_fidesznek-unger-anna-sesztak-interju-reakcio",
+      "summary": "Kínos, önleleplező vallomás, ami után több a gyanús körülmény és a megválaszolatlan kérdés, mint valaha - értékelte az ellenzéki párt az NVVH-elnök szereplését."
+    },
+    {
+      "title": "Orbán Viktoron kívül már gyakorlatilag mindenki elmondta, mit gondol a Seszták-ügy milliárdjairól",
+      "link": "https://hvg.hu/itthon/20261115_sesztak-miklos-nvvh-hatmilliard-reakciok",
+      "summary": "A hétvége folyamán politikusok, elemzők és a kulturális élet szereplői is megfejtették az elásott vagyon rejtélyét."
+    },
+    {
+      "title": "Itt vannak a hatoslottó nyerőszámai",
+      "link": "https://hvg.hu/elet/20261115_itt-vannak-a-hatoslotto-nyeroszamai",
+      "summary": "Nagyon sokan vihettek haza fejenként háromezer forintot."
+    },
+    {
       "title": "Nyomoz a rendőrség, mert fizikai fenyítést alkalmazhatott egy óvónő a kecskeméti piarista óvodában",
       "link": "https://hvg.hu/itthon/20261115_nyomozas-rendorseg-fizikai-fenyites-kecskemeti-piarista-ovoda",
       "summary": "Több gyerek beszámolt otthon nyakszorításról, és egyiküket szőnyegre is dobhatta az óvónő."
@@ -214,21 +153,6 @@
       "title": "Lamperth Mónika hétfőtől Kovács Gergelyt segíti a XII. kerületi önkormányzatnál",
       "link": "https://hvg.hu/itthon/20261115_lamperth-monika-kovacs-gergely-xii-kerulet-onkormanyzat",
       "summary": "A volt szocialista politikus elsősorban irányítási és vezetési területen segíti majd a hegyvidéki polgármester munkáját."
-    },
-    {
-      "title": "„Amikor Nemes László hívott, úgy voltam vele, hogy nem, többé nem”",
-      "link": "https://hvg.hu/360/20261115_202646-lars-eidinger-nemet-szinesz-belso-demonokrol-antidiszkorol-extra-teher",
-      "summary": "Klaus Barbie-t, a lyoni Gestapo vezetőjét alakítja Nemes (Jeles) László filmjében, a Moulinban. Lars Eidinger német színésszel a náci szerepekről, a Babilon Berlinről és a dj-létről is beszélgettünk."
-    },
-    {
-      "title": "Ki véd meg a mesterséges intelligenciától? – Hidvégi Fanni digitális jogi szakértő az EUfóriában",
-      "link": "https://hvg.hu/eurologus/20261115_euforia-podcast-mesterseges-intelligencia-ep2026",
-      "summary": "A mesterséges intelligencia növelni fogja a társadalmi különbségeket, veszélyt jelent a környezetre és kiszolgáltatottá tesz az EU-t - mondta uniós podcastunkban, az EUfóriában Hidvégi Fanny digitális jogi szakértő, az AI Collaborative szakpolitikai igazgatója."
-    },
-    {
-      "title": "Izrael újabb Hamász-parancsnokkal végzett a Gázai övezetben",
-      "link": "https://hvg.hu/vilag/20261115_izrael-hamasz-gazai-ovezet-tamadas",
-      "summary": "Szamir Abu Junisz az IDF szerint vezető szerepet játszott a 2023. október 7-i izraeli mészárlás megtervezésében."
     }
   ],
   "BBC": [
@@ -238,29 +162,24 @@
       "summary": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal."
     },
     {
-      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
-    },
-    {
       "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
       "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
     },
     {
-      "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
-      "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "summary": "He has been showing support for injured veterans in Ukraine and praising the country's resilience."
     },
     {
-      "title": "Minister backs legal right to job support for young people",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The work and pensions secretary said the level of support currently on offer was too vague."
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
     },
     {
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years."
     },
     {
       "title": "Trident submarine returns home after record-breaking undersea patrol",
@@ -268,24 +187,29 @@
       "summary": "Defence Secretary Wes Streeting was at HM Naval Base Clyde to welcome the crew after the longest deployment at sea for a British vessel."
     },
     {
-      "title": "Tearful McIlroy dedicates record-equalling win to ill dad",
-      "link": "https://www.bbc.co.uk/sport/golf/articles/c6kg7rwmz1g8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rory McIlroy wipes away tears as he dedicates his record-equalling eighth Race to Dubai title to his ill father, Gerry."
+      "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+      "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+      "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The convicted rapist has been moved to HMP Littlehey, which houses sex offenders."
     },
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
     },
     {
-      "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties."
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+    },
+    {
+      "title": "Tories pledge to halt screen-based school exams and cut coursework",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+      "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI."
     },
     {
       "title": "Beauty advent calendars can cost hundreds but are they value for money?",
@@ -309,6 +233,21 @@
     }
   ],
   "TechCrunch": [
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+    },
     {
       "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
       "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
@@ -368,21 +307,6 @@
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-    },
-    {
-      "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-      "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-      "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States."
-    },
-    {
-      "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-      "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-      "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years."
-    },
-    {
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
     }
   ],
   "Nature": [

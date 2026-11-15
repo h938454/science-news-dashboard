@@ -1,96 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Navracsics a Seszták-ügyről: A tagadás és a szembenézés elkerülése senkit nem tesz alkalmassá a választói érdemi képviseletére",
-      "summary": "Navracsics Tibor szerint a politikusoknak szembe kell nézniük a valósággal, mert a tagadás vagy a problémák elkerülése nem teszi őket alkalmassá a választók képviseletére. Ez a Seszták-ügyre, egy nagyobb politikai botrányra utal, melyben állítólagos korrupcióról van szó.",
+      "title": "Unger Anna a Seszták-ügyről: Pontosan tudták, hol keressék a pénzt",
+      "summary": "Az ügyvédi iroda egykori vezetője, Unger Anna szerint a nyomozók tudták, hol keressék a Seszták-ügyben előkerült 6,5 milliárd forintot. Hozzátette, hogy ilyen nagy összeggel még az Államkincstár sem találkozott egyben.",
       "importance": 5
     },
     {
-      "title": "Új vasúti menetrend jön: több vonalon annyira rossz a pálya állapota, hogy nő a vonatok menetideje",
-      "summary": "Az új vasúti menetrend bevezetésével számos vonalon növekedni fog a vonatok menetideje. Ennek oka a vasúti pályák rossz állapota, ami jelentős kényelmetlenséget okozhat az utasoknak.",
+      "title": "Kétnapos kihelyezett frakcióülést tart a Tisza Párt",
+      "summary": "A Tisza Párt frakciója a jövő héten kétnapos kihelyezett ülést tart, ahol várhatóan a párt jövőbeli stratégiáját és az aktuális politikai kérdéseket vitatják meg. Ez az első ilyen ülésük a választások óta, jelezve az új politikai erő szerveződését.",
       "importance": 4
     },
     {
-      "title": "Vitézy Dávid: Szigorítjuk a balatoni építkezések szabályait",
-      "summary": "Vitézy Dávid bejelentette, hogy szigorítani fogják a Balaton körüli építkezések szabályait. A cél a tó természeti és épített környezetének védelme.",
+      "title": "A magyar jövedelmek nőttek, de a lakásárak elszálltak mellettük",
+      "summary": "Az elmúlt tíz évben a magyar jövedelmek csaknem megháromszorozódtak, azonban a lakásárak növekedési üteme még ennél is gyorsabb volt. Ez a tendencia jelentős kihívások elé állítja a lakásvásárlókat és a lakhatási válságot mélyíti.",
       "importance": 4
     },
     {
-      "title": "Bod Péter Ákos: Lesznek szervek, amelyek megkérdezik, hol tartózkodik Nagy Márton",
-      "summary": "Bod Péter Ákos közgazdász szerint hamarosan hivatalos szervek fognak érdeklődni Nagy Márton miniszter tartózkodási helye iránt. Ez a nyilatkozat politikai és gazdasági feszültségekre utal, és kérdéseket vet fel a miniszter helyzetével kapcsolatban.",
+      "title": "Az ELTE 3,8 milliárd forintot kap a kutatóközpontok béremelésére",
+      "summary": "Az Eötvös Loránd Tudományegyetemhez csatolt kutatóközpontok dolgozóinak elmaradt béremelésére 3,8 milliárd forintos támogatást kap az államtól. A pénz a korábbi ígéretek ellenére elmaradt emeléseket hivatott pótolni.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Három tartályhajó is aknára futott a Hormuzi-szorosban",
-      "summary": "Jelentések szerint három tartályhajó is aknára futott a stratégiailag fontos Hormuzi-szorosban. Az incidens súlyos geopolitikai és gazdasági következményekkel járhat, mivel ez a kulcsfontosságú útvonal a világ olajszállításának jelentős részét bonyolítja.",
+      "title": "Három tartályhajó futott aknára a Hormuzi-szorosban",
+      "summary": "A Hormuzi-szorosban, a világ egyik legfontosabb olajszállítási útvonalán három tartályhajó futott aknára, ami súlyos geopolitikai feszültségeket és olajpiaci aggodalmakat vet fel. Az incidens háttere egyelőre tisztázatlan, de a régió stabilitását fenyegeti.",
       "importance": 5
     },
     {
-      "title": "Izrael megölt egy Hamász parancsnokot egy gázai tábor elleni csapásban",
-      "summary": "Izrael bejelentette, hogy egy gázai menekülttábor elleni légicsapásban megölt egy magas rangú Hamász parancsnokot. Az esemény tovább növeli a feszültséget a régióban és valószínűleg megtorláshoz vezet.",
-      "importance": 5
-    },
-    {
-      "title": "Transznisztria már rég az EU-ból él, a szakadár régió függetlenségének is annyi?",
-      "summary": "A szakadár Transznisztriai régió gazdasága nagymértékben függ az EU-s támogatásoktól és kapcsolatoktól. Kérdésessé vált a régió függetlenségi törekvéseinek jövője, ami komoly geopolitikai következményekkel járhat a Kelet-Európai régióban.",
+      "title": "Több százezren tüntettek Prágában a közmédia függetlenségéért",
+      "summary": "Csehország fővárosában, Prágában több százezren vonultak utcára, hogy a közszolgálati televízió függetlenségének megőrzését követeljék a kormány médiapolitikájával szemben. A tiltakozások a sajtószabadság melletti kiállást hangsúlyozták.",
       "importance": 4
     },
     {
-      "title": "A miniszter a beleegyezési korhatár fokozatos emelését javasolja Russell Brand ügye miatt",
-      "summary": "Egy brit miniszter javaslatot tett a beleegyezési korhatár fokozatos emelésére, reagálva a Russell Brand ellen felhozott szexuális visszaélési vádakra. Az ügy széleskörű társadalmi vitát váltott ki az Egyesült Királyságban.",
+      "title": "Észtország lezárja Oroszországgal közös határát szabotázskísérlet miatt",
+      "summary": "Észtország bejelentette, hogy lezárja Oroszországgal közös határát egy feltételezett szabotázskísérlet miatt, ami tovább növeli a feszültséget a két ország között. A lépés biztonsági okokból szükséges és az Európai Unió keleti határának védelmét szolgálja.",
+      "importance": 4
+    },
+    {
+      "title": "Zelenszkij felszólította az USA-t és Musk-ot a Starlink korlátozások feloldására",
+      "summary": "Volodimir Zelenszkij ukrán elnök sürgette az Egyesült Államokat és Elon Muskot, hogy oldják fel a Starlink műholdas internet-szolgáltatás Ukrajnára vonatkozó korlátozásait. Szerinte a lépés kulcsfontosságú lenne a háborúban, és „a történelem jó oldalára” állítaná őket.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Jensen Huang távozása jelentős űrt hagy az AI startup finanszírozásban",
-      "summary": "Jensen Huang, az Nvidia vezérigazgatójának távozása komoly bizonytalanságot és finanszírozási hiányt okoz az AI startupok piacán. A vezető lépése jelentősen befolyásolhatja a mesterséges intelligencia iparág jövőjét.",
+      "title": "Jensen Huang, az Nvidia vezérigazgatójának távozása, és annak hatása az AI szektorra",
+      "summary": "Jensen Huang, az Nvidia vezérigazgatójának távozása jelentős űrt hagyott az AI startup finanszírozásban, ami aggodalomra ad okot a befektetők és alapítók körében. A lépés potenciálisan átrendezi a mesterséges intelligencia iparág erőviszonyait.",
       "importance": 5
     },
     {
-      "title": "Egy meghibásodott router öt órára megbénította az amerikai légiközlekedést",
-      "summary": "Egy rutin karbantartás során meghibásodott router öt órán keresztül lebénította az Egyesült Államok teljes légi közlekedését. Az eset rávilágított a digitális infrastruktúra sérülékenységére és a rendszerek megbízhatóságának fontosságára.",
-      "importance": 5
-    },
-    {
-      "title": "A SpaceX sikeresen elfogta a Starship űrhajó visszatérő részét",
-      "summary": "A SpaceX mérföldkőnek számító teljesítménnyel sikeresen befogta a Föld körüli pályáról visszatérő Starship űrhajó egy részét. Ez a bravúr kulcsfontosságú a többször felhasználható űrjárművek fejlesztésében és az űrutazás jövője szempontjából.",
+      "title": "Ki véd meg a mesterséges intelligenciától? – Szakértő az EUfóriában",
+      "summary": "Hidvégi Fanni digitális jogi szakértő az EUfóriában beszélt arról, hogyan védhet meg minket a jog és a szabályozás a mesterséges intelligencia potenciális veszélyeitől. A beszélgetés az AI etikai és jogi kérdéseire fókuszált, kiemelve a szabályozás fontosságát.",
       "importance": 4
     },
     {
-      "title": "A ChatGPT új Wallet funkciója lehetővé teszi az AI ügynököknek a vásárlást",
-      "summary": "A ChatGPT új „Wallet” funkciójával a mesterséges intelligencia ügynökök képesek lesznek vásárlásokat intézni és online fizetni. Ez a fejlesztés új dimenziót nyit az AI fogyasztói alkalmazásaiban és a digitális kereskedelemben.",
+      "title": "A Tesla elindítja a Cybercab előrendeléseket „személyes használatra”",
+      "summary": "A Tesla megnyitotta a Cybercab szolgáltatás előrendelését „személyes használatra”, bizonyos földrajzi korlátozásokkal és havi 299 dolláros díjjal. Ez egy új lépés az önvezető járművek és a mobilitási szolgáltatások fejlődésében, mely a jövő közlekedését formálhatja.",
       "importance": 4
+    },
+    {
+      "title": "Egy startup úszó adatközpontokat akar működtetni az óceán hőjével",
+      "summary": "Egy fiatal startup cég az óceán hőjének felhasználásával szeretne lebegő adatközpontokat működtetni, amire a befektetők is felfigyeltek. Ez az innovatív megoldás a zöld technológiák és az infrastruktúra jövőjét mutathatja a fenntartható adatszolgáltatás terén.",
+      "importance": 3
     }
   ],
   "science": [
     {
-      "title": "Új CRISPR terápia kaphatja meg az első FDA jóváhagyást a gének módosítására a szervezetben",
-      "summary": "Egy úttörő CRISPR terápia áll az FDA első jóváhagyása előtt, amely lehetővé teszi a gének módosítását közvetlenül a szervezetben. Ez a genetikai módosítás forradalmasíthatja számos betegség kezelését, és hatalmas előrelépést jelent a génterápiában.",
+      "title": "Úttörő CRISPR terápia áll az FDA jóváhagyása előtt",
+      "summary": "Egy új CRISPR terápia áll az amerikai Élelmiszer- és Gyógyszerügyi Hivatal (FDA) jóváhagyása előtt, mely az első lehet, ami génszerkesztéssel módosítja a géneket a testben. Ez az áttörés új korszakot nyithat a genetikai betegségek kezelésében.",
       "importance": 5
     },
     {
-      "title": "Az RSV vakcinák drámaian csökkentik a fertőzéseket, adatok bizonyítják a lenyűgöző sikert",
-      "summary": "Az RSV (légúti óriássejtes vírus) elleni oltások rendkívül sikeresnek bizonyultak a fertőzések csökkentésében, jelentős közegészségügyi előnyökkel. Az új adatok a vakcinák hatékonyságát igazolják e veszélyes vírus elleni küzdelemben.",
-      "importance": 5
-    },
-    {
-      "title": "Felfedeztek egy fehérjét, amely gyulladás nélkül irányítja az öregedést",
-      "summary": "Kutatók felfedeztek egy fehérjét, amely az öregedési folyamatokat irányítja a szervezetben anélkül, hogy gyulladást okozna. Ez a felfedezés új utakat nyithat az öregedéssel kapcsolatos betegségek megértésében és kezelésében.",
+      "title": "A fekete lyukról készült ikonikus első kép kiállja az ellenőrzést",
+      "summary": "A fekete lyukról készült első ikonikus kép, melyet világszerte ünnepeltek, alapos tudományos vizsgálatok után is helytállónak bizonyult. Ez megerősíti a kép hitelességét és a tudományos megfigyelések pontosságát az asztrofizikában.",
       "importance": 4
     },
     {
-      "title": "Készült egy hatalmas agyi atlasz a betegségekkel összefüggő régiókról",
-      "summary": "Elkészült egy rendkívül részletes agyi atlasz, amely az agy különböző régióit és azok betegségekkel való kapcsolatát térképezi fel. Ez az átfogó adatbázis kulcsfontosságú kutatási eszköz a neurológiai betegségek jobb megértéséhez és új terápiák kifejlesztéséhez.",
+      "title": "Az RSV vakcinák drámaian csökkentik a fertőzéseket",
+      "summary": "Az új adatok szerint az RSV (respiratory syncytial virus) elleni vakcinák rendkívüli sikerrel csökkentik a veszélyes vírus okozta fertőzéseket. Ez jelentős előrelépést jelent a közegészségügyben, különösen a gyermekek és idősek védelmében.",
+      "importance": 4
+    },
+    {
+      "title": "Felfedezték az öregedést gyulladás nélkül hajtó fehérjét",
+      "summary": "A kutatók felfedeztek egy fehérjét, amely az öregedés folyamatát vezérli anélkül, hogy gyulladást váltana ki a szervezetben. Ez a felfedezés alapvető betekintést nyújt az öregedés mechanizmusába és új terápiás lehetőségeket nyithat.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Banton century-t ütött, az angol dobók is remekeltek az ausztrálok elleni ODI sorozat kiegyenlítésében",
-      "summary": "Banton századot ütött, és az angol krikett dobók is kiválóan teljesítettek Ausztrália ellen, kiegyenlítve az egy napos nemzetközi (ODI) sorozatot. Ezzel a győzelemmel Anglia visszavágott, és nyitottá tette a sorozatot.",
+      "title": "A Tenerife először lépett pályára csatáruk tragikus halála óta",
+      "summary": "A Tenerife labdarúgócsapata először lépett pályára csatáruk, a tragikusan elhunyt Kike García halála óta, mély fájdalommal és a játékos emlékének tiszteletére. A mérkőzés megható pillanatokkal teli volt a sportközösség számára.",
+      "importance": 4
+    },
+    {
+      "title": "Borics Ádám ájultra fojtotta eddig veretlen ellenfelét",
+      "summary": "A magyar ketrecharcos, Borics Ádám lenyűgöző teljesítménnyel, ájultra fojtotta eddig veretlen ellenfelét, ezzel ismét bizonyítva helyét a sportág élmezőnyében. Győzelme a magyar MMA számára is kiemelkedő sikert jelent.",
+      "importance": 4
+    },
+    {
+      "title": "A könnyekkel küszködő McIlroy édesapjának ajánlotta rekordbeállító győzelmét",
+      "summary": "Rory McIlroy golfozó könnyekkel küszködve, édesapjának ajánlotta rekordbeállító győzelmét, aki betegséggel küzd. A sportoló személyes és érzelmes pillanata nagy visszhangot váltott ki, megmutatva a sportolók emberi oldalát.",
+      "importance": 3
+    },
+    {
+      "title": "Cselgáncsbajnok indul a francia elnökválasztáson",
+      "summary": "Egy ismert cselgáncsbajnok meglepetésszerűen bejelentette indulását a francia elnökválasztáson, ezzel felkavarva a politikai vizeket. A sportolói háttérrel rendelkező jelölt belépése új dinamikát hozhat a kampányba.",
       "importance": 3
     }
   ]

@@ -1,106 +1,101 @@
 {
   "hungary": [
     {
-      "title": "Külügyminisztériumi vizsgálat orosz iratok ügyében",
-      "summary": "A Külügyminisztérium vizsgálatot indított állítólagos orosz kormányzati iratok miatt, melyeket Szijjártó Péternek küldtek, és a Tisza párt lejáratását célzó információkat tartalmaztak. Az ügy súlyos nemzetbiztonsági és politikai aggályokat vet fel.",
+      "title": "Így kerül vissza az államhoz a sztrádaüzemeltetés",
+      "summary": "A kormány úgy döntött, megszünteti a 23 ezer milliárd forintos sztrádakoncessziót, amely Mészáros Lőrinc érdekeltségeibe adta az autópályák üzemeltetését. Ezáltal az állam visszaveszi az irányítást a magyar autópályák felett.",
       "importance": 5
     },
     {
-      "title": "Milliárdos kormányzati költések a Századvégnél",
-      "summary": "Az Orbán-kormány 26 milliárd forintot költött a Századvégnél különféle kutatásokra, beleértve a Gondosóra programot 300 millióért és a fűrészipart 6 millióért. Az összegek és a kutatások aránytalansága kérdéseket vet fel az állami kiadások átláthatóságával kapcsolatban.",
+      "title": "Fellázadt a Homokhátság, a helyiek elállták a palagázos kocsik útját Pirtón",
+      "summary": "Pirtón a helyi civilek sikeresen akadályozták meg, hogy egy kanadai cég munkagépei szeizmológiai méréseket végezzenek palagáz-kutatás céljából. A tüntetők szerint a mérések veszélyeztetnék a Homokhátság vízellátását és környezetét.",
+      "importance": 4
+    },
+    {
+      "title": "Minisztériumi vizsgálat indult orosz iratok ügyében, amelyek a Tiszás jelöltek lejáratására szolgálhattak",
+      "summary": "A Külügyminisztérium belső vizsgálatot indított annak megállapítására, hogy orosz iratokat küldtek-e haza Szijjártó Péternek, amelyek a Tisza párt jelöltjeinek lejáratására voltak alkalmasak. Az ügy politikai botrányt kavart.",
       "importance": 5
     },
     {
-      "title": "Felállhat az Európai Ügyészség hivatala Magyarországon",
-      "summary": "A hírek szerint már a jövő év elején megkezdheti működését az Európai Ügyészség (EPPO) magyarországi hivatala. Ez a lépés jelentős előrelépést jelenthet az uniós forrásokkal kapcsolatos korrupciós ügyek kivizsgálásában Magyarországon.",
-      "importance": 5
-    },
-    {
-      "title": "Elégtelen béremelés az intenzív osztályos ápolóknak",
-      "summary": "A szakdolgozói kamara szerint az intenzív osztályokon dolgozó, magasan képzett ápolók méltánytalanul alacsony béremelést kaptak. Ez a helyzet tovább mélyítheti az egészségügyi dolgozók elvándorlását és a szakemberhiányt.",
+      "title": "2,2 millió nyugdíjas kap jövőre SZÉP-kártyát",
+      "summary": "Megjelent a kormányhatározat, amely szerint 2,2 millió nyugdíjas számíthat jövőre SZÉP-kártya juttatásra. Ez a lépés a nyugdíjasok anyagi helyzetének javítását célozza.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrán támadások orosz finomítók és híd ellen",
-      "summary": "Az ukrán erők ismét orosz finomítókat támadtak drónokkal, emellett egy híd is találatot kapott. A támadások az orosz infrastruktúrát és logisztikát célozzák az eszkalálódó konfliktusban.",
+      "title": "Az izraeli hadsereg ritka szárazföldi műveletet indított Gázában a sárga vonalon túl",
+      "summary": "Az izraeli erők behatoltak Gáza területére, ami a konfliktus újabb eszkalációját jelenti. A szárazföldi művelet célja a Hamász infrastruktúrájának felszámolása.",
       "importance": 5
     },
     {
-      "title": "Trump, Putyin és Hszi kulcsfontosságú tárgyalásai Kínában",
-      "summary": "Donald Trump kezet fogott Vlagyimir Putyinnal és Hszi Csin-ping kínai elnökkel a Kínában tartott történelmi jelentőségű megbeszélések előtt. A találkozó komoly geopolitikai következményekkel járhat.",
-      "importance": 5
+      "title": "Föld alatti háború zajlik egy régi gázvezetékben Ukrajnában és Oroszország között",
+      "summary": "Az orosz-ukrán háború új, szokatlan fronton folytatódik, ahol ukrán erők a föld alatti gázvezetékrendszerben harcolnak az oroszok ellen. Ez egyedülálló taktikát és kihívásokat jelent a konfliktusban.",
+      "importance": 4
     },
     {
-      "title": "Botrány a Deutsche Banknál: Epstein, orosz oligarchák és szélsőjobb pénzei",
-      "summary": "A Deutsche Bankot súlyos botrány rázza, miután kiderült, hogy 2019-ig üzleteltek Jeffrey Epsteinnel, 2022-ig orosz oligarchákkal, és még a populista szélsőjobb pénzeit is kezelték. Az eset súlyos etikai és jogi kérdéseket vet fel a bank működésével kapcsolatban.",
-      "importance": 5
+      "title": "Nyomozás indul Julio Iglesias ellen szexuális bűncselekmények gyanúja miatt",
+      "summary": "Két nő szexuális bántalmazással vádolja a 83 éves spanyol énekest, Julio Iglesiast, ami miatt bírósági eljárás és nyomozás indult. Az ügy nagy visszhangot váltott ki világszerte.",
+      "importance": 3
     },
     {
-      "title": "Kuvait iráni támadást vert vissza",
-      "summary": "Kuvait bejelentette, hogy két hónap után először vert vissza iráni támadást, miután az Egyesült Államok légi csapásokat hajtott végre egy szigeten. Ez az eset újabb jel az öböl-menti feszültség fokozódására.",
-      "importance": 5
+      "title": "A brit kormány kéri a Google-t, töröljék Russell Brand YouTube-csatornáját",
+      "summary": "A brit kormány felszólította a Google-t, hogy távolítsa el Russell Brand YouTube-csatornáját, miután a komikust szexuális bűncselekményekkel vádolták. Az ügy felveti a szólásszabadság és a platformok felelősségének kérdését.",
+      "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "A GTA VI a Metacritic szerint minden idők legjobb játéka",
-      "summary": "A Grand Theft Auto VI tesztjei beérkeztek, és a játék jelenleg holtversenyben a valaha volt legjobb értékelést kapta a Metacriticen. Ez hatalmas sikert jelent a játékiparnak és a Rockstar Gamesnek.",
+      "title": "Satya Nadella szerint az AI-ügynökök átalakítják a web gazdaságát",
+      "summary": "A Microsoft vezérigazgatója, Satya Nadella előrejelzése szerint a mesterséges intelligencia által vezérelt ügynökök alapjaiban változtatják meg az internet működését és gazdasági modelljét. Ez jelentős hatással lesz a digitális iparágra.",
       "importance": 5
     },
     {
-      "title": "Anthropic: Az emberiség kihalásának kockázata és a tőzsdei várakozás",
-      "summary": "Az Anthropic, egy vezető AI-cég, saját bevallása szerint potenciálisan kiirthatja az emberiséget, mégis hatalmas várakozás övezi a tőzsdén. Ez rávilágít az AI fejlesztésével kapcsolatos etikai dilemmákra és a befektetői optimizmusra.",
-      "importance": 5
+      "title": "Az Anthropic rekordnagyságú tőzsdei bevezetése megállíthatja-e az AI buborék kipukkanását?",
+      "summary": "Az Anthropic, egy vezető AI cég, a várakozások feletti áron, 83 dollárért vezeti be részvényeit a tőzsdére. A piaci szereplők abban bíznak, hogy ez a siker stabilizálja az AI szektorba fektetett bizalmat.",
+      "importance": 4
     },
     {
-      "title": "Az Nvidia kivonul Kínából Jensen Huang eltávolítása után",
-      "summary": "Az Nvidia a vezérigazgató, Jensen Huang eltávolítása után a jelentések szerint kivonul Kínából, ami jelentős változást jelent a globális chipiparban. Ez a lépés komoly következményekkel járhat mind az Nvidia, mind a kínai technológiai szektor számára.",
-      "importance": 5
+      "title": "Megjelentek a GTA VI első kritikus ítéletei: romantika, feszültség, függőség",
+      "summary": "A Grand Theft Auto VI kritikái szerint a játék új szintre emeli a romantikát és a feszültséget, miközben rendkívül addiktív. A megjelenés jelentős mérföldkő a játékiparban.",
+      "importance": 4
     },
     {
-      "title": "Az Amazon és a Google az Anthropic jelentős tulajdonosai az IPO után",
-      "summary": "Az Amazon és a Google együttesen az Anthropic AI-cég közel 30%-át birtokolja majd a vállalat tőzsdei bevezetése után. Ez a befektetés megerősíti a nagy tech cégek dominanciáját a mesterséges intelligencia piacán.",
-      "importance": 5
+      "title": "Strasbourgi bíróság tiltott el egy román ügyvédet, akit átvert a mesterséges intelligencia",
+      "summary": "Egy román ügyvéd elvesztette a joggyakorlási jogát, miután mesterséges intelligencia által generált, nem létező jogesetekre hivatkozott egy bírósági beadványban. Az eset rávilágít az AI jogi alkalmazásának veszélyeire.",
+      "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Egy „szuper” El Niño kilátásai jobb óceánfigyelést igényelnek",
-      "summary": "A szakértők egy potenciális „szuper” El Niño kialakulásától tartanak, ami fokozott óceánfigyelést tesz szükségessé az éghajlatváltozás hatásainak pontosabb előrejelzéséhez. Ez a jelenség súlyos globális időjárási zavarokat okozhat.",
+      "title": "Egy óriáscsillag nyeli el szomszédját – az első ilyen megfigyelés",
+      "summary": "Csillagászok először figyeltek meg egy jelenséget, ahol egy óriáscsillag egy kisebb csillagot nyel el, ami befelé tartó csillagként létezik benne. Ez új betekintést nyújt a csillagfejlődésbe.",
       "importance": 5
     },
     {
-      "title": "Az AI-viselhető eszközök kihasználhatják az emberek sebezhetőségét",
-      "summary": "Az AI-alapú viselhető eszközök képesek lehetnek az emberek legsebezhetőbb pillanatainak kihasználására, etikai aggodalmakat vetve fel az adatvédelem és a személyes autonómia tekintetében. Sürgősen foglalkozni kell a technológia morális hatásaival.",
+      "title": "Glükózzal működő implantátumok hozhatnak áttörést a cukorbetegség kezelésében",
+      "summary": "Kutatók glükózzal működő implantátumokat fejlesztettek, amelyek közelebb visznek a cukorbetegség kezelésére szolgáló eszközök valósággá válásához. Ez a technológia forradalmasíthatja a betegség menedzselését.",
       "importance": 5
     },
     {
-      "title": "Kudarccal zárult a fény- és hangterápia Alzheimer-kórban",
-      "summary": "Az Alzheimer-kór kezelésére reményteli fény- és hangterápia hosszú várakozás után kudarccal végződött egy klinikai vizsgálatban. Ez a visszalépés új irányok keresésére ösztönzi a kutatókat a betegség elleni küzdelemben.",
-      "importance": 5
+      "title": "Hogyan tehetők fenntarthatóbbá az AI adatközpontok?",
+      "summary": "A mesterséges intelligencia adatközpontjainak növekvő energiaigénye miatt a fenntarthatósági kérdések egyre sürgetőbbek. Kutatók új módszereket keresnek az ökológiai lábnyomuk csökkentésére.",
+      "importance": 4
     },
     {
-      "title": "Az AI adatközpontok fenntarthatóbbá tétele",
-      "summary": "Az AI-adatközpontok energiaigénye óriási, ezért kulcsfontosságúvá vált, hogy fenntarthatóbbá tegyük őket. Új technológiai és működési megoldásokra van szükség a környezeti lábnyom csökkentésére.",
+      "title": "Bemutatkoznak az „egovírusok”: meglepő mikrobák milliók bélrendszerében",
+      "summary": "Felfedeztek egy új vírustípust, az úgynevezett egovírusokat, amelyek emberi bélrendszerekben élnek és eddig ismeretlenek voltak. Ez a felfedezés új perspektívát nyit az emberi mikrobiom megértésében.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Szoboszlai Dominik díszpolgári címet kapott",
-      "summary": "Szoboszlai Dominik, a Liverpool és a magyar válogatott kapitánya díszpolgári címet kapott, elismerve ezzel kiemelkedő sportteljesítményét és a közösségért végzett munkáját. Ez a cím egy fiatal sportoló példamutató karrierjének fontos mérföldköve.",
-      "importance": 4
+      "title": "Tóth Balázs eltörte a kezét az északírek elleni meccsen, 6-8 hét kihagyás vár rá",
+      "summary": "A magyar válogatott kapus, Tóth Balázs kézsérülést szenvedett az északírek elleni mérkőzésen, ami miatt várhatóan 6-8 hétre kénytelen lesz kihagyni a játékot. Ez komoly érvágás a csapatnak.",
+      "importance": 3
     },
     {
-      "title": "Botrány: Az ausztrál krikettcsapat tudott a csalásról",
-      "summary": "Egy eltiltott játékos azt állítja, hogy az egész ausztrál krikettcsapat tudott a „smirglis” csalási botrányról. Ez az állítás új megvilágításba helyezi az egyik legnagyobb sportbotrányt.",
-      "importance": 4
-    },
-    {
-      "title": "Kötelező ivószünetek a következő focivébén",
-      "summary": "Valószínűleg a következő labdarúgó-világbajnokságon is bevezetik a kötelező ivószüneteket a játékosok egészségének védelmében, különösen a meleg éghajlatú helyszíneken. Ez hatással lesz a játék dinamikájára és a stratégiai döntésekre.",
+      "title": "A krikett „csiszolópapír-botránya”: ki volt ott, mit mondott ki?",
+      "summary": "A krikett világát megrázó, \"sandpaper-gate\" néven elhíresült botrány részletei kerülnek ismét napvilágra, felidézve a játékosok szerepét és nyilatkozatait. Az ügy továbbra is foglalkoztatja a sportközvéleményt.",
       "importance": 3
     }
   ]

@@ -1,112 +1,107 @@
 {
   "hungary": [
     {
-      "title": "Kiemelt bánásmód Orbán Áron cégeinek: Botrány a vietnámi vízumbiznisz körül",
-      "summary": "Szijjártóék kiemelt bánásmódot kértek a vietnámi konzuloktól Orbán Áron cégeinek, ami egy újabb fejezete a miniszterelnök testvérének üzleti tevékenységét övező vitáknak. Az ügy a \"vízumbiznisz\" gyanúját veti fel.",
+      "title": "Külügyminisztériumi vizsgálat orosz iratok ügyében",
+      "summary": "A Külügyminisztérium vizsgálatot indított állítólagos orosz kormányzati iratok miatt, melyeket Szijjártó Péternek küldtek, és a Tisza párt lejáratását célzó információkat tartalmaztak. Az ügy súlyos nemzetbiztonsági és politikai aggályokat vet fel.",
       "importance": 5
     },
     {
-      "title": "Fordulat a dunapataji halálesetekben: Gyilkosság gyanúja merült fel",
-      "summary": "Négy nő holttestét exhumálták Dunapatajon gyanús halálesetek miatt, és a nyomozás eddigi eredményei szerint egyiküket meggyilkolhatták. Az ügyben rendőrségi vizsgálat zajlik.",
-      "importance": 4
+      "title": "Milliárdos kormányzati költések a Századvégnél",
+      "summary": "Az Orbán-kormány 26 milliárd forintot költött a Századvégnél különféle kutatásokra, beleértve a Gondosóra programot 300 millióért és a fűrészipart 6 millióért. Az összegek és a kutatások aránytalansága kérdéseket vet fel az állami kiadások átláthatóságával kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Vezetői átrendeződések a közmédiánál és a TV2-nél",
-      "summary": "Bemutatták a közmédia vezetésére pályázó 14 jelöltet, miközben a TV2 Híradó főszerkesztőjét is leváltották. Ezek a változások jelentős átrendeződést jeleznek a hazai médiapiacon.",
-      "importance": 4
+      "title": "Felállhat az Európai Ügyészség hivatala Magyarországon",
+      "summary": "A hírek szerint már a jövő év elején megkezdheti működését az Európai Ügyészség (EPPO) magyarországi hivatala. Ez a lépés jelentős előrelépést jelenthet az uniós forrásokkal kapcsolatos korrupciós ügyek kivizsgálásában Magyarországon.",
+      "importance": 5
     },
     {
-      "title": "A Magyar Telekom nem emel árat az inflációval jövőre",
-      "summary": "A Magyar Telekom bejelentette, hogy jövőre nem emeli díjait az infláció mértékével, ami kedvező hír a fogyasztók számára. Ez egy jelentős lépés az inflációkövető díjkorrekciók elkerülésére.",
-      "importance": 3
+      "title": "Elégtelen béremelés az intenzív osztályos ápolóknak",
+      "summary": "A szakdolgozói kamara szerint az intenzív osztályokon dolgozó, magasan képzett ápolók méltánytalanul alacsony béremelést kaptak. Ez a helyzet tovább mélyítheti az egészségügyi dolgozók elvándorlását és a szakemberhiányt.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrán dróntámadás érte a Krími hidat",
-      "summary": "Zelenszkij elnök \"példátlan támadásként\" üdvözölte az ukrán erők akcióját, amely részben megrongálta Putyin prioritásának számító Krími hidat. Az incidens súlyos következményekkel járhat a háború kimenetelére nézve.",
+      "title": "Ukrán támadások orosz finomítók és híd ellen",
+      "summary": "Az ukrán erők ismét orosz finomítókat támadtak drónokkal, emellett egy híd is találatot kapott. A támadások az orosz infrastruktúrát és logisztikát célozzák az eszkalálódó konfliktusban.",
       "importance": 5
     },
     {
-      "title": "Orosz katonai szállítórepülőgép zuhant le Szibériában, 19 halottal",
-      "summary": "Egy orosz katonai szállítórepülőgép lángolva csapódott a földhöz Szibériában, aminek következtében 19 ember életét vesztette. A tragédia okait még vizsgálják.",
-      "importance": 4
+      "title": "Trump, Putyin és Hszi kulcsfontosságú tárgyalásai Kínában",
+      "summary": "Donald Trump kezet fogott Vlagyimir Putyinnal és Hszi Csin-ping kínai elnökkel a Kínában tartott történelmi jelentőségű megbeszélések előtt. A találkozó komoly geopolitikai következményekkel járhat.",
+      "importance": 5
     },
     {
-      "title": "Lavrov vádjai: Francia katonák harcolnak Ukrajnában",
-      "summary": "Szergej Lavrov orosz külügyminiszter azzal vádolja Franciaországot, hogy katonái részt vesznek a harcokban Ukrajnában. Ez a vád tovább élezi a nemzetközi feszültséget és a háború körüli retorikát.",
-      "importance": 4
+      "title": "Botrány a Deutsche Banknál: Epstein, orosz oligarchák és szélsőjobb pénzei",
+      "summary": "A Deutsche Bankot súlyos botrány rázza, miután kiderült, hogy 2019-ig üzleteltek Jeffrey Epsteinnel, 2022-ig orosz oligarchákkal, és még a populista szélsőjobb pénzeit is kezelték. Az eset súlyos etikai és jogi kérdéseket vet fel a bank működésével kapcsolatban.",
+      "importance": 5
     },
     {
-      "title": "Amerikai katonát tartóztattak le kémkedés gyanújával az Egyesült Királyságban",
-      "summary": "Az Egyesült Királyságban kémkedés gyanújával letartóztattak egy amerikai katonát, akit később amerikai katonai őrizetbe vettek. Az eset diplomáciai feszültséget okozhat az Egyesült Államok és az Egyesült Királyság között.",
-      "importance": 3
+      "title": "Kuvait iráni támadást vert vissza",
+      "summary": "Kuvait bejelentette, hogy két hónap után először vert vissza iráni támadást, miután az Egyesült Államok légi csapásokat hajtott végre egy szigeten. Ez az eset újabb jel az öböl-menti feszültség fokozódására.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Nvidia vezetői válság és kínai kivonulás Jensen Huang távozása után",
-      "summary": "Jensen Huang távozása után az Nvidia vezetése válságba került, és a vállalat a hírek szerint elhagyja Kínát, miközben az amerikai Értékpapír- és Tőzsdefelügyelet (SEC) is vizsgálatot indított. Ez az AI piac egyik kulcsszereplőjének jelentős átrendeződését jelzi.",
+      "title": "A GTA VI a Metacritic szerint minden idők legjobb játéka",
+      "summary": "A Grand Theft Auto VI tesztjei beérkeztek, és a játék jelenleg holtversenyben a valaha volt legjobb értékelést kapta a Metacriticen. Ez hatalmas sikert jelent a játékiparnak és a Rockstar Gamesnek.",
       "importance": 5
     },
     {
-      "title": "Országos Apple szolgáltatás-kiesés több platformon",
-      "summary": "Az Apple több kulcsfontosságú szolgáltatása, köztük az iCloud, az App Store és az Apple Music, országos leállást tapasztalt. Ez a széleskörű kimaradás jelentősen érintette a felhasználók millióit.",
-      "importance": 4
+      "title": "Anthropic: Az emberiség kihalásának kockázata és a tőzsdei várakozás",
+      "summary": "Az Anthropic, egy vezető AI-cég, saját bevallása szerint potenciálisan kiirthatja az emberiséget, mégis hatalmas várakozás övezi a tőzsdén. Ez rávilágít az AI fejlesztésével kapcsolatos etikai dilemmákra és a befektetői optimizmusra.",
+      "importance": 5
     },
     {
-      "title": "Az amerikai NSA szigorúan titkos kommunikációs hálózatának leállása",
-      "summary": "Leállt az amerikai Nemzetbiztonsági Ügynökség (NSA) szigorúan titkos kommunikációs hálózata. Ez a súlyos incidens komoly biztonsági aggályokat vet fel.",
-      "importance": 4
+      "title": "Az Nvidia kivonul Kínából Jensen Huang eltávolítása után",
+      "summary": "Az Nvidia a vezérigazgató, Jensen Huang eltávolítása után a jelentések szerint kivonul Kínából, ami jelentős változást jelent a globális chipiparban. Ez a lépés komoly következményekkel járhat mind az Nvidia, mind a kínai technológiai szektor számára.",
+      "importance": 5
     },
     {
-      "title": "Etikai aggályok az AI modellek katonai felhasználása körül",
-      "summary": "Kutatások szerint az AI modellek megtéveszthetők, hogy civileket katonai célpontként azonosítsanak, ha játéknak állítják be a feladatot. Ez súlyos etikai és biztonsági kockázatokat vet fel az önvezető fegyverrendszerekkel kapcsolatban.",
-      "importance": 4
+      "title": "Az Amazon és a Google az Anthropic jelentős tulajdonosai az IPO után",
+      "summary": "Az Amazon és a Google együttesen az Anthropic AI-cég közel 30%-át birtokolja majd a vállalat tőzsdei bevezetése után. Ez a befektetés megerősíti a nagy tech cégek dominanciáját a mesterséges intelligencia piacán.",
+      "importance": 5
     }
   ],
   "science": [
     {
-      "title": "Klímaválság: Cselekvési lehetőségek a bolygó megmentésére",
-      "summary": "A klímaválság kezelése sürgős fellépést igényel, és a tudósok négy fő cselekvési irányt javasolnak a bolygó állapotának javítására. Ezek a javaslatok a globális környezeti kihívásokra adnak választ.",
+      "title": "Egy „szuper” El Niño kilátásai jobb óceánfigyelést igényelnek",
+      "summary": "A szakértők egy potenciális „szuper” El Niño kialakulásától tartanak, ami fokozott óceánfigyelést tesz szükségessé az éghajlatváltozás hatásainak pontosabb előrejelzéséhez. Ez a jelenség súlyos globális időjárási zavarokat okozhat.",
       "importance": 5
     },
     {
-      "title": "Zöld lámpát kapott az EU-ban az áttétes hasnyálmirigyrák elleni gyógyszer",
-      "summary": "Az Európai Unióban engedélyezték egy új gyógyszert az áttétes hasnyálmirigyrák kezelésére, ami reményt ad a betegeknek. Ez a fejlesztés jelentős előrelépés a rákgyógyászatban.",
-      "importance": 4
+      "title": "Az AI-viselhető eszközök kihasználhatják az emberek sebezhetőségét",
+      "summary": "Az AI-alapú viselhető eszközök képesek lehetnek az emberek legsebezhetőbb pillanatainak kihasználására, etikai aggodalmakat vetve fel az adatvédelem és a személyes autonómia tekintetében. Sürgősen foglalkozni kell a technológia morális hatásaival.",
+      "importance": 5
     },
     {
-      "title": "A kanyaró visszatért az Egyesült Államokba 26 év után",
-      "summary": "Az Egyesült Államok 26 év után elveszítette kanyarómentes státuszát, ami aggodalmat kelt a tudósok és a közegészségügyi szakemberek körében. A betegség ismételt megjelenése felhívja a figyelmet az oltások fontosságára.",
-      "importance": 4
+      "title": "Kudarccal zárult a fény- és hangterápia Alzheimer-kórban",
+      "summary": "Az Alzheimer-kór kezelésére reményteli fény- és hangterápia hosszú várakozás után kudarccal végződött egy klinikai vizsgálatban. Ez a visszalépés új irányok keresésére ösztönzi a kutatókat a betegség elleni küzdelemben.",
+      "importance": 5
     },
     {
-      "title": "Az AI hordozható eszközök etikai kockázatai a magánéletre nézve",
-      "summary": "Az AI-t használó hordozható eszközök kihasználhatják az emberek legsebezhetőbb pillanatait, ami komoly etikai kérdéseket vet fel az adatvédelem és a magánélet szempontjából. A technológia fejlődésével a szabályozás szükségessége is növekszik.",
-      "importance": 3
+      "title": "Az AI adatközpontok fenntarthatóbbá tétele",
+      "summary": "Az AI-adatközpontok energiaigénye óriási, ezért kulcsfontosságúvá vált, hogy fenntarthatóbbá tegyük őket. Új technológiai és működési megoldásokra van szükség a környezeti lábnyom csökkentésére.",
+      "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "A magyar válogatott elszalasztotta a csoportelsőséget, osztályozó vár rá",
-      "summary": "A magyar labdarúgó-válogatott nem tudta legyőzni az északír csapatot, ezzel kiengedte a kezéből a csoportelsőséget és az elitbe jutást. A csapatra most osztályozó vár a feljutásért.",
-      "importance": 5
-    },
-    {
-      "title": "Wayne Rooney öngyilkossági gondolatai a Manchester Unitednél",
-      "summary": "Wayne Rooney elmondta, hogy a Manchester Unitednél töltött idő alatt öngyilkossági gondolatai voltak, ami rávilágít a sportolók mentális egészségének fontosságára. Nyilatkozata felhívja a figyelmet a problémára a profi sport világában.",
+      "title": "Szoboszlai Dominik díszpolgári címet kapott",
+      "summary": "Szoboszlai Dominik, a Liverpool és a magyar válogatott kapitánya díszpolgári címet kapott, elismerve ezzel kiemelkedő sportteljesítményét és a közösségért végzett munkáját. Ez a cím egy fiatal sportoló példamutató karrierjének fontos mérföldköve.",
       "importance": 4
     },
     {
-      "title": "Leváltották a Kincsem Park ügyvezető igazgatóját",
-      "summary": "Menesztették a Kincsem Park ügyvezető igazgatóját, ami vezetői változást jelez a hazai lóversenysportban. A döntés okairól egyelőre keveset tudni.",
-      "importance": 3
+      "title": "Botrány: Az ausztrál krikettcsapat tudott a csalásról",
+      "summary": "Egy eltiltott játékos azt állítja, hogy az egész ausztrál krikettcsapat tudott a „smirglis” csalási botrányról. Ez az állítás új megvilágításba helyezi az egyik legnagyobb sportbotrányt.",
+      "importance": 4
     },
     {
-      "title": "Méregdrága versenyautót loptak el, váltságdíjat követelve érte",
-      "summary": "Egy trélerestül elraboltak egy rendkívül drága versenyautót, majd videóhívásban követeltek váltságdíjat érte. Az eset rávilágít a sporteszközökkel kapcsolatos bűnözésre és a biztonsági kockázatokra.",
-      "importance": 2
+      "title": "Kötelező ivószünetek a következő focivébén",
+      "summary": "Valószínűleg a következő labdarúgó-világbajnokságon is bevezetik a kötelező ivószüneteket a játékosok egészségének védelmében, különösen a meleg éghajlatú helyszíneken. Ez hatással lesz a játék dinamikájára és a stratégiai döntésekre.",
+      "importance": 3
     }
   ]
 }

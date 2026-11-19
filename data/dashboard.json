@@ -1,91 +1,97 @@
 {
   "hungary": [
     {
-      "title": "370 forint fölé csúszott fel az euró ára",
-      "summary": "Az euró árfolyama átlépte a 370 forintos szintet, jelezve a hazai valuta gyengülését a nemzetközi piacon. Ez a mozgás hatással lehet a behozott termékek árára és az inflációra.",
-      "importance": 4
-    },
-    {
-      "title": "Hét NAV-os vezetőt menesztettek 24 órán belül",
-      "summary": "A Nemzeti Adó- és Vámhivatalnál rövid időn belül hét magas rangú vezetőt távolítottak el posztjáról. Az eset okai egyelőre nem nyilvánosak, de súlyos szervezeti átrendeződésre utal.",
+      "title": "Megvan az alku: 7,5 százalékkal nő a minimálbér",
+      "summary": "Jövőre a minimálbér 347 ezer, a garantált bérminimum 396 ezer forint lesz. Ez az egyezség jelentős hatással lesz a munkavállalók jövedelmére és a gazdaságra.",
       "importance": 5
     },
     {
-      "title": "Közös megegyezéssel szüntetik meg Mészárosék autópálya-koncesszióját",
-      "summary": "Vitézy Dávid elmagyarázta a háttérben meghúzódó okokat Mészárosék 35 éves autópálya-koncessziójának közös megegyezéssel történő megszüntetéséről. A lépés jelentős változást hozhat a hazai infrastruktúra-fejlesztésekben.",
+      "title": "Hiába küldte vissza az államfő, a Tisza nem változtatna az új vagyonellenőrzési törvényen",
+      "summary": "A Tisza Párt elutasítja az államfői javaslatot a politikusok vagyonosodási vizsgálatáról szóló törvény módosítására. Ez a döntés komoly politikai feszültségeket okozhat az átláthatóság kérdésében.",
+      "importance": 5
+    },
+    {
+      "title": "Diszkrét és precíz személyi sofőrt keres a Matolcsy Ádámhoz köthető dubaji cég",
+      "summary": "Egy Matolcsy Ádámhoz köthető dubaji cég online hirdetésben keres személyi sofőrt, ami kérdéseket vet fel a cég tevékenységével és a tulajdonosi háttérrel kapcsolatban. Az ügy a hazai médiában is nagy visszhangot váltott ki.",
       "importance": 4
     },
     {
-      "title": "Jóváhagyták Magyarország 2000 milliárd forintos EU hitelkérelmét",
-      "summary": "Az Európai Unió rábólintott a 2000 milliárd forintos (5,4 milliárd eurós) magyar védelmi hitelkérelemre. Ebből az összegből útfejlesztésekre is juthat, ami lökést adhat a hazai gazdaságnak.",
-      "importance": 5
+      "title": "Gödörben a forint, a választások óta nem volt ilyen drága az euró",
+      "summary": "A forint árfolyama jelentősen gyengült az euróval szemben a választások óta, ami aggodalmakat kelt a gazdasági stabilitással kapcsolatban. A nemzeti valuta gyengülése kihatással van az importra és a lakosság vásárlóerejére.",
+      "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Hágában kimondták: Mianmar népirtást követett el a rohingya kisebbség ellen",
-      "summary": "A Hágai Nemzetközi Bíróság hivatalosan is kimondta, hogy Mianmar népirtást hajtott végre a rohingya muszlim kisebbség ellen. Ez a döntés nemzetközi fellépéshez vezethet.",
+      "title": "Zelenszkij: Európa részt vesz majd az Oroszországgal folytatott tárgyalásokon",
+      "summary": "Az ukrán elnök kijelentette, hogy Európa kulcsszerepet fog játszani az Oroszországgal folytatandó jövőbeli béketárgyalásokon. Ezzel párhuzamosan Lengyelország Magyarországot is képviseli majd ezeken a megbeszéléseken.",
       "importance": 5
     },
     {
-      "title": "„Isten óvjon minket az ilyen barátoktól” – reakciók Hszi, Trump és Putyin találkozójára",
-      "summary": "A nemzetközi közvélemény vegyesen reagált Hszi Csin-ping, Donald Trump és Vlagyimir Putyin találkozójára, egyesek aggodalmukat fejezték ki a globális erőviszonyokra gyakorolt hatás miatt. A találkozó a geopolitikai tájképet formálhatja.",
+      "title": "Mindenki megkapta a történelmi fotóit, de látszik, azon túl kinek jött jól Trump, Hszi és Putyin találkozója",
+      "summary": "A három vezető találkozója nagy médiavisszhangot kapott, de a konkrét eredmények helyett inkább a geopolitikai erőviszonyok és a résztvevők számára rejlő előnyök kerültek fókuszba. Az elemzők szerint a csúcstalálkozó elsősorban a látványról szólt, kevesebb konkrétummal.",
       "importance": 5
     },
     {
-      "title": "Kijevi holland nagykövetség rongálódott meg orosz dróntámadásban",
-      "summary": "Egy orosz dróntámadásban megrongálódott a kijevi holland nagykövetség épülete. Az incidens tovább élezi a diplomáciai feszültségeket és rávilágít a konfliktus civilekre gyakorolt hatására.",
+      "title": "Már Kijev belvárosában tombol az orosz drónterror: helyszíni tudósítás a csütörtöki becsapódás mellől",
+      "summary": "Az orosz erők folytatják drónos támadásaikat Kijev ellen, a főváros belvárosát is elérve. Az incidensek jelentős károkat okoznak és veszélyeztetik a civilek életét, rongálva többek között az osztrák és holland nagykövetséget is.",
       "importance": 4
     },
     {
-      "title": "Rábólintottak Európa rekorder bankfúziójára",
-      "summary": "Az európai hatóságok jóváhagyták a kontinens egyik legnagyobb banki fúzióját, amely az EU gazdaságára is pozitív hatással lehet. Ez a lépés jelentős átalakulást hozhat a bankszektorban.",
+      "title": "Bowen: A mianmari genocídium ítélete történelmi jelentőségű, és messzemenő következményekkel járhat",
+      "summary": "A hágai bíróság ítélete a mianmari genocídium ügyében precedenst teremthet a nemzetközi jogban. A döntés hosszú távú hatással lehet a felelősségre vonhatóságra és az emberi jogok védelmére világszerte.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Nadella szerint sok kritikus infrastruktúra nem foltozható az AI-támadások ellen",
-      "summary": "Satya Nadella, a Microsoft vezérigazgatója figyelmeztetett, hogy a mesterséges intelligencia által generált kibertámadásokkal szemben sok kritikus infrastruktúra védtelen. Ez sürgős cselekvésre ösztönöz a kiberbiztonság terén.",
+      "title": "Az egész MI-ipar erre várt: a Claude fejlesztője a SpaceX-et is lepipálta a tőzsdén",
+      "summary": "Az Anthropic, a Claude AI fejlesztője, rendkívül sikeres tőzsdei bemutatkozást produkált, a világ egyik legértékesebb nyilvános vállalatává válva. Az IPO óriási összeggel, akár 156 milliárd dollárral támogathat jótékonysági célokat is, és új szintre emeli az MI finanszírozását.",
       "importance": 5
     },
     {
-      "title": "Az Egyesült Királyság kormánya kénytelen nyilvánosságra hozni titkos Apple hátsókapu-parancsot",
-      "summary": "Az Egyesült Királyság kormánya bírósági nyomásra kénytelen volt felfedni egy titkos parancsot, amely az Apple termékekhez való hozzáférést tette volna lehetővé. Az ügy komoly aggodalmakat vet fel a magánélet védelmével és a kormányzati megfigyeléssel kapcsolatban.",
-      "importance": 4
+      "title": "A Meta AI ügynöke, a Muse, összekeveri a beszélgetéseket és privát adatokat tehet közzé",
+      "summary": "Egy jelentés szerint a Meta új mesterséges intelligencia ügynöke, a Muse, súlyos adatvédelmi problémákkal küzd, mivel összekeverheti a felhasználói beszélgetéseket. Ez komoly aggodalmakat vet fel a személyes adatok biztonsága és az MI etikus használata miatt.",
+      "importance": 5
     },
     {
-      "title": "Bezárja a Microsoft az ingyenes szolgáltatást",
-      "summary": "A Microsoft bejelentette, hogy bezár egy sokak által használt ingyenes szolgáltatást, ami felhasználók millióit érintheti. A változás okai és a helyettesítő megoldások részletei még nem teljesen tisztázottak.",
-      "importance": 4
+      "title": "A brit kormány kénytelen volt felfedni egy titkos Apple hátsó kapura vonatkozó utasítást",
+      "summary": "A brit kormányt arra kényszerítették, hogy nyilvánosságra hozza az Apple-nek adott titkos utasítást egy hátsó kapu beépítésére. Ez az eset komoly vitákat vált ki a magánélet védelme és a nemzetbiztonság egyensúlyáról a digitális korban.",
+      "importance": 5
     },
     {
-      "title": "Satya Nadella szerint az AI-ügynökök átalakítják a web gazdaságát",
-      "summary": "A Microsoft vezérigazgatója, Satya Nadella előrejelzése szerint a mesterséges intelligencia alapú ügynökök alapjaiban rajzolják majd át a web gazdasági modelljét. Ez a jövőkép jelentős hatással lehet az online üzletre és a felhasználói interakciókra.",
+      "title": "A Google Gemini képes lesz használni a Mac rendszeredet",
+      "summary": "A Google mesterséges intelligencia rendszere, a Gemini, új funkciót kap, amivel közvetlenül integrálódhat a Mac operációs rendszerbe. Ez jelentősen kibővíti az AI lehetőségeit a személyes számítógépes feladatok automatizálásában és a felhasználói interakciókban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Egyre intenzívebb trópusi ciklonok érik el csúcspontjukat a legrosszabbkor",
-      "summary": "Egy kutatás szerint a trópusi ciklonok egyre gyakrabban érik el maximális erejüket a legkedvezőtlenebb időpontokban, váratlan pusztítást okozva. Ez a jelenség a klímaváltozás hatásait tükrözi és komoly kihívást jelent a katasztrófavédelem számára.",
+      "title": "Mi a közös a különböző rákbetegségekben?",
+      "summary": "Kutatók a különböző ráktípusok közös vonásait vizsgálják, ami új terápiás megközelítésekhez vezethet. A METTL1 farmakológiai gátlása ígéretes terápiás lehetőségnek mutatkozott szilárd és vérrákok ellen, jelezve a közös mechanizmusok jelentőségét.",
       "importance": 5
     },
     {
-      "title": "Az idősek jobb memóriával rendelkeznek, mint szüleik generációja",
-      "summary": "Meglepő kutatási eredmények szerint a mai idősebb generáció memóriája jobb állapotban van, mint szüleiké volt azonos korban. Ez a tendencia új megvilágításba helyezheti az öregedési folyamatokat és az egészségügyi fejlesztéseket.",
-      "importance": 4
+      "title": "Több trópusi ciklon éri el csúcserősségét a lehető legrosszabbkor",
+      "summary": "A klímaváltozás hatására egyre több trópusi ciklon éri el maximális intenzitását a legveszélyesebb időszakokban, súlyosabb károkat és katasztrófákat okozva. Ez rávilágít az éghajlatváltozás sürgető problémájára és a felkészülési stratégiák fontosságára.",
+      "importance": 5
     },
     {
       "title": "Először figyeltek meg egy óriáscsillagot, amint elnyeli szomszédját",
-      "summary": "Csillagászoknak első alkalommal sikerült megfigyelniük egy óriáscsillagot, amint bekebelez egy közeli csillagot. Ez a ritka égi esemény új betekintést nyújt a csillagok evolúciójába és kölcsönhatásaiba.",
+      "summary": "Csillagászok először dokumentálták egy óriáscsillag és egy szomszédos csillag összeolvadását. Ez a ritka égi jelenség értékes betekintést nyújt a csillagfejlődés folyamataiba és az extrém kozmikus események mechanizmusába.",
       "importance": 5
     },
     {
-      "title": "Hogyan tehetők fenntarthatóbbá az AI adatközpontok?",
-      "summary": "A tudományos közösség aktívan vizsgálja, hogyan lehetne környezetbarátabbá tenni a mesterséges intelligencia adatközpontjait, amelyek energiafogyasztása folyamatosan növekszik. A fenntartható megoldások kulcsfontosságúak az AI jövőjéhez.",
+      "title": "Az Anthropic, az MI-óriás, négy módon kívánja forradalmasítani a tudományt",
+      "summary": "Az Anthropic, a Claude AI fejlesztője, ambiciózus terveket dédelget az MI tudományos alkalmazásával kapcsolatban. A vállalat célja, hogy mesterséges intelligenciával gyorsítsa fel a kutatást, új felfedezéseket tegyen lehetővé, és megoldást találjon komplex tudományos problémákra.",
       "importance": 4
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "title": "Felülvizsgálja az MVM a szponzorációs szerződését a Fradival",
+      "summary": "Az MVM energiavállalat felülvizsgálja a Ferencvárossal (Fradi) kötött szponzorációs szerződését. Ez a döntés jelentős hatással lehet a klub gazdasági helyzetére és hosszú távú működésére, befolyásolva a magyar sportfinanszírozást.",
+      "importance": 4
+    }
+  ]
 }

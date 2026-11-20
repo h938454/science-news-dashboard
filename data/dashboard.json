@@ -1,112 +1,97 @@
 {
   "hungary": [
     {
-      "title": "Ötszázmilliárdos turizmusfejlesztésből lett NER-es vagyon",
-      "summary": "A Kisfaludy-program keretében ötszázmilliárd forintos turizmusfejlesztésre szánt pénz jelentős része a NER-hez közel álló személyekhez került. Ez az eset komoly korrupciós vádakat vet fel, és a közpénzek elosztásának problémáit tárja fel Magyarországon.",
+      "title": "Részlegesen átengedték a kormány kifizetési kérelmét a 3700 milliárdos helyreállítási alapból",
+      "summary": "A magyar kormány 127 célból 126-ot teljesített, aminek köszönhetően részlegesen hozzáférhetett a 3700 milliárd forintos uniós helyreállítási alap egy részéhez. Ez a lépés jelentős előrelépést jelent az uniós források felszabadításában.",
       "importance": 5
     },
     {
-      "title": "A minimálbér és a garantált bérminimum jövőre",
-      "summary": "Jövőre a minimálbér 347 ezer, a garantált bérminimum pedig 396 ezer forint lesz Magyarországon, ami jelentős változást hoz a munkavállalók jövedelmében. Ez a döntés közvetlen hatással van több százezer ember megélhetésére és a gazdaságra.",
-      "importance": 5
-    },
-    {
-      "title": "Hiába küldte vissza az államfő, a Tisza Párt nem változtatna az új vagyonellenőrzési törvényen",
-      "summary": "A Tisza Párt nem változtatna az új vagyonellenőrzési törvényen, annak ellenére, hogy az államfő visszaküldte azt. Ez a lépés rávilágít a politikai akaraterőre és a jogszabályalkotás körüli feszültségekre a korrupcióellenes intézkedésekkel kapcsolatban.",
+      "title": "Toborzóirodát nyitott a BYD Szegeden, hatszáz embert kéne összeszednie",
+      "summary": "A kínai elektromosautó-gyártó BYD toborzóirodát nyitott Szegeden, megkezdve a hatszáz főnyi munkaerő felkutatását a készülő üzem számára. A beruházás jelentős munkahelyteremtéssel jár a régióban.",
       "importance": 4
     },
     {
-      "title": "Őrült magas áramárak sújtják a magyar kkv-kat",
-      "summary": "A magas áramárak súlyos terhet rónak a magyar kis- és középvállalkozásokra, ami különösen nehéz helyzetet teremt számukra a jelenlegi gazdasági környezetben. Ez veszélyezteti működésüket és versenyképességüket.",
+      "title": "Mészárosék konzorciuma reagált arra, hogy a kormány megszünteti a 35 éves autópálya-koncessziót",
+      "summary": "A kormány váratlanul felmondta a Mészáros Lőrinc érdekeltségébe tartozó cégek konzorciuma által birtokolt 35 éves autópálya-koncessziót. A konzorcium nyilatkozatban reagált a döntésre, jelezve annak potenciális jogi és pénzügyi következményeit.",
+      "importance": 4
+    },
+    {
+      "title": "Havi egymillió forintért bérelnek autót Mészáros Lőrinc cégétől az agrárkutató intézet vezetőjének",
+      "summary": "Az agrárkutató intézet vezetőjének havi egymillió forintért bérelnek egy luxusautót Mészáros Lőrinc cégétől. Az ügy komoly vitát váltott ki a közpénzek átlátható felhasználásával kapcsolatban.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Zelenszkij: Európa részt vesz majd az Oroszországgal folytatott tárgyalásokon",
-      "summary": "Volodimir Zelenszkij ukrán elnök kijelentette, hogy Európa részt vesz az Oroszországgal folytatott jövőbeli tárgyalásokon a háború befejezéséről. Ez a nyilatkozat a békefolyamatokról és a diplomáciai erőfeszítésekről szóló várakozásokat erősíti.",
+      "title": "Donald Tusk: Biztos, hogy orosz repülő objektumok sértették meg a lengyel légteret",
+      "summary": "Donald Tusk lengyel miniszterelnök megerősítette, hogy orosz repülő objektumok sértették meg Lengyelország légterét, ami azonnali diplomáciai és biztonsági reakciót váltott ki. Az incidens súlyos aggodalmakat keltett a regionális biztonság miatt a háborús helyzetben.",
       "importance": 5
     },
     {
-      "title": "Mianmari népirtás: történelmi ítélet a távoli következményekkel",
-      "summary": "A mianmari népirtás ügyében hozott ítélet történelmi jelentőségű lehet, messzemenő következményekkel az emberi jogokra és a nemzetközi igazságszolgáltatásra. Ez az ítélet reményt ad az áldozatoknak és a felelősségre vonásnak.",
-      "importance": 5
-    },
-    {
-      "title": "Házkutatást tartottak Marine Le Pen pártjánál titkos nyomozati információk miatt",
-      "summary": "Házkutatást tartottak Marine Le Pen pártjának irodáiban, mert feltételezések szerint törvénytelenül jutottak titkos nyomozati információkhoz. Az ügy politikai botrányt okoz Franciaországban, és a párt tisztességét kérdőjelezi meg.",
+      "title": "Észtország hat hónapra lezárja a közös határát Oroszországgal",
+      "summary": "Észtország bejelentette, hogy hat hónapra lezárja az összes közúti határátkelőjét Oroszországgal, a növekvő illegális migrációs nyomásra hivatkozva. A lépés a két ország közötti feszültségek további eszkalálódását jelzi.",
       "importance": 4
     },
     {
-      "title": "Nagy-Britannia támadó gyorsnaszádokat gyárt az ukrán haditengerészetnek",
-      "summary": "Nagy-Britannia támadó gyorsnaszádokat gyárt az ukrán haditengerészet számára, ami jelentősen növelheti Ukrajna tengeri védelmi képességeit. Ez a katonai segély a nyugati támogatás folytatását jelzi az orosz agresszióval szemben.",
+      "title": "Moszkva Kijev átkelőit vette célba, miután Ukrajna megtámadta a krími hidat",
+      "summary": "Oroszország légicsapásokkal válaszolt a krími híd elleni ukrán támadásra, Kijev létfontosságú átkelőit célozva. Ez a fejlemény a konfliktus további eszkalálódására és a polgári infrastruktúra elleni támadások fokozódására utal.",
       "importance": 4
+    },
+    {
+      "title": "Texasban kivégezték a magyar származású gyémántkereskedő gyilkosát",
+      "summary": "Texasban végrehajtották az ítéletet Szűcs „Johnny” János, magyar származású gyémántkereskedő gyilkosán. Az eset a nemzetközi sajtó figyelmét is felkeltette a magyar vonatkozás miatt.",
+      "importance": 3
     }
   ],
   "technology": [
     {
-      "title": "Az Anthropic AI cég rekordokat döntő IPO-ja",
-      "summary": "Az Anthropic AI cég rekordokat döntő IPO-ján a hét alapító közel 2 milliárd dollárt kaszált, a részvények pedig jelentősen az IPO ár felett nyitottak a Nasdaqon. Ez az esemény az AI-szektor hatalmas pénzügyi lendületét és a technológia tudományos potenciálját is jelzi.",
-      "importance": 5
+      "title": "Az Apple saját AI ügynököt fejleszthet, ami irányítja a Mac-et",
+      "summary": "Az Apple a hírek szerint egy saját mesterséges intelligencia ügynökön dolgozik, amely képes lesz a Mac-eszközök teljes körű irányítására. Ez a fejlesztés jelentősen átalakíthatja a felhasználói élményt és az AI-asszisztensek piacát.",
+      "importance": 4
     },
     {
-      "title": "Az Apple saját AI ügynököt fejleszthet Mac rendszerekhez",
-      "summary": "Az Apple állítólag saját mesterséges intelligencia ügynököt fejleszt, amely képes lesz a Mac rendszereket futtatni és kezelni. Ez a fejlesztés az Apple AI stratégiájának kulcsfontosságú eleme lehet, és megváltoztathatja a felhasználói élményt.",
-      "importance": 5
+      "title": "A Google Gemini képes lesz használni a Mac-et a felhasználó helyett",
+      "summary": "A Google Gemini mesterséges intelligencia új funkcióval bővül, amely lehetővé teszi, hogy interakcióba lépjen a Mac operációs rendszerével és feladatokat hajtson végre a felhasználó nevében. Ezzel az AI-asszisztensek képességei új szintre emelkednek.",
+      "importance": 4
     },
     {
-      "title": "Az AI felgyorsítja a kibertámadásokat – lépést tudnak tartani a szakemberek?",
-      "summary": "A mesterséges intelligencia felgyorsítja a kibertámadásokat, ami komoly kihívás elé állítja a számítógépes szakembereket a védelemben. A kérdés, hogy a szakemberek képesek lesznek-e lépést tartani az AI által generált fenyegetésekkel.",
-      "importance": 5
+      "title": "Elon Musk szerint a SpaceX-nek van terve a mobiltelefon-holtterek megszüntetésére",
+      "summary": "Elon Musk bejelentette, hogy a SpaceX a Starlink műholdhálózat segítségével tervezi megszüntetni a mobiltelefon-holttereket világszerte. Ez a fejlesztés jelentősen bővítheti a globális mobilhálózati lefedettséget, különösen a távoli területeken.",
+      "importance": 4
     },
     {
-      "title": "Elon Musk szerint a SpaceX megszünteti a mobiltelefon holt zónákat",
-      "summary": "Elon Musk bejelentette, hogy a SpaceX tervei szerint megszünteti a mobiltelefon holt zónákat a Starlink műholdhálózat segítségével. Ez a fejlesztés globális lefedettséget biztosíthat és forradalmasíthatja a telekommunikációt.",
+      "title": "Kaliforniai főügyész idézte az Nvidiát Huang kínai kapcsolatai miatt",
+      "summary": "Kalifornia állam főügyésze idézést adott ki az Nvidiának, Jensen Huang vezérigazgató kínai üzleti kapcsolataival kapcsolatos aggodalmak miatt. Az ügy politikai és kereskedelmi feszültségeket gerjeszt a globális chipiparban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Hatalmas remény a hasnyálmirigyrák elleni gyógyszerkísérletben",
-      "summary": "Hatalmas reményt kelt egy hasnyálmirigyrák elleni gyógyszerkísérlet, amely során tumorok tűntek el. Ez az áttörés új utakat nyithat a rák kezelésében, és a betegek számára gyógyulást hozhat.",
+      "title": "Hatalmas remény egy hasnyálmirigyrák elleni tabletta iránt, miután a daganatok eltűntek a kísérletben",
+      "summary": "Egy új hasnyálmirigyrák elleni tabletta ígéretes eredményeket mutatott egy klinikai kísérlet során, ahol a daganatok eltűnését tapasztalták. Ez a felfedezés hatalmas reményt adhat a nehezen kezelhető betegségben szenvedőknek.",
       "importance": 5
     },
     {
-      "title": "Egyre pusztítóbb trópusi ciklonok érik el csúcspontjukat a partok előtt",
-      "summary": "Egyre több trópusi ciklon éri el csúcspontját a legrosszabbkor, azaz közvetlenül a part menti területek előtt, ami pusztítóbb hatásokhoz vezet. Ez a jelenség az éghajlatváltozás súlyosbodását és az extrém időjárási események kockázatát mutatja.",
+      "title": "A titokzatos Merkúr hamarosan látogatót kap egy űrszonda nyolcéves utazása után",
+      "summary": "Egy űrszonda nyolcéves, epikus utazás után hamarosan megérkezik a Merkúrhoz, hogy részletesebben tanulmányozza a Naprendszer legbelső bolygóját. A küldetés célja, hogy új ismereteket szerezzünk a Merkúr geológiai és mágneses jellemzőiről.",
       "importance": 4
     },
     {
-      "title": "Először figyeltek meg egy óriáscsillagot, amint bekebelez egy szomszédosat",
-      "summary": "Először figyeltek meg egy óriáscsillagot, amint bekebelez egy szomszédos csillagot, ami ritka és látványos kozmikus esemény. Ez a megfigyelés új adatokkal szolgál a csillagok fejlődéséről és interakcióiról.",
+      "title": "Több trópusi ciklon éri el csúcserősségét a legrosszabbkor",
+      "summary": "A kutatások szerint a trópusi ciklonok egyre gyakrabban érik el maximális erejüket a legkedvezőtlenebb időpontban, ami nagyobb pusztítást okoz a part menti területeken. Ez a tendencia rávilágít a klímaváltozás hatásaira és a felkészülési stratégiák fontosságára.",
       "importance": 4
     },
     {
-      "title": "Az egyetemisták a COVID-19 legnagyobb terjesztői",
-      "summary": "Egy tanulmány szerint az egyetemisták a COVID-19 legnagyobb terjesztői, ami jelentős közegészségügyi kockázatot jelent a járványok idején. Ez a felfedezés segíthet a célzott megelőző intézkedések kidolgozásában.",
-      "importance": 4
+      "title": "Az idős korba lépők memóriája ma jobb, mint szüleiké volt",
+      "summary": "Egy új tanulmány kimutatta, hogy a jelenlegi generációk, akik az idős korba lépnek, jobb memóriával rendelkeznek, mint szüleik tették ugyanebben a korban. Ez a jelenség az egészségügyi ellátás, az oktatás és az életmód javulásával hozható összefüggésbe.",
+      "importance": 3
     }
   ],
   "sports": [
     {
-      "title": "Felülvizsgálja az MVM a szponzorációs szerződését a Fradival",
-      "summary": "Az MVM energiavállalat felülvizsgálja szponzorációs szerződését a Ferencvárosi Torna Clubbal, ami jelentős hatással lehet a sportegyesület gazdasági helyzetére. A döntés hátterében valószínűleg gazdasági megfontolások állnak.",
-      "importance": 3
-    },
-    {
-      "title": "Az MTK szurkolói Deutsch ellen fordultak",
-      "summary": "Az MTK törzsszurkolói nyíltan Deutsch Tamás ellen fordultak egy kifogásolható posztja miatt, jelezve a politikai botrány sportközegre gyakorolt hatását. Az eset a közszereplők felelősségét és a szurkolói közösség morális elvárásait feszegeti.",
-      "importance": 3
-    },
-    {
-      "title": "A GTA VI rekordokat döntött: 2,3 milliárd dollár feletti bevétel",
-      "summary": "A GTA VI videojáték rekordokat döntött meg, becslések szerint a bevételei meghaladták a 2,3 milliárd dollárt. Ez a teljesítmény a játékipar egyik legnagyobb sikerét jelzi, és az iparág erejét mutatja, némi átfedéssel az e-sporttal.",
-      "importance": 2
-    },
-    {
-      "title": "Félmillió kilométer után is gyári fékbetétekkel ment műszakira egy Tesla",
-      "summary": "Egy Tesla elektromos autó félmillió kilométer után is a gyári fékbetétekkel ment műszaki vizsgára, ami kiemelkedő tartósságot és a regeneratív fékezés hatékonyságát mutatja. Ez a hír aláhúzza az elektromos járművek karbantartási előnyeit, melyek a járműteljesítmény és a hosszú távú megbízhatóság szempontjából relevánsak lehetnek a motorsport vagy extrém vezetés iránt érdeklődők számára.",
-      "importance": 1
+      "title": "A szerbekkel játszik a magyar válogatott, a tét, hogy bejutunk-e a Nemzetek Ligája élvonalába",
+      "summary": "A magyar labdarúgó-válogatott kulcsfontosságú mérkőzést játszik Szerbia ellen a Nemzetek Ligájában. A találkozó tétje nem kevesebb, mint az élvonalba való feljutás, ami jelentős siker lenne a magyar futball számára.",
+      "importance": 5
     }
   ]
 }

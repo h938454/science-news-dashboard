@@ -1,111 +1,111 @@
 {
   "hungary": [
     {
-      "title": "Bruttó 200 ezer forintos különbségek a fizetésekben, összeomlás közeli helyzetet hozna, ha ennyi ápoló hagyná ott a baleseti központot",
-      "summary": "Jelentős bérkülönbségek mutatkoznak az egészségügyben, ami kritikus helyzetet teremthet a baleseti központokban. Az ápolók tömeges távozása összeomlással fenyegetné a rendszert.",
+      "title": "Pakson két napra leáll a távfűtés, és ezekben a lakásokban melegvíz sem lesz",
+      "summary": "A Paksi Atomerőmű karbantartási munkálatai miatt két napra felfüggesztik a távhőszolgáltatást a városban. Ez érinti a fűtést és a melegvízellátást több ezer lakásban.",
       "importance": 5
     },
     {
-      "title": "Zsiday Viktor: Senki ne gondolja, hogy ezeket az adósságokat vissza lehet fizetni",
-      "summary": "Zsiday Viktor közgazdász szerint az ország adósságai már olyan mértékűek, hogy visszafizetésük gyakorlatilag lehetetlen. Ez komoly gazdasági kihívások elé állítja Magyarországot.",
-      "importance": 5
-    },
-    {
-      "title": "Kert Attila lett a közmédia új vezérigazgatója",
-      "summary": "Kert Attilát nevezték ki a közmédia új vezérigazgatójává, lezárva a poszt körüli bizonytalanságot. Kinevezése jelentős változásokat hozhat a magyarországi média működésében.",
+      "title": "Így dőzsöltek Orbánék tíz év hivatalos utazásain",
+      "summary": "Megjelentek az adatok Orbán Viktor miniszterelnök és delegációinak hivatalos külföldi útjainak költségeiről az elmúlt tíz évben. Az információk rávilágítanak a kiadások mértékére és jellegére.",
       "importance": 4
     },
     {
-      "title": "Egy nappal rövidebb lesz az idei tanév",
-      "summary": "Rövidebb lesz az idei tanév, ami változásokat jelent az oktatási naptárban. Ez érinti a diákokat, tanárokat és szülőket egyaránt.",
+      "title": "Elítélte a bíróság a Hatvanpusztánál Hadházy kocsijának hajtó vagyonőrt",
+      "summary": "Első fokon felfüggesztett börtönbüntetést kapott az a biztonsági őr, aki Hatvanpusztánál üldözte Hadházy Ákost, majd balesetet szenvedett. Az ítélet rávilágít a politikai aktivizmus körüli feszültségekre.",
       "importance": 4
+    },
+    {
+      "title": "Mi történik a visszaváltott palackokkal, miután bedobjuk őket a REpont automatába?",
+      "summary": "Magyarországon bevezették az új visszaváltási rendszert a palackok számára. A cikk részletesen elmagyarázza, hogyan zajlik a bedobott palackok begyűjtése és újrahasznosítása.",
+      "importance": 3
     }
   ],
   "world": [
     {
-      "title": "„A háború átterjed a közvetlen környezetünkbe” – írta a finn miniszterelnök, miután dróncsapás ért egy orosz teherhajót a Balti-tenger nemzetközi vizein",
-      "summary": "Egy orosz hajót ért dróncsapás a Balti-tengeren, amire a finn miniszterelnök aggodalmát fejezte ki, jelezve, hogy a háború átterjedhet a közvetlen környezetbe. Az incidens tovább növeli a feszültséget a régióban.",
-      "importance": 5
-    },
-    {
-      "title": "Rutte az orosz légtérsértés után: A NATO Lengyelország minden négyzetcentiméterét meg fogja védeni",
-      "summary": "Orosz légtérsértés történt Lengyelország határán, mire Mark Rutte holland miniszterelnök megerősítette a NATO elkötelezettségét Lengyelország védelmében. Az eset újabb feszültséget generál a kelet-európai térségben.",
-      "importance": 5
-    },
-    {
-      "title": "Megrekedtek a Cop31 klímacsúcs tárgyalásai, a szaúdiak hallani sem akarnak arról, hogy nyilatkozat szülessen a fosszilis energiahordozók használatáról",
-      "summary": "Elakadtak a COP31 klímacsúcs tárgyalásai, mivel Szaúd-Arábia ellenáll a fosszilis energiahordozók használatának csökkentésére irányuló nyilatkozatoknak. Ez veszélyezteti a globális klímavédelmi célok elérését.",
-      "importance": 5
-    },
-    {
-      "title": "Elfogtak egy mexikói drogbárót, aki szerepel az FBI legkeresettebb bűnözőinek 10-es listáján",
-      "summary": "Az FBI tíz legkeresettebb bűnözője között szereplő mexikói drogbárót fogtak el egy tűzharc során. Ez jelentős siker a drogkartellek elleni harcban.",
+      "title": "Szinte teljesen megbénul hétfőn a belga légi közlekedés",
+      "summary": "Légiirányítói sztrájk miatt a belga légtér szinte teljesen leáll hétfőn. Ez jelentős fennakadásokat okoz majd az európai légi közlekedésben és számos járat törlését vonja maga után.",
       "importance": 4
+    },
+    {
+      "title": "AI-vizsgacsalási botrány miatt lemondott az oktatási miniszter Dél-Koreában",
+      "summary": "Dél-Koreában lemondott az oktatási miniszter egy kiterjedt vizsgacsalási botrány miatt, melyben minikamerákat és mesterséges intelligenciát is használtak. Az eset rávilágít a modern csalási módszerek és az etikai kihívásokra.",
+      "importance": 4
+    },
+    {
+      "title": "Kiterjedőben a háború: már Kalinyingrádban is légiriadót rendeltek el",
+      "summary": "Az orosz exklávéban, Kalinyingrádban légiriadót rendeltek el, ami a háború potenciális terjedésére utal. A helyzet a regionális feszültségek növekedését jelzi.",
+      "importance": 5
+    },
+    {
+      "title": "Zelenszkij: nehéz megérteni, hogy miért késnek a Patriot-rakéták",
+      "summary": "Volodimir Zelenszkij ukrán elnök aggodalmát fejezte ki a Patriot légvédelmi rakétarendszerek szállításának késedelme miatt. Az ukrán légvédelem megerősítése kulcsfontosságú az orosz támadások ellen.",
+      "importance": 5
     }
   ],
   "technology": [
     {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "summary": "A Signal üzenetküldő alkalmazás korlátozza a mobil képernyőfotók készítését, hogy felvegye a harcot az AI-alapú megfigyelés \"egzisztenciális fenyegetésével\". Ez egy fontos lépés a felhasználók adatainak védelmében a mesterséges intelligencia korszakában.",
-      "importance": 5
+      "title": "Lehet jobb a BYD hatalmas kombija a Škoda csúcsmodelljénél?",
+      "summary": "A kínai BYD új, nagyméretű kombija komoly versenytársa lehet a Škoda prémium modelljeinek az elektromos autók piacán. A cikk az EV-piac növekedésére és az új szereplők térnyerésére hívja fel a figyelmet.",
+      "importance": 3
     },
     {
-      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-      "summary": "Egy rendőrségek, ügyészek és techóriások által is használt átírási cég ügyféladatokat tett közzé az interneten. Az eset rávilágít az adatbiztonsági kockázatokra még a legérzékenyebb területeken is.",
-      "importance": 5
-    },
-    {
-      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-      "summary": "Szakértők figyelmeztetnek, hogy a mesterséges intelligencia területén dolgozók szinte mindegyike ki van téve a \"mézesmadzag\" típusú csalásoknak. Ez komoly biztonsági és etikai kihívásokat jelent az AI-közösség számára.",
+      "title": "Mi történik, ha nemcsak az e-mail áll le, hanem az AI is?",
+      "summary": "A cikk arról elmélkedik, milyen következményei lennének, ha a mesterséges intelligencia rendszerei leállnának, hasonlóan egy e-mail szolgáltatás kieséséhez. Felveti az AI-függőség és a rendszerkiesések kockázatait.",
       "importance": 4
     },
     {
-      "title": "The real people finding their work copied and stolen by AI characters",
-      "summary": "Egyre több művész és alkotó szembesül azzal, hogy munkáit mesterséges intelligencia rendszerek másolják és lopják el. Ez komoly vitát vált ki a szellemi tulajdon jogairól és az AI etikus felhasználásáról.",
+      "title": "A Signal korlátozza a mobilképernyő-felvételeket, mivel az MI-megfigyelés egzisztenciális fenyegetésével néz szembe",
+      "summary": "A Signal üzenetküldő alkalmazás korlátozza a képernyőképek készítését a mobiltelefonokon, hogy megvédje felhasználóit az MI-alapú megfigyeléstől. A lépés az online adatvédelem és a mesterséges intelligencia kihívásainak növekedésére reagál.",
+      "importance": 5
+    },
+    {
+      "title": "Valódi emberek, akiknek munkáját mesterséges intelligencia karakterek másolják és lopják",
+      "summary": "Egyre több művész és alkotó szembesül azzal, hogy munkáikat MI-alapú karakterek és rendszerek másolják és lopják. Ez a helyzet komoly etikai és jogi kérdéseket vet fel a szerzői jog és a kreatív iparágak jövőjével kapcsolatban.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
-      "summary": "A BepiColombo űrszonda nyolc évig tartó utazás után végre elérte a Merkúrt. Ez a küldetés kulcsfontosságú adatokkal szolgálhat a bolygó geológiai felépítéséről és mágneses teréről.",
+      "title": "A BepiColombo űrszonda nyolc év utazás után végre elérte a Merkúrt",
+      "summary": "A BepiColombo űrszonda nyolc évig tartó utazás után sikeresen megérkezett a Merkúrhoz. Ez a küldetés alapvető fontosságú adatokkal szolgálhat a Naprendszer legbelső bolygójának és kialakulásának megértéséhez.",
       "importance": 5
     },
     {
-      "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
-      "summary": "Matematikusok döbbenten állnak a Riemann-hipotézis AI és ember által írt bizonyítékai előtt. Ez az áttörés új dimenziókat nyithat meg a matematika és a mesterséges intelligencia kapcsolatában.",
-      "importance": 5
-    },
-    {
-      "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
-      "summary": "A szakértők szerint a nettó zéró kibocsátás önmagában nem elegendő a klímaváltozás visszafordításához, ezért egyes országok a \"nettó negatív\" kibocsátási célokat vizsgálják. Ez magában foglalja a szén-dioxid aktív eltávolítását a légkörből.",
+      "title": "Hogyan befolyásolja a mesterséges intelligencia a tudományos karriereket?",
+      "summary": "A mesterséges intelligencia egyre nagyobb hatással van a tudományos kutatásokra és a tudományos karrierekre. A technológia új lehetőségeket és kihívásokat is teremt a kutatók számára.",
       "importance": 4
     },
     {
-      "title": "How AI is affecting science careers",
-      "summary": "A mesterséges intelligencia jelentős hatással van a tudományos karrierekre, új lehetőségeket teremtve, de kihívásokat is felvetve. A kutatóknak alkalmazkodniuk kell az AI által átalakuló tudományos környezethez.",
+      "title": "Matematikusokat nyűgözött le az ikonikus Riemann-hipotézis MI és ember által írt bizonyítása",
+      "summary": "A matematikusokat meglepte és lenyűgözte, hogy mesterséges intelligencia és emberi kutatók is előálltak a Riemann-hipotézis bizonyításával. Ez áttörést jelenthet a matematika és az AI kutatásában egyaránt.",
+      "importance": 5
+    },
+    {
+      "title": "A nettó nulla kibocsátás nem fordítja vissza a klímaváltozást – egyes nemzetek a „nettó negatív” célokat célozzák",
+      "summary": "A nettó nulla kibocsátás elérése önmagában nem elegendő a klímaváltozás visszafordításához, ezért egyes országok már a „nettó negatív” kibocsátást célozzák. Ez a cél a légkörből történő szén-dioxid aktív eltávolítását is magában foglalja.",
       "importance": 4
     }
   ],
   "sports": [
     {
-      "title": "Megszámlálhatatlan előzés Las Vegasban, Verstappen végtelen ostromokat állva nyert",
-      "summary": "Max Verstappen nyerte a Las Vegas-i Forma-1-es nagydíjat, egy rendkívül izgalmas, számos előzéssel tarkított versenyen. Győzelmével tovább erősítette dominanciáját a szezonban.",
-      "importance": 5
-    },
-    {
-      "title": "Michelisz dupla dobogóval és bronzzal zárta a szezont, Azcona a bajnok",
-      "summary": "Michelisz Norbert két dobogós helyezéssel és bronzéremmel zárta az idei túraautó-világkupa szezont. A magyar pilóta kiváló teljesítményt nyújtott.",
+      "title": "Tömegverekedés tört ki Nyíregyházán a Spartacus és a DVSC szurkolói közt",
+      "summary": "Tömegverekedésbe torkollott egy labdarúgó-mérkőzés Nyíregyházán a helyi Spartacus és a DVSC szurkolói között. Az incidens súlyos rendbontással járt és a sportrendezvények biztonsági kihívásaira hívja fel a figyelmet.",
       "importance": 4
     },
     {
-      "title": "Fél perc után már vezetett, simán verte a Fradit a Győr a bajnokságban",
-      "summary": "A Győr már az első fél percben vezetést szerzett és könnyedén legyőzte a Fradit a bajnoki mérkőzésen. A csapat domináns játékkal aratott magabiztos győzelmet.",
+      "title": "Verstappen rendkívüli győzelmet aratott a Las Vegas-i Nagydíjon, miközben a Ferrarik ütköztek",
+      "summary": "Max Verstappen nyerte a látványos Las Vegas-i Forma-1-es Nagydíjat, egy eseménydús versenyen, ahol a Ferrarik is összeütköztek. A futam izgalmas pillanatokat és drámát hozott a szurkolóknak.",
       "importance": 4
     },
     {
-      "title": "Csontrákban meghalt a 11 éves osztrák pingpongtehetség, aki második volt a világranglistán",
-      "summary": "Csontrákban elhunyt a mindössze 11 éves osztrák asztalitenisz-tehetség, aki korosztályában a világranglista második helyén állt. A sportvilágot megrázta a fiatal tehetség tragikus halála.",
+      "title": "Összerogyott interjú közben az argentin focista",
+      "summary": "Egy argentin labdarúgó rosszul lett és összeesett egy élő interjú közben, ami riadalmat keltett. Az esetet követően azonnal kórházba szállították állapotának kivizsgálására.",
+      "importance": 3
+    },
+    {
+      "title": "Két 9 nyilast is dobtak egy meccsen – Van Gerwen régi nagy formájában a darts világbajnokság előtt",
+      "summary": "Rendkívüli teljesítményt nyújtott a holland Michael van Gerwen, amikor egy meccsen kétszer is 9 nyilast dobott, jelezve, hogy csúcsformában van a darts világbajnokság előtt. Ez ritka bravúr a sportágban.",
       "importance": 3
     }
   ]

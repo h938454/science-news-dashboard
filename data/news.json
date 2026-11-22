@@ -1,7 +1,108 @@
 {
-  "Telex": [],
+  "Telex": [
+    {
+      "title": "„Sokkoló a GTA VI technikai és művészeti színvonala” – játékfejlesztővel teszteltük a GTA-t",
+      "link": "https://telex.hu/after/2026/11/22/gta-teszt-jatekfejlesztovel-varaljai-krisztian",
+      "summary": "Váraljai Krisztián játékfejlesztővel is teszteltük az év legnagyobb popkulturális durranását. Hogyan lehet egy ekkora területet és ennyi karaktert lefejleszteni, és mi a szerepe a mesterséges intelligenciának? Erről is beszéltünk a Witcher 3 Remastered fejlesztőjével."
+    },
+    {
+      "title": "Leonora Carrington: Kis Francis (részlet)",
+      "link": "https://telex.hu/karakter/konyvespolc/2026/11/22/leonora-carrington-kis-francis-reszlet",
+      "summary": "A brit–mexikói művész alig 20 évesen írta ezt a groteszk szerelmi történetet, amelyben elmosódnak a határok a hétköznapi és a fantasztikus, valamint az emberi és az állati között. Olvasson bele!"
+    },
+    {
+      "title": "Kigyulladt a rudabányai művház",
+      "link": "https://telex.hu/belfold/2026/11/22/kigyulladt-a-rudabanyai-muvhaz",
+      "summary": "A földszinten lévő könyvtár gyulladt ki, a tűz onnan terjedt tovább."
+    },
+    {
+      "title": "Finn vizekre sodródott egy lángoló orosz hajó, amit dróntámadás ért",
+      "link": "https://telex.hu/kulfold/2026/11/22/finn-felsegvizekre-sodrodott-egy-orosz-hajo-amit-drontamadas-ert",
+      "summary": "A fedélzeten tartózkodó legénység mentőcsónakokkal egy közeli orosz hajóra menekült, az oltást Finnország végzi az észt haditengerészet segítségével."
+    },
+    {
+      "title": "Hét kartelltag és négy katona halt meg abban a tűzharcban, ami a mexikói drogbáró elfogása közben alakult ki",
+      "link": "https://telex.hu/kulfold/2026/11/22/tizenegy-ember-halt-meg-abban-a-tuzharcban-ami-a-mexikoi-drogbaro-elfogasa-kozben-alakult-ki",
+      "summary": "Meza Flores kulcsfontosságú szövetségese volt a Sinaloa kartell egyik frakciójának, amelyet a Trump-kormányzat tavaly külföldi terrorszervezetté nyilvánított."
+    },
+    {
+      "title": "Megszámlálhatatlan előzés Las Vegasban, Verstappen végtelen ostromokat állva nyert",
+      "link": "https://telex.hu/sport/2026/11/22/forma-1-f1-las-vegas-nagydij",
+      "summary": "A dobogósokat, Verstappent, Norrist és Piastrit Keanu Reeves vitte körbe a pályán egy nyitott tetejű limóban."
+    },
+    {
+      "title": "Bruttó 200 ezer forintos különbségek a fizetésekben, összeomlás közeli helyzetet hozna, ha ennyi ápoló hagyná ott a baleseti központot",
+      "link": "https://telex.hu/belfold/2026/11/22/orszagos-baleseti-intezet-kozpont-fiumei-ut-apolok-felmondasok-szakdolgozok-berrendezes-kormany",
+      "summary": "Az állami kórházak tudják a legkevésbé megtartani a dolgozóikat, az egyházi, önkormányzati, egyetemi fenntartású intézetek jobban tudnak fizetni és elszívják az amúgy is szűkös munkaerőt. Pont a legnagyobb terheket viselő szakdolgozókat jutalmazza kevésbé a kormány bérrendezési terve, nem látszik, hogy ez megakadályozná a baleseti központ ápolóinak távozását – mondták a Telexnek megszólaló szakértők a baleseti intézet kríziséről."
+    },
+    {
+      "title": "Michelisz dupla dobogóval és bronzzal zárta a szezont, Azcona a bajnok",
+      "link": "https://telex.hu/sport/2026/11/22/tcr-world-tour-turaauto-michelisz-norbert-makao-szezonzaro",
+      "summary": "A magyar pilóta remekül teljesített a szezonzáró makaói hétvégén, a Hyundai nagyon jó idényt zárt."
+    },
+    {
+      "title": "Négy ország, négy sikeres út az aszálykárok megfékezésére",
+      "link": "https://telex.hu/g7/elet/2026/11/22/vizhiany-problemak-megoldasok-izrael-spanyolorszag-hollandia-ausztralia",
+      "summary": "Csepegtetéses öntözés, üvegházak, gátak helyett teret adni a folyónak, a víz piacosítása – egy vízgazdálkodási reform beindításához sokat tanulhatunk olyan országoktól, mint Ausztrália, Hollandia, Izrael vagy Spanyolország, amelyek előnyükre fordították a vízhiányt."
+    },
+    {
+      "title": "Meghalt Kiss Gábor, a Szomszédok Hável igazgatója",
+      "link": "https://telex.hu/karakter/kultura/2026/11/21/halal-kiss-gabor-jozsef-attila-szinhaz-szinesz",
+      "summary": "A színész 86 éves volt."
+    },
+    {
+      "title": "Rutte az orosz légtérsértés után: A NATO Lengyelország minden négyzetcentiméterét meg fogja védeni",
+      "link": "https://telex.hu/kulfold/2026/11/21/rutte-az-orosz-legtersertes-utan-a-nato-lengyelorszag-minden-negyzetcentimeteret-meg-fogja-vedeni",
+      "summary": "A NATO-főtitkár egy nappal azután nyilatkozott, hogy orosz robotrepülőgép zuhant le egy lengyel településen."
+    },
+    {
+      "title": "Fél perc után már vezetett, simán verte a Fradit a Győr a bajnokságban",
+      "link": "https://telex.hu/sport/2026/11/21/futball-nb-i-gyori-eto-ferencvaros",
+      "summary": "Megtört a Ferencváros 22 meccses hazai veretlenségi sorozata, ezzel a győzelemmel a Győr vezeti a tabellát."
+    },
+    {
+      "title": "Állatmentők mentettek ki 19 alultáplált kutyát egy péteri házból",
+      "link": "https://telex.hu/belfold/2026/11/21/allatmentok-mentettek-ki-19-alultaplalt-kutyat-egy-peteri-hazbol",
+      "summary": "A kutyák borzalmas körülmények között, saját ürülékükben éltek az RTL Híradó szerint."
+    },
+    {
+      "title": "Harminckilenc év után lezárult a francia kriminalisztika egyik legismertebb gyerekgyilkossági ügye",
+      "link": "https://telex.hu/kulfold/2026/11/21/franciaorszag-bunugy-nyomozas-gyilkossag-ismeretlen-lany-holttest-azonositas-dns-rendorseg-birosag-itelet",
+      "summary": "1987-ben a sztráda mellett füvet nyíró munkások találtak rá az A10-es autópálya kis mártírjának nevezett gyerek holttestére. Inass Touloub személyazonossága három évtizeden át rejtély volt, pedig a rendőrség hatalmas erőbedobással nyomozott. Egyszer már hajszálnyira voltak a megoldástól, de végül csak most novemberben ítélték el a kislány haláláért felelős szülőket."
+    },
+    {
+      "title": "Felesége nevére íratta át saját cégét a lélegeztetőgép-biznisz Ausztriában lekapcsolt kulcsfigurája",
+      "link": "https://telex.hu/belfold/2026/11/21/lelegeztetogep-biznisz-letartoztatas-ausztria-ceg-atiras",
+      "summary": "Az osztrák cégjegyzékben november elején lett bejegyezve a váltás, napokkal azután, hogy a férfit elfogták."
+    }
+  ],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Találós kérdés: Trump szerint a barátja, Zelenszkij szerint egy gyilkos. Kiről van szó?",
+      "link": "https://444.hu/2026/11/22/talalos-kerdes-trump-szerint-a-baratja-zelenszkij-szerint-egy-gyilkos-kirol-van-szo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Segítség a megoldáshoz: az ő parancsára indult meg a háború Ukrajna ellen."
+    },
+    {
+      "title": "Felkészültél lélekben a hóra? Ha nem, itt az ideje, mert jövő héten már hullhat",
+      "link": "https://444.hu/2026/11/22/felkeszultel-lelekben-a-hora-ha-nem-itt-az-ideje-mert-jovo-heten-mar-havazhat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Aki még nem kereste elő a sapkát-sálat-bundabugyit, annak itt a remek alkalom, hogy a mulasztást pótolja."
+    },
+    {
+      "title": "„A háború átterjed a közvetlen környezetünkbe” – írta a finn miniszterelnök, miután dróncsapás ért egy orosz teherhajót a Balti-tenger nemzetközi vizein",
+      "link": "https://444.hu/2026/11/22/a-haboru-atterjed-a-kozvetlen-kornyezetunkbe-irta-a-finn-miniszterelnok-miutan-droncsapas-ert-egy-orosz-teherhajot-a-balti-tenger-nemzetkozi-vizein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A teherhajó Kalinyingrádba tartott, a legénységet evakuálták, a tűz oltása hetekig vagy hónapokig tarthat."
+    },
+    {
+      "title": "Megrekedtek a  Cop31 klímacsúcs tárgyalásai, a szaúdiak hallani sem akarnak arról, hogy nyilatkozat szülessen a fosszilis energiahordozók használatáról",
+      "link": "https://444.hu/2026/11/22/megrekedtek-a-cop31-klimacsucs-targyalasai-miutan-a-szaudiak-hallani-sem-akartak-arrol-hogy-a-fosszilis-energiahordozok-hasznalatarol-nyilatkozat-szulessen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Így mondjuk elég nehéz bármit is elérni."
+    },
+    {
+      "title": "Zsiday Viktor: Senki ne gondolja, hogy ezeket az adósságokat vissza lehet fizetni",
+      "link": "https://444.hu/2026/11/22/zsiday-viktor-senki-ne-gondolja-hogy-ezeket-az-adossagokat-vissza-lehet-fizetni?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A magyar gazdaság jó irányba indult a választás óta, a költségvetés hiteles, tartalmaz jobb és baloldali elemeket is, bár a kata visszavezetése fölösleges és káros, ahogy a vagyonadó is. A fejlett világban akkorára nőnek az államadósságok, hogy azt már nem lehet visszafizetni. A kamatok emelkednek, amíg valaki be nem dől."
+    },
     {
       "title": "Meghalt Paolo Bulgari",
       "link": "https://444.hu/2026/11/21/meghalt-paolo-bulgari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -51,34 +152,34 @@
       "title": "Csontrákban meghalt a 11 éves osztrák pingpongtehetség, aki második volt a világranglistán",
       "link": "https://444.hu/2026/11/21/csontrakban-meghalt-a-11-eves-osztrak-pingpongtehetseg-aki-masodik-volt-a-vilagranglistan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "Julian Luginger síremlékére már több mint 26 ezer euró adomány érkezett."
-    },
-    {
-      "title": "Vasárnap indul Uj Péterrel a 444 új műsora, jön a bigUP!",
-      "link": "https://444.hu/2026/11/21/vasarnap-indul-uj-peterrel-a-444-uj-musora-jon-a-bigup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "UP havonta jelentkező videós műsorában vendégeivel távlati, big picture folyamatokat tekint át a gazdasági, politikai és társadalmi színtéren. Az első adásban Zsiday Viktorral az államadósságról és a magyar gazdasági kilátásokról beszélgetnek."
-    },
-    {
-      "title": "Az oroszok Zelenszkij szülővárosát támadták, egy gyerek is meghalt, közben Zelenszkij a Krími híd megsemmisítését ígérte",
-      "link": "https://444.hu/2026/11/21/az-oroszok-zelenszkij-szulovarosat-tamadtak-egy-gyerek-is-meghalt-zelenszkij-a-krimi-hid-megsemmisiteset-igerte?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A Krivij Rihet ért légicsapás 25 lakóépületet, egy kórházat, iskolákat is megrongált."
-    },
-    {
-      "title": "Vitézy Dávid aláírta a Mészáros-Szíjj-féle autópálya-koncessziós szerződés megszüntetésének első lépését jelentő megállapodást",
-      "link": "https://444.hu/2026/11/21/vitezy-david-alairta-a-meszaros-szijj-fele-autopalya-koncesszios-szerzodes-megszuntetesenek-elso-lepeset-jelento-megallapodast?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kormány számításai szerint ez 21,5 ezer milliárd forintnyi állami kötelezettségtől mentesíti az országot."
-    },
-    {
-      "title": "„Ha kész a torta, szólunk a drónosoknak, hogy öljétek meg őket” – így keresik az orosz katonákat az ukrán hírszerzők",
-      "link": "https://444.hu/2026/11/21/ha-kesz-a-torta-szolunk-a-dronosoknak-hogy-oljetek-meg-oket-igy-keresik-az-orosz-katonakat-az-ukran-hirszerzok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy 29 éves brit önkéntes megmutatja, hogyan lesz a digitális morzsákból célpont, és elárulja, miről beszélgetnek egymás közt az oroszok, mikor azt hiszik, senki nem hallja őket. Ukrán rádiós hírszerzőknél jártunk."
-    },
-    {
-      "title": "Dróntámadás érhetett egy orosz teherhajót a Finn-öbölben",
-      "link": "https://444.hu/2026/11/21/drontamadas-erhetett-egy-orosz-teherhajot-a-finn-obolben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A finn és az észt hatóságok is észlelték a tüzet a hajón."
     }
   ],
   "HVG": [
+    {
+      "title": "A Tisza nagy szja-trükkje is megjelenik a jövő évi költségvetésben, ami jobbára ártalmatlan, de azért találtunk megmagyarázhatatlan dolgokat is benne",
+      "link": "https://hvg.hu/360/20261122_hvg-2027es-koltsegvetes-osztogatas-megszoritas-tisza-kormany",
+      "summary": "A most összeálló új büdzsé fontos lépéseket tesz, anélkül hogy nagy elmozdulásokat hajtana végre. Akadnak indokolatlan kockázatok, de az idei haváriaalap jó eséllyel marad jövőre."
+    },
+    {
+      "title": "És akkor Seszták Miklós körül nem csak a földből bukkantak elő milliárdok",
+      "link": "https://hvg.hu/gazdasag/20261122_es-akkor-penz-autopalya-anthropic-ai-minimalber-azbeszt",
+      "summary": "Tovább gyűrűzik az erdőben elrejtett vagyon botránya, megszünteti a kormány az autópálya-koncessziót, tőzsdére ment az Anthropic. Ez a HVG heti gazdasági összefoglalója."
+    },
+    {
+      "title": "Ha szerette a Honfoglaló, most kell kattintania, hogy ne töröljék a rangjait, fiókját",
+      "link": "https://hvg.hu/tudomany/20261122_honfoglalo-inaktiv-felhasznalok-torlese-belepes",
+      "summary": "Januári nagytakarításról értesítette regisztrált felhasználóit a Honfoglaló."
+    },
+    {
+      "title": "Yamaha, you're my soul! Teszten az új Mitsubishi Outlander",
+      "link": "https://hvg.hu/cegauto/20261122_yamaha-you-re-my-soul-plugin-hibrid-uj-mitsubishi-outlander-teszt-velemeny",
+      "summary": "Kipróbáltuk az elődjénél tágasabb karosszériájú és jelentősen nagyobb teljesítményű új Mitsubishi Outlandert, mely Nissan génekkel és Yamaha hangrendszerrel veszi célkeresztbe a plugin hibrid SUV-k piacát."
+    },
+    {
+      "title": "Állampapírok, adózás és banki betétek: mit tehetnek a magyar kisbefektetők?",
+      "link": "https://hvg.hu/gazdasag/20261122_befektetes-bankmonitor-webinar-arany-ingatlan-reszveny-megtakaritas-hozam",
+      "summary": "Hónapról hónapra dilemmával szembesül az, aki manapság a megtakarításait nem a bankszámláján akarja látra szólóan, szinte nulla kamatozás mellett tartani. Mire jók a banki betétek és milyen állampapírok jöhetnek szóba, ha kockázat nélkül akarunk az inflációt meghaladó hozamokat bezsebelni?"
+    },
     {
       "title": "Csalók gyűjtenek pénzt telefonon a Heim Pál Gyermekkórház nevében",
       "link": "https://hvg.hu/elet/20261121_csalok-gyujtenek-penzt-telefonon-a-heim-pal-gyermekkorhaz-neveben",
@@ -128,68 +229,18 @@
       "title": "A Fidesz-Védvonal szerint kényszervallatásnak vetették alá Bús Balázst",
       "link": "https://hvg.hu/itthon/20261121_fidesz-vedvonal-szerint-kenyszervallatasnak-vetettek-ala-bus-balazst",
       "summary": "A párt továbbra is politikai fogolyként tekint a volt óbudai fideszes polgármesterre."
-    },
-    {
-      "title": "Kiderült pontosan miben halt meg Patrick Stewart",
-      "link": "https://hvg.hu/kultura/20261121_kiderult-pontosan-miben-halt-meg-patrick-stewart",
-      "summary": "A színész még október 28-án hunyt el 86 éves korában."
-    },
-    {
-      "title": "Bezár a felcsúti Hotel Pancho",
-      "link": "https://hvg.hu/kkv/20261121_bezar-a-felcsuti-hotel-pancho",
-      "summary": "A hotelről korábban azt mondták, ifjúsági sportszállásnak épül, amiért jelentős tao-támogatást is kapott a Felcsúti Utánpótlás Nevelésért Alapítvány."
-    },
-    {
-      "title": "Lassan véget ér „minden idők legrosszabb” klímacsúcsa – csak az olajtermelő országok lehetnek elégedettek",
-      "link": "https://hvg.hu/gazdasag/20261121_lassan-veget-er-minden-idok-legrosszabb-klimacsucsa-csak-az-olajtermelo-orszagok-lehetnek-elegedettek",
-      "summary": "Már túlóráznak a részt vevő delegációk, de jelentős eredmények két hét alatt sem születtek az idei ENSZ-klímacsúcson. Panama vétóval fenyeget, a konferencia záródokumentumának tervezetét pedig annyire felpuhították, hogy egy szóval sem említi azt, ami a legfontosabb célja lenne a tanácskozásnak: a fosszilis energiahordozók kivezetését."
-    },
-    {
-      "title": "Júdás kiakadt, megjelent Rambo és az orosz gnóm, Nemecsek Ernő pedig lehet, összedolgozott Petőfi Sándorral",
-      "link": "https://hvg.hu/360/20261121_hvg-fedonevadasi-szokasok-szerepfelfogasok-judas",
-      "summary": "Motiváltabb az ügynök, ha megválaszthatja a „munkanevét” – jöttek rá az NDK-ban egy eset kapcsán, ám e lélektani fogással nem élt minden kommunista titkosrendőrség. A fedőnevek megjósolható mintázatát mintha csak Magyarországon törte volna meg a szokásosnál több kreativitás vagy cinizmus."
-    },
-    {
-      "title": "Elfogtak egy mexikói drogbárót, akit az FBI egyik legkeresettebb bűnözőjeként tartottak számon",
-      "link": "https://hvg.hu/vilag/20261121_elfogtak-egy-mexikoi-drogbarot-aki-az-fbi-egyik-legkeresettebb-bunozojekent-tartottak-szamon",
-      "summary": "A rajtütés heves összecsapást váltott ki, a bűnszervezet tagjai tüzet nyitottak a hatóságokra."
     }
   ],
   "BBC": [
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "link": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
     },
     {
-      "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-      "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary."
-    },
-    {
-      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
-    },
-    {
-      "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
-      "link": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November."
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-    },
-    {
-      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-      "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness."
-    },
-    {
-      "title": "Australia hold on for narrow win against Wales",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff."
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"Just accept Brexit and move on,\" the former prime minister told BBC's Laura Kuenssberg."
     },
     {
       "title": "How a teen gamer and his mother helped rescue a missing girl",
@@ -197,9 +248,19 @@
       "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping."
     },
     {
-      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
-      "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably."
+      "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris."
+    },
+    {
+      "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
+    },
+    {
+      "title": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+      "link": "https://www.bbc.co.uk/news/articles/cm8e0p5dexy6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lancashire police says a mobile phone has been seized and it is assessing whether any criminal offences may have taken place."
     },
     {
       "title": "Employers are being asked to give interview feedback - here's what applicants want",
@@ -207,14 +268,24 @@
       "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?"
     },
     {
+      "title": "The real people finding their work copied and stolen by AI characters",
+      "link": "https://www.bbc.co.uk/news/articles/cm7527kp4qrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Musicians, comedians and dancers are among those finding their videos cloned with AI generated characters."
+    },
+    {
+      "title": "Kate's 'road to recovery' and 'Brave princess'",
+      "link": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Catherine, Princess of Wales is pictured on several front pages following news of her new documentary."
+    },
+    {
+      "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+      "summary": "I Am Helen is a must-watch according to critics, but the cast don't want viewers sitting comfortably."
+    },
+    {
       "title": "From pit-stops to go-to destinations: The transformation of service stations",
       "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
       "summary": "Once a quick pause on a long trip, service stations are becoming destinations in their own right."
-    },
-    {
-      "title": "'I was exhausted': Two days in the shoes of a tradwife",
-      "link": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss",
-      "summary": "Writer and broadcaster Poppy Jay tries living as a British tradwife for a documentary, and speaks to BBC News."
     },
     {
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -222,14 +293,19 @@
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
     },
     {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+    },
+    {
       "title": "Parents urged to spot online stalking warning signs as cases rise",
       "link": "https://www.bbc.co.uk/news/articles/c674pejp1110o?at_medium=RSS&at_campaign=rss",
       "summary": "From fake profiles to unwanted contact, specialists explain the signs parents should take seriously."
     },
     {
-      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
-      "link": "https://www.bbc.co.uk/news/articles/c893r4923wngo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former prime minister argues the European Union is probably moving in the wrong direction on technology innovation."
+      "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+      "link": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness."
     }
   ],
   "TechCrunch": [

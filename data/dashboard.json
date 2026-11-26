@@ -1,107 +1,112 @@
 {
   "hungary": [
     {
-      "title": "Karácsony Gergely egész Budapesten megszüntetné az Airbnb-t",
-      "summary": "Budapest főpolgármestere, Karácsony Gergely azt javasolja, hogy egész Budapesten tiltsák be az Airbnb típusú rövid távú lakáskiadást. A kezdeményezés célja a lakhatási válság enyhítése és a helyi lakosok érdekeinek védelme.",
-      "importance": 5
-    },
-    {
       "title": "Ukrán külügyminiszter: Felgyorsítjuk a kárpátaljai magyarok kisebbségi jogairól szóló megállapodások végrehajtását",
-      "summary": "Az ukrán külügyminiszter bejelentette, hogy felgyorsítják a Kárpátalján élő magyar kisebbség jogairól szóló megállapodások végrehajtását. Ez a lépés jelentős előrelépést jelenthet a két ország közötti kapcsolatokban és a magyar közösség helyzetének javításában.",
+      "summary": "Az ukrán külügyminiszter bejelentette, hogy felgyorsítják a kárpátaljai magyar kisebbség jogait érintő megállapodások végrehajtását. Ez a lépés jelentős diplomáciai áttörést hozhat a két ország közötti viszonyban és a kisebbségi jogok védelmében.",
       "importance": 5
     },
     {
-      "title": "Vitézy a mezőkövesdi balesetről: A régebbi vasúti kocsik nyitott ajtóval is el tudnak indulni",
-      "summary": "Vitézy Dávid közlekedési szakértő a mezőkövesdi vasúti baleset kapcsán rámutatott, hogy a régebbi típusú vonatok nyitott ajtóval is elindulhatnak. Ez a tény komoly biztonsági kockázatot jelenthet az utasok számára.",
+      "title": "Figyelmeztetést kaptak tanárok a Váci Piarista Gimnáziumban, rendőrségi nyomozás is zajlik",
+      "summary": "A Váci Piarista Gimnázium több tanára írásbeli figyelmeztetést kapott, az egyik ügyben pedig a rendőrség is nyomozást indított. Az eset rávilágít az oktatási intézményekben fennálló feszültségekre és a tanárok jogainak kérdésére.",
       "importance": 4
     },
     {
-      "title": "Kapitány István: Háromnegyedig vannak töltve a hazai gáztárolók",
-      "summary": "Kapitány István, a Magyar Energetikai és Közmű-szabályozási Hivatal elnöke szerint a hazai gáztárolók háromnegyedig vannak töltve. Ez az állapot stabilabb energiaellátást és biztonságosabb téli fűtési szezont ígér.",
+      "title": "Karácsony Gergely megszüntetné az Airbnb-t egész Budapesten",
+      "summary": "Karácsony Gergely főpolgármester javaslatot tesz az Airbnb és hasonló rövid távú lakáskiadási formák teljes betiltására Budapesten. A lépés célja a lakhatási válság enyhítése és a turistákra optimalizált lakásállomány visszaszorítása a helyi lakosok javára.",
+      "importance": 4
+    },
+    {
+      "title": "„Hatósági vetülete” is lehet a közmédiában sugárzott orosz propagandának a megválasztott vezérigazgató szerint",
+      "summary": "A közmédia megválasztott vezérigazgatója szerint \"hatósági vetülete\" is lehet a közmédiában sugárzott orosz propagandának. Ez a kijelentés aggályokat vet fel a média függetlenségével és a dezinformáció terjedésével kapcsolatban.",
       "importance": 4
     }
   ],
   "world": [
     {
-      "title": "Ukrajna kilőtt öt orosz vadászgépet, amelyeket ukrán területek bombázására használtak",
-      "summary": "Ukrajna jelentése szerint öt orosz vadászgépet lőttek le, amelyeket ukrán területek elleni bombázásokra vetettek be. Ez a jelentős katonai siker az orosz-ukrán háborúban az ukrán légvédelem hatékonyságát mutatja.",
+      "title": "Rendkívüli EU-csúcs a költségvetésről: nehéz harc várható a tagországok között",
+      "summary": "Az EU rendkívüli csúcstalálkozót tart a költségvetésről, ahol várhatóan éles vitákra kerül sor a tagállamok között. A megegyezés kritikus fontosságú az Unió jövőbeni működéséhez és a kulcsfontosságú programok finanszírozásához.",
       "importance": 5
     },
     {
-      "title": "Műhold műhold ellen: szintet léphet az orosz fenyegetés",
-      "summary": "Az Oroszország részéről érkező fenyegetések a világűrben új szintre léphetnek a műholdak közötti esetleges konfliktusok lehetőségével. Ez a fejlemény aggodalomra ad okot a világűr militarizálása és a geopolitikai feszültségek miatt.",
+      "title": "Az EU szabályokat fogadott el a gyógyszerhiány mérséklésére",
+      "summary": "Az Európai Unió új szabályokat hagyott jóvá, amelyek célja a gyógyszerhiány problémájának enyhítése a tagállamokban. Az intézkedések a gyógyszerellátás biztonságának növelését és a betegek hozzáférésének javítását célozzák.",
       "importance": 5
     },
     {
-      "title": "Az USA új vámjavaslatokat jelentett be az EU, Kína és más kereskedelmi partnerei ellen",
-      "summary": "Az Egyesült Államok új vámtarifák bevezetését fontolgatja az Európai Unió, Kína és más partnerek importjára. Ez a lépés globális kereskedelmi feszültségeket és gazdasági változásokat jelezhet.",
+      "title": "Ukrajna öt orosz katonai repülőgépet rongált meg egy oroszországi légibázison",
+      "summary": "Ukrajna bejelentette, hogy sikeres támadást hajtott végre egy oroszországi légibázis ellen, megrongálva öt orosz katonai repülőgépet. Ez az eset újabb jelentős esemény az orosz-ukrán háborúban, rávilágítva az ukrán erők képességeire.",
       "importance": 5
     },
     {
-      "title": "Az energiaárak 26%-kal emelkedhetnek januártól a gázárak megugrása miatt",
-      "summary": "A gázárak jelentős emelkedése miatt várhatóan 26%-kal nőnek az energiafogyasztók számlái januártól. Ez a drágulás jelentős gazdasági terhet róhat a háztartásokra és vállalatokra számos országban, különösen Európában.",
+      "title": "Az Egyesült Királyság kormánya új EU-val kötött szerződéseket publikál",
+      "summary": "A brit kormány hamarosan nyilvánosságra hozza az Európai Unióval kötött új szerződéseket. Ezek a megállapodások meghatározóak lesznek az Egyesült Királyság és az EU közötti jövőbeni kapcsolatok szempontjából a Brexit után.",
       "importance": 4
     }
   ],
   "technology": [
     {
-      "title": "Meredeken zuhannak az amerikai AI-cégek részvényei",
-      "summary": "Az amerikai mesterséges intelligencia (AI) cégek részvényei meredek esést mutatnak a piacon, ami aggodalomra ad okot a szektor stabilitásával kapcsolatban. Ez a trend befolyásolhatja a befektetői bizalmat és az AI iparág jövőbeli növekedését.",
+      "title": "Az amerikai kormányzat jóváhagyta, hogy Elon Musk adatközpontokat telepíthessen az űrbe",
+      "summary": "Az amerikai kormányzat zöld utat adott Elon Musk SpaceX vállalatának, hogy adatközpontokat telepítsen az űrbe. Ez a döntés forradalmasíthatja az űrbeli adatfeldolgozást és az űralapú AI-szolgáltatásokat.",
       "importance": 5
     },
     {
-      "title": "Az FCC jóváhagyta a SpaceX tervét, hogy mesterséges intelligencia adatközpontokat telepítsen az űrbe",
-      "summary": "Az Amerikai Szövetségi Kommunikációs Bizottság (FCC) engedélyezte a SpaceX-nek, hogy AI adatközpontokat helyezzen el a világűrben. Ez úttörő lépés a világűr kihasználásában és az AI infrastruktúra fejlesztésében, új lehetőségeket nyitva meg az adatok feldolgozására.",
+      "title": "Súlyos botrány lehet az Nvidia-vezér visszahelyezéséből",
+      "summary": "Az Nvidia vezérigazgatójának visszahelyezése a vállalatnál etikai és corporate governance kérdéseket vet fel, ami súlyos botrányt okozhat. Az eset rávilágít a vezetői felelősségre és a hatalmas technológiai cégek belső működésére.",
       "importance": 5
     },
     {
-      "title": "Az Anthropic vezérigazgatója abszurdnak nevezte azokat a vádakat, miszerint az AI átvenné az emberi irányítást",
-      "summary": "Dario Amodei, az Anthropic AI vállalat vezetője visszautasította azokat az állításokat, melyek szerint a mesterséges intelligencia elvenné az emberiség feletti irányítást. Ezzel a mesterséges intelligencia fejlődésének etikai és irányítási kérdéseiről szóló fontos vitába kapcsolódott be.",
+      "title": "Az OpenAI összevonja a ChatGPT és a Work verzióit, korlátozások jöhetnek a sűrű felhasználóknál",
+      "summary": "Az OpenAI bejelentette, hogy összevonja a ChatGPT és a ChatGPT for Work platformjait, ami miatt a gyakori felhasználók hamarabb elérhetik a használati korlátokat. Ez a változás befolyásolhatja a mesterséges intelligencia eszközeinek hozzáférhetőségét és üzleti modelljét.",
       "importance": 4
     },
     {
-      "title": "Az Amazon és a Meta állítólag tárgyalásokat folytat az AI-ügynök, Muse blokádjának feloldásáról",
-      "summary": "Az Amazon és a Meta a hírek szerint egyeztetéseket tart az AI-ügynök, Muse piaci blokádjának megszüntetéséről. Ez a fejlemény jelentős üzleti lépés lehet a mesterséges intelligencia piacán, befolyásolva a versenyt és az innovációt.",
+      "title": "Betörtek az 1Password belső rendszereibe, de az ügyféljelszavak biztonságban vannak",
+      "summary": "Az 1Password jelszókezelő szolgáltatás bejelentette, hogy hackerek behatoltak a belső rendszereikbe, de az ügyfelek jelszavai és adatai biztonságban maradtak. Az eset ismét rávilágít a kiberbiztonság fontosságára és a digitális szolgáltatások sebezhetőségére.",
       "importance": 4
     }
   ],
   "science": [
     {
-      "title": "Hat egymást követő napon is több mint 2 fokkal volt melegebb a Földön az iparosodás előtti átlagnál",
-      "summary": "A Földön hat egymást követő napon is több mint 2 Celsius-fokkal magasabb volt az átlaghőmérséklet az iparosodás előtti szintnél. Ez a kiemelkedő és aggasztó adat jelzi a klímaváltozás súlyosságát és a globális felmelegedés gyorsulását.",
+      "title": "A NASA sikeresen eltérített egy aszteroidát, most megnézhetjük az eredményt",
+      "summary": "Négy évvel ezelőtt a NASA sikeresen eltérített egy aszteroidát a DART küldetés keretében, most pedig publikálták az esemény részletes eredményeit. Ez a tudományos áttörés bizonyítja, hogy az emberiség képes megvédeni magát egy esetleges aszteroida becsapódástól.",
       "importance": 5
     },
     {
-      "title": "Erőteljes HIV vakcina van végre látótávolságon belül a szuper antitesteknek köszönhetően",
-      "summary": "A kutatók áttörést értek el egy hatékony HIV vakcina kifejlesztésében, mely szuper antitestekre alapul. Ez az ígéretes felfedezés reményt ad a HIV elleni küzdelemben és új utakat nyithat a betegség megelőzésében.",
+      "title": "Elfelejthetjük a 1,5 fokos célkitűzést: a Föld hőmérséklete riasztó mértékben emelkedett",
+      "summary": "Az iparosodás előtti átlaghoz képest egy napon 2,24 fokkal volt melegebb a Földön, ami azt jelzi, hogy az 1,5 fokos felmelegedési cél már nem tartható. Ez a riasztó adat rávilágít a klímaváltozás súlyosbodására és az azonnali cselekvés szükségességére.",
       "importance": 5
     },
     {
-      "title": "A dohány növény, nem a cigaretta, segíthet legyőzni a rákot",
-      "summary": "A tudósok felfedezték, hogy a dohány növény bizonyos komponensei, nem pedig a cigaretta formájában, segíthetnek a rák legyőzésében. Ez a kutatás ígéretes irányokat mutat a rákgyógyászatban és a növényi alapú gyógyszerek fejlesztésében.",
-      "importance": 4
+      "title": "Kettős bizonyítékot találtak a legendás Riemann-hipotézisre",
+      "summary": "Matematikusok megdöbbenésére kettős bizonyítékot találtak a legendás Riemann-hipotézisre, ami az egyik legnagyobb megoldatlan probléma a matematikában. Ez az áttörés alapjaiban változtathatja meg a prímszámok megértését.",
+      "importance": 5
     },
     {
-      "title": "Aszteroida célzott ütközésének képei stadion méretű krátert tártak fel, tesztelve a Föld védelmét",
-      "summary": "Egy aszteroida célzott becsapódásának friss képei stadion nagyságú krátert mutattak, ami a bolygóvédelmi technológiák tesztelésének fontos eredménye. Ez a kísérlet kulcsfontosságú az űrbeli fenyegetésekkel szembeni felkészülésben és a Föld biztonságának garantálásában.",
-      "importance": 4
+      "title": "Erőteljes HIV-vakcina van karnyújtásnyira a \"szuper antitesteknek\" köszönhetően",
+      "summary": "A kutatók szerint egy erőteljes HIV-vakcina már karnyújtásnyira van, hála az úgynevezett \"szuper antitesteknek\". Ez a felfedezés hatalmas reményt adhat a HIV elleni harcban és milliók életét mentheti meg a jövőben.",
+      "importance": 5
     }
   ],
   "sports": [
     {
-      "title": "Nyolc év alatt 300 milliárd forint állami és tao-támogatást költött el a hat fővárosi multisportegyesület",
-      "summary": "Az elmúlt nyolc évben hat fővárosi multisportegyesület összesen 300 milliárd forint állami és tao-támogatást kapott. Ez az összeg rávilágít a magyarországi sportfinanszírozás mértékére és a közpénzek elosztására a sportágak között.",
+      "title": "Szoboszlai Dominik a Liverpool csapatkapitánya volt és gólpasszal ünnepelt a BL-ben",
+      "summary": "Szoboszlai Dominik történelmet írt, amikor első magyarként a Liverpool csapatkapitányaként vezette pályára csapatát a Bajnokok Ligájában. A mérkőzésen ráadásul gólpasszt is adott, ezzel is hozzájárulva a győzelemhez és megmutatva vezetői képességeit.",
       "importance": 5
     },
     {
-      "title": "Gordon Ramsay vezetésével indul újra a Top Gear műsor",
-      "summary": "A népszerű autós show, a Top Gear, Gordon Ramsay vezetésével indul újra a televízióban. Az új műsorvezetővel a program friss lendületet kaphat, és érdekes lehet a motorsportok és autók iránt érdeklődők számára.",
-      "importance": 3
+      "title": "A kormány 400 milliárd forintot költött stadionokra a tervezett 70 milliárd helyett",
+      "summary": "Az MLSZ által eredetileg kért 70 milliárd forint helyett a Fidesz-kormány alatt 400 milliárd forintot fordítottak stadionfejlesztésekre. Ez a jelentős túlköltekezés rávilágít a sportinfrastruktúra kiemelt finanszírozására Magyarországon.",
+      "importance": 5
     },
     {
-      "title": "Raheem Sterling felfüggesztett börtönbüntetést kapott veszélyes vezetés és dinitrogén-oxid birtoklása miatt",
-      "summary": "A világhírű labdarúgó, Raheem Sterling felfüggesztett börtönbüntetésre ítélték veszélyes vezetés és dinitrogén-oxid birtoklása miatt. Az ítélet hatással lehet a sportoló karrierjére és nyilvános megítélésére.",
-      "importance": 2
+      "title": "Háromszázmilliárd forint állami támogatást kaptak a fővárosi multisportegyesületek",
+      "summary": "Nyolc év alatt 300 milliárd forint állami és tao-támogatást költött el hat fővárosi multisportegyesület. Ez az összeg rávilágít a sportklubok kiemelt állami támogatására és a magyar sportfinanszírozás mértékére.",
+      "importance": 4
+    },
+    {
+      "title": "Frusztráció Pochettino számára a Manchester Unitednél a kaotikus kezdet után",
+      "summary": "Mauricio Pochettino menedzser számára a Manchester Unitednél töltött idő kaotikus kezdete frusztrációt okoz. Ez a hír rávilágít a klub jelenlegi nehézségeire és a menedzsment kihívásaira a világ egyik legnagyobb futballcsapatánál.",
+      "importance": 4
     }
   ]
 }

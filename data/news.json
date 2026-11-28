@@ -1,83 +1,57 @@
 {
-  "Telex": [
-    {
-      "title": "Betörtek az amerikai légierő felhőjébe, érzékeny adatokat szerezhettek meg hekkerek",
-      "link": "https://telex.hu/techtud/2026/11/27/hekkerek-betores-amerikai-legiero-cloud-one-felho",
-      "summary": "A Reuters szerint a korábban 100 százalékosan biztonságosnak hitt Cloud One-ba törtek be, gyaníthatóan MI segítségével."
-    },
-    {
-      "title": "Koncertezőket akarhattak kirabolni a manchesteri koncerten, ahol ismeretlen anyag került a levegőbe",
-      "link": "https://telex.hu/kulfold/2026/11/27/don-toliver-manchesteri-koncert-evakualas-idegen-anyag-rablas-nyomozas",
-      "summary": "A Co-op Live arénából 12 ezer embert kellett evakuálni vasárnap este."
-    },
-    {
-      "title": "Mindent kimosott az idő a Schadl György végrehajtó-jelöltjeit vizsgáztató minisztériumi főtanácsos emlékezetéből",
-      "link": "https://telex.hu/belfold/2026/11/27/martonovics-bernadett-vegrehajtasokat-ellenorzo-bizottsag-schadl-volner-ugy",
-      "summary": "Martonovics Bernadett semmire nem emlékezett, amikor a Schadl Györggyel folytatott telefonbeszélgetéseiről és SMS-váltásairól kérdezték a parlamenti vizsgálóbizottságban."
-    },
-    {
-      "title": "Szégyentelenül hordták ki a pénzt a közmédiából az új kormány vizsgálata szerint",
-      "link": "https://telex.hu/after/2026/11/27/kozmedia-miniszterium-koltes-audit-lopas-mtva-duna-mediaszolgaltato-m1",
-      "summary": "Milliárdos mutyi közvetítőkocsikkal és bérbe adott eszközparkkal, milliók AI slopra, az MTVA-ból élő időjárás-jelentők, belső jelentés Rogán Antalnak. Ezek estek ki az átvizsgálásból."
-    },
-    {
-      "title": "Orvosi végzettség nélkül csinált ajak- és ráncfeltöltéseket egy makói nő",
-      "link": "https://telex.hu/belfold/2026/11/27/arc-es-ajakfeltoltes-vegzettseg-nelkul-mako-rendroseg-buntetoeljaras",
-      "summary": "A komoly egészségügyi kockázatot jelentő illegális kezelések miatt eljárás indult ellene."
-    },
-    {
-      "title": "Gajdos László országos palagáz-moratóriumért fordult Kapitány Istvánhoz",
-      "link": "https://telex.hu/gazdasag/2026/11/27/gajdos-laszlo-kapitany-istvan-palagaz-moratorium",
-      "summary": "Az élő környezetért felelős miniszter levelet írt az energetikainak, miután konfliktust szült egy repesztéses projekt."
-    },
-    {
-      "title": "Megkapta a névhasználati engedélyt a Budapest Parádé, de a kidolgozott tervekről még nem egyeztettek a fővárossal",
-      "link": "https://telex.hu/after/2026/11/27/budapest-parade-nevhasznalati-engedely-fopolgarmesteri-hivatal-fovaros-szaler-gabor",
-      "summary": "Ez önmagában még nem jelenti azt, hogy a rendezvény biztosan megvalósul. A szervezők szerint már 55-60 cég jelezte, hogy kamiont indítana a parádén."
-    },
-    {
-      "title": "Éjszakára lezárják a Corvin Plazán áthaladó passzázst, csöngetni kell az őrnek, aki átkísér mindenkit",
-      "link": "https://telex.hu/belfold/2026/11/27/corvin-plaza-lezaras-jozsefvaros-indotek-csengo",
-      "summary": "A Józsefváros Újság azt állítja, hogy a hajléktalan embereket csak akkor engedik be, amikor az időjárás ezt indokolja, az üzemeltető szerint megkülönböztetés nélkül mindenkit átkísérnek a passzázson."
-    },
-    {
-      "title": "Feloldották a Magyar hívójelű drónparancsnok, Robert Brovdi beutazási tilalmát",
-      "link": "https://telex.hu/kulfold/2026/11/27/robert-brovdi-aka-magyar-ukran-dronparancsnok-beutazasi-tilalom-feloldasa",
-      "summary": "Szijjártó Péter tavaly nyáron jelentette be a szankciót a Barátság vezetéket ért támadás miatt."
-    },
-    {
-      "title": "Sorra fejezik ki részvétüket a politikusok a mezőkövesdi balesetben meghalt nő hozzátartozóinak",
-      "link": "https://telex.hu/belfold/2026/11/27/mezokovesd-meghalt-no-reagalas",
-      "summary": "Vitézy Dávid közlekedési és beruházási miniszter beszélt a nő édesapjával, kifejezte részvétét saját és a MÁV-csoport nevében is."
-    },
-    {
-      "title": "Idén is mikulássapkával a kezében ment körbe a Fővárosi Közgyűlésben Karácsony Gergely, a képviselők már tudják, ki kinek vesz karácsonyi ajándékot",
-      "link": "https://telex.hu/belfold/2026/11/27/karacsonyi-huzos-jatek-fovarosi-kozgyules-kutyapart-kovacs-gergely-karacsony-gergely",
-      "summary": "2024 és 2025 után idén is karácsonyi húzós játékot játszottak a Fővárosi Közgyűlés képviselői nem sokkal azután, hogy elfogadták a kutyapártos Kovács Gergely erről szóló javaslatát."
-    },
-    {
-      "title": "Megszavazta a közgyűlés: 65 dolgozót küldhetnek el a Főpolgármesteri Hivataltól",
-      "link": "https://telex.hu/belfold/2026/11/27/fovarosi-kozgyules-fopolgarmesteri-hivatal-kirugasok-szavazas",
-      "summary": "A fővárosi képviselők többsége támogatta Karácsony Gergely javaslatát, amit a kormánnyal kötött megegyezés miatt nyújtott be. Idén is lesz karácsonyi húzós játék a Városházán."
-    },
-    {
-      "title": "Meghalt a mezőkövesdi vonatbaleset sérültje",
-      "link": "https://telex.hu/belfold/2026/11/27/meghalt-a-no-akit-mezokovesden-elsodort-a-vonat",
-      "summary": "A borsodi megyei kórház tette közzé a halálhírt, megköszönve mindenkinek a véradást. Az áldozatot egy elinduló InterCity rántotta magával az elsődleges információk szerint, eközben sérült meg életveszélyesen. Az ügyben zajlanak a vizsgálatok."
-    },
-    {
-      "title": "„Nem volt sírógörcs. Nem volt jelenet. Nem volt színjáték” – mondta a tiszás képviselő, akit videókkal támadott be a Fidesz",
-      "link": "https://telex.hu/belfold/2026/11/27/goroghne-bocskai-eva-elsirta-magat-a-parlamentben-bizottsagi-ules-radics-bohar",
-      "summary": "Göröghné Bocskai Éva az ellenzék szerint nagyon rosszul vezetett le egy bizottsági ülést, de a Tisza-frakció és Magyar Péter is a védelmébe vette."
-    },
-    {
-      "title": "Újabb letartóztatás az NKA-ügyben, egy választókerületi munkatársat vittek be",
-      "link": "https://telex.hu/belfold/2026/11/27/nka-letartoztatas-monor-valaszkeruleti-munkatars",
-      "summary": "Az ügyészség állítja: a több tízmillió forintos támogatást a jóváhagyott céltól eltérően használták fel."
-    }
-  ],
+  "Telex": [],
   "Portfolio": [],
   "444": [
+    {
+      "title": "Egy lépéssel távolabb a bóvlitól a magyar államadósság: az S&amp;P javított a még Nagy Márton idején adott negatív kilátáson",
+      "link": "https://444.hu/2026/11/27/hitelminosito-sp-szuveren-allamadossag-orszagjelentes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Újabb hitelminősítő javította a leminősítést valószínűsítő negatívról stabilra az adósbesorolás kilátásait. Az S&amp;P szerint a kormány 2028-tól veheti fontolóra az ágazati különadók kivezetését."
+    },
+    {
+      "title": "Belgiumban leállították a Google egyik adatközpontjának építését",
+      "link": "https://444.hu/2026/11/27/belgiumban-leallitottak-a-google-egyik-adatkozpontjanak-epiteset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A techvállalat eltért az építési engedélytől."
+    },
+    {
+      "title": "A Földközi-tengeren is zajlik az orosz-ukrán háború, egy orosz katonai hajókonvoj inkább vissza is fordult, nehogy elsüllyesszék az ukrán drónok",
+      "link": "https://444.hu/2026/11/27/a-foldkozi-tengeren-is-zajlik-az-orosz-ukran-haboru-egy-orosz-katonai-hajokonvoj-inkabb-vissza-is-fordult-nehogy-elsullyesszek-az-ukran-dronok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Katonai járműveket szállítottak volna a Wagner-csoport utódjának, az Afrika-hadtestnek."
+    },
+    {
+      "title": "A Tisza frakcióvezetője lett a Városliget Zrt. igazgatósági elnöke",
+      "link": "https://444.hu/2026/11/27/a-tisza-frakciovezetoje-lett-varosliget-zrt-igazgatosagi-elnoke?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Tarr Zoltán nevezte ki."
+    },
+    {
+      "title": "Baka András kinevezte a legfőbb ügyész helyettesét",
+      "link": "https://444.hu/2026/11/27/baka-andras-kinevezte-a-legfobb-ugyesz-helyetteset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Jagusztin Tamás korábban közjogi főügyészhelyettes volt a Pest Megyei Főügyészségen."
+    },
+    {
+      "title": "Itt érzem magam rottyon",
+      "link": "https://444.hu/jo/2026/11/27/itt-erzem-magam-rottyon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Mi lenne, ha a NER-es oligarchák annál is rosszabb emberek volnának, ahogy elképzeljük őket? Kiderül Cserhalmi György és Alföldi Róbert temus okoshorrorjából, A pokol élővilágából, az év legnagyobb magyar filmes csalódásából."
+    },
+    {
+      "title": "Elutasította a kormány Szombathely azbesztmentesítési pályázatát",
+      "link": "https://444.hu/2026/11/27/elutasitotta-a-kormany-szombathely-azbesztmentesitesi-palyazatat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Zalaegerszeg, Kőszeg és Szentgotthárd is elesett a támogatástól. A polgármesterek szerint rossz volt a kiírás."
+    },
+    {
+      "title": "Vizsgákat intézhettek Schadl kérésére, de a parlamenti bizottság előtt azt mondták, semmire sem emlékeznek",
+      "link": "https://444.hu/2026/11/27/vizsgakat-intezhettek-schadl-keresere-de-a-parlamenti-bizottsag-elott-azt-mondtak-semmire-sem-emlekeznek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "Olyan igazságügyi minisztériumi dolgozókat is meghallgattak a végrehajtási vizsgálóbizottságban, akik üzenetváltásai szerepelnek a Völner–Schadl-ügy nyomozati irataiban."
+    },
+    {
+      "title": "Nincs többé kitiltva a Magyar hívójelű ukrán drónparancsnok Magyarországról, akit Szijjártó Péter rakott feketelistára",
+      "link": "https://444.hu/2026/11/27/nincs-tobbe-kitiltva-a-magyar-hivojelu-ukran-dronparancsnok-magyarorszagrol-akit-szijjarto-peter-rakott-feketelistara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A magyar titkosszolgálatok mégsem tartják veszélyesnek."
+    },
+    {
+      "title": "Feltörték az amerikai légierő informatikai rendszerét",
+      "link": "https://444.hu/2026/11/27/feltortek-az-amerikai-legiero-informatikai-rendszeret?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+      "summary": "A kibertámadás felfedezése számos fennakadást okozott."
+    },
     {
       "title": "Gajdos László palagáz-kitermelési moratóriumot javasolt",
       "link": "https://444.hu/2026/11/27/gajdos-laszlo-palagaz-kitermelesi-moratoriumot-javasolt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -102,59 +76,74 @@
       "title": "A KDNP 15 pontban kéri a gyermekvédelmi törvény egyes részeinek megsemmisítését az Alkotmánybíróságtól",
       "link": "https://444.hu/2026/11/27/a-kdnp-15-pontban-keri-a-gyermekvedelmi-torveny-egyes-reszeinek-megsemmisiteset-az-alkotmanybirosagtol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
       "summary": "A törvényt a tiszás kétharmad nemrég módosította, akkor a Fidesz-KDNP és a Mi Hazánk nemmel szavazott."
-    },
-    {
-      "title": "Tizenegy ember ismerte be a bűnösségét a parkfenntartási maffia ügyében",
-      "link": "https://444.hu/2026/11/27/tizenegy-ember-ismerte-be-a-bunosseget-a-parkfenntartasi-maffia-ugyeben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Bűnszervezetet működtettek a kerületi megbízások megszerzésére és a pénz kiszivattyúzására."
-    },
-    {
-      "title": "Alekszej Navalnij özvegye levelet írt Magyar Péternek",
-      "link": "https://444.hu/2026/11/27/alekszej-navalnij-ozvegye-levelet-irt-magyar-peternek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Egy magyar vétó feloldását kéri, hogy az EU szankcionálhassa az orosz hadiipart felügyelő miniszterelnök-helyettest."
-    },
-    {
-      "title": "A KDNP-s Nacsa Lőrinc sajnálja a kigúnyolt tiszás képviselőt",
-      "link": "https://444.hu/2026/11/27/a-kdnp-kepviseloje-sajnalja-a-kigunyolt-kepviselot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Szerint a képviselőknek nem kellene egymáson nevetniük."
-    },
-    {
-      "title": "Meghalt a mezőkövesdi vonatbaleset sérültje",
-      "link": "https://444.hu/2026/11/27/meghalt-a-mezokovesdi-vonatbaleset-serultje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kórház közleményében azt írta, a rendelkezésre álló terápiás lehetőségek teljes körű alkalmazása ellenére nem sikerült megmenteni a nő életét. Az ügyben büntetőeljárás indult.​"
-    },
-    {
-      "title": "Flexszel ment neki a helyi tiszás képviselő és Siófok polgármestere a Balaton-parti sétány szállodasori szakaszát elzáró kerítésnek",
-      "link": "https://444.hu/2026/11/27/flexszel-ment-neki-a-helyi-tiszas-kepviselo-es-siofok-polgarmestere-a-balaton-parti-setany-szallodasori-szakaszat-elzaro-keritesnek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kerítés jogszerűségéről évek óta vita van a siófoki szállodák és az önkormányzat között, ennek most pontot tettek a végére Csatári Ernő tiszás egyéni képviselő szerint."
-    },
-    {
-      "title": "Fideszes gúnyolódás után elsírta magát egy tiszás képviselő az ülésteremben, a frakció kiáll mellette, Magyar videóban reagált",
-      "link": "https://444.hu/2026/11/27/fideszes-gunyolodas-utan-elsirta-magat-egy-tiszas-kepviselo-az-ulesteremben-a-frakcio-kiall-mellette?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Bohár Dániel is posztolt Göröghné Bocskai Éváról, azt írta, „azok a képviselők nem sírnak, akiket Magyar Péter órákig aláz a parlamentben”. A képviselő elismerte, hogy hibázik, és hogy néha elérzékenyül, de szerinte ettől még nem alkalmatlan."
-    },
-    {
-      "title": "Meztelenül tört-zúzott egy bekristályozott férfi Mogyoródon",
-      "link": "https://444.hu/2026/11/27/meztelenul-tort-zuzott-egy-bekristalyozott-ferfi-mogyorodon?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Betört egy telephelyre, és mindent szétvert, amit csak tudott."
-    },
-    {
-      "title": "Nyugtatóra ivott, aztán robbantással fenyegetőzött Orbán Viktor Facebook-oldalán",
-      "link": "https://444.hu/2026/11/27/nyugtatora-ivott-aztan-robbantassal-fenyegetozott-orban-viktor-facebook-oldalan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A kommentelőt terrorcselekménnyel fenyegetés miatt ítélte el a bíróság."
-    },
-    {
-      "title": "Gisèle Pelicot a 444-nek: Tervezem meglátogatni Pelicot urat a börtönben",
-      "link": "https://444.hu/2026/11/27/gisele-pelicot-a-444-nek-tervezem-meglatogatni-pelicot-urat-a-bortonben?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "Budapestre látogatott és nőjogi aktivistákkal találkozott Gisèle Pelicot, akit a volt férje tíz éven keresztül bedrogozott, majd több férfival együtt megerőszakolt. Pelicot többek közt arról mesélt, hogy hogyan lehet egy ilyen bántalmazást túlélni, és hogy mennyit számít a női összefogás."
-    },
-    {
-      "title": "Lelkes, csillogó tekintetű fiatalemberként emlékeztek Schadlra a végrehajtási bizottság ülésén",
-      "link": "https://444.hu/2026/11/27/voltak-vegrehajtok-akik-a-tizes-evekben-segitettek-a-reformban-koztuk-volt-egy-csillogo-tekintetu-fiatalember-ot-schadl-gyorgynek-hivtak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-      "summary": "A végrehajtási vizsgálóbizottság előtt beszélt kormánybiztos, akit 2014-ben bíztak meg a Végrehajtói Kamara ellenőrzésével, és államtitkár, aki ott volt az azt követő átalakítás idején is."
     }
   ],
   "HVG": [
+    {
+      "title": "A Tisza második hitelminősítése: Magyarország megúszta a bóvlit az S&P-nél",
+      "link": "https://hvg.hu/gazdasag/20261127_s-p-2026-november-minosites-hitelminosites-negativ-stabil-bovli-ertekeles-ebx",
+      "summary": "Magyarország adósbesorolása maradt egy szinttel a befektetésre nem ajánlott, bóvli kategóra fölött, de az S&amp;P stabilra javította a kilátást a korábbi leminősítésre utaló negatívról. Ezzel a Moody's után az S&amp;P is pozitívan értékeli a Tisza-kormány gazdaságpolitikáját."
+    },
+    {
+      "title": "A Tisza fővárosi frakciójának vezetője lett a Városliget Zrt. igazgatóságának új elnöke",
+      "link": "https://hvg.hu/itthon/20261127_varosliget-zrt-tisza-part-orban-arpad-istvan",
+      "summary": "Orbán Árpád november elsejétől tölti be ezt a posztot."
+    },
+    {
+      "title": "Schäfer András: Orbán Viktor tett a magyar futballért, de a modern focit már nem érti",
+      "link": "https://hvg.hu/sport/20261127_schafer-andras-orban-viktor-politika-magyar-foci-sport-partizan",
+      "summary": "A Union Berlin játékosa a Partizánnak adott interjújában elmondta, hogy tökös húzásnak tartotta azt, amikor Gulácsi Péter kiállt a család az család kampány mellett."
+    },
+    {
+      "title": "Tizenkét éve találtak doppingszereket a vérükben, csak most vették el négy orosz evezős eredményeit",
+      "link": "https://hvg.hu/vilag/20261127_tizenket-eve-talaltak-doppingszereket-a-verukben-csak-most-vettek-el-negy-orosz-evezos-eredmenyeit",
+      "summary": "A sportolók már évekkel korábban visszavonultak a versenyzéstől."
+    },
+    {
+      "title": "Baka András kinevezte a legfőbb ügyész helyettesét",
+      "link": "https://hvg.hu/itthon/20261127_baka-andras-kinevezte-a-legfobb-ugyesz-helyetteset",
+      "summary": "Dr. Jagusztin Tamás december 7-től tölti be a tisztséget."
+    },
+    {
+      "title": "415 lóerős Mercedes G-osztályból építettek rendőrautót",
+      "link": "https://hvg.hu/cegauto/20261127_415-loeros-mercedes-g-osztalybol-epitettek-rendorautot",
+      "summary": "Az elmúlt két évtizedben már több mint húsz különleges, rendőrségi megjelenésű tuningautót építettek."
+    },
+    {
+      "title": "Élő galambokból csinált távirányítós biodrónt egy orosz startup, 100 kilométerről is irányíthatók a kamerás madarak",
+      "link": "https://hvg.hu/tudomany/20261127_orosz-startup-neiry-galambok-biodronok-repules-megfigyeles",
+      "summary": "Különös, és állatvédelmileg megkérdőjelezhető módszert dolgozott ki egy orosz startup: agyimplantátumokkal tették irányíthatóvá a galambokat, amelyek oda is bemehetnek, ahová egy drón már nem képes."
+    },
+    {
+      "title": "RTL: A Nemzeti Pedagógus Kar elnöke a sajtóból tudta meg, hogy idén megszűnhet a szervezet",
+      "link": "https://hvg.hu/itthon/20261127_nemzeti-pedagogus-kar-megszunes-torvenyjavaslat",
+      "summary": "A Pedagógusok Demokratikus Szakszervezete ugyan nemrég tárgyalt az oktatási miniszterrel, de őket is meglepte a vonatkozó törvényjavaslat."
+    },
+    {
+      "title": "„Anyám halála után mélyre ástam magamban, és mit találtam? A lehető leghülyébb poént” – interjú Louis C.K.-vel",
+      "link": "https://hvg.hu/360/20261127_hvg-louis-ck-amerikai-komikus-magyar-gyokerek-me-too",
+      "summary": "Amerika első számú komikusának számított, egészen a #metoo botrányig. Louis C.K.-t kérdeztük első regényéről, nagyapja budapesti megpróbáltatásairól és egy disznó anyaviccről is."
+    },
+    {
+      "title": "Az orosz különleges műveleti erők 87 tagja halt meg a háború kitörése óta, zömében tisztek",
+      "link": "https://hvg.hu/vilag/20261127_orosz-kulonleges-erok-halalozas-statisztika",
+      "summary": "A többek között szabotázsra, felderítésre és rajtaütésre kiképzett elit egység a krémek krémje az orosz haderőben, amely papíron az orosz vezérkar irányítása alatt működik, de valójában Vlagyimir Putyin személyesen rendelkezik fölöttük."
+    },
+    {
+      "title": "Jelentősen növeli a demencia kockázatát a magány",
+      "link": "https://hvg.hu/tudomany/20261127_magany-demencia-agy-mentalis-egeszseg",
+      "summary": "Francia kutatók több évtizeden keresztül rögzített adatokat elemeztek, az eredmények egyértelműek."
+    },
+    {
+      "title": "Alkotmánybírósághoz fordul a KDNP a gyermekvédelmi törvény miatt, egyes passzusok megsemmisítését szeretnék",
+      "link": "https://hvg.hu/itthon/20261127_alkotmanybirosaghoz-kdnp-gyermekvedelmi-torveny",
+      "summary": "Rétvári Bence jelentette be, hogy a pártja 15 pontból álló beadvánnyal torpedózná meg a törvényt, amelynek nemrég fogadták el a módosítását."
+    },
+    {
+      "title": "Pont a mentesítésre is pályázók buktak el a kormány azbesztmentesítési pályázatán",
+      "link": "https://hvg.hu/gazdasag/20261127_azbesztszennyezes-palyazat-elutasitas-zalaegerszeg-kornyezetszennyezes-egeszsegugyi-kockazat",
+      "summary": "Elutasították azoknak településeknek az azbesztpályázatát, amelyek az anyag elszállítására is kértek pénzt, és pont azért nem kapják azt meg, mert nem csak lefednék a kockázatos anyagot. A következő pályázatot újragondolják, kérdés, hogyan."
+    },
     {
       "title": "Minden levelét kilophatja a Gmailből ez a veszélyes Chrome-bővítmény, törölje azonnal",
       "link": "https://hvg.hu/tudomany/20261127_google-chrome-veszelyes-bovitmeny-gmail-emailek-ellopasa",
@@ -164,78 +153,58 @@
       "title": "Gajdos László levelet írt Kapitány Istvánnak, hogy országos moratóriumot javasoljon a palagáz kitermelésére és kutatására",
       "link": "https://hvg.hu/gazdasag/20261127_gajdos-laszlo-orszagos-moratorium-palagaz-kitermeles-kutatas-kapitany-istvan-level",
       "summary": "Az élő környezetért felelős miniszter azt üzente a gazdasági és energetikai miniszternek, hogy kezdjenek egyeztetést a hazai palagáz-kitermelési gyakorlat felülvizsgálatáról. A Magyar Természetvédők Szövetsége és a Greenpeace Magyarország is üdvözölte Gajdos lépését."
-    },
-    {
-      "title": "Feloldották Robert „Magyar” Brovdi magyarországi beutazási tilalmát",
-      "link": "https://hvg.hu/itthon/20261127_robert-brovdi-beutazasi-tartozkodasi-tilalom-orszagos-idegenrendeszeti-foigazgatosag",
-      "summary": "A döntés állítólag még azelőtt született, hogy Magyar Péter és Volodimir Zelenszkij találkozott volna Kárpátalján."
-    },
-    {
-      "title": "Fél év helyett fél nap: magyar nagyágyú az új gyógyszerek AI-alapú fejlesztésében",
-      "link": "https://hvg.hu/360/20261127_ai8-turbine-gyogyszerfejlesztes-szalay-kristof-interju",
-      "summary": "A mesterséges intelligencia használata dollár százmilliókkal csökkentheti az új gyógyszerek kifejlesztésének költségeit – állítja a világcégek ez irányú kutatásait segítő Turbine fejlesztési igazgatója. A magyar biotechcég egyik alapítóját arról is kérdeztük, mivel táplálják az algoritmusukat, nem tartanak-e attól, hogy hallucinál az AI, és mit jelent esetükben a gyorsaság."
-    },
-    {
-      "title": "Rákay Philip este hatkor diplomata-útlevelet kért Szijjártótól, másnap már utazhatott is vele",
-      "link": "https://hvg.hu/itthon/20261127_rakay-philip-diplomata-utlevel-szijjarto-peter",
-      "summary": "A NER-közeli producer arra hivatkozott, hogy üzleti tevékenysége „nemzetgazdasági érdeknek” tekinthető. Orbán Anita érvénytelenné nyilvánította Rákay Philip diplomata-útlevelét."
-    },
-    {
-      "title": "6 méter magas akkumulátort épített Kína, az adatközpontokban dolgozhat",
-      "link": "https://hvg.hu/tudomany/20261127_kina-akkumulator-eve-energy-mesterseges-intelligencia-adatkozpont",
-      "summary": "5 MWh tárolókapacitással rendelkezik az az új kínai akkumulátor, ami biztosíthatja a mesterséges intelligencia folyamatos működését."
-    },
-    {
-      "title": "Az Alkotmánybíróság elé kerül a tarvágás és a védett területeken folytatott bányászat ügye",
-      "link": "https://hvg.hu/gazdasag/20261127_alkotmanybirosag-ombudsman-natura-2000-tarvagas",
-      "summary": "Az alapvető jogok biztosa erős késéssel ugyan, de az Alkotmánybírósághoz fordult a Natura 2000 védett területeken engedélyezhető szénhidrogénbányászat és az erdők tarvágása miatt. Pontosabban most továbbította a jövő nemzedékeket védő helyettesének javaslatait. Hogy az Ab mikor tűzi ezeket napirendre, azt nem lehet tudni."
-    },
-    {
-      "title": "Nyugtatóra ivott, majd bombatámadással fenyegetőzött Orbán Viktor posztja alatt, jogerősen elítélték",
-      "link": "https://hvg.hu/itthon/20261127_nyugtatora-ivott-bombatamadassal-fenyegetozott-orban-viktor-posztja-alatt-jogerosen-itelet",
-      "summary": "A férfit terrorcselekménnyel fenyegetésért 1 év börtönbüntetésre ítélték, két év próbaidőre felfüggesztve."
-    },
-    {
-      "title": "Milliárdos hűtlen kezelés és pénzmosás – úgy tűnik, mégis lesz felelősségre vonás a volt cserkészvezetők Feneketlen-tavi ingatlanmutyijában",
-      "link": "https://hvg.hu/gazdasag/20261127_hutlen-kezeles-penzmosas-gyanuja-ingatlanmutyi-feneketlen-to-emi-nonprofit-kft-cserkesszovetseg",
-      "summary": "Lezárt a rendőrség egy különösen jelentős vagyoni hátrányt okozó hűtlen kezelés és pénzmosás ügyében zajlott nyomozást. Bár sem cégeket, sem embereket nem nevesítettek, több jel is arra utal, hogy arról a Feneketlen-tó közelében történt milliárdos ingatlanmutyiról lehet szó, ami miatt még Lázár János is odacsapott, de hét éve még nem találtak bűncselekményt."
-    },
-    {
-      "title": "A határ a csillagos ég? Éles bírálatot kapott a SpaceX egymillió műholdas terve",
-      "link": "https://hvg.hu/tudomany/20261127_spacex-starmind-muholdak-urben-adatkozpont-eso-kovetkezmenyek",
-      "summary": "Az űrbe költöztetné az adatközpontokat Elon Musk cége, a csillagászok szerint ez komoly zűrt okozhat."
-    },
-    {
-      "title": "Az egyre több szifiliszfertőzés miatt szűrőprogramot indít a népegészségügyi intézet",
-      "link": "https://hvg.hu/elet/20261127_szifilisz-szuroprogram-nepegeszsegugyi-intezet",
-      "summary": "A fertőzés már több újszülött életét követelte Magyarországon."
-    },
-    {
-      "title": "Vegyészprofesszort jelöl államfőnek a szerb választást megnyerő Egyetemista Lista",
-      "link": "https://hvg.hu/vilag/20261127_szerbia-koztarsasagielnok-valasztas-jelolt-egyetemista-lista",
-      "summary": "Radomir Saicic megígérte, hogy ha megválasztják, nem fog túllépni a hatáskörén."
-    },
-    {
-      "title": "„A meztelen nős naptár, az utcai füttyögés és a nőgyilkosság ugyanazon a skálán helyezkedik el” – húsz meggyilkolt nőre emlékeztek a Néma Tanúk Felvonulásán",
-      "link": "https://hvg.hu/elet/20261127_nane-patent-nok-elleni-eroszak-tuntetes-beszamolo",
-      "summary": "Bár az isztambuli egyezmény ratifikálását „a magyarországi nőjogi mozgalom egyik legnagyobb sikerének” tartanák, az elmúlt 12 év közel 300 áldozatát nem felejtik, és a jövőbe is óvatos optimizmussal tekintenek a magyar nőjogi szervezetek."
-    },
-    {
-      "title": "Nem hitték, de utánajártak, és azt mondják, tényleg Szent László csontját találták meg egy vidéki plébánián",
-      "link": "https://hvg.hu/360/20261127_hvg-szent-laszlo-ereklye-mezokovesd-archeogenetika",
-      "summary": "A mezőkövesdi plébánia páncélszekrényéből került elő a szent király, I. László sípcsontjának egy darabja. Bár csak egy latin nyelvű felirat volt rajta, genetikusok és történészek szerint bizonyosra vehető, hogy hiteles ereklyéről van szó."
-    },
-    {
-      "title": "Nem elég tudni, melyik hulladék melyik kukába kerül, a körforgásos gazdaság ennél sokkal többről szól",
-      "link": "https://hvg.hu/360/20261127_fenntarthato-fejlodes-2027-freek-van-eijk-holland-circular-hotspot-korforgasos-gazdasag-interju",
-      "summary": "Ha kevesebb erőforrásból több értéket tudunk teremteni, a körforgásosság termelékenységgé válik. És amint az üzleti világ is így tekint rá, valódi esélyünk nyílik arra, hogy széles körben elterjedjen – mondja Freek van Eijk, a Holland Circular Hotspot igazgatója. Interjú."
     }
   ],
   "BBC": [
     {
-      "title": "Watch: What has happened to online pension and benefits services?",
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Department for Work and Pensions says some of its services were taken offline as a precaution."
+    },
+    {
+      "title": "Watch: What has happened to DWP online services?",
       "link": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
       "summary": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department."
+    },
+    {
+      "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words."
+    },
+    {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
+    },
+    {
+      "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world."
+    },
+    {
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
+    },
+    {
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "link": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows."
+    },
+    {
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
+    },
+    {
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
+    },
+    {
+      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "link": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name."
     },
     {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -243,69 +212,24 @@
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
     },
     {
-      "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
-      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
-    },
-    {
-      "title": "Police look for more than 100 gig-goers to help Co-op Live probe",
-      "link": "https://www.bbc.co.uk/news/articles/c8wy5vnpggnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rap fans say people were \"choking\" and \"coughing up blood\" towards the end of Don Toliver's gig."
-    },
-    {
-      "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-      "link": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
-      "summary": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year."
-    },
-    {
-      "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-      "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck."
-    },
-    {
-      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-      "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible."
-    },
-    {
-      "title": "Catherine joins cancer support group in new documentary",
-      "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis."
-    },
-    {
-      "title": "'We have no interest in hearing from Huw Edwards', Downing Street says",
-      "link": "https://www.bbc.co.uk/news/articles/c60mdl2y2w3do?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a backlash against new interviews with the disgraced former BBC News presenter."
-    },
-    {
-      "title": "Body found in woodland confirmed as missing Kelsey Hunter",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2e315rz00o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kelsey Hunter's body was found in a wooded area near the village of Springholm where she lived."
-    },
-    {
       "title": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
       "link": "https://www.bbc.co.uk/news/articles/c65y1k8qx7q4o?at_medium=RSS&at_campaign=rss",
       "summary": "The co-hosts discussed tensions that flared between Mariella Frostrup and AJ Odudu on the show."
     },
     {
-      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
-      "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
+      "title": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+      "link": "https://www.bbc.co.uk/news/articles/ck792l9q07xro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Princess of Wales opening up on her \"cancer battle\" and a cyber incident hitting the pensions department lead Saturday's papers."
     },
     {
-      "title": "Is it a cold, flu or Covid? How to tell the difference",
-      "link": "https://www.bbc.co.uk/news/articles/cly1rryv2ryo?at_medium=RSS&at_campaign=rss",
-      "summary": "How to tell if you have cold, flu or Covid and how to look after yourself."
+      "title": "Should I get a flu vaccine now?",
+      "link": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?"
     },
     {
-      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry."
-    },
-    {
-      "title": "What we know about Department for Work and Pensions 'cyber incident'",
-      "link": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications."
+      "title": "Chicken Shop Date: The perfect end or a disappointing send-off?",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74123x2jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amelia Dimoldenberg has called time on her hit YouTube series Chicken Shop Date after more than a decade."
     }
   ],
   "TechCrunch": [
@@ -402,6 +326,21 @@
       "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03801-w\">doi:10.1038/d41586-026-03801-w</a></p>In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel."
     },
     {
+      "title": "Audio long read: The world’s most precious brain samples — and what they teach us about being human",
+      "link": "https://www.nature.com/articles/d41586-026-03900-8",
+      "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03900-8\">doi:10.1038/d41586-026-03900-8</a></p>Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment."
+    },
+    {
+      "title": "Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat",
+      "link": "https://www.nature.com/articles/s41586-026-11411-9",
+      "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11411-9\">doi:10.1038/s41586-026-11411-9</a></p>Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat"
+    },
+    {
+      "title": "Want your research cited in patents? Publishing open access increases your chances",
+      "link": "https://www.nature.com/articles/d41586-026-03754-0",
+      "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03754-0\">doi:10.1038/d41586-026-03754-0</a></p>Studies are more likely to be cited in patents if they are freely available — legitimately or otherwise — researchers have found."
+    },
+    {
       "title": "Postcards from your graves",
       "link": "https://www.nature.com/articles/d41586-026-03523-z",
       "summary": "<p>Nature, Published online: 27 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03523-z\">doi:10.1038/d41586-026-03523-z</a></p>A disastrous outcome."
@@ -445,21 +384,6 @@
       "title": "The leading cities in the world for high-quality research in 2025",
       "link": "https://www.nature.com/articles/d41586-026-03468-3",
       "summary": "<p>Nature, Published online: 25 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03468-3\">doi:10.1038/d41586-026-03468-3</a></p>A decade of data on the top-performing science cities in the Nature Index."
-    },
-    {
-      "title": "Dual proofs of legendary Riemann hypothesis stun mathematicians",
-      "link": "https://www.nature.com/articles/d41586-026-03853-y",
-      "summary": "<p>Nature, Published online: 25 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03853-y\">doi:10.1038/d41586-026-03853-y</a></p>Experts say the AI and human-written proofs will need careful checking — plus, the fallout from the COP31 climate conference."
-    },
-    {
-      "title": "An in situ redox-converted molecule for all-perovskite tandem solar cells",
-      "link": "https://www.nature.com/articles/s41586-026-11465-9",
-      "summary": "<p>Nature, Published online: 25 November 2026; <a href=\"https://www.nature.com/articles/s41586-026-11465-9\">doi:10.1038/s41586-026-11465-9</a></p>An in situ redox-converted molecule for all-perovskite tandem solar cells"
-    },
-    {
-      "title": "How Singapore has turned a nation into a smart-city testing ground",
-      "link": "https://www.nature.com/articles/d41586-026-03472-7",
-      "summary": "<p>Nature, Published online: 25 November 2026; <a href=\"https://www.nature.com/articles/d41586-026-03472-7\">doi:10.1038/d41586-026-03472-7</a></p>The city-state’s compact size and centralized governance allow digital infrastructure to be introduced with unusual speed and consistency."
     }
   ]
 }
